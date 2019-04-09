@@ -1,0 +1,70 @@
+{
+  "id": 1327307447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.48792,36.69343,128.48792,36.69343",
+    "geom:latitude":36.69343,
+    "geom:longitude":128.48792,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Galmeori",
+    "gn:country_code":"KR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254965,
+    "gn:latitude":36.69343,
+    "gn:longitude":128.48792,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Galmeori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uba38\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254965
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"77febe7fab54b5bc9233a4ffe2f9a2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1327307447,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327307447,
+    "wof:lastmodified":1537659277,
+    "wof:name":"Galmeori",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.48792,
+    36.69343,
+    128.48792,
+    36.69343
+],
+  "geometry": {"coordinates":[128.48792,36.69343],"type":"Point"}
+}

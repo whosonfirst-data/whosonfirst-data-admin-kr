@@ -1,0 +1,67 @@
+{
+  "id": 1209577109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.48333,34.8,128.48333,34.8",
+    "geom:latitude":34.8,
+    "geom:longitude":128.48333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yonho",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832235,
+    "gn:latitude":34.8,
+    "gn:longitude":128.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u014fnho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kop\u2019o-dong",
+        "Y\u014fmho-dong",
+        "Y\u014fnho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832235
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"def39f132ce6da74c342e76a476b8a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209577109
+        }
+    ],
+    "wof:id":1209577109,
+    "wof:lastmodified":1537655968,
+    "wof:name":"Yonho",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.48333,
+    34.8,
+    128.48333,
+    34.8
+],
+  "geometry": {"coordinates":[128.48333,34.8],"type":"Point"}
+}

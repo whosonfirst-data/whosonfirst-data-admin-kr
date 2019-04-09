@@ -1,0 +1,71 @@
+{
+  "id": 1343941157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.13174,36.01953,129.13174,36.01953",
+    "geom:latitude":36.01953,
+    "geom:longitude":129.13174,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Song-gol",
+    "gn:country_code":"KR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878838,
+    "gn:latitude":36.01953,
+    "gn:longitude":129.13174,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fng-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc131\uace8",
+        "S\u014fng-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878838
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f9992aa2954e16dc1ef0dbc9041e8cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475319,
+            "locality_id":1343941157,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343941157,
+    "wof:lastmodified":1537658207,
+    "wof:name":"Song-gol",
+    "wof:parent_id":890475319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.13173999999998,
+    36.01953,
+    129.13173999999998,
+    36.01953
+],
+  "geometry": {"coordinates":[129.13173999999998,36.01953],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293710947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4802,37.2142,128.4802,37.2142",
+    "geom:latitude":37.2142,
+    "geom:longitude":128.4802,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Okkorum",
+    "gn:country_code":"KR",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795634,
+    "gn:latitude":37.2142,
+    "gn:longitude":128.4802,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Okkor\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc637\uace0\ub984"
+    ],
+    "name:kor_x_variant":[
+        "Okkor\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795634
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8ede05aa828062c61874dcea764a0e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1293710947,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293710947,
+    "wof:lastmodified":1537657533,
+    "wof:name":"Okkorum",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4802,
+    37.2142,
+    128.4802,
+    37.2142
+],
+  "geometry": {"coordinates":[128.4802,37.2142],"type":"Point"}
+}

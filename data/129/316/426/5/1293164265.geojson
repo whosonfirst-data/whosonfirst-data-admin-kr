@@ -1,0 +1,75 @@
+{
+  "id": 1293164265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87584,36.67935,126.87584,36.67935",
+    "geom:latitude":36.67935,
+    "geom:longitude":126.87584,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Seorumi",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811175,
+    "gn:latitude":36.67935,
+    "gn:longitude":126.87584,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Seorumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\ub8e8\ubbf8"
+    ],
+    "name:und_x_variant":[
+        "\uc2dc\ub8e8\ubbf8",
+        "Sirumi",
+        "Seorumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811175
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5b0972fcd9a35f0339c392bce0e36e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1293164265,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293164265,
+    "wof:lastmodified":1537657933,
+    "wof:name":"Seorumi",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87584,
+    36.67935,
+    126.87584,
+    36.67935
+],
+  "geometry": {"coordinates":[126.87584,36.67935],"type":"Point"}
+}

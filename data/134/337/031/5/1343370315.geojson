@@ -1,0 +1,71 @@
+{
+  "id": 1343370315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.00581,35.83159,127.00581,35.83159",
+    "geom:latitude":35.83159,
+    "geom:longitude":127.00581,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wonimun",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878015,
+    "gn:latitude":35.83159,
+    "gn:longitude":127.00581,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014fnimun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uc774\ubb38",
+        "W\u014fnimun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878015
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"25651eaff4a5124414944a6845d1b03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474683,
+            "locality_id":1343370315,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1343370315,
+    "wof:lastmodified":1537658182,
+    "wof:name":"Wonimun",
+    "wof:parent_id":890474683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.00581,
+    35.83159000000001,
+    127.00581,
+    35.83159000000001
+],
+  "geometry": {"coordinates":[127.00581,35.83159000000001],"type":"Point"}
+}

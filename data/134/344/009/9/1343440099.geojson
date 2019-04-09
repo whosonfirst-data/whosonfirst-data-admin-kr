@@ -1,0 +1,75 @@
+{
+  "id": 1343440099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32316,37.09298,127.32316,37.09298",
+    "geom:latitude":37.09298,
+    "geom:longitude":127.32316,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ans\u014fng-si",
+    "gn:asciiname":"Dongyangdong",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398801,
+    "gn:latitude":37.09298,
+    "gn:longitude":127.32316,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dongyangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc591\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Tongyang-dong",
+        "Dongyangdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398801
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"050f522d370634532e5ade8b4cfee2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1343440099,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343440099,
+    "wof:lastmodified":1537657192,
+    "wof:name":"Dongyangdong",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32316000000002,
+    37.09298,
+    127.32316000000002,
+    37.09298
+],
+  "geometry": {"coordinates":[127.32316000000002,37.09298],"type":"Point"}
+}

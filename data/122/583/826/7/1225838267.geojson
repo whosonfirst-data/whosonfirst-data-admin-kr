@@ -1,0 +1,67 @@
+{
+  "id": 1225838267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.27639,36.91917,128.27639,36.91917",
+    "geom:latitude":36.91917,
+    "geom:longitude":128.27639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kumi",
+    "gn:country_code":"KR",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895336,
+    "gn:latitude":36.91917,
+    "gn:longitude":128.27639,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Kumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895336
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e7eacb9e7277795b76a04f6c5b79cc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1225838267,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1225838267,
+    "wof:lastmodified":1537023444,
+    "wof:name":"Kumi",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.27639,
+    36.91917,
+    128.27639,
+    36.91917
+],
+  "geometry": {"coordinates":[128.27638999999999,36.91917],"type":"Point"}
+}

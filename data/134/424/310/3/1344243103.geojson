@@ -1,0 +1,70 @@
+{
+  "id": 1344243103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2008,37.05801,127.2008,37.05801",
+    "geom:latitude":37.05801,
+    "geom:longitude":127.2008,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gujangteo",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865862,
+    "gn:latitude":37.05801,
+    "gn:longitude":127.2008,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gujangteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc7a5\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865862
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"21e17adc1cd9f4739d9982b98d5033e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1344243103,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344243103,
+    "wof:lastmodified":1537658952,
+    "wof:name":"Gujangteo",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2008,
+    37.05801,
+    127.2008,
+    37.05801
+],
+  "geometry": {"coordinates":[127.2008,37.05801],"type":"Point"}
+}

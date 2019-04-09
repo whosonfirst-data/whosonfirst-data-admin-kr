@@ -1,0 +1,76 @@
+{
+  "id": 1243039135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0188,37.7509,127.0188,37.7509",
+    "geom:latitude":37.7509,
+    "geom:longitude":127.0188,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ganeung il dong",
+    "gn:country_code":"KR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801993,
+    "gn:latitude":37.7509,
+    "gn:longitude":127.0188,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Ganeung il dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub2a5\uc77c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uac00\ub2a51\ub3d9",
+        "Kan\u016dngil-tong",
+        "Ganeung il dong",
+        "Ganeung 1 dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801993
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bf1bfcd0261cba3f181d65cf629aeb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475299,
+            "locality_id":1243039135,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243039135,
+    "wof:lastmodified":1537657716,
+    "wof:name":"Ganeung il dong",
+    "wof:parent_id":890475299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0188,
+    37.7509,
+    127.0188,
+    37.7509
+],
+  "geometry": {"coordinates":[127.0188,37.7509],"type":"Point"}
+}

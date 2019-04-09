@@ -1,0 +1,70 @@
+{
+  "id": 1293559701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.75096,35.83878,128.75096,35.83878",
+    "geom:latitude":35.83878,
+    "geom:longitude":128.75096,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Daedong",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035201,
+    "gn:latitude":35.83878,
+    "gn:longitude":128.75096,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Daedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035201
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"84cbc8fa817f93eeeede499031aa6d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1293559701,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293559701,
+    "wof:lastmodified":1537659113,
+    "wof:name":"Daedong",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.75096000000002,
+    35.83878,
+    128.75096000000002,
+    35.83878
+],
+  "geometry": {"coordinates":[128.75096000000002,35.83878],"type":"Point"}
+}

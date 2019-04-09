@@ -1,0 +1,79 @@
+{
+  "id": 1259665827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51917,34.44111,126.51917,34.44111",
+    "geom:latitude":34.44111,
+    "geom:longitude":126.51917,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Baekpo",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839494,
+    "gn:latitude":34.44111,
+    "gn:longitude":126.51917,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Baekpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc31\ud3ec"
+    ],
+    "name:kor_x_variant":[
+        "Paekp\u2019o"
+    ],
+    "name:und_x_variant":[
+        "Hakuho",
+        "Paekp\u2019o-ri",
+        "Hakuho-ri",
+        "Baekpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839494
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"afe0d89d74f22382ce2df4928bb03d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1259665827,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259665827,
+    "wof:lastmodified":1537656349,
+    "wof:name":"Baekpo",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51917,
+    34.44110999999999,
+    126.51917,
+    34.44110999999999
+],
+  "geometry": {"coordinates":[126.51917,34.44110999999999],"type":"Point"}
+}

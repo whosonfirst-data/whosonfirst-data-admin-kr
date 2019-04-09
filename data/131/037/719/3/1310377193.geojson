@@ -1,0 +1,70 @@
+{
+  "id": 1310377193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.70536,35.31981,126.70536,35.31981",
+    "geom:latitude":35.31981,
+    "geom:longitude":126.70536,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seoeulli",
+    "gn:country_code":"KR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169392,
+    "gn:latitude":35.31981,
+    "gn:longitude":126.70536,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seoeulli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc740\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169392
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"85741c9686aaea41fadcd4d12abdc383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1310377193,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310377193,
+    "wof:lastmodified":1537659174,
+    "wof:name":"Seoeulli",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.70536,
+    35.31981,
+    126.70536,
+    35.31981
+],
+  "geometry": {"coordinates":[126.70536,35.31981],"type":"Point"}
+}

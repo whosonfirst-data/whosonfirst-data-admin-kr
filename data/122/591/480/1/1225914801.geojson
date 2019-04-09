@@ -1,0 +1,70 @@
+{
+  "id": 1225914801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.74628,35.84379,128.74628,35.84379",
+    "geom:latitude":35.84379,
+    "geom:longitude":128.74628,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gungdang",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035311,
+    "gn:latitude":35.84379,
+    "gn:longitude":128.74628,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gungdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad81\ub2f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035311
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17623b86c2b3b1a26d444549a5d7a2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1225914801,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225914801,
+    "wof:lastmodified":1537659113,
+    "wof:name":"Gungdang",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.74628,
+    35.84379000000001,
+    128.74628,
+    35.84379000000001
+],
+  "geometry": {"coordinates":[128.74628000000001,35.84379000000001],"type":"Point"}
+}

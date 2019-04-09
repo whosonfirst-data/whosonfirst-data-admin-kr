@@ -1,0 +1,75 @@
+{
+  "id": 1309777855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39409,34.89637,126.39409,34.89637",
+    "geom:latitude":34.89637,
+    "geom:longitude":126.39409,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bokgil",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839036,
+    "gn:latitude":34.89637,
+    "gn:longitude":126.39409,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bokgil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\uae38"
+    ],
+    "name:und_x_variant":[
+        "Pokki-ri",
+        "Pokkil-li",
+        "Bokgil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839036
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5799f3f8cbfe58df04fd5f8dcb3b9182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1309777855,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309777855,
+    "wof:lastmodified":1537656321,
+    "wof:name":"Bokgil",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39409,
+    34.89637,
+    126.39409,
+    34.89637
+],
+  "geometry": {"coordinates":[126.39409000000001,34.89637],"type":"Point"}
+}

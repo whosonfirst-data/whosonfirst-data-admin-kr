@@ -1,0 +1,76 @@
+{
+  "id": 1193000351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34617,34.99115,127.34617,34.99115",
+    "geom:latitude":34.99115,
+    "geom:longitude":127.34617,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Goemok",
+    "gn:country_code":"KR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842810,
+    "gn:latitude":34.99115,
+    "gn:longitude":127.34617,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Goemok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad34\ubaa9"
+    ],
+    "name:und_x_variant":[
+        "Kwaemong-ni",
+        "Koemong-ni",
+        "Koemok",
+        "Goemok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842810
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3ac0ceceaa8464cdcfdf457efd1e6e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1193000351,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193000351,
+    "wof:lastmodified":1537656515,
+    "wof:name":"Goemok",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34617,
+    34.99115,
+    127.34617,
+    34.99115
+],
+  "geometry": {"coordinates":[127.34617,34.99115],"type":"Point"}
+}

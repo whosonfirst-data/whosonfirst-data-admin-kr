@@ -1,0 +1,73 @@
+{
+  "id": 1277163521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89326,37.05727,126.89326,37.05727",
+    "geom:latitude":37.05727,
+    "geom:longitude":126.89326,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gaeseom",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364384,
+    "gn:latitude":37.05727,
+    "gn:longitude":126.89326,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gaeseom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\uc12c"
+    ],
+    "name:kor_x_variant":[
+        "Kaes\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364384
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4f057d0a92a905d929e1cf0244d635bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1277163521,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1277163521,
+    "wof:lastmodified":1537657079,
+    "wof:name":"Gaeseom",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89326,
+    37.05727,
+    126.89326,
+    37.05727
+],
+  "geometry": {"coordinates":[126.89326,37.05727],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209911475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.02169,37.10047,129.02169,37.10047",
+    "geom:latitude":37.10047,
+    "geom:longitude":129.02169,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Changsong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1846367,
+    "gn:latitude":37.10047,
+    "gn:longitude":129.02169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Changs\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Changs\u014fng",
+        "Changs\u014fng-ni",
+        "\uc7a5\uc131\ub3d9",
+        "Changs\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846367
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"336f819b3fefaa1db52e580fb9f3a841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473189,
+            "locality_id":1209911475,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209911475,
+    "wof:lastmodified":1537656697,
+    "wof:name":"Changsong-dong",
+    "wof:parent_id":890473189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.02168999999998,
+    37.10047,
+    129.02168999999998,
+    37.10047
+],
+  "geometry": {"coordinates":[129.02168999999998,37.10047],"type":"Point"}
+}

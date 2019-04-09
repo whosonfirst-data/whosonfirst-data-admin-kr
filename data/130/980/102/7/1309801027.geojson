@@ -1,0 +1,73 @@
+{
+  "id": 1309801027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8348,37.5261,127.8348,37.5261",
+    "geom:latitude":37.5261,
+    "geom:longitude":127.8348,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tokkalmaegi",
+    "gn:country_code":"KR",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816239,
+    "gn:latitude":37.5261,
+    "gn:longitude":127.8348,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u014fkkalmaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uac08\ub9e5\uc774"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fkkalmaegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816239
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"25c5d87b843059ebd0467a6325640b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473623,
+            "locality_id":1309801027,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309801027,
+    "wof:lastmodified":1537658083,
+    "wof:name":"Tokkalmaegi",
+    "wof:parent_id":890473623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8348,
+    37.5261,
+    127.8348,
+    37.5261
+],
+  "geometry": {"coordinates":[127.8348,37.5261],"type":"Point"}
+}

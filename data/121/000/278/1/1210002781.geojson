@@ -1,0 +1,74 @@
+{
+  "id": 1210002781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69811,37.77169,126.69811,37.77169",
+    "geom:latitude":37.77169,
+    "geom:longitude":126.69811,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Yaksangol",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951078,
+    "gn:latitude":37.77169,
+    "gn:longitude":126.69811,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Yaksangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc57d\uc0b0\uace8"
+    ],
+    "name:und_x_variant":[
+        "Aksang-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951078
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ecf6bda0b2459a9d29e6d3446c612eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1210002781,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1210002781,
+    "wof:lastmodified":1537656969,
+    "wof:name":"Yaksangol",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69811,
+    37.77169,
+    126.69811,
+    37.77169
+],
+  "geometry": {"coordinates":[126.69811,37.77169],"type":"Point"}
+}

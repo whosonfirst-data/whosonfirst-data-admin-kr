@@ -1,0 +1,73 @@
+{
+  "id": 1259404451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.44082,37.97149,128.44082,37.97149",
+    "geom:latitude":37.97149,
+    "geom:longitude":128.44082,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yon'gyong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817069,
+    "gn:latitude":37.97149,
+    "gn:longitude":128.44082,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u014fn\u2019gy\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\uacbd\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fn\u2019gy\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817069
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f869574d35ec2bfed310b73837a94a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1259404451,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259404451,
+    "wof:lastmodified":1537658109,
+    "wof:name":"Yon'gyong-ni",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.44082,
+    37.97149,
+    128.44082,
+    37.97149
+],
+  "geometry": {"coordinates":[128.44082,37.97149],"type":"Point"}
+}

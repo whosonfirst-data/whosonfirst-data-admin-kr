@@ -1,0 +1,79 @@
+{
+  "id": 1310662195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.89459,34.72769,127.89459,34.72769",
+    "geom:latitude":34.72769,
+    "geom:longitude":127.89459,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Gacheon",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843454,
+    "gn:latitude":34.72769,
+    "gn:longitude":127.89459,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Gacheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Gacheon Ri",
+        "Kach\u2019\u014fn-ri",
+        "Kasen-ri",
+        "Kach\u2019\u014fl-li",
+        "Kach\u2019\u014fn-ni",
+        "Kach\u2019on",
+        "Gacheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843454
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9f760a2148c1bc3185a18cb5ea921198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475467,
+            "locality_id":1310662195,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1310662195,
+    "wof:lastmodified":1537656550,
+    "wof:name":"Gacheon",
+    "wof:parent_id":890475467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.89459,
+    34.72769,
+    127.89459,
+    34.72769
+],
+  "geometry": {"coordinates":[127.89458999999999,34.72769],"type":"Point"}
+}

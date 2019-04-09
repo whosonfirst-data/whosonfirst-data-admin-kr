@@ -1,0 +1,70 @@
+{
+  "id": 1193251877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.17538,35.74669,129.17538,35.74669",
+    "geom:latitude":35.74669,
+    "geom:longitude":129.17538,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Godangsu",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064952,
+    "gn:latitude":35.74669,
+    "gn:longitude":129.17538,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Godangsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ub2f9\uc218"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064952
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af4a8c43ab7e46d543522c380683969a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1193251877,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193251877,
+    "wof:lastmodified":1537659126,
+    "wof:name":"Godangsu",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.17538000000002,
+    35.74669,
+    129.17538000000002,
+    35.74669
+],
+  "geometry": {"coordinates":[129.17538000000002,35.74669],"type":"Point"}
+}

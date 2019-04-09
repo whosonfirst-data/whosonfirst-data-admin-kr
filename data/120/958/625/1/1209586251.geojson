@@ -1,0 +1,64 @@
+{
+  "id": 1209586251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32307,35.99852,128.32307,35.99852",
+    "geom:latitude":35.99852,
+    "geom:longitude":128.32307,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Oegak",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962816,
+    "gn:latitude":35.99852,
+    "gn:longitude":128.32307,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Oegak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\uac01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962816
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ac618a8814e51c4dc2ab81b1bef3f836",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586251
+        }
+    ],
+    "wof:id":1209586251,
+    "wof:lastmodified":1537659097,
+    "wof:name":"Oegak",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32307,
+    35.99852,
+    128.32307,
+    35.99852
+],
+  "geometry": {"coordinates":[128.32307,35.99852],"type":"Point"}
+}

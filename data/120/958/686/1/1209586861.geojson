@@ -1,0 +1,64 @@
+{
+  "id": 1209586861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.457,37.5637,127.457,37.5637",
+    "geom:latitude":37.5637,
+    "geom:longitude":127.457,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Garaejeonggae",
+    "gn:country_code":"KR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802937,
+    "gn:latitude":37.5637,
+    "gn:longitude":127.457,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Garaejeonggae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub798\uc815\uac1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802937
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9b3c0c8b4c789a48ae2d20c9acccd669",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586861
+        }
+    ],
+    "wof:id":1209586861,
+    "wof:lastmodified":1537657762,
+    "wof:name":"Garaejeonggae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.457,
+    37.5637,
+    127.457,
+    37.5637
+],
+  "geometry": {"coordinates":[127.45699999999999,37.5637],"type":"Point"}
+}

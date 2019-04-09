@@ -1,0 +1,70 @@
+{
+  "id": 1344221627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.74967,35.11107,128.74967,35.11107",
+    "geom:latitude":35.11107,
+    "geom:longitude":128.74967,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bokbu",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11114345,
+    "gn:latitude":35.11107,
+    "gn:longitude":128.74967,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Bokbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\ubd80"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11114345
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"795a08086c122b98ea58bb6e9c2d76e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746475,
+            "locality_id":1344221627,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1344221627,
+    "wof:lastmodified":1537659162,
+    "wof:name":"Bokbu",
+    "wof:parent_id":1108746475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.74967,
+    35.11107,
+    128.74967,
+    35.11107
+],
+  "geometry": {"coordinates":[128.74967000000001,35.11107],"type":"Point"}
+}

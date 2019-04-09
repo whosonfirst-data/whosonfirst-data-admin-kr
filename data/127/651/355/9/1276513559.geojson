@@ -1,0 +1,71 @@
+{
+  "id": 1276513559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0966,36.8346,127.0966,36.8346",
+    "geom:latitude":36.8346,
+    "geom:longitude":127.0966,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kongsu-dong",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811527,
+    "gn:latitude":36.8346,
+    "gn:longitude":127.0966,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kongsu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacf5\uc218\ub3d9",
+        "Kongsu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811527
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9981ff9003d807cb1166629518a9a2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1276513559,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1276513559,
+    "wof:lastmodified":1537657943,
+    "wof:name":"Kongsu-dong",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0966,
+    36.8346,
+    127.0966,
+    36.8346
+],
+  "geometry": {"coordinates":[127.0966,36.8346],"type":"Point"}
+}

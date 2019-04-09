@@ -1,0 +1,72 @@
+{
+  "id": 1242638975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.96329,35.69524,127.96329,35.69524",
+    "geom:latitude":35.69524,
+    "geom:longitude":127.96329,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Aju",
+    "gn:country_code":"KR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847039,
+    "gn:latitude":35.69524,
+    "gn:longitude":127.96329,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aju-ri",
+        "\uc544\uc8fc",
+        "Aju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847039
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a7b1ed018486d8bfc97cccabc9f113cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1242638975,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1242638975,
+    "wof:lastmodified":1537656733,
+    "wof:name":"Aju",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.96329,
+    35.69524000000001,
+    127.96329,
+    35.69524000000001
+],
+  "geometry": {"coordinates":[127.96329,35.69524000000001],"type":"Point"}
+}

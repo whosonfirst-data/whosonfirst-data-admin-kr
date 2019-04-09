@@ -1,0 +1,72 @@
+{
+  "id": 1326616259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.73306,37.35389,127.73306,37.35389",
+    "geom:latitude":37.35389,
+    "geom:longitude":127.73306,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jungpyeong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576766,
+    "gn:latitude":37.35389,
+    "gn:longitude":127.73306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jungpyeong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ud3c9\ub3d9",
+        "Jungpyeong-dong",
+        "Chungp\u2019y\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576766
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ac8139c44c6ad2eb809a578f63b27a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1326616259,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1326616259,
+    "wof:lastmodified":1537657338,
+    "wof:name":"Jungpyeong-dong",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.73306,
+    37.35389,
+    127.73306,
+    37.35389
+],
+  "geometry": {"coordinates":[127.73305999999999,37.35389],"type":"Point"}
+}

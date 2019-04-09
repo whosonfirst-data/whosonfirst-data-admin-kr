@@ -1,0 +1,71 @@
+{
+  "id": 1293476051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0652,37.8185,127.0652,37.8185",
+    "geom:latitude":37.8185,
+    "geom:longitude":127.0652,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hagojangdong",
+    "gn:country_code":"KR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799787,
+    "gn:latitude":37.8185,
+    "gn:longitude":127.0652,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Hagojangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uace0\uc7a5\ub3d9",
+        "Hagojangdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799787
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"86f71f6b6c0791fd0df4611059aa947f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1293476051,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293476051,
+    "wof:lastmodified":1537657658,
+    "wof:name":"Hagojangdong",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0652,
+    37.8185,
+    127.0652,
+    37.8185
+],
+  "geometry": {"coordinates":[127.0652,37.8185],"type":"Point"}
+}

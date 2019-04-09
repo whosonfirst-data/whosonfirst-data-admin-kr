@@ -1,0 +1,74 @@
+{
+  "id": 1327219967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16735,37.60371,127.16735,37.60371",
+    "geom:latitude":37.60371,
+    "geom:longitude":127.16735,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chigum-dong",
+    "gn:country_code":"KR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801186,
+    "gn:latitude":37.60371,
+    "gn:longitude":127.16735,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chig\u016dm-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\uae08\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uc9c0\uae08\ub3d9",
+        "Chig\u016dm-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801186
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ff48a277de3c750c761d6f0ba879d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1327219967,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327219967,
+    "wof:lastmodified":1537657690,
+    "wof:name":"Chigum-dong",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16735,
+    37.60371,
+    127.16735,
+    37.60371
+],
+  "geometry": {"coordinates":[127.16735,37.60371],"type":"Point"}
+}

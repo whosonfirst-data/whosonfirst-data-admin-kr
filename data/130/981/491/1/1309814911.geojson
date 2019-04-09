@@ -1,0 +1,73 @@
+{
+  "id": 1309814911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.30981,35.88117,127.30981,35.88117",
+    "geom:latitude":35.88117,
+    "geom:longitude":127.30981,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hayul",
+    "gn:country_code":"KR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1886104,
+    "gn:latitude":35.88117,
+    "gn:longitude":127.30981,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hayul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hayul-li",
+        "\ud558\uc728",
+        "Haryul",
+        "Hayul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1886104
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"43fdde426800f26c3a037fff8e145a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474683,
+            "locality_id":1309814911,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1309814911,
+    "wof:lastmodified":1537656785,
+    "wof:name":"Hayul",
+    "wof:parent_id":890474683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.30981,
+    35.88117000000001,
+    127.30981,
+    35.88117000000001
+],
+  "geometry": {"coordinates":[127.30981,35.88117000000001],"type":"Point"}
+}

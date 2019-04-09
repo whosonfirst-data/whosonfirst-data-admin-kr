@@ -1,0 +1,65 @@
+{
+  "id": 1209190495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38861,37.00917,126.38861,37.00917",
+    "geom:latitude":37.00917,
+    "geom:longitude":126.38861,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sukhoji",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1887231,
+    "gn:latitude":37.00917,
+    "gn:longitude":126.38861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sukhoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc219\ud638\uc9c0",
+        "Sukhoji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1887231
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"46dd22f3408c804cb811aa0b9be7a87f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209190495
+        }
+    ],
+    "wof:id":1209190495,
+    "wof:lastmodified":1537656790,
+    "wof:name":"Sukhoji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38861,
+    37.00917000000001,
+    126.38861,
+    37.00917000000001
+],
+  "geometry": {"coordinates":[126.38861,37.00917000000001],"type":"Point"}
+}

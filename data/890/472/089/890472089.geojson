@@ -1,0 +1,78 @@
+{
+  "id": 890472089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02139,37.28361,127.02139,37.28361",
+    "geom:latitude":37.28361,
+    "geom:longitude":127.02139,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Namhyang-dong"
+    ],
+    "qs:name":"\ub0a8\ud5a5\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uacbd\uae30\ub3c4",
+    "qs:photos":84,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":84,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85673191,
+        102191569,
+        85632231,
+        102026323,
+        1108746533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573030,
+        "gp:id":28806678,
+        "qs:id":267135
+    },
+    "wof:country":"KR",
+    "wof:created":1469053881,
+    "wof:geomhash":"55088928bce6b85e4c4ca8ba280c1fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746533,
+            "locality_id":102026323,
+            "neighbourhood_id":890472089,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":890472089,
+    "wof:lastmodified":1505343713,
+    "wof:name":"\ub0a8\ud5a5\ub3d9",
+    "wof:parent_id":102026323,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02139,
+    37.28361,
+    127.02139,
+    37.28361
+],
+  "geometry": {"coordinates":[127.02139,37.28361],"type":"Point"}
+}

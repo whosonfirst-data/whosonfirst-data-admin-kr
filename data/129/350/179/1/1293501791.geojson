@@ -1,0 +1,75 @@
+{
+  "id": 1293501791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49724,35.1173,126.49724,35.1173",
+    "geom:latitude":35.1173,
+    "geom:longitude":126.49724,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gamsan",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843208,
+    "gn:latitude":35.1173,
+    "gn:longitude":126.49724,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Gamsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac10\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Kamsan-ni",
+        "Kamsan",
+        "Gamsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843208
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"76605ab2652b97125b8ee75412e60fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1293501791,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293501791,
+    "wof:lastmodified":1537656537,
+    "wof:name":"Gamsan",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49724,
+    35.1173,
+    126.49724,
+    35.1173
+],
+  "geometry": {"coordinates":[126.49724000000001,35.1173],"type":"Point"}
+}

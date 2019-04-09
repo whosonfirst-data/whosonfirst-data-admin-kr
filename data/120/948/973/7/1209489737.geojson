@@ -1,0 +1,64 @@
+{
+  "id": 1209489737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.86726,35.18924,128.86726,35.18924",
+    "geom:latitude":35.18924,
+    "geom:longitude":128.86726,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nampo",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117085,
+    "gn:latitude":35.18924,
+    "gn:longitude":128.86726,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Nampo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\ud3ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117085
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0d4c614f2f4af596c6996c1e2e362f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209489737
+        }
+    ],
+    "wof:id":1209489737,
+    "wof:lastmodified":1537659165,
+    "wof:name":"Nampo",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.86726000000002,
+    35.18924000000001,
+    128.86726000000002,
+    35.18924000000001
+],
+  "geometry": {"coordinates":[128.86726000000002,35.18924000000001],"type":"Point"}
+}

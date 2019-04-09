@@ -1,0 +1,70 @@
+{
+  "id": 1277150429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.33642,36.60779,128.33642,36.60779",
+    "geom:latitude":36.60779,
+    "geom:longitude":128.33642,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sanjeong",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11269397,
+    "gn:latitude":36.60779,
+    "gn:longitude":128.33642,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Sanjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11269397
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"743b830943b301d5c1ccd3b59133d55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1277150429,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1277150429,
+    "wof:lastmodified":1537659304,
+    "wof:name":"Sanjeong",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.33642,
+    36.60779,
+    128.33642,
+    36.60779
+],
+  "geometry": {"coordinates":[128.33642,36.60779],"type":"Point"}
+}

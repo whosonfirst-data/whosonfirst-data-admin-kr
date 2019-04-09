@@ -1,0 +1,73 @@
+{
+  "id": 1242592005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57524,34.95323,127.57524,34.95323",
+    "geom:latitude":34.95323,
+    "geom:longitude":127.57524,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Museon",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840809,
+    "gn:latitude":34.95323,
+    "gn:longitude":127.57524,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Museon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb34\uc120"
+    ],
+    "name:und_x_variant":[
+        "Mus\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840809
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"808e8c70f1cadec307dd19ae1de6ecd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472247,
+            "locality_id":1242592005,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242592005,
+    "wof:lastmodified":1537656413,
+    "wof:name":"Museon",
+    "wof:parent_id":890472247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57524,
+    34.95323,
+    127.57524,
+    34.95323
+],
+  "geometry": {"coordinates":[127.57523999999999,34.95323],"type":"Point"}
+}

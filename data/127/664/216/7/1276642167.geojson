@@ -1,0 +1,76 @@
+{
+  "id": 1276642167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.07021,38.02596,127.07021,38.02596",
+    "geom:latitude":38.02596,
+    "geom:longitude":127.07021,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Y\u014fnch'\u014fn-gun",
+    "gn:asciiname":"Jeongok",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1845556,
+    "gn:latitude":38.02596,
+    "gn:longitude":127.07021,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Jeongok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc804\uace1"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fn\u2019gong-ni",
+        "Ch\u014fn\u2019gok",
+        "Jeongok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845556
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"36fa4a96762b879ba5b7f5539defbcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1276642167,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276642167,
+    "wof:lastmodified":1537656655,
+    "wof:name":"Jeongok",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.07021,
+    38.02596,
+    127.07021,
+    38.02596
+],
+  "geometry": {"coordinates":[127.07021,38.02596],"type":"Point"}
+}

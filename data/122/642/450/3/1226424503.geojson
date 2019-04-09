@@ -1,0 +1,74 @@
+{
+  "id": 1226424503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.13966,34.91824,127.13966,34.91824",
+    "geom:latitude":34.91824,
+    "geom:longitude":127.13966,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Irwa",
+    "gn:country_code":"KR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843488,
+    "gn:latitude":34.91824,
+    "gn:longitude":127.13966,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Irwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc77c\uc640"
+    ],
+    "name:und_x_variant":[
+        "Irwa-ri",
+        "Irwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843488
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8d64b74dc9c72230fa265349c6c769b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1226424503,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226424503,
+    "wof:lastmodified":1537656551,
+    "wof:name":"Irwa",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.13966,
+    34.91824,
+    127.13966,
+    34.91824
+],
+  "geometry": {"coordinates":[127.13966000000001,34.91824],"type":"Point"}
+}

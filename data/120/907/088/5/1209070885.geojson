@@ -1,0 +1,65 @@
+{
+  "id": 1209070885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.38682,34.81298,128.38682,34.81298",
+    "geom:latitude":34.81298,
+    "geom:longitude":128.38682,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ch'oltuk",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6897636,
+    "gn:latitude":34.81298,
+    "gn:longitude":128.38682,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019\u014fltuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucca0\ub451",
+        "Ch\u2019\u014fltuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6897636
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"54daea7f644304dad711642c861156eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209070885
+        }
+    ],
+    "wof:id":1209070885,
+    "wof:lastmodified":1537658699,
+    "wof:name":"Ch'oltuk",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.38682,
+    34.81298,
+    128.38682,
+    34.81298
+],
+  "geometry": {"coordinates":[128.38682,34.81298],"type":"Point"}
+}

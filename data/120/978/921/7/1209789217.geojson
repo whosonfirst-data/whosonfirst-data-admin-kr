@@ -1,0 +1,70 @@
+{
+  "id": 1209789217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.67218,36.46607,128.67218,36.46607",
+    "geom:latitude":36.46607,
+    "geom:longitude":128.67218,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jisil",
+    "gn:country_code":"KR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272175,
+    "gn:latitude":36.46607,
+    "gn:longitude":128.67218,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Jisil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272175
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1b19e860f9b6c6dca6a23275e8afd478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1209789217,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209789217,
+    "wof:lastmodified":1537659316,
+    "wof:name":"Jisil",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.67218,
+    36.46607,
+    128.67218,
+    36.46607
+],
+  "geometry": {"coordinates":[128.67218,36.46607],"type":"Point"}
+}

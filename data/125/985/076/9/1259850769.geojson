@@ -1,0 +1,79 @@
+{
+  "id": 1259850769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40389,37.20722,127.40389,37.20722",
+    "geom:latitude":37.20722,
+    "geom:longitude":127.40389,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Jagaeul",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398901,
+    "gn:latitude":37.20722,
+    "gn:longitude":127.40389,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Jagaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub7ab\uc790\uac1c\uc6b8"
+    ],
+    "name:kor_x_variant":[
+        "\uc790\uac1c\uc6b8"
+    ],
+    "name:und_x_variant":[
+        "Araetchagaeul",
+        "Araetjagaeul",
+        "Jagaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398901
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"05cd73c1e4f06315635cf714b5ec5426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1259850769,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259850769,
+    "wof:lastmodified":1537657198,
+    "wof:name":"Jagaeul",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40389,
+    37.20722,
+    127.40389,
+    37.20722
+],
+  "geometry": {"coordinates":[127.40389,37.20722],"type":"Point"}
+}

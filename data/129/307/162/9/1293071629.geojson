@@ -1,0 +1,66 @@
+{
+  "id": 1293071629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.52597,35.88246,129.52597,35.88246",
+    "geom:latitude":35.88246,
+    "geom:longitude":129.52597,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Changam",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11249669,
+    "gn:latitude":35.88246,
+    "gn:longitude":129.52597,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Changam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249669
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c2be2b04fc905424eb3080fb906cbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1293071629,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293071629,
+    "wof:lastmodified":1537659255,
+    "wof:name":"Changam",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.52597,
+    35.88245999999999,
+    129.52597,
+    35.88245999999999
+],
+  "geometry": {"coordinates":[129.52597,35.88245999999999],"type":"Point"}
+}

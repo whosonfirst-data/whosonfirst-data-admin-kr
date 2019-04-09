@@ -1,0 +1,74 @@
+{
+  "id": 1243355739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.01824,37.82187,128.01824,37.82187",
+    "geom:latitude":37.82187,
+    "geom:longitude":128.01824,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bokgol",
+    "gn:country_code":"KR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815357,
+    "gn:latitude":37.82187,
+    "gn:longitude":128.01824,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Bokgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\uace8"
+    ],
+    "name:und_x_variant":[
+        "Pok-kol",
+        "Bokgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815357
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4ee177d26d469b692eac8d66c1791c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1243355739,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243355739,
+    "wof:lastmodified":1537658050,
+    "wof:name":"Bokgol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.01824,
+    37.82187,
+    128.01824,
+    37.82187
+],
+  "geometry": {"coordinates":[128.01823999999999,37.82187],"type":"Point"}
+}

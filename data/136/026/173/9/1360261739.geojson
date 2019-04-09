@@ -1,0 +1,76 @@
+{
+  "id": 1360261739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52791,37.50928,126.52791,37.50928",
+    "geom:latitude":37.50928,
+    "geom:longitude":126.52791,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Donggangdong",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274860,
+    "gn:latitude":37.50928,
+    "gn:longitude":126.52791,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Donggangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uac15\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\ub3d9\uac15\ub9ac",
+        "Donggang-ri",
+        "Tonggang-ni",
+        "Donggangdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274860
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6d6334f6d25c5d9a6a1220e24cdbce4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746485,
+            "locality_id":1360261739,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1360261739,
+    "wof:lastmodified":1537657043,
+    "wof:name":"Donggangdong",
+    "wof:parent_id":1108746485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52791,
+    37.50928,
+    126.52791,
+    37.50928
+],
+  "geometry": {"coordinates":[126.52791000000001,37.50928],"type":"Point"}
+}

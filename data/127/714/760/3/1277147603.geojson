@@ -1,0 +1,73 @@
+{
+  "id": 1277147603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.38751,37.08487,129.38751,37.08487",
+    "geom:latitude":37.08487,
+    "geom:longitude":129.38751,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tokkum-dong",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834698,
+    "gn:latitude":37.08487,
+    "gn:longitude":129.38751,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u014fkk\u016dm-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taisen-d\u014d",
+        "T\u014fkk\u016dm-dong",
+        "\ub355\uae08\ub3d9",
+        "T\u2019oech\u2019\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834698
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6079fb13c5fba5aacc1252e00f00a18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1277147603,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1277147603,
+    "wof:lastmodified":1537656101,
+    "wof:name":"Tokkum-dong",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.38751000000002,
+    37.08487,
+    129.38751000000002,
+    37.08487
+],
+  "geometry": {"coordinates":[129.38751000000002,37.08487],"type":"Point"}
+}

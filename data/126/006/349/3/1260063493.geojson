@@ -1,0 +1,70 @@
+{
+  "id": 1260063493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2863,35.80835,129.2863,35.80835",
+    "geom:latitude":35.80835,
+    "geom:longitude":129.2863,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Adong",
+    "gn:country_code":"KR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077655,
+    "gn:latitude":35.80835,
+    "gn:longitude":129.2863,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Adong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077655
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ff4755a9674a419b03f86fdb4ced0238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1260063493,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260063493,
+    "wof:lastmodified":1537659131,
+    "wof:name":"Adong",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2863,
+    35.80835,
+    129.2863,
+    35.80835
+],
+  "geometry": {"coordinates":[129.28630000000001,35.80835],"type":"Point"}
+}

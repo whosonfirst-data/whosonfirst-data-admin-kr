@@ -1,0 +1,70 @@
+{
+  "id": 1243143923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75682,34.99071,126.75682,34.99071",
+    "geom:latitude":34.99071,
+    "geom:longitude":126.75682,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jangyu",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180554,
+    "gn:latitude":34.99071,
+    "gn:longitude":126.75682,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jangyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc720"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180554
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5af7a728062060631af6799aaccf24eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1243143923,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243143923,
+    "wof:lastmodified":1537659222,
+    "wof:name":"Jangyu",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75682,
+    34.99071,
+    126.75682,
+    34.99071
+],
+  "geometry": {"coordinates":[126.75682,34.99071],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209476585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7572,35.52552,127.7572,35.52552",
+    "geom:latitude":35.52552,
+    "geom:longitude":127.7572,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ponbaek",
+    "gn:country_code":"KR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901074,
+    "gn:latitude":35.52552,
+    "gn:longitude":127.7572,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ponbaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcf8\ubc31",
+        "Ponbaek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901074
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cdcd4a044503e5d7d9648b640f01f28d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209476585
+        }
+    ],
+    "wof:id":1209476585,
+    "wof:lastmodified":1537656948,
+    "wof:name":"Ponbaek",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7572,
+    35.52552,
+    127.7572,
+    35.52552
+],
+  "geometry": {"coordinates":[127.7572,35.52552],"type":"Point"}
+}

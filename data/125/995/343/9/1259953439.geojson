@@ -1,0 +1,70 @@
+{
+  "id": 1259953439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.36462,36.37956,129.36462,36.37956",
+    "geom:latitude":36.37956,
+    "geom:longitude":129.36462,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hajikdong",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245541,
+    "gn:latitude":36.37956,
+    "gn:longitude":129.36462,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Hajikdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc9c1\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245541
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f18b48ec1583cbaec2141e6f75e5e2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1259953439,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259953439,
+    "wof:lastmodified":1537659245,
+    "wof:name":"Hajikdong",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.36462,
+    36.37956,
+    129.36462,
+    36.37956
+],
+  "geometry": {"coordinates":[129.36462,36.37956],"type":"Point"}
+}

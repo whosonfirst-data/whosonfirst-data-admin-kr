@@ -1,0 +1,105 @@
+{
+  "id": 85927321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14100614.726883,
+    "geom:bbox":"126.611262,37.445471,126.611262,37.445471",
+    "geom:latitude":37.445471,
+    "geom:longitude":126.611262,
+    "gn:latitude":37.39056,
+    "gn:longitude":126.96306,
+    "iso:country":"KR",
+    "lbl:latitude":37.445471,
+    "lbl:longitude":126.611262,
+    "mps:latitude":37.44766,
+    "mps:longitude":126.612968,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:kor_x_preferred":[
+        "\uc5f0\uc548\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "\ud3c9\uc548\ub3d9",
+        "\uc5f0\uc548\ub3d9"
+    ],
+    "qs:gn_adm0_cc":"KR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1843564,
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"Pyeongan-dong",
+    "qs:local_max":2394,
+    "qs:local_sum":10431,
+    "qs:localhoods":47,
+    "qs:name":"\uc5f0\uc548\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uc778\ucc9c",
+    "qs:name_adm2":"\uc911\uad6c",
+    "qs:name_lau":"\uc5f0\uc548\ub3d9",
+    "qs:name_local":"\uc778\ucc9c",
+    "qs:photo_max":78,
+    "qs:photo_sum":146,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424868,
+    "qs:woe_adm1":20069922,
+    "qs:woe_adm2":28289230,
+    "qs:woe_lau":28806301,
+    "qs:woe_local":1132496,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6572086,
+        "gp:id":28995144,
+        "qs:id":213947
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"94bcedab3a23283127364c687616badc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85927321,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85927321,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1531938936,
+    "wof:name":"\uc5f0\uc548\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.611262,
+    37.445471,
+    126.611262,
+    37.445471
+],
+  "geometry": {"coordinates":[126.611262,37.445471],"type":"Point"}
+}

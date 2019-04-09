@@ -1,0 +1,70 @@
+{
+  "id": 1293492281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3587,36.67342,127.3587,36.67342",
+    "geom:latitude":36.67342,
+    "geom:longitude":127.3587,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hanujae",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349456,
+    "gn:latitude":36.67342,
+    "gn:longitude":127.3587,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hanujae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub204\uc7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349456
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8f8dfde14164bf7a9c9b324811e6c5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1293492281,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293492281,
+    "wof:lastmodified":1537659026,
+    "wof:name":"Hanujae",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3587,
+    36.67342,
+    127.3587,
+    36.67342
+],
+  "geometry": {"coordinates":[127.3587,36.67342],"type":"Point"}
+}

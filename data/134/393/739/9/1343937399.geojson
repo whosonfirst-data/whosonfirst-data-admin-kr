@@ -1,0 +1,74 @@
+{
+  "id": 1343937399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48509,37.77678,126.48509,37.77678",
+    "geom:latitude":37.77678,
+    "geom:longitude":126.48509,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Winapseonggae",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948836,
+    "gn:latitude":37.77678,
+    "gn:longitude":126.48509,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Winapseonggae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc704\ub0a9\uc131\uac1c"
+    ],
+    "name:kor_x_variant":[
+        "Winaps\u014fnggae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948836
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4e66ccd36cf3c4b7a048a4a1a4bbec36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1343937399,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1343937399,
+    "wof:lastmodified":1537656964,
+    "wof:name":"Winapseonggae",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48509,
+    37.77678,
+    126.48509,
+    37.77678
+],
+  "geometry": {"coordinates":[126.48509,37.77678],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326831429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15263,35.96083,127.15263,35.96083",
+    "geom:latitude":35.96083,
+    "geom:longitude":127.15263,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ch'u-dong",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877876,
+    "gn:latitude":35.96083,
+    "gn:longitude":127.15263,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019u-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucd94\ub3d9",
+        "Ch\u2019u-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877876
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4abd058c0203a38c233ea0e2d2edc7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474683,
+            "locality_id":1326831429,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1326831429,
+    "wof:lastmodified":1537658176,
+    "wof:name":"Ch'u-dong",
+    "wof:parent_id":890474683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15263,
+    35.96083,
+    127.15263,
+    35.96083
+],
+  "geometry": {"coordinates":[127.15263,35.96083],"type":"Point"}
+}

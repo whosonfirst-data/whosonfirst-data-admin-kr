@@ -1,0 +1,71 @@
+{
+  "id": 1292904777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52379,35.7317,127.52379,35.7317",
+    "geom:latitude":35.7317,
+    "geom:longitude":127.52379,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Komdok",
+    "gn:country_code":"KR",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896286,
+    "gn:latitude":35.7317,
+    "gn:longitude":127.52379,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u014fmd\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac80\ub355",
+        "K\u014fmd\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896286
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"38d9d0d646708f862e0d697a9faf7b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1292904777,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1292904777,
+    "wof:lastmodified":1537658656,
+    "wof:name":"Komdok",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52379,
+    35.7317,
+    127.52379,
+    35.7317
+],
+  "geometry": {"coordinates":[127.52379000000001,35.7317],"type":"Point"}
+}

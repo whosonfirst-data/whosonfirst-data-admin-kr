@@ -1,0 +1,71 @@
+{
+  "id": 1243145659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0009,37.0526,129.0009,37.0526",
+    "geom:latitude":37.0526,
+    "geom:longitude":129.0009,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tunji",
+    "gn:country_code":"KR",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833906,
+    "gn:latitude":37.0526,
+    "gn:longitude":129.0009,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tunji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub454\uc9c0",
+        "Tunji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833906
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"81515c9d5f41a9065dd5cc7787e7743e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1243145659,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243145659,
+    "wof:lastmodified":1537656056,
+    "wof:name":"Tunji",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0009,
+    37.0526,
+    129.0009,
+    37.0526
+],
+  "geometry": {"coordinates":[129.0009,37.0526],"type":"Point"}
+}

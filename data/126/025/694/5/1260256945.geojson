@@ -1,0 +1,70 @@
+{
+  "id": 1260256945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.80087,35.12313,128.80087,35.12313",
+    "geom:latitude":35.12313,
+    "geom:longitude":128.80087,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yangdeok",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11115165,
+    "gn:latitude":35.12313,
+    "gn:longitude":128.80087,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Yangdeok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\ub355"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11115165
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ad213c4782443cc72fee72982cd2d3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746475,
+            "locality_id":1260256945,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1260256945,
+    "wof:lastmodified":1537659164,
+    "wof:name":"Yangdeok",
+    "wof:parent_id":1108746475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.80087,
+    35.12313,
+    128.80087,
+    35.12313
+],
+  "geometry": {"coordinates":[128.80087,35.12313],"type":"Point"}
+}

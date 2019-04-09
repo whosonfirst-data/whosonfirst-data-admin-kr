@@ -1,0 +1,73 @@
+{
+  "id": 1259462087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7825,37.10083,126.7825,37.10083",
+    "geom:latitude":37.10083,
+    "geom:longitude":126.7825,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wonani",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896691,
+    "gn:latitude":37.10083,
+    "gn:longitude":126.7825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014fnani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uc548\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "W\u014fnani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896691
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"528a447d74e60cd7e1cd5ef3e349f084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1259462087,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259462087,
+    "wof:lastmodified":1537656908,
+    "wof:name":"Wonani",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7825,
+    37.10083,
+    126.7825,
+    37.10083
+],
+  "geometry": {"coordinates":[126.7825,37.10083],"type":"Point"}
+}

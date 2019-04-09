@@ -1,0 +1,70 @@
+{
+  "id": 1310283579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2452,35.27285,129.2452,35.27285",
+    "geom:latitude":35.27285,
+    "geom:longitude":129.2452,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Idong",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097569,
+    "gn:latitude":35.27285,
+    "gn:longitude":129.2452,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Idong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097569
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8d2caa37b41c4cb8bb5fd5c4649d86ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1310283579,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1310283579,
+    "wof:lastmodified":1537659155,
+    "wof:name":"Idong",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2452,
+    35.27285,
+    129.2452,
+    35.27285
+],
+  "geometry": {"coordinates":[129.24520000000001,35.27285],"type":"Point"}
+}

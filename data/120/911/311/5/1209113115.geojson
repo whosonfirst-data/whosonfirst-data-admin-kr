@@ -1,0 +1,65 @@
+{
+  "id": 1209113115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59771,35.96883,127.59771,35.96883",
+    "geom:latitude":35.96883,
+    "geom:longitude":127.59771,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Imsu-dong",
+    "gn:country_code":"KR",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896879,
+    "gn:latitude":35.96883,
+    "gn:longitude":127.59771,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Imsu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc784\uc218\ub3d9",
+        "Imsu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896879
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"805b0799db99183cea342e248b895527",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209113115
+        }
+    ],
+    "wof:id":1209113115,
+    "wof:lastmodified":1537658673,
+    "wof:name":"Imsu-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59771,
+    35.96883,
+    127.59771,
+    35.96883
+],
+  "geometry": {"coordinates":[127.59771000000001,35.96883],"type":"Point"}
+}

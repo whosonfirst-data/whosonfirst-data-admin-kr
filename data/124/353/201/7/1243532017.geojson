@@ -1,0 +1,71 @@
+{
+  "id": 1243532017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90675,37.52615,126.90675,37.52615",
+    "geom:latitude":37.52615,
+    "geom:longitude":126.90675,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yongdungp'osam-dong",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6800269,
+    "gn:latitude":37.52615,
+    "gn:longitude":126.90675,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u014fngd\u016dngp\u2019osam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc601\ub4f1\ud3ec3\ub3d9",
+        "Y\u014fngd\u016dngp\u2019osam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890473231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6800269
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d73d452da6d682aad43a9f14cdbecbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473231,
+            "locality_id":1243532017,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1243532017,
+    "wof:lastmodified":1537657671,
+    "wof:name":"Yongdungp'osam-dong",
+    "wof:parent_id":890473231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90675,
+    37.52615,
+    126.90675,
+    37.52615
+],
+  "geometry": {"coordinates":[126.90675,37.52615],"type":"Point"}
+}

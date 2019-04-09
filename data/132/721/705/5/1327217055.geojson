@@ -1,0 +1,75 @@
+{
+  "id": 1327217055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.27606,36.35467,129.27606,36.35467",
+    "geom:latitude":36.35467,
+    "geom:longitude":129.27606,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gadeulbu",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879279,
+    "gn:latitude":36.35467,
+    "gn:longitude":129.27606,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Gadeulbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub4e4\ubd80"
+    ],
+    "name:und_x_variant":[
+        "\uac00\ub450\ub4dd",
+        "Kadud\u016dk",
+        "Gadeulbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879279
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"24ef303304f986b67e41e117aaeb92db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1327217055,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327217055,
+    "wof:lastmodified":1537658225,
+    "wof:name":"Gadeulbu",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.27606,
+    36.35467,
+    129.27606,
+    36.35467
+],
+  "geometry": {"coordinates":[129.27606,36.35467],"type":"Point"}
+}

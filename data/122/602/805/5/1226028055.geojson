@@ -1,0 +1,70 @@
+{
+  "id": 1226028055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.26769,35.80038,129.26769,35.80038",
+    "geom:latitude":35.80038,
+    "geom:longitude":129.26769,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samgeori",
+    "gn:country_code":"KR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077648,
+    "gn:latitude":35.80038,
+    "gn:longitude":129.26769,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Samgeori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\uac70\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077648
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a0713cb484ebfdd5d8cf09c4bc7edbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1226028055,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226028055,
+    "wof:lastmodified":1537659130,
+    "wof:name":"Samgeori",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.26769,
+    35.80038,
+    129.26769,
+    35.80038
+],
+  "geometry": {"coordinates":[129.26768999999999,35.80038],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360248373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89884,36.62464,126.89884,36.62464",
+    "geom:latitude":36.62464,
+    "geom:longitude":126.89884,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Haburulli",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844819,
+    "gn:latitude":36.62464,
+    "gn:longitude":126.89884,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Haburulli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ubd88\uc6b4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Habur\u016dng-ni",
+        "Haburun-ni",
+        "Haburulli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844819
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"969aacb53baa74ef59305d04b4fc905e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1360248373,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1360248373,
+    "wof:lastmodified":1537656618,
+    "wof:name":"Haburulli",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89884,
+    36.62464,
+    126.89884,
+    36.62464
+],
+  "geometry": {"coordinates":[126.89884000000001,36.62464],"type":"Point"}
+}

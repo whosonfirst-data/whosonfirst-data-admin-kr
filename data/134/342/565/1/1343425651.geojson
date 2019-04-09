@@ -1,0 +1,71 @@
+{
+  "id": 1343425651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.17353,35.61717,128.17353,35.61717",
+    "geom:latitude":35.61717,
+    "geom:longitude":128.17353,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kisigi",
+    "gn:country_code":"KR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904445,
+    "gn:latitude":35.61717,
+    "gn:longitude":128.17353,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kisigi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae30\uc2dc\uae30",
+        "Kisigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904445
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8b33e109fc1ee960916759669091ceed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1343425651,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343425651,
+    "wof:lastmodified":1537658866,
+    "wof:name":"Kisigi",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.17353,
+    35.61717,
+    128.17353,
+    35.61717
+],
+  "geometry": {"coordinates":[128.17353,35.61717],"type":"Point"}
+}

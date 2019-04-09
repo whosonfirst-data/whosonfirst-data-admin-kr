@@ -1,0 +1,75 @@
+{
+  "id": 1242687581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.03333,35.41667,127.03333,35.41667",
+    "geom:latitude":35.41667,
+    "geom:longitude":127.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Punt'ong",
+    "gn:country_code":"KR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838541,
+    "gn:latitude":35.41667,
+    "gn:longitude":127.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Punt\u2019ong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd84\ud1b5"
+    ],
+    "name:und_x_variant":[
+        "Punt\u2019ong-ni",
+        "Punt\u2019ong",
+        "Buntong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838541
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a748f865e7fb425fc79b9b0da90fd33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1242687581,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242687581,
+    "wof:lastmodified":1537656299,
+    "wof:name":"Punt'ong",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.03333,
+    35.41667,
+    127.03333,
+    35.41667
+],
+  "geometry": {"coordinates":[127.03333000000001,35.41667],"type":"Point"}
+}

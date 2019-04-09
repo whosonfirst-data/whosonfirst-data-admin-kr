@@ -1,0 +1,73 @@
+{
+  "id": 1209917585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.29659,33.43816,126.29659,33.43816",
+    "geom:latitude":33.43816,
+    "geom:longitude":126.29659,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jungdong",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194251,
+    "gn:latitude":33.43816,
+    "gn:longitude":126.29659,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Jungdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Chung-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194251
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e19f88df98eb6a1a59dba82da14354cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1209917585,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1209917585,
+    "wof:lastmodified":1537657004,
+    "wof:name":"Jungdong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.29659,
+    33.43816,
+    126.29659,
+    33.43816
+],
+  "geometry": {"coordinates":[126.29658999999999,33.43816],"type":"Point"}
+}

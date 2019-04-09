@@ -1,0 +1,67 @@
+{
+  "id": 1209592351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67222,37.5275,126.67222,37.5275",
+    "geom:latitude":37.5275,
+    "geom:longitude":126.67222,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kajong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363667,
+    "gn:latitude":37.5275,
+    "gn:longitude":126.67222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaj\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc815\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Kaj\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363667
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"40c64c7001b8c2d1b7d167d2e5eb3db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209592351
+        }
+    ],
+    "wof:id":1209592351,
+    "wof:lastmodified":1537657049,
+    "wof:name":"Kajong-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67222,
+    37.5275,
+    126.67222,
+    37.5275
+],
+  "geometry": {"coordinates":[126.67222,37.5275],"type":"Point"}
+}

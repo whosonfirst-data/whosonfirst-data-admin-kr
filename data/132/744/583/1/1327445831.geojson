@@ -1,0 +1,72 @@
+{
+  "id": 1327445831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.56667,34.85,128.56667,34.85",
+    "geom:latitude":34.85,
+    "geom:longitude":128.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Seiko Koku",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838241,
+    "gn:latitude":34.85,
+    "gn:longitude":128.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Seiko Koku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sek\u014dkoku",
+        "Segy\u014fnggok",
+        "Saegy\u014fnggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838241
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"859a29f190e5ba5e8e79ba7fe4bca309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474515,
+            "locality_id":1327445831,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1327445831,
+    "wof:lastmodified":1537656282,
+    "wof:name":"Seiko Koku",
+    "wof:parent_id":890474515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.56667,
+    34.85,
+    128.56667,
+    34.85
+],
+  "geometry": {"coordinates":[128.56666999999999,34.85],"type":"Point"}
+}

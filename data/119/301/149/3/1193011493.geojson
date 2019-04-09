@@ -1,0 +1,74 @@
+{
+  "id": 1193011493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.93807,37.05345,127.93807,37.05345",
+    "geom:latitude":37.05345,
+    "geom:longitude":127.93807,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baeil",
+    "gn:country_code":"KR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795751,
+    "gn:latitude":37.05345,
+    "gn:longitude":127.93807,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Baeil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc30\uc77c"
+    ],
+    "name:und_x_variant":[
+        "Paeil",
+        "Baeil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795751
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ad1334957761822ded5a29bf1270375b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1193011493,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1193011493,
+    "wof:lastmodified":1537657536,
+    "wof:name":"Baeil",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.93807,
+    37.05345,
+    127.93807,
+    37.05345
+],
+  "geometry": {"coordinates":[127.93807,37.05345],"type":"Point"}
+}

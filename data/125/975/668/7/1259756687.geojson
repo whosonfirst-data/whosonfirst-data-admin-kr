@@ -1,0 +1,75 @@
+{
+  "id": 1259756687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35236,36.30935,129.35236,36.30935",
+    "geom:latitude":36.30935,
+    "geom:longitude":129.35236,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Docheon",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895068,
+    "gn:latitude":36.30935,
+    "gn:longitude":129.35236,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Docheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Toch\u2019\u014fn-dong",
+        "Toch\u2019\u014fn",
+        "Docheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895068
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"020da7fae8a8d00bd8ff3b413b69ab3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1259756687,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259756687,
+    "wof:lastmodified":1537656874,
+    "wof:name":"Docheon",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35236,
+    36.30935,
+    129.35236,
+    36.30935
+],
+  "geometry": {"coordinates":[129.35236,36.30935],"type":"Point"}
+}

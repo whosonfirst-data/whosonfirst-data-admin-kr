@@ -1,0 +1,72 @@
+{
+  "id": 1276312033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.92083,37.06444,126.92083,37.06444",
+    "geom:latitude":37.06444,
+    "geom:longitude":126.92083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Neureon",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575458,
+    "gn:latitude":37.06444,
+    "gn:longitude":126.92083,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Neureon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub298\uc5b8",
+        "Neureon",
+        "N\u016dr\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575458
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52021a58c3ba0aa48cfa68c06c22ee03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1276312033,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276312033,
+    "wof:lastmodified":1537657270,
+    "wof:name":"Neureon",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92083,
+    37.06444000000001,
+    126.92083,
+    37.06444000000001
+],
+  "geometry": {"coordinates":[126.92083,37.06444000000001],"type":"Point"}
+}

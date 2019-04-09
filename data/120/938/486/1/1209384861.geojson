@@ -1,0 +1,64 @@
+{
+  "id": 1209384861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40679,35.88537,128.40679,35.88537",
+    "geom:latitude":35.88537,
+    "geom:longitude":128.40679,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jeoksandong",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10964614,
+    "gn:latitude":35.88537,
+    "gn:longitude":128.40679,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Jeoksandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc801\uc0b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10964614
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0c0a4e448a67f7d571f935e1d449c1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209384861
+        }
+    ],
+    "wof:id":1209384861,
+    "wof:lastmodified":1537659098,
+    "wof:name":"Jeoksandong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40679,
+    35.88537,
+    128.40679,
+    35.88537
+],
+  "geometry": {"coordinates":[128.40679,35.88537],"type":"Point"}
+}

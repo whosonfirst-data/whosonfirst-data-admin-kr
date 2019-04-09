@@ -1,0 +1,71 @@
+{
+  "id": 1310574631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3104,36.3091,128.3104,36.3091",
+    "geom:latitude":36.3091,
+    "geom:longitude":128.3104,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wolgok",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890208,
+    "gn:latitude":36.3091,
+    "gn:longitude":128.3104,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014flgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d4\uace1",
+        "W\u014flgok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890208
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"42ea9a8eaf24c90b31843955dd19a12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472251,
+            "locality_id":1310574631,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310574631,
+    "wof:lastmodified":1537658478,
+    "wof:name":"Wolgok",
+    "wof:parent_id":890472251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3104,
+    36.3091,
+    128.3104,
+    36.3091
+],
+  "geometry": {"coordinates":[128.31039999999999,36.3091],"type":"Point"}
+}

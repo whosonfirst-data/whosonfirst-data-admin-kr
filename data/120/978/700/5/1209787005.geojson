@@ -1,0 +1,73 @@
+{
+  "id": 1209787005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02073,37.0744,127.02073,37.0744",
+    "geom:latitude":37.0744,
+    "geom:longitude":127.02073,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gugeongni",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575482,
+    "gn:latitude":37.0744,
+    "gn:longitude":127.02073,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gugeongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\uc5b5\ub9ac",
+        "Gueok-ri",
+        "Ku\u014fng-ni",
+        "Gugeongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575482
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8472d1c3e80d4cd64d0c9453aa0eae57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1209787005,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209787005,
+    "wof:lastmodified":1537657272,
+    "wof:name":"Gugeongni",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02073,
+    37.0744,
+    127.02073,
+    37.0744
+],
+  "geometry": {"coordinates":[127.02073,37.0744],"type":"Point"}
+}

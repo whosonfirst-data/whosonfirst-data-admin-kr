@@ -1,0 +1,67 @@
+{
+  "id": 1242769915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32639,37.40167,128.32639,37.40167",
+    "geom:latitude":37.40167,
+    "geom:longitude":128.32639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wondang",
+    "gn:country_code":"KR",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890507,
+    "gn:latitude":37.40167,
+    "gn:longitude":128.32639,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"W\u014fndang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890507
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fd0e3d34912f4fb55b25c559420c0f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1242769915,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242769915,
+    "wof:lastmodified":1536787172,
+    "wof:name":"Wondang",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32639,
+    37.40167,
+    128.32639,
+    37.40167
+],
+  "geometry": {"coordinates":[128.32639,37.40167],"type":"Point"}
+}

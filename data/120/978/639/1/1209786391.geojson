@@ -1,0 +1,71 @@
+{
+  "id": 1209786391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0164,36.9867,129.0164,36.9867",
+    "geom:latitude":36.9867,
+    "geom:longitude":129.0164,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hongjom",
+    "gn:country_code":"KR",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6895592,
+    "gn:latitude":36.9867,
+    "gn:longitude":129.0164,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hongj\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud64d\uc810",
+        "Hongj\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6895592
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9b01f62731562925563256daabf554a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1209786391,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209786391,
+    "wof:lastmodified":1537658631,
+    "wof:name":"Hongjom",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0164,
+    36.9867,
+    129.0164,
+    36.9867
+],
+  "geometry": {"coordinates":[129.0164,36.9867],"type":"Point"}
+}

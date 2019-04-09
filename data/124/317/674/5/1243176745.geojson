@@ -1,0 +1,73 @@
+{
+  "id": 1243176745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0987,37.1718,128.0987,37.1718",
+    "geom:latitude":37.1718,
+    "geom:longitude":128.0987,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"T'ap-tong",
+    "gn:country_code":"KR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797251,
+    "gn:latitude":37.1718,
+    "gn:longitude":128.0987,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019ap-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0d1\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "T\u2019ap-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797251
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"68c59f44cb3dd08657266d0895fea5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1243176745,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243176745,
+    "wof:lastmodified":1537657583,
+    "wof:name":"T'ap-tong",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0987,
+    37.1718,
+    128.0987,
+    37.1718
+],
+  "geometry": {"coordinates":[128.09870000000001,37.1718],"type":"Point"}
+}

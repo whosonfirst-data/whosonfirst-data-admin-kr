@@ -1,0 +1,71 @@
+{
+  "id": 1242653637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1556,36.3211,127.1556,36.3211",
+    "geom:latitude":36.3211,
+    "geom:longitude":127.1556,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Songmit",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6882897,
+    "gn:latitude":36.3211,
+    "gn:longitude":127.1556,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fngmit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc131\ubc11",
+        "S\u014fngmit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6882897
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1acbe7fcb7c620d717bf0c2b6d9049ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1242653637,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1242653637,
+    "wof:lastmodified":1537658270,
+    "wof:name":"Songmit",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1556,
+    36.3211,
+    127.1556,
+    36.3211
+],
+  "geometry": {"coordinates":[127.15560000000001,36.3211],"type":"Point"}
+}

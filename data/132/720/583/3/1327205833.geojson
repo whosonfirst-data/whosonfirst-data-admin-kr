@@ -1,0 +1,70 @@
+{
+  "id": 1327205833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79244,35.30266,126.79244,35.30266",
+    "geom:latitude":35.30266,
+    "geom:longitude":126.79244,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Maehwa",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170046,
+    "gn:latitude":35.30266,
+    "gn:longitude":126.79244,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Maehwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9e4\ud654"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170046
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a3ffc3827f54a16a84b153d1580efc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1327205833,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327205833,
+    "wof:lastmodified":1537659184,
+    "wof:name":"Maehwa",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79243999999998,
+    35.30266,
+    126.79243999999998,
+    35.30266
+],
+  "geometry": {"coordinates":[126.79243999999998,35.30266],"type":"Point"}
+}

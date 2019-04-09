@@ -1,0 +1,64 @@
+{
+  "id": 1209185963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81209,34.96251,126.81209,34.96251",
+    "geom:latitude":34.96251,
+    "geom:longitude":126.81209,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chamnaengi",
+    "gn:country_code":"KR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193093,
+    "gn:latitude":34.96251,
+    "gn:longitude":126.81209,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Chamnaengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc38\ub0c9\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193093
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed135c44969bc3d3621f6d5132504b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209185963
+        }
+    ],
+    "wof:id":1209185963,
+    "wof:lastmodified":1537659226,
+    "wof:name":"Chamnaengi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81209,
+    34.96250999999999,
+    126.81209,
+    34.96250999999999
+],
+  "geometry": {"coordinates":[126.81209,34.96250999999999],"type":"Point"}
+}

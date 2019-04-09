@@ -1,0 +1,75 @@
+{
+  "id": 1276246795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85,35.41667,126.85,35.41667",
+    "geom:latitude":35.41667,
+    "geom:longitude":126.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sinung",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836830,
+    "gn:latitude":35.41667,
+    "gn:longitude":126.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc6c5"
+    ],
+    "name:und_x_variant":[
+        "Sinung-ni",
+        "Sinung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836830
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"31b4ce6da71b2faaf2d644aaa81c00cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1276246795,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276246795,
+    "wof:lastmodified":1537656206,
+    "wof:name":"Sinung",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85,
+    35.41667,
+    126.85,
+    35.41667
+],
+  "geometry": {"coordinates":[126.84999999999999,35.41667],"type":"Point"}
+}

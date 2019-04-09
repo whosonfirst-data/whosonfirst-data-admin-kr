@@ -1,0 +1,78 @@
+{
+  "id": 1260378895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93472,37.48194,126.93472,37.48194",
+    "geom:latitude":37.48194,
+    "geom:longitude":126.93472,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sillim-dong",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837346,
+    "gn:latitude":37.48194,
+    "gn:longitude":126.93472,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Sillim-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sillim-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ub9bc\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uc2e0\ub9bc\ub3d9",
+        "Sinnim-ni",
+        "Sillim-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890472187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837346
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d433fc1ce5b80d32ef5ca070714da75c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472187,
+            "locality_id":1260378895,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1260378895,
+    "wof:lastmodified":1537656232,
+    "wof:name":"Sillim-dong",
+    "wof:parent_id":890472187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93472,
+    37.48194,
+    126.93472,
+    37.48194
+],
+  "geometry": {"coordinates":[126.93472,37.48194],"type":"Point"}
+}

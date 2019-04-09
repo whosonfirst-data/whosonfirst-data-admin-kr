@@ -1,0 +1,70 @@
+{
+  "id": 1276410737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.26219,35.79226,129.26219,35.79226",
+    "geom:latitude":35.79226,
+    "geom:longitude":129.26219,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wonmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077704,
+    "gn:latitude":35.79226,
+    "gn:longitude":129.26219,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Wonmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077704
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"760c3665f81b3aafac10d01a4b3125ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1276410737,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276410737,
+    "wof:lastmodified":1537659131,
+    "wof:name":"Wonmaeul",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.26219,
+    35.79226,
+    129.26219,
+    35.79226
+],
+  "geometry": {"coordinates":[129.26219,35.79226],"type":"Point"}
+}

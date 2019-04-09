@@ -1,0 +1,70 @@
+{
+  "id": 1226563853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.869,37.72909,128.869,37.72909",
+    "geom:latitude":37.72909,
+    "geom:longitude":128.869,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chebi-ri",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6816786,
+    "gn:latitude":37.72909,
+    "gn:longitude":128.869,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chebi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc81c\ube44\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816786
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"69bd34dc4140df3605ae4f062129cc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1226563853,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226563853,
+    "wof:lastmodified":1537658100,
+    "wof:name":"Chebi-ri",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.869,
+    37.72909,
+    128.869,
+    37.72909
+],
+  "geometry": {"coordinates":[128.869,37.72909],"type":"Point"}
+}

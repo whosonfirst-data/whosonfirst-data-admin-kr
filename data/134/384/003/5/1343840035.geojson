@@ -1,0 +1,75 @@
+{
+  "id": 1343840035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.99024,35.08411,126.99024,35.08411",
+    "geom:latitude":35.08411,
+    "geom:longitude":126.99024,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Donggu-ri",
+    "gn:country_code":"KR",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834283,
+    "gn:latitude":35.08411,
+    "gn:longitude":126.99024,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Donggu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uad6c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Tonggu-ri",
+        "Tonggu",
+        "Donggu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834283
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1eb0fd8e76eec3c130e9d3d0317650fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1343840035,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343840035,
+    "wof:lastmodified":1537656077,
+    "wof:name":"Donggu-ri",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.99024,
+    35.08411,
+    126.99024,
+    35.08411
+],
+  "geometry": {"coordinates":[126.99024,35.08411],"type":"Point"}
+}

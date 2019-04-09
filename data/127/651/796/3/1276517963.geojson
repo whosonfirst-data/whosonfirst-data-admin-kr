@@ -1,0 +1,75 @@
+{
+  "id": 1276517963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.06954,36.74292,128.06954,36.74292",
+    "geom:latitude":36.74292,
+    "geom:longitude":128.06954,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gakseo",
+    "gn:country_code":"KR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843314,
+    "gn:latitude":36.74292,
+    "gn:longitude":128.06954,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Gakseo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac01\uc11c"
+    ],
+    "name:und_x_variant":[
+        "Kaks\u014f-ri",
+        "Kaks\u014f",
+        "Gakseo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843314
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6e03eab07ad93e13e436200799bc9575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1276517963,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276517963,
+    "wof:lastmodified":1537656542,
+    "wof:name":"Gakseo",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.06954,
+    36.74292,
+    128.06954,
+    36.74292
+],
+  "geometry": {"coordinates":[128.06953999999999,36.74292],"type":"Point"}
+}

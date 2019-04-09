@@ -1,0 +1,72 @@
+{
+  "id": 1343347665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29028,37.3075,127.29028,37.3075",
+    "geom:latitude":37.3075,
+    "geom:longitude":127.29028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sieo-gol",
+    "gn:country_code":"KR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577387,
+    "gn:latitude":37.3075,
+    "gn:longitude":127.29028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sieo-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2dc\uc5b4\uace8",
+        "Sieo-gol",
+        "Si\u014f-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577387
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d3cc000305434f9720e3837a09c39707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1343347665,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343347665,
+    "wof:lastmodified":1537657361,
+    "wof:name":"Sieo-gol",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29028,
+    37.3075,
+    127.29028,
+    37.3075
+],
+  "geometry": {"coordinates":[127.29028,37.3075],"type":"Point"}
+}

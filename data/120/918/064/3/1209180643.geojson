@@ -1,0 +1,65 @@
+{
+  "id": 1209180643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5748,36.5961,126.5748,36.5961",
+    "geom:latitude":36.5961,
+    "geom:longitude":126.5748,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tangmaru",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809949,
+    "gn:latitude":36.5961,
+    "gn:longitude":126.5748,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tangmaru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2f9\ub9c8\ub8e8",
+        "Tangmaru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809949
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ef8059adb4e6bf5d88f1008417dcc8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209180643
+        }
+    ],
+    "wof:id":1209180643,
+    "wof:lastmodified":1537657892,
+    "wof:name":"Tangmaru",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5748,
+    36.5961,
+    126.5748,
+    36.5961
+],
+  "geometry": {"coordinates":[126.5748,36.5961],"type":"Point"}
+}

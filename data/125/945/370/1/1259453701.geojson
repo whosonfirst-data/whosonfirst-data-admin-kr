@@ -1,0 +1,70 @@
+{
+  "id": 1259453701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.31021,35.78545,129.31021,35.78545",
+    "geom:latitude":35.78545,
+    "geom:longitude":129.31021,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Keunmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077857,
+    "gn:latitude":35.78545,
+    "gn:longitude":129.31021,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Keunmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077857
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aa18b66f03a141fff295d8c778e85bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1259453701,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259453701,
+    "wof:lastmodified":1537659132,
+    "wof:name":"Keunmaeul",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.31021,
+    35.78545,
+    129.31021,
+    35.78545
+],
+  "geometry": {"coordinates":[129.31021000000001,35.78545],"type":"Point"}
+}

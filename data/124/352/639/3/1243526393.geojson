@@ -1,0 +1,67 @@
+{
+  "id": 1243526393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02861,35.17778,127.02861,35.17778",
+    "geom:latitude":35.17778,
+    "geom:longitude":127.02861,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yonch'ol-li",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885463,
+    "gn:latitude":35.17778,
+    "gn:longitude":127.02861,
+    "gn:modification_date":"2001-08-22",
+    "gn:name":"Y\u014fnch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885463
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1070aedf567eab1b7d2068e7c1d99216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1243526393,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243526393,
+    "wof:lastmodified":1536690515,
+    "wof:name":"Yonch'ol-li",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02861,
+    35.17778,
+    127.02861,
+    35.17778
+],
+  "geometry": {"coordinates":[127.02861,35.17778],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209589913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34011,35.15245,128.34011,35.15245",
+    "geom:latitude":35.15245,
+    "geom:longitude":128.34011,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kyeryong",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899312,
+    "gn:latitude":35.15245,
+    "gn:longitude":128.34011,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kyeryong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacc4\ub8e1",
+        "Kyeryong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899312
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c090414e85f7a6eaf89e77b6d6675b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209589913
+        }
+    ],
+    "wof:id":1209589913,
+    "wof:lastmodified":1537658737,
+    "wof:name":"Kyeryong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34011,
+    35.15245,
+    128.34011,
+    35.15245
+],
+  "geometry": {"coordinates":[128.34011000000001,35.15245],"type":"Point"}
+}

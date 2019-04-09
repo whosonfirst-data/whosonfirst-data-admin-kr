@@ -1,0 +1,75 @@
+{
+  "id": 1226252465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21995,34.45129,127.21995,34.45129",
+    "geom:latitude":34.45129,
+    "geom:longitude":127.21995,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Cheongseok",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845524,
+    "gn:latitude":34.45129,
+    "gn:longitude":127.21995,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Cheongseok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\uc11d"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fngs\u014fng-ni",
+        "Ch\u2019\u014fngs\u014fkk\u016dm",
+        "Cheongseok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845524
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"751883301fbf17eec1c860fa3602904e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1226252465,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226252465,
+    "wof:lastmodified":1537656653,
+    "wof:name":"Cheongseok",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21995,
+    34.45129,
+    127.21995,
+    34.45129
+],
+  "geometry": {"coordinates":[127.21995,34.45129],"type":"Point"}
+}

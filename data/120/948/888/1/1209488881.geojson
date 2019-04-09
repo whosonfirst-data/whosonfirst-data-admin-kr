@@ -1,0 +1,64 @@
+{
+  "id": 1209488881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.373,36.42812,129.373,36.42812",
+    "geom:latitude":36.42812,
+    "geom:longitude":129.373,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Midong",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245567,
+    "gn:latitude":36.42812,
+    "gn:longitude":129.373,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Midong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubbf8\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245567
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1593f0023db9f32ef5f99e3033ce5eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209488881
+        }
+    ],
+    "wof:id":1209488881,
+    "wof:lastmodified":1537659245,
+    "wof:name":"Midong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.373,
+    36.42812,
+    129.373,
+    36.42812
+],
+  "geometry": {"coordinates":[129.37299999999999,36.42812],"type":"Point"}
+}

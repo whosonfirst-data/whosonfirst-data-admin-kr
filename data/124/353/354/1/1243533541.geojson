@@ -1,0 +1,75 @@
+{
+  "id": 1243533541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97565,37.78652,126.97565,37.78652",
+    "geom:latitude":37.78652,
+    "geom:longitude":126.97565,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Witkaraebi",
+    "gn:country_code":"KR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799395,
+    "gn:latitude":37.78652,
+    "gn:longitude":126.97565,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Witkaraebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\uac00\ub798\ube44"
+    ],
+    "name:und_x_variant":[
+        "\uc6c3\uac00\ub798\ube44",
+        "Ukkaraebi",
+        "Witkaraebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799395
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed3c8fdd385e5c41ca59f2ccc3928b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1243533541,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243533541,
+    "wof:lastmodified":1537657635,
+    "wof:name":"Witkaraebi",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97565,
+    37.78652,
+    126.97565,
+    37.78652
+],
+  "geometry": {"coordinates":[126.97565,37.78652],"type":"Point"}
+}

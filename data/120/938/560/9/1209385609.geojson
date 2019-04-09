@@ -1,0 +1,64 @@
+{
+  "id": 1209385609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.30382,36.19453,129.30382,36.19453",
+    "geom:latitude":36.19453,
+    "geom:longitude":129.30382,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Seogye",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246012,
+    "gn:latitude":36.19453,
+    "gn:longitude":129.30382,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Seogye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uacc4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246012
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a5b97412b209a00eca270a74d3d3a142",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209385609
+        }
+    ],
+    "wof:id":1209385609,
+    "wof:lastmodified":1537659246,
+    "wof:name":"Seogye",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.30382,
+    36.19453,
+    129.30382,
+    36.19453
+],
+  "geometry": {"coordinates":[129.30382,36.19453],"type":"Point"}
+}

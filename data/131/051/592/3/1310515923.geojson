@@ -1,0 +1,75 @@
+{
+  "id": 1310515923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.13281,35.13909,126.13281,35.13909",
+    "geom:latitude":35.13909,
+    "geom:longitude":126.13281,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gwaegilli",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841906,
+    "gn:latitude":35.13909,
+    "gn:longitude":126.13281,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Gwaegilli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad18\uae38\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Koegil-li",
+        "Kwaegil-li",
+        "Gwaegilli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841906
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"948f2668856ebd2ad034f1fbd121f590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1310515923,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310515923,
+    "wof:lastmodified":1537656468,
+    "wof:name":"Gwaegilli",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.13281,
+    35.13909,
+    126.13281,
+    35.13909
+],
+  "geometry": {"coordinates":[126.13281000000001,35.13909],"type":"Point"}
+}

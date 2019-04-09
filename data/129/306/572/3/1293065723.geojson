@@ -1,0 +1,76 @@
+{
+  "id": 1293065723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.90306,35.0275,127.90306,35.0275",
+    "geom:latitude":35.0275,
+    "geom:longitude":127.90306,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chindari",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846072,
+    "gn:latitude":35.0275,
+    "gn:longitude":127.90306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chindari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shinky\u014d-ri",
+        "Sinky\u014dri",
+        "Chin\u2019gyo-dong",
+        "Chindari",
+        "Chikyo-ri",
+        "Chin\u2019gyo",
+        "Chin\u2019gyo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846072
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"284d91ae2514b2f23901d54ff5991f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475073,
+            "locality_id":1293065723,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293065723,
+    "wof:lastmodified":1537656682,
+    "wof:name":"Chindari",
+    "wof:parent_id":890475073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.90306,
+    35.0275,
+    127.90306,
+    35.0275
+],
+  "geometry": {"coordinates":[127.90306,35.0275],"type":"Point"}
+}

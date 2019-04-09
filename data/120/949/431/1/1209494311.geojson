@@ -1,0 +1,73 @@
+{
+  "id": 1209494311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.54251,37.134,127.54251,37.134",
+    "geom:latitude":37.134,
+    "geom:longitude":127.54251,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sebu",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896864,
+    "gn:latitude":37.134,
+    "gn:longitude":127.54251,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Sebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc138\ubd93"
+    ],
+    "name:kor_x_variant":[
+        "\uc138\ubd80"
+    ],
+    "name:und_x_variant":[
+        "Saebut",
+        "Seb\u016dt",
+        "Sebut",
+        "Sebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896864
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4410326ecda25959ebd9b5bd0484f989",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209494311
+        }
+    ],
+    "wof:id":1209494311,
+    "wof:lastmodified":1537656916,
+    "wof:name":"Sebu",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.54251,
+    37.134,
+    127.54251,
+    37.134
+],
+  "geometry": {"coordinates":[127.54250999999999,37.134],"type":"Point"}
+}

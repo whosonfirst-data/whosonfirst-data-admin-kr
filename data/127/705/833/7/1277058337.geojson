@@ -1,0 +1,71 @@
+{
+  "id": 1277058337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45,34.95,126.45,34.95",
+    "geom:latitude":34.95,
+    "geom:longitude":126.45,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"T'aebong",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835490,
+    "gn:latitude":34.95,
+    "gn:longitude":126.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u2019aebong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019aebong-ni",
+        "T\u2019aebong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835490
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"42d79431c2b34dece2160aaa10bdc2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1277058337,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1277058337,
+    "wof:lastmodified":1537656140,
+    "wof:name":"T'aebong",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45,
+    34.95,
+    126.45,
+    34.95
+],
+  "geometry": {"coordinates":[126.45,34.95],"type":"Point"}
+}

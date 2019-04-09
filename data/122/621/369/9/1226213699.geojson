@@ -1,0 +1,75 @@
+{
+  "id": 1226213699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22222,37.20222,127.22222,37.20222",
+    "geom:latitude":37.20222,
+    "geom:longitude":127.22222,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Cheon-ri",
+    "gn:country_code":"KR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1845441,
+    "gn:latitude":37.20222,
+    "gn:longitude":127.22222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cheon-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc9c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019\u014fn-ni",
+        "Ch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845441
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be5be19043ba64e40ae81046c61d8349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1226213699,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226213699,
+    "wof:lastmodified":1537656649,
+    "wof:name":"Cheon-ri",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22222,
+    37.20222,
+    127.22222,
+    37.20222
+],
+  "geometry": {"coordinates":[127.22221999999999,37.20222],"type":"Point"}
+}

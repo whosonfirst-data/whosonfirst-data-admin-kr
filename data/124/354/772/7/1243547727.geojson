@@ -1,0 +1,73 @@
+{
+  "id": 1243547727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9389,36.0744,127.9389,36.0744",
+    "geom:latitude":36.0744,
+    "geom:longitude":127.9389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hungdok",
+    "gn:country_code":"KR",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844099,
+    "gn:latitude":36.0744,
+    "gn:longitude":127.9389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u016dngd\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014flbor\u016dmi",
+        "H\u016dngd\u014fng-ni",
+        "\ud765\ub355",
+        "H\u016dngd\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844099
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3cbfada57830c7e4fe3c6320ad0679dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473559,
+            "locality_id":1243547727,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243547727,
+    "wof:lastmodified":1537656578,
+    "wof:name":"Hungdok",
+    "wof:parent_id":890473559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9389,
+    36.0744,
+    127.9389,
+    36.0744
+],
+  "geometry": {"coordinates":[127.9389,36.0744],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226832431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.08652,35.97251,128.08652,35.97251",
+    "geom:latitude":35.97251,
+    "geom:longitude":128.08652,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nabu-dong",
+    "gn:country_code":"KR",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902359,
+    "gn:latitude":35.97251,
+    "gn:longitude":128.08652,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nabu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub098\ubd80\ub3d9",
+        "Nabu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902359
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b067a6af056a59568999fd6e94eed1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1226832431,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226832431,
+    "wof:lastmodified":1537658814,
+    "wof:name":"Nabu-dong",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.08652,
+    35.97251,
+    128.08652,
+    35.97251
+],
+  "geometry": {"coordinates":[128.08652000000001,35.97251],"type":"Point"}
+}

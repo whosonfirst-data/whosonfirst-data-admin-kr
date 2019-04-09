@@ -1,0 +1,70 @@
+{
+  "id": 1293461655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.78126,35.227,126.78126,35.227",
+    "geom:latitude":35.227,
+    "geom:longitude":126.78126,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geomjeong",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171696,
+    "gn:latitude":35.227,
+    "gn:longitude":126.78126,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Geomjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac80\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171696
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f50e458576deda1fa65b17d215a54c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1293461655,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293461655,
+    "wof:lastmodified":1537659206,
+    "wof:name":"Geomjeong",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.78126,
+    35.227,
+    126.78126,
+    35.227
+],
+  "geometry": {"coordinates":[126.78126,35.227],"type":"Point"}
+}

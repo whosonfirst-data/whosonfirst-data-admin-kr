@@ -1,0 +1,67 @@
+{
+  "id": 1344140237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.25,36.36667,128.25,36.36667",
+    "geom:latitude":36.36667,
+    "geom:longitude":128.25,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Songch'on",
+    "gn:country_code":"KR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836323,
+    "gn:latitude":36.36667,
+    "gn:longitude":128.25,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Songch\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836323
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9bdbbcedbd2e2fd3044593114781f581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1344140237,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344140237,
+    "wof:lastmodified":1536760731,
+    "wof:name":"Songch'on",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.25,
+    36.36667,
+    128.25,
+    36.36667
+],
+  "geometry": {"coordinates":[128.25,36.36667],"type":"Point"}
+}

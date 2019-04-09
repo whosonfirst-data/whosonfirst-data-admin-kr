@@ -1,0 +1,74 @@
+{
+  "id": 1259469075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3782,37.5589,127.3782,37.5589",
+    "geom:latitude":37.5589,
+    "geom:longitude":127.3782,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mokwang",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802927,
+    "gn:latitude":37.5589,
+    "gn:longitude":127.3782,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Mokwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa9\uc655"
+    ],
+    "name:und_x_variant":[
+        "\ubaa9\uc655",
+        "Mokwang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802927
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"296414d60e04dfc6b63451fe9715a3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1259469075,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259469075,
+    "wof:lastmodified":1537657762,
+    "wof:name":"Mokwang",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3782,
+    37.5589,
+    127.3782,
+    37.5589
+],
+  "geometry": {"coordinates":[127.37820000000001,37.5589],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209791445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.94224,35.21197,126.94224,35.21197",
+    "geom:latitude":35.21197,
+    "geom:longitude":126.94224,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Yongho",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832469,
+    "gn:latitude":35.21197,
+    "gn:longitude":126.94224,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Yongho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ud638"
+    ],
+    "name:und_x_variant":[
+        "Yongho-ri",
+        "Yongho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832469
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f8a903e310c3a5600f6f7605b94fd45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473321,
+            "locality_id":1209791445,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1209791445,
+    "wof:lastmodified":1537655980,
+    "wof:name":"Yongho",
+    "wof:parent_id":890473321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.94223999999998,
+    35.21197,
+    126.94223999999998,
+    35.21197
+],
+  "geometry": {"coordinates":[126.94223999999998,35.21197],"type":"Point"}
+}

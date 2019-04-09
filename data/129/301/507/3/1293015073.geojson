@@ -1,0 +1,67 @@
+{
+  "id": 1293015073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48333,35.1,127.48333,35.1",
+    "geom:latitude":35.1,
+    "geom:longitude":127.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kangmun",
+    "gn:country_code":"KR",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843142,
+    "gn:latitude":35.1,
+    "gn:longitude":127.48333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Kangmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843142
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b8c285cbcd749918092962646f38a039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1293015073,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293015073,
+    "wof:lastmodified":1536970669,
+    "wof:name":"Kangmun",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48333,
+    35.1,
+    127.48333,
+    35.1
+],
+  "geometry": {"coordinates":[127.48333,35.1],"type":"Point"}
+}

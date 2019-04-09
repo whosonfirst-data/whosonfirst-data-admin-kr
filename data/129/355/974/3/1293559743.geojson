@@ -1,0 +1,70 @@
+{
+  "id": 1293559743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.49778,35.91646,129.49778,35.91646",
+    "geom:latitude":35.91646,
+    "geom:longitude":129.49778,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Beomo",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11249636,
+    "gn:latitude":35.91646,
+    "gn:longitude":129.49778,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Beomo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc94\uc624"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249636
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d141b9a83371abe155ea27d6c3e015b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1293559743,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293559743,
+    "wof:lastmodified":1537659255,
+    "wof:name":"Beomo",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.49778,
+    35.91646,
+    129.49778,
+    35.91646
+],
+  "geometry": {"coordinates":[129.49778000000001,35.91646],"type":"Point"}
+}

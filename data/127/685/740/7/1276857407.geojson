@@ -1,0 +1,78 @@
+{
+  "id": 1276857407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53206,37.05896,127.53206,37.05896",
+    "geom:latitude":37.05896,
+    "geom:longitude":127.53206,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bangchungmal",
+    "gn:country_code":"KR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812718,
+    "gn:latitude":37.05896,
+    "gn:longitude":127.53206,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bangchungmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uc8fd\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "\ubc29\ucd95\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Bangjukmal",
+        "Pangjung-mal",
+        "Bangchungmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812718
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f6d4fa39fdc4721f20a04e6ef8040e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1276857407,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276857407,
+    "wof:lastmodified":1537657981,
+    "wof:name":"Bangchungmal",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53206000000002,
+    37.05896,
+    127.53206000000002,
+    37.05896
+],
+  "geometry": {"coordinates":[127.53206000000002,37.05896],"type":"Point"}
+}

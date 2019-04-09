@@ -1,0 +1,73 @@
+{
+  "id": 1243072289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.56389,36.92444,127.56389,36.92444",
+    "geom:latitude":36.92444,
+    "geom:longitude":127.56389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ssangjong-ni",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837708,
+    "gn:latitude":36.92444,
+    "gn:longitude":127.56389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ssangj\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangj\u014fng-ni",
+        "Ssangj\u014fng-ri",
+        "Ssangj\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837708
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e77a1f3c0a1b2398116ce4b3214aac56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1243072289,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243072289,
+    "wof:lastmodified":1537656252,
+    "wof:name":"Ssangjong-ni",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.56389,
+    36.92444,
+    127.56389,
+    36.92444
+],
+  "geometry": {"coordinates":[127.56389,36.92444],"type":"Point"}
+}

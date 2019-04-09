@@ -1,0 +1,74 @@
+{
+  "id": 1344144863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.13958,37.55158,127.13958,37.55158",
+    "geom:latitude":37.55158,
+    "geom:longitude":127.13958,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Amsasa-dong",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6800246,
+    "gn:latitude":37.55158,
+    "gn:longitude":127.13958,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Amsasa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc554\uc0ac4\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uc554\uc0ac4\ub3d9",
+        "Amsasa-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890473483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6800246
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"29f904631c675e41978ecbd04f5a7ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473483,
+            "locality_id":1344144863,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1344144863,
+    "wof:lastmodified":1537657670,
+    "wof:name":"Amsasa-dong",
+    "wof:parent_id":890473483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.13958,
+    37.55158,
+    127.13958,
+    37.55158
+],
+  "geometry": {"coordinates":[127.13958,37.55158],"type":"Point"}
+}

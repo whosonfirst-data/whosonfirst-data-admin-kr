@@ -1,0 +1,71 @@
+{
+  "id": 1293754929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9975,37.34694,126.9975,37.34694",
+    "geom:latitude":37.34694,
+    "geom:longitude":126.9975,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wangnim",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833479,
+    "gn:latitude":37.34694,
+    "gn:longitude":126.9975,
+    "gn:modification_date":"2007-07-25",
+    "gn:name":"Wangnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wangnim-ni",
+        "\uc655\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833479
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7d58b73ba15f1002f85e556a6f01a2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474637,
+            "locality_id":1293754929,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293754929,
+    "wof:lastmodified":1537656036,
+    "wof:name":"Wangnim",
+    "wof:parent_id":890474637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9975,
+    37.34694,
+    126.9975,
+    37.34694
+],
+  "geometry": {"coordinates":[126.9975,37.34694],"type":"Point"}
+}

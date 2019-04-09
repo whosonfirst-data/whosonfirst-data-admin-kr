@@ -1,0 +1,70 @@
+{
+  "id": 1327127935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.91386,35.2153,128.91386,35.2153",
+    "geom:latitude":35.2153,
+    "geom:longitude":128.91386,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Siman",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117845,
+    "gn:latitude":35.2153,
+    "gn:longitude":128.91386,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Siman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dc\ub9cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117845
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb2c53fb0eb084bd85b2de2d76db4af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475303,
+            "locality_id":1327127935,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1327127935,
+    "wof:lastmodified":1537659167,
+    "wof:name":"Siman",
+    "wof:parent_id":890475303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.91386,
+    35.2153,
+    128.91386,
+    35.2153
+],
+  "geometry": {"coordinates":[128.91386,35.2153],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327347341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.22889,33.38778,126.22889,33.38778",
+    "geom:latitude":33.38778,
+    "geom:longitude":126.22889,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Pukcheju-gun",
+    "gn:asciiname":"Kumnung-ni",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842189,
+    "gn:latitude":33.38778,
+    "gn:longitude":126.22889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u016dmn\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016dmn\u016dng",
+        "Kinry\u014d-ri",
+        "K\u016dmn\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842189
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ede8f382cb8a79b84f4602488b66c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1327347341,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1327347341,
+    "wof:lastmodified":1537656484,
+    "wof:name":"Kumnung-ni",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.22889,
+    33.38778,
+    126.22889,
+    33.38778
+],
+  "geometry": {"coordinates":[126.22889000000001,33.38778],"type":"Point"}
+}

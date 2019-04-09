@@ -1,0 +1,70 @@
+{
+  "id": 1226514115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82702,34.94785,126.82702,34.94785",
+    "geom:latitude":34.94785,
+    "geom:longitude":126.82702,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gyudong",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192859,
+    "gn:latitude":34.94785,
+    "gn:longitude":126.82702,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gyudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uaddc\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192859
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e4c00a3be4a0a8b07e21a461864a275f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1226514115,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226514115,
+    "wof:lastmodified":1537659226,
+    "wof:name":"Gyudong",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82702,
+    34.94785,
+    126.82702,
+    34.94785
+],
+  "geometry": {"coordinates":[126.82702,34.94785],"type":"Point"}
+}

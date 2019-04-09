@@ -1,0 +1,71 @@
+{
+  "id": 1293253787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.05483,35.52472,128.05483,35.52472",
+    "geom:latitude":35.52472,
+    "geom:longitude":128.05483,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Songt'o",
+    "gn:country_code":"KR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904647,
+    "gn:latitude":35.52472,
+    "gn:longitude":128.05483,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songt\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\ud130",
+        "Songt\u2019\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904647
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed66bb6c9e8c04ae3a620516093ac1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1293253787,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293253787,
+    "wof:lastmodified":1537658876,
+    "wof:name":"Songt'o",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.05483,
+    35.52472,
+    128.05483,
+    35.52472
+],
+  "geometry": {"coordinates":[128.05483000000001,35.52472],"type":"Point"}
+}

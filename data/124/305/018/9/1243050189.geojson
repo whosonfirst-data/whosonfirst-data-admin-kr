@@ -1,0 +1,74 @@
+{
+  "id": 1243050189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67895,34.79048,126.67895,34.79048",
+    "geom:latitude":34.79048,
+    "geom:longitude":126.67895,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nogam",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840300,
+    "gn:latitude":34.79048,
+    "gn:longitude":126.67895,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Nogam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub179\uc554"
+    ],
+    "name:und_x_variant":[
+        "Nongmun-ni",
+        "Nogam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840300
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"18b7697ee933b59dd62e9382a1a71caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1243050189,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243050189,
+    "wof:lastmodified":1537656389,
+    "wof:name":"Nogam",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67895,
+    34.79048,
+    126.67895,
+    34.79048
+],
+  "geometry": {"coordinates":[126.67895,34.79048],"type":"Point"}
+}

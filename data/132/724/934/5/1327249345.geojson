@@ -1,0 +1,74 @@
+{
+  "id": 1327249345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5,35.36667,126.5,35.36667",
+    "geom:latitude":35.36667,
+    "geom:longitude":126.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Palmak",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839384,
+    "gn:latitude":35.36667,
+    "gn:longitude":126.5,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Palmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc1c\ub9c9"
+    ],
+    "name:und_x_variant":[
+        "Balmak",
+        "Palmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839384
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d509b2bc90c9fc56336f4d3dbf8e1e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1327249345,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1327249345,
+    "wof:lastmodified":1537656342,
+    "wof:name":"Palmak",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5,
+    35.36667,
+    126.5,
+    35.36667
+],
+  "geometry": {"coordinates":[126.5,35.36667],"type":"Point"}
+}

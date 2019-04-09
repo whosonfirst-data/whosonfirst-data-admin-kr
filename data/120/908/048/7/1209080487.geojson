@@ -1,0 +1,65 @@
+{
+  "id": 1209080487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.49652,35.31963,128.49652,35.31963",
+    "geom:latitude":35.31963,
+    "geom:longitude":128.49652,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"An'gi",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898517,
+    "gn:latitude":35.31963,
+    "gn:longitude":128.49652,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"An\u2019gi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\uae30",
+        "An\u2019gi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898517
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1dbc3560db3a351f4f5bf5e3fec218e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209080487
+        }
+    ],
+    "wof:id":1209080487,
+    "wof:lastmodified":1537658721,
+    "wof:name":"An'gi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.49652,
+    35.31963,
+    128.49652,
+    35.31963
+],
+  "geometry": {"coordinates":[128.49652,35.31963],"type":"Point"}
+}

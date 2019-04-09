@@ -1,0 +1,78 @@
+{
+  "id": 1225809113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25111,34.62705,127.25111,34.62705",
+    "geom:latitude":34.62705,
+    "geom:longitude":127.25111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gancheon",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843196,
+    "gn:latitude":34.62705,
+    "gn:longitude":127.25111,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Gancheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac04\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Kanch\u2019\u014fn",
+        "\uac04\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Kanch\u2019\u014fn-ni",
+        "Gancheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843196
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"278aad493c96dfc3983badb8b1126190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1225809113,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225809113,
+    "wof:lastmodified":1537656536,
+    "wof:name":"Gancheon",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25111,
+    34.62705,
+    127.25111,
+    34.62705
+],
+  "geometry": {"coordinates":[127.25111,34.62705],"type":"Point"}
+}

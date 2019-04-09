@@ -1,0 +1,65 @@
+{
+  "id": 1209076769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30098,35.77625,128.30098,35.77625",
+    "geom:latitude":35.77625,
+    "geom:longitude":128.30098,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yonbong",
+    "gn:country_code":"KR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900753,
+    "gn:latitude":35.77625,
+    "gn:longitude":128.30098,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u014fnbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5f0\ubd09",
+        "Y\u014fnbong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900753
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c8a9c045cf8363cd9ab150e740864ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209076769
+        }
+    ],
+    "wof:id":1209076769,
+    "wof:lastmodified":1537658776,
+    "wof:name":"Yonbong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30098,
+    35.77625,
+    128.30098,
+    35.77625
+],
+  "geometry": {"coordinates":[128.30098000000001,35.77625],"type":"Point"}
+}

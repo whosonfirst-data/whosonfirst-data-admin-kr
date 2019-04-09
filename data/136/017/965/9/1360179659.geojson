@@ -1,0 +1,71 @@
+{
+  "id": 1360179659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.02111,37.51778,129.02111,37.51778",
+    "geom:latitude":37.51778,
+    "geom:longitude":129.02111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kwanmal",
+    "gn:country_code":"KR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841887,
+    "gn:latitude":37.51778,
+    "gn:longitude":129.02111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwanmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwanma\u016dl",
+        "Kwan-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841887
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"855ea1bc3bd180fabba3679337f56232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476243,
+            "locality_id":1360179659,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360179659,
+    "wof:lastmodified":1537656467,
+    "wof:name":"Kwanmal",
+    "wof:parent_id":890476243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.02111000000002,
+    37.51778,
+    129.02111000000002,
+    37.51778
+],
+  "geometry": {"coordinates":[129.02111000000002,37.51778],"type":"Point"}
+}

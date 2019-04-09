@@ -1,0 +1,64 @@
+{
+  "id": 1209110721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23166,37.0376,128.23166,37.0376",
+    "geom:latitude":37.0376,
+    "geom:longitude":128.23166,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sojugol",
+    "gn:country_code":"KR",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796740,
+    "gn:latitude":37.0376,
+    "gn:longitude":128.23166,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Sojugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uc8fc\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796740
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5f8872206080d664bd666c04565484c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209110721
+        }
+    ],
+    "wof:id":1209110721,
+    "wof:lastmodified":1537657568,
+    "wof:name":"Sojugol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23166,
+    37.0376,
+    128.23166,
+    37.0376
+],
+  "geometry": {"coordinates":[128.23166000000001,37.0376],"type":"Point"}
+}

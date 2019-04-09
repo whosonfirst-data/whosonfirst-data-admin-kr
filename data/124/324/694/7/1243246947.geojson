@@ -1,0 +1,72 @@
+{
+  "id": 1243246947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32962,35.75968,128.32962,35.75968",
+    "geom:latitude":35.75968,
+    "geom:longitude":128.32962,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dammit",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900760,
+    "gn:latitude":35.75968,
+    "gn:longitude":128.32962,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Dammit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2f4\ubc11",
+        "Tammit",
+        "Dammit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900760
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"038cd3529376d3e70c348d7d53e72087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1243246947,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243246947,
+    "wof:lastmodified":1537658776,
+    "wof:name":"Dammit",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32962,
+    35.75968,
+    128.32962,
+    35.75968
+],
+  "geometry": {"coordinates":[128.32962000000001,35.75968],"type":"Point"}
+}

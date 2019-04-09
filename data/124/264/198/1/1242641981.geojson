@@ -1,0 +1,72 @@
+{
+  "id": 1242641981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.12256,34.92296,128.12256,34.92296",
+    "geom:latitude":34.92296,
+    "geom:longitude":128.12256,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Myoraedung",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840729,
+    "gn:latitude":34.92296,
+    "gn:longitude":128.12256,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Myoraed\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sad\u016dng-ni",
+        "\ubaa8\ub7ab\ub4f1",
+        "Myoraed\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840729
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"021d68f2739ce5768a1ceb5cd00de86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746461,
+            "locality_id":1242641981,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1242641981,
+    "wof:lastmodified":1537656410,
+    "wof:name":"Myoraedung",
+    "wof:parent_id":1108746461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.12256000000002,
+    34.92296,
+    128.12256000000002,
+    34.92296
+],
+  "geometry": {"coordinates":[128.12256000000002,34.92296],"type":"Point"}
+}

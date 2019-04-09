@@ -1,0 +1,71 @@
+{
+  "id": 1326496601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3528,36.1489,127.3528,36.1489",
+    "geom:latitude":36.1489,
+    "geom:longitude":127.3528,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Urumsil",
+    "gn:country_code":"KR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6887937,
+    "gn:latitude":36.1489,
+    "gn:longitude":127.3528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u016cr\u016dmsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc744\uc74c\uc2e4",
+        "\u016cr\u016dmsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6887937
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"48a3a3e9ba95edf570279080fbd0e013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473345,
+            "locality_id":1326496601,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1326496601,
+    "wof:lastmodified":1537658401,
+    "wof:name":"Urumsil",
+    "wof:parent_id":890473345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3528,
+    36.1489,
+    127.3528,
+    36.1489
+],
+  "geometry": {"coordinates":[127.3528,36.1489],"type":"Point"}
+}

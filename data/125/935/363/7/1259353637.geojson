@@ -1,0 +1,71 @@
+{
+  "id": 1259353637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8767,36.337,127.8767,36.337",
+    "geom:latitude":36.337,
+    "geom:longitude":127.8767,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Podulbaengi",
+    "gn:country_code":"KR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892234,
+    "gn:latitude":36.337,
+    "gn:longitude":127.8767,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fd\u016dlbaengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc84\ub4e4\ubc45\uc774",
+        "P\u014fd\u016dlbaengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892234
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3a0b49b3613c8ea930ae8c17b793c4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1259353637,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259353637,
+    "wof:lastmodified":1537658536,
+    "wof:name":"Podulbaengi",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8767,
+    36.337,
+    127.8767,
+    36.337
+],
+  "geometry": {"coordinates":[127.8767,36.337],"type":"Point"}
+}

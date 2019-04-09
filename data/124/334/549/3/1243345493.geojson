@@ -1,0 +1,75 @@
+{
+  "id": 1243345493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88633,34.84996,126.88633,34.84996",
+    "geom:latitude":34.84996,
+    "geom:longitude":126.88633,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gangman",
+    "gn:country_code":"KR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843143,
+    "gn:latitude":34.84996,
+    "gn:longitude":126.88633,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Gangman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\ub9cc"
+    ],
+    "name:und_x_variant":[
+        "Kangman-ni",
+        "Kangman",
+        "Gangman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843143
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3ee8cb7623690ff445fb8cb91893ac38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1243345493,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243345493,
+    "wof:lastmodified":1537656533,
+    "wof:name":"Gangman",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88633,
+    34.84996,
+    126.88633,
+    34.84996
+],
+  "geometry": {"coordinates":[126.88633,34.84996],"type":"Point"}
+}

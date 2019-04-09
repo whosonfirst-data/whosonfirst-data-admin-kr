@@ -1,0 +1,74 @@
+{
+  "id": 1243533559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35056,37.23917,127.35056,37.23917",
+    "geom:latitude":37.23917,
+    "geom:longitude":127.35056,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Jakchon-ri",
+    "gn:country_code":"KR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6398877,
+    "gn:latitude":37.23917,
+    "gn:longitude":127.35056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jakchon-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc791\ucd0c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Chakch\u2019ol-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398877
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cc27a43d00f43a4d5d163c953489b3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1243533559,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243533559,
+    "wof:lastmodified":1537657196,
+    "wof:name":"Jakchon-ri",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35056000000002,
+    37.23917,
+    127.35056000000002,
+    37.23917
+],
+  "geometry": {"coordinates":[127.35056000000002,37.23917],"type":"Point"}
+}

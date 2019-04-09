@@ -1,0 +1,64 @@
+{
+  "id": 1209206801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1306,37.4286,128.1306,37.4286",
+    "geom:latitude":37.4286,
+    "geom:longitude":128.1306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sinbae-gol",
+    "gn:country_code":"KR",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796625,
+    "gn:latitude":37.4286,
+    "gn:longitude":128.1306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sinbae-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ubc30\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796625
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49f5071de1006faadd07073c48a697e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209206801
+        }
+    ],
+    "wof:id":1209206801,
+    "wof:lastmodified":1537657564,
+    "wof:name":"Sinbae-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1306,
+    37.4286,
+    128.1306,
+    37.4286
+],
+  "geometry": {"coordinates":[128.13059999999999,37.4286],"type":"Point"}
+}

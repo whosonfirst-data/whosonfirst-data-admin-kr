@@ -1,0 +1,70 @@
+{
+  "id": 1259753037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.61559,35.99522,128.61559,35.99522",
+    "geom:latitude":35.99522,
+    "geom:longitude":128.61559,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dangje",
+    "gn:country_code":"KR",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10982357,
+    "gn:latitude":35.99522,
+    "gn:longitude":128.61559,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Dangje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\uc81c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10982357
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4edbe8fadb42b5a3555790fe3a03b448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1259753037,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1259753037,
+    "wof:lastmodified":1537659100,
+    "wof:name":"Dangje",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.61559,
+    35.99522,
+    128.61559,
+    35.99522
+],
+  "geometry": {"coordinates":[128.61559,35.99522],"type":"Point"}
+}

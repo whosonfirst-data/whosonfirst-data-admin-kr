@@ -1,0 +1,65 @@
+{
+  "id": 1209489727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31894,35.05436,128.31894,35.05436",
+    "geom:latitude":35.05436,
+    "geom:longitude":128.31894,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kam-dong",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899525,
+    "gn:latitude":35.05436,
+    "gn:longitude":128.31894,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac10\ub3d9",
+        "Kam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899525
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"07a106f64812b2f030556b496642c785",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209489727
+        }
+    ],
+    "wof:id":1209489727,
+    "wof:lastmodified":1537658746,
+    "wof:name":"Kam-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31894,
+    35.05436,
+    128.31894,
+    35.05436
+],
+  "geometry": {"coordinates":[128.31894,35.05436],"type":"Point"}
+}

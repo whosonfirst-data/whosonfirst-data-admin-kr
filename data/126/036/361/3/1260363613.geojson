@@ -1,0 +1,70 @@
+{
+  "id": 1260363613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.33205,35.66306,129.33205,35.66306",
+    "geom:latitude":35.66306,
+    "geom:longitude":129.33205,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Soksimi",
+    "gn:country_code":"KR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080154,
+    "gn:latitude":35.66306,
+    "gn:longitude":129.33205,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Soksimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18d\uc2ec\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080154
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"61b67c40e23132d13c7778fe74e9417a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746399,
+            "locality_id":1260363613,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1260363613,
+    "wof:lastmodified":1537659142,
+    "wof:name":"Soksimi",
+    "wof:parent_id":1108746399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.33205,
+    35.66305999999999,
+    129.33205,
+    35.66305999999999
+],
+  "geometry": {"coordinates":[129.33205000000001,35.66305999999999],"type":"Point"}
+}

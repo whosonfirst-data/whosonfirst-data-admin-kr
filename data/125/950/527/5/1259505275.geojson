@@ -1,0 +1,70 @@
+{
+  "id": 1259505275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36689,38.22247,128.36689,38.22247",
+    "geom:latitude":38.22247,
+    "geom:longitude":128.36689,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yongdaedong",
+    "gn:country_code":"KR",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9808673,
+    "gn:latitude":38.22247,
+    "gn:longitude":128.36689,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Yongdaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ub300\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9808673
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f7bd2dd88cc09981fafe69b89fe6c336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1259505275,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259505275,
+    "wof:lastmodified":1537658943,
+    "wof:name":"Yongdaedong",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36688999999998,
+    38.22247,
+    128.36688999999998,
+    38.22247
+],
+  "geometry": {"coordinates":[128.36688999999998,38.22247],"type":"Point"}
+}

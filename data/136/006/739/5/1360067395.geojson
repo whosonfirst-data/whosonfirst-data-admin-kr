@@ -1,0 +1,76 @@
+{
+  "id": 1360067395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.36643,34.87405,126.36643,34.87405",
+    "geom:latitude":34.87405,
+    "geom:longitude":126.36643,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Garan",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843072,
+    "gn:latitude":34.87405,
+    "gn:longitude":126.36643,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Garan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub780"
+    ],
+    "name:und_x_variant":[
+        "Karan-ni",
+        "Karang-ni",
+        "Karan",
+        "Garan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843072
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6ae8f3d10c1072b7c8d542c9fd1688fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1360067395,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360067395,
+    "wof:lastmodified":1537656530,
+    "wof:name":"Garan",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.36643,
+    34.87405,
+    126.36643,
+    34.87405
+],
+  "geometry": {"coordinates":[126.36642999999999,34.87405],"type":"Point"}
+}

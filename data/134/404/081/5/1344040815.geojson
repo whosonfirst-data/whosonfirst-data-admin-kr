@@ -1,0 +1,72 @@
+{
+  "id": 1344040815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34352,35.76269,128.34352,35.76269",
+    "geom:latitude":35.76269,
+    "geom:longitude":128.34352,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Daewol",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900762,
+    "gn:latitude":35.76269,
+    "gn:longitude":128.34352,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Daewol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\uc6d4",
+        "Taew\u014fl",
+        "Daewol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900762
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa5b19d6a0f8b66e0464ba2dd3cb6154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1344040815,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344040815,
+    "wof:lastmodified":1537658777,
+    "wof:name":"Daewol",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34351999999998,
+    35.76269,
+    128.34351999999998,
+    35.76269
+],
+  "geometry": {"coordinates":[128.34351999999998,35.76269],"type":"Point"}
+}

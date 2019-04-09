@@ -1,0 +1,74 @@
+{
+  "id": 1259654891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36972,37.13972,127.36972,37.13972",
+    "geom:latitude":37.13972,
+    "geom:longitude":127.36972,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Geunsam-ri",
+    "gn:country_code":"KR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6398941,
+    "gn:latitude":37.13972,
+    "gn:longitude":127.36972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Geunsam-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadfc\uc0bc\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "K\u016dnsam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398941
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6ffdfc282c0fb463a866b61f359ce09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1259654891,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259654891,
+    "wof:lastmodified":1537657200,
+    "wof:name":"Geunsam-ri",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36972,
+    37.13972,
+    127.36972,
+    37.13972
+],
+  "geometry": {"coordinates":[127.36972,37.13972],"type":"Point"}
+}

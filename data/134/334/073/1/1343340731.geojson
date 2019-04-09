@@ -1,0 +1,70 @@
+{
+  "id": 1343340731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0775,38.01067,127.0775,38.01067",
+    "geom:latitude":38.01067,
+    "geom:longitude":127.0775,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hambati",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865819,
+    "gn:latitude":38.01067,
+    "gn:longitude":127.0775,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Hambati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud568\ubc2d\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865819
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d68a7a361823d5df28ccd3b10bb606f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1343340731,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343340731,
+    "wof:lastmodified":1537658952,
+    "wof:name":"Hambati",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0775,
+    38.01067000000001,
+    127.0775,
+    38.01067000000001
+],
+  "geometry": {"coordinates":[127.0775,38.01067000000001],"type":"Point"}
+}

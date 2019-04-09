@@ -1,0 +1,71 @@
+{
+  "id": 1259449449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5417,36.6667,126.5417,36.6667",
+    "geom:latitude":36.6667,
+    "geom:longitude":126.5417,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kagujon",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809514,
+    "gn:latitude":36.6667,
+    "gn:longitude":126.5417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kaguj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uad6c\uc804",
+        "Kaguj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809514
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"78327abe3c41297d26125ef08d614862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1259449449,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259449449,
+    "wof:lastmodified":1537657877,
+    "wof:name":"Kagujon",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5417,
+    36.6667,
+    126.5417,
+    36.6667
+],
+  "geometry": {"coordinates":[126.54170000000001,36.6667],"type":"Point"}
+}

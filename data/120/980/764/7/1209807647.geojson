@@ -1,0 +1,77 @@
+{
+  "id": 1209807647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2687,37.8209,128.2687,37.8209",
+    "geom:latitude":37.8209,
+    "geom:longitude":128.2687,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samnich'ang-mal",
+    "gn:country_code":"KR",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837948,
+    "gn:latitude":37.8209,
+    "gn:longitude":128.2687,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samnich\u2019ang-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\ub9ac\ucc3d\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "Samnich\u2019ang-mal"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019angch\u2019onsam-ni",
+        "Samnich\u2019angch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837948
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9eb7f244fe24bfe9f44aebf96ee6e751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1209807647,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209807647,
+    "wof:lastmodified":1537656265,
+    "wof:name":"Samnich'ang-mal",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2687,
+    37.8209,
+    128.2687,
+    37.8209
+],
+  "geometry": {"coordinates":[128.2687,37.8209],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293355029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85305,35.53789,127.85305,35.53789",
+    "geom:latitude":35.53789,
+    "geom:longitude":127.85305,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Won'gi",
+    "gn:country_code":"KR",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894435,
+    "gn:latitude":35.53789,
+    "gn:longitude":127.85305,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014fn\u2019gi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uae30",
+        "W\u014fn\u2019gi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894435
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e3429f36075f1a1577be05a355d5c11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472439,
+            "locality_id":1293355029,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293355029,
+    "wof:lastmodified":1537658592,
+    "wof:name":"Won'gi",
+    "wof:parent_id":890472439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85305,
+    35.53789000000001,
+    127.85305,
+    35.53789000000001
+],
+  "geometry": {"coordinates":[127.85305,35.53789000000001],"type":"Point"}
+}

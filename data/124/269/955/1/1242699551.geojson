@@ -1,0 +1,70 @@
+{
+  "id": 1242699551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.05664,37.20149,128.05664,37.20149",
+    "geom:latitude":37.20149,
+    "geom:longitude":128.05664,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taegok",
+    "gn:country_code":"KR",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797131,
+    "gn:latitude":37.20149,
+    "gn:longitude":128.05664,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taegok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797131
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d6e40a7eda1e978b2615b483d93040c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1242699551,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242699551,
+    "wof:lastmodified":1537657579,
+    "wof:name":"Taegok",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.05664,
+    37.20149,
+    128.05664,
+    37.20149
+],
+  "geometry": {"coordinates":[128.05663999999999,37.20149],"type":"Point"}
+}

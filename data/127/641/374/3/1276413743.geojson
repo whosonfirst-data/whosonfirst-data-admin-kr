@@ -1,0 +1,71 @@
+{
+  "id": 1276413743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0241,36.3291,129.0241,36.3291",
+    "geom:latitude":36.3291,
+    "geom:longitude":129.0241,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nalsil",
+    "gn:country_code":"KR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878988,
+    "gn:latitude":36.3291,
+    "gn:longitude":129.0241,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nalsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0a0\uc2e4",
+        "Nalsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878988
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"10d3f5675e301d5a53dc1cc3b002d0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474963,
+            "locality_id":1276413743,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276413743,
+    "wof:lastmodified":1537658214,
+    "wof:name":"Nalsil",
+    "wof:parent_id":890474963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0241,
+    36.3291,
+    129.0241,
+    36.3291
+],
+  "geometry": {"coordinates":[129.0241,36.3291],"type":"Point"}
+}

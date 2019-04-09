@@ -1,0 +1,71 @@
+{
+  "id": 1259749567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7306,36.5949,126.7306,36.5949",
+    "geom:latitude":36.5949,
+    "geom:longitude":126.7306,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Naega",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809515,
+    "gn:latitude":36.5949,
+    "gn:longitude":126.7306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Naega",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0b4\uac00",
+        "Naega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809515
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c32adeaca4b4a9a1491e3792357b5c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1259749567,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259749567,
+    "wof:lastmodified":1537657878,
+    "wof:name":"Naega",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7306,
+    36.5949,
+    126.7306,
+    36.5949
+],
+  "geometry": {"coordinates":[126.7306,36.5949],"type":"Point"}
+}

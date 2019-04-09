@@ -1,0 +1,76 @@
+{
+  "id": 1310583309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.41041,34.75053,126.41041,34.75053",
+    "geom:latitude":34.75053,
+    "geom:longitude":126.41041,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ganaehang",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843121,
+    "gn:latitude":34.75053,
+    "gn:longitude":126.41041,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ganaehang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub0b4\ud56d"
+    ],
+    "name:und_x_variant":[
+        "Kanaemogi",
+        "Kannaemok",
+        "Kannaehang",
+        "Ganaehang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843121
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0d4744880b3540255fee16b9a2f25dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1310583309,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310583309,
+    "wof:lastmodified":1537656533,
+    "wof:name":"Ganaehang",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.41041,
+    34.75053,
+    126.41041,
+    34.75053
+],
+  "geometry": {"coordinates":[126.41041,34.75053],"type":"Point"}
+}

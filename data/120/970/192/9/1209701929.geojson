@@ -1,0 +1,74 @@
+{
+  "id": 1209701929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87795,37.99465,126.87795,37.99465",
+    "geom:latitude":37.99465,
+    "geom:longitude":126.87795,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Wondangni",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951820,
+    "gn:latitude":37.99465,
+    "gn:longitude":126.87795,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Wondangni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ub2f9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "W\u014fndang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951820
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"baa825c7a582941160a8cd76f9092ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1209701929,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209701929,
+    "wof:lastmodified":1537656984,
+    "wof:name":"Wondangni",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87795,
+    37.99465,
+    126.87795,
+    37.99465
+],
+  "geometry": {"coordinates":[126.87795,37.99465],"type":"Point"}
+}

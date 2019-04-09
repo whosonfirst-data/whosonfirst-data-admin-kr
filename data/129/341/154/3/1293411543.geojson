@@ -1,0 +1,74 @@
+{
+  "id": 1293411543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5602,37.6154,128.5602,37.6154",
+    "geom:latitude":37.6154,
+    "geom:longitude":128.5602,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Araetssalmyeon",
+    "gn:country_code":"KR",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816994,
+    "gn:latitude":37.6154,
+    "gn:longitude":128.5602,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Araetssalmyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc300\uba74\uc774"
+    ],
+    "name:kor_x_variant":[
+        "Ssalmy\u014fni",
+        "\uc544\ub7ab\uc300\uba74"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816994
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4663317910575ecc4ea897f98282df50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1293411543,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293411543,
+    "wof:lastmodified":1537658107,
+    "wof:name":"Araetssalmyeon",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5602,
+    37.6154,
+    128.5602,
+    37.6154
+],
+  "geometry": {"coordinates":[128.56020000000001,37.6154],"type":"Point"}
+}

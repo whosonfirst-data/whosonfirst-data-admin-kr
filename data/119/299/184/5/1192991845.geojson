@@ -1,0 +1,76 @@
+{
+  "id": 1192991845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.57353,36.57928,128.57353,36.57928",
+    "geom:latitude":36.57928,
+    "geom:longitude":128.57353,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pungsan",
+    "gn:country_code":"KR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846963,
+    "gn:latitude":36.57928,
+    "gn:longitude":128.57353,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Pungsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud48d\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "An\u2019gyo-dong",
+        "Ank\u014d-d\u014d",
+        "P\u2019ungsan",
+        "Pungsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846963
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4f7d128b4820b91906b9b81185d4520d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1192991845,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1192991845,
+    "wof:lastmodified":1537656730,
+    "wof:name":"Pungsan",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57353,
+    36.57928,
+    128.57353,
+    36.57928
+],
+  "geometry": {"coordinates":[128.57353000000001,36.57928],"type":"Point"}
+}

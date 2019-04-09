@@ -1,0 +1,75 @@
+{
+  "id": 1309985237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04217,37.90056,127.04217,37.90056",
+    "geom:latitude":37.90056,
+    "geom:longitude":127.04217,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Beolmideul",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799682,
+    "gn:latitude":37.90056,
+    "gn:longitude":127.04217,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Beolmideul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc8c\ubbf8\ub4e4"
+    ],
+    "name:und_x_variant":[
+        "\ubc8c\ub9d0",
+        "P\u014fl-mal",
+        "Beolmideul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799682
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f9c22da19bacd774d8c54fb8e449c3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476241,
+            "locality_id":1309985237,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309985237,
+    "wof:lastmodified":1537657652,
+    "wof:name":"Beolmideul",
+    "wof:parent_id":890476241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04217,
+    37.90056,
+    127.04217,
+    37.90056
+],
+  "geometry": {"coordinates":[127.04217,37.90056],"type":"Point"}
+}

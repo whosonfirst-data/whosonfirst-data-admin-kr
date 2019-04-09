@@ -1,0 +1,66 @@
+{
+  "id": 1209324397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16667,35.35,127.16667,35.35",
+    "geom:latitude":35.35,
+    "geom:longitude":127.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taega",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835377,
+    "gn:latitude":35.35,
+    "gn:longitude":127.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taega",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u014fmch\u2019on",
+        "Taega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835377
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6d082975c329d3b3e4e1e69eaff04932",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209324397
+        }
+    ],
+    "wof:id":1209324397,
+    "wof:lastmodified":1537656136,
+    "wof:name":"Taega",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16667,
+    35.35,
+    127.16667,
+    35.35
+],
+  "geometry": {"coordinates":[127.16667,35.35],"type":"Point"}
+}

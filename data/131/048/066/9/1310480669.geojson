@@ -1,0 +1,74 @@
+{
+  "id": 1310480669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4771,37.22841,127.4771,37.22841",
+    "geom:latitude":37.22841,
+    "geom:longitude":127.4771,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Beomheungi",
+    "gn:country_code":"KR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6399115,
+    "gn:latitude":37.22841,
+    "gn:longitude":127.4771,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Beomheungi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc94\ud765\uc774"
+    ],
+    "name:kor_x_variant":[
+        "P\u014fmh\u016dngi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6399115
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aff92dae1ce76d9aa1b93aa337d72e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1310480669,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310480669,
+    "wof:lastmodified":1537657211,
+    "wof:name":"Beomheungi",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4771,
+    37.22841,
+    127.4771,
+    37.22841
+],
+  "geometry": {"coordinates":[127.47709999999999,37.22841],"type":"Point"}
+}

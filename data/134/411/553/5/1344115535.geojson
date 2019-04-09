@@ -1,0 +1,70 @@
+{
+  "id": 1344115535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.36653,35.62025,129.36653,35.62025",
+    "geom:latitude":35.62025,
+    "geom:longitude":129.36653,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gobuljae",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11083146,
+    "gn:latitude":35.62025,
+    "gn:longitude":129.36653,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Gobuljae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ubd88\uc7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11083146
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72a871feebe1ffd8e6542afaf15b8d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746399,
+            "locality_id":1344115535,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1344115535,
+    "wof:lastmodified":1537659144,
+    "wof:name":"Gobuljae",
+    "wof:parent_id":1108746399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.36653,
+    35.62025,
+    129.36653,
+    35.62025
+],
+  "geometry": {"coordinates":[129.36653000000001,35.62025],"type":"Point"}
+}

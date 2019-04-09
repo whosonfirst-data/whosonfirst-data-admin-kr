@@ -1,0 +1,76 @@
+{
+  "id": 1226512871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.45476,35.96894,129.45476,35.96894",
+    "geom:latitude":35.96894,
+    "geom:longitude":129.45476,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Geumgwang",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842250,
+    "gn:latitude":35.96894,
+    "gn:longitude":129.45476,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Geumgwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uad11"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmgwang",
+        "K\u016dmgwang-dong",
+        "K\u016dmgwang-ni",
+        "Geumgwang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842250
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"377e5a97fea3726faec2fd03b3b3a92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1226512871,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226512871,
+    "wof:lastmodified":1537656486,
+    "wof:name":"Geumgwang",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.45476000000002,
+    35.96894,
+    129.45476000000002,
+    35.96894
+],
+  "geometry": {"coordinates":[129.45476000000002,35.96894],"type":"Point"}
+}

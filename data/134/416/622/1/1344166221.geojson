@@ -1,0 +1,70 @@
+{
+  "id": 1344166221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.18704,33.30323,126.18704,33.30323",
+    "geom:latitude":33.30323,
+    "geom:longitude":126.18704,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bondong",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10022227,
+    "gn:latitude":33.30323,
+    "gn:longitude":126.18704,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Bondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf8\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10022227
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2a1a5e5ac7debe334b72c6a208649a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1344166221,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1344166221,
+    "wof:lastmodified":1537658989,
+    "wof:name":"Bondong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.18704,
+    33.30323,
+    126.18704,
+    33.30323
+],
+  "geometry": {"coordinates":[126.18704,33.30323],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 890476231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.92778,37.36528,126.92778,37.36528",
+    "geom:latitude":37.36528,
+    "geom:longitude":126.92778,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gwangjeong-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uad11\uc815\ub3d9"
+    ],
+    "name:swe_x_preferred":[
+        "Gwangjeong-dong"
+    ],
+    "name:unk_x_variant":[
+        "\uad11\uc815\ub3d9"
+    ],
+    "qs:name":"\uac00\uacbd\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\ucda9\uccad\ubd81\ub3c4",
+    "qs:photos":125,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":125,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85673191,
+        102191569,
+        85632231,
+        102026401,
+        890474585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573005,
+        "gp:id":28807388,
+        "qs:id":230188,
+        "wd:id":"Q16161167"
+    },
+    "wof:country":"KR",
+    "wof:created":1469054067,
+    "wof:geomhash":"65ed747dbdeed05393bf5ce60b8952e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474585,
+            "locality_id":102026401,
+            "neighbourhood_id":890476231,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":890476231,
+    "wof:lastmodified":1514469385,
+    "wof:name":"\uac00\uacbd\ub3d9",
+    "wof:parent_id":102026401,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92778,
+    37.36528,
+    126.92778,
+    37.36528
+],
+  "geometry": {"coordinates":[126.92778,37.36528],"type":"Point"}
+}

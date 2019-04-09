@@ -1,0 +1,70 @@
+{
+  "id": 1360007549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.94411,37.52944,128.94411,37.52944",
+    "geom:latitude":37.52944,
+    "geom:longitude":128.94411,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kundae",
+    "gn:country_code":"KR",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889405,
+    "gn:latitude":37.52944,
+    "gn:longitude":128.94411,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kundae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad70\ub300"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889405
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"faa7392da55c411011dce45d55debf22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1360007549,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360007549,
+    "wof:lastmodified":1537656809,
+    "wof:name":"Kundae",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.94411000000002,
+    37.52944,
+    128.94411000000002,
+    37.52944
+],
+  "geometry": {"coordinates":[128.94411000000002,37.52944],"type":"Point"}
+}

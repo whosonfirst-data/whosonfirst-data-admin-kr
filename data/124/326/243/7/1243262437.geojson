@@ -1,0 +1,73 @@
+{
+  "id": 1243262437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.05608,36.98692,128.05608,36.98692",
+    "geom:latitude":36.98692,
+    "geom:longitude":128.05608,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Neunggol",
+    "gn:country_code":"KR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895245,
+    "gn:latitude":36.98692,
+    "gn:longitude":128.05608,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Neunggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2a5\uace8"
+    ],
+    "name:kor_x_variant":[
+        "N\u016dng-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895245
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7c5f75c2113db75bf0128525f413d6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1243262437,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243262437,
+    "wof:lastmodified":1537656881,
+    "wof:name":"Neunggol",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.05608,
+    36.98692,
+    128.05608,
+    36.98692
+],
+  "geometry": {"coordinates":[128.05608000000001,36.98692],"type":"Point"}
+}

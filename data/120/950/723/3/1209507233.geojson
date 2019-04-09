@@ -1,0 +1,64 @@
+{
+  "id": 1209507233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65269,37.96287,128.65269,37.96287",
+    "geom:latitude":37.96287,
+    "geom:longitude":128.65269,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dongdeul",
+    "gn:country_code":"KR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9977521,
+    "gn:latitude":37.96287,
+    "gn:longitude":128.65269,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Dongdeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ub4e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9977521
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa6792a90caf4abdb0ce6c21cda4ca87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209507233
+        }
+    ],
+    "wof:id":1209507233,
+    "wof:lastmodified":1537658974,
+    "wof:name":"Dongdeul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65268999999998,
+    37.96287,
+    128.65268999999998,
+    37.96287
+],
+  "geometry": {"coordinates":[128.65268999999998,37.96287],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343427351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5617,36.6655,126.5617,36.6655",
+    "geom:latitude":36.6655,
+    "geom:longitude":126.5617,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Koyo",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809518,
+    "gn:latitude":36.6655,
+    "gn:longitude":126.5617,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Koyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc694",
+        "Koyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809518
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cf80601f0a39fa8a58ff20978e6b2b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1343427351,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343427351,
+    "wof:lastmodified":1537657878,
+    "wof:name":"Koyo",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5617,
+    36.6655,
+    126.5617,
+    36.6655
+],
+  "geometry": {"coordinates":[126.5617,36.6655],"type":"Point"}
+}

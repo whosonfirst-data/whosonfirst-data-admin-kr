@@ -1,0 +1,71 @@
+{
+  "id": 1225828573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0197,36.6895,129.0197,36.6895",
+    "geom:latitude":36.6895,
+    "geom:longitude":129.0197,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Noraebau",
+    "gn:country_code":"KR",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880880,
+    "gn:latitude":36.6895,
+    "gn:longitude":129.0197,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u014fraebau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub108\ub798\ubc14\uc6b0",
+        "N\u014fraebau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880880
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e573e5aec22ea66acbdd0a061638bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473713,
+            "locality_id":1225828573,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225828573,
+    "wof:lastmodified":1537656737,
+    "wof:name":"Noraebau",
+    "wof:parent_id":890473713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0197,
+    36.6895,
+    129.0197,
+    36.6895
+],
+  "geometry": {"coordinates":[129.0197,36.6895],"type":"Point"}
+}

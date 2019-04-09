@@ -1,0 +1,74 @@
+{
+  "id": 1293665271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65,36.33333,126.65,36.33333",
+    "geom:latitude":36.33333,
+    "geom:longitude":126.65,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Songju",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836136,
+    "gn:latitude":36.33333,
+    "gn:longitude":126.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u014fngju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fngjyu-ri",
+        "S\u014fngju-ri",
+        "S\u014fngju",
+        "\uc131\uc8fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836136
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"82c9be3cd576f114d40238f0cb9132f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1293665271,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293665271,
+    "wof:lastmodified":1537656171,
+    "wof:name":"Songju",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65,
+    36.33333,
+    126.65,
+    36.33333
+],
+  "geometry": {"coordinates":[126.65000000000001,36.33333],"type":"Point"}
+}

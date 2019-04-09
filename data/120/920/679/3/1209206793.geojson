@@ -1,0 +1,64 @@
+{
+  "id": 1209206793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.60566,38.07883,128.60566,38.07883",
+    "geom:latitude":38.07883,
+    "geom:longitude":128.60566,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hyanggyodong",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870291,
+    "gn:latitude":38.07883,
+    "gn:longitude":128.60566,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Hyanggyodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud5a5\uad50\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870291
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4e204766205f1787eb3ca692f7b9b838",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209206793
+        }
+    ],
+    "wof:id":1209206793,
+    "wof:lastmodified":1537658965,
+    "wof:name":"Hyanggyodong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.60566,
+    38.07883,
+    128.60566,
+    38.07883
+],
+  "geometry": {"coordinates":[128.60566,38.07883],"type":"Point"}
+}

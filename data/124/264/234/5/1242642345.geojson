@@ -1,0 +1,72 @@
+{
+  "id": 1242642345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39876,36.24081,127.39876,36.24081",
+    "geom:latitude":36.24081,
+    "geom:longitude":127.39876,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Myogakgol",
+    "gn:country_code":"KR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888004,
+    "gn:latitude":36.24081,
+    "gn:longitude":127.39876,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Myogakgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb18\uac01\uace8",
+        "Myogak-kol",
+        "Myogakgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888004
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eaf7455f2c46081efe165b65fceaebeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746483,
+            "locality_id":1242642345,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1242642345,
+    "wof:lastmodified":1537658406,
+    "wof:name":"Myogakgol",
+    "wof:parent_id":1108746483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39876,
+    36.24081,
+    127.39876,
+    36.24081
+],
+  "geometry": {"coordinates":[127.39876,36.24081],"type":"Point"}
+}

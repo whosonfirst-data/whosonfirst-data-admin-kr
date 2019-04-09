@@ -1,0 +1,72 @@
+{
+  "id": 1209737371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.219,37.3803,129.219,37.3803",
+    "geom:latitude":37.3803,
+    "geom:longitude":129.219,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Murung",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889742,
+    "gn:latitude":37.3803,
+    "gn:longitude":129.219,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mur\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb34\ub989",
+        "Mur\u016dng-dong",
+        "Mur\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889742
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e1a1a83911201e36df936062e478d248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1209737371,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209737371,
+    "wof:lastmodified":1537656811,
+    "wof:name":"Murung",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.219,
+    37.3803,
+    129.219,
+    37.3803
+],
+  "geometry": {"coordinates":[129.21899999999999,37.3803],"type":"Point"}
+}

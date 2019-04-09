@@ -1,0 +1,75 @@
+{
+  "id": 1310574635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.57421,35.62437,128.57421,35.62437",
+    "geom:latitude":35.62437,
+    "geom:longitude":128.57421,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nokpyeongni",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903291,
+    "gn:latitude":35.62437,
+    "gn:longitude":128.57421,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Nokpyeongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub179\ud3c9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\ub178\ub9ac\uace8",
+        "Nori-gol",
+        "Nokpyeongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903291
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d528319817978301b9047ce15d086083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1310574635,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310574635,
+    "wof:lastmodified":1537658843,
+    "wof:name":"Nokpyeongni",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57421000000002,
+    35.62437,
+    128.57421000000002,
+    35.62437
+],
+  "geometry": {"coordinates":[128.57421000000002,35.62437],"type":"Point"}
+}

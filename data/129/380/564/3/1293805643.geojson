@@ -1,0 +1,72 @@
+{
+  "id": 1293805643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6319,37.798,127.6319,37.798",
+    "geom:latitude":37.798,
+    "geom:longitude":127.6319,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gaekgol",
+    "gn:country_code":"KR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802167,
+    "gn:latitude":37.798,
+    "gn:longitude":127.6319,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Gaekgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac1d\uace8",
+        "Kaek-kol",
+        "Gaekgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802167
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af81bcfa3e7eaecddb18497a71c1ac4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1293805643,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293805643,
+    "wof:lastmodified":1537657730,
+    "wof:name":"Gaekgol",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6319,
+    37.798,
+    127.6319,
+    37.798
+],
+  "geometry": {"coordinates":[127.6319,37.798],"type":"Point"}
+}

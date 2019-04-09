@@ -1,0 +1,78 @@
+{
+  "id": 1226820259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2266,37.7376,127.2266,37.7376",
+    "geom:latitude":37.7376,
+    "geom:longitude":127.2266,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jinbeol",
+    "gn:country_code":"KR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897135,
+    "gn:latitude":37.7376,
+    "gn:longitude":127.2266,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jinbeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c4\ubc8c"
+    ],
+    "name:kor_x_variant":[
+        "Chinb\u014fl"
+    ],
+    "name:und_x_variant":[
+        "\uc9c4\ubc8c",
+        "Chinb\u014fl",
+        "Jinbeol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897135
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2d1decefd99f685a2220aa47259a7780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1226820259,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226820259,
+    "wof:lastmodified":1537656933,
+    "wof:name":"Jinbeol",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2266,
+    37.7376,
+    127.2266,
+    37.7376
+],
+  "geometry": {"coordinates":[127.2266,37.7376],"type":"Point"}
+}

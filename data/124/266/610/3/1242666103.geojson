@@ -1,0 +1,67 @@
+{
+  "id": 1242666103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.99139,35.13583,128.99139,35.13583",
+    "geom:latitude":35.13583,
+    "geom:longitude":128.99139,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hakchang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979052,
+    "gn:latitude":35.13583,
+    "gn:longitude":128.99139,
+    "gn:modification_date":"2004-05-12",
+    "gn:name":"Hakchang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890476039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979052
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af54114f0c5ef0181f424935c17e3453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476039,
+            "locality_id":1242666103,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1242666103,
+    "wof:lastmodified":1536937093,
+    "wof:name":"Hakchang-dong",
+    "wof:parent_id":890476039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.99139,
+    35.13583,
+    128.99139,
+    35.13583
+],
+  "geometry": {"coordinates":[128.99139,35.13583],"type":"Point"}
+}

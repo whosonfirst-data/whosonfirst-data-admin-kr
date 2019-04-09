@@ -1,0 +1,65 @@
+{
+  "id": 1209206847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.27264,37.20719,129.27264,37.20719",
+    "geom:latitude":37.20719,
+    "geom:longitude":129.27264,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hasogi",
+    "gn:country_code":"KR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883958,
+    "gn:latitude":37.20719,
+    "gn:longitude":129.27264,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Has\u014fgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uc11c\uae30",
+        "Has\u014fgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883958
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f80160099a90b116b0d843f758d0dd1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209206847
+        }
+    ],
+    "wof:id":1209206847,
+    "wof:lastmodified":1537656768,
+    "wof:name":"Hasogi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.27264,
+    37.20719,
+    129.27264,
+    37.20719
+],
+  "geometry": {"coordinates":[129.27264,37.20719],"type":"Point"}
+}

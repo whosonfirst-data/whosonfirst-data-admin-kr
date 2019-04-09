@@ -1,0 +1,70 @@
+{
+  "id": 1327013161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81256,35.84086,128.81256,35.84086",
+    "geom:latitude":35.84086,
+    "geom:longitude":128.81256,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyerim",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11037446,
+    "gn:latitude":35.84086,
+    "gn:longitude":128.81256,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gyerim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacc4\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11037446
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cef53db6fd5ab30721bdfd2c63212d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1327013161,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327013161,
+    "wof:lastmodified":1537659116,
+    "wof:name":"Gyerim",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81256000000002,
+    35.84086,
+    128.81256000000002,
+    35.84086
+],
+  "geometry": {"coordinates":[128.81256000000002,35.84086],"type":"Point"}
+}

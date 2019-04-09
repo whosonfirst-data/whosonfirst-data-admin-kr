@@ -1,0 +1,71 @@
+{
+  "id": 1226726107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5448,36.5144,126.5448,36.5144",
+    "geom:latitude":36.5144,
+    "geom:longitude":126.5448,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chung-ni",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844994,
+    "gn:latitude":36.5144,
+    "gn:longitude":126.5448,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ub9ac",
+        "Chung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844994
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"723123affde15f7bce7d239907871e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1226726107,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226726107,
+    "wof:lastmodified":1537656626,
+    "wof:name":"Chung-ni",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5448,
+    36.5144,
+    126.5448,
+    36.5144
+],
+  "geometry": {"coordinates":[126.5448,36.5144],"type":"Point"}
+}

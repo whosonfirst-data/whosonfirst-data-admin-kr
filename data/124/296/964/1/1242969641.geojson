@@ -1,0 +1,73 @@
+{
+  "id": 1242969641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.46327,37.01675,128.46327,37.01675",
+    "geom:latitude":37.01675,
+    "geom:longitude":128.46327,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gomjeol",
+    "gn:country_code":"KR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891266,
+    "gn:latitude":37.01675,
+    "gn:longitude":128.46327,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Gomjeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf0\uc808"
+    ],
+    "name:kor_x_variant":[
+        "Komj\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891266
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"503556f7a6fe1ba0015f47edaa0917d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1242969641,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1242969641,
+    "wof:lastmodified":1537656830,
+    "wof:name":"Gomjeol",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.46327,
+    37.01675,
+    128.46327,
+    37.01675
+],
+  "geometry": {"coordinates":[128.46326999999999,37.01675],"type":"Point"}
+}

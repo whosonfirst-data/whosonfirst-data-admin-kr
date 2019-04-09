@@ -1,0 +1,71 @@
+{
+  "id": 1343741367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.23278,37.35167,127.23278,37.35167",
+    "geom:latitude":37.35167,
+    "geom:longitude":127.23278,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Oegaeil",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577347,
+    "gn:latitude":37.35167,
+    "gn:longitude":127.23278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Oegaeil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc678\uac1c\uc77c",
+        "Oegaeil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577347
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e44fbf791dd2697f01a61be35c03bfb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1343741367,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343741367,
+    "wof:lastmodified":1537657359,
+    "wof:name":"Oegaeil",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.23278,
+    37.35167,
+    127.23278,
+    37.35167
+],
+  "geometry": {"coordinates":[127.23278000000001,37.35167],"type":"Point"}
+}

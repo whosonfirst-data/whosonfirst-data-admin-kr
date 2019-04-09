@@ -1,0 +1,70 @@
+{
+  "id": 1226724313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40677,35.60101,128.40677,35.60101",
+    "geom:latitude":35.60101,
+    "geom:longitude":128.40677,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Utdam",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11040050,
+    "gn:latitude":35.60101,
+    "gn:longitude":128.40677,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Utdam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6c3\ub2f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11040050
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"801d8142316cb25bea95feb5c3cd4943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473621,
+            "locality_id":1226724313,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226724313,
+    "wof:lastmodified":1537659118,
+    "wof:name":"Utdam",
+    "wof:parent_id":890473621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40677,
+    35.60100999999999,
+    128.40677,
+    35.60100999999999
+],
+  "geometry": {"coordinates":[128.40676999999999,35.60100999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226003367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.15931,35.64385,129.15931,35.64385",
+    "geom:latitude":35.64385,
+    "geom:longitude":129.15931,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Nodong",
+    "gn:country_code":"KR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079053,
+    "gn:latitude":35.64385,
+    "gn:longitude":129.15931,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Nodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub85c\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079053
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a005e1795a0d8fb1379dc4aef1d5152f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1226003367,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1226003367,
+    "wof:lastmodified":1537659138,
+    "wof:name":"Nodong",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.15931,
+    35.64385,
+    129.15931,
+    35.64385
+],
+  "geometry": {"coordinates":[129.15931,35.64385],"type":"Point"}
+}

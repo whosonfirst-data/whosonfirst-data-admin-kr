@@ -1,0 +1,70 @@
+{
+  "id": 1344040789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.72921,36.58354,128.72921,36.58354",
+    "geom:latitude":36.58354,
+    "geom:longitude":128.72921,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samyeongdang",
+    "gn:country_code":"KR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11273005,
+    "gn:latitude":36.58354,
+    "gn:longitude":128.72921,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Samyeongdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uba85\ub2f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11273005
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d8cbd08ad7a289fe78a26252c070218d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1344040789,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344040789,
+    "wof:lastmodified":1537659319,
+    "wof:name":"Samyeongdang",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.72921000000002,
+    36.58354,
+    128.72921000000002,
+    36.58354
+],
+  "geometry": {"coordinates":[128.72921000000002,36.58354],"type":"Point"}
+}

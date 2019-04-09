@@ -1,0 +1,70 @@
+{
+  "id": 1293005269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.56097,36.94082,127.56097,36.94082",
+    "geom:latitude":36.94082,
+    "geom:longitude":127.56097,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Danigol",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975314,
+    "gn:latitude":36.94082,
+    "gn:longitude":127.56097,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Danigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2e8\uc774\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975314
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2d77621d387661eed68e7f636be1534e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1293005269,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293005269,
+    "wof:lastmodified":1537658967,
+    "wof:name":"Danigol",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.56097,
+    36.94082,
+    127.56097,
+    36.94082
+],
+  "geometry": {"coordinates":[127.56097,36.94082],"type":"Point"}
+}

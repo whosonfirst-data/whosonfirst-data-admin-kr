@@ -1,0 +1,71 @@
+{
+  "id": 1293366481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2645,36.36653,127.2645,36.36653",
+    "geom:latitude":36.36653,
+    "geom:longitude":127.2645,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sabong",
+    "gn:country_code":"KR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888471,
+    "gn:latitude":36.36653,
+    "gn:longitude":127.2645,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Sabong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\ubd09",
+        "Sabong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888471
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7fba9c2d01337c12e3751b09352592d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1293366481,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293366481,
+    "wof:lastmodified":1537658425,
+    "wof:name":"Sabong",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2645,
+    36.36653,
+    127.2645,
+    36.36653
+],
+  "geometry": {"coordinates":[127.2645,36.36653],"type":"Point"}
+}

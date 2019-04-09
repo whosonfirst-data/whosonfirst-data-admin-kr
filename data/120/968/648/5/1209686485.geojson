@@ -1,0 +1,64 @@
+{
+  "id": 1209686485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.06039,35.74103,129.06039,35.74103",
+    "geom:latitude":35.74103,
+    "geom:longitude":129.06039,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hoegol",
+    "gn:country_code":"KR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063946,
+    "gn:latitude":35.74103,
+    "gn:longitude":129.06039,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Hoegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud68c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063946
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1736936650c68d3acc5a00b89b99a28f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209686485
+        }
+    ],
+    "wof:id":1209686485,
+    "wof:lastmodified":1537659122,
+    "wof:name":"Hoegol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.06038999999998,
+    35.74103,
+    129.06038999999998,
+    35.74103
+],
+  "geometry": {"coordinates":[129.06038999999998,35.74103],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209408097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5,36.86667,127.5,36.86667",
+    "geom:latitude":36.86667,
+    "geom:longitude":127.5,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sanjing-ni",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839885,
+    "gn:latitude":36.86667,
+    "gn:longitude":127.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanjing-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014ejimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839885
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ddffa9a3f2b74620459fe0399a17b99c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209408097
+        }
+    ],
+    "wof:id":1209408097,
+    "wof:lastmodified":1537656367,
+    "wof:name":"Sanjing-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5,
+    36.86667,
+    127.5,
+    36.86667
+],
+  "geometry": {"coordinates":[127.5,36.86667],"type":"Point"}
+}

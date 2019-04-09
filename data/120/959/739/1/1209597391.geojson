@@ -1,0 +1,62 @@
+{
+  "id": 1209597391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.27667,34.46139,126.27667,34.46139",
+    "geom:latitude":34.46139,
+    "geom:longitude":126.27667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"Chindo-gun",
+    "gn:asciiname":"Chinsol-li",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6306162,
+    "gn:latitude":34.46139,
+    "gn:longitude":126.27667,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Chins\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6306162
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"402e02e63ee16ea98060c7b8149c1ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209597391
+        }
+    ],
+    "wof:id":1209597391,
+    "wof:lastmodified":1536282279,
+    "wof:name":"Chinsol-li",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.27667,
+    34.46139,
+    126.27667,
+    34.46139
+],
+  "geometry": {"coordinates":[126.27667,34.46139],"type":"Point"}
+}

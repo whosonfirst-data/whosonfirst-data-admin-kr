@@ -1,0 +1,78 @@
+{
+  "id": 1326802295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85306,34.65444,126.85306,34.65444",
+    "geom:latitude":34.65444,
+    "geom:longitude":126.85306,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"P'ungdong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838579,
+    "gn:latitude":34.65444,
+    "gn:longitude":126.85306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u2019ungdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud48d\ub3d9\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019ungdong-ni"
+    ],
+    "name:und_x_variant":[
+        "H\u014dd\u014d",
+        "H\u014dd\u014d-ri",
+        "P\u2019ungdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838579
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"518fc2d2f24602db62805377ea7671a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1326802295,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1326802295,
+    "wof:lastmodified":1537656301,
+    "wof:name":"P'ungdong-ni",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85306,
+    34.65444,
+    126.85306,
+    34.65444
+],
+  "geometry": {"coordinates":[126.85306,34.65444],"type":"Point"}
+}

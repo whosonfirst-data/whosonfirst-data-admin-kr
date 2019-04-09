@@ -1,0 +1,70 @@
+{
+  "id": 1310662189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3212,35.54963,128.3212,35.54963",
+    "geom:latitude":35.54963,
+    "geom:longitude":128.3212,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yangjidam",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039943,
+    "gn:latitude":35.54963,
+    "gn:longitude":128.3212,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Yangjidam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc9c0\ub2f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039943
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0231fd0b9efea706ad738501c8826a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1310662189,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1310662189,
+    "wof:lastmodified":1537659117,
+    "wof:name":"Yangjidam",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3212,
+    35.54963,
+    128.3212,
+    35.54963
+],
+  "geometry": {"coordinates":[128.3212,35.54963],"type":"Point"}
+}

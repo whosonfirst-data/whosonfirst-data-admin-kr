@@ -1,0 +1,67 @@
+{
+  "id": 1293685513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38333,36.61667,127.38333,36.61667",
+    "geom:latitude":36.61667,
+    "geom:longitude":127.38333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wolsong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833268,
+    "gn:latitude":36.61667,
+    "gn:longitude":127.38333,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"W\u014flsong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833268
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ba6bc5dcb757fbb8c55f40237662e427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746435,
+            "locality_id":1293685513,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293685513,
+    "wof:lastmodified":1536998136,
+    "wof:name":"Wolsong-ni",
+    "wof:parent_id":1108746435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38333,
+    36.61667,
+    127.38333,
+    36.61667
+],
+  "geometry": {"coordinates":[127.38333,36.61667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209285131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.24561,36.04881,129.24561,36.04881",
+    "geom:latitude":36.04881,
+    "geom:longitude":129.24561,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Imunan",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880947,
+    "gn:latitude":36.04881,
+    "gn:longitude":129.24561,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Imunan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc774\ubb38\uc548",
+        "Imunan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880947
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a2d530d30b395f6a4ac3b303301868bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209285131
+        }
+    ],
+    "wof:id":1209285131,
+    "wof:lastmodified":1537656740,
+    "wof:name":"Imunan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.24561,
+    36.04881,
+    129.24561,
+    36.04881
+],
+  "geometry": {"coordinates":[129.24561,36.04881],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209779089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28247,36.68107,127.28247,36.68107",
+    "geom:latitude":36.68107,
+    "geom:longitude":127.28247,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Imokdong",
+    "gn:country_code":"KR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349048,
+    "gn:latitude":36.68107,
+    "gn:longitude":127.28247,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Imokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\ubaa9\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349048
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c2d609015ca22500c9f2a49ac2d24b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1209779089,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1209779089,
+    "wof:lastmodified":1537659019,
+    "wof:name":"Imokdong",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28247,
+    36.68107,
+    127.28247,
+    36.68107
+],
+  "geometry": {"coordinates":[127.28247,36.68107],"type":"Point"}
+}

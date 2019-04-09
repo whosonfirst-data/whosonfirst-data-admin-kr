@@ -1,0 +1,70 @@
+{
+  "id": 1243089291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2901,37.2494,128.2901,37.2494",
+    "geom:latitude":37.2494,
+    "geom:longitude":128.2901,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Paduk-kol",
+    "gn:country_code":"KR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795715,
+    "gn:latitude":37.2494,
+    "gn:longitude":128.2901,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paduk-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc14\ub451\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795715
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"df0b66ae1f091e2052994403d6583a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1243089291,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243089291,
+    "wof:lastmodified":1537657535,
+    "wof:name":"Paduk-kol",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2901,
+    37.2494,
+    128.2901,
+    37.2494
+],
+  "geometry": {"coordinates":[128.2901,37.2494],"type":"Point"}
+}

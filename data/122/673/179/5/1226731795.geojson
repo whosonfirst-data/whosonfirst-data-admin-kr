@@ -1,0 +1,70 @@
+{
+  "id": 1226731795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98983,35.27199,126.98983,35.27199",
+    "geom:latitude":35.27199,
+    "geom:longitude":126.98983,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sinheung",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170853,
+    "gn:latitude":35.27199,
+    "gn:longitude":126.98983,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Sinheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ud765"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170853
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6eb1c5ea4acdea87cb49b758ff19759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1226731795,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226731795,
+    "wof:lastmodified":1537659195,
+    "wof:name":"Sinheung",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98983,
+    35.27199,
+    126.98983,
+    35.27199
+],
+  "geometry": {"coordinates":[126.98983,35.27199],"type":"Point"}
+}

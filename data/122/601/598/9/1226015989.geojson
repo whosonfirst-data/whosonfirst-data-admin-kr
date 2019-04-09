@@ -1,0 +1,78 @@
+{
+  "id": 1226015989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53987,37.19894,127.53987,37.19894",
+    "geom:latitude":37.19894,
+    "geom:longitude":127.53987,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Neummal",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812620,
+    "gn:latitude":37.19894,
+    "gn:longitude":127.53987,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Neummal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2aa\ub9c9"
+    ],
+    "name:kor_x_variant":[
+        "N\u016dmmak",
+        "\ub2aa\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Neummak",
+        "Neummal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812620
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"83d4628809ca6c29a020fe5394223e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1226015989,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226015989,
+    "wof:lastmodified":1537657974,
+    "wof:name":"Neummal",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53987,
+    37.19894,
+    127.53987,
+    37.19894
+],
+  "geometry": {"coordinates":[127.53986999999999,37.19894],"type":"Point"}
+}

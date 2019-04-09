@@ -1,0 +1,64 @@
+{
+  "id": 1209498447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.16262,35.7508,129.16262,35.7508",
+    "geom:latitude":35.7508,
+    "geom:longitude":129.16262,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gwigye",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064950,
+    "gn:latitude":35.7508,
+    "gn:longitude":129.16262,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Gwigye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadc0\uacc4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064950
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0cad7905ed4d0b9bbfa0dc3194582dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209498447
+        }
+    ],
+    "wof:id":1209498447,
+    "wof:lastmodified":1537659126,
+    "wof:name":"Gwigye",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.16262,
+    35.7508,
+    129.16262,
+    35.7508
+],
+  "geometry": {"coordinates":[129.16262,35.7508],"type":"Point"}
+}

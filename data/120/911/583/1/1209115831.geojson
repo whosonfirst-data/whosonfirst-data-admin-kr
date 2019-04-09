@@ -1,0 +1,69 @@
+{
+  "id": 1209115831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55165,34.86941,127.55165,34.86941",
+    "geom:latitude":34.86941,
+    "geom:longitude":127.55165,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bongdu",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845164,
+    "gn:latitude":34.86941,
+    "gn:longitude":127.55165,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Bongdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\ub450"
+    ],
+    "name:und_x_variant":[
+        "Chuk-tong",
+        "Pongdu",
+        "Bongdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845164
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9a607d9f9128f78f2ab7432a30d1c21f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209115831
+        }
+    ],
+    "wof:id":1209115831,
+    "wof:lastmodified":1537656637,
+    "wof:name":"Bongdu",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55165,
+    34.86940999999999,
+    127.55165,
+    34.86940999999999
+],
+  "geometry": {"coordinates":[127.55165,34.86940999999999],"type":"Point"}
+}

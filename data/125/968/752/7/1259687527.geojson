@@ -1,0 +1,74 @@
+{
+  "id": 1259687527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68793,33.27531,126.68793,33.27531",
+    "geom:latitude":33.27531,
+    "geom:longitude":126.68793,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Namjeju-gun",
+    "gn:asciiname":"Jongjeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194016,
+    "gn:latitude":33.27531,
+    "gn:longitude":126.68793,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Jongjeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc885\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Chongj\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890474633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194016
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"34acf059d73d4ac11b11aab8d40fd403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474633,
+            "locality_id":1259687527,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1259687527,
+    "wof:lastmodified":1537657002,
+    "wof:name":"Jongjeongdong",
+    "wof:parent_id":890474633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68793,
+    33.27531,
+    126.68793,
+    33.27531
+],
+  "geometry": {"coordinates":[126.68792999999999,33.27531],"type":"Point"}
+}

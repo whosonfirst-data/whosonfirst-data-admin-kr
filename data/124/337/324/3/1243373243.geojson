@@ -1,0 +1,67 @@
+{
+  "id": 1243373243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.76667,34.71667,127.76667,34.71667",
+    "geom:latitude":34.71667,
+    "geom:longitude":127.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paekch'o",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839516,
+    "gn:latitude":34.71667,
+    "gn:longitude":127.76667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Paekch\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839516
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"efc726eeba6ea089ce3faf1cb9a55c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1243373243,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243373243,
+    "wof:lastmodified":1536911420,
+    "wof:name":"Paekch'o",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.76667,
+    34.71667,
+    127.76667,
+    34.71667
+],
+  "geometry": {"coordinates":[127.76667,34.71667],"type":"Point"}
+}

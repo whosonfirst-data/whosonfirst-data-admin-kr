@@ -1,0 +1,65 @@
+{
+  "id": 1209178761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1637,35.61998,128.1637,35.61998",
+    "geom:latitude":35.61998,
+    "geom:longitude":128.1637,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Popchong",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904395,
+    "gn:latitude":35.61998,
+    "gn:longitude":128.1637,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fpch\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc95\uc815",
+        "P\u014fpch\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904395
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8be2a5e8d9e111b65bc2794d8b063252",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209178761
+        }
+    ],
+    "wof:id":1209178761,
+    "wof:lastmodified":1537658864,
+    "wof:name":"Popchong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1637,
+    35.61998,
+    128.1637,
+    35.61998
+],
+  "geometry": {"coordinates":[128.16370000000001,35.61998],"type":"Point"}
+}

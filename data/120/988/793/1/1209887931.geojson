@@ -1,0 +1,73 @@
+{
+  "id": 1209887931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97441,34.89535,126.97441,34.89535",
+    "geom:latitude":34.89535,
+    "geom:longitude":126.97441,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seonhadong",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835997,
+    "gn:latitude":34.89535,
+    "gn:longitude":126.97441,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Seonhadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc120\ud558\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "S\u014fnha-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835997
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17252930b8035f3fe4d656809d717547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1209887931,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209887931,
+    "wof:lastmodified":1537656165,
+    "wof:name":"Seonhadong",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97441,
+    34.89535,
+    126.97441,
+    34.89535
+],
+  "geometry": {"coordinates":[126.97441000000001,34.89535],"type":"Point"}
+}

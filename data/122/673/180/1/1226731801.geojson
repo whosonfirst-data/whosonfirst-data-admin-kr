@@ -1,0 +1,70 @@
+{
+  "id": 1226731801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97743,35.35417,126.97743,35.35417",
+    "geom:latitude":35.35417,
+    "geom:longitude":126.97743,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tongcheon",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170787,
+    "gn:latitude":35.35417,
+    "gn:longitude":126.97743,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Tongcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1b5\ucc9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170787
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2d495096a35315a024471e0dd3bd3005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1226731801,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226731801,
+    "wof:lastmodified":1537659194,
+    "wof:name":"Tongcheon",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97743,
+    35.35417,
+    126.97743,
+    35.35417
+],
+  "geometry": {"coordinates":[126.97743,35.35417],"type":"Point"}
+}

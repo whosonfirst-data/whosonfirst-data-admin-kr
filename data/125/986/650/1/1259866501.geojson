@@ -1,0 +1,73 @@
+{
+  "id": 1259866501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4438,37.37323,126.4438,37.37323",
+    "geom:latitude":37.37323,
+    "geom:longitude":126.4438,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Demuri",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896282,
+    "gn:latitude":37.37323,
+    "gn:longitude":126.4438,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Demuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub370\ubb34\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ttemu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896282
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7aa070605ba484a57c4b615498348ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746485,
+            "locality_id":1259866501,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1259866501,
+    "wof:lastmodified":1537656898,
+    "wof:name":"Demuri",
+    "wof:parent_id":1108746485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4438,
+    37.37323,
+    126.4438,
+    37.37323
+],
+  "geometry": {"coordinates":[126.4438,37.37323],"type":"Point"}
+}

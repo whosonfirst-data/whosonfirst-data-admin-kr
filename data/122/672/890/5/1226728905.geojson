@@ -1,0 +1,74 @@
+{
+  "id": 1226728905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33528,37.03472,127.33528,37.03472",
+    "geom:latitude":37.03472,
+    "geom:longitude":127.33528,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ans\u014fng-si",
+    "gn:asciiname":"Majeon-ri",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6398771,
+    "gn:latitude":37.03472,
+    "gn:longitude":127.33528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Majeon-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc804\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Maj\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398771
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5db4ceb21c4614542b0b16af0bdc7628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1226728905,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226728905,
+    "wof:lastmodified":1537657190,
+    "wof:name":"Majeon-ri",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33528,
+    37.03472,
+    127.33528,
+    37.03472
+],
+  "geometry": {"coordinates":[127.33528,37.03472],"type":"Point"}
+}

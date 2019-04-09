@@ -1,0 +1,67 @@
+{
+  "id": 1226832397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.83056,37.50167,130.83056,37.50167",
+    "geom:latitude":37.50167,
+    "geom:longitude":130.83056,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sodallyong",
+    "gn:country_code":"KR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884410,
+    "gn:latitude":37.50167,
+    "gn:longitude":130.83056,
+    "gn:modification_date":"1996-02-14",
+    "gn:name":"S\u014fdally\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884410
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c03fb17d33a0ccb83157e44f0bf7490d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475357,
+            "locality_id":1226832397,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226832397,
+    "wof:lastmodified":1537084375,
+    "wof:name":"Sodallyong",
+    "wof:parent_id":890475357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.83056000000002,
+    37.50167,
+    130.83056000000002,
+    37.50167
+],
+  "geometry": {"coordinates":[130.83056000000002,37.50167],"type":"Point"}
+}

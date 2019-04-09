@@ -1,0 +1,64 @@
+{
+  "id": 1209070211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89232,35.06772,126.89232,35.06772",
+    "geom:latitude":35.06772,
+    "geom:longitude":126.89232,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sangnodong",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11194073,
+    "gn:latitude":35.06772,
+    "gn:longitude":126.89232,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Sangnodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub178\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11194073
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17f4e19215961e6566f8fbab19275216",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209070211
+        }
+    ],
+    "wof:id":1209070211,
+    "wof:lastmodified":1537659230,
+    "wof:name":"Sangnodong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89232,
+    35.06772,
+    126.89232,
+    35.06772
+],
+  "geometry": {"coordinates":[126.89232,35.06772],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293672517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.50525,36.71271,128.50525,36.71271",
+    "geom:latitude":36.71271,
+    "geom:longitude":128.50525,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Manmat",
+    "gn:country_code":"KR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255062,
+    "gn:latitude":36.71271,
+    "gn:longitude":128.50525,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Manmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9cc\ub9db"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255062
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"68b3ca25cf8400115bb0b640b264ceb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1293672517,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293672517,
+    "wof:lastmodified":1537659279,
+    "wof:name":"Manmat",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.50525,
+    36.71271,
+    128.50525,
+    36.71271
+],
+  "geometry": {"coordinates":[128.50524999999999,36.71271],"type":"Point"}
+}

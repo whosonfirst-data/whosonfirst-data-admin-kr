@@ -1,0 +1,64 @@
+{
+  "id": 1209401007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04958,37.85639,127.04958,37.85639",
+    "geom:latitude":37.85639,
+    "geom:longitude":127.04958,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Haebangchon",
+    "gn:country_code":"KR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8613917,
+    "gn:latitude":37.85639,
+    "gn:longitude":127.04958,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Haebangchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\ubc29\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8613917
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8da5486c1ba86ed3e6bb57a32de0dfcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209401007
+        }
+    ],
+    "wof:id":1209401007,
+    "wof:lastmodified":1537658900,
+    "wof:name":"Haebangchon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04958,
+    37.85639000000001,
+    127.04958,
+    37.85639000000001
+],
+  "geometry": {"coordinates":[127.04958000000001,37.85639000000001],"type":"Point"}
+}

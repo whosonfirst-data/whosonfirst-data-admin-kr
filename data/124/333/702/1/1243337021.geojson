@@ -1,0 +1,67 @@
+{
+  "id": 1243337021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.09472,36.94528,129.09472,36.94528",
+    "geom:latitude":36.94528,
+    "geom:longitude":129.09472,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Oegwangbi",
+    "gn:country_code":"KR",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895490,
+    "gn:latitude":36.94528,
+    "gn:longitude":129.09472,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Oegwangbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895490
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"55f9c38f04ad7d52853a72e3a7b3e8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1243337021,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243337021,
+    "wof:lastmodified":1536963270,
+    "wof:name":"Oegwangbi",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.09472,
+    36.94528,
+    129.09472,
+    36.94528
+],
+  "geometry": {"coordinates":[129.09472,36.94528],"type":"Point"}
+}

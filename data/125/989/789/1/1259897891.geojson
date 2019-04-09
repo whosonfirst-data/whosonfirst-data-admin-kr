@@ -1,0 +1,74 @@
+{
+  "id": 1259897891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45,35.33333,126.45,35.33333",
+    "geom:latitude":35.33333,
+    "geom:longitude":126.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mach'on",
+    "gn:country_code":"KR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841558,
+    "gn:latitude":35.33333,
+    "gn:longitude":126.45,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Mach\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Machon",
+        "Mach\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841558
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5521702082909b7ea513dfaf43a6d25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473229,
+            "locality_id":1259897891,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259897891,
+    "wof:lastmodified":1537656450,
+    "wof:name":"Mach'on",
+    "wof:parent_id":890473229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45,
+    35.33333,
+    126.45,
+    35.33333
+],
+  "geometry": {"coordinates":[126.45,35.33333],"type":"Point"}
+}

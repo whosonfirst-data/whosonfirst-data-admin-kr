@@ -1,0 +1,65 @@
+{
+  "id": 1209187655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.09438,35.98217,128.09438,35.98217",
+    "geom:latitude":35.98217,
+    "geom:longitude":128.09438,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Migok",
+    "gn:country_code":"KR",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902361,
+    "gn:latitude":35.98217,
+    "gn:longitude":128.09438,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Migok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubbf8\uace1",
+        "Migok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902361
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c9beb433a388e41fa7998d148a4326ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209187655
+        }
+    ],
+    "wof:id":1209187655,
+    "wof:lastmodified":1537658814,
+    "wof:name":"Migok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.09438,
+    35.98217,
+    128.09438,
+    35.98217
+],
+  "geometry": {"coordinates":[128.09438,35.98217],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309675845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71965,35.07212,126.71965,35.07212",
+    "geom:latitude":35.07212,
+    "geom:longitude":126.71965,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Daegol",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180304,
+    "gn:latitude":35.07212,
+    "gn:longitude":126.71965,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Daegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180304
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8fab7017600529b5ed9c047ef5928287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1309675845,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309675845,
+    "wof:lastmodified":1537659217,
+    "wof:name":"Daegol",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71965,
+    35.07212,
+    126.71965,
+    35.07212
+],
+  "geometry": {"coordinates":[126.71965,35.07212],"type":"Point"}
+}

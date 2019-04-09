@@ -1,0 +1,71 @@
+{
+  "id": 1310564585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5365,36.7223,126.5365,36.7223",
+    "geom:latitude":36.7223,
+    "geom:longitude":126.5365,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kuhaemi",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809266,
+    "gn:latitude":36.7223,
+    "gn:longitude":126.5365,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kuhaemi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\ud574\ubbf8",
+        "Kuhaemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809266
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ff016902408f31a4a89059b25fce7f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1310564585,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310564585,
+    "wof:lastmodified":1537657867,
+    "wof:name":"Kuhaemi",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5365,
+    36.7223,
+    126.5365,
+    36.7223
+],
+  "geometry": {"coordinates":[126.5365,36.7223],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309898027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04126,38.14286,128.04126,38.14286",
+    "geom:latitude":38.14286,
+    "geom:longitude":128.04126,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yangjigaojak",
+    "gn:country_code":"KR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364979,
+    "gn:latitude":38.14286,
+    "gn:longitude":128.04126,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yangjigaojak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc9c0\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "\uc591\uc9c0\uac00\uc624\uc791"
+    ],
+    "name:und_x_variant":[
+        "Yangjimal",
+        "Yangjigaojak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890474685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364979
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"20c1823d8981aabebbc048148d0b1a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474685,
+            "locality_id":1309898027,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309898027,
+    "wof:lastmodified":1537657107,
+    "wof:name":"Yangjigaojak",
+    "wof:parent_id":890474685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04126000000002,
+    38.14286,
+    128.04126000000002,
+    38.14286
+],
+  "geometry": {"coordinates":[128.04126000000002,38.14286],"type":"Point"}
+}

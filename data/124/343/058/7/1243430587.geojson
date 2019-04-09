@@ -1,0 +1,74 @@
+{
+  "id": 1243430587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5009,36.9002,126.5009,36.9002",
+    "geom:latitude":36.9002,
+    "geom:longitude":126.5009,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chogum-ni",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835560,
+    "gn:latitude":36.9002,
+    "gn:longitude":126.5009,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chog\u016dm-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u016dnt\u2019\u014f",
+        "Sas\u014fng-ni",
+        "Chog\u016dmjin-ni",
+        "\uc870\uae08\ub9ac",
+        "Chog\u016dm-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835560
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2ec564b6c350e1439e52be73eca6851d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1243430587,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243430587,
+    "wof:lastmodified":1537656144,
+    "wof:name":"Chogum-ni",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5009,
+    36.9002,
+    126.5009,
+    36.9002
+],
+  "geometry": {"coordinates":[126.5009,36.9002],"type":"Point"}
+}

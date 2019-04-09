@@ -1,0 +1,76 @@
+{
+  "id": 1276521079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.38651,36.36006,129.38651,36.36006",
+    "geom:latitude":36.36006,
+    "geom:longitude":129.38651,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ganggu",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843171,
+    "gn:latitude":36.36006,
+    "gn:longitude":129.38651,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ganggu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\uad6c"
+    ],
+    "name:und_x_variant":[
+        "Kanggu-dong",
+        "Kokodo",
+        "Kanggu",
+        "Ganggu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843171
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be64e90e466e7387e66b269585af4634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1276521079,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276521079,
+    "wof:lastmodified":1537656535,
+    "wof:name":"Ganggu",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.38651000000002,
+    36.36006,
+    129.38651000000002,
+    36.36006
+],
+  "geometry": {"coordinates":[129.38651000000002,36.36006],"type":"Point"}
+}

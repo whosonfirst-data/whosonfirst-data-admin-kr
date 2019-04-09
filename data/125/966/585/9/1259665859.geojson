@@ -1,0 +1,78 @@
+{
+  "id": 1259665859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.855,34.42694,126.855,34.42694",
+    "geom:latitude":34.42694,
+    "geom:longitude":126.855,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Neopdo",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394561,
+    "gn:latitude":34.42694,
+    "gn:longitude":126.855,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Neopdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub118\ub3c4"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fjae-jae",
+        "\ub119\ub3c4"
+    ],
+    "name:und_x_variant":[
+        "Neomdo",
+        "N\u014fmdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394561
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3fa88879a9ba060eca95c0c33053d356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1259665859,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259665859,
+    "wof:lastmodified":1537657134,
+    "wof:name":"Neopdo",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.855,
+    34.42694,
+    126.855,
+    34.42694
+],
+  "geometry": {"coordinates":[126.855,34.42694],"type":"Point"}
+}

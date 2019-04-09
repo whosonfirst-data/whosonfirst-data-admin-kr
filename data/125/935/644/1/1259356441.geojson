@@ -1,0 +1,70 @@
+{
+  "id": 1259356441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.99788,35.75257,128.99788,35.75257",
+    "geom:latitude":35.75257,
+    "geom:longitude":128.99788,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Munsan",
+    "gn:country_code":"KR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063719,
+    "gn:latitude":35.75257,
+    "gn:longitude":128.99788,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Munsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063719
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"df5a0f08960e3b00f9241b8b2b584d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1259356441,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259356441,
+    "wof:lastmodified":1537659121,
+    "wof:name":"Munsan",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.99788,
+    35.75257,
+    128.99788,
+    35.75257
+],
+  "geometry": {"coordinates":[128.99788000000001,35.75257],"type":"Point"}
+}

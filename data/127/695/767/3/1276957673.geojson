@@ -1,0 +1,73 @@
+{
+  "id": 1276957673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.09107,38.06248,127.09107,38.06248",
+    "geom:latitude":38.06248,
+    "geom:longitude":127.09107,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gopori",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884237,
+    "gn:latitude":38.06248,
+    "gn:longitude":127.09107,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gopori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ud3ec\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kop\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884237
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de001b94ba1dc237fd1c4c7af2b9f3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1276957673,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276957673,
+    "wof:lastmodified":1537656776,
+    "wof:name":"Gopori",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.09107,
+    38.06248,
+    127.09107,
+    38.06248
+],
+  "geometry": {"coordinates":[127.09107,38.06248],"type":"Point"}
+}

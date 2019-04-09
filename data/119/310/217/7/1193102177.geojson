@@ -1,0 +1,67 @@
+{
+  "id": 1193102177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48333,36.45,127.48333,36.45",
+    "geom:latitude":36.45,
+    "geom:longitude":127.48333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hadae-ri",
+    "gn:country_code":"KR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844800,
+    "gn:latitude":36.45,
+    "gn:longitude":127.48333,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"Hadae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        890474133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844800
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4abdf004ec3acfc0847a4a173d874377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474133,
+            "locality_id":1193102177,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1193102177,
+    "wof:lastmodified":1536382314,
+    "wof:name":"Hadae-ri",
+    "wof:parent_id":890474133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48333,
+    36.45,
+    127.48333,
+    36.45
+],
+  "geometry": {"coordinates":[127.48333,36.45],"type":"Point"}
+}

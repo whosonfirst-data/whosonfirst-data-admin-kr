@@ -1,0 +1,70 @@
+{
+  "id": 1243326929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98096,36.69196,126.98096,36.69196",
+    "geom:latitude":36.69196,
+    "geom:longitude":126.98096,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Neureumsil",
+    "gn:country_code":"KR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251133,
+    "gn:latitude":36.69196,
+    "gn:longitude":126.98096,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Neureumsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub290\ub984\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251133
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1d3bb000fbe9602b621fc18f4c665c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1243326929,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243326929,
+    "wof:lastmodified":1537659001,
+    "wof:name":"Neureumsil",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98096,
+    36.69196,
+    126.98096,
+    36.69196
+],
+  "geometry": {"coordinates":[126.98096,36.69196],"type":"Point"}
+}

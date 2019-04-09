@@ -1,0 +1,70 @@
+{
+  "id": 1242799523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1898,37.8686,128.1898,37.8686",
+    "geom:latitude":37.8686,
+    "geom:longitude":128.1898,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Munan",
+    "gn:country_code":"KR",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815519,
+    "gn:latitude":37.8686,
+    "gn:longitude":128.1898,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Munan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc548"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815519
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"53308a86a658ac6fc14e8e52e4357609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1242799523,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242799523,
+    "wof:lastmodified":1537658055,
+    "wof:name":"Munan",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1898,
+    37.8686,
+    128.1898,
+    37.8686
+],
+  "geometry": {"coordinates":[128.18979999999999,37.8686],"type":"Point"}
+}

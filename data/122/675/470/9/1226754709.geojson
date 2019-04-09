@@ -1,0 +1,71 @@
+{
+  "id": 1226754709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32922,35.70532,127.32922,35.70532",
+    "geom:latitude":35.70532,
+    "geom:longitude":127.32922,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wonoegung",
+    "gn:country_code":"KR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876370,
+    "gn:latitude":35.70532,
+    "gn:longitude":127.32922,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014fnoegung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uc678\uad81",
+        "W\u014fnoegung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876370
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8a16767a2d42b7c73020cba89e635242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1226754709,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1226754709,
+    "wof:lastmodified":1537658127,
+    "wof:name":"Wonoegung",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32922,
+    35.70532,
+    127.32922,
+    35.70532
+],
+  "geometry": {"coordinates":[127.32922000000001,35.70532],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293461651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90306,35.04528,126.90306,35.04528",
+    "geom:latitude":35.04528,
+    "geom:longitude":126.90306,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wonha",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11196836,
+    "gn:latitude":35.04528,
+    "gn:longitude":126.90306,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Wonha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ud558"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11196836
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e1392222339ba9044e3586f97849efef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1293461651,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293461651,
+    "wof:lastmodified":1537659230,
+    "wof:name":"Wonha",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90306,
+    35.04528,
+    126.90306,
+    35.04528
+],
+  "geometry": {"coordinates":[126.90306,35.04528],"type":"Point"}
+}

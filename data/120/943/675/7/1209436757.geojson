@@ -1,0 +1,64 @@
+{
+  "id": 1209436757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0197,37.5897,128.0197,37.5897",
+    "geom:latitude":37.5897,
+    "geom:longitude":128.0197,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wissambae",
+    "gn:country_code":"KR",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816389,
+    "gn:latitude":37.5897,
+    "gn:longitude":128.0197,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wissambae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\uc0bc\ubc30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816389
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb31aa063b4d8c16d704fc48cd401beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209436757
+        }
+    ],
+    "wof:id":1209436757,
+    "wof:lastmodified":1537658090,
+    "wof:name":"Wissambae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0197,
+    37.5897,
+    128.0197,
+    37.5897
+],
+  "geometry": {"coordinates":[128.0197,37.5897],"type":"Point"}
+}

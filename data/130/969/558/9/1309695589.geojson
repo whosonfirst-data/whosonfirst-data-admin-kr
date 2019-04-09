@@ -1,0 +1,71 @@
+{
+  "id": 1309695589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.27582,36.41429,129.27582,36.41429",
+    "geom:latitude":36.41429,
+    "geom:longitude":129.27582,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yangjihaodong",
+    "gn:country_code":"KR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879310,
+    "gn:latitude":36.41429,
+    "gn:longitude":129.27582,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Yangjihaodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc591\uc9c0\ud558\uc624\ub3d9",
+        "Yangjihaodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879310
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"10aed9b49b0107f81c0210b2882296eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1309695589,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309695589,
+    "wof:lastmodified":1537658226,
+    "wof:name":"Yangjihaodong",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.27581999999998,
+    36.41429,
+    129.27581999999998,
+    36.41429
+],
+  "geometry": {"coordinates":[129.27581999999998,36.41429],"type":"Point"}
+}

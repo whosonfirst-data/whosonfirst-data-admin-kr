@@ -1,0 +1,76 @@
+{
+  "id": 1310694703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.74032,36.99625,127.74032,36.99625",
+    "geom:latitude":36.99625,
+    "geom:longitude":127.74032,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yongwon",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832253,
+    "gn:latitude":36.99625,
+    "gn:longitude":127.74032,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Yongwon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc6d0"
+    ],
+    "name:und_x_variant":[
+        "Yongw\u014fn-ni",
+        "Yongw\u014fn-dong",
+        "Yongw\u014fn",
+        "Yongwon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832253
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1f11aee05e910d54c9bbb6a57fb86395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1310694703,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1310694703,
+    "wof:lastmodified":1537655969,
+    "wof:name":"Yongwon",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.74032,
+    36.99625,
+    127.74032,
+    36.99625
+],
+  "geometry": {"coordinates":[127.74032,36.99625],"type":"Point"}
+}

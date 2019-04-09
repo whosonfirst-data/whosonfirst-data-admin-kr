@@ -1,0 +1,73 @@
+{
+  "id": 1309802389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36787,37.02299,128.36787,37.02299",
+    "geom:latitude":37.02299,
+    "geom:longitude":128.36787,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yeocheon",
+    "gn:country_code":"KR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797980,
+    "gn:latitude":37.02299,
+    "gn:longitude":128.36787,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Yeocheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ec\ucc9c"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fch\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797980
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"82815345465ac39a1f82597ecce94445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1309802389,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1309802389,
+    "wof:lastmodified":1537657610,
+    "wof:name":"Yeocheon",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36786999999998,
+    37.02299,
+    128.36786999999998,
+    37.02299
+],
+  "geometry": {"coordinates":[128.36786999999998,37.02299],"type":"Point"}
+}

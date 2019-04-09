@@ -1,0 +1,74 @@
+{
+  "id": 1310297299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.90925,37.79046,127.90925,37.79046",
+    "geom:latitude":37.79046,
+    "geom:longitude":127.90925,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Giwajimmal",
+    "gn:country_code":"KR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888874,
+    "gn:latitude":37.79046,
+    "gn:longitude":127.90925,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Giwajimmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\uc640\uc9d1\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Kiwajim-mal",
+        "Giwajimmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888874
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"270f67855f39bde21cf6db1da4c52703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1310297299,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310297299,
+    "wof:lastmodified":1537656798,
+    "wof:name":"Giwajimmal",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.90925,
+    37.79046,
+    127.90925,
+    37.79046
+],
+  "geometry": {"coordinates":[127.90925,37.79046],"type":"Point"}
+}

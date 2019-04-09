@@ -1,0 +1,72 @@
+{
+  "id": 1276303523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0348,37.86425,127.0348,37.86425",
+    "geom:latitude":37.86425,
+    "geom:longitude":127.0348,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Deukseong",
+    "gn:country_code":"KR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799648,
+    "gn:latitude":37.86425,
+    "gn:longitude":127.0348,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Deukseong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub4dd\uc131",
+        "T\u016dks\u014fng",
+        "Deukseong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799648
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"36169dbdbe0031b1de3078764d2ff770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1276303523,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276303523,
+    "wof:lastmodified":1537657649,
+    "wof:name":"Deukseong",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0348,
+    37.86425,
+    127.0348,
+    37.86425
+],
+  "geometry": {"coordinates":[127.0348,37.86425],"type":"Point"}
+}

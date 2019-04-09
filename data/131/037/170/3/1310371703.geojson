@@ -1,0 +1,71 @@
+{
+  "id": 1310371703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6598,36.2606,126.6598,36.2606",
+    "geom:latitude":36.2606,
+    "geom:longitude":126.6598,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kumgang",
+    "gn:country_code":"KR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883867,
+    "gn:latitude":36.2606,
+    "gn:longitude":126.6598,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016dmgang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\uac15",
+        "K\u016dmgang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883867
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"222145374e026cbbdd9c67cb7d0ed62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1310371703,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310371703,
+    "wof:lastmodified":1537658301,
+    "wof:name":"Kumgang",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6598,
+    36.2606,
+    126.6598,
+    36.2606
+],
+  "geometry": {"coordinates":[126.6598,36.2606],"type":"Point"}
+}

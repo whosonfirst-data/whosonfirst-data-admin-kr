@@ -1,0 +1,70 @@
+{
+  "id": 1260154273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.27865,35.78961,129.27865,35.78961",
+    "geom:latitude":35.78961,
+    "geom:longitude":129.27865,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bokchaemaeul",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077701,
+    "gn:latitude":35.78961,
+    "gn:longitude":129.27865,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Bokchaemaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\ucc44\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077701
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"09cb8f300ef913b171ad148f5400ac50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1260154273,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260154273,
+    "wof:lastmodified":1537659131,
+    "wof:name":"Bokchaemaeul",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.27865,
+    35.78961,
+    129.27865,
+    35.78961
+],
+  "geometry": {"coordinates":[129.27865,35.78961],"type":"Point"}
+}

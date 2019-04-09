@@ -1,0 +1,72 @@
+{
+  "id": 1260363993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13529,35.67295,128.13529,35.67295",
+    "geom:latitude":35.67295,
+    "geom:longitude":128.13529,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"P'yong-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838456,
+    "gn:latitude":35.67295,
+    "gn:longitude":128.13529,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u2019y\u014fng-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hwap\u2019y\u014fng-dong",
+        "\ud3c9\ucd0c",
+        "P\u2019y\u014fng-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838456
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c2a3c9ef243c3e241697e3ef96b2c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1260363993,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1260363993,
+    "wof:lastmodified":1537656294,
+    "wof:name":"P'yong-ch'on",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13529,
+    35.67295,
+    128.13529,
+    35.67295
+],
+  "geometry": {"coordinates":[128.13529,35.67295],"type":"Point"}
+}

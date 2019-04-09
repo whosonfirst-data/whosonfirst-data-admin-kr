@@ -1,0 +1,73 @@
+{
+  "id": 1259448743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75051,35.11892,126.75051,35.11892",
+    "geom:latitude":35.11892,
+    "geom:longitude":126.75051,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hwajeon",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1980974,
+    "gn:latitude":35.11892,
+    "gn:longitude":126.75051,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hwajeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc804"
+    ],
+    "name:und_x_variant":[
+        "Hwaj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1980974
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed22646842ec555c917193e13b2e6fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473197,
+            "locality_id":1259448743,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1259448743,
+    "wof:lastmodified":1537656987,
+    "wof:name":"Hwajeon",
+    "wof:parent_id":890473197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75051,
+    35.11892,
+    126.75051,
+    35.11892
+],
+  "geometry": {"coordinates":[126.75051000000001,35.11892],"type":"Point"}
+}

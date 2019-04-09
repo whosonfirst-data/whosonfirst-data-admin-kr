@@ -1,0 +1,76 @@
+{
+  "id": 1344139007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2858,34.64662,127.2858,34.64662",
+    "geom:latitude":34.64662,
+    "geom:longitude":127.2858,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dongsin",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834136,
+    "gn:latitude":34.64662,
+    "gn:longitude":127.2858,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dongsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc2e0"
+    ],
+    "name:und_x_variant":[
+        "Tongsin-ni",
+        "Sinsong-ni",
+        "Tongsin",
+        "Dongsin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834136
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e1f0bcfb81db08d535bc6ae01f9ee60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1344139007,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1344139007,
+    "wof:lastmodified":1537656069,
+    "wof:name":"Dongsin",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2858,
+    34.64662,
+    127.2858,
+    34.64662
+],
+  "geometry": {"coordinates":[127.28579999999999,34.64662],"type":"Point"}
+}

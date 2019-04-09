@@ -1,0 +1,75 @@
+{
+  "id": 1276612429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.34284,35.35637,129.34284,35.35637",
+    "geom:latitude":35.35637,
+    "geom:longitude":129.34284,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Nasa",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840330,
+    "gn:latitude":35.35637,
+    "gn:longitude":129.34284,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Nasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub098\uc0ac"
+    ],
+    "name:und_x_variant":[
+        "Nasa-dong",
+        "Nasa-ri",
+        "Nasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840330
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"59e5377049ce7cb42c654c1e80a09c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1276612429,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1276612429,
+    "wof:lastmodified":1537656390,
+    "wof:name":"Nasa",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.34284,
+    35.35637,
+    129.34284,
+    35.35637
+],
+  "geometry": {"coordinates":[129.34284,35.35637],"type":"Point"}
+}

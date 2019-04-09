@@ -1,0 +1,71 @@
+{
+  "id": 1293766901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.21926,36.01301,129.21926,36.01301",
+    "geom:latitude":36.01301,
+    "geom:longitude":129.21926,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chondang",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878854,
+    "gn:latitude":36.01301,
+    "gn:longitude":129.21926,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chondang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc874\ub2f9",
+        "Chondang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878854
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c8732ce2f0b57938adfea7696169d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1293766901,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293766901,
+    "wof:lastmodified":1537658207,
+    "wof:name":"Chondang",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.21926000000002,
+    36.01300999999999,
+    129.21926000000002,
+    36.01300999999999
+],
+  "geometry": {"coordinates":[129.21926000000002,36.01300999999999],"type":"Point"}
+}

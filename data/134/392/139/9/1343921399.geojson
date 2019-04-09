@@ -1,0 +1,71 @@
+{
+  "id": 1343921399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2773,36.465,127.2773,36.465",
+    "geom:latitude":36.465,
+    "geom:longitude":127.2773,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ka-dong",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888694,
+    "gn:latitude":36.465,
+    "gn:longitude":127.2773,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ka-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ub3d9",
+        "Ka-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888694
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ff9a24c45a9f268501ba105d536df6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1343921399,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1343921399,
+    "wof:lastmodified":1537658436,
+    "wof:name":"Ka-dong",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2773,
+    36.465,
+    127.2773,
+    36.465
+],
+  "geometry": {"coordinates":[127.2773,36.465],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327317107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04655,35.85669,128.04655,35.85669",
+    "geom:latitude":35.85669,
+    "geom:longitude":128.04655,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muni",
+    "gn:country_code":"KR",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902555,
+    "gn:latitude":35.85669,
+    "gn:longitude":128.04655,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Muni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb38\uc774",
+        "Muni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902555
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c786121992009f9d61b3b1f5713402dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1327317107,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327317107,
+    "wof:lastmodified":1537658824,
+    "wof:name":"Muni",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04655,
+    35.85669,
+    128.04655,
+    35.85669
+],
+  "geometry": {"coordinates":[128.04655,35.85669],"type":"Point"}
+}

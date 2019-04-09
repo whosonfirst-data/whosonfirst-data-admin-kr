@@ -1,0 +1,74 @@
+{
+  "id": 1309716721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.51413,36.96479,127.51413,36.96479",
+    "geom:latitude":36.96479,
+    "geom:longitude":127.51413,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sodangi",
+    "gn:country_code":"KR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836694,
+    "gn:latitude":36.96479,
+    "gn:longitude":127.51413,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Sodangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\ub2f9\uc774"
+    ],
+    "name:und_x_variant":[
+        "Sodang-ni",
+        "Sodangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836694
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d4044ec3ae6b1b8e8871f6d0bfda8920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1309716721,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1309716721,
+    "wof:lastmodified":1537656200,
+    "wof:name":"Sodangi",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.51413,
+    36.96479,
+    127.51413,
+    36.96479
+],
+  "geometry": {"coordinates":[127.51412999999999,36.96479],"type":"Point"}
+}

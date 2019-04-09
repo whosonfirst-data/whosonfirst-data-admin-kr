@@ -1,0 +1,73 @@
+{
+  "id": 1209820049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.08441,37.1238,128.08441,37.1238",
+    "geom:latitude":37.1238,
+    "geom:longitude":128.08441,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tokkogae",
+    "gn:country_code":"KR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797359,
+    "gn:latitude":37.1238,
+    "gn:longitude":128.08441,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u014fkkogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uace0\uac1c"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fkkogae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797359
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7dc9f8bc9958e6513f9b0f5cef8041dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1209820049,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1209820049,
+    "wof:lastmodified":1537657586,
+    "wof:name":"Tokkogae",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.08441000000002,
+    37.1238,
+    128.08441000000002,
+    37.1238
+],
+  "geometry": {"coordinates":[128.08441000000002,37.1238],"type":"Point"}
+}

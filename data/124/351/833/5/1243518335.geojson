@@ -1,0 +1,74 @@
+{
+  "id": 1243518335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5425,35.01444,126.5425,35.01444",
+    "geom:latitude":35.01444,
+    "geom:longitude":126.5425,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hakkyo-ri",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844607,
+    "gn:latitude":35.01444,
+    "gn:longitude":126.5425,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hakkyo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "lcty o",
+        "Kakky\u014d-ri",
+        "Hakkyo",
+        "Hakkyo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844607
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"46da48ae8a20a19edbcd6cab8551fe86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1243518335,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243518335,
+    "wof:lastmodified":1537656606,
+    "wof:name":"Hakkyo-ri",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5425,
+    35.01444,
+    126.5425,
+    35.01444
+],
+  "geometry": {"coordinates":[126.5425,35.01444],"type":"Point"}
+}

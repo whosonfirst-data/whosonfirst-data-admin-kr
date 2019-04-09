@@ -1,0 +1,70 @@
+{
+  "id": 1293454333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.75161,35.23199,128.75161,35.23199",
+    "geom:latitude":35.23199,
+    "geom:longitude":128.75161,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sinan",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11114405,
+    "gn:latitude":35.23199,
+    "gn:longitude":128.75161,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Sinan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc548"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11114405
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c3ad193d0eba5191d5481b6d2437c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475303,
+            "locality_id":1293454333,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293454333,
+    "wof:lastmodified":1537659162,
+    "wof:name":"Sinan",
+    "wof:parent_id":890475303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.75161,
+    35.23199,
+    128.75161,
+    35.23199
+],
+  "geometry": {"coordinates":[128.75161,35.23199],"type":"Point"}
+}

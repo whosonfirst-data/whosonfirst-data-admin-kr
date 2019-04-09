@@ -1,0 +1,67 @@
+{
+  "id": 1327205823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53333,34.96667,126.53333,34.96667",
+    "geom:latitude":34.96667,
+    "geom:longitude":126.53333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ki-dong",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842976,
+    "gn:latitude":34.96667,
+    "gn:longitude":126.53333,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Ki-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842976
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ea39f837c2f0a4b9e1efc5054fd41685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1327205823,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327205823,
+    "wof:lastmodified":1537007368,
+    "wof:name":"Ki-dong",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53333,
+    34.96667,
+    126.53333,
+    34.96667
+],
+  "geometry": {"coordinates":[126.53333000000001,34.96667],"type":"Point"}
+}

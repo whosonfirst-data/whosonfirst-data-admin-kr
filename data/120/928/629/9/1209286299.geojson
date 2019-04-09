@@ -1,0 +1,61 @@
+{
+  "id": 1209286299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.18861,35.30694,127.18861,35.30694",
+    "geom:latitude":35.30694,
+    "geom:longitude":127.18861,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ch'angjong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885492,
+    "gn:latitude":35.30694,
+    "gn:longitude":127.18861,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Ch\u2019angj\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885492
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c5ab4b526e2407357f7e661ee01856ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209286299
+        }
+    ],
+    "wof:id":1209286299,
+    "wof:lastmodified":1536291849,
+    "wof:name":"Ch'angjong-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.18861,
+    35.30694000000001,
+    127.18861,
+    35.30694000000001
+],
+  "geometry": {"coordinates":[127.18861,35.30694000000001],"type":"Point"}
+}

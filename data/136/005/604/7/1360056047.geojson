@@ -1,0 +1,67 @@
+{
+  "id": 1360056047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.18333,36.4,128.18333,36.4",
+    "geom:latitude":36.4,
+    "geom:longitude":128.18333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tojung-ni",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834591,
+    "gn:latitude":36.4,
+    "gn:longitude":128.18333,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Tojung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834591
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f516df6541447a0c13ebcabff219793a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1360056047,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1360056047,
+    "wof:lastmodified":1536986896,
+    "wof:name":"Tojung-ni",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.18333,
+    36.4,
+    128.18333,
+    36.4
+],
+  "geometry": {"coordinates":[128.18333000000001,36.4],"type":"Point"}
+}

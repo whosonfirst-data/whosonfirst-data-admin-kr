@@ -1,0 +1,71 @@
+{
+  "id": 1360148213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0081,36.8314,127.0081,36.8314",
+    "geom:latitude":36.8314,
+    "geom:longitude":127.0081,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Suani",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811106,
+    "gn:latitude":36.8314,
+    "gn:longitude":127.0081,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Suani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc218\uc548\uc774",
+        "Suani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811106
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de3e348e62be9648b0ee19220ef78966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1360148213,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1360148213,
+    "wof:lastmodified":1537657930,
+    "wof:name":"Suani",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0081,
+    36.8314,
+    127.0081,
+    36.8314
+],
+  "geometry": {"coordinates":[127.0081,36.8314],"type":"Point"}
+}

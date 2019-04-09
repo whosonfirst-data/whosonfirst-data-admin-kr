@@ -1,0 +1,70 @@
+{
+  "id": 1276541111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.50868,37.95499,128.50868,37.95499",
+    "geom:latitude":37.95499,
+    "geom:longitude":128.50868,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hwangi-ri",
+    "gn:country_code":"KR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6817143,
+    "gn:latitude":37.95499,
+    "gn:longitude":128.50868,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hwangi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud669\uc774\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817143
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ccdef3ade1f89524e7e1817ad94d777f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1276541111,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276541111,
+    "wof:lastmodified":1537658111,
+    "wof:name":"Hwangi-ri",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.50868,
+    37.95499,
+    128.50868,
+    37.95499
+],
+  "geometry": {"coordinates":[128.50868,37.95499],"type":"Point"}
+}

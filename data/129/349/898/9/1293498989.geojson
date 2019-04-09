@@ -1,0 +1,72 @@
+{
+  "id": 1293498989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01815,35.53039,127.01815,35.53039",
+    "geom:latitude":35.53039,
+    "geom:longitude":127.01815,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mogusil",
+    "gn:country_code":"KR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877204,
+    "gn:latitude":35.53039,
+    "gn:longitude":127.01815,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"M\u014fgusil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba39\uc6b0\uc2e4",
+        "M\u014fgusil",
+        "Meogusil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890476175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877204
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f20c73b50026ae1ab10915d3f17319af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476175,
+            "locality_id":1293498989,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1293498989,
+    "wof:lastmodified":1537658165,
+    "wof:name":"Mogusil",
+    "wof:parent_id":890476175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01815,
+    35.53039000000001,
+    127.01815,
+    35.53039000000001
+],
+  "geometry": {"coordinates":[127.01815000000001,35.53039000000001],"type":"Point"}
+}

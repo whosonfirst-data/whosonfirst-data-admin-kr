@@ -1,0 +1,69 @@
+{
+  "id": 1209687665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34,34.73,127.34,34.73",
+    "geom:latitude":34.73,
+    "geom:longitude":127.34,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Namyang",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840371,
+    "gn:latitude":34.73,
+    "gn:longitude":127.34,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Namyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc591"
+    ],
+    "name:und_x_variant":[
+        "Namyang-ni",
+        "Namyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840371
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b4de077280e73ec5ff1698534721fcb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209687665
+        }
+    ],
+    "wof:id":1209687665,
+    "wof:lastmodified":1537656392,
+    "wof:name":"Namyang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34,
+    34.73,
+    127.34,
+    34.73
+],
+  "geometry": {"coordinates":[127.34,34.73],"type":"Point"}
+}

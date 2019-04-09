@@ -1,0 +1,74 @@
+{
+  "id": 1260245747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.44168,34.97095,127.44168,34.97095",
+    "geom:latitude":34.97095,
+    "geom:longitude":127.44168,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nodu",
+    "gn:country_code":"KR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685056,
+    "gn:latitude":34.97095,
+    "gn:longitude":127.44168,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Nodu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub178\ubcc0"
+    ],
+    "name:kor_x_variant":[
+        "Noby\u014fn",
+        "\ub178\ub450"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685056
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"131c3fa346e717a612d2f4f39885d8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1260245747,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260245747,
+    "wof:lastmodified":1537657444,
+    "wof:name":"Nodu",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.44168,
+    34.97095,
+    127.44168,
+    34.97095
+],
+  "geometry": {"coordinates":[127.44168000000001,34.97095],"type":"Point"}
+}

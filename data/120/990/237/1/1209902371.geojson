@@ -1,0 +1,74 @@
+{
+  "id": 1209902371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48028,37.14889,127.48028,37.14889",
+    "geom:latitude":37.14889,
+    "geom:longitude":127.48028,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Songgong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6399082,
+    "gn:latitude":37.14889,
+    "gn:longitude":127.48028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songgong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uace1\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Songgok-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6399082
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d39f183476d343dcbc890b46c52c0bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1209902371,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209902371,
+    "wof:lastmodified":1537657209,
+    "wof:name":"Songgong-ni",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48028,
+    37.14889,
+    127.48028,
+    37.14889
+],
+  "geometry": {"coordinates":[127.48027999999999,37.14889],"type":"Point"}
+}

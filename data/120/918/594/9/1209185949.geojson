@@ -1,0 +1,64 @@
+{
+  "id": 1209185949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98485,35.0817,126.98485,35.0817",
+    "geom:latitude":35.0817,
+    "geom:longitude":126.98485,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hakdam",
+    "gn:country_code":"KR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197999,
+    "gn:latitude":35.0817,
+    "gn:longitude":126.98485,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Hakdam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\ub2f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197999
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"02086de3b20f8852eff979d24beba291",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209185949
+        }
+    ],
+    "wof:id":1209185949,
+    "wof:lastmodified":1537659235,
+    "wof:name":"Hakdam",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98485,
+    35.0817,
+    126.98485,
+    35.0817
+],
+  "geometry": {"coordinates":[126.98484999999999,35.0817],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242959411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.42917,37.18111,127.42917,37.18111",
+    "geom:latitude":37.18111,
+    "geom:longitude":127.42917,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Eoryonggol",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6399099,
+    "gn:latitude":37.18111,
+    "gn:longitude":127.42917,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Eoryonggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\ub8e1\uace8"
+    ],
+    "name:kor_x_variant":[
+        "\u014eryong-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6399099
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aaf55f38244486f1da88ec5df35f0ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1242959411,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242959411,
+    "wof:lastmodified":1537657210,
+    "wof:name":"Eoryonggol",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.42917,
+    37.18111,
+    127.42917,
+    37.18111
+],
+  "geometry": {"coordinates":[127.42917,37.18111],"type":"Point"}
+}

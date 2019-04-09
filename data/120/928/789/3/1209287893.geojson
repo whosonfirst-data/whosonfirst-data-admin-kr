@@ -1,0 +1,66 @@
+{
+  "id": 1209287893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51667,36.0,128.51667,36.0",
+    "geom:latitude":36.0,
+    "geom:longitude":128.51667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Oppat",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839720,
+    "gn:latitude":36.0,
+    "gn:longitude":128.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oppat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ilch\u014fn",
+        "Oppat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839720
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"42cd06432ca1602926394a53cf11dc0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287893
+        }
+    ],
+    "wof:id":1209287893,
+    "wof:lastmodified":1537656361,
+    "wof:name":"Oppat",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51667,
+    36.0,
+    128.51667,
+    36.0
+],
+  "geometry": {"coordinates":[128.51667,36.0],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209902353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76007,37.61269,126.76007,37.61269",
+    "geom:latitude":37.61269,
+    "geom:longitude":126.76007,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bucheomal",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10418424,
+    "gn:latitude":37.61269,
+    "gn:longitude":126.76007,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Bucheomal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\ucc98\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10418424
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fbce250669d3daf5240d740954e39a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472445,
+            "locality_id":1209902353,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209902353,
+    "wof:lastmodified":1537659053,
+    "wof:name":"Bucheomal",
+    "wof:parent_id":890472445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76007,
+    37.61269,
+    126.76007,
+    37.61269
+],
+  "geometry": {"coordinates":[126.76007,37.61269],"type":"Point"}
+}

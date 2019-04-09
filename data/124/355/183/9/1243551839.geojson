@@ -1,0 +1,75 @@
+{
+  "id": 1243551839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.15678,37.12869,129.15678,37.12869",
+    "geom:latitude":37.12869,
+    "geom:longitude":129.15678,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Punkok",
+    "gn:country_code":"KR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838574,
+    "gn:latitude":37.12869,
+    "gn:longitude":129.15678,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Punkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u014dkoku-ri",
+        "P\u2019unggong-ni",
+        "H\u014dkoku",
+        "Punkok",
+        "\ud48d\uace1",
+        "P\u2019unggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838574
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2d0eafb158641fd032792233b007ccdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1243551839,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243551839,
+    "wof:lastmodified":1537656301,
+    "wof:name":"Punkok",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.15678,
+    37.12869,
+    129.15678,
+    37.12869
+],
+  "geometry": {"coordinates":[129.15678,37.12869],"type":"Point"}
+}

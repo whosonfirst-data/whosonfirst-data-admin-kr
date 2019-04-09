@@ -1,0 +1,74 @@
+{
+  "id": 1226421635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64128,37.76871,126.64128,37.76871",
+    "geom:latitude":37.76871,
+    "geom:longitude":126.64128,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Kimp'o-si",
+    "gn:asciiname":"Bulgidong",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951043,
+    "gn:latitude":37.76871,
+    "gn:longitude":126.64128,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Bulgidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd88\uae30\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Pulgi-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951043
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eee2bf4512926f18b86c2d73d18ce025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472445,
+            "locality_id":1226421635,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226421635,
+    "wof:lastmodified":1537656968,
+    "wof:name":"Bulgidong",
+    "wof:parent_id":890472445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64128,
+    37.76871,
+    126.64128,
+    37.76871
+],
+  "geometry": {"coordinates":[126.64127999999999,37.76871],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242946441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.34056,36.08029,129.34056,36.08029",
+    "geom:latitude":36.08029,
+    "geom:longitude":129.34056,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chamsaemi",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889955,
+    "gn:latitude":36.08029,
+    "gn:longitude":129.34056,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Chamsaemi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc38\uc0d8\uc774"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019amsaemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889955
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cc5ea8998eac469a9e26d1d5b5642584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1242946441,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242946441,
+    "wof:lastmodified":1537656813,
+    "wof:name":"Chamsaemi",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.34056,
+    36.08029000000001,
+    129.34056,
+    36.08029000000001
+],
+  "geometry": {"coordinates":[129.34056000000001,36.08029000000001],"type":"Point"}
+}

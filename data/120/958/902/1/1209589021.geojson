@@ -1,0 +1,65 @@
+{
+  "id": 1209589021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.1173,36.7734,129.1173,36.7734",
+    "geom:latitude":36.7734,
+    "geom:longitude":129.1173,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Norumogi",
+    "gn:country_code":"KR",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6895720,
+    "gn:latitude":36.7734,
+    "gn:longitude":129.1173,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Norumogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub178\ub8e8\ubaa9\uc774",
+        "Norumogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6895720
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b7e7f43fabded05235fc66d25d4bbe68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209589021
+        }
+    ],
+    "wof:id":1209589021,
+    "wof:lastmodified":1537658637,
+    "wof:name":"Norumogi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.1173,
+    36.7734,
+    129.1173,
+    36.7734
+],
+  "geometry": {"coordinates":[129.1173,36.7734],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193251841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.41917,35.69917,129.41917,35.69917",
+    "geom:latitude":35.69917,
+    "geom:longitude":129.41917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kigu",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842970,
+    "gn:latitude":35.69917,
+    "gn:longitude":129.41917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kigu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kigu-ri",
+        "Kigu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842970
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8967701d40f25df8d41fdb6491d7d349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1193251841,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193251841,
+    "wof:lastmodified":1537656524,
+    "wof:name":"Kigu",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.41917,
+    35.69917,
+    129.41917,
+    35.69917
+],
+  "geometry": {"coordinates":[129.41917000000001,35.69917],"type":"Point"}
+}

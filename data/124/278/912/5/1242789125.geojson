@@ -1,0 +1,71 @@
+{
+  "id": 1242789125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55747,35.90505,127.55747,35.90505",
+    "geom:latitude":35.90505,
+    "geom:longitude":127.55747,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Habaesil",
+    "gn:country_code":"KR",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896953,
+    "gn:latitude":35.90505,
+    "gn:longitude":127.55747,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Habaesil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ubc30\uc2e4",
+        "Habaesil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896953
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be40e7b629e47ea5c37229396bef842f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1242789125,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1242789125,
+    "wof:lastmodified":1537658677,
+    "wof:name":"Habaesil",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55747,
+    35.90505,
+    127.55747,
+    35.90505
+],
+  "geometry": {"coordinates":[127.55747,35.90505],"type":"Point"}
+}

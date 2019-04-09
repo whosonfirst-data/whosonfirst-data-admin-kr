@@ -1,0 +1,73 @@
+{
+  "id": 1209807607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37311,37.95582,128.37311,37.95582",
+    "geom:latitude":37.95582,
+    "geom:longitude":128.37311,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dochaedong",
+    "gn:country_code":"KR",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888687,
+    "gn:latitude":37.95582,
+    "gn:longitude":128.37311,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dochaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ucc44\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Toch\u2019ae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888687
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"23e4e560e55d261fa7fd4bd4942d73fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1209807607,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209807607,
+    "wof:lastmodified":1537656795,
+    "wof:name":"Dochaedong",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37311,
+    37.95582,
+    128.37311,
+    37.95582
+],
+  "geometry": {"coordinates":[128.37311,37.95582],"type":"Point"}
+}

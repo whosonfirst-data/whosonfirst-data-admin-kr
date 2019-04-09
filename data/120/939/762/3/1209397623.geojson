@@ -1,0 +1,71 @@
+{
+  "id": 1209397623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.49423,35.87294,128.49423,35.87294",
+    "geom:latitude":35.87294,
+    "geom:longitude":128.49423,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seoje",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932604,
+    "gn:latitude":35.87294,
+    "gn:longitude":128.49423,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Seoje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc81c"
+    ],
+    "name:und_x_variant":[
+        "\uc11c\uc81c\ub9ac",
+        "S\u014fje",
+        "S\u014fje-ri",
+        "Seoje",
+        "Seoje-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932604
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dc9efe4226037a6897a5bb7eafa4fee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209397623
+        }
+    ],
+    "wof:id":1209397623,
+    "wof:lastmodified":1537656958,
+    "wof:name":"Seoje",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.49423000000002,
+    35.87294,
+    128.49423000000002,
+    35.87294
+],
+  "geometry": {"coordinates":[128.49423000000002,35.87294],"type":"Point"}
+}

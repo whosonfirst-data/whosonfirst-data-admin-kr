@@ -1,0 +1,70 @@
+{
+  "id": 1243262435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8941,37.06441,127.8941,37.06441",
+    "geom:latitude":37.06441,
+    "geom:longitude":127.8941,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dudam",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9291194,
+    "gn:latitude":37.06441,
+    "gn:longitude":127.8941,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Dudam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ub2f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9291194
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e7c27d7ef096ffb8b5780cfb8a3f7aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1243262435,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243262435,
+    "wof:lastmodified":1537658938,
+    "wof:name":"Dudam",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8941,
+    37.06441,
+    127.8941,
+    37.06441
+],
+  "geometry": {"coordinates":[127.89409999999999,37.06441],"type":"Point"}
+}

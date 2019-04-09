@@ -1,0 +1,73 @@
+{
+  "id": 1243255807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9891,37.4412,127.9891,37.4412",
+    "geom:latitude":37.4412,
+    "geom:longitude":127.9891,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chongsung-gol",
+    "gn:country_code":"KR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793742,
+    "gn:latitude":37.4412,
+    "gn:longitude":127.9891,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u014fngs\u016dng-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\uc2b9\uace8"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u014fngs\u016dng-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793742
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7201c7b389a1c70d931b5dfab5b37669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1243255807,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243255807,
+    "wof:lastmodified":1537657475,
+    "wof:name":"Chongsung-gol",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9891,
+    37.4412,
+    127.9891,
+    37.4412
+],
+  "geometry": {"coordinates":[127.98909999999999,37.4412],"type":"Point"}
+}

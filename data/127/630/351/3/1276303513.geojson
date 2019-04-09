@@ -1,0 +1,72 @@
+{
+  "id": 1276303513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15139,37.10889,127.15139,37.10889",
+    "geom:latitude":37.10889,
+    "geom:longitude":127.15139,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yeomsim",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575697,
+    "gn:latitude":37.10889,
+    "gn:longitude":127.15139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yeomsim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5fc\uc2ec",
+        "Yeomsim",
+        "Y\u014fmsim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575697
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cb914d32feefd28e9c52df75b0ed501d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1276303513,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276303513,
+    "wof:lastmodified":1537657288,
+    "wof:name":"Yeomsim",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15139,
+    37.10889,
+    127.15139,
+    37.10889
+],
+  "geometry": {"coordinates":[127.15139000000001,37.10889],"type":"Point"}
+}

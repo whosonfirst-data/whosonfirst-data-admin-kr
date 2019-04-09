@@ -1,0 +1,73 @@
+{
+  "id": 1226563805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.88083,38.02694,127.88083,38.02694",
+    "geom:latitude":38.02694,
+    "geom:longitude":127.88083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chugok 2-ri",
+    "gn:country_code":"KR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884080,
+    "gn:latitude":38.02694,
+    "gn:longitude":127.88083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chugok 2-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucd94\uace12\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019ugoki-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884080
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6c8b35fd94400c719fa128b7b596dfc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1226563805,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226563805,
+    "wof:lastmodified":1537656773,
+    "wof:name":"Chugok 2-ri",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.88083,
+    38.02694,
+    127.88083,
+    38.02694
+],
+  "geometry": {"coordinates":[127.88083,38.02694],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242872837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6516,36.2753,127.6516,36.2753",
+    "geom:latitude":36.2753,
+    "geom:longitude":127.6516,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Olmok",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884904,
+    "gn:latitude":36.2753,
+    "gn:longitude":127.6516,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Olmok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc62c\ubaa9",
+        "Olmok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884904
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a88c6d99cf2884a9ff1fc48e8d665261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1242872837,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1242872837,
+    "wof:lastmodified":1537658347,
+    "wof:name":"Olmok",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6516,
+    36.2753,
+    127.6516,
+    36.2753
+],
+  "geometry": {"coordinates":[127.6516,36.2753],"type":"Point"}
+}

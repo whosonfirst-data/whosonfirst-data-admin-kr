@@ -1,0 +1,65 @@
+{
+  "id": 1209070889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29284,35.34536,128.29284,35.34536",
+    "geom:latitude":35.34536,
+    "geom:longitude":128.29284,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ohwa",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898427,
+    "gn:latitude":35.34536,
+    "gn:longitude":128.29284,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u014ehwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5b4\ud654",
+        "\u014ehwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898427
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f6a181a520e0191464fc38feab8b9036",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209070889
+        }
+    ],
+    "wof:id":1209070889,
+    "wof:lastmodified":1537658716,
+    "wof:name":"Ohwa",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29283999999998,
+    35.34536,
+    128.29283999999998,
+    35.34536
+],
+  "geometry": {"coordinates":[128.29283999999998,35.34536],"type":"Point"}
+}

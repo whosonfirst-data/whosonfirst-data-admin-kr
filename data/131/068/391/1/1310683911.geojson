@@ -1,0 +1,70 @@
+{
+  "id": 1310683911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.39668,35.66186,128.39668,35.66186",
+    "geom:latitude":35.66186,
+    "geom:longitude":128.39668,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hwasan",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11040649,
+    "gn:latitude":35.66186,
+    "gn:longitude":128.39668,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Hwasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11040649
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f02056450ac8423574e4e30fc225db62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1310683911,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1310683911,
+    "wof:lastmodified":1537659119,
+    "wof:name":"Hwasan",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.39668,
+    35.66186,
+    128.39668,
+    35.66186
+],
+  "geometry": {"coordinates":[128.39668,35.66186],"type":"Point"}
+}

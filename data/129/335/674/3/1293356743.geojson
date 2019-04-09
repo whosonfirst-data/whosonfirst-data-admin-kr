@@ -1,0 +1,72 @@
+{
+  "id": 1293356743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6009,36.8949,126.6009,36.8949",
+    "geom:latitude":36.8949,
+    "geom:longitude":126.6009,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Pugok",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838684,
+    "gn:latitude":36.8949,
+    "gn:longitude":126.6009,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pugok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pugong-ni",
+        "\ubd80\uace1",
+        "Pugok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838684
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"649cc5d3d68d26446e7ccb77b255f7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1293356743,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293356743,
+    "wof:lastmodified":1537656305,
+    "wof:name":"Pugok",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6009,
+    36.8949,
+    126.6009,
+    36.8949
+],
+  "geometry": {"coordinates":[126.6009,36.8949],"type":"Point"}
+}

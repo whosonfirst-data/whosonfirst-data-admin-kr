@@ -1,0 +1,67 @@
+{
+  "id": 1209932351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2,35.85,127.2,35.85",
+    "geom:latitude":35.85,
+    "geom:longitude":127.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mup'yong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840835,
+    "gn:latitude":35.85,
+    "gn:longitude":127.2,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Mup\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        1108746469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840835
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0087177a9b2490b70509d2bf22f4656e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746469,
+            "locality_id":1209932351,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1209932351,
+    "wof:lastmodified":1536392177,
+    "wof:name":"Mup'yong-ni",
+    "wof:parent_id":1108746469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2,
+    35.85,
+    127.2,
+    35.85
+],
+  "geometry": {"coordinates":[127.2,35.85],"type":"Point"}
+}

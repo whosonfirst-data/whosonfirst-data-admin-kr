@@ -1,0 +1,76 @@
+{
+  "id": 1276199437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.19918,35.80005,129.19918,35.80005",
+    "geom:latitude":35.80005,
+    "geom:longitude":129.19918,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Docho",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834747,
+    "gn:latitude":35.80005,
+    "gn:longitude":129.19918,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Docho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ucd08"
+    ],
+    "name:und_x_variant":[
+        "Toj\u014fng-ni",
+        "Toch\u2019o-ri",
+        "Toch\u2019o",
+        "Docho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834747
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3599c5c2625078e613d16861d805577a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1276199437,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276199437,
+    "wof:lastmodified":1537656104,
+    "wof:name":"Docho",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.19918,
+    35.80005,
+    129.19918,
+    35.80005
+],
+  "geometry": {"coordinates":[129.19918000000001,35.80005],"type":"Point"}
+}

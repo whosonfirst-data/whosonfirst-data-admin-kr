@@ -1,0 +1,77 @@
+{
+  "id": 1344039581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.10983,34.78681,127.10983,34.78681",
+    "geom:latitude":34.78681,
+    "geom:longitude":127.10983,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Malmoe",
+    "gn:country_code":"KR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684274,
+    "gn:latitude":34.78681,
+    "gn:longitude":127.10983,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Malmoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9d0\ub9e4"
+    ],
+    "name:kor_x_variant":[
+        "\ub9d0\ubafc"
+    ],
+    "name:und_x_variant":[
+        "Malmae",
+        "Malmoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684274
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dadca47d5a2eaf7c793bb6cd3dbc0778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1344039581,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1344039581,
+    "wof:lastmodified":1537657402,
+    "wof:name":"Malmoe",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.10983,
+    34.78681,
+    127.10983,
+    34.78681
+],
+  "geometry": {"coordinates":[127.10983,34.78681],"type":"Point"}
+}

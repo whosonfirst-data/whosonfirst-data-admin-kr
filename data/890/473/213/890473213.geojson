@@ -1,0 +1,68 @@
+{
+  "id": 890473213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04564,37.28129,127.04564,37.28129",
+    "geom:latitude":37.28129,
+    "geom:longitude":127.04564,
+    "gn:country":"KR",
+    "gn:fcode":"UNIV",
+    "gn:pop":8000,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ajou University",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":816,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6948574,
+        "qs:id":653171,
+        "wd:id":"Q491082",
+        "wk:page":"Ajou University"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053944,
+    "wof:geomhash":"ecf81fd6e0b25ed6c57d4e9cfd9e7a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746535,
+            "locality_id":890473213,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":890473213,
+    "wof:lastmodified":1527792834,
+    "wof:name":"Ajou University",
+    "wof:parent_id":1108746535,
+    "wof:placetype":"locality",
+    "wof:population":8000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04564,
+    37.28129,
+    127.04564,
+    37.28129
+],
+  "geometry": {"coordinates":[127.04564000000001,37.28129],"type":"Point"}
+}

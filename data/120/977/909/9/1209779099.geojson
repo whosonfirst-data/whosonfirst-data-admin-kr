@@ -1,0 +1,71 @@
+{
+  "id": 1209779099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0328,36.3387,127.0328,36.3387",
+    "geom:latitude":36.3387,
+    "geom:longitude":127.0328,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Samgagi",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6882699,
+    "gn:latitude":36.3387,
+    "gn:longitude":127.0328,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Samgagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\uac01\uc774",
+        "Samgagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6882699
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"90d5242dd36e23f264fe9237b6a4fd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1209779099,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1209779099,
+    "wof:lastmodified":1537658259,
+    "wof:name":"Samgagi",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0328,
+    36.3387,
+    127.0328,
+    36.3387
+],
+  "geometry": {"coordinates":[127.03279999999999,36.3387],"type":"Point"}
+}

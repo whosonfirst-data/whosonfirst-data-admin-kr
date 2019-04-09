@@ -1,0 +1,77 @@
+{
+  "id": 1260265069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81314,34.64274,126.81314,34.64274",
+    "geom:latitude":34.64274,
+    "geom:longitude":126.81314,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pyeongni",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838390,
+    "gn:latitude":34.64274,
+    "gn:longitude":126.81314,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Pyeongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019y\u014fng-ni"
+    ],
+    "name:und_x_variant":[
+        "Hy\u014dri",
+        "Pyeongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838390
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c8e4abc53f0a10529fc268bf25b9c508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1260265069,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260265069,
+    "wof:lastmodified":1537656290,
+    "wof:name":"Pyeongni",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81314,
+    34.64274,
+    126.81314,
+    34.64274
+],
+  "geometry": {"coordinates":[126.81314,34.64274],"type":"Point"}
+}

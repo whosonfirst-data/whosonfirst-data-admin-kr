@@ -1,0 +1,71 @@
+{
+  "id": 1327300341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.662,36.7257,126.662,36.7257",
+    "geom:latitude":36.7257,
+    "geom:longitude":126.662,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chungan",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809097,
+    "gn:latitude":36.7257,
+    "gn:longitude":126.662,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chungan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uc548",
+        "Chungan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809097
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ffdf12a7e1256c49c1d55e50f547c9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1327300341,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1327300341,
+    "wof:lastmodified":1537657860,
+    "wof:name":"Chungan",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.662,
+    36.7257,
+    126.662,
+    36.7257
+],
+  "geometry": {"coordinates":[126.66200000000001,36.7257],"type":"Point"}
+}

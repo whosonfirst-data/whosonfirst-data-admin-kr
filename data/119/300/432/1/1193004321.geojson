@@ -1,0 +1,74 @@
+{
+  "id": 1193004321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38528,37.23583,127.38528,37.23583",
+    "geom:latitude":37.23583,
+    "geom:longitude":127.38528,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Gakpyeong-ri",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6398884,
+    "gn:latitude":37.23583,
+    "gn:longitude":127.38528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gakpyeong-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac01\ud3c9\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kakp\u2019y\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398884
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"40a7bb3549d4c6899afd276ed87b1e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1193004321,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193004321,
+    "wof:lastmodified":1537657196,
+    "wof:name":"Gakpyeong-ri",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38528,
+    37.23583,
+    127.38528,
+    37.23583
+],
+  "geometry": {"coordinates":[127.38527999999999,37.23583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343725455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25314,36.25326,127.25314,36.25326",
+    "geom:latitude":36.25326,
+    "geom:longitude":127.25314,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yongsumal",
+    "gn:country_code":"KR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888536,
+    "gn:latitude":36.25326,
+    "gn:longitude":127.25314,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Yongsumal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\uc218\ub9d0",
+        "Yongsumal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888536
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4256ce8c81d24d99e5489b7ae57e4df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472515,
+            "locality_id":1343725455,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343725455,
+    "wof:lastmodified":1537658427,
+    "wof:name":"Yongsumal",
+    "wof:parent_id":890472515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25314,
+    36.25326,
+    127.25314,
+    36.25326
+],
+  "geometry": {"coordinates":[127.25314,36.25326],"type":"Point"}
+}

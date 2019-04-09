@@ -1,0 +1,73 @@
+{
+  "id": 1243575943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30191,38.18708,128.30191,38.18708",
+    "geom:latitude":38.18708,
+    "geom:longitude":128.30191,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Winnamgyo",
+    "gn:country_code":"KR",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988875,
+    "gn:latitude":38.18708,
+    "gn:longitude":128.30191,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Winnamgyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\ub0a8\uad50"
+    ],
+    "name:und_x_variant":[
+        "Unnamgyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988875
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"46d550a4b72d79d48fc22fd2ac3133d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1243575943,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243575943,
+    "wof:lastmodified":1537656994,
+    "wof:name":"Winnamgyo",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30191000000002,
+    38.18708,
+    128.30191000000002,
+    38.18708
+],
+  "geometry": {"coordinates":[128.30191000000002,38.18708],"type":"Point"}
+}

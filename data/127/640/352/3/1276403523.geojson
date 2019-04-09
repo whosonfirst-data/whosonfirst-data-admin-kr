@@ -1,0 +1,73 @@
+{
+  "id": 1276403523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35,35.51667,129.35,35.51667",
+    "geom:latitude":35.51667,
+    "geom:longitude":129.35,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Yaum",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832801,
+    "gn:latitude":35.51667,
+    "gn:longitude":129.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ya\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ya\u016dm-dong",
+        "Ya\u016dm-ni",
+        "Ya\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832801
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0c60a4cce18cb5adbc7d9f7fce06fd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746505,
+            "locality_id":1276403523,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1276403523,
+    "wof:lastmodified":1537655996,
+    "wof:name":"Yaum",
+    "wof:parent_id":1108746505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35,
+    35.51667,
+    129.35,
+    35.51667
+],
+  "geometry": {"coordinates":[129.34999999999999,35.51667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259881199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.56521,35.69815,127.56521,35.69815",
+    "geom:latitude":35.69815,
+    "geom:longitude":127.56521,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chungbang",
+    "gn:country_code":"KR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896382,
+    "gn:latitude":35.69815,
+    "gn:longitude":127.56521,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chungbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ubc29",
+        "Chungbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896382
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0e70939a40664e2f9b1dc16dc58bcb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1259881199,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1259881199,
+    "wof:lastmodified":1537658659,
+    "wof:name":"Chungbang",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.56521,
+    35.69815,
+    127.56521,
+    35.69815
+],
+  "geometry": {"coordinates":[127.56520999999999,35.69815],"type":"Point"}
+}

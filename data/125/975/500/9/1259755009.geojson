@@ -1,0 +1,73 @@
+{
+  "id": 1259755009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20986,34.43543,127.20986,34.43543",
+    "geom:latitude":34.43543,
+    "geom:longitude":127.20986,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dongchon",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881046,
+    "gn:latitude":34.43543,
+    "gn:longitude":127.20986,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Dongchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Tongch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881046
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f5268260bb2ee64a47c40eb06960f1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1259755009,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259755009,
+    "wof:lastmodified":1537656741,
+    "wof:name":"Dongchon",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20986,
+    34.43543,
+    127.20986,
+    34.43543
+],
+  "geometry": {"coordinates":[127.20986000000001,34.43543],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209419593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.86175,36.93022,127.86175,36.93022",
+    "geom:latitude":36.93022,
+    "geom:longitude":127.86175,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Soyong",
+    "gn:country_code":"KR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290799,
+    "gn:latitude":36.93022,
+    "gn:longitude":127.86175,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Soyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uc6a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290799
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"500bc5ecaa726a47d34c241871eb8261",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209419593
+        }
+    ],
+    "wof:id":1209419593,
+    "wof:lastmodified":1537658934,
+    "wof:name":"Soyong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.86175,
+    36.93022,
+    127.86175,
+    36.93022
+],
+  "geometry": {"coordinates":[127.86175,36.93022],"type":"Point"}
+}

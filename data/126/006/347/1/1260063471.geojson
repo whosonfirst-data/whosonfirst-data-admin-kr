@@ -1,0 +1,70 @@
+{
+  "id": 1260063471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.78147,35.87176,128.78147,35.87176",
+    "geom:latitude":35.87176,
+    "geom:longitude":128.78147,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Geonheung",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10989465,
+    "gn:latitude":35.87176,
+    "gn:longitude":128.78147,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Geonheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac74\ud765"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989465
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae21cdceee0bb58b1bb4f28f62537e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1260063471,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260063471,
+    "wof:lastmodified":1537659104,
+    "wof:name":"Geonheung",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.78146999999998,
+    35.87175999999999,
+    128.78146999999998,
+    35.87175999999999
+],
+  "geometry": {"coordinates":[128.78146999999998,35.87175999999999],"type":"Point"}
+}

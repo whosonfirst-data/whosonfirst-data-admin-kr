@@ -1,0 +1,74 @@
+{
+  "id": 1344135887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40417,37.12889,127.40417,37.12889",
+    "geom:latitude":37.12889,
+    "geom:longitude":127.40417,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Sojucheon",
+    "gn:country_code":"KR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398949,
+    "gn:latitude":37.12889,
+    "gn:longitude":127.40417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sojucheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uc8fc\ucc9c"
+    ],
+    "name:kor_x_variant":[
+        "Sojuch\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398949
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e76a4c4afe4d273bcb3881f9ae34e241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1344135887,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344135887,
+    "wof:lastmodified":1537657201,
+    "wof:name":"Sojucheon",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40417,
+    37.12889000000001,
+    127.40417,
+    37.12889000000001
+],
+  "geometry": {"coordinates":[127.40416999999999,37.12889000000001],"type":"Point"}
+}

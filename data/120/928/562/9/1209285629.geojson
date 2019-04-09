@@ -1,0 +1,65 @@
+{
+  "id": 1209285629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86894,37.83238,126.86894,37.83238",
+    "geom:latitude":37.83238,
+    "geom:longitude":126.86894,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Waegol",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951528,
+    "gn:latitude":37.83238,
+    "gn:longitude":126.86894,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Waegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc65c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951528
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"24db7534006fbc38bf8f11b642594ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209285629
+        }
+    ],
+    "wof:id":1209285629,
+    "wof:lastmodified":1537656975,
+    "wof:name":"Waegol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86894,
+    37.83238,
+    126.86894,
+    37.83238
+],
+  "geometry": {"coordinates":[126.86893999999999,37.83238],"type":"Point"}
+}

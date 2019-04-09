@@ -1,0 +1,73 @@
+{
+  "id": 1277071845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3809,37.2427,128.3809,37.2427",
+    "geom:latitude":37.2427,
+    "geom:longitude":128.3809,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uttokchol-li",
+    "gn:country_code":"KR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797764,
+    "gn:latitude":37.2427,
+    "gn:longitude":128.3809,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Utt\u014fkch\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6c3\ub355\uc804\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Utt\u014fkch\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797764
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ab15ca1588d2e194301c606e800054db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1277071845,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1277071845,
+    "wof:lastmodified":1537657602,
+    "wof:name":"Uttokchol-li",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3809,
+    37.2427,
+    128.3809,
+    37.2427
+],
+  "geometry": {"coordinates":[128.3809,37.2427],"type":"Point"}
+}

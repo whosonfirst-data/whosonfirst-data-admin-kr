@@ -1,0 +1,73 @@
+{
+  "id": 1344178891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2627,37.2869,129.2627,37.2869",
+    "geom:latitude":37.2869,
+    "geom:longitude":129.2627,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kuma",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883777,
+    "gn:latitude":37.2869,
+    "gn:longitude":129.2627,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumi",
+        "\uad6c\ub9c8",
+        "Kuma-dong",
+        "Kuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883777
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2a9e872945c853a084d3c9b71da780f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1344178891,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1344178891,
+    "wof:lastmodified":1537656762,
+    "wof:name":"Kuma",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2627,
+    37.2869,
+    129.2627,
+    37.2869
+],
+  "geometry": {"coordinates":[129.2627,37.2869],"type":"Point"}
+}

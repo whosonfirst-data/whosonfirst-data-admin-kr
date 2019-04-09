@@ -1,0 +1,64 @@
+{
+  "id": 1209297695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04604,36.66161,128.04604,36.66161",
+    "geom:latitude":36.66161,
+    "geom:longitude":128.04604,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hagoe",
+    "gn:country_code":"KR",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410290,
+    "gn:latitude":36.66161,
+    "gn:longitude":128.04604,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Hagoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uad34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410290
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"567c56701ee6ef18daf6acc23e241cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209297695
+        }
+    ],
+    "wof:id":1209297695,
+    "wof:lastmodified":1537659052,
+    "wof:name":"Hagoe",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04603999999998,
+    36.66161,
+    128.04603999999998,
+    36.66161
+],
+  "geometry": {"coordinates":[128.04603999999998,36.66161],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344230475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32437,35.66658,128.32437,35.66658",
+    "geom:latitude":35.66658,
+    "geom:longitude":128.32437,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Haradong",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039904,
+    "gn:latitude":35.66658,
+    "gn:longitude":128.32437,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Haradong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub77c\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039904
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de20081cb275b6b916cbe3b4f9678688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1344230475,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344230475,
+    "wof:lastmodified":1537659117,
+    "wof:name":"Haradong",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32437,
+    35.66658,
+    128.32437,
+    35.66658
+],
+  "geometry": {"coordinates":[128.32436999999999,35.66658],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209287947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.35171,36.27852,128.35171,36.27852",
+    "geom:latitude":36.27852,
+    "geom:longitude":128.35171,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sanjae",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894979,
+    "gn:latitude":36.27852,
+    "gn:longitude":128.35171,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanjae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0b0\uc7ac",
+        "Sanjae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894979
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"183c4f7d4d4ac1973e51f72bf6fa33dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287947
+        }
+    ],
+    "wof:id":1209287947,
+    "wof:lastmodified":1537656870,
+    "wof:name":"Sanjae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.35171,
+    36.27852,
+    128.35171,
+    36.27852
+],
+  "geometry": {"coordinates":[128.35171,36.27852],"type":"Point"}
+}

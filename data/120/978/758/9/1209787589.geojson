@@ -1,0 +1,70 @@
+{
+  "id": 1209787589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83115,35.26305,126.83115,35.26305",
+    "geom:latitude":35.26305,
+    "geom:longitude":126.83115,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hakjeon",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170143,
+    "gn:latitude":35.26305,
+    "gn:longitude":126.83115,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Hakjeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170143
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"865f3e98414a29bd16818c1773052982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1209787589,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209787589,
+    "wof:lastmodified":1537659186,
+    "wof:name":"Hakjeon",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83115,
+    35.26305,
+    126.83115,
+    35.26305
+],
+  "geometry": {"coordinates":[126.83114999999999,35.26305],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360151209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8,36.85,126.8,36.85",
+    "geom:latitude":36.85,
+    "geom:longitude":126.8,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sinjin",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836807,
+    "gn:latitude":36.85,
+    "gn:longitude":126.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinw\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836807
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6bd3c21ab595b9d5c7905f9b2e568726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1360151209,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1360151209,
+    "wof:lastmodified":1537656205,
+    "wof:name":"Sinjin",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8,
+    36.85,
+    126.8,
+    36.85
+],
+  "geometry": {"coordinates":[126.8,36.85],"type":"Point"}
+}

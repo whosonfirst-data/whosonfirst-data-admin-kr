@@ -1,0 +1,74 @@
+{
+  "id": 1343756893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.57028,38.18583,128.57028,38.18583",
+    "geom:latitude":38.18583,
+    "geom:longitude":128.57028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cheongdaeri",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845696,
+    "gn:latitude":38.18583,
+    "gn:longitude":128.57028,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Cheongdaeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\ub300\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fngdae-ri",
+        "Cheongdaeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845696
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d8afbd0cb52c2fe4b38c1aecbe75d614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476055,
+            "locality_id":1343756893,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343756893,
+    "wof:lastmodified":1537656661,
+    "wof:name":"Cheongdaeri",
+    "wof:parent_id":890476055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57028,
+    38.18583,
+    128.57028,
+    38.18583
+],
+  "geometry": {"coordinates":[128.57028,38.18583],"type":"Point"}
+}

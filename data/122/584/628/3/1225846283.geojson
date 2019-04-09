@@ -1,0 +1,71 @@
+{
+  "id": 1225846283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.09946,35.56093,127.09946,35.56093",
+    "geom:latitude":35.56093,
+    "geom:longitude":127.09946,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Subang",
+    "gn:country_code":"KR",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877177,
+    "gn:latitude":35.56093,
+    "gn:longitude":127.09946,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Subang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc218\ubc29",
+        "Subang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877177
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a6b4d66d686dd28f604ef245837a9b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474645,
+            "locality_id":1225846283,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1225846283,
+    "wof:lastmodified":1537658164,
+    "wof:name":"Subang",
+    "wof:parent_id":890474645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.09946,
+    35.56093,
+    127.09946,
+    35.56093
+],
+  "geometry": {"coordinates":[127.09945999999999,35.56093],"type":"Point"}
+}

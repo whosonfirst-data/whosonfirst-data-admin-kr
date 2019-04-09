@@ -1,0 +1,73 @@
+{
+  "id": 1293747545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1313,34.77628,127.1313,34.77628",
+    "geom:latitude":34.77628,
+    "geom:longitude":127.1313,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ujeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684314,
+    "gn:latitude":34.77628,
+    "gn:longitude":127.1313,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ujeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b0\uc815\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Uj\u014fngdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684314
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bcdba1603c4f1d5cf94e304ee1c45dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1293747545,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293747545,
+    "wof:lastmodified":1537657404,
+    "wof:name":"Ujeongdong",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1313,
+    34.77628,
+    127.1313,
+    34.77628
+],
+  "geometry": {"coordinates":[127.1313,34.77628],"type":"Point"}
+}

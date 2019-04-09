@@ -1,0 +1,74 @@
+{
+  "id": 1276858291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45597,37.80098,126.45597,37.80098",
+    "geom:latitude":37.80098,
+    "geom:longitude":126.45597,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Naegokchon",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948857,
+    "gn:latitude":37.80098,
+    "gn:longitude":126.45597,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Naegokchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\uace1\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Naegok-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948857
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e409db79ea6391985c27979125737b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1276858291,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1276858291,
+    "wof:lastmodified":1537656965,
+    "wof:name":"Naegokchon",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45597,
+    37.80098,
+    126.45597,
+    37.80098
+],
+  "geometry": {"coordinates":[126.45596999999999,37.80098],"type":"Point"}
+}

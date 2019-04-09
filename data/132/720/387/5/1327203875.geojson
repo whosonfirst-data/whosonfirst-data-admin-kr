@@ -1,0 +1,70 @@
+{
+  "id": 1327203875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.68143,35.9719,128.68143,35.9719",
+    "geom:latitude":35.9719,
+    "geom:longitude":128.68143,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sangjungsim",
+    "gn:country_code":"KR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10987649,
+    "gn:latitude":35.9719,
+    "gn:longitude":128.68143,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Sangjungsim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc911\uc2ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10987649
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e8ad76e93a3098e77c6b441b367fb559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1327203875,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1327203875,
+    "wof:lastmodified":1537659101,
+    "wof:name":"Sangjungsim",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.68143,
+    35.9719,
+    128.68143,
+    35.9719
+],
+  "geometry": {"coordinates":[128.68143000000001,35.9719],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326713655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.325,36.30448,129.325,36.30448",
+    "geom:latitude":36.30448,
+    "geom:longitude":129.325,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jaengam",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895066,
+    "gn:latitude":36.30448,
+    "gn:longitude":129.325,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Jaengam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7c1\uc554"
+    ],
+    "name:und_x_variant":[
+        "Chaengbau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895066
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"811f678459ac8423e644c95e3b304d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1326713655,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1326713655,
+    "wof:lastmodified":1537656874,
+    "wof:name":"Jaengam",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.325,
+    36.30448,
+    129.325,
+    36.30448
+],
+  "geometry": {"coordinates":[129.32499999999999,36.30448],"type":"Point"}
+}

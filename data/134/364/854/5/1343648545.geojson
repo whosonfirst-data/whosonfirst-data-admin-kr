@@ -1,0 +1,72 @@
+{
+  "id": 1343648545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.44324,37.59589,126.44324,37.59589",
+    "geom:latitude":37.59589,
+    "geom:longitude":126.44324,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jangjeon",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274601,
+    "gn:latitude":37.59589,
+    "gn:longitude":126.44324,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Jangjeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7a5\uc804",
+        "Jangjeon",
+        "Changj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274601
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b1ca292473d35c320b859a8493a0eabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1343648545,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1343648545,
+    "wof:lastmodified":1537657026,
+    "wof:name":"Jangjeon",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.44324,
+    37.59589,
+    126.44324,
+    37.59589
+],
+  "geometry": {"coordinates":[126.44324,37.59589],"type":"Point"}
+}

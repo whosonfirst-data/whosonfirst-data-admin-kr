@@ -1,0 +1,65 @@
+{
+  "id": 1209285661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39917,37.49167,127.39917,37.49167",
+    "geom:latitude":37.49167,
+    "geom:longitude":127.39917,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Imsil",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577672,
+    "gn:latitude":37.49167,
+    "gn:longitude":127.39917,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Imsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc784\uc2e4",
+        "Imsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577672
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f0b48dca02f0d5d4cb0789b889584fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209285661
+        }
+    ],
+    "wof:id":1209285661,
+    "wof:lastmodified":1537657380,
+    "wof:name":"Imsil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39917,
+    37.49167,
+    127.39917,
+    37.49167
+],
+  "geometry": {"coordinates":[127.39917,37.49167],"type":"Point"}
+}

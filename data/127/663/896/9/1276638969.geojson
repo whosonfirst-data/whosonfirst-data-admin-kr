@@ -1,0 +1,75 @@
+{
+  "id": 1276638969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3497,35.8584,128.3497,35.8584",
+    "geom:latitude":35.8584,
+    "geom:longitude":128.3497,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gwiyeon",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900627,
+    "gn:latitude":35.8584,
+    "gn:longitude":128.3497,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Gwiyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadc0\uc5f0"
+    ],
+    "name:und_x_variant":[
+        "\uad34\uc5f0",
+        "Koey\u014fn",
+        "Gwiyeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900627
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d9d41c01e76ec48454c74144577512d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473191,
+            "locality_id":1276638969,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276638969,
+    "wof:lastmodified":1537658770,
+    "wof:name":"Gwiyeon",
+    "wof:parent_id":890473191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3497,
+    35.8584,
+    128.3497,
+    35.8584
+],
+  "geometry": {"coordinates":[128.34970000000001,35.8584],"type":"Point"}
+}

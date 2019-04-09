@@ -1,0 +1,71 @@
+{
+  "id": 1243038607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.10584,36.09557,128.10584,36.09557",
+    "geom:latitude":36.09557,
+    "geom:longitude":128.10584,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yanggum-dong",
+    "gn:country_code":"KR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6891150,
+    "gn:latitude":36.09557,
+    "gn:longitude":128.10584,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yangg\u016dm-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc591\uae08\ub3d9",
+        "Yangg\u016dm-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6891150
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"564a7a91c8a36894a6b70bbd8422613a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1243038607,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243038607,
+    "wof:lastmodified":1537658510,
+    "wof:name":"Yanggum-dong",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.10584,
+    36.09557,
+    128.10584,
+    36.09557
+],
+  "geometry": {"coordinates":[128.10584,36.09557],"type":"Point"}
+}

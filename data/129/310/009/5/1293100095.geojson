@@ -1,0 +1,72 @@
+{
+  "id": 1293100095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39427,35.52242,127.39427,35.52242",
+    "geom:latitude":35.52242,
+    "geom:longitude":127.39427,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Palmoe",
+    "gn:country_code":"KR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876794,
+    "gn:latitude":35.52242,
+    "gn:longitude":127.39427,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Palmoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc1c\ubafc",
+        "Palmoe",
+        "Balmoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876794
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"508d05118c3c0049a5708397278bd726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475797,
+            "locality_id":1293100095,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1293100095,
+    "wof:lastmodified":1537658150,
+    "wof:name":"Palmoe",
+    "wof:parent_id":890475797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39427,
+    35.52242000000001,
+    127.39427,
+    35.52242000000001
+],
+  "geometry": {"coordinates":[127.39427000000001,35.52242000000001],"type":"Point"}
+}

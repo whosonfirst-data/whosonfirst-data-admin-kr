@@ -1,0 +1,71 @@
+{
+  "id": 1243042251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.44405,35.37373,128.44405,35.37373",
+    "geom:latitude":35.37373,
+    "geom:longitude":128.44405,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Taeam",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898406,
+    "gn:latitude":35.37373,
+    "gn:longitude":128.44405,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taeam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\uc554",
+        "Taeam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898406
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6e1e8b780cc13baf074fabf081709d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474513,
+            "locality_id":1243042251,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243042251,
+    "wof:lastmodified":1537658715,
+    "wof:name":"Taeam",
+    "wof:parent_id":890474513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.44405,
+    35.37373,
+    128.44405,
+    35.37373
+],
+  "geometry": {"coordinates":[128.44405,35.37373],"type":"Point"}
+}

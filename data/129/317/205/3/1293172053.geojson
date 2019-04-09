@@ -1,0 +1,75 @@
+{
+  "id": 1293172053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98917,37.42889,126.98917,37.42889",
+    "geom:latitude":37.42889,
+    "geom:longitude":126.98917,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gwacheon",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841909,
+    "gn:latitude":37.42889,
+    "gn:longitude":126.98917,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Gwacheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacfc\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Kwach\u2019\u014fn",
+        "Gwacheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841909,
+        "wk:page":"Gwacheon"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f0d32dfa05336f9b42793eafa43b8e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473043,
+            "locality_id":1293172053,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293172053,
+    "wof:lastmodified":1537656468,
+    "wof:name":"Gwacheon",
+    "wof:parent_id":890473043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98917,
+    37.42889,
+    126.98917,
+    37.42889
+],
+  "geometry": {"coordinates":[126.98917,37.42889],"type":"Point"}
+}

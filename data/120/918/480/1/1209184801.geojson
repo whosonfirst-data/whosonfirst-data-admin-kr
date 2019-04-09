@@ -1,0 +1,64 @@
+{
+  "id": 1209184801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51781,35.92157,128.51781,35.92157",
+    "geom:latitude":35.92157,
+    "geom:longitude":128.51781,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gajeong",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553500,
+    "gn:latitude":35.92157,
+    "gn:longitude":128.51781,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Gajeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553500
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9c9d40050ac7ebaf7458c2d48277eda9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209184801
+        }
+    ],
+    "wof:id":1209184801,
+    "wof:lastmodified":1537658893,
+    "wof:name":"Gajeong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51781,
+    35.92157,
+    128.51781,
+    35.92157
+],
+  "geometry": {"coordinates":[128.51781,35.92157],"type":"Point"}
+}

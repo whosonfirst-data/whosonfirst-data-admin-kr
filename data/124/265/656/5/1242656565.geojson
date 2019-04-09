@@ -1,0 +1,74 @@
+{
+  "id": 1242656565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3038,37.6646,127.3038,37.6646",
+    "geom:latitude":37.6646,
+    "geom:longitude":127.3038,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Witdakgye",
+    "gn:country_code":"KR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803212,
+    "gn:latitude":37.6646,
+    "gn:longitude":127.3038,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Witdakgye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\ub2ed\uacc4"
+    ],
+    "name:und_x_variant":[
+        "\uc717\ub2ed\uacc4",
+        "Witdakgye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803212
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"731d48147beebc0451c58907f9177ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1242656565,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242656565,
+    "wof:lastmodified":1537657774,
+    "wof:name":"Witdakgye",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3038,
+    37.6646,
+    127.3038,
+    37.6646
+],
+  "geometry": {"coordinates":[127.3038,37.6646],"type":"Point"}
+}

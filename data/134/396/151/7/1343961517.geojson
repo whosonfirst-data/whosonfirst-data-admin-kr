@@ -1,0 +1,73 @@
+{
+  "id": 1343961517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39785,33.46104,126.39785,33.46104",
+    "geom:latitude":33.46104,
+    "geom:longitude":126.39785,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yewondong",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194273,
+    "gn:latitude":33.46104,
+    "gn:longitude":126.39785,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Yewondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc608\uc6d0\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Yew\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194273
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee9cc8ef825576aa6639447592e03353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1343961517,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1343961517,
+    "wof:lastmodified":1537657006,
+    "wof:name":"Yewondong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39785,
+    33.46104,
+    126.39785,
+    33.46104
+],
+  "geometry": {"coordinates":[126.39785000000001,33.46104],"type":"Point"}
+}

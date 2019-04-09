@@ -1,0 +1,70 @@
+{
+  "id": 1242951573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.22342,35.28413,129.22342,35.28413",
+    "geom:latitude":35.28413,
+    "geom:longitude":129.22342,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Danggok",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097561,
+    "gn:latitude":35.28413,
+    "gn:longitude":129.22342,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Danggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097561
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2e73866775d197b1f89837ced839e184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1242951573,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1242951573,
+    "wof:lastmodified":1537659155,
+    "wof:name":"Danggok",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.22342,
+    35.28413,
+    129.22342,
+    35.28413
+],
+  "geometry": {"coordinates":[129.22342,35.28413],"type":"Point"}
+}

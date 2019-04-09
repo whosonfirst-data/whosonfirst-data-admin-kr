@@ -1,0 +1,65 @@
+{
+  "id": 1209080489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.48819,34.89246,128.48819,34.89246",
+    "geom:latitude":34.89246,
+    "geom:longitude":128.48819,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hup'o",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6897544,
+    "gn:latitude":34.89246,
+    "gn:longitude":128.48819,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hup\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud6c4\ud3ec",
+        "Hup\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6897544
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a315cee95164d3587649b0c3128bb2a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209080489
+        }
+    ],
+    "wof:id":1209080489,
+    "wof:lastmodified":1537658695,
+    "wof:name":"Hup'o",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.48819,
+    34.89246,
+    128.48819,
+    34.89246
+],
+  "geometry": {"coordinates":[128.48819,34.89246],"type":"Point"}
+}

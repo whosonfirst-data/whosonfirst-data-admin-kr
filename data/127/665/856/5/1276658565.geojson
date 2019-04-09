@@ -1,0 +1,71 @@
+{
+  "id": 1276658565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19435,35.54458,127.19435,35.54458",
+    "geom:latitude":35.54458,
+    "geom:longitude":127.19435,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sondol",
+    "gn:country_code":"KR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877190,
+    "gn:latitude":35.54458,
+    "gn:longitude":127.19435,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fndol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc120\ub3cc",
+        "S\u014fndol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877190
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2c12c9f51e0fc1a563cb5cb2ef1a819d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474645,
+            "locality_id":1276658565,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1276658565,
+    "wof:lastmodified":1537658164,
+    "wof:name":"Sondol",
+    "wof:parent_id":890474645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19435,
+    35.54458,
+    127.19435,
+    35.54458
+],
+  "geometry": {"coordinates":[127.19435,35.54458],"type":"Point"}
+}

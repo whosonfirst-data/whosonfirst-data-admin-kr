@@ -1,0 +1,72 @@
+{
+  "id": 1309891881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29722,37.26583,127.29722,37.26583",
+    "geom:latitude":37.26583,
+    "geom:longitude":127.29722,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jeongsu-ri",
+    "gn:country_code":"KR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6577443,
+    "gn:latitude":37.26583,
+    "gn:longitude":127.29722,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jeongsu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc815\uc218\ub9ac",
+        "Jeongsu-ri",
+        "Ch\u014fngsu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577443
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"34a958fdf7b6e475acdd0171506f1474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1309891881,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309891881,
+    "wof:lastmodified":1537657365,
+    "wof:name":"Jeongsu-ri",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29722,
+    37.26583,
+    127.29722,
+    37.26583
+],
+  "geometry": {"coordinates":[127.29722,37.26583],"type":"Point"}
+}

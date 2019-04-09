@@ -1,0 +1,74 @@
+{
+  "id": 1343347651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.42509,37.73273,127.42509,37.73273",
+    "geom:latitude":37.73273,
+    "geom:longitude":127.42509,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seowonmal",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803557,
+    "gn:latitude":37.73273,
+    "gn:longitude":127.42509,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Seowonmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc6d0\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "\uc11c\uc6d0\ub9d0",
+        "Seowonmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803557
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"07ec4a0d7487e1b7326d551f8e022f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1343347651,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343347651,
+    "wof:lastmodified":1537657787,
+    "wof:name":"Seowonmal",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.42509,
+    37.73273,
+    127.42509,
+    37.73273
+],
+  "geometry": {"coordinates":[127.42509,37.73273],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260089931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51667,35.65,126.51667,35.65",
+    "geom:latitude":35.65,
+    "geom:longitude":126.51667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kosap'o",
+    "gn:country_code":"KR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842529,
+    "gn:latitude":35.65,
+    "gn:longitude":126.51667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Kosap\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842529
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5ec1a0b8a1976e4b83d6b5961389b50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475783,
+            "locality_id":1260089931,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1260089931,
+    "wof:lastmodified":1536978049,
+    "wof:name":"Kosap'o",
+    "wof:parent_id":890475783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51667,
+    35.65,
+    126.51667,
+    35.65
+],
+  "geometry": {"coordinates":[126.51667,35.65],"type":"Point"}
+}

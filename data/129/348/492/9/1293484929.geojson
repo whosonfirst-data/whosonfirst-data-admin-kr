@@ -1,0 +1,73 @@
+{
+  "id": 1293484929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4225,38.46944,128.4225,38.46944",
+    "geom:latitude":38.46944,
+    "geom:longitude":128.4225,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mojong",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988418,
+    "gn:latitude":38.46944,
+    "gn:longitude":128.4225,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Moj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\uc815"
+    ],
+    "name:und_x_variant":[
+        "Moj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988418
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"58a51e14d66f1b62d289881e8291684a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1293484929,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293484929,
+    "wof:lastmodified":1537656989,
+    "wof:name":"Mojong",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4225,
+    38.46944000000001,
+    128.4225,
+    38.46944000000001
+],
+  "geometry": {"coordinates":[128.42250000000001,38.46944000000001],"type":"Point"}
+}

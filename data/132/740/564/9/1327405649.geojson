@@ -1,0 +1,73 @@
+{
+  "id": 1327405649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49889,34.50833,126.49889,34.50833",
+    "geom:latitude":34.50833,
+    "geom:longitude":126.49889,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pongje-ri",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838861,
+    "gn:latitude":34.50833,
+    "gn:longitude":126.49889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pongje-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\uc800"
+    ],
+    "name:kor_x_variant":[
+        "Pongj\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838861
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5fe4f7a8b73d46b0eeb10f4170955310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1327405649,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327405649,
+    "wof:lastmodified":1537656312,
+    "wof:name":"Pongje-ri",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49889,
+    34.50833,
+    126.49889,
+    34.50833
+],
+  "geometry": {"coordinates":[126.49889,34.50833],"type":"Point"}
+}

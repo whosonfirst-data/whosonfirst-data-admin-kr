@@ -1,0 +1,73 @@
+{
+  "id": 1276726727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76722,35.47139,128.76722,35.47139",
+    "geom:latitude":35.47139,
+    "geom:longitude":128.76722,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kagok",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843385,
+    "gn:latitude":35.47139,
+    "gn:longitude":128.76722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kagok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kagok-dong",
+        "Kagong-ni",
+        "Kagok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843385
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dc0f716bb9e912b4088807831ccd27a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472405,
+            "locality_id":1276726727,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276726727,
+    "wof:lastmodified":1537656547,
+    "wof:name":"Kagok",
+    "wof:parent_id":890472405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76722,
+    35.47139,
+    128.76722,
+    35.47139
+],
+  "geometry": {"coordinates":[128.76722000000001,35.47139],"type":"Point"}
+}

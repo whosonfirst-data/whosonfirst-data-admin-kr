@@ -1,0 +1,67 @@
+{
+  "id": 1343851331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.16694,36.91083,128.16694,36.91083",
+    "geom:latitude":36.91083,
+    "geom:longitude":128.16694,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Songnae",
+    "gn:country_code":"KR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895325,
+    "gn:latitude":36.91083,
+    "gn:longitude":128.16694,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"S\u014fngnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895325
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"137fd7d1e271ccd12c9925cc4b1da7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1343851331,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1343851331,
+    "wof:lastmodified":1536679774,
+    "wof:name":"Songnae",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.16693999999998,
+    36.91083,
+    128.16693999999998,
+    36.91083
+],
+  "geometry": {"coordinates":[128.16693999999998,36.91083],"type":"Point"}
+}

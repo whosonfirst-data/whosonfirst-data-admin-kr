@@ -1,0 +1,73 @@
+{
+  "id": 1343953099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.17833,38.11585,128.17833,38.11585",
+    "geom:latitude":38.11585,
+    "geom:longitude":128.17833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yonaegae",
+    "gn:country_code":"KR",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988772,
+    "gn:latitude":38.11585,
+    "gn:longitude":128.17833,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u014fnaegae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\uc560\uac1c"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fnaegae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988772
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"748a8b71113abd382f1dda1970892b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1343953099,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343953099,
+    "wof:lastmodified":1537656992,
+    "wof:name":"Yonaegae",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.17833000000002,
+    38.11585,
+    128.17833000000002,
+    38.11585
+],
+  "geometry": {"coordinates":[128.17833000000002,38.11585],"type":"Point"}
+}

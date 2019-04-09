@@ -1,0 +1,70 @@
+{
+  "id": 1260073465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7717,36.68371,127.7717,36.68371",
+    "geom:latitude":36.68371,
+    "geom:longitude":127.7717,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jungni",
+    "gn:country_code":"KR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10370412,
+    "gn:latitude":36.68371,
+    "gn:longitude":127.7717,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Jungni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370412
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de3616cc3efa516ba027948aef620c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1260073465,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1260073465,
+    "wof:lastmodified":1537659046,
+    "wof:name":"Jungni",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7717,
+    36.68371,
+    127.7717,
+    36.68371
+],
+  "geometry": {"coordinates":[127.7717,36.68371],"type":"Point"}
+}

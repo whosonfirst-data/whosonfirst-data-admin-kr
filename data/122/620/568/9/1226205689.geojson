@@ -1,0 +1,71 @@
+{
+  "id": 1226205689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5442,36.7011,126.5442,36.7011",
+    "geom:latitude":36.7011,
+    "geom:longitude":126.5442,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yongbawi",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809378,
+    "gn:latitude":36.7011,
+    "gn:longitude":126.5442,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongbawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\ubc14\uc704",
+        "Yongbawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809378
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb04a2dad064ed8be8f83b77020cd26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1226205689,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226205689,
+    "wof:lastmodified":1537657872,
+    "wof:name":"Yongbawi",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5442,
+    36.7011,
+    126.5442,
+    36.7011
+],
+  "geometry": {"coordinates":[126.5442,36.7011],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209697867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.82,34.48361,127.82,34.48361",
+    "geom:latitude":34.48361,
+    "geom:longitude":127.82,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sangsan-dong",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837615,
+    "gn:latitude":34.48361,
+    "gn:longitude":127.82,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"Sangsan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837615
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d00b58daf3f17b5600b70bd733101e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1209697867,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209697867,
+    "wof:lastmodified":1536396322,
+    "wof:name":"Sangsan-dong",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.82,
+    34.48361,
+    127.82,
+    34.48361
+],
+  "geometry": {"coordinates":[127.81999999999999,34.48361],"type":"Point"}
+}

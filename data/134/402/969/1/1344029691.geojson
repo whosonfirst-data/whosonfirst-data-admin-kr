@@ -1,0 +1,78 @@
+{
+  "id": 1344029691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.14858,34.52899,127.14858,34.52899",
+    "geom:latitude":34.52899,
+    "geom:longitude":127.14858,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Noktu",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840253,
+    "gn:latitude":34.52899,
+    "gn:longitude":127.14858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Noktu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Namch\u2019on"
+    ],
+    "name:und_x_variant":[
+        "Rokut\u014d",
+        "Namch\u2019on-ni",
+        "Noktu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840253
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed9a3f32adeb1fb68a33372fe518750b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1344029691,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1344029691,
+    "wof:lastmodified":1537656387,
+    "wof:name":"Noktu",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.14858,
+    34.52899,
+    127.14858,
+    34.52899
+],
+  "geometry": {"coordinates":[127.14858,34.52899],"type":"Point"}
+}

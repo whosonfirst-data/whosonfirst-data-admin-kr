@@ -1,0 +1,105 @@
+{
+  "id": 85925449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2347921.338512,
+    "geom:bbox":"127.158508,37.411617,127.158508,37.411617",
+    "geom:latitude":37.411617,
+    "geom:longitude":127.158508,
+    "gn:latitude":37.42139,
+    "gn:longitude":127.15639,
+    "iso:country":"KR",
+    "lbl:latitude":37.411617,
+    "lbl:longitude":127.158508,
+    "mps:latitude":37.410349,
+    "mps:longitude":127.159966,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:chi_x_preferred":[
+        "\u845b\u5cf4\u6d1e"
+    ],
+    "name:eng_x_preferred":[
+        "Galhyeon-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ub300\uc6d0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uac08\ud604\ub3d9",
+        "\ub3c4\ucd0c\ub3d9",
+        "\uc5ec\uc218\ub3d9",
+        "\ud558\ub300\uc6d0"
+    ],
+    "name:may_x_preferred":[
+        "Galhyeon-dong"
+    ],
+    "name:unk_x_variant":[
+        "Hadaewon-dong",
+        "\ud558\ub300\uc6d0\ub3d9"
+    ],
+    "name:vie_x_preferred":[
+        "Galhyeon-dong"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        1108746521,
+        85673191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6571553,
+        "gp:id":28806722,
+        "qs:id":1103992,
+        "qs_pg:id":1103992,
+        "wd:id":"Q2647272"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"533e1b309b97e5349d9fa794c856a369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746521,
+            "locality_id":-1,
+            "neighbourhood_id":85925449,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":85925449,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1531938758,
+    "wof:name":"\ud558\ub300\uc6d0\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.158508,
+    37.411617,
+    127.158508,
+    37.411617
+],
+  "geometry": {"coordinates":[127.158508,37.411617],"type":"Point"}
+}

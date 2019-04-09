@@ -1,0 +1,76 @@
+{
+  "id": 1243518331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.975,34.59056,126.975,34.59056",
+    "geom:latitude":34.59056,
+    "geom:longitude":126.975,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Habal",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844828,
+    "gn:latitude":34.59056,
+    "gn:longitude":126.975,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Habal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ubc1c"
+    ],
+    "name:und_x_variant":[
+        "Kahatsu-ri",
+        "Habal-li",
+        "Kahachi",
+        "Habal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844828
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"201d7768fd6230562d4cfae0caf93728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1243518331,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243518331,
+    "wof:lastmodified":1537656618,
+    "wof:name":"Habal",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.975,
+    34.59056,
+    126.975,
+    34.59056
+],
+  "geometry": {"coordinates":[126.97499999999999,34.59056],"type":"Point"}
+}

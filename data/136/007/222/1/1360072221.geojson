@@ -1,0 +1,72 @@
+{
+  "id": 1360072221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.418,37.60921,126.418,37.60921",
+    "geom:latitude":37.60921,
+    "geom:longitude":126.418,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Daeheung",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896264,
+    "gn:latitude":37.60921,
+    "gn:longitude":126.418,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Daeheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\ud765",
+        "Daeheung",
+        "Taeh\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896264
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ff53d3d798265508cec35ba482665bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1360072221,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1360072221,
+    "wof:lastmodified":1537656896,
+    "wof:name":"Daeheung",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.418,
+    37.60921,
+    126.418,
+    37.60921
+],
+  "geometry": {"coordinates":[126.41800000000001,37.60921],"type":"Point"}
+}

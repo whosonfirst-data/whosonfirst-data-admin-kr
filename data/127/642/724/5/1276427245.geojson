@@ -1,0 +1,74 @@
+{
+  "id": 1276427245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87241,37.83269,126.87241,37.83269",
+    "geom:latitude":37.83269,
+    "geom:longitude":126.87241,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Dunbang",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951532,
+    "gn:latitude":37.83269,
+    "gn:longitude":126.87241,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Dunbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub454\ubc29"
+    ],
+    "name:und_x_variant":[
+        "Tunbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951532
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"389a001859d3728610f1e3fc10d3549f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1276427245,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276427245,
+    "wof:lastmodified":1537656976,
+    "wof:name":"Dunbang",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87241000000002,
+    37.83269,
+    126.87241000000002,
+    37.83269
+],
+  "geometry": {"coordinates":[126.87241000000002,37.83269],"type":"Point"}
+}

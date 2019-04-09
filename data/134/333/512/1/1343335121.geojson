@@ -1,0 +1,70 @@
+{
+  "id": 1343335121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36357,36.66786,128.36357,36.66786",
+    "geom:latitude":36.66786,
+    "geom:longitude":128.36357,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Myeongdanggol",
+    "gn:country_code":"KR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254458,
+    "gn:latitude":36.66786,
+    "gn:longitude":128.36357,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Myeongdanggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba85\ub2f9\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254458
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"15bbc8a8917f93618cbe65f6c0afcbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1343335121,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343335121,
+    "wof:lastmodified":1537659271,
+    "wof:name":"Myeongdanggol",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36356999999998,
+    36.66786,
+    128.36356999999998,
+    36.66786
+],
+  "geometry": {"coordinates":[128.36356999999998,36.66786],"type":"Point"}
+}

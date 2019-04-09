@@ -1,0 +1,71 @@
+{
+  "id": 1225929993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02113,36.9367,127.02113,36.9367",
+    "geom:latitude":36.9367,
+    "geom:longitude":127.02113,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nojung",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810999,
+    "gn:latitude":36.9367,
+    "gn:longitude":127.02113,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Nojung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub178\uc911",
+        "Nojung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810999
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"abd0b0672e82df5e7578689c68407523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1225929993,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1225929993,
+    "wof:lastmodified":1537657924,
+    "wof:name":"Nojung",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02113,
+    36.9367,
+    127.02113,
+    36.9367
+],
+  "geometry": {"coordinates":[127.02113,36.9367],"type":"Point"}
+}

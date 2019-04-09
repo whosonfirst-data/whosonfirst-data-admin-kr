@@ -1,0 +1,78 @@
+{
+  "id": 1293461619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96194,34.32056,126.96194,34.32056",
+    "geom:latitude":34.32056,
+    "geom:longitude":126.96194,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geumgok",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842275,
+    "gn:latitude":34.32056,
+    "gn:longitude":126.96194,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Geumgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uace1"
+    ],
+    "name:kor_x_variant":[
+        "K\u016dmgok"
+    ],
+    "name:und_x_variant":[
+        "Kinkoku-ri",
+        "K\u016dmgong-ni",
+        "Geumgok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842275
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b4f09205a232a5d639dbf3204c1122e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1293461619,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293461619,
+    "wof:lastmodified":1537656488,
+    "wof:name":"Geumgok",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96193999999998,
+    34.32056,
+    126.96193999999998,
+    34.32056
+],
+  "geometry": {"coordinates":[126.96193999999998,34.32056],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242838241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83979,35.05917,126.83979,35.05917",
+    "geom:latitude":35.05917,
+    "geom:longitude":126.83979,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Eojeon",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193490,
+    "gn:latitude":35.05917,
+    "gn:longitude":126.83979,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Eojeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193490
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"93231240891961b9e1b2709f19e27b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1242838241,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242838241,
+    "wof:lastmodified":1537659227,
+    "wof:name":"Eojeon",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83979,
+    35.05917,
+    126.83979,
+    35.05917
+],
+  "geometry": {"coordinates":[126.83978999999999,35.05917],"type":"Point"}
+}

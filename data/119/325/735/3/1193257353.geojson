@@ -1,0 +1,72 @@
+{
+  "id": 1193257353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.08861,37.11194,127.08861,37.11194",
+    "geom:latitude":37.11194,
+    "geom:longitude":127.08861,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kugagok",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575706,
+    "gn:latitude":37.11194,
+    "gn:longitude":127.08861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kugagok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\uac00\uace1",
+        "Gugagok",
+        "Kugagok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575706
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"28c9932cafb60bdf3f89bb148ddb8c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1193257353,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193257353,
+    "wof:lastmodified":1537657289,
+    "wof:name":"Kugagok",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.08861,
+    37.11194,
+    127.08861,
+    37.11194
+],
+  "geometry": {"coordinates":[127.08861,37.11194],"type":"Point"}
+}

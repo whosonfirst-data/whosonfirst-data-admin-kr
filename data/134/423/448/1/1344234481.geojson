@@ -1,0 +1,75 @@
+{
+  "id": 1344234481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.033,37.5786,127.033,37.5786",
+    "geom:latitude":37.5786,
+    "geom:longitude":127.033,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yongdu-dong",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832542,
+    "gn:latitude":37.5786,
+    "gn:longitude":127.033,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongdu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songdong",
+        "Yongduj\u014fng",
+        "Ry\u016dt\u014f-ri",
+        "Ry\u016dt\u014fch\u014f",
+        "\uc6a9\ub450\ub3d9",
+        "Yongdu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890473533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832542
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a27cb2a5df15f6f962906420f77823e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473533,
+            "locality_id":1344234481,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1344234481,
+    "wof:lastmodified":1537655983,
+    "wof:name":"Yongdu-dong",
+    "wof:parent_id":890473533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.033,
+    37.5786,
+    127.033,
+    37.5786
+],
+  "geometry": {"coordinates":[127.033,37.5786],"type":"Point"}
+}

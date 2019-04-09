@@ -1,0 +1,74 @@
+{
+  "id": 1243518313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23323,35.08926,126.23323,35.08926",
+    "geom:latitude":35.08926,
+    "geom:longitude":126.23323,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oeyang",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839938,
+    "gn:latitude":35.08926,
+    "gn:longitude":126.23323,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Oeyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\uc591"
+    ],
+    "name:und_x_variant":[
+        "Oeyang-ni",
+        "Oeyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839938
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9a55597f2df22b15580c9766093a5f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1243518313,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243518313,
+    "wof:lastmodified":1537656370,
+    "wof:name":"Oeyang",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23323,
+    35.08926,
+    126.23323,
+    35.08926
+],
+  "geometry": {"coordinates":[126.23323000000001,35.08926],"type":"Point"}
+}

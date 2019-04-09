@@ -1,0 +1,71 @@
+{
+  "id": 1293850369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6368,36.529,126.6368,36.529",
+    "geom:latitude":36.529,
+    "geom:longitude":126.6368,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maehyon",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808411,
+    "gn:latitude":36.529,
+    "gn:longitude":126.6368,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maehy\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9e4\ud604",
+        "Maehy\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808411
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"11ace71b3ac7f614f73c570e458b8743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1293850369,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293850369,
+    "wof:lastmodified":1537657830,
+    "wof:name":"Maehyon",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6368,
+    36.529,
+    126.6368,
+    36.529
+],
+  "geometry": {"coordinates":[126.63679999999999,36.529],"type":"Point"}
+}

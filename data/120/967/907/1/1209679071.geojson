@@ -1,0 +1,64 @@
+{
+  "id": 1209679071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9179,36.62942,126.9179,36.62942",
+    "geom:latitude":36.62942,
+    "geom:longitude":126.9179,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sambasilgol",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10250372,
+    "gn:latitude":36.62942,
+    "gn:longitude":126.9179,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Sambasilgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\ubc14\uc2e4\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10250372
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"afdb8ecd9fe1410985c9ea015fffa88e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209679071
+        }
+    ],
+    "wof:id":1209679071,
+    "wof:lastmodified":1537658997,
+    "wof:name":"Sambasilgol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9179,
+    36.62942,
+    126.9179,
+    36.62942
+],
+  "geometry": {"coordinates":[126.9179,36.62942],"type":"Point"}
+}

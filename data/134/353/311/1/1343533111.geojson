@@ -1,0 +1,74 @@
+{
+  "id": 1343533111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52306,34.61528,126.52306,34.61528",
+    "geom:latitude":34.61528,
+    "geom:longitude":126.52306,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yongso",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832289,
+    "gn:latitude":34.61528,
+    "gn:longitude":126.52306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc18c"
+    ],
+    "name:und_x_variant":[
+        "Yongso-ri",
+        "Yongso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832289
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72f70b561b88188565d87349280fa003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1343533111,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343533111,
+    "wof:lastmodified":1537655971,
+    "wof:name":"Yongso",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52306000000002,
+    34.61528,
+    126.52306000000002,
+    34.61528
+],
+  "geometry": {"coordinates":[126.52306000000002,34.61528],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209687023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85208,37.46159,126.85208,37.46159",
+    "geom:latitude":37.46159,
+    "geom:longitude":126.85208,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gwangmyeongni",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233587,
+    "gn:latitude":37.46159,
+    "gn:longitude":126.85208,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Gwangmyeongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad11\uba85\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233587
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2d169e99d26b662c2ecf5181999f6b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209687023
+        }
+    ],
+    "wof:id":1209687023,
+    "wof:lastmodified":1537659241,
+    "wof:name":"Gwangmyeongni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85208,
+    37.46159,
+    126.85208,
+    37.46159
+],
+  "geometry": {"coordinates":[126.85208,37.46159],"type":"Point"}
+}

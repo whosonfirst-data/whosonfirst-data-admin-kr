@@ -1,0 +1,72 @@
+{
+  "id": 1276201149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33562,36.25212,127.33562,36.25212",
+    "geom:latitude":36.25212,
+    "geom:longitude":127.33562,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Seokgogae",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888019,
+    "gn:latitude":36.25212,
+    "gn:longitude":127.33562,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Seokgogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11d\uace0\uac1c",
+        "S\u014fkkogae",
+        "Seokgogae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888019
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"50716bc73ac50c97cf03178aee0b78bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746515,
+            "locality_id":1276201149,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1276201149,
+    "wof:lastmodified":1537658407,
+    "wof:name":"Seokgogae",
+    "wof:parent_id":1108746515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33562,
+    36.25212,
+    127.33562,
+    36.25212
+],
+  "geometry": {"coordinates":[127.33562000000001,36.25212],"type":"Point"}
+}

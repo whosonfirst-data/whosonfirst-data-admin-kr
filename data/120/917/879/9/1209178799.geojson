@@ -1,0 +1,70 @@
+{
+  "id": 1209178799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04572,34.77362,128.04572,34.77362",
+    "geom:latitude":34.77362,
+    "geom:longitude":128.04572,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Daejipo",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835252,
+    "gn:latitude":34.77362,
+    "gn:longitude":128.04572,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Daejipo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc9c0\ud3ec"
+    ],
+    "name:und_x_variant":[
+        "Daichi-d\u014d",
+        "Taichi-d\u014d",
+        "Taeji-dong",
+        "Daejipo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835252
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c756e62db249e9ba98e057c7e6c90c71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209178799
+        }
+    ],
+    "wof:id":1209178799,
+    "wof:lastmodified":1537656131,
+    "wof:name":"Daejipo",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04572,
+    34.77362,
+    128.04572,
+    34.77362
+],
+  "geometry": {"coordinates":[128.04571999999999,34.77362],"type":"Point"}
+}

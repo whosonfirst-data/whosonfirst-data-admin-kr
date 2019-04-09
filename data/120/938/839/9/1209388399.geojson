@@ -1,0 +1,64 @@
+{
+  "id": 1209388399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.56773,36.58735,128.56773,36.58735",
+    "geom:latitude":36.58735,
+    "geom:longitude":128.56773,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gangbyeon",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11271782,
+    "gn:latitude":36.58735,
+    "gn:longitude":128.56773,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Gangbyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\ubcc0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11271782
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"866fdb03978610f31c98ebdbeb342d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209388399
+        }
+    ],
+    "wof:id":1209388399,
+    "wof:lastmodified":1537659314,
+    "wof:name":"Gangbyeon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.56773,
+    36.58735,
+    128.56773,
+    36.58735
+],
+  "geometry": {"coordinates":[128.56773000000001,36.58735],"type":"Point"}
+}

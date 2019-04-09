@@ -1,0 +1,71 @@
+{
+  "id": 1343527843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6664,36.5291,126.6664,36.5291",
+    "geom:latitude":36.5291,
+    "geom:longitude":126.6664,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kurongsil",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808485,
+    "gn:latitude":36.5291,
+    "gn:longitude":126.6664,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kur\u014fngsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\ub801\uc2e4",
+        "Kur\u014fngsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808485
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4f47f8bfe3211d6f8f043de6361bfa09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1343527843,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343527843,
+    "wof:lastmodified":1537657834,
+    "wof:name":"Kurongsil",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6664,
+    36.5291,
+    126.6664,
+    36.5291
+],
+  "geometry": {"coordinates":[126.6664,36.5291],"type":"Point"}
+}

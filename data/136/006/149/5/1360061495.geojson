@@ -1,0 +1,67 @@
+{
+  "id": 1360061495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56528,36.28667,126.56528,36.28667",
+    "geom:latitude":36.28667,
+    "geom:longitude":126.56528,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yanghang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832904,
+    "gn:latitude":36.28667,
+    "gn:longitude":126.56528,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"Yanghang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832904
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a5f9c3affaddb3fce63124d65b8e28a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1360061495,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1360061495,
+    "wof:lastmodified":1536979160,
+    "wof:name":"Yanghang-ni",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56528,
+    36.28667,
+    126.56528,
+    36.28667
+],
+  "geometry": {"coordinates":[126.56528,36.28667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259381495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.28329,37.01344,128.28329,37.01344",
+    "geom:latitude":37.01344,
+    "geom:longitude":128.28329,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bondeung",
+    "gn:country_code":"KR",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9187727,
+    "gn:latitude":37.01344,
+    "gn:longitude":128.28329,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Bondeung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf8\ub4f1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9187727
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"69ab06654b23e3ec9816092b94cf4aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1259381495,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259381495,
+    "wof:lastmodified":1537658928,
+    "wof:name":"Bondeung",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.28329,
+    37.01344,
+    128.28329,
+    37.01344
+],
+  "geometry": {"coordinates":[128.28328999999999,37.01344],"type":"Point"}
+}

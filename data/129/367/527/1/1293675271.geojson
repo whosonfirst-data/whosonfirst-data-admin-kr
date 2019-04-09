@@ -1,0 +1,74 @@
+{
+  "id": 1293675271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25067,37.16367,127.25067,37.16367",
+    "geom:latitude":37.16367,
+    "geom:longitude":127.25067,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Jangchon",
+    "gn:country_code":"KR",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398672,
+    "gn:latitude":37.16367,
+    "gn:longitude":127.25067,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Jangchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Changch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398672
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2ab69f2b88d5910fe3cb55c1b8b72ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1293675271,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293675271,
+    "wof:lastmodified":1537657183,
+    "wof:name":"Jangchon",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25067,
+    37.16367,
+    127.25067,
+    37.16367
+],
+  "geometry": {"coordinates":[127.25067,37.16367],"type":"Point"}
+}

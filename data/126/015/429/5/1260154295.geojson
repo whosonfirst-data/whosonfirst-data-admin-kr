@@ -1,0 +1,72 @@
+{
+  "id": 1260154295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.92083,35.85917,128.92083,35.85917",
+    "geom:latitude":35.85917,
+    "geom:longitude":128.92083,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sin'gwang",
+    "gn:country_code":"KR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837059,
+    "gn:latitude":35.85917,
+    "gn:longitude":128.92083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sin\u2019gwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sin\u2019gwang-dong",
+        "Sin\u2019gwang-ni",
+        "Sin\u2019gwang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837059
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"818b51dcbe958e4a459da7aa799177e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475319,
+            "locality_id":1260154295,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260154295,
+    "wof:lastmodified":1537656215,
+    "wof:name":"Sin'gwang",
+    "wof:parent_id":890475319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.92083,
+    35.85917,
+    128.92083,
+    35.85917
+],
+  "geometry": {"coordinates":[128.92083,35.85917],"type":"Point"}
+}

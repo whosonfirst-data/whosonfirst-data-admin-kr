@@ -1,0 +1,64 @@
+{
+  "id": 1209686479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.74917,36.97346,128.74917,36.97346",
+    "geom:latitude":36.97346,
+    "geom:longitude":128.74917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dosari",
+    "gn:country_code":"KR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9083288,
+    "gn:latitude":36.97346,
+    "gn:longitude":128.74917,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Dosari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\uc0ac\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9083288
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7c2ea37b891a69536b0beca520e8603b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209686479
+        }
+    ],
+    "wof:id":1209686479,
+    "wof:lastmodified":1537658918,
+    "wof:name":"Dosari",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.74917,
+    36.97346,
+    128.74917,
+    36.97346
+],
+  "geometry": {"coordinates":[128.74916999999999,36.97346],"type":"Point"}
+}

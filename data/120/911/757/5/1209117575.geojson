@@ -1,0 +1,65 @@
+{
+  "id": 1209117575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.30124,35.75889,127.30124,35.75889",
+    "geom:latitude":35.75889,
+    "geom:longitude":127.30124,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chunggun",
+    "gn:country_code":"KR",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896256,
+    "gn:latitude":35.75889,
+    "gn:longitude":127.30124,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chunggun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uad70",
+        "Chunggun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896256
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9f8b903d0db749b8a06d1339618d53a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209117575
+        }
+    ],
+    "wof:id":1209117575,
+    "wof:lastmodified":1537658655,
+    "wof:name":"Chunggun",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.30124,
+    35.75889,
+    127.30124,
+    35.75889
+],
+  "geometry": {"coordinates":[127.30124000000001,35.75889],"type":"Point"}
+}

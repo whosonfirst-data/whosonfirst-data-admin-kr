@@ -1,0 +1,65 @@
+{
+  "id": 1209389959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3334,36.34,127.3334,36.34",
+    "geom:latitude":36.34,
+    "geom:longitude":127.3334,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yang-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888607,
+    "gn:latitude":36.34,
+    "gn:longitude":127.3334,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yang-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc591\ucd0c",
+        "Yang-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888607
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f0491abc548f7b0416702626cc991af9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209389959
+        }
+    ],
+    "wof:id":1209389959,
+    "wof:lastmodified":1537658431,
+    "wof:name":"Yang-ch'on",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3334,
+    36.34,
+    127.3334,
+    36.34
+],
+  "geometry": {"coordinates":[127.3334,36.34],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209491501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1054,36.2622,127.1054,36.2622",
+    "geom:latitude":36.2622,
+    "geom:longitude":127.1054,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wolti",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883086,
+    "gn:latitude":36.2622,
+    "gn:longitude":127.1054,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014flti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d4\ub514",
+        "W\u014flti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883086
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b76b4a026dc97c9c38b4dc99b30abb7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209491501
+        }
+    ],
+    "wof:id":1209491501,
+    "wof:lastmodified":1537658277,
+    "wof:name":"Wolti",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1054,
+    36.2622,
+    127.1054,
+    36.2622
+],
+  "geometry": {"coordinates":[127.1054,36.2622],"type":"Point"}
+}

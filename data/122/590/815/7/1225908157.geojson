@@ -1,0 +1,77 @@
+{
+  "id": 1225908157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65657,34.63572,126.65657,34.63572",
+    "geom:latitude":34.63572,
+    "geom:longitude":126.65657,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oryungol",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6396000,
+    "gn:latitude":34.63572,
+    "gn:longitude":126.65657,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Oryungol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ub958\uace8"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ub95c\uace8"
+    ],
+    "name:und_x_variant":[
+        "Oryu-gol",
+        "Oryungol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6396000
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8f997a482b5e330331171ff59cee0362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1225908157,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225908157,
+    "wof:lastmodified":1537657168,
+    "wof:name":"Oryungol",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65657,
+    34.63572,
+    126.65657,
+    34.63572
+],
+  "geometry": {"coordinates":[126.65657,34.63572],"type":"Point"}
+}

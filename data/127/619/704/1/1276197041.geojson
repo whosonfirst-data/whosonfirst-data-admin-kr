@@ -1,0 +1,75 @@
+{
+  "id": 1276197041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1167,37.7117,127.1167,37.7117",
+    "geom:latitude":37.7117,
+    "geom:longitude":127.1167,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Donghakgul",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801721,
+    "gn:latitude":37.7117,
+    "gn:longitude":127.1167,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Donghakgul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ud559\uad74"
+    ],
+    "name:und_x_variant":[
+        "\ub3d9\ud559\uace8",
+        "Tonghak-kol",
+        "Donghakgul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801721
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"67acddf7644907083f4662043efad4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1276197041,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276197041,
+    "wof:lastmodified":1537657704,
+    "wof:name":"Donghakgul",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1167,
+    37.7117,
+    127.1167,
+    37.7117
+],
+  "geometry": {"coordinates":[127.11669999999999,37.7117],"type":"Point"}
+}

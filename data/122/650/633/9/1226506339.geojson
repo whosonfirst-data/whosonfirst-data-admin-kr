@@ -1,0 +1,75 @@
+{
+  "id": 1226506339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42386,34.68048,126.42386,34.68048",
+    "geom:latitude":34.68048,
+    "geom:longitude":126.42386,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sinnong",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836935,
+    "gn:latitude":34.68048,
+    "gn:longitude":126.42386,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sinnong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub18d"
+    ],
+    "name:und_x_variant":[
+        "Sinnong-ri",
+        "Sinnong-ni",
+        "Sinnong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836935
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7271e42d7332100ff287584c98bbbec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1226506339,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226506339,
+    "wof:lastmodified":1537656210,
+    "wof:name":"Sinnong",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42386,
+    34.68048,
+    126.42386,
+    34.68048
+],
+  "geometry": {"coordinates":[126.42386,34.68048],"type":"Point"}
+}

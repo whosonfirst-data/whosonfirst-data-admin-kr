@@ -1,0 +1,65 @@
+{
+  "id": 1209613867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6715,36.3404,127.6715,36.3404",
+    "geom:latitude":36.3404,
+    "geom:longitude":127.6715,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Misan",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884839,
+    "gn:latitude":36.3404,
+    "gn:longitude":127.6715,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Misan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubbf8\uc0b0",
+        "Misan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884839
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1705b7bad98a85cecfc947536e32ec8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209613867
+        }
+    ],
+    "wof:id":1209613867,
+    "wof:lastmodified":1537658344,
+    "wof:name":"Misan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6715,
+    36.3404,
+    127.6715,
+    36.3404
+],
+  "geometry": {"coordinates":[127.67149999999999,36.3404],"type":"Point"}
+}

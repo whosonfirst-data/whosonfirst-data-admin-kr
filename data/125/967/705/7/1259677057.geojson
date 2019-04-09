@@ -1,0 +1,70 @@
+{
+  "id": 1259677057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.64149,36.77516,127.64149,36.77516",
+    "geom:latitude":36.77516,
+    "geom:longitude":127.64149,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gyochon",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351715,
+    "gn:latitude":36.77516,
+    "gn:longitude":127.64149,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Gyochon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad50\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351715
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af10a867b6155fb56f2c0b1508b4bb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1259677057,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259677057,
+    "wof:lastmodified":1537659035,
+    "wof:name":"Gyochon",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.64149,
+    36.77516,
+    127.64149,
+    36.77516
+],
+  "geometry": {"coordinates":[127.64149,36.77516],"type":"Point"}
+}

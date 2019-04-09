@@ -1,0 +1,74 @@
+{
+  "id": 1193116211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20347,37.22669,127.20347,37.22669",
+    "geom:latitude":37.22669,
+    "geom:longitude":127.20347,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Danjeon",
+    "gn:country_code":"KR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398644,
+    "gn:latitude":37.22669,
+    "gn:longitude":127.20347,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Danjeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2e8\uc804"
+    ],
+    "name:kor_x_variant":[
+        "Tanj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398644
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"71cdd3d2896f31648972dddebf06c0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1193116211,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193116211,
+    "wof:lastmodified":1537657181,
+    "wof:name":"Danjeon",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20347,
+    37.22669000000001,
+    127.20347,
+    37.22669000000001
+],
+  "geometry": {"coordinates":[127.20347,37.22669000000001],"type":"Point"}
+}

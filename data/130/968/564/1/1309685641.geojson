@@ -1,0 +1,71 @@
+{
+  "id": 1309685641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.07509,36.20773,129.07509,36.20773",
+    "geom:latitude":36.20773,
+    "geom:longitude":129.07509,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koran",
+    "gn:country_code":"KR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878529,
+    "gn:latitude":36.20773,
+    "gn:longitude":129.07509,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Koran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace8\uc548",
+        "Koran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878529
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"587282fe33bd9b77744a3020e75d4037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1309685641,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309685641,
+    "wof:lastmodified":1537658193,
+    "wof:name":"Koran",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.07509,
+    36.20773,
+    129.07509,
+    36.20773
+],
+  "geometry": {"coordinates":[129.07508999999999,36.20773],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343248185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53608,37.16545,127.53608,37.16545",
+    "geom:latitude":37.16545,
+    "geom:longitude":127.53608,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Geobungmoe",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812654,
+    "gn:latitude":37.16545,
+    "gn:longitude":127.53608,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Geobungmoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac70\ubd81\ubafc"
+    ],
+    "name:kor_x_variant":[
+        "K\u014fbungmoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812654
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ede8cfeeb4138012ca53d6df31e02fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1343248185,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343248185,
+    "wof:lastmodified":1537657976,
+    "wof:name":"Geobungmoe",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53608,
+    37.16545,
+    127.53608,
+    37.16545
+],
+  "geometry": {"coordinates":[127.53608,37.16545],"type":"Point"}
+}

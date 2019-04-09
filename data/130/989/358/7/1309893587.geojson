@@ -1,0 +1,73 @@
+{
+  "id": 1309893587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82506,37.48106,126.82506,37.48106",
+    "geom:latitude":37.48106,
+    "geom:longitude":126.82506,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8604645,
+    "gn:latitude":37.48106,
+    "gn:longitude":126.82506,
+    "gn:modification_date":"2014-01-06",
+    "gn:name":"Hang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hang-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ud56d\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890474965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8604645
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49846fbfdce8dea80f0b649d1602fea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474965,
+            "locality_id":1309893587,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1309893587,
+    "wof:lastmodified":1537550740,
+    "wof:name":"Hang-dong",
+    "wof:parent_id":890474965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82506,
+    37.48106,
+    126.82506,
+    37.48106
+],
+  "geometry": {"coordinates":[126.82505999999999,37.48106],"type":"Point"}
+}

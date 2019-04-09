@@ -1,0 +1,67 @@
+{
+  "id": 1242951575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.01889,35.10444,129.01889,35.10444",
+    "geom:latitude":35.10444,
+    "geom:longitude":129.01889,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"T'osong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979382,
+    "gn:latitude":35.10444,
+    "gn:longitude":129.01889,
+    "gn:modification_date":"2004-05-26",
+    "gn:name":"T\u2019os\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        1108746509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979382
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0b94d5af44796da91a4d8a37ab6c0546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746509,
+            "locality_id":1242951575,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1242951575,
+    "wof:lastmodified":1537021157,
+    "wof:name":"T'osong-dong",
+    "wof:parent_id":1108746509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.01889,
+    35.10444,
+    129.01889,
+    35.10444
+],
+  "geometry": {"coordinates":[129.01889,35.10444],"type":"Point"}
+}

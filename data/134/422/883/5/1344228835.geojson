@@ -1,0 +1,78 @@
+{
+  "id": 1344228835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86361,34.705,126.86361,34.705",
+    "geom:latitude":34.705,
+    "geom:longitude":126.86361,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seongbul",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836338,
+    "gn:latitude":34.705,
+    "gn:longitude":126.86361,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Seongbul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\ubd88\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fngbul-li",
+        "\uc131\ubd88"
+    ],
+    "name:und_x_variant":[
+        "S\u014fngbul",
+        "Seongbul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836338
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"997d5a6d10dcb1ba12e5326a800f4582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1344228835,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1344228835,
+    "wof:lastmodified":1537656182,
+    "wof:name":"Seongbul",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86361,
+    34.705,
+    126.86361,
+    34.705
+],
+  "geometry": {"coordinates":[126.86360999999999,34.705],"type":"Point"}
+}

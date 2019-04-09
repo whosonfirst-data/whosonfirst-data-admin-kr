@@ -1,0 +1,75 @@
+{
+  "id": 1327313497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55731,37.50262,126.55731,37.50262",
+    "geom:latitude":37.50262,
+    "geom:longitude":126.55731,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Daebihyeon",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835496,
+    "gn:latitude":37.50262,
+    "gn:longitude":126.55731,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Daebihyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fkhy\u014fn",
+        "Tolgogae",
+        "Tolkogae",
+        "\ub300\ube44\ud604",
+        "Daebihyeon",
+        "Taebihy\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835496
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8aa6a9ac3de895a25aeada17b5056d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746485,
+            "locality_id":1327313497,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1327313497,
+    "wof:lastmodified":1537656141,
+    "wof:name":"Daebihyeon",
+    "wof:parent_id":1108746485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55731000000002,
+    37.50262,
+    126.55731000000002,
+    37.50262
+],
+  "geometry": {"coordinates":[126.55731000000002,37.50262],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209275887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.43276,34.78164,128.43276,34.78164",
+    "geom:latitude":34.78164,
+    "geom:longitude":128.43276,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tapha",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6897701,
+    "gn:latitude":34.78164,
+    "gn:longitude":128.43276,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tapha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2f5\ud558",
+        "Tapha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6897701
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7d979d5a320e5aab032adba89b6116e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209275887
+        }
+    ],
+    "wof:id":1209275887,
+    "wof:lastmodified":1537658701,
+    "wof:name":"Tapha",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.43276,
+    34.78164,
+    128.43276,
+    34.78164
+],
+  "geometry": {"coordinates":[128.43276,34.78164],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360061089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90861,35.11528,126.90861,35.11528",
+    "geom:latitude":35.11528,
+    "geom:longitude":126.90861,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Wonje",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1981792,
+    "gn:latitude":35.11528,
+    "gn:longitude":126.90861,
+    "gn:modification_date":"2004-06-10",
+    "gn:name":"W\u014fnje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1981792
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e62bc603cbd4e4459c140e9b02973bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472185,
+            "locality_id":1360061089,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1360061089,
+    "wof:lastmodified":1536979734,
+    "wof:name":"Wonje",
+    "wof:parent_id":890472185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90861,
+    35.11528,
+    126.90861,
+    35.11528
+],
+  "geometry": {"coordinates":[126.90861,35.11528],"type":"Point"}
+}

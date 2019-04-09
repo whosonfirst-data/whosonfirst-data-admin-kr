@@ -1,0 +1,64 @@
+{
+  "id": 1209278305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35272,34.61157,127.35272,34.61157",
+    "geom:latitude":34.61157,
+    "geom:longitude":127.35272,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tongsandong",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685235,
+    "gn:latitude":34.61157,
+    "gn:longitude":127.35272,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tongsandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc0b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685235
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1eaee2c26915cf127905794ca6aae9e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209278305
+        }
+    ],
+    "wof:id":1209278305,
+    "wof:lastmodified":1537657451,
+    "wof:name":"Tongsandong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35272,
+    34.61157,
+    127.35272,
+    34.61157
+],
+  "geometry": {"coordinates":[127.35272000000001,34.61157],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310175233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.54329,35.96428,128.54329,35.96428",
+    "geom:latitude":35.96428,
+    "geom:longitude":128.54329,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Motmit",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553039,
+    "gn:latitude":35.96428,
+    "gn:longitude":128.54329,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Motmit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubabb\ubc11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553039
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2629d40be1cfc9fd797d00ab6b163141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746395,
+            "locality_id":1310175233,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1310175233,
+    "wof:lastmodified":1537658891,
+    "wof:name":"Motmit",
+    "wof:parent_id":1108746395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.54328999999998,
+    35.96428,
+    128.54328999999998,
+    35.96428
+],
+  "geometry": {"coordinates":[128.54328999999998,35.96428],"type":"Point"}
+}

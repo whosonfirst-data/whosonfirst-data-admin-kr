@@ -1,0 +1,73 @@
+{
+  "id": 1309695563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.53334,36.06009,129.53334,36.06009",
+    "geom:latitude":36.06009,
+    "geom:longitude":129.53334,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Handalbi",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888998,
+    "gn:latitude":36.06009,
+    "gn:longitude":129.53334,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Handalbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\ub2ec\ube44"
+    ],
+    "name:und_x_variant":[
+        "Andalbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888998
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc6e7c3eb066f0d61c175c8ed93e5460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1309695563,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309695563,
+    "wof:lastmodified":1537656800,
+    "wof:name":"Handalbi",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.53333999999998,
+    36.06009,
+    129.53333999999998,
+    36.06009
+],
+  "geometry": {"coordinates":[129.53333999999998,36.06009],"type":"Point"}
+}

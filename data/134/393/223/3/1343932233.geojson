@@ -1,0 +1,71 @@
+{
+  "id": 1343932233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.62349,35.574,128.62349,35.574",
+    "geom:latitude":35.574,
+    "geom:longitude":128.62349,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kumso",
+    "gn:country_code":"KR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903379,
+    "gn:latitude":35.574,
+    "gn:longitude":128.62349,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016dms\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\uc11c",
+        "K\u016dms\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903379
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a61f46c57963e7782df2206b000849a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472405,
+            "locality_id":1343932233,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343932233,
+    "wof:lastmodified":1537658847,
+    "wof:name":"Kumso",
+    "wof:parent_id":890472405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.62349,
+    35.574,
+    128.62349,
+    35.574
+],
+  "geometry": {"coordinates":[128.62349,35.574],"type":"Point"}
+}

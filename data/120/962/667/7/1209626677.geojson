@@ -1,0 +1,65 @@
+{
+  "id": 1209626677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55521,35.88556,127.55521,35.88556",
+    "geom:latitude":35.88556,
+    "geom:longitude":127.55521,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Noch'ae",
+    "gn:country_code":"KR",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896973,
+    "gn:latitude":35.88556,
+    "gn:longitude":127.55521,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Noch\u2019ae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub178\ucc44",
+        "Noch\u2019ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896973
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4da63c670f6578cd6e8aafbe4e278737",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209626677
+        }
+    ],
+    "wof:id":1209626677,
+    "wof:lastmodified":1537658678,
+    "wof:name":"Noch'ae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55521,
+    35.88556,
+    127.55521,
+    35.88556
+],
+  "geometry": {"coordinates":[127.55521,35.88556],"type":"Point"}
+}

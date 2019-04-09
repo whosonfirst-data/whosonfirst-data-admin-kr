@@ -1,0 +1,70 @@
+{
+  "id": 1226018407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40152,36.47806,128.40152,36.47806",
+    "geom:latitude":36.47806,
+    "geom:longitude":128.40152,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Angimje",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11269892,
+    "gn:latitude":36.47806,
+    "gn:longitude":128.40152,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Angimje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uae40\uc81c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11269892
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0469267833846f7d2456b3f195d15f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474631,
+            "locality_id":1226018407,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226018407,
+    "wof:lastmodified":1537659308,
+    "wof:name":"Angimje",
+    "wof:parent_id":890474631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40152,
+    36.47806,
+    128.40152,
+    36.47806
+],
+  "geometry": {"coordinates":[128.40152,36.47806],"type":"Point"}
+}

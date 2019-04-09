@@ -1,0 +1,72 @@
+{
+  "id": 1243239747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7715,36.3659,126.7715,36.3659",
+    "geom:latitude":36.3659,
+    "geom:longitude":126.7715,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tolbo",
+    "gn:country_code":"KR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834432,
+    "gn:latitude":36.3659,
+    "gn:longitude":126.7715,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tolbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tolbong-ni",
+        "Tolbo",
+        "\ub3cc\ubcf4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834432
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bea1a0cb1753acaf9ace6d3be59ecf0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474649,
+            "locality_id":1243239747,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243239747,
+    "wof:lastmodified":1537656085,
+    "wof:name":"Tolbo",
+    "wof:parent_id":890474649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7715,
+    36.3659,
+    126.7715,
+    36.3659
+],
+  "geometry": {"coordinates":[126.7715,36.3659],"type":"Point"}
+}

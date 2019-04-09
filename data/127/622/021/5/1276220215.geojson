@@ -1,0 +1,70 @@
+{
+  "id": 1276220215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.01004,36.77282,128.01004,36.77282",
+    "geom:latitude":36.77282,
+    "geom:longitude":128.01004,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yuljeon",
+    "gn:country_code":"KR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409968,
+    "gn:latitude":36.77282,
+    "gn:longitude":128.01004,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Yuljeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc728\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409968
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8001794dc73b5cab0b81c84d3c243acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1276220215,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1276220215,
+    "wof:lastmodified":1537659051,
+    "wof:name":"Yuljeon",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.01004,
+    36.77282,
+    128.01004,
+    36.77282
+],
+  "geometry": {"coordinates":[128.01004,36.77282],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193261721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.71585,36.52158,128.71585,36.52158",
+    "geom:latitude":36.52158,
+    "geom:longitude":128.71585,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Naeri",
+    "gn:country_code":"KR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272203,
+    "gn:latitude":36.52158,
+    "gn:longitude":128.71585,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Naeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272203
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3ba5049f54b4f6beb9995e76d27903cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1193261721,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193261721,
+    "wof:lastmodified":1537659316,
+    "wof:name":"Naeri",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.71585,
+    36.52158,
+    128.71585,
+    36.52158
+],
+  "geometry": {"coordinates":[128.71584999999999,36.52158],"type":"Point"}
+}

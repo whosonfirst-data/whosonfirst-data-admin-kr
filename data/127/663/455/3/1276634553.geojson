@@ -1,0 +1,70 @@
+{
+  "id": 1276634553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.10887,38.04407,127.10887,38.04407",
+    "geom:latitude":38.04407,
+    "geom:longitude":127.10887,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gyean",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865833,
+    "gn:latitude":38.04407,
+    "gn:longitude":127.10887,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gyean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacc4\uc548"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865833
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa0a5bb41a23848ff72459fe7cb63a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1276634553,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276634553,
+    "wof:lastmodified":1537658952,
+    "wof:name":"Gyean",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.10887,
+    38.04407,
+    127.10887,
+    38.04407
+],
+  "geometry": {"coordinates":[127.10887,38.04407],"type":"Point"}
+}

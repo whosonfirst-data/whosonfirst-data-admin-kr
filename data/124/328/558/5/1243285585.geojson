@@ -1,0 +1,74 @@
+{
+  "id": 1243285585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.16429,37.76001,128.16429,37.76001",
+    "geom:latitude":37.76001,
+    "geom:longitude":128.16429,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Eumhyanggol",
+    "gn:country_code":"KR",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815577,
+    "gn:latitude":37.76001,
+    "gn:longitude":128.16429,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Eumhyanggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc74c\ud56d\uace1"
+    ],
+    "name:kor_x_variant":[
+        "\u016cmhanggok",
+        "\uc74c\ud5a5\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815577
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb359683ea1f2ff5104385f0e943bc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1243285585,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243285585,
+    "wof:lastmodified":1537658058,
+    "wof:name":"Eumhyanggol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.16429,
+    37.76001,
+    128.16429,
+    37.76001
+],
+  "geometry": {"coordinates":[128.16428999999999,37.76001],"type":"Point"}
+}

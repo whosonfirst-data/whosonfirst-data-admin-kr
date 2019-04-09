@@ -1,0 +1,73 @@
+{
+  "id": 1226828123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88083,37.10444,126.88083,37.10444",
+    "geom:latitude":37.10444,
+    "geom:longitude":126.88083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Haech'ang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364435,
+    "gn:latitude":37.10444,
+    "gn:longitude":126.88083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haech\u2019ang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\ucc3d\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Haech\u2019ang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364435
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"642d49492b4fbaad4b90fd3890d1d10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1226828123,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226828123,
+    "wof:lastmodified":1537657082,
+    "wof:name":"Haech'ang-ni",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88083,
+    37.10444,
+    126.88083,
+    37.10444
+],
+  "geometry": {"coordinates":[126.88083,37.10444],"type":"Point"}
+}

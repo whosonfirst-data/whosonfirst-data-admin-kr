@@ -1,0 +1,73 @@
+{
+  "id": 1343382979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0073,37.5329,128.0073,37.5329",
+    "geom:latitude":37.5329,
+    "geom:longitude":128.0073,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Podong-mal",
+    "gn:country_code":"KR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817166,
+    "gn:latitude":37.5329,
+    "gn:longitude":128.0073,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fd\u014fng-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc84\ub369\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "P\u014fd\u014fng-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817166
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c3ba22b6b46a003165f022952d865b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473623,
+            "locality_id":1343382979,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343382979,
+    "wof:lastmodified":1537658112,
+    "wof:name":"Podong-mal",
+    "wof:parent_id":890473623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0073,
+    37.5329,
+    128.0073,
+    37.5329
+],
+  "geometry": {"coordinates":[128.00729999999999,37.5329],"type":"Point"}
+}

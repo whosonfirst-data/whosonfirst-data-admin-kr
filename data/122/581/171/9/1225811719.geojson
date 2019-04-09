@@ -1,0 +1,71 @@
+{
+  "id": 1225811719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.326,36.7325,126.326,36.7325",
+    "geom:latitude":36.7325,
+    "geom:longitude":126.326,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Anmasil",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807914,
+    "gn:latitude":36.7325,
+    "gn:longitude":126.326,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Anmasil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\ub9c8\uc2e4",
+        "Anmasil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807914
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d63a87ec97fd4d08bef1901a593a024d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1225811719,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1225811719,
+    "wof:lastmodified":1537657807,
+    "wof:name":"Anmasil",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.326,
+    36.7325,
+    126.326,
+    36.7325
+],
+  "geometry": {"coordinates":[126.32599999999999,36.7325],"type":"Point"}
+}

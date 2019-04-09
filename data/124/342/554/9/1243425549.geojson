@@ -1,0 +1,74 @@
+{
+  "id": 1243425549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63279,37.71807,126.63279,37.71807",
+    "geom:latitude":37.71807,
+    "geom:longitude":126.63279,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taesandong",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1903422,
+    "gn:latitude":37.71807,
+    "gn:longitude":126.63279,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Taesandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0dc\uc0b0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "T\u2019aesan",
+        "\ud0dc\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1903422
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"25a435397eb35e0e444f1e354ad90263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472445,
+            "locality_id":1243425549,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243425549,
+    "wof:lastmodified":1537656951,
+    "wof:name":"Taesandong",
+    "wof:parent_id":890472445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63279,
+    37.71807,
+    126.63279,
+    37.71807
+],
+  "geometry": {"coordinates":[126.63279,37.71807],"type":"Point"}
+}

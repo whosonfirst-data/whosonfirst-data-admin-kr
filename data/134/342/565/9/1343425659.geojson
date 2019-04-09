@@ -1,0 +1,72 @@
+{
+  "id": 1343425659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5001,35.60004,128.5001,35.60004",
+    "geom:latitude":35.60004,
+    "geom:longitude":128.5001,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Jungmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903320,
+    "gn:latitude":35.60004,
+    "gn:longitude":128.5001,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Jungmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ub9c8\uc744",
+        "Chung-ma\u016dl",
+        "Jungmaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903320
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"73c43b184ba28395a91d3bcde814c516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473621,
+            "locality_id":1343425659,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343425659,
+    "wof:lastmodified":1537658844,
+    "wof:name":"Jungmaeul",
+    "wof:parent_id":890473621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5001,
+    35.60004,
+    128.5001,
+    35.60004
+],
+  "geometry": {"coordinates":[128.5001,35.60004],"type":"Point"}
+}

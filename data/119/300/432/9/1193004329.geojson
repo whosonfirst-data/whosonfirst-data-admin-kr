@@ -1,0 +1,78 @@
+{
+  "id": 1193004329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.54214,37.2197,127.54214,37.2197",
+    "geom:latitude":37.2197,
+    "geom:longitude":127.54214,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Changgol",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846588,
+    "gn:latitude":37.2197,
+    "gn:longitude":127.54214,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Changgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\uace8"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019ang-gol"
+    ],
+    "name:und_x_variant":[
+        "S\u014dd\u014d",
+        "Ch\u2019ang-dong",
+        "Changgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846588
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e8e2a13e75fb2515a67e9b5c8dfa40d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1193004329,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193004329,
+    "wof:lastmodified":1537656708,
+    "wof:name":"Changgol",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.54214,
+    37.2197,
+    127.54214,
+    37.2197
+],
+  "geometry": {"coordinates":[127.54214,37.2197],"type":"Point"}
+}

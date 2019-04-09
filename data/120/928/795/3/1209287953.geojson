@@ -1,0 +1,68 @@
+{
+  "id": 1209287953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.64923,37.04931,128.64923,37.04931",
+    "geom:latitude":37.04931,
+    "geom:longitude":128.64923,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jungma",
+    "gn:country_code":"KR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793882,
+    "gn:latitude":37.04931,
+    "gn:longitude":128.64923,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Jungma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\ub9c8"
+    ],
+    "name:und_x_variant":[
+        "Chungma",
+        "Jungma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793882
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c2822a86271d664644380faa7b2d4490",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287953
+        }
+    ],
+    "wof:id":1209287953,
+    "wof:lastmodified":1537657479,
+    "wof:name":"Jungma",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.64923000000002,
+    37.04931,
+    128.64923000000002,
+    37.04931
+],
+  "geometry": {"coordinates":[128.64923000000002,37.04931],"type":"Point"}
+}

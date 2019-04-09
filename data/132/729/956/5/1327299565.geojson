@@ -1,0 +1,70 @@
+{
+  "id": 1327299565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.78331,35.05716,126.78331,35.05716",
+    "geom:latitude":35.05716,
+    "geom:longitude":126.78331,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Wongak",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192251,
+    "gn:latitude":35.05716,
+    "gn:longitude":126.78331,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Wongak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uac01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192251
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0e6d65d972f4f6e36b63acf161d23017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472185,
+            "locality_id":1327299565,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1327299565,
+    "wof:lastmodified":1537659223,
+    "wof:name":"Wongak",
+    "wof:parent_id":890472185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.78331,
+    35.05716,
+    126.78331,
+    35.05716
+],
+  "geometry": {"coordinates":[126.78331,35.05716],"type":"Point"}
+}

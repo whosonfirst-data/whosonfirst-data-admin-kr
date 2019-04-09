@@ -1,0 +1,75 @@
+{
+  "id": 1225916023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6143,34.84316,126.6143,34.84316",
+    "geom:latitude":34.84316,
+    "geom:longitude":126.6143,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bonghojeong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838899,
+    "gn:latitude":34.84316,
+    "gn:longitude":126.6143,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bonghojeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\ud638\uc815"
+    ],
+    "name:und_x_variant":[
+        "Pongho-ri",
+        "Ponghoj\u014fng",
+        "Bonghojeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838899
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9b57c0bbe98bb9f8d2e0a46580cfcd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1225916023,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225916023,
+    "wof:lastmodified":1537656314,
+    "wof:name":"Bonghojeong",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6143,
+    34.84316,
+    126.6143,
+    34.84316
+],
+  "geometry": {"coordinates":[126.6143,34.84316],"type":"Point"}
+}

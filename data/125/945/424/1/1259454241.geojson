@@ -1,0 +1,74 @@
+{
+  "id": 1259454241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25727,37.20407,127.25727,37.20407",
+    "geom:latitude":37.20407,
+    "geom:longitude":127.25727,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Naeeodun",
+    "gn:country_code":"KR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896968,
+    "gn:latitude":37.20407,
+    "gn:longitude":127.25727,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Naeeodun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\uc5b4\ub454"
+    ],
+    "name:kor_x_variant":[
+        "Nae\u014fdun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896968
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fedcd2a5541e5af1b7fac5a820354ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1259454241,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259454241,
+    "wof:lastmodified":1537656921,
+    "wof:name":"Naeeodun",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25727,
+    37.20407,
+    127.25727,
+    37.20407
+],
+  "geometry": {"coordinates":[127.25727000000001,37.20407],"type":"Point"}
+}

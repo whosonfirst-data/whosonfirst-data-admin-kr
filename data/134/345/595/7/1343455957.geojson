@@ -1,0 +1,70 @@
+{
+  "id": 1343455957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.41596,38.47521,128.41596,38.47521",
+    "geom:latitude":38.47521,
+    "geom:longitude":128.41596,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haksan",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7573915,
+    "gn:latitude":38.47521,
+    "gn:longitude":128.41596,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Haksan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud559\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7573915
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9c75656525208d1129c8d5ab5da5ab93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1343455957,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343455957,
+    "wof:lastmodified":1537658878,
+    "wof:name":"Haksan",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.41596,
+    38.47521,
+    128.41596,
+    38.47521
+],
+  "geometry": {"coordinates":[128.41596000000001,38.47521],"type":"Point"}
+}

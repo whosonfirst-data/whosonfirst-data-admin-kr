@@ -1,0 +1,65 @@
+{
+  "id": 1209197713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3726,36.3751,128.3726,36.3751",
+    "geom:latitude":36.3751,
+    "geom:longitude":128.3726,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sonhak",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890286,
+    "gn:latitude":36.3751,
+    "gn:longitude":128.3726,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fnhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc120\ud559",
+        "S\u014fnhak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890286
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7c7fa88a83ca0fa92e6d6595450e9ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209197713
+        }
+    ],
+    "wof:id":1209197713,
+    "wof:lastmodified":1537658482,
+    "wof:name":"Sonhak",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3726,
+    36.3751,
+    128.3726,
+    36.3751
+],
+  "geometry": {"coordinates":[128.37260000000001,36.3751],"type":"Point"}
+}

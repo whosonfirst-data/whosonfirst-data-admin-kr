@@ -1,0 +1,67 @@
+{
+  "id": 1293001979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74083,35.89611,126.74083,35.89611",
+    "geom:latitude":35.89611,
+    "geom:longitude":126.74083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oksam",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1933135,
+    "gn:latitude":35.89611,
+    "gn:longitude":126.74083,
+    "gn:modification_date":"2004-02-05",
+    "gn:name":"Oksam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1933135
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3d8621dec3853c1577eb1a6d91a8d6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1293001979,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1293001979,
+    "wof:lastmodified":1536989116,
+    "wof:name":"Oksam",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74083,
+    35.89611,
+    126.74083,
+    35.89611
+],
+  "geometry": {"coordinates":[126.74083,35.89611],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226733123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.68013,36.65955,128.68013,36.65955",
+    "geom:latitude":36.65955,
+    "geom:longitude":128.68013,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Oksangol",
+    "gn:country_code":"KR",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255883,
+    "gn:latitude":36.65955,
+    "gn:longitude":128.68013,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Oksangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc625\uc0b0\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255883
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"28380df57b8a803e0155eedd100ba660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1226733123,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226733123,
+    "wof:lastmodified":1537659287,
+    "wof:name":"Oksangol",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.68013,
+    36.65955,
+    128.68013,
+    36.65955
+],
+  "geometry": {"coordinates":[128.68012999999999,36.65955],"type":"Point"}
+}

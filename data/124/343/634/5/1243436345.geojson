@@ -1,0 +1,78 @@
+{
+  "id": 1243436345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0139,34.93668,127.0139,34.93668",
+    "geom:latitude":34.93668,
+    "geom:longitude":127.0139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sorijil",
+    "gn:country_code":"KR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835912,
+    "gn:latitude":34.93668,
+    "gn:longitude":127.0139,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Sorijil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\ub9ac\uc2e4"
+    ],
+    "name:kor_x_variant":[
+        "\uc18c\ub9ac\uc9c8"
+    ],
+    "name:und_x_variant":[
+        "S\u014fnggong-ni",
+        "Sorisil",
+        "Sorijil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835912
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b844adb9272dffcf642f05fc33539e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1243436345,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243436345,
+    "wof:lastmodified":1537656161,
+    "wof:name":"Sorijil",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0139,
+    34.93668,
+    127.0139,
+    34.93668
+],
+  "geometry": {"coordinates":[127.01390000000001,34.93668],"type":"Point"}
+}

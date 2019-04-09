@@ -1,0 +1,72 @@
+{
+  "id": 1327245233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5275,33.46889,126.5275,33.46889",
+    "geom:latitude":33.46889,
+    "geom:longitude":126.5275,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ara-dong",
+    "gn:country_code":"KR",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846852,
+    "gn:latitude":33.46889,
+    "gn:longitude":126.5275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ara-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014fma-dong",
+        "Ara-ri",
+        "Ara-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846852
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b6a9e87f6d85fe10bf8d8737011090e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1327245233,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1327245233,
+    "wof:lastmodified":1537656722,
+    "wof:name":"Ara-dong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5275,
+    33.46889,
+    126.5275,
+    33.46889
+],
+  "geometry": {"coordinates":[126.5275,33.46889],"type":"Point"}
+}

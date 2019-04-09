@@ -1,0 +1,74 @@
+{
+  "id": 1293769965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2303,37.5374,127.2303,37.5374",
+    "geom:latitude":37.5374,
+    "geom:longitude":127.2303,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Anchangmoru",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802881,
+    "gn:latitude":37.5374,
+    "gn:longitude":127.2303,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Anchangmoru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\ucc3d\ubaa8\ub8e8"
+    ],
+    "name:und_x_variant":[
+        "\uc548\ucc3d\ubaa8\ub8e8",
+        "Anchangmoru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802881
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c7c6ad2cbf752a446b7ecde60fce5dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1293769965,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293769965,
+    "wof:lastmodified":1537657760,
+    "wof:name":"Anchangmoru",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2303,
+    37.5374,
+    127.2303,
+    37.5374
+],
+  "geometry": {"coordinates":[127.2303,37.5374],"type":"Point"}
+}

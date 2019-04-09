@@ -1,0 +1,70 @@
+{
+  "id": 1209989969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.30896,36.37279,129.30896,36.37279",
+    "geom:latitude":36.37279,
+    "geom:longitude":129.30896,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Obongdong",
+    "gn:country_code":"KR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245332,
+    "gn:latitude":36.37279,
+    "gn:longitude":129.30896,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Obongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ubd09\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245332
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c515832f5cf79688246e4d493511ae21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1209989969,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209989969,
+    "wof:lastmodified":1537659244,
+    "wof:name":"Obongdong",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.30896,
+    36.37279,
+    129.30896,
+    36.37279
+],
+  "geometry": {"coordinates":[129.30896000000001,36.37279],"type":"Point"}
+}

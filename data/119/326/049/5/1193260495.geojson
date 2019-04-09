@@ -1,0 +1,77 @@
+{
+  "id": 1193260495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.84867,34.3195,126.84867,34.3195",
+    "geom:latitude":34.3195,
+    "geom:longitude":126.84867,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wolburi",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833369,
+    "gn:latitude":34.3195,
+    "gn:longitude":126.84867,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Wolburi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\ubd80\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "W\u014flbu-ri"
+    ],
+    "name:und_x_variant":[
+        "W\u014flbok-tong",
+        "Wolburi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833369
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"012905f34b9faeb4fb0665c2c7410b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1193260495,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193260495,
+    "wof:lastmodified":1537656028,
+    "wof:name":"Wolburi",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.84867,
+    34.3195,
+    126.84867,
+    34.3195
+],
+  "geometry": {"coordinates":[126.84867,34.3195],"type":"Point"}
+}

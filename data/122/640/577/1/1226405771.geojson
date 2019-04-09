@@ -1,0 +1,70 @@
+{
+  "id": 1226405771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24593,36.28352,127.24593,36.28352",
+    "geom:latitude":36.28352,
+    "geom:longitude":127.24593,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yeonhwadong",
+    "gn:country_code":"KR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10913504,
+    "gn:latitude":36.28352,
+    "gn:longitude":127.24593,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Yeonhwadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\ud654\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10913504
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af6086abd3eb4902e158f238abcce409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472515,
+            "locality_id":1226405771,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226405771,
+    "wof:lastmodified":1537659086,
+    "wof:name":"Yeonhwadong",
+    "wof:parent_id":890472515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24593,
+    36.28352,
+    127.24593,
+    36.28352
+],
+  "geometry": {"coordinates":[127.24593,36.28352],"type":"Point"}
+}

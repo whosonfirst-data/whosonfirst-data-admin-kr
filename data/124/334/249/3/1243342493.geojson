@@ -1,0 +1,77 @@
+{
+  "id": 1243342493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5564,37.52614,127.5564,37.52614",
+    "geom:latitude":37.52614,
+    "geom:longitude":127.5564,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yeonan",
+    "gn:country_code":"KR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897061,
+    "gn:latitude":37.52614,
+    "gn:longitude":127.5564,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Yeonan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\uc548"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fnan"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fnanmak",
+        "Yeonan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897061
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4b108612ebfdefa4c162266e73e16c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1243342493,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243342493,
+    "wof:lastmodified":1537656927,
+    "wof:name":"Yeonan",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5564,
+    37.52614000000001,
+    127.5564,
+    37.52614000000001
+],
+  "geometry": {"coordinates":[127.5564,37.52614000000001],"type":"Point"}
+}

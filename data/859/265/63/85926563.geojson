@@ -1,0 +1,106 @@
+{
+  "id": 85926563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22182025.710234,
+    "geom:bbox":"128.948879,35.106754,128.948879,35.106754",
+    "geom:latitude":35.106754,
+    "geom:longitude":128.948879,
+    "gn:latitude":35.10833,
+    "gn:longitude":128.96167,
+    "iso:country":"KR",
+    "lbl:latitude":35.106754,
+    "lbl:longitude":128.948879,
+    "mps:latitude":35.10966,
+    "mps:longitude":128.944089,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:kor_x_preferred":[
+        "\ud558\ub2e8\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "\ud558\ub2e8\ub3d9"
+    ],
+    "qs:gn_adm0_cc":"KR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1838524,
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Hadan-dong",
+    "qs:local_max":2765,
+    "qs:local_sum":24552,
+    "qs:localhoods":60,
+    "qs:name":"\ud558\ub2e8\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\ubd80\uc0b0",
+    "qs:name_adm2":"\uc0ac\ud558\uad6c",
+    "qs:name_local":"\ubd80\uc0b0",
+    "qs:photo_max":12,
+    "qs:photo_sum":96,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424868,
+    "qs:woe_adm1":2345968,
+    "qs:woe_adm2":28289271,
+    "qs:woe_lau":0,
+    "qs:woe_local":1132447,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        890474617,
+        85673227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979311,
+        "gp:id":28835209,
+        "qs:id":985738
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d7e0a981bc296aba1de1e8ace32fee78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474617,
+            "locality_id":-1,
+            "neighbourhood_id":85926563,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":85926563,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1531938873,
+    "wof:name":"\ud558\ub2e8\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.948879,
+    35.106754,
+    128.948879,
+    35.106754
+],
+  "geometry": {"coordinates":[128.94887900000001,35.106754],"type":"Point"}
+}

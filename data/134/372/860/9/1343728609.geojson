@@ -1,0 +1,72 @@
+{
+  "id": 1343728609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49498,36.21227,127.49498,36.21227",
+    "geom:latitude":36.21227,
+    "geom:longitude":127.49498,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Haengjeong",
+    "gn:country_code":"KR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888064,
+    "gn:latitude":36.21227,
+    "gn:longitude":127.49498,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Haengjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud589\uc815",
+        "Haengj\u014fng",
+        "Haengjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888064
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52740c6721811212be96adba53fbec76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473345,
+            "locality_id":1343728609,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343728609,
+    "wof:lastmodified":1537658410,
+    "wof:name":"Haengjeong",
+    "wof:parent_id":890473345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49498,
+    36.21227,
+    127.49498,
+    36.21227
+],
+  "geometry": {"coordinates":[127.49498,36.21227],"type":"Point"}
+}

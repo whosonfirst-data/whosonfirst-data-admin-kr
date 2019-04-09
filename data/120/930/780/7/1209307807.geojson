@@ -1,0 +1,64 @@
+{
+  "id": 1209307807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.50751,36.67677,127.50751,36.67677",
+    "geom:latitude":36.67677,
+    "geom:longitude":127.50751,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gangdalmal",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308866,
+    "gn:latitude":36.67677,
+    "gn:longitude":127.50751,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Gangdalmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\ub2ec\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308866
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5678d26de591512f000aacded219dabc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209307807
+        }
+    ],
+    "wof:id":1209307807,
+    "wof:lastmodified":1537659016,
+    "wof:name":"Gangdalmal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.50751,
+    36.67677,
+    127.50751,
+    36.67677
+],
+  "geometry": {"coordinates":[127.50751,36.67677],"type":"Point"}
+}

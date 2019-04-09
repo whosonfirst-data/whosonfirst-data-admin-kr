@@ -1,0 +1,72 @@
+{
+  "id": 1209899495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.32869,37.075,129.32869,37.075",
+    "geom:latitude":37.075,
+    "geom:longitude":129.32869,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kumma",
+    "gn:country_code":"KR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883878,
+    "gn:latitude":37.075,
+    "gn:longitude":129.32869,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kumma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad7c\ub9c8",
+        "Kunmal",
+        "Kumma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883878
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d45ac54a56a9a4080b4ad52b6200a634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1209899495,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209899495,
+    "wof:lastmodified":1537656765,
+    "wof:name":"Kumma",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.32869,
+    37.075,
+    129.32869,
+    37.075
+],
+  "geometry": {"coordinates":[129.32868999999999,37.075],"type":"Point"}
+}

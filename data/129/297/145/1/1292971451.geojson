@@ -1,0 +1,67 @@
+{
+  "id": 1292971451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.07806,35.92028,129.07806,35.92028",
+    "geom:latitude":35.92028,
+    "geom:longitude":129.07806,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chungmaul",
+    "gn:country_code":"KR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900741,
+    "gn:latitude":35.92028,
+    "gn:longitude":129.07806,
+    "gn:modification_date":"1997-07-21",
+    "gn:name":"Chungma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900741
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a74c0007250f19890654c997cfa63f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1292971451,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1292971451,
+    "wof:lastmodified":1537032634,
+    "wof:name":"Chungmaul",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.07806000000002,
+    35.92028,
+    129.07806000000002,
+    35.92028
+],
+  "geometry": {"coordinates":[129.07806000000002,35.92028],"type":"Point"}
+}

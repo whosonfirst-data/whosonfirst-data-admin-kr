@@ -1,0 +1,72 @@
+{
+  "id": 1309705473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.25,37.21667,128.25,37.21667",
+    "geom:latitude":37.21667,
+    "geom:longitude":128.25,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kuram",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842003,
+    "gn:latitude":37.21667,
+    "gn:longitude":128.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutsugan",
+        "Kuram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842003
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"210a13ef685d25060e323015b1d638e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1309705473,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1309705473,
+    "wof:lastmodified":1537656474,
+    "wof:name":"Kuram",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.25,
+    37.21667,
+    128.25,
+    37.21667
+],
+  "geometry": {"coordinates":[128.25,37.21667],"type":"Point"}
+}

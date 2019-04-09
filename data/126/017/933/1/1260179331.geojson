@@ -1,0 +1,77 @@
+{
+  "id": 1260179331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.03684,37.97859,128.03684,37.97859",
+    "geom:latitude":37.97859,
+    "geom:longitude":128.03684,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Doraegol",
+    "gn:country_code":"KR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815424,
+    "gn:latitude":37.97859,
+    "gn:longitude":128.03684,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Doraegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ub798\uace8"
+    ],
+    "name:kor_x_variant":[
+        "\ub3c4\ub798\uace8"
+    ],
+    "name:und_x_variant":[
+        "Porae-gol",
+        "Doraegol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815424
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6b6068234d268a7111b4b0a9fac60723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1260179331,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1260179331,
+    "wof:lastmodified":1537658053,
+    "wof:name":"Doraegol",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.03683999999998,
+    37.97859,
+    128.03683999999998,
+    37.97859
+],
+  "geometry": {"coordinates":[128.03683999999998,37.97859],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209607369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53892,37.7979,127.53892,37.7979",
+    "geom:latitude":37.7979,
+    "geom:longitude":127.53892,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saegol",
+    "gn:country_code":"KR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802142,
+    "gn:latitude":37.7979,
+    "gn:longitude":127.53892,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Saegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c8\uace8",
+        "Saegol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802142
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1e2de1346f20a736472da56a4fd58168",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209607369
+        }
+    ],
+    "wof:id":1209607369,
+    "wof:lastmodified":1537657727,
+    "wof:name":"Saegol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53892,
+    37.7979,
+    127.53892,
+    37.7979
+],
+  "geometry": {"coordinates":[127.53892,37.7979],"type":"Point"}
+}

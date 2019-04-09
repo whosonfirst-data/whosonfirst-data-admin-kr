@@ -1,0 +1,72 @@
+{
+  "id": 1293747033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3787,36.5231,126.3787,36.5231",
+    "geom:latitude":36.5231,
+    "geom:longitude":126.3787,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Pyongp'ungi",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838364,
+    "gn:latitude":36.5231,
+    "gn:longitude":126.3787,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Py\u014fngp\u2019ungi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Py\u014fngp\u2019ung-ni",
+        "\ubcd1\ud48d\uc774",
+        "Py\u014fngp\u2019ungi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838364
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b814cd780d3619fc29e7c7a7cc6b98ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1293747033,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293747033,
+    "wof:lastmodified":1537656289,
+    "wof:name":"Pyongp'ungi",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3787,
+    36.5231,
+    126.3787,
+    36.5231
+],
+  "geometry": {"coordinates":[126.37869999999999,36.5231],"type":"Point"}
+}

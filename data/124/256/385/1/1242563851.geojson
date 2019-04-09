@@ -1,0 +1,74 @@
+{
+  "id": 1242563851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19935,37.53425,127.19935,37.53425",
+    "geom:latitude":37.53425,
+    "geom:longitude":127.19935,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Deokpung il-dong",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802862,
+    "gn:latitude":37.53425,
+    "gn:longitude":127.19935,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Deokpung il-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ud48d1\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\ub355\ud48d1\ub3d9",
+        "Deokpung il-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802862
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9496182ca0e8769803a26cbe0c411ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1242563851,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242563851,
+    "wof:lastmodified":1537657759,
+    "wof:name":"Deokpung il-dong",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19935,
+    37.53425,
+    127.19935,
+    37.53425
+],
+  "geometry": {"coordinates":[127.19935,37.53425],"type":"Point"}
+}

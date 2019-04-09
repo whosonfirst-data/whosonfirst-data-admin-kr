@@ -1,0 +1,77 @@
+{
+  "id": 1310069523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53667,34.1775,126.53667,34.1775",
+    "geom:latitude":34.1775,
+    "geom:longitude":126.53667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chongdong",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845678,
+    "gn:latitude":34.1775,
+    "gn:longitude":126.53667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u014fngdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u014fngdong"
+    ],
+    "name:und_x_variant":[
+        "Teit\u014d-ri",
+        "Ch\u014fngdong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845678
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96e86a9760a00a99832d44bc14a05d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1310069523,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310069523,
+    "wof:lastmodified":1537656660,
+    "wof:name":"Chongdong",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53667,
+    34.1775,
+    126.53667,
+    34.1775
+],
+  "geometry": {"coordinates":[126.53667,34.1775],"type":"Point"}
+}

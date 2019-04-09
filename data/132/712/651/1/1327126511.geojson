@@ -1,0 +1,76 @@
+{
+  "id": 1327126511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.88306,37.30944,127.88306,37.30944",
+    "geom:latitude":37.30944,
+    "geom:longitude":127.88306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hasungan-dong",
+    "gn:country_code":"KR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890141,
+    "gn:latitude":37.30944,
+    "gn:longitude":127.88306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Has\u016dngan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Has\u016dngan-dong"
+    ],
+    "name:kor_x_variant":[
+        "\ud558\uc2b9\uc548\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "S\u016dngan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890141
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"079f952c067119e34772b4fd13ec459d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1327126511,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327126511,
+    "wof:lastmodified":1537656817,
+    "wof:name":"Hasungan-dong",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.88306,
+    37.30944,
+    127.88306,
+    37.30944
+],
+  "geometry": {"coordinates":[127.88306,37.30944],"type":"Point"}
+}

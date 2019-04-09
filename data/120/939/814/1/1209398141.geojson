@@ -1,0 +1,65 @@
+{
+  "id": 1209398141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.443,36.7886,129.443,36.7886",
+    "geom:latitude":36.7886,
+    "geom:longitude":129.443,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sopsil",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879697,
+    "gn:latitude":36.7886,
+    "gn:longitude":129.443,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fpsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc12d\uc2e4",
+        "S\u014fpsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879697
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0effcc0d563b09822d1a4da0568878da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209398141
+        }
+    ],
+    "wof:id":1209398141,
+    "wof:lastmodified":1537658233,
+    "wof:name":"Sopsil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.44299999999998,
+    36.7886,
+    129.44299999999998,
+    36.7886
+],
+  "geometry": {"coordinates":[129.44299999999998,36.7886],"type":"Point"}
+}

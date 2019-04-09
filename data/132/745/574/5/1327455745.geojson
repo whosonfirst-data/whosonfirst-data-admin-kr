@@ -1,0 +1,70 @@
+{
+  "id": 1327455745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20528,38.2428,127.20528,38.2428",
+    "geom:latitude":38.2428,
+    "geom:longitude":127.20528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hwajeolli",
+    "gn:country_code":"KR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9864076,
+    "gn:latitude":38.2428,
+    "gn:longitude":127.20528,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Hwajeolli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc804\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9864076
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"86dae92e0edccaeda448342d9021f58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1327455745,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327455745,
+    "wof:lastmodified":1537658947,
+    "wof:name":"Hwajeolli",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20528,
+    38.2428,
+    127.20528,
+    38.2428
+],
+  "geometry": {"coordinates":[127.20528,38.2428],"type":"Point"}
+}

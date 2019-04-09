@@ -1,0 +1,70 @@
+{
+  "id": 1260245761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.94857,35.34594,126.94857,35.34594",
+    "geom:latitude":35.34594,
+    "geom:longitude":126.94857,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gonae",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170662,
+    "gn:latitude":35.34594,
+    "gn:longitude":126.94857,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gonae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ub0b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170662
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"61f79896b75f1d82dccff65a7adf9ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1260245761,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260245761,
+    "wof:lastmodified":1537659192,
+    "wof:name":"Gonae",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.94857,
+    35.34594,
+    126.94857,
+    35.34594
+],
+  "geometry": {"coordinates":[126.94857,35.34594],"type":"Point"}
+}

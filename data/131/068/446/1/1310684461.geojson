@@ -1,0 +1,72 @@
+{
+  "id": 1310684461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.41139,37.04361,129.41139,37.04361",
+    "geom:latitude":37.04361,
+    "geom:longitude":129.41139,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ch'op'yong",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845404,
+    "gn:latitude":37.04361,
+    "gn:longitude":129.41139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u2019op\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019op\u2019y\u014fng-dong",
+        "Ch\u2019op\u2019y\u014fng",
+        "\ucd08\ud3c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845404
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3a839d108c74f1e73509641dfc572a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1310684461,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310684461,
+    "wof:lastmodified":1537656647,
+    "wof:name":"Ch'op'yong",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.41138999999998,
+    37.04361,
+    129.41138999999998,
+    37.04361
+],
+  "geometry": {"coordinates":[129.41138999999998,37.04361],"type":"Point"}
+}

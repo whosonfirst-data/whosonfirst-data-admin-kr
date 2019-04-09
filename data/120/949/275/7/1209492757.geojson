@@ -1,0 +1,64 @@
+{
+  "id": 1209492757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46449,33.461,126.46449,33.461",
+    "geom:latitude":33.461,
+    "geom:longitude":126.46449,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hwarang",
+    "gn:country_code":"KR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10154663,
+    "gn:latitude":33.461,
+    "gn:longitude":126.46449,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Hwarang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\ub791"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10154663
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae3fbbf92c361c0a88a50e8984f05054",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209492757
+        }
+    ],
+    "wof:id":1209492757,
+    "wof:lastmodified":1537658995,
+    "wof:name":"Hwarang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46448999999998,
+    33.461,
+    126.46448999999998,
+    33.461
+],
+  "geometry": {"coordinates":[126.46448999999998,33.461],"type":"Point"}
+}

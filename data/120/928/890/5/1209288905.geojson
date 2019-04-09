@@ -1,0 +1,65 @@
+{
+  "id": 1209288905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37672,35.39235,128.37672,35.39235",
+    "geom:latitude":35.39235,
+    "geom:longitude":128.37672,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sinam",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898396,
+    "gn:latitude":35.39235,
+    "gn:longitude":128.37672,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sinam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\uc554",
+        "Sinam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898396
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0caff8ee1065c44449df8f6c8c7fb31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209288905
+        }
+    ],
+    "wof:id":1209288905,
+    "wof:lastmodified":1537658714,
+    "wof:name":"Sinam",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37672,
+    35.39235,
+    128.37672,
+    35.39235
+],
+  "geometry": {"coordinates":[128.37672000000001,35.39235],"type":"Point"}
+}

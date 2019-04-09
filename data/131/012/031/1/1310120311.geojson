@@ -1,0 +1,76 @@
+{
+  "id": 1310120311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.32198,35.10587,126.32198,35.10587",
+    "geom:latitude":35.10587,
+    "geom:longitude":126.32198,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oryuchon",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839676,
+    "gn:latitude":35.10587,
+    "gn:longitude":126.32198,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Oryuchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ub958\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Oyu-dong",
+        "Oryu-dong",
+        "Oryu-ch\u2019on",
+        "Oryuchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839676
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a9c06b47ec4a48aef65a7edbbba52418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1310120311,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310120311,
+    "wof:lastmodified":1537656358,
+    "wof:name":"Oryuchon",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.32198,
+    35.10587,
+    126.32198,
+    35.10587
+],
+  "geometry": {"coordinates":[126.32198,35.10587],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327355315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5825,38.18694,128.5825,38.18694",
+    "geom:latitude":38.18694,
+    "geom:longitude":128.5825,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nonsal-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840208,
+    "gn:latitude":38.18694,
+    "gn:longitude":128.5825,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nonsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub17c\uc0b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Nonsan-ni",
+        "Nonsal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840208
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b945832c49c7dfed0c69f8239dec2741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476055,
+            "locality_id":1327355315,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327355315,
+    "wof:lastmodified":1537656384,
+    "wof:name":"Nonsal-li",
+    "wof:parent_id":890476055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5825,
+    38.18694,
+    128.5825,
+    38.18694
+],
+  "geometry": {"coordinates":[128.58250000000001,38.18694],"type":"Point"}
+}

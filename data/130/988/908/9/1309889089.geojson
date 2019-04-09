@@ -1,0 +1,70 @@
+{
+  "id": 1309889089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.52661,36.71259,128.52661,36.71259",
+    "geom:latitude":36.71259,
+    "geom:longitude":128.52661,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Saemal",
+    "gn:country_code":"KR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255133,
+    "gn:latitude":36.71259,
+    "gn:longitude":128.52661,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Saemal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255133
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"31784b8ee7c517e087fe7519d9b4e0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1309889089,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309889089,
+    "wof:lastmodified":1537659280,
+    "wof:name":"Saemal",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.52661,
+    36.71259000000001,
+    128.52661,
+    36.71259000000001
+],
+  "geometry": {"coordinates":[128.52661000000001,36.71259000000001],"type":"Point"}
+}

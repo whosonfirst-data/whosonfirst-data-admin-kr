@@ -1,0 +1,74 @@
+{
+  "id": 1243349587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.12099,37.9003,127.12099,37.9003",
+    "geom:latitude":37.9003,
+    "geom:longitude":127.12099,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dongjeom",
+    "gn:country_code":"KR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833919,
+    "gn:latitude":37.9003,
+    "gn:longitude":127.12099,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dongjeom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u014dten",
+        "T\u2019ungj\u014fm",
+        "\ub3d9\uc810",
+        "Tongj\u014fm",
+        "Dongjeom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833919
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e096678cb8ccd9a1d33f924c582e5f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476241,
+            "locality_id":1243349587,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243349587,
+    "wof:lastmodified":1537656057,
+    "wof:name":"Dongjeom",
+    "wof:parent_id":890476241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.12099,
+    37.9003,
+    127.12099,
+    37.9003
+],
+  "geometry": {"coordinates":[127.12099000000001,37.9003],"type":"Point"}
+}

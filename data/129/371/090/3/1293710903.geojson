@@ -1,0 +1,76 @@
+{
+  "id": 1293710903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51131,38.32211,128.51131,38.32211",
+    "geom:latitude":38.32211,
+    "geom:longitude":128.51131,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Injeong Illi",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869095,
+    "gn:latitude":38.32211,
+    "gn:longitude":128.51131,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Injeong Illi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc778\uc815\uc77c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "\uc778\uc8151\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Injeong 1 Ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869095
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"95e64d2605f4500d41566032b8de89a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1293710903,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293710903,
+    "wof:lastmodified":1537658961,
+    "wof:name":"Injeong Illi",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51131,
+    38.32211,
+    128.51131,
+    38.32211
+],
+  "geometry": {"coordinates":[128.51131000000001,38.32211],"type":"Point"}
+}

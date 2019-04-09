@@ -1,0 +1,72 @@
+{
+  "id": 1259359675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46808,37.69283,126.46808,37.69283",
+    "geom:latitude":37.69283,
+    "geom:longitude":126.46808,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bakgongjae",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274668,
+    "gn:latitude":37.69283,
+    "gn:longitude":126.46808,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Bakgongjae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc15\uacf5\uc7ac",
+        "Bakgongjae",
+        "Pakkongjae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274668
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1a17e820b0ac5424628301dd8c346bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1259359675,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1259359675,
+    "wof:lastmodified":1537657031,
+    "wof:name":"Bakgongjae",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46808,
+    37.69283,
+    126.46808,
+    37.69283
+],
+  "geometry": {"coordinates":[126.46808,37.69283],"type":"Point"}
+}

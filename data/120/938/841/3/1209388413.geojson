@@ -1,0 +1,64 @@
+{
+  "id": 1209388413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.25624,36.63003,128.25624,36.63003",
+    "geom:latitude":36.63003,
+    "geom:longitude":128.25624,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nongmun",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11253997,
+    "gn:latitude":36.63003,
+    "gn:longitude":128.25624,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Nongmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub179\ubb38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11253997
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"82b71cdfae8b51939452c5f1196963c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209388413
+        }
+    ],
+    "wof:id":1209388413,
+    "wof:lastmodified":1537659266,
+    "wof:name":"Nongmun",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.25624,
+    36.63003,
+    128.25624,
+    36.63003
+],
+  "geometry": {"coordinates":[128.25623999999999,36.63003],"type":"Point"}
+}

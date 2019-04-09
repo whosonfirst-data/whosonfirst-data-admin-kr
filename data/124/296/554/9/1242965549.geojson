@@ -1,0 +1,67 @@
+{
+  "id": 1242965549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.56083,37.395,128.56083,37.395",
+    "geom:latitude":37.395,
+    "geom:longitude":128.56083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haengmae-dong",
+    "gn:country_code":"KR",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889774,
+    "gn:latitude":37.395,
+    "gn:longitude":128.56083,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Haengmae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889774
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"07afbd15e00e75fb8a25b209f370e28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1242965549,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242965549,
+    "wof:lastmodified":1537001179,
+    "wof:name":"Haengmae-dong",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.56083,
+    37.395,
+    128.56083,
+    37.395
+],
+  "geometry": {"coordinates":[128.56083000000001,37.395],"type":"Point"}
+}

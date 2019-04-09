@@ -1,0 +1,73 @@
+{
+  "id": 1343741365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8841,36.9943,126.8841,36.9943",
+    "geom:latitude":36.9943,
+    "geom:longitude":126.8841,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sokchong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833037,
+    "gn:latitude":36.9943,
+    "gn:longitude":126.8841,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u014fkch\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fj\u014fng-ni",
+        "\uc11d\uc815\ub9ac",
+        "W\u014fns\u014fkch\u014fng",
+        "S\u014fkch\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833037
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5779eb3223d792cf2f05d49641cbf813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1343741365,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343741365,
+    "wof:lastmodified":1537656008,
+    "wof:name":"Sokchong-ni",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8841,
+    36.9943,
+    126.8841,
+    36.9943
+],
+  "geometry": {"coordinates":[126.8841,36.9943],"type":"Point"}
+}

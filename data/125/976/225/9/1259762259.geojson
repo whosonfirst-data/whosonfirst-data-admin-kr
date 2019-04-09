@@ -1,0 +1,74 @@
+{
+  "id": 1259762259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01194,37.20528,127.01194,37.20528",
+    "geom:latitude":37.20528,
+    "geom:longitude":127.01194,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Annyeong-ri",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1846926,
+    "gn:latitude":37.20528,
+    "gn:longitude":127.01194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Annyeong-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ally\u014fng-ni",
+        "\uc548\ub155\ub9ac",
+        "Anny\u014fng-ch\u2019on",
+        "Annyeong-ri",
+        "Anny\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846926
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4b7d8f849bbfcfd5be5a51c9fa5f0d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1259762259,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259762259,
+    "wof:lastmodified":1537656728,
+    "wof:name":"Annyeong-ri",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01194,
+    37.20528,
+    127.01194,
+    37.20528
+],
+  "geometry": {"coordinates":[127.01194,37.20528],"type":"Point"}
+}

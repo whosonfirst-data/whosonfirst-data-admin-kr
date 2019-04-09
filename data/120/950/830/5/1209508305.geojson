@@ -1,0 +1,64 @@
+{
+  "id": 1209508305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33027,36.68057,127.33027,36.68057",
+    "geom:latitude":36.68057,
+    "geom:longitude":127.33027,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hadongnim",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349227,
+    "gn:latitude":36.68057,
+    "gn:longitude":127.33027,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hadongnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub3d9\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349227
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"25927009b9071950fd94464e74af1b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209508305
+        }
+    ],
+    "wof:id":1209508305,
+    "wof:lastmodified":1537659023,
+    "wof:name":"Hadongnim",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33027,
+    36.68057,
+    127.33027,
+    36.68057
+],
+  "geometry": {"coordinates":[127.33027,36.68057],"type":"Point"}
+}

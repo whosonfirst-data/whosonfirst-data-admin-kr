@@ -1,0 +1,71 @@
+{
+  "id": 1225831295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24667,37.31306,127.24667,37.31306",
+    "geom:latitude":37.31306,
+    "geom:longitude":127.24667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Habugok",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577391,
+    "gn:latitude":37.31306,
+    "gn:longitude":127.24667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Habugok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ubd80\uace1",
+        "Habugok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577391
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"efbb42719b9daaa346a9d3fe7fec3bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1225831295,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1225831295,
+    "wof:lastmodified":1537657362,
+    "wof:name":"Habugok",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24667,
+    37.31306,
+    127.24667,
+    37.31306
+],
+  "geometry": {"coordinates":[127.24666999999999,37.31306],"type":"Point"}
+}

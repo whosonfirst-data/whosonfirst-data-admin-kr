@@ -1,0 +1,65 @@
+{
+  "id": 1209185335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2811,37.5037,127.2811,37.5037",
+    "geom:latitude":37.5037,
+    "geom:longitude":127.2811,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jeongjigumi",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802814,
+    "gn:latitude":37.5037,
+    "gn:longitude":127.2811,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Jeongjigumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc815\uc9c0\uad6c\ubbf8",
+        "Jeongjigumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802814
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f868e7a356982520add55f000a9f43f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209185335
+        }
+    ],
+    "wof:id":1209185335,
+    "wof:lastmodified":1537657757,
+    "wof:name":"Jeongjigumi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2811,
+    37.5037,
+    127.2811,
+    37.5037
+],
+  "geometry": {"coordinates":[127.2811,37.5037],"type":"Point"}
+}

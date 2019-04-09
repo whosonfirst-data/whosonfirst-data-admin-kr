@@ -1,0 +1,74 @@
+{
+  "id": 1327051843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.72051,38.0193,128.72051,38.0193",
+    "geom:latitude":38.0193,
+    "geom:longitude":128.72051,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Balgandong",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7520558,
+    "gn:latitude":38.0193,
+    "gn:longitude":128.72051,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Balgandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc1c\uac04\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Palgan-dong",
+        "Balgandong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7520558
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"26104c3e440ff2608a292ff32bbc4eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1327051843,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327051843,
+    "wof:lastmodified":1537658876,
+    "wof:name":"Balgandong",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.72051000000002,
+    38.0193,
+    128.72051000000002,
+    38.0193
+],
+  "geometry": {"coordinates":[128.72051000000002,38.0193],"type":"Point"}
+}

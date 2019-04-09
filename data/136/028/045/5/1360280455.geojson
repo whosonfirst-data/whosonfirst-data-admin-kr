@@ -1,0 +1,74 @@
+{
+  "id": 1360280455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.26333,37.31444,129.26333,37.31444",
+    "geom:latitude":37.31444,
+    "geom:longitude":129.26333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Samch'\u014fk-si",
+    "gn:asciiname":"Sonhung",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883780,
+    "gn:latitude":37.31444,
+    "gn:longitude":129.26333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fnh\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fnh\u016dng",
+        "Sinh\u016dng",
+        "\uc120\ud765",
+        "S\u014fnh\u016dng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883780
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e988bdbdaadb8a685f292c369e643663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1360280455,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360280455,
+    "wof:lastmodified":1537656762,
+    "wof:name":"Sonhung",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.26333,
+    37.31444000000001,
+    129.26333,
+    37.31444000000001
+],
+  "geometry": {"coordinates":[129.26333,37.31444000000001],"type":"Point"}
+}

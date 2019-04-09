@@ -1,0 +1,72 @@
+{
+  "id": 1293110077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.78118,35.90576,127.78118,35.90576",
+    "geom:latitude":35.90576,
+    "geom:longitude":127.78118,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Samgong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838025,
+    "gn:latitude":35.90576,
+    "gn:longitude":127.78118,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samgong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\uacf5\ub9ac",
+        "Samgong",
+        "Samgong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838025
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a6f4132f06c5d145860d263ce38c0420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472985,
+            "locality_id":1293110077,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1293110077,
+    "wof:lastmodified":1537656269,
+    "wof:name":"Samgong-ni",
+    "wof:parent_id":890472985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.78118,
+    35.90576,
+    127.78118,
+    35.90576
+],
+  "geometry": {"coordinates":[127.78118000000001,35.90576],"type":"Point"}
+}

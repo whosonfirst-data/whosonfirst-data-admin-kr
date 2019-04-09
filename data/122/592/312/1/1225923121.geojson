@@ -1,0 +1,75 @@
+{
+  "id": 1225923121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19441,37.98336,127.19441,37.98336",
+    "geom:latitude":37.98336,
+    "geom:longitude":127.19441,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mejugol",
+    "gn:country_code":"KR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799991,
+    "gn:latitude":37.98336,
+    "gn:longitude":127.19441,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Mejugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba54\uc8fc\uace8"
+    ],
+    "name:und_x_variant":[
+        "\uba54\uce58\uace8",
+        "Mech\u2019i-gol",
+        "Mejugol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799991
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bd798e03ba647d6c49006d43f6520258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1225923121,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1225923121,
+    "wof:lastmodified":1537657665,
+    "wof:name":"Mejugol",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19441,
+    37.98336,
+    127.19441,
+    37.98336
+],
+  "geometry": {"coordinates":[127.19441,37.98336],"type":"Point"}
+}

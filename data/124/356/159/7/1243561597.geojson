@@ -1,0 +1,71 @@
+{
+  "id": 1243561597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41539,35.58266,127.41539,35.58266",
+    "geom:latitude":35.58266,
+    "geom:longitude":127.41539,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sapsil",
+    "gn:country_code":"KR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876656,
+    "gn:latitude":35.58266,
+    "gn:longitude":127.41539,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sapsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bd\uc2e4",
+        "Sapsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876656
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"452705f26c88a3c44ac0cce272ab74c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1243561597,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1243561597,
+    "wof:lastmodified":1537658141,
+    "wof:name":"Sapsil",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41539,
+    35.58266,
+    127.41539,
+    35.58266
+],
+  "geometry": {"coordinates":[127.41539,35.58266],"type":"Point"}
+}

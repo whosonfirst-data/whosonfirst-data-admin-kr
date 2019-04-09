@@ -1,0 +1,74 @@
+{
+  "id": 1260377041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.37802,37.07176,127.37802,37.07176",
+    "geom:latitude":37.07176,
+    "geom:longitude":127.37802,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ans\u014fng-si",
+    "gn:asciiname":"Wolgokdong",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398980,
+    "gn:latitude":37.07176,
+    "gn:longitude":127.37802,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Wolgokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\uace1\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "W\u014flgok-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398980
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c7e05107a805ea10a86659537a409ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1260377041,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260377041,
+    "wof:lastmodified":1537657203,
+    "wof:name":"Wolgokdong",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.37802,
+    37.07176,
+    127.37802,
+    37.07176
+],
+  "geometry": {"coordinates":[127.37802000000001,37.07176],"type":"Point"}
+}

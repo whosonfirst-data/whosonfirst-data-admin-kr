@@ -1,0 +1,67 @@
+{
+  "id": 1310465765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.85778,34.61111,125.85778,34.61111",
+    "geom:latitude":34.61111,
+    "geom:longitude":125.85778,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sonch'anggumi",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882563,
+    "gn:latitude":34.61111,
+    "gn:longitude":125.85778,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"S\u014fnch\u2019anggumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882563
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"442ddd09eb1aa4e26344ef785bdcbf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1310465765,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310465765,
+    "wof:lastmodified":1536973904,
+    "wof:name":"Sonch'anggumi",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.85778,
+    34.61111,
+    125.85778,
+    34.61111
+],
+  "geometry": {"coordinates":[125.85778000000001,34.61111],"type":"Point"}
+}

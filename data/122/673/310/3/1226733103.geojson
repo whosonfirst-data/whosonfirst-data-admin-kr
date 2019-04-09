@@ -1,0 +1,70 @@
+{
+  "id": 1226733103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.48885,36.0161,129.48885,36.0161",
+    "geom:latitude":36.0161,
+    "geom:longitude":129.48885,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Masan",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11248859,
+    "gn:latitude":36.0161,
+    "gn:longitude":129.48885,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Masan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11248859
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2b0ffc39530c95432e1fa545588d5eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1226733103,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226733103,
+    "wof:lastmodified":1537659253,
+    "wof:name":"Masan",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.48885,
+    36.0161,
+    129.48885,
+    36.0161
+],
+  "geometry": {"coordinates":[129.48885000000001,36.0161],"type":"Point"}
+}

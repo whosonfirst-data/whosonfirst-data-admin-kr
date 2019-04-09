@@ -1,0 +1,72 @@
+{
+  "id": 1343533981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.64194,35.78167,128.64194,35.78167",
+    "geom:latitude":35.78167,
+    "geom:longitude":128.64194,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Naengch'ol-li",
+    "gn:country_code":"KR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840599,
+    "gn:latitude":35.78167,
+    "gn:longitude":128.64194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naengch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naengch\u2019\u014fn-dong",
+        "Naengch\u2019\u014fn",
+        "Naengch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840599
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6001bb90a205932227f6b0ae977295f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1343533981,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1343533981,
+    "wof:lastmodified":1537656403,
+    "wof:name":"Naengch'ol-li",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.64193999999998,
+    35.78167,
+    128.64193999999998,
+    35.78167
+],
+  "geometry": {"coordinates":[128.64193999999998,35.78167],"type":"Point"}
+}

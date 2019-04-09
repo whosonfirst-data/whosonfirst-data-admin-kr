@@ -1,0 +1,71 @@
+{
+  "id": 1192989037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.60521,35.64116,128.60521,35.64116",
+    "geom:latitude":35.64116,
+    "geom:longitude":128.60521,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sinbonggi",
+    "gn:country_code":"KR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903246,
+    "gn:latitude":35.64116,
+    "gn:longitude":128.60521,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sinbonggi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\ubd09\uae30",
+        "Sinbonggi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903246
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8dc343d74c6781cb77571e788a18f6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1192989037,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1192989037,
+    "wof:lastmodified":1537658840,
+    "wof:name":"Sinbonggi",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.60521,
+    35.64116,
+    128.60521,
+    35.64116
+],
+  "geometry": {"coordinates":[128.60521,35.64116],"type":"Point"}
+}

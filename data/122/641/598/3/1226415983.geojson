@@ -1,0 +1,72 @@
+{
+  "id": 1226415983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3481,36.4241,128.3481,36.4241",
+    "geom:latitude":36.4241,
+    "geom:longitude":128.3481,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yongsan",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832322,
+    "gn:latitude":36.4241,
+    "gn:longitude":128.3481,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongsan-dong",
+        "Yongsan",
+        "\uc6a9\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832322
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fd15d7f7b4755f55afd3c5c6f0c08b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474631,
+            "locality_id":1226415983,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226415983,
+    "wof:lastmodified":1537655972,
+    "wof:name":"Yongsan",
+    "wof:parent_id":890474631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3481,
+    36.4241,
+    128.3481,
+    36.4241
+],
+  "geometry": {"coordinates":[128.34809999999999,36.4241],"type":"Point"}
+}

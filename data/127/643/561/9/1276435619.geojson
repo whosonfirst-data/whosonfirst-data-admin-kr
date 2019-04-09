@@ -1,0 +1,70 @@
+{
+  "id": 1276435619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.10489,35.30013,129.10489,35.30013",
+    "geom:latitude":35.30013,
+    "geom:longitude":129.10489,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Taehwa",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111595,
+    "gn:latitude":35.30013,
+    "gn:longitude":129.10489,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Taehwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0dc\ud654"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111595
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0a2935692c37e92f8e0f56466990d239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472097,
+            "locality_id":1276435619,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1276435619,
+    "wof:lastmodified":1537659160,
+    "wof:name":"Taehwa",
+    "wof:parent_id":890472097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.10488999999998,
+    35.30013,
+    129.10488999999998,
+    35.30013
+],
+  "geometry": {"coordinates":[129.10488999999998,35.30013],"type":"Point"}
+}

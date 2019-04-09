@@ -1,0 +1,75 @@
+{
+  "id": 1225827293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88966,34.81858,126.88966,34.81858",
+    "geom:latitude":34.81858,
+    "geom:longitude":126.88966,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dongsan",
+    "gn:country_code":"KR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834165,
+    "gn:latitude":34.81858,
+    "gn:longitude":126.88966,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Dongsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Tongsan-ni",
+        "Tongsan",
+        "Dongsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834165
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64053d36600c9793990b1d29e67b8536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1225827293,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225827293,
+    "wof:lastmodified":1537656071,
+    "wof:name":"Dongsan",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88966,
+    34.81858,
+    126.88966,
+    34.81858
+],
+  "geometry": {"coordinates":[126.88966000000001,34.81858],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259560111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.47361,37.71418,126.47361,37.71418",
+    "geom:latitude":37.71418,
+    "geom:longitude":126.47361,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ullegi",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896257,
+    "gn:latitude":37.71418,
+    "gn:longitude":126.47361,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ullegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b8\ub124\uae30"
+    ],
+    "name:und_x_variant":[
+        "Ulnegi",
+        "Ullegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896257
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"88f1d181c93271af3dd0c117060c1dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1259560111,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1259560111,
+    "wof:lastmodified":1537656895,
+    "wof:name":"Ullegi",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.47361,
+    37.71418,
+    126.47361,
+    37.71418
+],
+  "geometry": {"coordinates":[126.47360999999999,37.71418],"type":"Point"}
+}

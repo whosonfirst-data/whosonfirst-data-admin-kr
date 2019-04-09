@@ -1,0 +1,73 @@
+{
+  "id": 1343941127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.4111,36.6019,129.4111,36.6019",
+    "geom:latitude":36.6019,
+    "geom:longitude":129.4111,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hakusekido",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838424,
+    "gn:latitude":36.6019,
+    "gn:longitude":129.4111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hakusekido",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Py\u014fnggok-tong",
+        "Heikoku-d\u014d",
+        "\ubcd1\uace1",
+        "Py\u014fnggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838424
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dfc560dcfd2c178dcbf74aff9115a277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1343941127,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343941127,
+    "wof:lastmodified":1537656292,
+    "wof:name":"Hakusekido",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.4111,
+    36.6019,
+    129.4111,
+    36.6019
+],
+  "geometry": {"coordinates":[129.4111,36.6019],"type":"Point"}
+}

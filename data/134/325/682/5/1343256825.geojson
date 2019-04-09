@@ -1,0 +1,74 @@
+{
+  "id": 1343256825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.1985,37.4134,129.1985,37.4134",
+    "geom:latitude":37.4134,
+    "geom:longitude":129.1985,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kanjitei",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844517,
+    "gn:latitude":37.4134,
+    "gn:longitude":129.1985,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanjitei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanch\u2019ij\u014f",
+        "Hanjimit",
+        "Hanjaemit",
+        "\ud55c\uce58\ubc11",
+        "Hanch\u2019imit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844517
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c7f90d30ab705b855f13771bfe92b895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1343256825,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343256825,
+    "wof:lastmodified":1537656601,
+    "wof:name":"Kanjitei",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.1985,
+    37.4134,
+    129.1985,
+    37.4134
+],
+  "geometry": {"coordinates":[129.1985,37.4134],"type":"Point"}
+}

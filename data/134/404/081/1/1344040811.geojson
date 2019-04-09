@@ -1,0 +1,70 @@
+{
+  "id": 1344040811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.25258,35.92594,129.25258,35.92594",
+    "geom:latitude":35.92594,
+    "geom:longitude":129.25258,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baerakgol",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250384,
+    "gn:latitude":35.92594,
+    "gn:longitude":129.25258,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Baerakgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc30\ub77d\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250384
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ec5ff1ab0fad2bd25112bb3063f9c0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1344040811,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344040811,
+    "wof:lastmodified":1537659257,
+    "wof:name":"Baerakgol",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.25258,
+    35.92594000000001,
+    129.25258,
+    35.92594000000001
+],
+  "geometry": {"coordinates":[129.25257999999999,35.92594000000001],"type":"Point"}
+}

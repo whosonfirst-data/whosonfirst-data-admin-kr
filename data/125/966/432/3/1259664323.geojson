@@ -1,0 +1,76 @@
+{
+  "id": 1259664323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93,37.47056,126.93,37.47056",
+    "geom:latitude":37.47056,
+    "geom:longitude":126.93,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sillim 6-dong",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6572052,
+    "gn:latitude":37.47056,
+    "gn:longitude":126.93,
+    "gn:modification_date":"2014-01-06",
+    "gn:name":"Sillim 6-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sillim 6-dong"
+    ],
+    "name:eng_x_variant":[
+        "Sillim 6(yuk)-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ub9bc6\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890472187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6572052
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"54c95c41ccfa91845f04ea22698610fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472187,
+            "locality_id":1259664323,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1259664323,
+    "wof:lastmodified":1537657219,
+    "wof:name":"Sillim 6-dong",
+    "wof:parent_id":890472187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93,
+    37.47056,
+    126.93,
+    37.47056
+],
+  "geometry": {"coordinates":[126.93000000000001,37.47056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193000365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79366,34.81936,126.79366,34.81936",
+    "geom:latitude":34.81936,
+    "geom:longitude":126.79366,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wonga",
+    "gn:country_code":"KR",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833156,
+    "gn:latitude":34.81936,
+    "gn:longitude":126.79366,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Wonga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uac00"
+    ],
+    "name:und_x_variant":[
+        "W\u014fn\u2019gi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833156
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e6ca26e759bc8b7e34cc4c413a8399b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1193000365,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193000365,
+    "wof:lastmodified":1537656016,
+    "wof:name":"Wonga",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79366,
+    34.81936,
+    126.79366,
+    34.81936
+],
+  "geometry": {"coordinates":[126.79366,34.81936],"type":"Point"}
+}

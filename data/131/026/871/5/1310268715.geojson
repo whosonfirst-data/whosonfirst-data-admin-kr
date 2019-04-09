@@ -1,0 +1,76 @@
+{
+  "id": 1310268715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.15,35.28333,126.15,35.28333",
+    "geom:latitude":35.28333,
+    "geom:longitude":126.15,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jageunmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845881,
+    "gn:latitude":35.28333,
+    "gn:longitude":126.15,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Jageunmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc791\uc740\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fg\u016dn-ma\u016dl",
+        "Ch\u014fg\u016dn-mal",
+        "Soch\u2019on",
+        "Jageunmaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845881
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"40bed75341d3641b8744aefcf4596897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473229,
+            "locality_id":1310268715,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310268715,
+    "wof:lastmodified":1537656671,
+    "wof:name":"Jageunmaeul",
+    "wof:parent_id":890473229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.15,
+    35.28333,
+    126.15,
+    35.28333
+],
+  "geometry": {"coordinates":[126.15000000000001,35.28333],"type":"Point"}
+}

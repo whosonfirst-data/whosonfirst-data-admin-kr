@@ -1,0 +1,72 @@
+{
+  "id": 1260056175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25476,36.39651,127.25476,36.39651",
+    "geom:latitude":36.39651,
+    "geom:longitude":127.25476,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gilman",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888452,
+    "gn:latitude":36.39651,
+    "gn:longitude":127.25476,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Gilman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae38\ub9cc",
+        "Kilman",
+        "Gilman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888452
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7c8167f262f6089508e8c3baa81c58d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1260056175,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260056175,
+    "wof:lastmodified":1537658424,
+    "wof:name":"Gilman",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25476,
+    36.39651,
+    127.25476,
+    36.39651
+],
+  "geometry": {"coordinates":[127.25476,36.39651],"type":"Point"}
+}

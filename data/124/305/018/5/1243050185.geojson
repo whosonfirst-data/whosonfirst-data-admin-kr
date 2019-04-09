@@ -1,0 +1,78 @@
+{
+  "id": 1243050185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.66129,34.3316,126.66129,34.3316",
+    "geom:latitude":34.3316,
+    "geom:longitude":126.66129,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sangok",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394532,
+    "gn:latitude":34.3316,
+    "gn:longitude":126.66129,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sangok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uace1"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\uace1"
+    ],
+    "name:und_x_variant":[
+        "Naehang-do",
+        "Sangok",
+        "Sagok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394532
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7a3a960e4cb955e9cffd331f0f4f3a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1243050185,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243050185,
+    "wof:lastmodified":1537657133,
+    "wof:name":"Sangok",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.66129,
+    34.3316,
+    126.66129,
+    34.3316
+],
+  "geometry": {"coordinates":[126.66128999999999,34.3316],"type":"Point"}
+}

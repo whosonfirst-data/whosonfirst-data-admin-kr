@@ -1,0 +1,70 @@
+{
+  "id": 1226028039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32121,36.71085,128.32121,36.71085",
+    "geom:latitude":36.71085,
+    "geom:longitude":128.32121,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wonteo",
+    "gn:country_code":"KR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254126,
+    "gn:latitude":36.71085,
+    "gn:longitude":128.32121,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Wonteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254126
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b449a128cd7a1221b4ee6d748e1e6925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1226028039,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226028039,
+    "wof:lastmodified":1537659268,
+    "wof:name":"Wonteo",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32121,
+    36.71085,
+    128.32121,
+    36.71085
+],
+  "geometry": {"coordinates":[128.32121000000001,36.71085],"type":"Point"}
+}

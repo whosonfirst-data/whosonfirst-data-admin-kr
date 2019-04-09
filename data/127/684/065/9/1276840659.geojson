@@ -1,0 +1,70 @@
+{
+  "id": 1276840659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.64687,36.68055,128.64687,36.68055",
+    "geom:latitude":36.68055,
+    "geom:longitude":128.64687,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bangujae",
+    "gn:country_code":"KR",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255355,
+    "gn:latitude":36.68055,
+    "gn:longitude":128.64687,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Bangujae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uc6b0\uc7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255355
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0cbc8ff22186df5617f75e7b4b40d325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1276840659,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276840659,
+    "wof:lastmodified":1537659285,
+    "wof:name":"Bangujae",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.64687,
+    36.68055,
+    128.64687,
+    36.68055
+],
+  "geometry": {"coordinates":[128.64687000000001,36.68055],"type":"Point"}
+}

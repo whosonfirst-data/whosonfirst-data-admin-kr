@@ -1,0 +1,72 @@
+{
+  "id": 1243142771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6826,35.64011,128.6826,35.64011",
+    "geom:latitude":35.64011,
+    "geom:longitude":128.6826,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hwa-ri",
+    "gn:country_code":"KR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844023,
+    "gn:latitude":35.64011,
+    "gn:longitude":128.6826,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud654\ub9ac",
+        "Hwa-dong",
+        "Hwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844023
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ce9d5b5038c43089c7e11745a6f96b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1243142771,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243142771,
+    "wof:lastmodified":1537656574,
+    "wof:name":"Hwa-ri",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6826,
+    35.64011,
+    128.6826,
+    35.64011
+],
+  "geometry": {"coordinates":[128.68260000000001,35.64011],"type":"Point"}
+}

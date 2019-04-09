@@ -1,0 +1,64 @@
+{
+  "id": 1209689439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.88272,36.97186,128.88272,36.97186",
+    "geom:latitude":36.97186,
+    "geom:longitude":128.88272,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sutteogol",
+    "gn:country_code":"KR",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9080636,
+    "gn:latitude":36.97186,
+    "gn:longitude":128.88272,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Sutteogol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc22f\ud130\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9080636
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"acb92d5146c0e1c4839dfbd83a831e96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689439
+        }
+    ],
+    "wof:id":1209689439,
+    "wof:lastmodified":1537658915,
+    "wof:name":"Sutteogol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.88272,
+    36.97186,
+    128.88272,
+    36.97186
+],
+  "geometry": {"coordinates":[128.88272000000001,36.97186],"type":"Point"}
+}

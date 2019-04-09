@@ -1,0 +1,65 @@
+{
+  "id": 1209177573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7811,36.6315,126.7811,36.6315",
+    "geom:latitude":36.6315,
+    "geom:longitude":126.7811,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soegok",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810385,
+    "gn:latitude":36.6315,
+    "gn:longitude":126.7811,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Soegok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1e0\uace1",
+        "Soegok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810385
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0d9c62abaad3cc5fd865caebc08d4c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209177573
+        }
+    ],
+    "wof:id":1209177573,
+    "wof:lastmodified":1537657904,
+    "wof:name":"Soegok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7811,
+    36.6315,
+    126.7811,
+    36.6315
+],
+  "geometry": {"coordinates":[126.7811,36.6315],"type":"Point"}
+}

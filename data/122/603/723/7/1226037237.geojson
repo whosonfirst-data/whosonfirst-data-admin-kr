@@ -1,0 +1,73 @@
+{
+  "id": 1226037237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.64681,37.08066,128.64681,37.08066",
+    "geom:latitude":37.08066,
+    "geom:longitude":128.64681,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Myeongsaengdong",
+    "gn:country_code":"KR",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795380,
+    "gn:latitude":37.08066,
+    "gn:longitude":128.64681,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Myeongsaengdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba85\uc0dd\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "My\u014fngsaeng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795380
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a63a0c52a70c5fcb46e551eae975a1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1226037237,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226037237,
+    "wof:lastmodified":1537657524,
+    "wof:name":"Myeongsaengdong",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.64681000000002,
+    37.08066,
+    128.64681000000002,
+    37.08066
+],
+  "geometry": {"coordinates":[128.64681000000002,37.08066],"type":"Point"}
+}

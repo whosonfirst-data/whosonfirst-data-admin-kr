@@ -1,0 +1,75 @@
+{
+  "id": 1276999579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.05562,35.37316,126.05562,35.37316",
+    "geom:latitude":35.37316,
+    "geom:longitude":126.05562,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Keunmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842035,
+    "gn:latitude":35.37316,
+    "gn:longitude":126.05562,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Keunmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "S\u014fngman-ni",
+        "K\u2019\u016dn-ma\u016dl",
+        "Keunmaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842035
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d6523affee172f6b36299c02390477dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473229,
+            "locality_id":1276999579,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276999579,
+    "wof:lastmodified":1537656476,
+    "wof:name":"Keunmaeul",
+    "wof:parent_id":890473229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.05562,
+    35.37316,
+    126.05562,
+    35.37316
+],
+  "geometry": {"coordinates":[126.05562,35.37316],"type":"Point"}
+}

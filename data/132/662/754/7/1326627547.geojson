@@ -1,0 +1,76 @@
+{
+  "id": 1326627547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9083,37.3747,128.9083,37.3747",
+    "geom:latitude":37.3747,
+    "geom:longitude":128.9083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'ongyongan",
+    "gn:country_code":"KR",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845486,
+    "gn:latitude":37.3747,
+    "gn:longitude":128.9083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u2019\u014fngyongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\uc6a9\uc548"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019\u014fngyongan"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fngnyongan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845486
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"28d2f28c2255fd83d6c9997a743f5930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1326627547,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1326627547,
+    "wof:lastmodified":1537656651,
+    "wof:name":"Ch'ongyongan",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9083,
+    37.3747,
+    128.9083,
+    37.3747
+],
+  "geometry": {"coordinates":[128.9083,37.3747],"type":"Point"}
+}

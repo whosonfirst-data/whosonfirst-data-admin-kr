@@ -1,0 +1,72 @@
+{
+  "id": 1310677053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77194,36.88389,126.77194,36.88389",
+    "geom:latitude":36.88389,
+    "geom:longitude":126.77194,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kumch'ol-li",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1842305,
+    "gn:latitude":36.88389,
+    "gn:longitude":126.77194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u016dmch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016dmch\u2019\u014fn-ni",
+        "\uae08\ucc9c\ub9ac",
+        "K\u016dmch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842305
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7bed5b9c7fa8b253d84850461f12ac94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1310677053,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310677053,
+    "wof:lastmodified":1537656490,
+    "wof:name":"Kumch'ol-li",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77194,
+    36.88389,
+    126.77194,
+    36.88389
+],
+  "geometry": {"coordinates":[126.77194,36.88389],"type":"Point"}
+}

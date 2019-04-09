@@ -1,0 +1,74 @@
+{
+  "id": 1277098411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.11082,37.86396,128.11082,37.86396",
+    "geom:latitude":37.86396,
+    "geom:longitude":128.11082,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gwanggandong",
+    "gn:country_code":"KR",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815516,
+    "gn:latitude":37.86396,
+    "gn:longitude":128.11082,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Gwanggandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uac04\ub9c8\uc744"
+    ],
+    "name:kor_x_variant":[
+        "Panggan-ma\u016dl",
+        "\uad11\uac04\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815516
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fe3ac7c0a7b44be84cb4dd86451442d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1277098411,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1277098411,
+    "wof:lastmodified":1537658054,
+    "wof:name":"Gwanggandong",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.11082,
+    37.86396,
+    128.11082,
+    37.86396
+],
+  "geometry": {"coordinates":[128.11081999999999,37.86396],"type":"Point"}
+}

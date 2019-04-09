@@ -1,0 +1,71 @@
+{
+  "id": 1243430615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.342,36.7443,126.342,36.7443",
+    "geom:latitude":36.7443,
+    "geom:longitude":126.342,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sanyang",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807846,
+    "gn:latitude":36.7443,
+    "gn:longitude":126.342,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0b0\uc591",
+        "Sanyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807846
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"983595f6a1eff08d39db86f036e334eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1243430615,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243430615,
+    "wof:lastmodified":1537657804,
+    "wof:name":"Sanyang",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.342,
+    36.7443,
+    126.342,
+    36.7443
+],
+  "geometry": {"coordinates":[126.342,36.7443],"type":"Point"}
+}

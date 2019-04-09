@@ -1,0 +1,72 @@
+{
+  "id": 1259669885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90028,37.20361,126.90028,37.20361",
+    "geom:latitude":37.20361,
+    "geom:longitude":126.90028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cheongyo-ri",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6575239,
+    "gn:latitude":37.20361,
+    "gn:longitude":126.90028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Cheongyo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uccad\uc694\ub9ac",
+        "Cheongyo-ri",
+        "Ch\u2019\u014fngyo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575239
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"86394f53697afa10e30ad49264d13572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1259669885,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259669885,
+    "wof:lastmodified":1537657255,
+    "wof:name":"Cheongyo-ri",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90028,
+    37.20361,
+    126.90028,
+    37.20361
+],
+  "geometry": {"coordinates":[126.90028,37.20361],"type":"Point"}
+}

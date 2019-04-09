@@ -1,0 +1,74 @@
+{
+  "id": 1343953087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24155,38.29423,127.24155,38.29423",
+    "geom:latitude":38.29423,
+    "geom:longitude":127.24155,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Ch'\u014frw\u014fn-gun",
+    "gn:asciiname":"Juhyeolli",
+    "gn:country_code":"KR",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948430,
+    "gn:latitude":38.29423,
+    "gn:longitude":127.24155,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Juhyeolli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fc\ud604\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Chuhy\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948430
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e4715c145d7e6118d1273d0c177dead3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1343953087,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343953087,
+    "wof:lastmodified":1537656961,
+    "wof:name":"Juhyeolli",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24155,
+    38.29423,
+    127.24155,
+    38.29423
+],
+  "geometry": {"coordinates":[127.24155,38.29423],"type":"Point"}
+}

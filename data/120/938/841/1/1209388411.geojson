@@ -1,0 +1,65 @@
+{
+  "id": 1209388411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.01645,36.13786,129.01645,36.13786",
+    "geom:latitude":36.13786,
+    "geom:longitude":129.01645,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"T'apchon",
+    "gn:country_code":"KR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878556,
+    "gn:latitude":36.13786,
+    "gn:longitude":129.01645,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019apch\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud0d1\uc804",
+        "T\u2019apch\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878556
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a586d4add12ee756ad6a6330d85c1278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209388411
+        }
+    ],
+    "wof:id":1209388411,
+    "wof:lastmodified":1537658194,
+    "wof:name":"T'apchon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.01645,
+    36.13786,
+    129.01645,
+    36.13786
+],
+  "geometry": {"coordinates":[129.01644999999999,36.13786],"type":"Point"}
+}

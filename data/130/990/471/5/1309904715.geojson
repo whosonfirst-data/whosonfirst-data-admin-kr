@@ -1,0 +1,72 @@
+{
+  "id": 1309904715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57298,36.33892,127.57298,36.33892",
+    "geom:latitude":36.33892,
+    "geom:longitude":127.57298,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bogol",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884626,
+    "gn:latitude":36.33892,
+    "gn:longitude":127.57298,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bogol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcf4\uace8",
+        "Po-gol",
+        "Bogol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884626
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6a6cb89ba296b53d810d5339976039b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1309904715,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1309904715,
+    "wof:lastmodified":1537658331,
+    "wof:name":"Bogol",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57298,
+    36.33892,
+    127.57298,
+    36.33892
+],
+  "geometry": {"coordinates":[127.57298,36.33892],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276434723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.98698,36.76568,127.98698,36.76568",
+    "geom:latitude":36.76568,
+    "geom:longitude":127.98698,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baesang",
+    "gn:country_code":"KR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410336,
+    "gn:latitude":36.76568,
+    "gn:longitude":127.98698,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Baesang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc30\uc0c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410336
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9468a773b3ace9a43a397bb8e4680322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1276434723,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1276434723,
+    "wof:lastmodified":1537659052,
+    "wof:name":"Baesang",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.98698,
+    36.76568,
+    127.98698,
+    36.76568
+],
+  "geometry": {"coordinates":[127.98698,36.76568],"type":"Point"}
+}

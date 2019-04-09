@@ -1,0 +1,70 @@
+{
+  "id": 1276403525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.36462,35.63861,129.36462,35.63861",
+    "geom:latitude":35.63861,
+    "geom:longitude":129.36462,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Madong",
+    "gn:country_code":"KR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11083069,
+    "gn:latitude":35.63861,
+    "gn:longitude":129.36462,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Madong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11083069
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"37c07d9bb45f161ef5d184135164233b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746399,
+            "locality_id":1276403525,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1276403525,
+    "wof:lastmodified":1537659144,
+    "wof:name":"Madong",
+    "wof:parent_id":1108746399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.36462,
+    35.63861,
+    129.36462,
+    35.63861
+],
+  "geometry": {"coordinates":[129.36462,35.63861],"type":"Point"}
+}

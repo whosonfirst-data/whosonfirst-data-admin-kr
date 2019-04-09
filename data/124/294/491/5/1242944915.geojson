@@ -1,0 +1,67 @@
+{
+  "id": 1242944915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62556,34.625,126.62556,34.625",
+    "geom:latitude":34.625,
+    "geom:longitude":126.62556,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"pyeongchon",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395907,
+    "gn:latitude":34.625,
+    "gn:longitude":126.62556,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"\ud3c9\ucd0c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395907
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eb43138ea0c020b711b66a2d742a081c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1242944915,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242944915,
+    "wof:lastmodified":1537030422,
+    "wof:name":"pyeongchon",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62556,
+    34.625,
+    126.62556,
+    34.625
+],
+  "geometry": {"coordinates":[126.62555999999999,34.625],"type":"Point"}
+}

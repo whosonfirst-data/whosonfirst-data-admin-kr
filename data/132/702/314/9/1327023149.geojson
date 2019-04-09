@@ -1,0 +1,71 @@
+{
+  "id": 1327023149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.03018,36.25756,128.03018,36.25756",
+    "geom:latitude":36.25756,
+    "geom:longitude":128.03018,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chungung",
+    "gn:country_code":"KR",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892659,
+    "gn:latitude":36.25756,
+    "gn:longitude":128.03018,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chungung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uc6c5",
+        "Chungung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892659
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6d8c0ccd1655cc05f07188b6e14ded1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473559,
+            "locality_id":1327023149,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1327023149,
+    "wof:lastmodified":1537658557,
+    "wof:name":"Chungung",
+    "wof:parent_id":890473559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.03018,
+    36.25756,
+    128.03018,
+    36.25756
+],
+  "geometry": {"coordinates":[128.03018,36.25756],"type":"Point"}
+}

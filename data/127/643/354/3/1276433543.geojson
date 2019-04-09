@@ -1,0 +1,73 @@
+{
+  "id": 1276433543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5459,37.499,128.5459,37.499",
+    "geom:latitude":37.499,
+    "geom:longitude":128.5459,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Changjon",
+    "gn:country_code":"KR",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793391,
+    "gn:latitude":37.499,
+    "gn:longitude":128.5459,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Changj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc804"
+    ],
+    "name:kor_x_variant":[
+        "Changj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793391
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"607d50b6f41f412376f3d3a00df38f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1276433543,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276433543,
+    "wof:lastmodified":1537657463,
+    "wof:name":"Changjon",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5459,
+    37.499,
+    128.5459,
+    37.499
+],
+  "geometry": {"coordinates":[128.54589999999999,37.499],"type":"Point"}
+}

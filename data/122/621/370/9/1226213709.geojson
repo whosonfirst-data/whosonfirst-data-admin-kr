@@ -1,0 +1,70 @@
+{
+  "id": 1226213709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53207,37.98875,127.53207,37.98875",
+    "geom:latitude":37.98875,
+    "geom:longitude":127.53207,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yeongjuam",
+    "gn:country_code":"KR",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11340272,
+    "gn:latitude":37.98875,
+    "gn:longitude":127.53207,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Yeongjuam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc601\uc8fc\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11340272
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"30b5cd4d4fafec5d35c73235f6d784fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1226213709,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226213709,
+    "wof:lastmodified":1537659329,
+    "wof:name":"Yeongjuam",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53207,
+    37.98875,
+    127.53207,
+    37.98875
+],
+  "geometry": {"coordinates":[127.53207,37.98875],"type":"Point"}
+}

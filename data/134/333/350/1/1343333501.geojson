@@ -1,0 +1,70 @@
+{
+  "id": 1343333501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74867,34.99116,126.74867,34.99116",
+    "geom:latitude":34.99116,
+    "geom:longitude":126.74867,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seunghak",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180400,
+    "gn:latitude":34.99116,
+    "gn:longitude":126.74867,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seunghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2b9\ud559"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180400
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1478347014c8695c1b0c7a593f73b460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1343333501,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343333501,
+    "wof:lastmodified":1537659219,
+    "wof:name":"Seunghak",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74867,
+    34.99116,
+    126.74867,
+    34.99116
+],
+  "geometry": {"coordinates":[126.74867,34.99116],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343453113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8948,37.295,128.8948,37.295",
+    "geom:latitude":37.295,
+    "geom:longitude":128.8948,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kantaikoku",
+    "gn:country_code":"KR",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844431,
+    "gn:latitude":37.295,
+    "gn:longitude":128.8948,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kantaikoku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\ud0dc\uace8"
+    ],
+    "name:kor_x_variant":[
+        "Hant\u2019ae-gol"
+    ],
+    "name:und_x_variant":[
+        "Hant\u2019aekol",
+        "Hant\u2019aegok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844431
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dd86d72f6b58a3d34ace4a8a890f2890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1343453113,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343453113,
+    "wof:lastmodified":1537656595,
+    "wof:name":"Kantaikoku",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8948,
+    37.295,
+    128.8948,
+    37.295
+],
+  "geometry": {"coordinates":[128.8948,37.295],"type":"Point"}
+}

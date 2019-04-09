@@ -1,0 +1,70 @@
+{
+  "id": 1243328165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81274,35.20997,128.81274,35.20997",
+    "geom:latitude":35.20997,
+    "geom:longitude":128.81274,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yuha",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11114540,
+    "gn:latitude":35.20997,
+    "gn:longitude":128.81274,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Yuha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc720\ud558"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11114540
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e81a9dbf776f2630134ac06a0a2ff530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475303,
+            "locality_id":1243328165,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243328165,
+    "wof:lastmodified":1537659163,
+    "wof:name":"Yuha",
+    "wof:parent_id":890475303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81274,
+    35.20997,
+    128.81274,
+    35.20997
+],
+  "geometry": {"coordinates":[128.81273999999999,35.20997],"type":"Point"}
+}

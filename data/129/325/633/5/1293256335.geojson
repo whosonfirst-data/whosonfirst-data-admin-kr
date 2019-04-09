@@ -1,0 +1,70 @@
+{
+  "id": 1293256335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.42976,35.58052,129.42976,35.58052",
+    "geom:latitude":35.58052,
+    "geom:longitude":129.42976,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Hwangtojeon",
+    "gn:country_code":"KR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087096,
+    "gn:latitude":35.58052,
+    "gn:longitude":129.42976,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Hwangtojeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud669\ud1a0\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087096
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e4463255c45f174c09f7483ef76c8ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746399,
+            "locality_id":1293256335,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1293256335,
+    "wof:lastmodified":1537659146,
+    "wof:name":"Hwangtojeon",
+    "wof:parent_id":1108746399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.42976000000002,
+    35.58052,
+    129.42976000000002,
+    35.58052
+],
+  "geometry": {"coordinates":[129.42976000000002,35.58052],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259647507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95056,34.53056,126.95056,34.53056",
+    "geom:latitude":34.53056,
+    "geom:longitude":126.95056,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wayak",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394949,
+    "gn:latitude":34.53056,
+    "gn:longitude":126.95056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394949
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d48be701c84d06aec18dba39ba7ea601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1259647507,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259647507,
+    "wof:lastmodified":1536620495,
+    "wof:name":"Wayak",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95056,
+    34.53055999999999,
+    126.95056,
+    34.53055999999999
+],
+  "geometry": {"coordinates":[126.95056,34.53055999999999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209880747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.18333,34.85306,128.18333,34.85306",
+    "geom:latitude":34.85306,
+    "geom:longitude":128.18333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Naeji",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840622,
+    "gn:latitude":34.85306,
+    "gn:longitude":128.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naeji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naeji-dong",
+        "Naeji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840622
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"24e78cf47eb226c49393fca65ff39872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474581,
+            "locality_id":1209880747,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1209880747,
+    "wof:lastmodified":1537656405,
+    "wof:name":"Naeji",
+    "wof:parent_id":890474581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.18333,
+    34.85306,
+    128.18333,
+    34.85306
+],
+  "geometry": {"coordinates":[128.18333000000001,34.85306],"type":"Point"}
+}

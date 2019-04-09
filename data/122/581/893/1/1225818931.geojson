@@ -1,0 +1,73 @@
+{
+  "id": 1225818931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32358,35.76505,128.32358,35.76505",
+    "geom:latitude":35.76505,
+    "geom:longitude":128.32358,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Palmi",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900590,
+    "gn:latitude":35.76505,
+    "gn:longitude":128.32358,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Palmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud314\ubbf8"
+    ],
+    "name:und_x_variant":[
+        "P\u2019almi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900590
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2f8909d113afd783beaffde4b8199e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1225818931,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225818931,
+    "wof:lastmodified":1537656941,
+    "wof:name":"Palmi",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32358,
+    35.76505,
+    128.32358,
+    35.76505
+],
+  "geometry": {"coordinates":[128.32357999999999,35.76505],"type":"Point"}
+}

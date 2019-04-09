@@ -1,0 +1,75 @@
+{
+  "id": 1310605753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.18325,36.9336,128.18325,36.9336",
+    "geom:latitude":36.9336,
+    "geom:longitude":128.18325,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Susalli",
+    "gn:country_code":"KR",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835571,
+    "gn:latitude":36.9336,
+    "gn:longitude":128.18325,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Susalli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc218\uc0b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Susan-ni",
+        "Susan",
+        "Susalli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835571
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e84644b6f044a5d7530e718c6f7e61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1310605753,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1310605753,
+    "wof:lastmodified":1537656144,
+    "wof:name":"Susalli",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.18325,
+    36.9336,
+    128.18325,
+    36.9336
+],
+  "geometry": {"coordinates":[128.18324999999999,36.9336],"type":"Point"}
+}

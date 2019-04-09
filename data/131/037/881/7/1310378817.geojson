@@ -1,0 +1,75 @@
+{
+  "id": 1310378817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.33447,35.798,128.33447,35.798",
+    "geom:latitude":35.798,
+    "geom:longitude":128.33447,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mulhan",
+    "gn:country_code":"KR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900717,
+    "gn:latitude":35.798,
+    "gn:longitude":128.33447,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Mulhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb3c\ud55c"
+    ],
+    "name:und_x_variant":[
+        "\ubb34\ub780",
+        "Muran",
+        "Mulhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900717
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a829dcee22be2b4bca517a1c228680a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1310378817,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310378817,
+    "wof:lastmodified":1537658774,
+    "wof:name":"Mulhan",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.33446999999998,
+    35.798,
+    128.33446999999998,
+    35.798
+],
+  "geometry": {"coordinates":[128.33446999999998,35.798],"type":"Point"}
+}

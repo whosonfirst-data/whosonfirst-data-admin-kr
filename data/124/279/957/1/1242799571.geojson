@@ -1,0 +1,75 @@
+{
+  "id": 1242799571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7775,37.25861,127.7775,37.25861",
+    "geom:latitude":37.25861,
+    "geom:longitude":127.7775,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pamgae",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576873,
+    "gn:latitude":37.25861,
+    "gn:longitude":127.7775,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pamgae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc24\uac1c"
+    ],
+    "name:und_x_variant":[
+        "\ubc24\uac1c",
+        "Bamgae",
+        "Pamgae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576873
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f726487b0eac5f59dcce5b0febcbf298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1242799571,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242799571,
+    "wof:lastmodified":1537657345,
+    "wof:name":"Pamgae",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7775,
+    37.25861,
+    127.7775,
+    37.25861
+],
+  "geometry": {"coordinates":[127.7775,37.25861],"type":"Point"}
+}

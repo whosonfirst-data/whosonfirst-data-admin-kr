@@ -1,0 +1,72 @@
+{
+  "id": 1293659913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9,35.95,128.9,35.95",
+    "geom:latitude":35.95,
+    "geom:longitude":128.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ipsok",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843504,
+    "gn:latitude":35.95,
+    "gn:longitude":128.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ips\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ips\u014fk-tong",
+        "Ips\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843504
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3935b7952c394fb256f484b69cb2d766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475319,
+            "locality_id":1293659913,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293659913,
+    "wof:lastmodified":1537656552,
+    "wof:name":"Ipsok",
+    "wof:parent_id":890475319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9,
+    35.95,
+    128.9,
+    35.95
+],
+  "geometry": {"coordinates":[128.90000000000001,35.95],"type":"Point"}
+}

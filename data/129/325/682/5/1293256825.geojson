@@ -1,0 +1,71 @@
+{
+  "id": 1293256825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31899,35.17066,128.31899,35.17066",
+    "geom:latitude":35.17066,
+    "geom:longitude":128.31899,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ha-dong",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899254,
+    "gn:latitude":35.17066,
+    "gn:longitude":128.31899,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ha-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ub3d9",
+        "Ha-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899254
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8d2a87022b6bc1da497cee4d3ed5cbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475301,
+            "locality_id":1293256825,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293256825,
+    "wof:lastmodified":1537658734,
+    "wof:name":"Ha-dong",
+    "wof:parent_id":890475301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31899,
+    35.17066,
+    128.31899,
+    35.17066
+],
+  "geometry": {"coordinates":[128.31899000000001,35.17066],"type":"Point"}
+}

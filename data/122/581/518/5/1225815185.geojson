@@ -1,0 +1,72 @@
+{
+  "id": 1225815185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65591,35.72613,128.65591,35.72613",
+    "geom:latitude":35.72613,
+    "geom:longitude":128.65591,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Budong",
+    "gn:country_code":"KR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903114,
+    "gn:latitude":35.72613,
+    "gn:longitude":128.65591,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Budong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd80\ub3d9",
+        "Pu-dong",
+        "Budong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903114
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"09c6ec6112e91c45f5b38406db673e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1225815185,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1225815185,
+    "wof:lastmodified":1537658834,
+    "wof:name":"Budong",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65591,
+    35.72613,
+    128.65591,
+    35.72613
+],
+  "geometry": {"coordinates":[128.65591000000001,35.72613],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259665813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24526,34.97807,127.24526,34.97807",
+    "geom:latitude":34.97807,
+    "geom:longitude":127.24526,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Juksan",
+    "gn:country_code":"KR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684498,
+    "gn:latitude":34.97807,
+    "gn:longitude":127.24526,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Juksan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fd\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Chuksan",
+        "Juksan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684498
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"588c994eca050f3146c8681349296c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1259665813,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259665813,
+    "wof:lastmodified":1537657413,
+    "wof:name":"Juksan",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24526000000002,
+    34.97807,
+    127.24526000000002,
+    34.97807
+],
+  "geometry": {"coordinates":[127.24526000000002,34.97807],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209786971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90867,37.91503,126.90867,37.91503",
+    "geom:latitude":37.91503,
+    "geom:longitude":126.90867,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sujakgol",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799308,
+    "gn:latitude":37.91503,
+    "gn:longitude":126.90867,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Sujakgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc218\uc791\uace8",
+        "Sujak-kol",
+        "Sujakgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799308
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2ecef05320700f3759977a7d44ca44ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1209786971,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209786971,
+    "wof:lastmodified":1537657629,
+    "wof:name":"Sujakgol",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90867,
+    37.91503,
+    126.90867,
+    37.91503
+],
+  "geometry": {"coordinates":[126.90867,37.91503],"type":"Point"}
+}

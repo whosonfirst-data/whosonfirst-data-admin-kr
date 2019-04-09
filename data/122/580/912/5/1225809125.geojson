@@ -1,0 +1,70 @@
+{
+  "id": 1225809125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97796,34.9736,126.97796,34.9736",
+    "geom:latitude":34.9736,
+    "geom:longitude":126.97796,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hyoudong",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197245,
+    "gn:latitude":34.9736,
+    "gn:longitude":126.97796,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Hyoudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud6a8\uc6b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197245
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7ee91118fd7b4fd8e9e9c6e09699afad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1225809125,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225809125,
+    "wof:lastmodified":1537659233,
+    "wof:name":"Hyoudong",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97796,
+    34.9736,
+    126.97796,
+    34.9736
+],
+  "geometry": {"coordinates":[126.97796,34.9736],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243342513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87745,37.72159,126.87745,37.72159",
+    "geom:latitude":37.72159,
+    "geom:longitude":126.87745,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Goeup",
+    "gn:country_code":"KR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8610698,
+    "gn:latitude":37.72159,
+    "gn:longitude":126.87745,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Goeup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\uc74d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8610698
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6a005b1d9d4d97d783e7efc2b6d23939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746463,
+            "locality_id":1243342513,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243342513,
+    "wof:lastmodified":1537658899,
+    "wof:name":"Goeup",
+    "wof:parent_id":1108746463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87745,
+    37.72159,
+    126.87745,
+    37.72159
+],
+  "geometry": {"coordinates":[126.87745,37.72159],"type":"Point"}
+}

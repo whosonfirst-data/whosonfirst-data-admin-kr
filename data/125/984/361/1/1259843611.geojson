@@ -1,0 +1,75 @@
+{
+  "id": 1259843611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.1648,35.4685,129.1648,35.4685",
+    "geom:latitude":35.4685,
+    "geom:longitude":129.1648,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Deokhyeon",
+    "gn:country_code":"KR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834537,
+    "gn:latitude":35.4685,
+    "gn:longitude":129.1648,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Deokhyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ud604"
+    ],
+    "name:und_x_variant":[
+        "T\u014fkhy\u014fn-dong",
+        "T\u014fkhy\u014fn",
+        "Deokhyeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834537
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ad757033eef98557de7e3522ad0718b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1259843611,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1259843611,
+    "wof:lastmodified":1537656091,
+    "wof:name":"Deokhyeon",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.1648,
+    35.4685,
+    129.1648,
+    35.4685
+],
+  "geometry": {"coordinates":[129.16480000000001,35.4685],"type":"Point"}
+}

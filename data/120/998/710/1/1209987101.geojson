@@ -1,0 +1,75 @@
+{
+  "id": 1209987101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.1941,36.7666,129.1941,36.7666",
+    "geom:latitude":36.7666,
+    "geom:longitude":129.1941,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pal-li",
+    "gn:country_code":"KR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839392,
+    "gn:latitude":36.7666,
+    "gn:longitude":129.1941,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hatsuri-d\u014d",
+        "Palli-dong",
+        "Ppalli-dong",
+        "Palli-ri",
+        "\ubc1c\ub9ac",
+        "Pal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839392
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"741de9fa614a6313bf671d815a6fc93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473713,
+            "locality_id":1209987101,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209987101,
+    "wof:lastmodified":1537656343,
+    "wof:name":"Pal-li",
+    "wof:parent_id":890473713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.1941,
+    36.7666,
+    129.1941,
+    36.7666
+],
+  "geometry": {"coordinates":[129.19409999999999,36.7666],"type":"Point"}
+}

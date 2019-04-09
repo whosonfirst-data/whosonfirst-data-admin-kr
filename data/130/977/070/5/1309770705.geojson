@@ -1,0 +1,63 @@
+{
+  "id": 1309770705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.01667,34.71667,128.01667,34.71667",
+    "geom:latitude":34.71667,
+    "geom:longitude":128.01667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ch'onha",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845483,
+    "gn:latitude":34.71667,
+    "gn:longitude":128.01667,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Ch\u2019\u014fnha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845483
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49974fa3d029b4c2829ee50956309a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1309770705,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309770705,
+    "wof:lastmodified":1536981147,
+    "wof:name":"Ch'onha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.01667,
+    34.71667,
+    128.01667,
+    34.71667
+],
+  "geometry": {"coordinates":[128.01667,34.71667],"type":"Point"}
+}

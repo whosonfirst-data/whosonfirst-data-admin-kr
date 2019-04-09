@@ -1,0 +1,70 @@
+{
+  "id": 1293256833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76616,35.11557,128.76616,35.11557",
+    "geom:latitude":35.11557,
+    "geom:longitude":128.76616,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pyeongbal",
+    "gn:country_code":"KR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11114351,
+    "gn:latitude":35.11557,
+    "gn:longitude":128.76616,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Pyeongbal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\ubc1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11114351
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"61bc20d78ac535acfcf7a5e688bfdc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746475,
+            "locality_id":1293256833,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293256833,
+    "wof:lastmodified":1537659162,
+    "wof:name":"Pyeongbal",
+    "wof:parent_id":1108746475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76616,
+    35.11557,
+    128.76616,
+    35.11557
+],
+  "geometry": {"coordinates":[128.76616000000001,35.11557],"type":"Point"}
+}

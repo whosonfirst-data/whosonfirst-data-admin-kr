@@ -1,0 +1,72 @@
+{
+  "id": 1276843657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.39258,35.70912,128.39258,35.70912",
+    "geom:latitude":35.70912,
+    "geom:longitude":128.39258,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jeoksan",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901545,
+    "gn:latitude":35.70912,
+    "gn:longitude":128.39258,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Jeoksan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc801\uc0b0",
+        "Ch\u014fksan",
+        "Jeoksan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901545
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d76e3adb6eefbfd4c0e90ea6cf63b968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1276843657,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276843657,
+    "wof:lastmodified":1537658784,
+    "wof:name":"Jeoksan",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.39258,
+    35.70912,
+    128.39258,
+    35.70912
+],
+  "geometry": {"coordinates":[128.39258000000001,35.70912],"type":"Point"}
+}

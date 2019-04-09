@@ -1,0 +1,77 @@
+{
+  "id": 1242749123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4188,37.6097,127.4188,37.6097",
+    "geom:latitude":37.6097,
+    "geom:longitude":127.4188,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bangok",
+    "gn:country_code":"KR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839284,
+    "gn:latitude":37.6097,
+    "gn:longitude":127.4188,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Bangok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc18\uace1"
+    ],
+    "name:und_x_variant":[
+        "Salgol",
+        "Pankol",
+        "\ubc18\uace1",
+        "Pan\u2019gok",
+        "Bangok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839284
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72fc353ae93085a66c80a286b11e8a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1242749123,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242749123,
+    "wof:lastmodified":1537656336,
+    "wof:name":"Bangok",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4188,
+    37.6097,
+    127.4188,
+    37.6097
+],
+  "geometry": {"coordinates":[127.4188,37.6097],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260050563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.67745,36.57163,128.67745,36.57163",
+    "geom:latitude":36.57163,
+    "geom:longitude":128.67745,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hoamdong",
+    "gn:country_code":"KR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844300,
+    "gn:latitude":36.57163,
+    "gn:longitude":128.67745,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Hoamdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud638\uc554\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844300
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c6f15d416600247555472cee4af00aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1260050563,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260050563,
+    "wof:lastmodified":1537656588,
+    "wof:name":"Hoamdong",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.67745,
+    36.57163,
+    128.67745,
+    36.57163
+],
+  "geometry": {"coordinates":[128.67744999999999,36.57163],"type":"Point"}
+}

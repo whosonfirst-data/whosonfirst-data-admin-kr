@@ -1,0 +1,72 @@
+{
+  "id": 1225951233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06096,35.88253,127.06096,35.88253",
+    "geom:latitude":35.88253,
+    "geom:longitude":127.06096,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yongam",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832648,
+    "gn:latitude":35.88253,
+    "gn:longitude":127.06096,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\uc554",
+        "Yongam-ni",
+        "Yongam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        1108746469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832648
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6fa9f09c001624c836bdb34a81e9e04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746469,
+            "locality_id":1225951233,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1225951233,
+    "wof:lastmodified":1537655988,
+    "wof:name":"Yongam",
+    "wof:parent_id":1108746469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06096,
+    35.88253,
+    127.06096,
+    35.88253
+],
+  "geometry": {"coordinates":[127.06095999999999,35.88253],"type":"Point"}
+}

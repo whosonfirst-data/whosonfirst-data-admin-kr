@@ -1,0 +1,66 @@
+{
+  "id": 1209512751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58398,37.86725,127.58398,37.86725",
+    "geom:latitude":37.86725,
+    "geom:longitude":127.58398,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samseondaeri",
+    "gn:country_code":"KR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802605,
+    "gn:latitude":37.86725,
+    "gn:longitude":127.58398,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samseondaeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\uc120\ub300\ub9ac",
+        "Sams\u014fndae-ri",
+        "Samseondaeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802605
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cde41066031a0f6b33d1338e28300adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209512751
+        }
+    ],
+    "wof:id":1209512751,
+    "wof:lastmodified":1537657748,
+    "wof:name":"Samseondaeri",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58398,
+    37.86725,
+    127.58398,
+    37.86725
+],
+  "geometry": {"coordinates":[127.58398,37.86725],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293256091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93012,35.31433,126.93012,35.31433",
+    "geom:latitude":35.31433,
+    "geom:longitude":126.93012,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wongungsan",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170610,
+    "gn:latitude":35.31433,
+    "gn:longitude":126.93012,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Wongungsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uad81\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170610
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f40b9f6c70253ea2bfb32fdc92aea137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1293256091,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293256091,
+    "wof:lastmodified":1537659191,
+    "wof:name":"Wongungsan",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93012,
+    35.31433,
+    126.93012,
+    35.31433
+],
+  "geometry": {"coordinates":[126.93012,35.31433],"type":"Point"}
+}

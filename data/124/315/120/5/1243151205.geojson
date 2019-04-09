@@ -1,0 +1,70 @@
+{
+  "id": 1243151205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21366,37.15003,127.21366,37.15003",
+    "geom:latitude":37.15003,
+    "geom:longitude":127.21366,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dokjeongigol",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866031,
+    "gn:latitude":37.15003,
+    "gn:longitude":127.21366,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Dokjeongigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c5\uc815\uc774\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866031
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"da7f9c8538e47f67d93055602be3f5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1243151205,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243151205,
+    "wof:lastmodified":1537658955,
+    "wof:name":"Dokjeongigol",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21366,
+    37.15003,
+    127.21366,
+    37.15003
+],
+  "geometry": {"coordinates":[127.21366,37.15003],"type":"Point"}
+}

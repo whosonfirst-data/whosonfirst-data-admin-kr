@@ -1,0 +1,70 @@
+{
+  "id": 1243361003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.402,37.1994,128.402,37.1994",
+    "geom:latitude":37.1994,
+    "geom:longitude":128.402,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mottu-ri",
+    "gn:country_code":"KR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795249,
+    "gn:latitude":37.1994,
+    "gn:longitude":128.402,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mottu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubabb\ub450\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795249
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"32cf0a0b82324f4b513b0073c2bb68bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1243361003,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243361003,
+    "wof:lastmodified":1537657521,
+    "wof:name":"Mottu-ri",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40200000000002,
+    37.1994,
+    128.40200000000002,
+    37.1994
+],
+  "geometry": {"coordinates":[128.40200000000002,37.1994],"type":"Point"}
+}

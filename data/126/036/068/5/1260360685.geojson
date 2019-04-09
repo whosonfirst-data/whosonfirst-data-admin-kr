@@ -1,0 +1,72 @@
+{
+  "id": 1260360685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58583,37.40472,127.58583,37.40472",
+    "geom:latitude":37.40472,
+    "geom:longitude":127.58583,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ap-kol",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576440,
+    "gn:latitude":37.40472,
+    "gn:longitude":127.58583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ap-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc55e\uace8",
+        "Ap-gol",
+        "Ap-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576440
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cfdc390a311086936f0815efd0b7dccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1260360685,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260360685,
+    "wof:lastmodified":1537657316,
+    "wof:name":"Ap-kol",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58583,
+    37.40472000000001,
+    127.58583,
+    37.40472000000001
+],
+  "geometry": {"coordinates":[127.58583,37.40472000000001],"type":"Point"}
+}

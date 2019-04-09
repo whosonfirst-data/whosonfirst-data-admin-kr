@@ -1,0 +1,74 @@
+{
+  "id": 1309969955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75944,34.29667,126.75944,34.29667",
+    "geom:latitude":34.29667,
+    "geom:longitude":126.75944,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mangnam",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841345,
+    "gn:latitude":34.29667,
+    "gn:longitude":126.75944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mangnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9dd\ub0a8"
+    ],
+    "name:und_x_variant":[
+        "Mangnam-ni",
+        "Mangnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841345
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52fc1074c859be6780ccb50ac4b5fd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1309969955,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309969955,
+    "wof:lastmodified":1537656440,
+    "wof:name":"Mangnam",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75943999999998,
+    34.29667,
+    126.75943999999998,
+    34.29667
+],
+  "geometry": {"coordinates":[126.75943999999998,34.29667],"type":"Point"}
+}

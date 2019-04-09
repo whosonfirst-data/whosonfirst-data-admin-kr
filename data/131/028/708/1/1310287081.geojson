@@ -1,0 +1,73 @@
+{
+  "id": 1310287081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29352,34.84234,127.29352,34.84234",
+    "geom:latitude":34.84234,
+    "geom:longitude":127.29352,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gujeong",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684750,
+    "gn:latitude":34.84234,
+    "gn:longitude":127.29352,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Gujeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Kuj\u014fng"
+    ],
+    "name:kor_x_variant":[
+        "\uad6c\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684750
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e6d2d4871c0a026102b9dd00b567c3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1310287081,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310287081,
+    "wof:lastmodified":1537657425,
+    "wof:name":"Gujeong",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29352,
+    34.84234,
+    127.29352,
+    34.84234
+],
+  "geometry": {"coordinates":[127.29352,34.84234],"type":"Point"}
+}

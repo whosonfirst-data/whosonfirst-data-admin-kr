@@ -1,0 +1,75 @@
+{
+  "id": 1326802261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80359,34.89549,126.80359,34.89549",
+    "geom:latitude":34.89549,
+    "geom:longitude":126.80359,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seodong",
+    "gn:country_code":"KR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835793,
+    "gn:latitude":34.89549,
+    "gn:longitude":126.80359,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Seodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ssang-dong",
+        "Su-dong",
+        "S\u014f-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835793
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0cca1950d98f786f90a6f8d5c7fe8899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1326802261,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1326802261,
+    "wof:lastmodified":1537656156,
+    "wof:name":"Seodong",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80359,
+    34.89549,
+    126.80359,
+    34.89549
+],
+  "geometry": {"coordinates":[126.80359,34.89549],"type":"Point"}
+}

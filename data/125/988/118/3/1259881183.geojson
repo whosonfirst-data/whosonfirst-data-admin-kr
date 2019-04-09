@@ -1,0 +1,71 @@
+{
+  "id": 1259881183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05018,35.63176,127.05018,35.63176",
+    "geom:latitude":35.63176,
+    "geom:longitude":127.05018,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wonjong",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877084,
+    "gn:latitude":35.63176,
+    "gn:longitude":127.05018,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014fnj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uc815",
+        "W\u014fnj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877084
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"91dd08aebe2a9186b4556889405e875e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475951,
+            "locality_id":1259881183,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1259881183,
+    "wof:lastmodified":1537658159,
+    "wof:name":"Wonjong",
+    "wof:parent_id":890475951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05018,
+    35.63176,
+    127.05018,
+    35.63176
+],
+  "geometry": {"coordinates":[127.05018,35.63176],"type":"Point"}
+}

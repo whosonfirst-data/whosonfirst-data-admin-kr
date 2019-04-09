@@ -1,0 +1,73 @@
+{
+  "id": 1243245565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.79365,34.6329,127.79365,34.6329",
+    "geom:latitude":34.6329,
+    "geom:longitude":127.79365,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bangjukpo",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839297,
+    "gn:latitude":34.6329,
+    "gn:longitude":127.79365,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bangjukpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uc8fd\ud3ec"
+    ],
+    "name:und_x_variant":[
+        "Pangjukp\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839297
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"13e992ac8295014d777795ca60f57b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1243245565,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243245565,
+    "wof:lastmodified":1537656337,
+    "wof:name":"Bangjukpo",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.79365,
+    34.6329,
+    127.79365,
+    34.6329
+],
+  "geometry": {"coordinates":[127.79365,34.6329],"type":"Point"}
+}

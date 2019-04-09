@@ -1,0 +1,70 @@
+{
+  "id": 1293747787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.32201,35.59515,129.32201,35.59515",
+    "geom:latitude":35.59515,
+    "geom:longitude":129.32201,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Juhyeondong",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080135,
+    "gn:latitude":35.59515,
+    "gn:longitude":129.32201,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Juhyeondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fc\ud604\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080135
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7fd50e339f52f4feb97b79aa2b7af387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746487,
+            "locality_id":1293747787,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1293747787,
+    "wof:lastmodified":1537659142,
+    "wof:name":"Juhyeondong",
+    "wof:parent_id":1108746487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.32201,
+    35.59515,
+    129.32201,
+    35.59515
+],
+  "geometry": {"coordinates":[129.32201000000001,35.59515],"type":"Point"}
+}

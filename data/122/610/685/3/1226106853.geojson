@@ -1,0 +1,70 @@
+{
+  "id": 1226106853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.12327,35.35132,129.12327,35.35132",
+    "geom:latitude":35.35132,
+    "geom:longitude":129.12327,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Gaegok",
+    "gn:country_code":"KR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111420,
+    "gn:latitude":35.35132,
+    "gn:longitude":129.12327,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Gaegok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111420
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f4e5676a7307aa48cf42267b493c752f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1226106853,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226106853,
+    "wof:lastmodified":1537659159,
+    "wof:name":"Gaegok",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.12327,
+    35.35132,
+    129.12327,
+    35.35132
+],
+  "geometry": {"coordinates":[129.12326999999999,35.35132],"type":"Point"}
+}

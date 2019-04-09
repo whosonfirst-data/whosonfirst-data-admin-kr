@@ -1,0 +1,64 @@
+{
+  "id": 1209480853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76484,35.08732,126.76484,35.08732",
+    "geom:latitude":35.08732,
+    "geom:longitude":126.76484,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Changgyo",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171408,
+    "gn:latitude":35.08732,
+    "gn:longitude":126.76484,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Changgyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\uad50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171408
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"881c5c5e1b320eaefb7065a065b72cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209480853
+        }
+    ],
+    "wof:id":1209480853,
+    "wof:lastmodified":1537659205,
+    "wof:name":"Changgyo",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76484,
+    35.08732,
+    126.76484,
+    35.08732
+],
+  "geometry": {"coordinates":[126.76484000000001,35.08732],"type":"Point"}
+}

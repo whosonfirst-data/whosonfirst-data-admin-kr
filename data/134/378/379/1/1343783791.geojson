@@ -1,0 +1,72 @@
+{
+  "id": 1343783791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3,38.26667,127.3,38.26667",
+    "geom:latitude":38.26667,
+    "geom:longitude":127.3,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Huktari",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844113,
+    "gn:latitude":38.26667,
+    "gn:longitude":127.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Huktari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019ogyo",
+        "Huktari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844113
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"56c14585f19d0320c6e1d79332198f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1343783791,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343783791,
+    "wof:lastmodified":1537656579,
+    "wof:name":"Huktari",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3,
+    38.26667,
+    127.3,
+    38.26667
+],
+  "geometry": {"coordinates":[127.3,38.26667],"type":"Point"}
+}

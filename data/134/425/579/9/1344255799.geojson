@@ -1,0 +1,70 @@
+{
+  "id": 1344255799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.50578,36.70924,127.50578,36.70924",
+    "geom:latitude":36.70924,
+    "geom:longitude":127.50578,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dongcheon",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308872,
+    "gn:latitude":36.70924,
+    "gn:longitude":127.50578,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Dongcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ucc9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308872
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d540b31aa4babae52b86da51bc214f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1344255799,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1344255799,
+    "wof:lastmodified":1537659016,
+    "wof:name":"Dongcheon",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.50578,
+    36.70924,
+    127.50578,
+    36.70924
+],
+  "geometry": {"coordinates":[127.50578,36.70924],"type":"Point"}
+}

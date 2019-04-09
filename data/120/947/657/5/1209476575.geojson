@@ -1,0 +1,65 @@
+{
+  "id": 1209476575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.03458,35.7047,128.03458,35.7047",
+    "geom:latitude":35.7047,
+    "geom:longitude":128.03458,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nok-tong",
+    "gn:country_code":"KR",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904231,
+    "gn:latitude":35.7047,
+    "gn:longitude":128.03458,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nok-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub179\ub3d9",
+        "Nok-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904231
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5737c1daee23fd9020332fc9a7971968",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209476575
+        }
+    ],
+    "wof:id":1209476575,
+    "wof:lastmodified":1537658857,
+    "wof:name":"Nok-tong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.03458,
+    35.7047,
+    128.03458,
+    35.7047
+],
+  "geometry": {"coordinates":[128.03458000000001,35.7047],"type":"Point"}
+}

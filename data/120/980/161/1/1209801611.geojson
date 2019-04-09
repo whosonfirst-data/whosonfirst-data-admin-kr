@@ -1,0 +1,72 @@
+{
+  "id": 1209801611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31833,37.46389,127.31833,37.46389",
+    "geom:latitude":37.46389,
+    "geom:longitude":127.31833,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kwangdong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6577640,
+    "gn:latitude":37.46389,
+    "gn:longitude":127.31833,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kwangdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad11\ub3d9\ub9ac",
+        "Gwangdong-ri",
+        "Kwangdong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577640
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3a0e06a17b03ffd4e58cfa456944edbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1209801611,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209801611,
+    "wof:lastmodified":1537657378,
+    "wof:name":"Kwangdong-ni",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31833,
+    37.46389,
+    127.31833,
+    37.46389
+],
+  "geometry": {"coordinates":[127.31833,37.46389],"type":"Point"}
+}

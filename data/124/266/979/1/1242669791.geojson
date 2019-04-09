@@ -1,0 +1,70 @@
+{
+  "id": 1242669791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.19175,38.29575,128.19175,38.29575",
+    "geom:latitude":38.29575,
+    "geom:longitude":128.19175,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Habaeyang",
+    "gn:country_code":"KR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9806628,
+    "gn:latitude":38.29575,
+    "gn:longitude":128.19175,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Habaeyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ubc30\uc591"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9806628
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"abad4ea07f400c75ac9a0c8d40de2f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1242669791,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242669791,
+    "wof:lastmodified":1537658943,
+    "wof:name":"Habaeyang",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.19175,
+    38.29575,
+    128.19175,
+    38.29575
+],
+  "geometry": {"coordinates":[128.19175000000001,38.29575],"type":"Point"}
+}

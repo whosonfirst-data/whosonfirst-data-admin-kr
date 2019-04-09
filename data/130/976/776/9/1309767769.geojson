@@ -1,0 +1,71 @@
+{
+  "id": 1309767769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85879,35.54481,127.85879,35.54481",
+    "geom:latitude":35.54481,
+    "geom:longitude":127.85879,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ko-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894434,
+    "gn:latitude":35.54481,
+    "gn:longitude":127.85879,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ko-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\ucd0c",
+        "Ko-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894434
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"08d47505c6642c48fd4847a8bc8a32bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472439,
+            "locality_id":1309767769,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1309767769,
+    "wof:lastmodified":1537658592,
+    "wof:name":"Ko-ch'on",
+    "wof:parent_id":890472439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85878999999998,
+    35.54481,
+    127.85878999999998,
+    35.54481
+],
+  "geometry": {"coordinates":[127.85878999999998,35.54481],"type":"Point"}
+}

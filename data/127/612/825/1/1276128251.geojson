@@ -1,0 +1,73 @@
+{
+  "id": 1276128251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.68333,34.73333,128.68333,34.73333",
+    "geom:latitude":34.73333,
+    "geom:longitude":128.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalgae",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843297,
+    "gn:latitude":34.73333,
+    "gn:longitude":128.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalgae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalgon-ni",
+        "Kalgong-ni",
+        "Kalgae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843297
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ac40922a529aceaacff67e6f6a2680f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474515,
+            "locality_id":1276128251,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276128251,
+    "wof:lastmodified":1537656541,
+    "wof:name":"Kalgae",
+    "wof:parent_id":890474515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.68333,
+    34.73333,
+    128.68333,
+    34.73333
+],
+  "geometry": {"coordinates":[128.68333000000001,34.73333],"type":"Point"}
+}

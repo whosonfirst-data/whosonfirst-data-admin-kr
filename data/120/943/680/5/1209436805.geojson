@@ -1,0 +1,70 @@
+{
+  "id": 1209436805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.57944,38.23382,128.57944,38.23382",
+    "geom:latitude":38.23382,
+    "geom:longitude":128.57944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yongchon-ri Ilgu",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9808788,
+    "gn:latitude":38.23382,
+    "gn:longitude":128.57944,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Yongchon-ri Ilgu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ucd0c\ub9ac\uc77c\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc6a9\ucd0c\ub9ac1\uad6c"
+    ],
+    "name:und_x_variant":[
+        "Yongchon-ri 1 Gu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9808788
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"24b49dd587c06e0257e7c35b42f35418",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209436805
+        }
+    ],
+    "wof:id":1209436805,
+    "wof:lastmodified":1537658945,
+    "wof:name":"Yongchon-ri Ilgu",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57943999999998,
+    38.23382,
+    128.57943999999998,
+    38.23382
+],
+  "geometry": {"coordinates":[128.57943999999998,38.23382],"type":"Point"}
+}

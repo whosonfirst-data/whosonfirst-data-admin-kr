@@ -1,0 +1,80 @@
+{
+  "id": 1226616555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.01364,35.71383,129.01364,35.71383",
+    "geom:latitude":35.71383,
+    "geom:longitude":129.01364,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Simcheon",
+    "gn:country_code":"KR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837330,
+    "gn:latitude":35.71383,
+    "gn:longitude":129.01364,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Simcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2ec\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Kip\u2019\u016dnnae-ri",
+        "Chip\u2019unae-ri",
+        "Simch\u2019\u014fn-ni",
+        "Simch\u2019\u014fn-dong",
+        "Simch\u2019\u014fn",
+        "Simcheon",
+        "Shimch\u2019\u014fn",
+        "Simch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837330
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8179042ae3d4103bacb650e8b354c256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1226616555,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226616555,
+    "wof:lastmodified":1537656231,
+    "wof:name":"Simcheon",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.01363999999998,
+    35.71383,
+    129.01363999999998,
+    35.71383
+],
+  "geometry": {"coordinates":[129.01363999999998,35.71383],"type":"Point"}
+}

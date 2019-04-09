@@ -1,0 +1,71 @@
+{
+  "id": 1226135933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7281,36.3799,127.7281,36.3799",
+    "geom:latitude":36.3799,
+    "geom:longitude":127.7281,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Majang",
+    "gn:country_code":"KR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884967,
+    "gn:latitude":36.3799,
+    "gn:longitude":127.7281,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Majang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9c8\uc7a5",
+        "Majang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884967
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5d949ebc79d46356bd95c5a3c9d0b36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1226135933,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226135933,
+    "wof:lastmodified":1537658350,
+    "wof:name":"Majang",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7281,
+    36.3799,
+    127.7281,
+    36.3799
+],
+  "geometry": {"coordinates":[127.7281,36.3799],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276992577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39724,35.97619,127.39724,35.97619",
+    "geom:latitude":35.97619,
+    "geom:longitude":127.39724,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ch'iruni",
+    "gn:country_code":"KR",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896022,
+    "gn:latitude":35.97619,
+    "gn:longitude":127.39724,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019ir\u016dni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uce60\uc740\uc774",
+        "Ch\u2019ir\u016dni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896022
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b99d8a531cf980addbd10579e1b8f24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1276992577,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1276992577,
+    "wof:lastmodified":1537658644,
+    "wof:name":"Ch'iruni",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39724,
+    35.97619,
+    127.39724,
+    35.97619
+],
+  "geometry": {"coordinates":[127.39724,35.97619],"type":"Point"}
+}

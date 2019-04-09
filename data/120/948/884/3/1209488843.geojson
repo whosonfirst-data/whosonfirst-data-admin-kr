@@ -1,0 +1,64 @@
+{
+  "id": 1209488843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.79862,36.72552,128.79862,36.72552",
+    "geom:latitude":36.72552,
+    "geom:longitude":128.79862,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Aneulli",
+    "gn:country_code":"KR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256266,
+    "gn:latitude":36.72552,
+    "gn:longitude":128.79862,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Aneulli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uc744\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256266
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0dfe38060800ce6973ebb99124a84aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209488843
+        }
+    ],
+    "wof:id":1209488843,
+    "wof:lastmodified":1537659293,
+    "wof:name":"Aneulli",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.79862,
+    36.72552,
+    128.79862,
+    36.72552
+],
+  "geometry": {"coordinates":[128.79862,36.72552],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242570813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1166,37.1524,128.1166,37.1524",
+    "geom:latitude":37.1524,
+    "geom:longitude":128.1166,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pol-maul",
+    "gn:country_code":"KR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795989,
+    "gn:latitude":37.1524,
+    "gn:longitude":128.1166,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fl-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc8c\ub9c8\uc744"
+    ],
+    "name:kor_x_variant":[
+        "P\u014fl-ma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795989
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e2ab23c1445decce2ecccbecc7ae929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1242570813,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1242570813,
+    "wof:lastmodified":1537657543,
+    "wof:name":"Pol-maul",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1166,
+    37.1524,
+    128.1166,
+    37.1524
+],
+  "geometry": {"coordinates":[128.11660000000001,37.1524],"type":"Point"}
+}

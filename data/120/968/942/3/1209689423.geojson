@@ -1,0 +1,64 @@
+{
+  "id": 1209689423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.37529,36.2662,129.37529,36.2662",
+    "geom:latitude":36.2662,
+    "geom:longitude":129.37529,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jigyeong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246836,
+    "gn:latitude":36.2662,
+    "gn:longitude":129.37529,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Jigyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\uacbd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246836
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"15a0cd2a2fc10a2a635b22a018406c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689423
+        }
+    ],
+    "wof:id":1209689423,
+    "wof:lastmodified":1537659248,
+    "wof:name":"Jigyeong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.37528999999998,
+    36.2662,
+    129.37528999999998,
+    36.2662
+],
+  "geometry": {"coordinates":[129.37528999999998,36.2662],"type":"Point"}
+}

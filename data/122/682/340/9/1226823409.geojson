@@ -1,0 +1,73 @@
+{
+  "id": 1226823409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.90694,35.09609,128.90694,35.09609",
+    "geom:latitude":35.09609,
+    "geom:longitude":128.90694,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chungsin",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844926,
+    "gn:latitude":35.09609,
+    "gn:longitude":128.90694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chungsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinj\u014fn-ni",
+        "Shinden-ri",
+        "\uc911\uc2e0",
+        "Chungsin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844926
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a6968138a4f5abd9c1a022917347d1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1226823409,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1226823409,
+    "wof:lastmodified":1537656622,
+    "wof:name":"Chungsin",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.90694,
+    35.09609,
+    128.90694,
+    35.09609
+],
+  "geometry": {"coordinates":[128.90693999999999,35.09609],"type":"Point"}
+}

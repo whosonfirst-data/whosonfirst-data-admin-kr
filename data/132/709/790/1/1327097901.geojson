@@ -1,0 +1,75 @@
+{
+  "id": 1327097901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32528,36.45058,127.32528,36.45058",
+    "geom:latitude":36.45058,
+    "geom:longitude":127.32528,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cheongnyongan",
+    "gn:country_code":"KR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888687,
+    "gn:latitude":36.45058,
+    "gn:longitude":127.32528,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Cheongnyongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\ub8e1\uc548"
+    ],
+    "name:und_x_variant":[
+        "\uccad\uc6a9\uc548",
+        "Ch\u2019\u014fngyongan",
+        "Cheongnyongan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888687
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d0701e81b8de2a7610f37a0dce69c9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1327097901,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1327097901,
+    "wof:lastmodified":1537658435,
+    "wof:name":"Cheongnyongan",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32528,
+    36.45058,
+    127.32528,
+    36.45058
+],
+  "geometry": {"coordinates":[127.32528000000001,36.45058],"type":"Point"}
+}

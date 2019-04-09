@@ -1,0 +1,70 @@
+{
+  "id": 1293172647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73647,35.29562,126.73647,35.29562",
+    "geom:latitude":35.29562,
+    "geom:longitude":126.73647,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Busan",
+    "gn:country_code":"KR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169440,
+    "gn:latitude":35.29562,
+    "gn:longitude":126.73647,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Busan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169440
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"34e9497e8eccaa9bd394c76f283322a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1293172647,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293172647,
+    "wof:lastmodified":1537659176,
+    "wof:name":"Busan",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73647,
+    35.29562,
+    126.73647,
+    35.29562
+],
+  "geometry": {"coordinates":[126.73647,35.29562],"type":"Point"}
+}

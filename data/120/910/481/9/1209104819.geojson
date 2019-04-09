@@ -1,0 +1,65 @@
+{
+  "id": 1209104819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0361,36.2075,128.0361,36.2075",
+    "geom:latitude":36.2075,
+    "geom:longitude":128.0361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chak-tong",
+    "gn:country_code":"KR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6891757,
+    "gn:latitude":36.2075,
+    "gn:longitude":128.0361,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc791\ub3d9",
+        "Chak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6891757
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c4ea688b295f6de7703f289387a4a5d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209104819
+        }
+    ],
+    "wof:id":1209104819,
+    "wof:lastmodified":1537658522,
+    "wof:name":"Chak-tong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0361,
+    36.2075,
+    128.0361,
+    36.2075
+],
+  "geometry": {"coordinates":[128.0361,36.2075],"type":"Point"}
+}

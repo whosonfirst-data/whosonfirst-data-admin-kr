@@ -1,0 +1,74 @@
+{
+  "id": 1276212867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3908,37.7311,127.3908,37.7311",
+    "geom:latitude":37.7311,
+    "geom:longitude":127.3908,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Keungarul",
+    "gn:country_code":"KR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803555,
+    "gn:latitude":37.7311,
+    "gn:longitude":127.3908,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Keungarul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\uac08\uc6b8"
+    ],
+    "name:und_x_variant":[
+        "\ud070\uac08\uc6b8",
+        "Keungarul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803555
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f32cc02202f93dece406ae09edb77268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1276212867,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276212867,
+    "wof:lastmodified":1537657787,
+    "wof:name":"Keungarul",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3908,
+    37.7311,
+    127.3908,
+    37.7311
+],
+  "geometry": {"coordinates":[127.3908,37.7311],"type":"Point"}
+}

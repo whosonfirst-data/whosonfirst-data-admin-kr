@@ -1,0 +1,73 @@
+{
+  "id": 1242660815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.51735,36.04341,129.51735,36.04341",
+    "geom:latitude":36.04341,
+    "geom:longitude":129.51735,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yeosa",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888997,
+    "gn:latitude":36.04341,
+    "gn:longitude":129.51735,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Yeosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ec\uc0ac"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888997
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2bdb90cdd5eac731a5bde25e00102f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1242660815,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242660815,
+    "wof:lastmodified":1537656800,
+    "wof:name":"Yeosa",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.51735,
+    36.04341,
+    129.51735,
+    36.04341
+],
+  "geometry": {"coordinates":[129.51734999999999,36.04341],"type":"Point"}
+}

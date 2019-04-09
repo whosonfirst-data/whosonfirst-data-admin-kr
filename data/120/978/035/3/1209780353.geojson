@@ -1,0 +1,73 @@
+{
+  "id": 1209780353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.84355,35.20678,128.84355,35.20678",
+    "geom:latitude":35.20678,
+    "geom:longitude":128.84355,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pungnyu",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894688,
+    "gn:latitude":35.20678,
+    "gn:longitude":128.84355,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Pungnyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud48d\ub958"
+    ],
+    "name:und_x_variant":[
+        "P\u2019ungyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894688
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de488e3deff170a829daed3e32996283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475303,
+            "locality_id":1209780353,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1209780353,
+    "wof:lastmodified":1537656863,
+    "wof:name":"Pungnyu",
+    "wof:parent_id":890475303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.84355,
+    35.20678,
+    128.84355,
+    35.20678
+],
+  "geometry": {"coordinates":[128.84354999999999,35.20678],"type":"Point"}
+}

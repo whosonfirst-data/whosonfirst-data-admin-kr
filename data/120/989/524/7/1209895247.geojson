@@ -1,0 +1,76 @@
+{
+  "id": 1209895247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89528,37.79639,126.89528,37.79639",
+    "geom:latitude":37.79639,
+    "geom:longitude":126.89528,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Torandong",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951479,
+    "gn:latitude":37.79639,
+    "gn:longitude":126.89528,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Torandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1a0\ub780\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "T\u2019oran-dong",
+        "T\u2019orang-dong",
+        "Torandong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951479
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"abaeb162feb20c8a0269055464ad23b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1209895247,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209895247,
+    "wof:lastmodified":1537656975,
+    "wof:name":"Torandong",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89528,
+    37.79639,
+    126.89528,
+    37.79639
+],
+  "geometry": {"coordinates":[126.89528,37.79639],"type":"Point"}
+}

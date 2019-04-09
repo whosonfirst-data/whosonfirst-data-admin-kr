@@ -1,0 +1,71 @@
+{
+  "id": 1343444339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65384,35.61893,128.65384,35.61893",
+    "geom:latitude":35.61893,
+    "geom:longitude":128.65384,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chonggon",
+    "gn:country_code":"KR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903551,
+    "gn:latitude":35.61893,
+    "gn:longitude":128.65384,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u014fngg\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc815\uac74",
+        "Ch\u014fngg\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903551
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3b7f451c4d5d62a4b764f08838abf080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1343444339,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343444339,
+    "wof:lastmodified":1537658853,
+    "wof:name":"Chonggon",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65384,
+    35.61893,
+    128.65384,
+    35.61893
+],
+  "geometry": {"coordinates":[128.65384,35.61893],"type":"Point"}
+}

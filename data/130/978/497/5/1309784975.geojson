@@ -1,0 +1,73 @@
+{
+  "id": 1309784975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82278,37.06111,126.82278,37.06111",
+    "geom:latitude":37.06111,
+    "geom:longitude":126.82278,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sagokchut'aek",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364383,
+    "gn:latitude":37.06111,
+    "gn:longitude":126.82278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sagokchut\u2019aek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uace1\uc8fc\ud0dd"
+    ],
+    "name:kor_x_variant":[
+        "Sagokchut\u2019aek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364383
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d6991c5b2af34eab14f2a94d07f2cdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1309784975,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309784975,
+    "wof:lastmodified":1537657079,
+    "wof:name":"Sagokchut'aek",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82278,
+    37.06111,
+    126.82278,
+    37.06111
+],
+  "geometry": {"coordinates":[126.82277999999999,37.06111],"type":"Point"}
+}

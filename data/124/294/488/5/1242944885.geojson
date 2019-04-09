@@ -1,0 +1,70 @@
+{
+  "id": 1242944885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65765,35.18476,126.65765,35.18476",
+    "geom:latitude":35.18476,
+    "geom:longitude":126.65765,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hwangsangol",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171019,
+    "gn:latitude":35.18476,
+    "gn:longitude":126.65765,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Hwangsangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud669\uc0b0\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171019
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a5950d220c6e274d2a08439c928716b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1242944885,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242944885,
+    "wof:lastmodified":1537659197,
+    "wof:name":"Hwangsangol",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65765,
+    35.18476,
+    126.65765,
+    35.18476
+],
+  "geometry": {"coordinates":[126.65765,35.18476],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276749865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2012,37.513,127.2012,37.513",
+    "geom:latitude":37.513,
+    "geom:longitude":127.2012,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doechonmal",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802853,
+    "gn:latitude":37.513,
+    "gn:longitude":127.2012,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Doechonmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub418\ucd0c\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "\ub418\ucd0c\ub9d0",
+        "Doechonmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802853
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e022a5d36ab066c27f7c2addd87ba354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1276749865,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276749865,
+    "wof:lastmodified":1537657758,
+    "wof:name":"Doechonmal",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2012,
+    37.51300000000001,
+    127.2012,
+    37.51300000000001
+],
+  "geometry": {"coordinates":[127.2012,37.51300000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209586269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.1483,36.3268,129.1483,36.3268",
+    "geom:latitude":36.3268,
+    "geom:longitude":129.1483,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hant'i",
+    "gn:country_code":"KR",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879219,
+    "gn:latitude":36.3268,
+    "gn:longitude":129.1483,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hant\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud55c\ud2f0",
+        "Hant\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879219
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"85f6ffc2d7ff53846c1c2e1da7d5070e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586269
+        }
+    ],
+    "wof:id":1209586269,
+    "wof:lastmodified":1537658222,
+    "wof:name":"Hant'i",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.1483,
+    36.3268,
+    129.1483,
+    36.3268
+],
+  "geometry": {"coordinates":[129.14830000000001,36.3268],"type":"Point"}
+}

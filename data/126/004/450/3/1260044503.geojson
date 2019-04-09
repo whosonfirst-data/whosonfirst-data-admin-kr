@@ -1,0 +1,71 @@
+{
+  "id": 1260044503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.09939,35.7962,128.09939,35.7962",
+    "geom:latitude":35.7962,
+    "geom:longitude":128.09939,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kugir-am",
+    "gn:country_code":"KR",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902638,
+    "gn:latitude":35.7962,
+    "gn:longitude":128.09939,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kugir-am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6d\uc77c\uc554",
+        "Kugir-am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902638
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e8d7754352b0ac801ce83e90ad53a4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1260044503,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1260044503,
+    "wof:lastmodified":1537658828,
+    "wof:name":"Kugir-am",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.09939,
+    35.7962,
+    128.09939,
+    35.7962
+],
+  "geometry": {"coordinates":[128.09939,35.7962],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276734401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93472,34.70083,125.93472,34.70083",
+    "geom:latitude":34.70083,
+    "geom:longitude":125.93472,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ch'un'gyong",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882583,
+    "gn:latitude":34.70083,
+    "gn:longitude":125.93472,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Ch\u2019un\u2019gy\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882583
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be17368bff25bdbf4ec3044046f63b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1276734401,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276734401,
+    "wof:lastmodified":1536738453,
+    "wof:name":"Ch'un'gyong",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93472,
+    34.70083,
+    125.93472,
+    34.70083
+],
+  "geometry": {"coordinates":[125.93472,34.70083],"type":"Point"}
+}

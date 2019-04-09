@@ -1,0 +1,71 @@
+{
+  "id": 1310485009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.98502,36.28363,127.98502,36.28363",
+    "geom:latitude":36.28363,
+    "geom:longitude":127.98502,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sanosil",
+    "gn:country_code":"KR",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892298,
+    "gn:latitude":36.28363,
+    "gn:longitude":127.98502,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"San\u014fsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0b0\uc5b4\uc2e4",
+        "San\u014fsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892298
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"71f16271b96537440975960d6f8c636e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1310485009,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310485009,
+    "wof:lastmodified":1537658539,
+    "wof:name":"Sanosil",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.98502,
+    36.28363,
+    127.98502,
+    36.28363
+],
+  "geometry": {"coordinates":[127.98502000000001,36.28363],"type":"Point"}
+}

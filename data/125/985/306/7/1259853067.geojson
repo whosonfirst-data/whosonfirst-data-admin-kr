@@ -1,0 +1,74 @@
+{
+  "id": 1259853067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.15639,35.97194,129.15639,35.97194",
+    "geom:latitude":35.97194,
+    "geom:longitude":129.15639,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sabak-kol",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838322,
+    "gn:latitude":35.97194,
+    "gn:longitude":129.15639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sabak-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saba-kol",
+        "Sabang-ni",
+        "Saba-gol",
+        "Sabak-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838322
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e1e034fd6e7295660914f3f949aee110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1259853067,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259853067,
+    "wof:lastmodified":1537656287,
+    "wof:name":"Sabak-kol",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.15639,
+    35.97194000000001,
+    129.15639,
+    35.97194000000001
+],
+  "geometry": {"coordinates":[129.15638999999999,35.97194000000001],"type":"Point"}
+}

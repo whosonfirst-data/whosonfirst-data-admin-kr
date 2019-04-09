@@ -1,0 +1,75 @@
+{
+  "id": 1309869105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91335,36.65389,126.91335,36.65389",
+    "geom:latitude":36.65389,
+    "geom:longitude":126.91335,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gomsil",
+    "gn:country_code":"KR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842660,
+    "gn:latitude":36.65389,
+    "gn:longitude":126.91335,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Gomsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf0\uc2e4"
+    ],
+    "name:und_x_variant":[
+        "Ung-dong",
+        "Komsil",
+        "Gomsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842660
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed7888304d21376cb544e3ef22e5da88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1309869105,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1309869105,
+    "wof:lastmodified":1537656508,
+    "wof:name":"Gomsil",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91335,
+    36.65389,
+    126.91335,
+    36.65389
+],
+  "geometry": {"coordinates":[126.91334999999999,36.65389],"type":"Point"}
+}

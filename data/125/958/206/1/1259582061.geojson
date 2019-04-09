@@ -1,0 +1,71 @@
+{
+  "id": 1259582061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.73333,36.55,127.73333,36.55",
+    "geom:latitude":36.55,
+    "geom:longitude":127.73333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kuch'i-ri",
+    "gn:country_code":"KR",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842450,
+    "gn:latitude":36.55,
+    "gn:longitude":127.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuch\u2019i-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kut\u2019i-ri",
+        "Kuch\u2019i-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842450
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c9019cd0ccd87b6cc344dd82fddf0ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472333,
+            "locality_id":1259582061,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259582061,
+    "wof:lastmodified":1537656497,
+    "wof:name":"Kuch'i-ri",
+    "wof:parent_id":890472333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.73333,
+    36.55,
+    127.73333,
+    36.55
+],
+  "geometry": {"coordinates":[127.73333,36.55],"type":"Point"}
+}

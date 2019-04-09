@@ -1,0 +1,65 @@
+{
+  "id": 1209188621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.90781,35.5058,127.90781,35.5058",
+    "geom:latitude":35.5058,
+    "geom:longitude":127.90781,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Taehyon",
+    "gn:country_code":"KR",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894515,
+    "gn:latitude":35.5058,
+    "gn:longitude":127.90781,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taehy\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\ud604",
+        "Taehy\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894515
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"99ec7165e7641575fecced1765960e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209188621
+        }
+    ],
+    "wof:id":1209188621,
+    "wof:lastmodified":1537658596,
+    "wof:name":"Taehyon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.90781,
+    35.5058,
+    127.90781,
+    35.5058
+],
+  "geometry": {"coordinates":[127.90781,35.5058],"type":"Point"}
+}

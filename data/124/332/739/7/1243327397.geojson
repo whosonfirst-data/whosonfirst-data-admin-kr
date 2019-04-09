@@ -1,0 +1,75 @@
+{
+  "id": 1243327397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38616,34.81378,126.38616,34.81378",
+    "geom:latitude":34.81378,
+    "geom:longitude":126.38616,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sanjeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836188,
+    "gn:latitude":34.81378,
+    "gn:longitude":126.38616,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sanjeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "S\u016dnja-dong",
+        "S\u014fngja-dong",
+        "Sanjeongdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836188
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0222e023b3ffba5d546626a901d27227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473315,
+            "locality_id":1243327397,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243327397,
+    "wof:lastmodified":1537656175,
+    "wof:name":"Sanjeongdong",
+    "wof:parent_id":890473315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38616,
+    34.81378,
+    126.38616,
+    34.81378
+],
+  "geometry": {"coordinates":[126.38616,34.81378],"type":"Point"}
+}

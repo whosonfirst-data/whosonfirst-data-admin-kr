@@ -1,0 +1,74 @@
+{
+  "id": 1259569237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82306,37.64972,126.82306,37.64972",
+    "geom:latitude":37.64972,
+    "geom:longitude":126.82306,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dokgot",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363821,
+    "gn:latitude":37.64972,
+    "gn:longitude":126.82306,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Dokgot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c5\uacf3"
+    ],
+    "name:und_x_variant":[
+        "Tokkot",
+        "Dokgot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363821
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af4dfc5aa72d2d9855e87cda3f6e590c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746463,
+            "locality_id":1259569237,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259569237,
+    "wof:lastmodified":1537657055,
+    "wof:name":"Dokgot",
+    "wof:parent_id":1108746463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82306,
+    37.64972,
+    126.82306,
+    37.64972
+],
+  "geometry": {"coordinates":[126.82306,37.64972],"type":"Point"}
+}

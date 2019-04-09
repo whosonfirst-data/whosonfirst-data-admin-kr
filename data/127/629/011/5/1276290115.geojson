@@ -1,0 +1,75 @@
+{
+  "id": 1276290115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.01491,35.56554,129.01491,35.56554",
+    "geom:latitude":35.56554,
+    "geom:longitude":129.01491,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Juam",
+    "gn:country_code":"KR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845288,
+    "gn:latitude":35.56554,
+    "gn:longitude":129.01491,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Juam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fc\uc554"
+    ],
+    "name:und_x_variant":[
+        "Chuge",
+        "Chugye",
+        "Juam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845288
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"51c5426b32f8fbb30d45d8bcbecab8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1276290115,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1276290115,
+    "wof:lastmodified":1537656642,
+    "wof:name":"Juam",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.01491,
+    35.56554000000001,
+    129.01491,
+    35.56554000000001
+],
+  "geometry": {"coordinates":[129.01490999999999,35.56554000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242847889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.17456,35.81093,129.17456,35.81093",
+    "geom:latitude":35.81093,
+    "geom:longitude":129.17456,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dudae",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064892,
+    "gn:latitude":35.81093,
+    "gn:longitude":129.17456,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dudae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ub300"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064892
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"568247aa6bfac521a195f9a95d88e8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1242847889,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242847889,
+    "wof:lastmodified":1537659126,
+    "wof:name":"Dudae",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.17456,
+    35.81093,
+    129.17456,
+    35.81093
+],
+  "geometry": {"coordinates":[129.17456000000001,35.81093],"type":"Point"}
+}

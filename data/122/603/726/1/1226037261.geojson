@@ -1,0 +1,76 @@
+{
+  "id": 1226037261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04078,37.88411,128.04078,37.88411",
+    "geom:latitude":37.88411,
+    "geom:longitude":128.04078,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Andwigol",
+    "gn:country_code":"KR",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842566,
+    "gn:latitude":37.88411,
+    "gn:longitude":128.04078,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Andwigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\ub4a4\uace8"
+    ],
+    "name:und_x_variant":[
+        "K\u014fritwi-gol",
+        "K\u014fridwi-gol",
+        "K\u014fridwik-kol",
+        "Andwigol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842566
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ba20f543aa0901c54da8a995ba0f495a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1226037261,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226037261,
+    "wof:lastmodified":1537656503,
+    "wof:name":"Andwigol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04078,
+    37.88411,
+    128.04078,
+    37.88411
+],
+  "geometry": {"coordinates":[128.04078000000001,37.88411],"type":"Point"}
+}

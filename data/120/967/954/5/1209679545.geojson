@@ -1,0 +1,64 @@
+{
+  "id": 1209679545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.66383,34.9784,126.66383,34.9784",
+    "geom:latitude":34.9784,
+    "geom:longitude":126.66383,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bonggok",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11179445,
+    "gn:latitude":34.9784,
+    "gn:longitude":126.66383,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Bonggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11179445
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"36aa64907b3798bf1ed18cf6c32b4cb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209679545
+        }
+    ],
+    "wof:id":1209679545,
+    "wof:lastmodified":1537659214,
+    "wof:name":"Bonggok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.66383,
+    34.9784,
+    126.66383,
+    34.9784
+],
+  "geometry": {"coordinates":[126.66383,34.9784],"type":"Point"}
+}

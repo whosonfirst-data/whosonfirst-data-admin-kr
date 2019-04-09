@@ -1,0 +1,71 @@
+{
+  "id": 1260285609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32842,35.68866,127.32842,35.68866",
+    "geom:latitude":35.68866,
+    "geom:longitude":127.32842,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Songgi",
+    "gn:country_code":"KR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876402,
+    "gn:latitude":35.68866,
+    "gn:longitude":127.32842,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\uae30",
+        "Songgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876402
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e5eaee4da88eb38641c6c09f9c6b6041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1260285609,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1260285609,
+    "wof:lastmodified":1537658129,
+    "wof:name":"Songgi",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32842,
+    35.68866,
+    127.32842,
+    35.68866
+],
+  "geometry": {"coordinates":[127.32841999999999,35.68866],"type":"Point"}
+}

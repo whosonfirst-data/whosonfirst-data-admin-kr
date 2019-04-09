@@ -1,0 +1,71 @@
+{
+  "id": 1260360187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.7014,36.4283,128.7014,36.4283",
+    "geom:latitude":36.4283,
+    "geom:longitude":128.7014,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Unhaeng",
+    "gn:country_code":"KR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892824,
+    "gn:latitude":36.4283,
+    "gn:longitude":128.7014,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u016cnhaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc740\ud589",
+        "\u016cnhaeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892824
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"582e999c8e70aba1711047d8d3d22f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474631,
+            "locality_id":1260360187,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260360187,
+    "wof:lastmodified":1537658558,
+    "wof:name":"Unhaeng",
+    "wof:parent_id":890474631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.7014,
+    36.4283,
+    128.7014,
+    36.4283
+],
+  "geometry": {"coordinates":[128.70140000000001,36.4283],"type":"Point"}
+}

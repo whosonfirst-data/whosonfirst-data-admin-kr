@@ -1,0 +1,70 @@
+{
+  "id": 1243415823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.75056,35.10778,128.75056,35.10778",
+    "geom:latitude":35.10778,
+    "geom:longitude":128.75056,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Unchen",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833661,
+    "gn:latitude":35.10778,
+    "gn:longitude":128.75056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Unchen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungch\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833661
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"68c5943e9ebd86f2ee4f3684abd508dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746475,
+            "locality_id":1243415823,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243415823,
+    "wof:lastmodified":1537656045,
+    "wof:name":"Unchen",
+    "wof:parent_id":1108746475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.75056,
+    35.10778,
+    128.75056,
+    35.10778
+],
+  "geometry": {"coordinates":[128.75056000000001,35.10778],"type":"Point"}
+}

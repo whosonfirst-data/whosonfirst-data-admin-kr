@@ -1,0 +1,75 @@
+{
+  "id": 1326494127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.37093,34.8458,127.37093,34.8458",
+    "geom:latitude":34.8458,
+    "geom:longitude":127.37093,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jangyang",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884147,
+    "gn:latitude":34.8458,
+    "gn:longitude":127.37093,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Jangyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc591"
+    ],
+    "name:und_x_variant":[
+        "Changyang-ni",
+        "Changyang",
+        "Jangyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884147
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae7cb9c402f10f28328c02ad5d2c4fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1326494127,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1326494127,
+    "wof:lastmodified":1537656774,
+    "wof:name":"Jangyang",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.37093,
+    34.8458,
+    127.37093,
+    34.8458
+],
+  "geometry": {"coordinates":[127.37093,34.8458],"type":"Point"}
+}

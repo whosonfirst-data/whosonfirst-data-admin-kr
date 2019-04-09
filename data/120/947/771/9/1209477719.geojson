@@ -1,0 +1,64 @@
+{
+  "id": 1209477719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.92651,35.25127,126.92651,35.25127",
+    "geom:latitude":35.25127,
+    "geom:longitude":126.92651,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hangnim",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844475,
+    "gn:latitude":35.25127,
+    "gn:longitude":126.92651,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Hangnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844475
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e3985e4595625c02f2d873162128880f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209477719
+        }
+    ],
+    "wof:id":1209477719,
+    "wof:lastmodified":1537656598,
+    "wof:name":"Hangnim",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92651,
+    35.25127,
+    126.92651,
+    35.25127
+],
+  "geometry": {"coordinates":[126.92650999999999,35.25127],"type":"Point"}
+}

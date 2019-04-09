@@ -1,0 +1,64 @@
+{
+  "id": 1209589527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.19613,35.56442,129.19613,35.56442",
+    "geom:latitude":35.56442,
+    "geom:longitude":129.19613,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mudong",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079463,
+    "gn:latitude":35.56442,
+    "gn:longitude":129.19613,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Mudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb34\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079463
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"45ba742d9e12571ab01ba2fe680931f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209589527
+        }
+    ],
+    "wof:id":1209589527,
+    "wof:lastmodified":1537659140,
+    "wof:name":"Mudong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.19613,
+    35.56442,
+    129.19613,
+    35.56442
+],
+  "geometry": {"coordinates":[129.19613000000001,35.56442],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259545121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32278,35.46694,128.32278,35.46694",
+    "geom:latitude":35.46694,
+    "geom:longitude":128.32278,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sinbal-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837274,
+    "gn:latitude":35.46694,
+    "gn:longitude":128.32278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinbal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shinhan-ri",
+        "Shinban-ni",
+        "Sinban-ni",
+        "Sinbal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837274
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e37c778c134f1d68e9f352bec8c6b974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474629,
+            "locality_id":1259545121,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259545121,
+    "wof:lastmodified":1537656228,
+    "wof:name":"Sinbal-li",
+    "wof:parent_id":890474629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32278,
+    35.46694,
+    128.32278,
+    35.46694
+],
+  "geometry": {"coordinates":[128.32277999999999,35.46694],"type":"Point"}
+}

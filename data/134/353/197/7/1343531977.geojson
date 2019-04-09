@@ -1,0 +1,70 @@
+{
+  "id": 1343531977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.20333,36.53253,128.20333,36.53253",
+    "geom:latitude":36.53253,
+    "geom:longitude":128.20333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jukdong",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11267502,
+    "gn:latitude":36.53253,
+    "gn:longitude":128.20333,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Jukdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fd\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267502
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b8ffbffd5be20a88e4314e43e8442cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1343531977,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343531977,
+    "wof:lastmodified":1537659300,
+    "wof:name":"Jukdong",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.20333,
+    36.53253,
+    128.20333,
+    36.53253
+],
+  "geometry": {"coordinates":[128.20332999999999,36.53253],"type":"Point"}
+}

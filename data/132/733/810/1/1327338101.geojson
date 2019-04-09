@@ -1,0 +1,73 @@
+{
+  "id": 1327338101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62097,37.08013,127.62097,37.08013",
+    "geom:latitude":37.08013,
+    "geom:longitude":127.62097,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goyari",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844833,
+    "gn:latitude":37.08013,
+    "gn:longitude":127.62097,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Goyari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\uc57c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Koyari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844833
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ec43a206b3c5d9ae70abea23083c6456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1327338101,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1327338101,
+    "wof:lastmodified":1537656619,
+    "wof:name":"Goyari",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62097,
+    37.08013,
+    127.62097,
+    37.08013
+],
+  "geometry": {"coordinates":[127.62097,37.08013],"type":"Point"}
+}

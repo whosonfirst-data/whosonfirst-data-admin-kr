@@ -1,0 +1,70 @@
+{
+  "id": 1226752253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55999,36.65657,127.55999,36.65657",
+    "geom:latitude":36.65657,
+    "geom:longitude":127.55999,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Geombae",
+    "gn:country_code":"KR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351207,
+    "gn:latitude":36.65657,
+    "gn:longitude":127.55999,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Geombae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac80\ubc30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351207
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fd54c9d6a0a746e2bdd5a69311df809b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1226752253,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226752253,
+    "wof:lastmodified":1537659029,
+    "wof:name":"Geombae",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55998999999998,
+    36.65657,
+    127.55998999999998,
+    36.65657
+],
+  "geometry": {"coordinates":[127.55998999999998,36.65657],"type":"Point"}
+}

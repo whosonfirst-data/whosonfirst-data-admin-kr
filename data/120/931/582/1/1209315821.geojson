@@ -1,0 +1,65 @@
+{
+  "id": 1209315821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.10341,35.59278,127.10341,35.59278",
+    "geom:latitude":35.59278,
+    "geom:longitude":127.10341,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kanunjongi",
+    "gn:country_code":"KR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877114,
+    "gn:latitude":35.59278,
+    "gn:longitude":127.10341,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kan\u016dnj\u014fngi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ub294\uc815\uc774",
+        "Kan\u016dnj\u014fngi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877114
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"61b4720db88df4a4b11fb49cee553da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209315821
+        }
+    ],
+    "wof:id":1209315821,
+    "wof:lastmodified":1537658160,
+    "wof:name":"Kanunjongi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.10341,
+    35.59278,
+    127.10341,
+    35.59278
+],
+  "geometry": {"coordinates":[127.10341,35.59278],"type":"Point"}
+}

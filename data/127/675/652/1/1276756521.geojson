@@ -1,0 +1,75 @@
+{
+  "id": 1276756521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.45126,38.25336,127.45126,38.25336",
+    "geom:latitude":38.25336,
+    "geom:longitude":127.45126,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Ch'\u014frw\u014fn-gun",
+    "gn:asciiname":"Suyudong",
+    "gn:country_code":"KR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835537,
+    "gn:latitude":38.25336,
+    "gn:longitude":127.45126,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Suyudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc218\uc720\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Munemi",
+        "Suyudong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835537
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4486da99343efc64fd62d3ac6b2df6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1276756521,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276756521,
+    "wof:lastmodified":1537656143,
+    "wof:name":"Suyudong",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.45126,
+    38.25336,
+    127.45126,
+    38.25336
+],
+  "geometry": {"coordinates":[127.45126,38.25336],"type":"Point"}
+}

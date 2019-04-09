@@ -1,0 +1,74 @@
+{
+  "id": 1326616293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3613,37.7474,127.3613,37.7474",
+    "geom:latitude":37.7474,
+    "geom:longitude":127.3613,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bamangol",
+    "gn:country_code":"KR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803601,
+    "gn:latitude":37.7474,
+    "gn:longitude":127.3613,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Bamangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc24\uc548\uace8"
+    ],
+    "name:und_x_variant":[
+        "\ubc24\uc548\uace8",
+        "Bamangol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803601
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dca456069e1b8709b549a4e64ea29349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1326616293,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1326616293,
+    "wof:lastmodified":1537657789,
+    "wof:name":"Bamangol",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3613,
+    37.7474,
+    127.3613,
+    37.7474
+],
+  "geometry": {"coordinates":[127.3613,37.7474],"type":"Point"}
+}

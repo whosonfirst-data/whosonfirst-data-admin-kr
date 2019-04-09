@@ -1,0 +1,74 @@
+{
+  "id": 1292972039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48417,37.15778,127.48417,37.15778",
+    "geom:latitude":37.15778,
+    "geom:longitude":127.48417,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Seogyeong-ri",
+    "gn:country_code":"KR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6399091,
+    "gn:latitude":37.15778,
+    "gn:longitude":127.48417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Seogyeong-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uacbd\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fgy\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6399091
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17e91730e60a56329092ea54601d9103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1292972039,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1292972039,
+    "wof:lastmodified":1537657210,
+    "wof:name":"Seogyeong-ri",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48417,
+    37.15778,
+    127.48417,
+    37.15778
+],
+  "geometry": {"coordinates":[127.48417000000001,37.15778],"type":"Point"}
+}

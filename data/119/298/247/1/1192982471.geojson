@@ -1,0 +1,75 @@
+{
+  "id": 1192982471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9,34.55,126.9,34.55",
+    "geom:latitude":34.55,
+    "geom:longitude":126.9,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nongso",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840222,
+    "gn:latitude":34.55,
+    "gn:longitude":126.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nongso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub18d\uc18c"
+    ],
+    "name:und_x_variant":[
+        "Nongso-ri",
+        "Nongso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840222
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af83f4d205ce73047f1e8fe3b951fede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1192982471,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1192982471,
+    "wof:lastmodified":1537656385,
+    "wof:name":"Nongso",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9,
+    34.55,
+    126.9,
+    34.55
+],
+  "geometry": {"coordinates":[126.90000000000001,34.55],"type":"Point"}
+}

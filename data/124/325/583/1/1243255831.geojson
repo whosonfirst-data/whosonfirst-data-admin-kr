@@ -1,0 +1,71 @@
+{
+  "id": 1243255831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.68583,38.2,127.68583,38.2",
+    "geom:latitude":38.2,
+    "geom:longitude":127.68583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sanyangsam-ni",
+    "gn:country_code":"KR",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367823,
+    "gn:latitude":38.2,
+    "gn:longitude":127.68583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanyangsam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0b0\uc5913\ub9ac",
+        "Sanyangsam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367823
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fce0421c0b93a08110c2b8b55243262d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1243255831,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243255831,
+    "wof:lastmodified":1537657126,
+    "wof:name":"Sanyangsam-ni",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.68583,
+    38.2,
+    127.68583,
+    38.2
+],
+  "geometry": {"coordinates":[127.68583,38.2],"type":"Point"}
+}

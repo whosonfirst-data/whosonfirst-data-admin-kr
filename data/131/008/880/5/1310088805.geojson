@@ -1,0 +1,70 @@
+{
+  "id": 1310088805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.33472,36.63907,128.33472,36.63907",
+    "geom:latitude":36.63907,
+    "geom:longitude":128.33472,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Soran",
+    "gn:country_code":"KR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254405,
+    "gn:latitude":36.63907,
+    "gn:longitude":128.33472,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Soran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc194\uc548"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254405
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d75f51df044d543894d620a6084a651c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1310088805,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310088805,
+    "wof:lastmodified":1537659270,
+    "wof:name":"Soran",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.33472,
+    36.63907,
+    128.33472,
+    36.63907
+],
+  "geometry": {"coordinates":[128.33472,36.63907],"type":"Point"}
+}

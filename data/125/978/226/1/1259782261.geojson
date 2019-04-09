@@ -1,0 +1,70 @@
+{
+  "id": 1259782261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.90008,36.7499,127.90008,36.7499",
+    "geom:latitude":36.7499,
+    "geom:longitude":127.90008,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Domagol",
+    "gn:country_code":"KR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420500,
+    "gn:latitude":36.7499,
+    "gn:longitude":127.90008,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Domagol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ub9c8\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420500
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dab203105a71644010c5ea66d8ac001d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1259782261,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259782261,
+    "wof:lastmodified":1537659057,
+    "wof:name":"Domagol",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.90008,
+    36.7499,
+    127.90008,
+    36.7499
+],
+  "geometry": {"coordinates":[127.90008,36.7499],"type":"Point"}
+}

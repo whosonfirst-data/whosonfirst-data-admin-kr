@@ -1,0 +1,76 @@
+{
+  "id": 1225925987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89483,34.92791,126.89483,34.92791",
+    "geom:latitude":34.92791,
+    "geom:longitude":126.89483,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Woljeolli",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833355,
+    "gn:latitude":34.92791,
+    "gn:longitude":126.89483,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Woljeolli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\uc804\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "W\u014flch\u014fng",
+        "W\u014flch\u014fn",
+        "W\u014flch\u014fn-ni",
+        "Woljeolli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833355
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e7736b51028912713e82bc8b95cc9937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1225925987,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225925987,
+    "wof:lastmodified":1537656027,
+    "wof:name":"Woljeolli",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89483,
+    34.92791,
+    126.89483,
+    34.92791
+],
+  "geometry": {"coordinates":[126.89483,34.92791],"type":"Point"}
+}

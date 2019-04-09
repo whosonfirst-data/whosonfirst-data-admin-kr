@@ -1,0 +1,73 @@
+{
+  "id": 1310277695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.57762,35.74509,128.57762,35.74509",
+    "geom:latitude":35.74509,
+    "geom:longitude":128.57762,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chongdae-ri",
+    "gn:country_code":"KR",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845697,
+    "gn:latitude":35.74509,
+    "gn:longitude":128.57762,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u014fngdae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u014fngdae-dong",
+        "\uc815\ub300\ub9ac",
+        "Ch\u014fngdae",
+        "Ch\u014fngdae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845697
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f616ea1f67a27303538abd1601ff5ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1310277695,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1310277695,
+    "wof:lastmodified":1537656661,
+    "wof:name":"Chongdae-ri",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57762,
+    35.74509000000001,
+    128.57762,
+    35.74509000000001
+],
+  "geometry": {"coordinates":[128.57762,35.74509000000001],"type":"Point"}
+}

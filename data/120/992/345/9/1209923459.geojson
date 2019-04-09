@@ -1,0 +1,72 @@
+{
+  "id": 1209923459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51278,33.23889,126.51278,33.23889",
+    "geom:latitude":33.23889,
+    "geom:longitude":126.51278,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pophwan-dong",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838762,
+    "gn:latitude":33.23889,
+    "gn:longitude":126.51278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u014fphwan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u014dkan-ri",
+        "P\u014fpwan-ni",
+        "P\u014fphwan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890474633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838762
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9663d2c5415edda76911d31bcf6849c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474633,
+            "locality_id":1209923459,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1209923459,
+    "wof:lastmodified":1537656308,
+    "wof:name":"Pophwan-dong",
+    "wof:parent_id":890474633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51278,
+    33.23889,
+    126.51278,
+    33.23889
+],
+  "geometry": {"coordinates":[126.51278000000001,33.23889],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259569273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32797,37.19623,127.32797,37.19623",
+    "geom:latitude":37.19623,
+    "geom:longitude":127.32797,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Haengguni",
+    "gn:country_code":"KR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398851,
+    "gn:latitude":37.19623,
+    "gn:longitude":127.32797,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Haengguni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud589\uad70"
+    ],
+    "name:kor_x_variant":[
+        "\ud589\uad70\uc774"
+    ],
+    "name:und_x_variant":[
+        "Haenggun",
+        "Haengguni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398851
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49ba191dd95b03e6c5ab4ab79c6cc28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1259569273,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259569273,
+    "wof:lastmodified":1537657195,
+    "wof:name":"Haengguni",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32797,
+    37.19623,
+    127.32797,
+    37.19623
+],
+  "geometry": {"coordinates":[127.32796999999999,37.19623],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209591823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0583,36.2782,127.0583,36.2782",
+    "geom:latitude":36.2782,
+    "geom:longitude":127.0583,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kajol",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883094,
+    "gn:latitude":36.2782,
+    "gn:longitude":127.0583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kaj\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uc808",
+        "Kaj\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883094
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"caa5882c1ea9588a2cf9c59eb86f47c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209591823
+        }
+    ],
+    "wof:id":1209591823,
+    "wof:lastmodified":1537658277,
+    "wof:name":"Kajol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0583,
+    36.2782,
+    127.0583,
+    36.2782
+],
+  "geometry": {"coordinates":[127.0583,36.2782],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226424521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80462,34.87916,126.80462,34.87916",
+    "geom:latitude":34.87916,
+    "geom:longitude":126.80462,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Deogyong",
+    "gn:country_code":"KR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834182,
+    "gn:latitude":34.87916,
+    "gn:longitude":126.80462,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Deogyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc6a9"
+    ],
+    "name:und_x_variant":[
+        "T\u014fngnyong-dong",
+        "T\u014fgyong-dong",
+        "T\u014fngnyong",
+        "Deogyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834182
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dcd48d07f1761e9beb160830a98e75fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1226424521,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226424521,
+    "wof:lastmodified":1537656072,
+    "wof:name":"Deogyong",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80462,
+    34.87916,
+    126.80462,
+    34.87916
+],
+  "geometry": {"coordinates":[126.80462,34.87916],"type":"Point"}
+}

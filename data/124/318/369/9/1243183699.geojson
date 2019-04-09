@@ -1,0 +1,74 @@
+{
+  "id": 1243183699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64556,35.92667,126.64556,35.92667",
+    "geom:latitude":35.92667,
+    "geom:longitude":126.64556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Naesongsan",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840556,
+    "gn:latitude":35.92667,
+    "gn:longitude":126.64556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naes\u014fngsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fngsanil-li",
+        "Naes\u014fng-ni",
+        "S\u014fngsani-ri",
+        "Naes\u014fngsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840556
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a7729e4db61ef3d1fccffcd37948cdc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1243183699,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1243183699,
+    "wof:lastmodified":1537656401,
+    "wof:name":"Naesongsan",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64556,
+    35.92667,
+    126.64556,
+    35.92667
+],
+  "geometry": {"coordinates":[126.64556,35.92667],"type":"Point"}
+}

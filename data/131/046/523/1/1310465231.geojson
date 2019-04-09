@@ -1,0 +1,70 @@
+{
+  "id": 1310465231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.23219,36.23103,127.23219,36.23103",
+    "geom:latitude":36.23103,
+    "geom:longitude":127.23219,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bukgye",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10913456,
+    "gn:latitude":36.23103,
+    "gn:longitude":127.23219,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Bukgye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd81\uacc4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10913456
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"08d337226b6e91779f2cda49b4db3c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474443,
+            "locality_id":1310465231,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310465231,
+    "wof:lastmodified":1537659086,
+    "wof:name":"Bukgye",
+    "wof:parent_id":890474443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.23219,
+    36.23103,
+    127.23219,
+    36.23103
+],
+  "geometry": {"coordinates":[127.23219,36.23103],"type":"Point"}
+}

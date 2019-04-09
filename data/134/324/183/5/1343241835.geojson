@@ -1,0 +1,75 @@
+{
+  "id": 1343241835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.44632,37.62551,126.44632,37.62551",
+    "geom:latitude":37.62551,
+    "geom:longitude":126.44632,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sinaemal",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837291,
+    "gn:latitude":37.62551,
+    "gn:longitude":126.44632,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Sinaemal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dc\ub0b4\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Samch\u2019\u014fn",
+        "Senae",
+        "Sinaemal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837291
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ce0e31c813b53b03f2e8528238e7c63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1343241835,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1343241835,
+    "wof:lastmodified":1537656228,
+    "wof:name":"Sinaemal",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.44632,
+    37.62551,
+    126.44632,
+    37.62551
+],
+  "geometry": {"coordinates":[126.44632,37.62551],"type":"Point"}
+}

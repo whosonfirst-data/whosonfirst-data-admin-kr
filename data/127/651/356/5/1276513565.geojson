@@ -1,0 +1,71 @@
+{
+  "id": 1276513565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5996,36.3397,126.5996,36.3397",
+    "geom:latitude":36.3397,
+    "geom:longitude":126.5996,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hunggok",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883677,
+    "gn:latitude":36.3397,
+    "gn:longitude":126.5996,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"H\u016dnggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud765\uace1",
+        "H\u016dnggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883677
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"35b72ef9c0f23999eef4ccda2e7a44e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1276513565,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1276513565,
+    "wof:lastmodified":1537658291,
+    "wof:name":"Hunggok",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5996,
+    36.3397,
+    126.5996,
+    36.3397
+],
+  "geometry": {"coordinates":[126.5996,36.3397],"type":"Point"}
+}

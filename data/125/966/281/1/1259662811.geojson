@@ -1,0 +1,74 @@
+{
+  "id": 1259662811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3521,37.5954,127.3521,37.5954",
+    "geom:latitude":37.5954,
+    "geom:longitude":127.3521,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Galho",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803012,
+    "gn:latitude":37.5954,
+    "gn:longitude":127.3521,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Galho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\ud638"
+    ],
+    "name:und_x_variant":[
+        "\uac08\ud638",
+        "Galho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803012
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"48234b75719c8d676c53d1ebbf24940e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1259662811,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259662811,
+    "wof:lastmodified":1537657765,
+    "wof:name":"Galho",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3521,
+    37.5954,
+    127.3521,
+    37.5954
+],
+  "geometry": {"coordinates":[127.35209999999999,37.5954],"type":"Point"}
+}

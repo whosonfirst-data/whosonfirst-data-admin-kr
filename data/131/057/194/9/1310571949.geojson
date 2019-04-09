@@ -1,0 +1,70 @@
+{
+  "id": 1310571949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.44339,36.58837,128.44339,36.58837",
+    "geom:latitude":36.58837,
+    "geom:longitude":128.44339,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sagok",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11270150,
+    "gn:latitude":36.58837,
+    "gn:longitude":128.44339,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Sagok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11270150
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e7bffd2bca3f1656bc057b32f47d288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1310571949,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310571949,
+    "wof:lastmodified":1537659308,
+    "wof:name":"Sagok",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.44339,
+    36.58837,
+    128.44339,
+    36.58837
+],
+  "geometry": {"coordinates":[128.44338999999999,36.58837],"type":"Point"}
+}

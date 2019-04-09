@@ -1,0 +1,64 @@
+{
+  "id": 1209692207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33237,36.73919,127.33237,36.73919",
+    "geom:latitude":36.73919,
+    "geom:longitude":127.33237,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dwikkol",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349173,
+    "gn:latitude":36.73919,
+    "gn:longitude":127.33237,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Dwikkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub4b7\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349173
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"655311219fe1f722951415b06de117ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209692207
+        }
+    ],
+    "wof:id":1209692207,
+    "wof:lastmodified":1537659022,
+    "wof:name":"Dwikkol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33237,
+    36.73919,
+    127.33237,
+    36.73919
+],
+  "geometry": {"coordinates":[127.33237,36.73919],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225818911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.208,36.573,129.208,36.573",
+    "geom:latitude":36.573,
+    "geom:longitude":129.208,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chaegung-mal",
+    "gn:country_code":"KR",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894849,
+    "gn:latitude":36.573,
+    "gn:longitude":129.208,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chaegung-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7ac\uad81\ub9d0",
+        "Chaegung-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894849
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1a1b243e7dd5b967653eb8fd459f2bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473713,
+            "locality_id":1225818911,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225818911,
+    "wof:lastmodified":1537658608,
+    "wof:name":"Chaegung-mal",
+    "wof:parent_id":890473713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.208,
+    36.573,
+    129.208,
+    36.573
+],
+  "geometry": {"coordinates":[129.208,36.573],"type":"Point"}
+}

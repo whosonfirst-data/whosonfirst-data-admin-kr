@@ -1,0 +1,67 @@
+{
+  "id": 1225809127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88667,34.67472,126.88667,34.67472",
+    "geom:latitude":34.67472,
+    "geom:longitude":126.88667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Saal-li",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394873,
+    "gn:latitude":34.67472,
+    "gn:longitude":126.88667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394873
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"65b8c00ba01050c78b1504ef98452346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1225809127,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225809127,
+    "wof:lastmodified":1537063847,
+    "wof:name":"Saal-li",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88667,
+    34.67472,
+    126.88667,
+    34.67472
+],
+  "geometry": {"coordinates":[126.88667,34.67472],"type":"Point"}
+}

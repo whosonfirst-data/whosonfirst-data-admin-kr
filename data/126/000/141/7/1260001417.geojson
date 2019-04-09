@@ -1,0 +1,75 @@
+{
+  "id": 1260001417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.3245,37.2661,129.3245,37.2661",
+    "geom:latitude":37.2661,
+    "geom:longitude":129.3245,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sinnam",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836953,
+    "gn:latitude":37.2661,
+    "gn:longitude":129.3245,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub0a8"
+    ],
+    "name:und_x_variant":[
+        "Kalnam-ni",
+        "Shinnan",
+        "Sinnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836953
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d76fa35d437f8ff7c24f0327447b3efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1260001417,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1260001417,
+    "wof:lastmodified":1537656211,
+    "wof:name":"Sinnam",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.3245,
+    37.2661,
+    129.3245,
+    37.2661
+],
+  "geometry": {"coordinates":[129.3245,37.2661],"type":"Point"}
+}

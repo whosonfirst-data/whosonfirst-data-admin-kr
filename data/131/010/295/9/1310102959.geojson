@@ -1,0 +1,73 @@
+{
+  "id": 1310102959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.21167,38.24583,128.21167,38.24583",
+    "geom:latitude":38.24583,
+    "geom:longitude":128.21167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kumsu-dong",
+    "gn:country_code":"KR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988928,
+    "gn:latitude":38.24583,
+    "gn:longitude":128.21167,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016dmsu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uc218\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmsu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988928
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4e167a62eac13aa76b34c0e22294abdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1310102959,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310102959,
+    "wof:lastmodified":1537656995,
+    "wof:name":"Kumsu-dong",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.21167,
+    38.24583,
+    128.21167,
+    38.24583
+],
+  "geometry": {"coordinates":[128.21167,38.24583],"type":"Point"}
+}

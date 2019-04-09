@@ -1,0 +1,77 @@
+{
+  "id": 1344036677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79394,37.82022,126.79394,37.82022",
+    "geom:latitude":37.82022,
+    "geom:longitude":126.79394,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Bongujae",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838793,
+    "gn:latitude":37.82022,
+    "gn:longitude":126.79394,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Bongujae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\uc6b0\uc7ac"
+    ],
+    "name:und_x_variant":[
+        "Pongujae",
+        "Pongam-ni",
+        "Ponujae",
+        "Bongujae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838793
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a2c9d28852a9826813d2b1858641095a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1344036677,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344036677,
+    "wof:lastmodified":1537656310,
+    "wof:name":"Bongujae",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79394,
+    37.82022,
+    126.79394,
+    37.82022
+],
+  "geometry": {"coordinates":[126.79394000000001,37.82022],"type":"Point"}
+}

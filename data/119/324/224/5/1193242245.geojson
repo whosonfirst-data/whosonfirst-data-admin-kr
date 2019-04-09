@@ -1,0 +1,75 @@
+{
+  "id": 1193242245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9,34.39278,126.9,34.39278",
+    "geom:latitude":34.39278,
+    "geom:longitude":126.9,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Changnyong",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846320,
+    "gn:latitude":34.39278,
+    "gn:longitude":126.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Changnyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\ub8e1"
+    ],
+    "name:und_x_variant":[
+        "Changyong-ni",
+        "Changnyong-ni",
+        "Changnyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846320
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"91c9247bfc62bafb5f553a28cc889d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1193242245,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193242245,
+    "wof:lastmodified":1537656694,
+    "wof:name":"Changnyong",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9,
+    34.39278,
+    126.9,
+    34.39278
+],
+  "geometry": {"coordinates":[126.90000000000001,34.39278],"type":"Point"}
+}

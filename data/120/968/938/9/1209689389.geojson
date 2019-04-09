@@ -1,0 +1,65 @@
+{
+  "id": 1209689389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.3751,36.7046,129.3751,36.7046",
+    "geom:latitude":36.7046,
+    "geom:longitude":129.3751,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nonusil",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894540,
+    "gn:latitude":36.7046,
+    "gn:longitude":129.3751,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Non\u016dsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub178\ub290\uc2e4",
+        "Non\u016dsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894540
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3d463a82ea1d96a23d6c2b0000354eb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689389
+        }
+    ],
+    "wof:id":1209689389,
+    "wof:lastmodified":1537658598,
+    "wof:name":"Nonusil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.3751,
+    36.7046,
+    129.3751,
+    36.7046
+],
+  "geometry": {"coordinates":[129.3751,36.7046],"type":"Point"}
+}

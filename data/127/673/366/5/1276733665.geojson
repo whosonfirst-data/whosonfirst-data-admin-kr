@@ -1,0 +1,70 @@
+{
+  "id": 1276733665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6323,37.23234,127.6323,37.23234",
+    "geom:latitude":37.23234,
+    "geom:longitude":127.6323,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Soekkoji",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812587,
+    "gn:latitude":37.23234,
+    "gn:longitude":127.6323,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Soekkoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1e0\uaf2c\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812587
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"78cd9e30f2ec7f6181084ec396e5baba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1276733665,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276733665,
+    "wof:lastmodified":1537657972,
+    "wof:name":"Soekkoji",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6323,
+    37.23234,
+    127.6323,
+    37.23234
+],
+  "geometry": {"coordinates":[127.6323,37.23234],"type":"Point"}
+}

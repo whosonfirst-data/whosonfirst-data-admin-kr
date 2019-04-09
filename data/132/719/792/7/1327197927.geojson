@@ -1,0 +1,74 @@
+{
+  "id": 1327197927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.19028,34.6825,125.19028,34.6825",
+    "geom:latitude":34.6825,
+    "geom:longitude":125.19028,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chukhang",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845233,
+    "gn:latitude":34.6825,
+    "gn:longitude":125.19028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chukhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taemok",
+        "Hongdo-ri",
+        "Chukkong",
+        "Chukhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845233
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f27ef6c6dfdcd75ab3f7d2e4ac6383fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1327197927,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327197927,
+    "wof:lastmodified":1537656639,
+    "wof:name":"Chukhang",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.19028,
+    34.6825,
+    125.19028,
+    34.6825
+],
+  "geometry": {"coordinates":[125.19028,34.6825],"type":"Point"}
+}

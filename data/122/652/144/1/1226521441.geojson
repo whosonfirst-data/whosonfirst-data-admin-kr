@@ -1,0 +1,73 @@
+{
+  "id": 1226521441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89306,37.01,126.89306,37.01",
+    "geom:latitude":37.01,
+    "geom:longitude":126.89306,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Oewon",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364329,
+    "gn:latitude":37.01,
+    "gn:longitude":126.89306,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Oewon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\uc6d0"
+    ],
+    "name:kor_x_variant":[
+        "Oew\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364329
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fff686dc3ebce6ce12395a30225475ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1226521441,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226521441,
+    "wof:lastmodified":1537657076,
+    "wof:name":"Oewon",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89306,
+    37.01,
+    126.89306,
+    37.01
+],
+  "geometry": {"coordinates":[126.89306000000001,37.01],"type":"Point"}
+}

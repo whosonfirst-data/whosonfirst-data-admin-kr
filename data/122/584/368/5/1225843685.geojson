@@ -1,0 +1,74 @@
+{
+  "id": 1225843685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.97101,37.07579,127.97101,37.07579",
+    "geom:latitude":37.07579,
+    "geom:longitude":127.97101,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dundae",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797556,
+    "gn:latitude":37.07579,
+    "gn:longitude":127.97101,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Dundae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub454\ub300"
+    ],
+    "name:und_x_variant":[
+        "Tundae",
+        "Dundae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797556
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3469c232cfdc0d304ffdf3dafc6d3947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1225843685,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1225843685,
+    "wof:lastmodified":1537657593,
+    "wof:name":"Dundae",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.97101,
+    37.07579000000001,
+    127.97101,
+    37.07579000000001
+],
+  "geometry": {"coordinates":[127.97101000000001,37.07579000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209080497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.49414,35.60025,128.49414,35.60025",
+    "geom:latitude":35.60025,
+    "geom:longitude":128.49414,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ganjeok",
+    "gn:country_code":"KR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901812,
+    "gn:latitude":35.60025,
+    "gn:longitude":128.49414,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Ganjeok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac04\uc801",
+        "Kanj\u014fk",
+        "Ganjeok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901812
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3f9d234c050e48dfba9884dfc14e5f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209080497
+        }
+    ],
+    "wof:id":1209080497,
+    "wof:lastmodified":1537658800,
+    "wof:name":"Ganjeok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.49414,
+    35.60025,
+    128.49414,
+    35.60025
+],
+  "geometry": {"coordinates":[128.49413999999999,35.60025],"type":"Point"}
+}

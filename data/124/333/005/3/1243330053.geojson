@@ -1,0 +1,71 @@
+{
+  "id": 1243330053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7117,36.5495,126.7117,36.5495",
+    "geom:latitude":36.5495,
+    "geom:longitude":126.7117,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hyo-dong",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843794,
+    "gn:latitude":36.5495,
+    "gn:longitude":126.7117,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hyo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud6a8\ub3d9",
+        "Hyo-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843794
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0680966fa3c8e580bbb2f5a9bc7856e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1243330053,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243330053,
+    "wof:lastmodified":1537656566,
+    "wof:name":"Hyo-dong",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7117,
+    36.5495,
+    126.7117,
+    36.5495
+],
+  "geometry": {"coordinates":[126.71169999999999,36.5495],"type":"Point"}
+}

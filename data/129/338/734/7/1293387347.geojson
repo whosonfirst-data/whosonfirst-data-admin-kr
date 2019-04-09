@@ -1,0 +1,71 @@
+{
+  "id": 1293387347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6901,37.8908,127.6901,37.8908",
+    "geom:latitude":37.8908,
+    "geom:longitude":127.6901,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chisiul",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802643,
+    "gn:latitude":37.8908,
+    "gn:longitude":127.6901,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chisiul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c0\uc2dc\uc6b8",
+        "Chisiul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802643
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"185f1eb02e3271d48873dc379128659e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1293387347,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293387347,
+    "wof:lastmodified":1537657752,
+    "wof:name":"Chisiul",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6901,
+    37.8908,
+    127.6901,
+    37.8908
+],
+  "geometry": {"coordinates":[127.6901,37.8908],"type":"Point"}
+}

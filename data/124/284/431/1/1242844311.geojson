@@ -1,0 +1,75 @@
+{
+  "id": 1242844311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.56251,35.90813,128.56251,35.90813",
+    "geom:latitude":35.90813,
+    "geom:longitude":128.56251,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nogok",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840298,
+    "gn:latitude":35.90813,
+    "gn:longitude":128.56251,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Nogok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub178\uace1"
+    ],
+    "name:und_x_variant":[
+        "Nonch\u2019on",
+        "Nogok-tong",
+        "Nogok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840298
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"36f51cf4ba53249c9ffc5da055f721b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746395,
+            "locality_id":1242844311,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1242844311,
+    "wof:lastmodified":1537656389,
+    "wof:name":"Nogok",
+    "wof:parent_id":1108746395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.56251,
+    35.90813,
+    128.56251,
+    35.90813
+],
+  "geometry": {"coordinates":[128.56251,35.90813],"type":"Point"}
+}

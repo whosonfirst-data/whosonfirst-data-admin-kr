@@ -1,0 +1,65 @@
+{
+  "id": 1209077287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57222,37.38861,127.57222,37.38861",
+    "geom:latitude":37.38861,
+    "geom:longitude":127.57222,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wian-dong",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576446,
+    "gn:latitude":37.38861,
+    "gn:longitude":127.57222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wian-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc704\uc548\ub3d9",
+        "Wian-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576446
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eb85ead44f968707086985a05b479416",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209077287
+        }
+    ],
+    "wof:id":1209077287,
+    "wof:lastmodified":1537657316,
+    "wof:name":"Wian-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57222,
+    37.38861,
+    127.57222,
+    37.38861
+],
+  "geometry": {"coordinates":[127.57222,37.38861],"type":"Point"}
+}

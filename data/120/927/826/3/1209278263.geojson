@@ -1,0 +1,64 @@
+{
+  "id": 1209278263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65433,34.42981,126.65433,34.42981",
+    "geom:latitude":34.42981,
+    "geom:longitude":126.65433,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sillyong",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395025,
+    "gn:latitude":34.42981,
+    "gn:longitude":126.65433,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sillyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub8e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395025
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b66013d05900d3cf51128c4a837dcc35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209278263
+        }
+    ],
+    "wof:id":1209278263,
+    "wof:lastmodified":1537657150,
+    "wof:name":"Sillyong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65433,
+    34.42981,
+    126.65433,
+    34.42981
+],
+  "geometry": {"coordinates":[126.65433,34.42981],"type":"Point"}
+}

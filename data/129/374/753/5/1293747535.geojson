@@ -1,0 +1,73 @@
+{
+  "id": 1293747535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49687,34.9223,126.49687,34.9223",
+    "geom:latitude":34.9223,
+    "geom:longitude":126.49687,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gwiraechon",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841716,
+    "gn:latitude":34.9223,
+    "gn:longitude":126.49687,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Gwiraechon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadc0\ub798\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Kwiraech\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841716
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3d970bee4cd95b2c0311ba6202f71db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1293747535,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293747535,
+    "wof:lastmodified":1537656457,
+    "wof:name":"Gwiraechon",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49687,
+    34.9223,
+    126.49687,
+    34.9223
+],
+  "geometry": {"coordinates":[126.49687,34.9223],"type":"Point"}
+}

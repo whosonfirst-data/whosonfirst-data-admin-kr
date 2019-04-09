@@ -1,0 +1,68 @@
+{
+  "id": 1209065091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.09968,35.58392,129.09968,35.58392",
+    "geom:latitude":35.58392,
+    "geom:longitude":129.09968,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Hyangsan",
+    "gn:country_code":"KR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894582,
+    "gn:latitude":35.58392,
+    "gn:longitude":129.09968,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hyangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud5a5\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Hyangsal-li",
+        "Hyangsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894582
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d9fa19bd7ca7e8d23ec9236af62faf78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209065091
+        }
+    ],
+    "wof:id":1209065091,
+    "wof:lastmodified":1537656859,
+    "wof:name":"Hyangsan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.09968,
+    35.58392,
+    129.09968,
+    35.58392
+],
+  "geometry": {"coordinates":[129.09968000000001,35.58392],"type":"Point"}
+}

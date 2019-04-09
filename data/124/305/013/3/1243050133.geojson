@@ -1,0 +1,70 @@
+{
+  "id": 1243050133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71669,35.33396,126.71669,35.33396",
+    "geom:latitude":35.33396,
+    "geom:longitude":126.71669,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jungmeori",
+    "gn:country_code":"KR",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169393,
+    "gn:latitude":35.33396,
+    "gn:longitude":126.71669,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jungmeori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\uba38\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169393
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5d395539d84125602fbf0e2963538c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1243050133,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243050133,
+    "wof:lastmodified":1537659174,
+    "wof:name":"Jungmeori",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71669,
+    35.33396,
+    126.71669,
+    35.33396
+],
+  "geometry": {"coordinates":[126.71669,35.33396],"type":"Point"}
+}

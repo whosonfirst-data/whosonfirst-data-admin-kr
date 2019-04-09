@@ -1,0 +1,70 @@
+{
+  "id": 1243268547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.47856,36.69141,127.47856,36.69141",
+    "geom:latitude":36.69141,
+    "geom:longitude":127.47856,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ansebuheung",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10307763,
+    "gn:latitude":36.69141,
+    "gn:longitude":127.47856,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ansebuheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uc138\ubd80\ud765"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10307763
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a3035b5e0e6d9fa7fcd1a2dcd5742b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746437,
+            "locality_id":1243268547,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243268547,
+    "wof:lastmodified":1537659014,
+    "wof:name":"Ansebuheung",
+    "wof:parent_id":1108746437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.47856000000002,
+    36.69141,
+    127.47856000000002,
+    36.69141
+],
+  "geometry": {"coordinates":[127.47856000000002,36.69141],"type":"Point"}
+}

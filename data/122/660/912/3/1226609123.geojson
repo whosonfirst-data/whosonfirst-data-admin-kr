@@ -1,0 +1,70 @@
+{
+  "id": 1226609123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79806,35.33323,126.79806,35.33323",
+    "geom:latitude":35.33323,
+    "geom:longitude":126.79806,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Buhung",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170067,
+    "gn:latitude":35.33323,
+    "gn:longitude":126.79806,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Buhung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\ud6d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170067
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e86aef71cd40309b44b60eed56c4c842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1226609123,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226609123,
+    "wof:lastmodified":1537659184,
+    "wof:name":"Buhung",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79806,
+    35.33323,
+    126.79806,
+    35.33323
+],
+  "geometry": {"coordinates":[126.79806000000001,35.33323],"type":"Point"}
+}

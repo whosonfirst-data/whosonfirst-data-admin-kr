@@ -1,0 +1,70 @@
+{
+  "id": 1343632017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.83206,35.82517,128.83206,35.82517",
+    "geom:latitude":35.82517,
+    "geom:longitude":128.83206,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Naenmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11037465,
+    "gn:latitude":35.82517,
+    "gn:longitude":128.83206,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Naenmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0c7\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11037465
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8b8f518de80f15f5e241a4677c1ffa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1343632017,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343632017,
+    "wof:lastmodified":1537659116,
+    "wof:name":"Naenmaeul",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.83206,
+    35.82517,
+    128.83206,
+    35.82517
+],
+  "geometry": {"coordinates":[128.83206000000001,35.82517],"type":"Point"}
+}

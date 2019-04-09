@@ -1,0 +1,65 @@
+{
+  "id": 1209586299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2716,36.34192,129.2716,36.34192",
+    "geom:latitude":36.34192,
+    "geom:longitude":129.2716,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sugudong",
+    "gn:country_code":"KR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879269,
+    "gn:latitude":36.34192,
+    "gn:longitude":129.2716,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Sugudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc218\uad6c\ub3d9",
+        "Sugudong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879269
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3487c7c192ab894cbaefd43b3d93a4d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586299
+        }
+    ],
+    "wof:id":1209586299,
+    "wof:lastmodified":1537658224,
+    "wof:name":"Sugudong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2716,
+    36.34192,
+    129.2716,
+    36.34192
+],
+  "geometry": {"coordinates":[129.27160000000001,36.34192],"type":"Point"}
+}

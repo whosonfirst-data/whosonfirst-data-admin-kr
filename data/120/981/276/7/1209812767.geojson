@@ -1,0 +1,70 @@
+{
+  "id": 1209812767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.22638,38.17895,128.22638,38.17895",
+    "geom:latitude":38.17895,
+    "geom:longitude":128.22638,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Namyangteo",
+    "gn:country_code":"KR",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9806997,
+    "gn:latitude":38.17895,
+    "gn:longitude":128.22638,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Namyangteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc591\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9806997
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a8184a09144e29ba82176660e86146bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1209812767,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209812767,
+    "wof:lastmodified":1537658943,
+    "wof:name":"Namyangteo",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.22638,
+    38.17895,
+    128.22638,
+    38.17895
+],
+  "geometry": {"coordinates":[128.22638000000001,38.17895],"type":"Point"}
+}

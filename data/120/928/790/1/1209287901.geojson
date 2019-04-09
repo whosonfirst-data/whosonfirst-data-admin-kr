@@ -1,0 +1,66 @@
+{
+  "id": 1209287901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2636,36.12911,129.2636,36.12911",
+    "geom:latitude":36.12911,
+    "geom:longitude":129.2636,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Singwang",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6878442,
+    "gn:latitude":36.12911,
+    "gn:longitude":129.2636,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Singwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\uad11",
+        "Sin\u2019gwang",
+        "Singwang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878442
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"045798c47f0f7d6303fd019b51030c6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287901
+        }
+    ],
+    "wof:id":1209287901,
+    "wof:lastmodified":1537658190,
+    "wof:name":"Singwang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2636,
+    36.12911,
+    129.2636,
+    36.12911
+],
+  "geometry": {"coordinates":[129.2636,36.12911],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309977959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04905,34.73506,127.04905,34.73506",
+    "geom:latitude":34.73506,
+    "geom:longitude":127.04905,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Haegyeong",
+    "gn:country_code":"KR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844759,
+    "gn:latitude":34.73506,
+    "gn:longitude":127.04905,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Haegyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\uacbd"
+    ],
+    "name:kor_x_variant":[
+        "Haegy\u014fng"
+    ],
+    "name:und_x_variant":[
+        "Haegy\u014fng-gol",
+        "Haegy\u014fng-dong",
+        "Haegy\u014fng-kol",
+        "Haegyeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844759
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b7a2560bda3a92e88458134e6b6d408e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1309977959,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309977959,
+    "wof:lastmodified":1537656614,
+    "wof:name":"Haegyeong",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04905,
+    34.73506,
+    127.04905,
+    34.73506
+],
+  "geometry": {"coordinates":[127.04904999999999,34.73506],"type":"Point"}
+}

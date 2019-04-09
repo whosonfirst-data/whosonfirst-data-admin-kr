@@ -1,0 +1,72 @@
+{
+  "id": 1310622699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7911,37.90302,127.7911,37.90302",
+    "geom:latitude":37.90302,
+    "geom:longitude":127.7911,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gamjagol",
+    "gn:country_code":"KR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802255,
+    "gn:latitude":37.90302,
+    "gn:longitude":127.7911,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Gamjagol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac10\uc790\uace8",
+        "Kamja-gol",
+        "Gamjagol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802255
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af9ed45eb0da5bdd319c6a45258c0c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1310622699,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310622699,
+    "wof:lastmodified":1537657739,
+    "wof:name":"Gamjagol",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7911,
+    37.90302,
+    127.7911,
+    37.90302
+],
+  "geometry": {"coordinates":[127.7911,37.90302],"type":"Point"}
+}

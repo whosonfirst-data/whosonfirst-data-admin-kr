@@ -1,0 +1,73 @@
+{
+  "id": 1310708813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93889,35.77111,126.93889,35.77111",
+    "geom:latitude":35.77111,
+    "geom:longitude":126.93889,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tojang-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834608,
+    "gn:latitude":35.77111,
+    "gn:longitude":126.93889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tojang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tojang",
+        "Tojang-ni",
+        "Tojang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890473531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834608
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f8d6147a3683262a8fd2f1cab8865eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473531,
+            "locality_id":1310708813,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1310708813,
+    "wof:lastmodified":1537656095,
+    "wof:name":"Tojang-dong",
+    "wof:parent_id":890473531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93889,
+    35.77111,
+    126.93889,
+    35.77111
+],
+  "geometry": {"coordinates":[126.93889,35.77111],"type":"Point"}
+}

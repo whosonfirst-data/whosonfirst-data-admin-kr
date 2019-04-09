@@ -1,0 +1,72 @@
+{
+  "id": 1260073879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.00889,35.23389,129.00889,35.23389",
+    "geom:latitude":35.23389,
+    "geom:longitude":129.00889,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yongdang",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832568,
+    "gn:latitude":35.23389,
+    "gn:longitude":129.00889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yong-dong",
+        "Yongdang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        1108746393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832568
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"abf1a42e595f5d1f81881b36452deaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746393,
+            "locality_id":1260073879,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1260073879,
+    "wof:lastmodified":1537655985,
+    "wof:name":"Yongdang",
+    "wof:parent_id":1108746393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.00888999999998,
+    35.23389,
+    129.00888999999998,
+    35.23389
+],
+  "geometry": {"coordinates":[129.00888999999998,35.23389],"type":"Point"}
+}

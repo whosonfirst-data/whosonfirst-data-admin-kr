@@ -1,0 +1,67 @@
+{
+  "id": 1209537463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1046,37.3573,128.1046,37.3573",
+    "geom:latitude":37.3573,
+    "geom:longitude":128.1046,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"T'aejongdae",
+    "gn:country_code":"KR",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797160,
+    "gn:latitude":37.3573,
+    "gn:longitude":128.1046,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019aejongdae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0dc\uc885\ub300"
+    ],
+    "name:kor_x_variant":[
+        "T\u2019aejongdae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797160
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f572c4764fdfc8042fe6bfbcec103304",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209537463
+        }
+    ],
+    "wof:id":1209537463,
+    "wof:lastmodified":1537657580,
+    "wof:name":"T'aejongdae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1046,
+    37.3573,
+    128.1046,
+    37.3573
+],
+  "geometry": {"coordinates":[128.1046,37.3573],"type":"Point"}
+}

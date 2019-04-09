@@ -1,0 +1,70 @@
+{
+  "id": 1276965291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41435,37.7428,127.41435,37.7428",
+    "geom:latitude":37.7428,
+    "geom:longitude":127.41435,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Garuge",
+    "gn:country_code":"KR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8744738,
+    "gn:latitude":37.7428,
+    "gn:longitude":127.41435,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Garuge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub8e8\uac8c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8744738
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5b4d33cd9a5aeeba33fe43aba1f8fa4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1276965291,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276965291,
+    "wof:lastmodified":1537658912,
+    "wof:name":"Garuge",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41435,
+    37.7428,
+    127.41435,
+    37.7428
+],
+  "geometry": {"coordinates":[127.41435,37.7428],"type":"Point"}
+}

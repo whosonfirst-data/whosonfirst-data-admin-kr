@@ -1,0 +1,75 @@
+{
+  "id": 1309903381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.64479,37.78654,127.64479,37.78654",
+    "geom:latitude":37.78654,
+    "geom:longitude":127.64479,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bomaegi",
+    "gn:country_code":"KR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802165,
+    "gn:latitude":37.78654,
+    "gn:longitude":127.64479,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Bomaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ub9e4\uae30"
+    ],
+    "name:und_x_variant":[
+        "\uad6c\ub9cc\uc774",
+        "Kumani",
+        "Bomaegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802165
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5c3666bc50ea1e0a56021c4cfba524a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1309903381,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309903381,
+    "wof:lastmodified":1537657730,
+    "wof:name":"Bomaegi",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.64479,
+    37.78654,
+    127.64479,
+    37.78654
+],
+  "geometry": {"coordinates":[127.64479,37.78654],"type":"Point"}
+}

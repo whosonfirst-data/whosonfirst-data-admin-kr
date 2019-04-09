@@ -1,0 +1,70 @@
+{
+  "id": 1226405757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96962,36.72617,126.96962,36.72617",
+    "geom:latitude":36.72617,
+    "geom:longitude":126.96962,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Deokdaeul",
+    "gn:country_code":"KR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251087,
+    "gn:latitude":36.72617,
+    "gn:longitude":126.96962,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Deokdaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ub300\uc6b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251087
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"108c327e2013c4ff4a3d07b594f62965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1226405757,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226405757,
+    "wof:lastmodified":1537659000,
+    "wof:name":"Deokdaeul",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96962,
+    36.72617,
+    126.96962,
+    36.72617
+],
+  "geometry": {"coordinates":[126.96962000000001,36.72617],"type":"Point"}
+}

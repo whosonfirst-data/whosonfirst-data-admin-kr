@@ -1,0 +1,77 @@
+{
+  "id": 1360148775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85984,34.69276,126.85984,34.69276",
+    "geom:latitude":34.69276,
+    "geom:longitude":126.85984,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bokheung",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839044,
+    "gn:latitude":34.69276,
+    "gn:longitude":126.85984,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Bokheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\ud765"
+    ],
+    "name:kor_x_variant":[
+        "Pokh\u016dng"
+    ],
+    "name:und_x_variant":[
+        "Pokh\u016dng-ni",
+        "Bokheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839044
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8eddcddd8d600c3e2598d3a8b5294345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1360148775,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360148775,
+    "wof:lastmodified":1537656322,
+    "wof:name":"Bokheung",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85984,
+    34.69276,
+    126.85984,
+    34.69276
+],
+  "geometry": {"coordinates":[126.85984000000001,34.69276],"type":"Point"}
+}

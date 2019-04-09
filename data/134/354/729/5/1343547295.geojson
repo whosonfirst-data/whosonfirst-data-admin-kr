@@ -1,0 +1,74 @@
+{
+  "id": 1343547295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20341,37.83861,127.20341,37.83861",
+    "geom:latitude":37.83861,
+    "geom:longitude":127.20341,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Goindol",
+    "gn:country_code":"KR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813856,
+    "gn:latitude":37.83861,
+    "gn:longitude":127.20341,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Goindol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\uc778\ub3cc"
+    ],
+    "name:und_x_variant":[
+        "Koindol",
+        "Goindol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813856
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"63e8c6d06019cc6eaec7f6676aab4145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1343547295,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343547295,
+    "wof:lastmodified":1537658028,
+    "wof:name":"Goindol",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20341,
+    37.83861,
+    127.20341,
+    37.83861
+],
+  "geometry": {"coordinates":[127.20341000000001,37.83861],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209401035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.23957,38.14192,127.23957,38.14192",
+    "geom:latitude":38.14192,
+    "geom:longitude":127.23957,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ogeumdong",
+    "gn:country_code":"KR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866765,
+    "gn:latitude":38.14192,
+    "gn:longitude":127.23957,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ogeumdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uae08\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866765
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"990fd448316dafd6824e14835b90417f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209401035
+        }
+    ],
+    "wof:id":1209401035,
+    "wof:lastmodified":1537658959,
+    "wof:name":"Ogeumdong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.23957,
+    38.14192,
+    127.23957,
+    38.14192
+],
+  "geometry": {"coordinates":[127.23957,38.14192],"type":"Point"}
+}

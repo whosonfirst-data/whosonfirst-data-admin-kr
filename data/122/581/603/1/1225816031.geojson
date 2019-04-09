@@ -1,0 +1,71 @@
+{
+  "id": 1225816031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3388,36.0452,128.3388,36.0452",
+    "geom:latitude":36.0452,
+    "geom:longitude":128.3388,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Konjit'o",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890923,
+    "gn:latitude":36.0452,
+    "gn:longitude":128.3388,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u014fnjit\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac74\uc9c0\ud130",
+        "K\u014fnjit\u2019\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890923
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c2963bf685c3e311d5d2e376baa2f617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1225816031,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225816031,
+    "wof:lastmodified":1537658500,
+    "wof:name":"Konjit'o",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3388,
+    36.0452,
+    128.3388,
+    36.0452
+],
+  "geometry": {"coordinates":[128.33879999999999,36.0452],"type":"Point"}
+}

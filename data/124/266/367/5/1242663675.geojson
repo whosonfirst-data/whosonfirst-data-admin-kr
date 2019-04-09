@@ -1,0 +1,71 @@
+{
+  "id": 1242663675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06056,37.19806,127.06056,37.19806",
+    "geom:latitude":37.19806,
+    "geom:longitude":127.06056,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Munsi",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575797,
+    "gn:latitude":37.19806,
+    "gn:longitude":127.06056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Munsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb38\uc2dc",
+        "Munsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575797
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"26258434343804591274347608b16a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473335,
+            "locality_id":1242663675,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242663675,
+    "wof:lastmodified":1537657295,
+    "wof:name":"Munsi",
+    "wof:parent_id":890473335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06056,
+    37.19806,
+    127.06056,
+    37.19806
+],
+  "geometry": {"coordinates":[127.06056,37.19806],"type":"Point"}
+}

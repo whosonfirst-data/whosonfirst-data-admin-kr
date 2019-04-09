@@ -1,0 +1,70 @@
+{
+  "id": 1226008689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76292,35.37481,126.76292,35.37481",
+    "geom:latitude":35.37481,
+    "geom:longitude":126.76292,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Moam",
+    "gn:country_code":"KR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169908,
+    "gn:latitude":35.37481,
+    "gn:longitude":126.76292,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Moam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169908
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"213b1a0107c082a48af4d72961cabd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1226008689,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226008689,
+    "wof:lastmodified":1537659181,
+    "wof:name":"Moam",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76292,
+    35.37481,
+    126.76292,
+    35.37481
+],
+  "geometry": {"coordinates":[126.76291999999999,35.37481],"type":"Point"}
+}

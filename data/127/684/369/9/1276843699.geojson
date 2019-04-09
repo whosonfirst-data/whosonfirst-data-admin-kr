@@ -1,0 +1,70 @@
+{
+  "id": 1276843699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.88618,36.94702,128.88618,36.94702",
+    "geom:latitude":36.94702,
+    "geom:longitude":128.88618,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kkoldi",
+    "gn:country_code":"KR",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9080601,
+    "gn:latitude":36.94702,
+    "gn:longitude":128.88618,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Kkoldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uaf34\ub514"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9080601
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ddef4fc555a65d964b64943257bde1d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1276843699,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276843699,
+    "wof:lastmodified":1537658915,
+    "wof:name":"Kkoldi",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.88618,
+    36.94702,
+    128.88618,
+    36.94702
+],
+  "geometry": {"coordinates":[128.88618,36.94702],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343821313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.33271,36.75766,126.33271,36.75766",
+    "geom:latitude":36.75766,
+    "geom:longitude":126.33271,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"P'osa",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811918,
+    "gn:latitude":36.75766,
+    "gn:longitude":126.33271,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u2019osa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud3ec\uc0ac",
+        "P\u2019osa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811918
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"71d92070c904538ecc96d9697bf5ec58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1343821313,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343821313,
+    "wof:lastmodified":1537657956,
+    "wof:name":"P'osa",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.33271,
+    36.75766,
+    126.33271,
+    36.75766
+],
+  "geometry": {"coordinates":[126.33271000000001,36.75766],"type":"Point"}
+}

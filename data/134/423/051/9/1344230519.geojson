@@ -1,0 +1,70 @@
+{
+  "id": 1344230519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.80683,36.56307,128.80683,36.56307",
+    "geom:latitude":36.56307,
+    "geom:longitude":128.80683,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sail",
+    "gn:country_code":"KR",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11273625,
+    "gn:latitude":36.56307,
+    "gn:longitude":128.80683,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Sail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uc77c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11273625
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c54fb4b38e344029d2a8b35aaa711f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1344230519,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344230519,
+    "wof:lastmodified":1537659321,
+    "wof:name":"Sail",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.80683,
+    36.56307,
+    128.80683,
+    36.56307
+],
+  "geometry": {"coordinates":[128.80682999999999,36.56307],"type":"Point"}
+}

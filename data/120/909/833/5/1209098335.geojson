@@ -1,0 +1,64 @@
+{
+  "id": 1209098335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2235,37.4645,128.2235,37.4645",
+    "geom:latitude":37.4645,
+    "geom:longitude":128.2235,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uttongbak-kol",
+    "gn:country_code":"KR",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797765,
+    "gn:latitude":37.4645,
+    "gn:longitude":128.2235,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Uttongbak-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6c3\ub3d9\ubc15\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797765
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ab676aea8a121eb5052886f31462c7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209098335
+        }
+    ],
+    "wof:id":1209098335,
+    "wof:lastmodified":1537657602,
+    "wof:name":"Uttongbak-kol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2235,
+    37.4645,
+    128.2235,
+    37.4645
+],
+  "geometry": {"coordinates":[128.2235,37.4645],"type":"Point"}
+}

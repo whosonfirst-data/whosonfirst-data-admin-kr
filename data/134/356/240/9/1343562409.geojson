@@ -1,0 +1,72 @@
+{
+  "id": 1343562409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04843,35.79593,127.04843,35.79593",
+    "geom:latitude":35.79593,
+    "geom:longitude":127.04843,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taemunan",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835187,
+    "gn:latitude":35.79593,
+    "gn:longitude":127.04843,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taemunan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangg\u016dm-ni",
+        "\ub300\ubb38\uc548",
+        "Taemunan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890473531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835187
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cb35d6dfea2a64b0b77b52833700c98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473531,
+            "locality_id":1343562409,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1343562409,
+    "wof:lastmodified":1537656127,
+    "wof:name":"Taemunan",
+    "wof:parent_id":890473531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04843,
+    35.79593,
+    127.04843,
+    35.79593
+],
+  "geometry": {"coordinates":[127.04843,35.79593],"type":"Point"}
+}

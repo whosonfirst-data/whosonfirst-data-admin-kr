@@ -1,0 +1,74 @@
+{
+  "id": 1242944195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87787,37.89285,126.87787,37.89285",
+    "geom:latitude":37.89285,
+    "geom:longitude":126.87787,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Gaemokdong",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951725,
+    "gn:latitude":37.89285,
+    "gn:longitude":126.87787,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gaemokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\ubaa9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kaemok-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951725
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5b940c5437d227a4d37975b8b31fe8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1242944195,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242944195,
+    "wof:lastmodified":1537656981,
+    "wof:name":"Gaemokdong",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87787,
+    37.89285,
+    126.87787,
+    37.89285
+],
+  "geometry": {"coordinates":[126.87787,37.89285],"type":"Point"}
+}

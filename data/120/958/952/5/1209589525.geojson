@@ -1,0 +1,64 @@
+{
+  "id": 1209589525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.45647,35.58404,129.45647,35.58404",
+    "geom:latitude":35.58404,
+    "geom:longitude":129.45647,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kkachigol",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087164,
+    "gn:latitude":35.58404,
+    "gn:longitude":129.45647,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Kkachigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae4c\uce58\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087164
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8193bd3a42c811720564e745e3d469f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209589525
+        }
+    ],
+    "wof:id":1209589525,
+    "wof:lastmodified":1537659146,
+    "wof:name":"Kkachigol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.45647,
+    35.58404,
+    129.45647,
+    35.58404
+],
+  "geometry": {"coordinates":[129.45647,35.58404],"type":"Point"}
+}

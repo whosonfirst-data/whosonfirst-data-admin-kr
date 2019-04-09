@@ -1,0 +1,73 @@
+{
+  "id": 890473309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48987,36.20475,127.48987,36.20475",
+    "geom:latitude":36.20475,
+    "geom:longitude":127.48987,
+    "gn:country":"KR",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chubu-myeon"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd94\ubd80\uba74"
+    ],
+    "name:unk_x_variant":[
+        "\ucd94\ubd80\uba74"
+    ],
+    "qs:name":"Ch\u2019ubu-my\u014fn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888219,
+        "qs:id":1039314
+    },
+    "wof:country":"KR",
+    "wof:created":1469053947,
+    "wof:geomhash":"948750288d0680eedd6e7067ceb8d9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473345,
+            "localadmin_id":890473309,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":890473309,
+    "wof:lastmodified":1505343717,
+    "wof:name":"Ch\u2019ubu-my\u014fn",
+    "wof:parent_id":890473345,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48987,
+    36.20475,
+    127.48987,
+    36.20475
+],
+  "geometry": {"coordinates":[127.48987,36.20475],"type":"Point"}
+}

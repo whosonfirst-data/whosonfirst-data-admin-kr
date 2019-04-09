@@ -1,0 +1,74 @@
+{
+  "id": 1226140205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.57994,38.23266,128.57994,38.23266",
+    "geom:latitude":38.23266,
+    "geom:longitude":128.57994,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yongch'ol-li",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832610,
+    "gn:latitude":38.23266,
+    "gn:longitude":128.57994,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongch\u2019ol-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ucd0c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Yongch\u2019on-ni",
+        "Yongch\u2019ol-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832610
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b41327f247984b9d4a390f5e2549fded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1226140205,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226140205,
+    "wof:lastmodified":1537655986,
+    "wof:name":"Yongch'ol-li",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57994,
+    38.23266,
+    128.57994,
+    38.23266
+],
+  "geometry": {"coordinates":[128.57993999999999,38.23266],"type":"Point"}
+}

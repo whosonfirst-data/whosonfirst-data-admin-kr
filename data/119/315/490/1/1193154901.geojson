@@ -1,0 +1,70 @@
+{
+  "id": 1193154901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.71012,34.94363,127.71012,34.94363",
+    "geom:latitude":34.94363,
+    "geom:longitude":127.71012,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wau",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833442,
+    "gn:latitude":34.94363,
+    "gn:longitude":127.71012,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Wau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc640\uc6b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833442
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3ec48267098d082f77c2b9a7a73fa5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472247,
+            "locality_id":1193154901,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193154901,
+    "wof:lastmodified":1537656034,
+    "wof:name":"Wau",
+    "wof:parent_id":890472247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.71012,
+    34.94363,
+    127.71012,
+    34.94363
+],
+  "geometry": {"coordinates":[127.71012,34.94363],"type":"Point"}
+}

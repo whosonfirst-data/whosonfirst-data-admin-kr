@@ -1,0 +1,64 @@
+{
+  "id": 1209077959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.78885,34.94904,126.78885,34.94904",
+    "geom:latitude":34.94904,
+    "geom:longitude":126.78885,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bangchungmok",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192819,
+    "gn:latitude":34.94904,
+    "gn:longitude":126.78885,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bangchungmok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\ucd95\ubaa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192819
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"74bc0cd973ea70a5fd3e76194f4b7d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209077959
+        }
+    ],
+    "wof:id":1209077959,
+    "wof:lastmodified":1537659225,
+    "wof:name":"Bangchungmok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.78885,
+    34.94904,
+    126.78885,
+    34.94904
+],
+  "geometry": {"coordinates":[126.78885,34.94904],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209385639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.80265,36.635,128.80265,36.635",
+    "geom:latitude":36.635,
+    "geom:longitude":128.80265,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sunsem",
+    "gn:country_code":"KR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256406,
+    "gn:latitude":36.635,
+    "gn:longitude":128.80265,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sunsem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc21c\uc148"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256406
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72245620e0f2a47b648e9faef37131f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209385639
+        }
+    ],
+    "wof:id":1209385639,
+    "wof:lastmodified":1537659294,
+    "wof:name":"Sunsem",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.80265,
+    36.635,
+    128.80265,
+    36.635
+],
+  "geometry": {"coordinates":[128.80265,36.635],"type":"Point"}
+}

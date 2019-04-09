@@ -1,0 +1,79 @@
+{
+  "id": 1193250239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.47899,34.99014,126.47899,34.99014",
+    "geom:latitude":34.99014,
+    "geom:longitude":126.47899,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Muan",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1840982,
+    "gn:latitude":34.99014,
+    "gn:longitude":126.47899,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Muan",
+    "gn:population":75718,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muan"
+    ],
+    "name:und_x_variant":[
+        "Muap",
+        "Muan",
+        "Muan-gun"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840982,
+        "wk:page":"Muan_County"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2fcbcfddb3a2e4772c5a4a45e9ae11a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1193250239,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193250239,
+    "wof:lastmodified":1537656422,
+    "wof:name":"Muan",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:population":75718,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.47899,
+    34.99014,
+    126.47899,
+    34.99014
+],
+  "geometry": {"coordinates":[126.47899,34.99014],"type":"Point"}
+}

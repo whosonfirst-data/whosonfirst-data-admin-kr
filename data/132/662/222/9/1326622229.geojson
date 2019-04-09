@@ -1,0 +1,73 @@
+{
+  "id": 1326622229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6594,37.3284,128.6594,37.3284",
+    "geom:latitude":37.3284,
+    "geom:longitude":128.6594,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalgum",
+    "gn:country_code":"KR",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794393,
+    "gn:latitude":37.3284,
+    "gn:longitude":128.6594,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kalg\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uae08"
+    ],
+    "name:kor_x_variant":[
+        "Kalg\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794393
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0f97c855ff8ae54fdb36977dcad8ec39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1326622229,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1326622229,
+    "wof:lastmodified":1537657494,
+    "wof:name":"Kalgum",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6594,
+    37.3284,
+    128.6594,
+    37.3284
+],
+  "geometry": {"coordinates":[128.65940000000001,37.3284],"type":"Point"}
+}

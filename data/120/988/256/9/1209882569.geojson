@@ -1,0 +1,71 @@
+{
+  "id": 1209882569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.162,36.7841,126.162,36.7841",
+    "geom:latitude":36.7841,
+    "geom:longitude":126.162,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sokchang-gol",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808089,
+    "gn:latitude":36.7841,
+    "gn:longitude":126.162,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fkchang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11d\uc7a5\uace8",
+        "S\u014fkchang-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808089
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"21ddac4535c5300e2582eec519276f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1209882569,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1209882569,
+    "wof:lastmodified":1537657815,
+    "wof:name":"Sokchang-gol",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.162,
+    36.7841,
+    126.162,
+    36.7841
+],
+  "geometry": {"coordinates":[126.16200000000001,36.7841],"type":"Point"}
+}

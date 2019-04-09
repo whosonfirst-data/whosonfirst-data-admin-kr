@@ -1,0 +1,82 @@
+{
+  "id": 890473695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7788,37.0943,127.7788,37.0943",
+    "geom:latitude":37.0943,
+    "geom:longitude":127.7788,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fn-dong"
+    ],
+    "name:unk_x_variant":[
+        "Yeondong"
+    ],
+    "qs:name":"\uc720\ucc9c\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\ub300\uc804",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85673173,
+        85632231,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813167,
+        "gp:id":28835311,
+        "qs:id":985740
+    },
+    "wof:country":"KR",
+    "wof:created":1469053962,
+    "wof:geomhash":"dd065bea4aa78588afacf9e95a7098c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "neighbourhood_id":890473695,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":890473695,
+    "wof:lastmodified":1505343717,
+    "wof:name":"\uc720\ucc9c\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7788,
+    37.0943,
+    127.7788,
+    37.0943
+],
+  "geometry": {"coordinates":[127.7788,37.0943],"type":"Point"}
+}

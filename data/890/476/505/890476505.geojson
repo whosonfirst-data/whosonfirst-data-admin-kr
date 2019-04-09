@@ -1,0 +1,75 @@
+{
+  "id": 890476505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34293,34.84494,127.34293,34.84494",
+    "geom:latitude":34.84494,
+    "geom:longitude":127.34293,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":19842,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "P\u014flgyo"
+    ],
+    "name:kor_x_variant":[
+        "\ubc8c\uad50"
+    ],
+    "name:unk_x_variant":[
+        "Bakky\u014d-ri"
+    ],
+    "qs:name":"Beolgyo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839011,
+        "gp:id":28808121,
+        "qs:id":89618
+    },
+    "wof:country":"KR",
+    "wof:created":1469054077,
+    "wof:geomhash":"0d603809cc0dc8656ca8d680da6f3caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":890476505,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":890476505,
+    "wof:lastmodified":1505343721,
+    "wof:name":"Beolgyo",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:population":19842,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34293,
+    34.84494,
+    127.34293,
+    34.84494
+],
+  "geometry": {"coordinates":[127.34293,34.84494],"type":"Point"}
+}

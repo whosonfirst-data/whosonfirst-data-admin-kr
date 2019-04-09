@@ -1,0 +1,70 @@
+{
+  "id": 1293378523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.90923,35.21034,128.90923,35.21034",
+    "geom:latitude":35.21034,
+    "geom:longitude":128.90923,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Singman",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117847,
+    "gn:latitude":35.21034,
+    "gn:longitude":128.90923,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Singman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dd\ub9cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117847
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bc0c180a0cef3c8af70f1caa7f302e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475303,
+            "locality_id":1293378523,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293378523,
+    "wof:lastmodified":1537659167,
+    "wof:name":"Singman",
+    "wof:parent_id":890475303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.90923,
+    35.21034,
+    128.90923,
+    35.21034
+],
+  "geometry": {"coordinates":[128.90923000000001,35.21034],"type":"Point"}
+}

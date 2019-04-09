@@ -1,0 +1,64 @@
+{
+  "id": 1209070869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40174,35.5536,128.40174,35.5536",
+    "geom:latitude":35.5536,
+    "geom:longitude":128.40174,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Topyeong",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039968,
+    "gn:latitude":35.5536,
+    "gn:longitude":128.40174,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Topyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1a0\ud3c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039968
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"828370cbdb4ee7d0bcfba74686dabddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209070869
+        }
+    ],
+    "wof:id":1209070869,
+    "wof:lastmodified":1537659117,
+    "wof:name":"Topyeong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40174,
+    35.5536,
+    128.40174,
+    35.5536
+],
+  "geometry": {"coordinates":[128.40173999999999,35.5536],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293863465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.21667,37.18528,126.21667,37.18528",
+    "geom:latitude":37.18528,
+    "geom:longitude":126.21667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Beoran",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838760,
+    "gn:latitude":37.18528,
+    "gn:longitude":126.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beoran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u014flan",
+        "\ubc8c\uc548",
+        "Beoran",
+        "P\u014fran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890473555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838760
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"87f3d1a7abedc9262e2deedddf014d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473555,
+            "locality_id":1293863465,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1293863465,
+    "wof:lastmodified":1537656308,
+    "wof:name":"Beoran",
+    "wof:parent_id":890473555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.21667,
+    37.18528,
+    126.21667,
+    37.18528
+],
+  "geometry": {"coordinates":[126.21666999999999,37.18528],"type":"Point"}
+}

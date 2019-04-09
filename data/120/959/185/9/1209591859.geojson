@@ -1,0 +1,64 @@
+{
+  "id": 1209591859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2227,36.27837,127.2227,36.27837",
+    "geom:latitude":36.27837,
+    "geom:longitude":127.2227,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Beotgari",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10913374,
+    "gn:latitude":36.27837,
+    "gn:longitude":127.2227,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Beotgari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc97\uac00\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10913374
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9a91ac8d1c9c1e1ef158b0e0916ba53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209591859
+        }
+    ],
+    "wof:id":1209591859,
+    "wof:lastmodified":1537659084,
+    "wof:name":"Beotgari",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2227,
+    36.27837,
+    127.2227,
+    36.27837
+],
+  "geometry": {"coordinates":[127.2227,36.27837],"type":"Point"}
+}

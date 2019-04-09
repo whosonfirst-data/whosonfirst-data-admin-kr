@@ -1,0 +1,71 @@
+{
+  "id": 1243420777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1384,36.339,127.1384,36.339",
+    "geom:latitude":36.339,
+    "geom:longitude":127.1384,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soju-gol",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6882880,
+    "gn:latitude":36.339,
+    "gn:longitude":127.1384,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fju-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11c\uc8fc\uace8",
+        "S\u014fju-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6882880
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2685bbcfeb9f536f1bb0fda7495f0470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1243420777,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243420777,
+    "wof:lastmodified":1537658269,
+    "wof:name":"Soju-gol",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1384,
+    36.339,
+    127.1384,
+    36.339
+],
+  "geometry": {"coordinates":[127.1384,36.339],"type":"Point"}
+}

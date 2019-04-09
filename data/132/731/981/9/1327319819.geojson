@@ -1,0 +1,73 @@
+{
+  "id": 1327319819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22671,37.93256,127.22671,37.93256",
+    "geom:latitude":37.93256,
+    "geom:longitude":127.22671,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gongseom",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813807,
+    "gn:latitude":37.93256,
+    "gn:longitude":127.22671,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gongseom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf5\uc12c"
+    ],
+    "name:kor_x_variant":[
+        "Kongs\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813807
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f7efffa296e07c742de4310f21a9b821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1327319819,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327319819,
+    "wof:lastmodified":1537658026,
+    "wof:name":"Gongseom",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22671,
+    37.93256,
+    127.22671,
+    37.93256
+],
+  "geometry": {"coordinates":[127.22671,37.93256],"type":"Point"}
+}

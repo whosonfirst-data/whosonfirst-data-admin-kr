@@ -1,0 +1,74 @@
+{
+  "id": 1293453615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.57194,34.69417,126.57194,34.69417",
+    "geom:latitude":34.69417,
+    "geom:longitude":126.57194,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yeongseon",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6396088,
+    "gn:latitude":34.69417,
+    "gn:longitude":126.57194,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Yeongseon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc601\uc120"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fngs\u014fn",
+        "Yeongseon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6396088
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c58c7b39175c994392863d32564e2c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1293453615,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293453615,
+    "wof:lastmodified":1537657173,
+    "wof:name":"Yeongseon",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.57193999999998,
+    34.69417,
+    126.57193999999998,
+    34.69417
+],
+  "geometry": {"coordinates":[126.57193999999998,34.69417],"type":"Point"}
+}

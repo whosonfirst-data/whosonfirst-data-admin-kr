@@ -1,0 +1,72 @@
+{
+  "id": 1242952211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7325,37.21472,126.7325,37.21472",
+    "geom:latitude":37.21472,
+    "geom:longitude":126.7325,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sijang",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841944,
+    "gn:latitude":37.21472,
+    "gn:longitude":126.7325,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sijang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kusijang",
+        "Sijang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841944
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3dafc63a7fd9b3881f64a931d37878e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1242952211,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242952211,
+    "wof:lastmodified":1537656471,
+    "wof:name":"Sijang",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7325,
+    37.21472,
+    126.7325,
+    37.21472
+],
+  "geometry": {"coordinates":[126.7325,37.21472],"type":"Point"}
+}

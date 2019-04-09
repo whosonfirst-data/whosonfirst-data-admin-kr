@@ -1,0 +1,73 @@
+{
+  "id": 1310184165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02352,37.0562,127.02352,37.0562",
+    "geom:latitude":37.0562,
+    "geom:longitude":127.02352,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gyeruji",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841673,
+    "gn:latitude":37.0562,
+    "gn:longitude":127.02352,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gyeruji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keruji",
+        "\uacc4\ub8e8\uc9c0",
+        "Gyeruji",
+        "Kyeruji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841673
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3549fff556832345664dd2939b315712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1310184165,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310184165,
+    "wof:lastmodified":1537656456,
+    "wof:name":"Gyeruji",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02352,
+    37.0562,
+    127.02352,
+    37.0562
+],
+  "geometry": {"coordinates":[127.02352,37.0562],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209175765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.11304,35.5406,128.11304,35.5406",
+    "geom:latitude":35.5406,
+    "geom:longitude":128.11304,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yongju",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904539,
+    "gn:latitude":35.5406,
+    "gn:longitude":128.11304,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\uc8fc",
+        "Yongju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904539
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"32c84cc03a3ce913316dc8b2b6428515",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209175765
+        }
+    ],
+    "wof:id":1209175765,
+    "wof:lastmodified":1537658870,
+    "wof:name":"Yongju",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.11303999999998,
+    35.5406,
+    128.11303999999998,
+    35.5406
+],
+  "geometry": {"coordinates":[128.11303999999998,35.5406],"type":"Point"}
+}

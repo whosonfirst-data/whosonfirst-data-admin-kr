@@ -1,0 +1,69 @@
+{
+  "id": 890472083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.52,35.24972,128.52,35.24972",
+    "geom:latitude":35.24972,
+    "geom:longitude":128.52,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":80987,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Naes\u014f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":1170,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1925936,
+        "gp:id":1132523,
+        "qs:id":569093,
+        "wd:id":"Q17059088",
+        "wk:page":"Naesosa"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053881,
+    "wof:geomhash":"57ec4c3513de1e537abbf6db7bbdd78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746493,
+            "locality_id":890472083,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":890472083,
+    "wof:lastmodified":1527790280,
+    "wof:name":"Naes\u014f",
+    "wof:parent_id":1108746493,
+    "wof:placetype":"locality",
+    "wof:population":80987,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.52,
+    35.24972,
+    128.52,
+    35.24972
+],
+  "geometry": {"coordinates":[128.52000000000001,35.24972],"type":"Point"}
+}

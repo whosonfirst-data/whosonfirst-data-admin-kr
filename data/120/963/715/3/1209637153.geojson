@@ -1,0 +1,64 @@
+{
+  "id": 1209637153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21145,38.21661,127.21145,38.21661",
+    "geom:latitude":38.21661,
+    "geom:longitude":127.21145,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cheonhwangji",
+    "gn:country_code":"KR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9864129,
+    "gn:latitude":38.21661,
+    "gn:longitude":127.21145,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Cheonhwangji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc9c\ud669\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9864129
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f08fb5a38d6beb1b32ff16342ea1f5a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209637153
+        }
+    ],
+    "wof:id":1209637153,
+    "wof:lastmodified":1537658948,
+    "wof:name":"Cheonhwangji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21145,
+    38.21661,
+    127.21145,
+    38.21661
+],
+  "geometry": {"coordinates":[127.21145,38.21661],"type":"Point"}
+}

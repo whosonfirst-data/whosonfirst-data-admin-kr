@@ -1,0 +1,71 @@
+{
+  "id": 1259753779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0061,36.0376,128.0061,36.0376",
+    "geom:latitude":36.0376,
+    "geom:longitude":128.0061,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Waryong",
+    "gn:country_code":"KR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6891841,
+    "gn:latitude":36.0376,
+    "gn:longitude":128.0061,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Waryong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc640\ub8e1",
+        "Waryong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6891841
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d96761e993fa0d8d456d75d398ff4cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1259753779,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259753779,
+    "wof:lastmodified":1537658525,
+    "wof:name":"Waryong",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0061,
+    36.0376,
+    128.0061,
+    36.0376
+],
+  "geometry": {"coordinates":[128.0061,36.0376],"type":"Point"}
+}

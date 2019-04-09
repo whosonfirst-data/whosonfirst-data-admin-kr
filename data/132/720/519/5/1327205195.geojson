@@ -1,0 +1,74 @@
+{
+  "id": 1327205195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35702,37.13929,127.35702,37.13929",
+    "geom:latitude":37.13929,
+    "geom:longitude":127.35702,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Yangjulli",
+    "gn:country_code":"KR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398940,
+    "gn:latitude":37.13929,
+    "gn:longitude":127.35702,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yangjulli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc900\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Yangjun-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398940
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a9cf8f838adc547787872ba1a1db3e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1327205195,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327205195,
+    "wof:lastmodified":1537657200,
+    "wof:name":"Yangjulli",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35702,
+    37.13929,
+    127.35702,
+    37.13929
+],
+  "geometry": {"coordinates":[127.35702000000001,37.13929],"type":"Point"}
+}

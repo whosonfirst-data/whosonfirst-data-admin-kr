@@ -1,0 +1,73 @@
+{
+  "id": 1310015553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61005,34.94879,127.61005,34.94879",
+    "geom:latitude":34.94879,
+    "geom:longitude":127.61005,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hyeonwol",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843728,
+    "gn:latitude":34.94879,
+    "gn:longitude":127.61005,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Hyeonwol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud604\uc6d4"
+    ],
+    "name:und_x_variant":[
+        "Hy\u014fnw\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843728
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ac16d8dceea53979795f3ee4803b9577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472247,
+            "locality_id":1310015553,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310015553,
+    "wof:lastmodified":1537656563,
+    "wof:name":"Hyeonwol",
+    "wof:parent_id":890472247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61005,
+    34.94879,
+    127.61005,
+    34.94879
+],
+  "geometry": {"coordinates":[127.61005,34.94879],"type":"Point"}
+}

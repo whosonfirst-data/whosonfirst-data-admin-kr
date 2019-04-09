@@ -1,0 +1,71 @@
+{
+  "id": 1360168087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1686,36.1747,128.1686,36.1747",
+    "geom:latitude":36.1747,
+    "geom:longitude":128.1686,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"T'o-gol",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890737,
+    "gn:latitude":36.1747,
+    "gn:longitude":128.1686,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019\u014f-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud130\uace8",
+        "T\u2019\u014f-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890737
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e4f38d1db93788be36feeb4290167f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1360168087,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1360168087,
+    "wof:lastmodified":1537658491,
+    "wof:name":"T'o-gol",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1686,
+    36.1747,
+    128.1686,
+    36.1747
+],
+  "geometry": {"coordinates":[128.1686,36.1747],"type":"Point"}
+}

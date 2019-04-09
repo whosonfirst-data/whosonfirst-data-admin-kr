@@ -1,0 +1,71 @@
+{
+  "id": 1225806663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.72171,35.55127,128.72171,35.55127",
+    "geom:latitude":35.55127,
+    "geom:longitude":128.72171,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tobang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903449,
+    "gn:latitude":35.55127,
+    "gn:longitude":128.72171,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tobang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c4\ubc29\ub3d9",
+        "Tobang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903449
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"94ec2dca5ed00eed7e773f4df7dda237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472405,
+            "locality_id":1225806663,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1225806663,
+    "wof:lastmodified":1537658850,
+    "wof:name":"Tobang-dong",
+    "wof:parent_id":890472405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.72171,
+    35.55127,
+    128.72171,
+    35.55127
+],
+  "geometry": {"coordinates":[128.72171,35.55127],"type":"Point"}
+}

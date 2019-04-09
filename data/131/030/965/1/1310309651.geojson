@@ -1,0 +1,77 @@
+{
+  "id": 1310309651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3616,37.06618,128.3616,37.06618",
+    "geom:latitude":37.06618,
+    "geom:longitude":128.3616,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goran",
+    "gn:country_code":"KR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793241,
+    "gn:latitude":37.06618,
+    "gn:longitude":128.3616,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Goran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub7ab\ubc29\ub450"
+    ],
+    "name:kor_x_variant":[
+        "\uace8\uc548"
+    ],
+    "name:und_x_variant":[
+        "Araeppangdu",
+        "Goran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793241
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"42ee007e042aea68564f5a8db8db89c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1310309651,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1310309651,
+    "wof:lastmodified":1537657457,
+    "wof:name":"Goran",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3616,
+    37.06618,
+    128.3616,
+    37.06618
+],
+  "geometry": {"coordinates":[128.36160000000001,37.06618],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360280437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.16667,37.46667,129.16667,37.46667",
+    "geom:latitude":37.46667,
+    "geom:longitude":129.16667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalch'on",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845328,
+    "gn:latitude":37.46667,
+    "gn:longitude":129.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalch\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u016bgan-ri",
+        "Kalch\u2019\u014fn",
+        "\uac08\ucc9c",
+        "Ch\u2019uam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845328
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2b66d51a47e8e3fdfabb40034353c9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1360280437,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360280437,
+    "wof:lastmodified":1537656644,
+    "wof:name":"Kalch'on",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.16666999999998,
+    37.46667,
+    129.16666999999998,
+    37.46667
+],
+  "geometry": {"coordinates":[129.16666999999998,37.46667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226103663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.19083,34.69611,128.19083,34.69611",
+    "geom:latitude":34.69611,
+    "geom:longitude":128.19083,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tumi-ri",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833958,
+    "gn:latitude":34.69611,
+    "gn:longitude":128.19083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tumi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hak-ri",
+        "Tomi-ri",
+        "Tumi-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833958
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"227b0ab8f8dd7ed8988bf0a61bf6be7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474581,
+            "locality_id":1226103663,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226103663,
+    "wof:lastmodified":1537656059,
+    "wof:name":"Tumi-ri",
+    "wof:parent_id":890474581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.19083,
+    34.69611,
+    128.19083,
+    34.69611
+],
+  "geometry": {"coordinates":[128.19083000000001,34.69611],"type":"Point"}
+}

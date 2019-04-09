@@ -1,0 +1,76 @@
+{
+  "id": 1226820847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95,34.6,126.95,34.6",
+    "geom:latitude":34.6,
+    "geom:longitude":126.95,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ch'odang",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845931,
+    "gn:latitude":34.6,
+    "gn:longitude":126.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u2019odang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucd08\ub2f9"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019odang"
+    ],
+    "name:und_x_variant":[
+        "S\u014dd\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845931
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c3a0ded9b09a1ac341bccfba05bf7cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1226820847,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226820847,
+    "wof:lastmodified":1537656674,
+    "wof:name":"Ch'odang",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95,
+    34.6,
+    126.95,
+    34.6
+],
+  "geometry": {"coordinates":[126.95,34.6],"type":"Point"}
+}

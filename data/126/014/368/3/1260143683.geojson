@@ -1,0 +1,72 @@
+{
+  "id": 1260143683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.23299,36.16954,127.23299,36.16954",
+    "geom:latitude":36.16954,
+    "geom:longitude":127.23299,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Seungjeokgol",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6887744,
+    "gn:latitude":36.16954,
+    "gn:longitude":127.23299,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Seungjeokgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2b9\uc801\uace8",
+        "S\u016dngj\u014fk-kol",
+        "Seungjeokgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6887744
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc520386f86fb0f485f4064fd4d2e749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474443,
+            "locality_id":1260143683,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260143683,
+    "wof:lastmodified":1537658391,
+    "wof:name":"Seungjeokgol",
+    "wof:parent_id":890474443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.23299,
+    36.16954000000001,
+    127.23299,
+    36.16954000000001
+],
+  "geometry": {"coordinates":[127.23299,36.16954000000001],"type":"Point"}
+}

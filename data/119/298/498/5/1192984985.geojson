@@ -1,0 +1,71 @@
+{
+  "id": 1192984985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6612,36.3859,126.6612,36.3859",
+    "geom:latitude":36.3859,
+    "geom:longitude":126.6612,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kaembal",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883646,
+    "gn:latitude":36.3859,
+    "gn:longitude":126.6612,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kaembal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac2c\ubc1c",
+        "Kaembal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883646
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1f9b8c82f52bd9ea938e507b252f692f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1192984985,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1192984985,
+    "wof:lastmodified":1537658289,
+    "wof:name":"Kaembal",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6612,
+    36.3859,
+    126.6612,
+    36.3859
+],
+  "geometry": {"coordinates":[126.66119999999999,36.3859],"type":"Point"}
+}

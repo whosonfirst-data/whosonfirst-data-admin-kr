@@ -1,0 +1,77 @@
+{
+  "id": 1260361391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77889,34.37194,126.77889,34.37194",
+    "geom:latitude":34.37194,
+    "geom:longitude":126.77889,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sangjong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837711,
+    "gn:latitude":34.37194,
+    "gn:longitude":126.77889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sangj\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc815\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Sangj\u014fng-ni"
+    ],
+    "name:und_x_variant":[
+        "J\u014dtei-ri",
+        "Sangj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837711
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f5163fbb544fe39f6d786b60cbfb1ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1260361391,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260361391,
+    "wof:lastmodified":1537656252,
+    "wof:name":"Sangjong-ni",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77889,
+    34.37194,
+    126.77889,
+    34.37194
+],
+  "geometry": {"coordinates":[126.77889,34.37194],"type":"Point"}
+}

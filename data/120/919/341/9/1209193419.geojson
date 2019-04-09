@@ -1,0 +1,64 @@
+{
+  "id": 1209193419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5328,37.6045,127.5328,37.6045",
+    "geom:latitude":37.6045,
+    "geom:longitude":127.5328,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mugan",
+    "gn:country_code":"KR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802008,
+    "gn:latitude":37.6045,
+    "gn:longitude":127.5328,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mugan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb35\uc548"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802008
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5a36eef5bbc9fbab057085bed53e68cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209193419
+        }
+    ],
+    "wof:id":1209193419,
+    "wof:lastmodified":1537657716,
+    "wof:name":"Mugan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5328,
+    37.6045,
+    127.5328,
+    37.6045
+],
+  "geometry": {"coordinates":[127.53279999999999,37.6045],"type":"Point"}
+}

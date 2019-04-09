@@ -1,0 +1,74 @@
+{
+  "id": 1260059231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88751,37.01223,126.88751,37.01223",
+    "geom:latitude":37.01223,
+    "geom:longitude":126.88751,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Daegalmi",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364331,
+    "gn:latitude":37.01223,
+    "gn:longitude":126.88751,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Daegalmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uac08\ubbf8"
+    ],
+    "name:und_x_variant":[
+        "Taegalmi",
+        "Daegalmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364331
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d864c52bd828afae4a8755b03ec958a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1260059231,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260059231,
+    "wof:lastmodified":1537657076,
+    "wof:name":"Daegalmi",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88751,
+    37.01223,
+    126.88751,
+    37.01223
+],
+  "geometry": {"coordinates":[126.88751000000001,37.01223],"type":"Point"}
+}

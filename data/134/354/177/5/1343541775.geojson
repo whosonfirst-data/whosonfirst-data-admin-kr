@@ -1,0 +1,72 @@
+{
+  "id": 1343541775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.08111,37.49222,127.08111,37.49222",
+    "geom:latitude":37.49222,
+    "geom:longitude":127.08111,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Irwon-dong",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573437,
+    "gn:latitude":37.49222,
+    "gn:longitude":127.08111,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Irwon-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc77c\uc6d0\ub3d9",
+        "Irwon-dong",
+        "Irw\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890474447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573437
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"372433b5d6a18763630df0fe1e07c516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474447,
+            "locality_id":1343541775,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1343541775,
+    "wof:lastmodified":1537657225,
+    "wof:name":"Irwon-dong",
+    "wof:parent_id":890474447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.08111,
+    37.49222,
+    127.08111,
+    37.49222
+],
+  "geometry": {"coordinates":[127.08111,37.49222],"type":"Point"}
+}

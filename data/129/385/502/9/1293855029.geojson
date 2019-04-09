@@ -1,0 +1,75 @@
+{
+  "id": 1293855029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.50459,37.7367,127.50459,37.7367",
+    "geom:latitude":37.7367,
+    "geom:longitude":127.50459,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hagikdong",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897110,
+    "gn:latitude":37.7367,
+    "gn:longitude":127.50459,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Hagikdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\uc775\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hakik-tong",
+        "Hagik-tong",
+        "Hagikdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897110
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c83385587f718ea40e75293688333a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1293855029,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293855029,
+    "wof:lastmodified":1537656931,
+    "wof:name":"Hagikdong",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.50459,
+    37.7367,
+    127.50459,
+    37.7367
+],
+  "geometry": {"coordinates":[127.50458999999999,37.7367],"type":"Point"}
+}

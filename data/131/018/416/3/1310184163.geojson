@@ -1,0 +1,73 @@
+{
+  "id": 1310184163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04722,38.20556,127.04722,38.20556",
+    "geom:latitude":38.20556,
+    "geom:longitude":127.04722,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hyeonjeo",
+    "gn:country_code":"KR",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884229,
+    "gn:latitude":38.20556,
+    "gn:longitude":127.04722,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Hyeonjeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud604\uc800"
+    ],
+    "name:und_x_variant":[
+        "Hy\u014fnj\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884229
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8f54338d8095ad8684e5cfd868424c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1310184163,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310184163,
+    "wof:lastmodified":1537656776,
+    "wof:name":"Hyeonjeo",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04722,
+    38.20556,
+    127.04722,
+    38.20556
+],
+  "geometry": {"coordinates":[127.04722,38.20556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326794011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.61667,36.25,126.61667,36.25",
+    "geom:latitude":36.25,
+    "geom:longitude":126.61667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Songdong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836274,
+    "gn:latitude":36.25,
+    "gn:longitude":126.61667,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"S\u014fngdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836274
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1ce24287877421ff34879c42c83651ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1326794011,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1326794011,
+    "wof:lastmodified":1536603728,
+    "wof:name":"Songdong-ni",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.61667,
+    36.25,
+    126.61667,
+    36.25
+],
+  "geometry": {"coordinates":[126.61667,36.25],"type":"Point"}
+}

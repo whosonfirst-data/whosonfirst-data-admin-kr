@@ -1,0 +1,70 @@
+{
+  "id": 1259654347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.43316,36.72744,128.43316,36.72744",
+    "geom:latitude":36.72744,
+    "geom:longitude":128.43316,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Oryugol",
+    "gn:country_code":"KR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254678,
+    "gn:latitude":36.72744,
+    "gn:longitude":128.43316,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Oryugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ub958\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254678
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6c6d01e465d50de16a0c1951190cb378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1259654347,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259654347,
+    "wof:lastmodified":1537659275,
+    "wof:name":"Oryugol",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.43316000000002,
+    36.72744,
+    128.43316000000002,
+    36.72744
+],
+  "geometry": {"coordinates":[128.43316000000002,36.72744],"type":"Point"}
+}

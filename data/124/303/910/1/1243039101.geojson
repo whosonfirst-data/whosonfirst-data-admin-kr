@@ -1,0 +1,72 @@
+{
+  "id": 1243039101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.45722,37.29194,127.45722,37.29194",
+    "geom:latitude":37.29194,
+    "geom:longitude":127.45722,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jeungpo-dong",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6577840,
+    "gn:latitude":37.29194,
+    "gn:longitude":127.45722,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jeungpo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc99d\ud3ec\ub3d9",
+        "Jeungpo-dong",
+        "Ch\u016dngp\u2019o-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577840
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a8457b5acc0480eadf9469ec2020659d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1243039101,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243039101,
+    "wof:lastmodified":1537657393,
+    "wof:name":"Jeungpo-dong",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.45722,
+    37.29194,
+    127.45722,
+    37.29194
+],
+  "geometry": {"coordinates":[127.45722000000001,37.29194],"type":"Point"}
+}

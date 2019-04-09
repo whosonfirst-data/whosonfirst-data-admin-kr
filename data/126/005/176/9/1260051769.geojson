@@ -1,0 +1,80 @@
+{
+  "id": 1260051769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96613,34.6311,126.96613,34.6311",
+    "geom:latitude":34.6311,
+    "geom:longitude":126.96613,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jicheon",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846232,
+    "gn:latitude":34.6311,
+    "gn:longitude":126.96613,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Jicheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ucc9c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Chich\u2019\u014fl-li",
+        "\uc9c0\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Shisen-ri",
+        "Chich\u2019\u014fn",
+        "Chich\u2019\u014fn-ni",
+        "Jicheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846232
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"deee051d789e675dd0fb680d7bff9927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1260051769,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260051769,
+    "wof:lastmodified":1537656689,
+    "wof:name":"Jicheon",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96613,
+    34.6311,
+    126.96613,
+    34.6311
+],
+  "geometry": {"coordinates":[126.96613000000001,34.6311],"type":"Point"}
+}

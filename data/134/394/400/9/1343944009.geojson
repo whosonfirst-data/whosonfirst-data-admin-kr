@@ -1,0 +1,70 @@
+{
+  "id": 1343944009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.08933,38.14641,127.08933,38.14641",
+    "geom:latitude":38.14641,
+    "geom:longitude":127.08933,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wachori",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865788,
+    "gn:latitude":38.14641,
+    "gn:longitude":127.08933,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Wachori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc640\ucd08\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865788
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f8556fb42ad81f645a38ebbdb803daf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1343944009,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343944009,
+    "wof:lastmodified":1537658951,
+    "wof:name":"Wachori",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.08933,
+    38.14641,
+    127.08933,
+    38.14641
+],
+  "geometry": {"coordinates":[127.08933,38.14641],"type":"Point"}
+}

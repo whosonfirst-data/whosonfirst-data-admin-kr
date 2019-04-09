@@ -1,0 +1,67 @@
+{
+  "id": 1293696503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3,34.88333,127.3,34.88333",
+    "geom:latitude":34.88333,
+    "geom:longitude":127.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kangbyon-ni",
+    "gn:country_code":"KR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843190,
+    "gn:latitude":34.88333,
+    "gn:longitude":127.3,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Kangby\u014fn-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843190
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2c5d7b3c6524b778dd4c04b2f14f984f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1293696503,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293696503,
+    "wof:lastmodified":1536982233,
+    "wof:name":"Kangbyon-ni",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3,
+    34.88333,
+    127.3,
+    34.88333
+],
+  "geometry": {"coordinates":[127.3,34.88333],"type":"Point"}
+}

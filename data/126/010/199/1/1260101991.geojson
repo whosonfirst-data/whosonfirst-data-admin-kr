@@ -1,0 +1,73 @@
+{
+  "id": 1260101991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3246,37.5303,128.3246,37.5303",
+    "geom:latitude":37.5303,
+    "geom:longitude":128.3246,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hach'uktok",
+    "gn:country_code":"KR",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816132,
+    "gn:latitude":37.5303,
+    "gn:longitude":128.3246,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hach\u2019ukt\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ucd95\ub355"
+    ],
+    "name:kor_x_variant":[
+        "Hach\u2019ukt\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816132
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d3c941c0091276381e6cbcaaf38e0de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1260101991,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1260101991,
+    "wof:lastmodified":1537658079,
+    "wof:name":"Hach'uktok",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3246,
+    37.5303,
+    128.3246,
+    37.5303
+],
+  "geometry": {"coordinates":[128.3246,37.5303],"type":"Point"}
+}

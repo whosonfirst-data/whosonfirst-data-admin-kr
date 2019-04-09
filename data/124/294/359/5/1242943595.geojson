@@ -1,0 +1,67 @@
+{
+  "id": 1242943595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.275,36.54361,128.275,36.54361",
+    "geom:latitude":36.54361,
+    "geom:longitude":128.275,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nodulma",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895189,
+    "gn:latitude":36.54361,
+    "gn:longitude":128.275,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"N\u014fd\u016dlma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895189
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b38fe8980fec8da37e81a9b86920c1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1242943595,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242943595,
+    "wof:lastmodified":1537032246,
+    "wof:name":"Nodulma",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.275,
+    36.54361,
+    128.275,
+    36.54361
+],
+  "geometry": {"coordinates":[128.27500000000001,36.54361],"type":"Point"}
+}

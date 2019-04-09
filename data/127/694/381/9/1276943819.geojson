@@ -1,0 +1,71 @@
+{
+  "id": 1276943819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8105,36.827,126.8105,36.827",
+    "geom:latitude":36.827,
+    "geom:longitude":126.8105,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kamch'arwon",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809534,
+    "gn:latitude":36.827,
+    "gn:longitude":126.8105,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kamch\u2019arw\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac10\ucc30\uc6d0",
+        "Kamch\u2019arw\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809534
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0f219468be424a263a41c4837e381cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1276943819,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1276943819,
+    "wof:lastmodified":1537657879,
+    "wof:name":"Kamch'arwon",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8105,
+    36.827,
+    126.8105,
+    36.827
+],
+  "geometry": {"coordinates":[126.8105,36.827],"type":"Point"}
+}

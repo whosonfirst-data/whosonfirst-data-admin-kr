@@ -1,0 +1,73 @@
+{
+  "id": 1259765979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.59464,35.92307,128.59464,35.92307",
+    "geom:latitude":35.92307,
+    "geom:longitude":128.59464,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seobyeon",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900636,
+    "gn:latitude":35.92307,
+    "gn:longitude":128.59464,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Seobyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\ubcc0"
+    ],
+    "name:und_x_variant":[
+        "Mut\u2019aes\u014fby\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900636
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aab1171ba3cd6a2bc349561d50049dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746395,
+            "locality_id":1259765979,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1259765979,
+    "wof:lastmodified":1537656942,
+    "wof:name":"Seobyeon",
+    "wof:parent_id":1108746395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.59464,
+    35.92307,
+    128.59464,
+    35.92307
+],
+  "geometry": {"coordinates":[128.59464,35.92307],"type":"Point"}
+}

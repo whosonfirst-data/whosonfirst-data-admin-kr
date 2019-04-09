@@ -1,0 +1,75 @@
+{
+  "id": 1326822349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.43738,38.44511,128.43738,38.44511",
+    "geom:latitude":38.44511,
+    "geom:longitude":128.43738,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Opyeong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7575095,
+    "gn:latitude":38.44511,
+    "gn:longitude":128.43738,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Opyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ud3c9"
+    ],
+    "name:und_x_variant":[
+        "Oep\u2019y\u014fng",
+        "\uc678\ud3c9",
+        "Opyeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7575095
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2cf46381ed837699458ef5705b4d7ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1326822349,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1326822349,
+    "wof:lastmodified":1537658880,
+    "wof:name":"Opyeong",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.43738000000002,
+    38.44511,
+    128.43738000000002,
+    38.44511
+],
+  "geometry": {"coordinates":[128.43738000000002,38.44511],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193001653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.21169,36.5071,128.21169,36.5071",
+    "geom:latitude":36.5071,
+    "geom:longitude":128.21169,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gamakgok",
+    "gn:country_code":"KR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11267508,
+    "gn:latitude":36.5071,
+    "gn:longitude":128.21169,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Gamakgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub9c9\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267508
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b4b5c804580e79052221c998be56c069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1193001653,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193001653,
+    "wof:lastmodified":1537659300,
+    "wof:name":"Gamakgok",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.21169,
+    36.5071,
+    128.21169,
+    36.5071
+],
+  "geometry": {"coordinates":[128.21169,36.5071],"type":"Point"}
+}

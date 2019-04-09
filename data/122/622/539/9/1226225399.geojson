@@ -1,0 +1,74 @@
+{
+  "id": 1226225399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32804,36.50555,128.32804,36.50555",
+    "geom:latitude":36.50555,
+    "geom:longitude":128.32804,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sallim",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838090,
+    "gn:latitude":36.50555,
+    "gn:longitude":128.32804,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Sallim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\ub9bc"
+    ],
+    "name:und_x_variant":[
+        "Sanrin",
+        "Sallim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838090
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b87590d238d49613ed836151ae3be589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1226225399,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226225399,
+    "wof:lastmodified":1537656272,
+    "wof:name":"Sallim",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32804,
+    36.50555,
+    128.32804,
+    36.50555
+],
+  "geometry": {"coordinates":[128.32803999999999,36.50555],"type":"Point"}
+}

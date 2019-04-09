@@ -1,0 +1,72 @@
+{
+  "id": 1343337819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.1853,36.8319,126.1853,36.8319",
+    "geom:latitude":36.8319,
+    "geom:longitude":126.1853,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tuung",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833857,
+    "gn:latitude":36.8319,
+    "gn:longitude":126.1853,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tu\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu\u016dng-ni",
+        "\ub450\uc751",
+        "Tu\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833857
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cb70c7349e5f35e843f11039a1a64399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1343337819,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343337819,
+    "wof:lastmodified":1537656054,
+    "wof:name":"Tuung",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.1853,
+    36.8319,
+    126.1853,
+    36.8319
+],
+  "geometry": {"coordinates":[126.1853,36.8319],"type":"Point"}
+}

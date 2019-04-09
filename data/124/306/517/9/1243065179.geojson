@@ -1,0 +1,67 @@
+{
+  "id": 1243065179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16139,38.25944,127.16139,38.25944",
+    "geom:latitude":38.25944,
+    "geom:longitude":127.16139,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mosiul",
+    "gn:country_code":"KR",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931143,
+    "gn:latitude":38.25944,
+    "gn:longitude":127.16139,
+    "gn:modification_date":"2003-02-21",
+    "gn:name":"Mosiul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931143
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f2dd71021b0d93a505b8abfdb47f1daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1243065179,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243065179,
+    "wof:lastmodified":1536856950,
+    "wof:name":"Mosiul",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16139,
+    38.25944000000001,
+    127.16139,
+    38.25944000000001
+],
+  "geometry": {"coordinates":[127.16139,38.25944000000001],"type":"Point"}
+}

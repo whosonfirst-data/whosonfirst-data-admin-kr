@@ -1,0 +1,70 @@
+{
+  "id": 1243427921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.19457,35.76591,129.19457,35.76591",
+    "geom:latitude":35.76591,
+    "geom:longitude":129.19457,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Naembi",
+    "gn:country_code":"KR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065258,
+    "gn:latitude":35.76591,
+    "gn:longitude":129.19457,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Naembi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0c4\ube44"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065258
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b105658d1ecc17deef24951e7b31b27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1243427921,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243427921,
+    "wof:lastmodified":1537659127,
+    "wof:name":"Naembi",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.19457,
+    35.76591,
+    129.19457,
+    35.76591
+],
+  "geometry": {"coordinates":[129.19457,35.76591],"type":"Point"}
+}

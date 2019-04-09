@@ -1,0 +1,73 @@
+{
+  "id": 1360280431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3857,37.5196,128.3857,37.5196",
+    "geom:latitude":37.5196,
+    "geom:longitude":128.3857,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'an'go-ri",
+    "gn:country_code":"KR",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816005,
+    "gn:latitude":37.5196,
+    "gn:longitude":128.3857,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019an\u2019g\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc2c\uac70\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019an\u2019g\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816005
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d39400507c76e64f5ca8b179c521c204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1360280431,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360280431,
+    "wof:lastmodified":1537658075,
+    "wof:name":"Ch'an'go-ri",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3857,
+    37.5196,
+    128.3857,
+    37.5196
+],
+  "geometry": {"coordinates":[128.38570000000001,37.5196],"type":"Point"}
+}

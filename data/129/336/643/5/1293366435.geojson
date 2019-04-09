@@ -1,0 +1,71 @@
+{
+  "id": 1293366435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.60917,36.30361,126.60917,36.30361",
+    "geom:latitude":36.30361,
+    "geom:longitude":126.60917,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Umnae-ri",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1886650,
+    "gn:latitude":36.30361,
+    "gn:longitude":126.60917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u016cmnae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016cmnae-ri",
+        "\uc74d\ub0b4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1886650
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c70fc69c89c75c4b3289bd262980302f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1293366435,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293366435,
+    "wof:lastmodified":1537656787,
+    "wof:name":"Umnae-ri",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.60917,
+    36.30361,
+    126.60917,
+    36.30361
+],
+  "geometry": {"coordinates":[126.60917000000001,36.30361],"type":"Point"}
+}

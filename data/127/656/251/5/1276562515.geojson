@@ -1,0 +1,72 @@
+{
+  "id": 1276562515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.23667,34.23,127.23667,34.23",
+    "geom:latitude":34.23,
+    "geom:longitude":127.23667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chinmak",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846049,
+    "gn:latitude":34.23,
+    "gn:longitude":127.23667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chinmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinmang-ni",
+        "Chinmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846049
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e12c4232e37ad5a600ec974d142950bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1276562515,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276562515,
+    "wof:lastmodified":1537656680,
+    "wof:name":"Chinmak",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.23667,
+    34.23,
+    127.23667,
+    34.23
+],
+  "geometry": {"coordinates":[127.23667,34.23],"type":"Point"}
+}

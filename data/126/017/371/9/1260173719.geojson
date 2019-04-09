@@ -1,0 +1,73 @@
+{
+  "id": 1260173719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.783,37.339,128.783,37.339",
+    "geom:latitude":37.339,
+    "geom:longitude":128.783,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kurimbawi",
+    "gn:country_code":"KR",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794864,
+    "gn:latitude":37.339,
+    "gn:longitude":128.783,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016drimbawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadf8\ub9bc\ubc14\uc704"
+    ],
+    "name:kor_x_variant":[
+        "K\u016drimbawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794864
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5254e46cc54e46b58be325a241621e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1260173719,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1260173719,
+    "wof:lastmodified":1537657511,
+    "wof:name":"Kurimbawi",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.783,
+    37.339,
+    128.783,
+    37.339
+],
+  "geometry": {"coordinates":[128.78299999999999,37.339],"type":"Point"}
+}

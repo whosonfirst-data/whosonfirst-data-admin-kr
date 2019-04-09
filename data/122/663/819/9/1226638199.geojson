@@ -1,0 +1,75 @@
+{
+  "id": 1226638199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.18908,38.07418,128.18908,38.07418",
+    "geom:latitude":38.07418,
+    "geom:longitude":128.18908,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Utbachi",
+    "gn:country_code":"KR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7584366,
+    "gn:latitude":38.07418,
+    "gn:longitude":128.18908,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Utbachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6c3\ubc14\uce58"
+    ],
+    "name:und_x_variant":[
+        "Uppat\u2019ch\u2019i",
+        "\uc6c3\ubc2d\uce58",
+        "Utbachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7584366
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b8411ecd2629c81218dffd7425e328b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1226638199,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226638199,
+    "wof:lastmodified":1537658882,
+    "wof:name":"Utbachi",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.18908000000002,
+    38.07418,
+    128.18908000000002,
+    38.07418
+],
+  "geometry": {"coordinates":[128.18908000000002,38.07418],"type":"Point"}
+}

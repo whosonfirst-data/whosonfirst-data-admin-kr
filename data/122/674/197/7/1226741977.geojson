@@ -1,0 +1,73 @@
+{
+  "id": 1226741977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1446,37.3957,128.1446,37.3957",
+    "geom:latitude":37.3957,
+    "geom:longitude":128.1446,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'ohyon",
+    "gn:country_code":"KR",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793598,
+    "gn:latitude":37.3957,
+    "gn:longitude":128.1446,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019ohy\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucd08\ud604"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019ohy\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793598
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2b072712aa11d6add288b5e96883f043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473623,
+            "locality_id":1226741977,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226741977,
+    "wof:lastmodified":1537657469,
+    "wof:name":"Ch'ohyon",
+    "wof:parent_id":890473623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1446,
+    37.3957,
+    128.1446,
+    37.3957
+],
+  "geometry": {"coordinates":[128.1446,37.3957],"type":"Point"}
+}

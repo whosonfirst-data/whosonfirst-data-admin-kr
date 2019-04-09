@@ -1,0 +1,70 @@
+{
+  "id": 1193256849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.26382,35.34829,129.26382,35.34829",
+    "geom:latitude":35.34829,
+    "geom:longitude":129.26382,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gomu",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097992,
+    "gn:latitude":35.34829,
+    "gn:longitude":129.26382,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Gomu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ubb34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097992
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1eb2607aee67b24b936f39163a36d554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1193256849,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1193256849,
+    "wof:lastmodified":1537659156,
+    "wof:name":"Gomu",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.26381999999998,
+    35.34829000000001,
+    129.26381999999998,
+    35.34829000000001
+],
+  "geometry": {"coordinates":[129.26381999999998,35.34829000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327419961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15,37.85,127.15,37.85",
+    "geom:latitude":37.85,
+    "geom:longitude":127.15,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wagok",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833506,
+    "gn:latitude":37.85,
+    "gn:longitude":127.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wagok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gakoku",
+        "Wakok",
+        "Wagok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833506
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fb20b90ce09437f2ffac14a7620fe761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1327419961,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327419961,
+    "wof:lastmodified":1537656037,
+    "wof:name":"Wagok",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15,
+    37.85,
+    127.15,
+    37.85
+],
+  "geometry": {"coordinates":[127.15000000000001,37.85],"type":"Point"}
+}

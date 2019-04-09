@@ -1,0 +1,70 @@
+{
+  "id": 1360068157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6323,35.98587,128.6323,35.98587",
+    "geom:latitude":35.98587,
+    "geom:longitude":128.6323,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Semogol",
+    "gn:country_code":"KR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10982353,
+    "gn:latitude":35.98587,
+    "gn:longitude":128.6323,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Semogol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc138\ubaa8\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10982353
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a60c91c16101f0616b5ecd088da72aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1360068157,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1360068157,
+    "wof:lastmodified":1537659100,
+    "wof:name":"Semogol",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6323,
+    35.98587,
+    128.6323,
+    35.98587
+],
+  "geometry": {"coordinates":[128.63229999999999,35.98587],"type":"Point"}
+}

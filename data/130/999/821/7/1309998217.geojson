@@ -1,0 +1,74 @@
+{
+  "id": 1309998217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.98111,37.94365,127.98111,37.94365",
+    "geom:latitude":37.94365,
+    "geom:longitude":127.98111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jungbat",
+    "gn:country_code":"KR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815399,
+    "gn:latitude":37.94365,
+    "gn:longitude":127.98111,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Jungbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\ubc2d"
+    ],
+    "name:und_x_variant":[
+        "Chungbat",
+        "Jungbat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815399
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e39c308c852774ede3c2be36d39300bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1309998217,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309998217,
+    "wof:lastmodified":1537658052,
+    "wof:name":"Jungbat",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.98111000000002,
+    37.94365,
+    127.98111000000002,
+    37.94365
+],
+  "geometry": {"coordinates":[127.98111000000002,37.94365],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259545093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.46333,35.62568,128.46333,35.62568",
+    "geom:latitude":35.62568,
+    "geom:longitude":128.46333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Guridong",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901733,
+    "gn:latitude":35.62568,
+    "gn:longitude":128.46333,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Guridong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\ub9ac\ub3d9",
+        "Kuri-dong",
+        "Guridong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901733
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"982dd6e3900f5b909ae8e6afab7852df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473621,
+            "locality_id":1259545093,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259545093,
+    "wof:lastmodified":1537658795,
+    "wof:name":"Guridong",
+    "wof:parent_id":890473621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.46333,
+    35.62568,
+    128.46333,
+    35.62568
+],
+  "geometry": {"coordinates":[128.46333000000001,35.62568],"type":"Point"}
+}

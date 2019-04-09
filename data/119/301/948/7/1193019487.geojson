@@ -1,0 +1,72 @@
+{
+  "id": 1193019487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53333,33.51667,126.53333,33.51667",
+    "geom:latitude":33.51667,
+    "geom:longitude":126.53333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sanji",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837547,
+    "gn:latitude":33.51667,
+    "gn:longitude":126.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanchi",
+        "Sanji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837547
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"818e8798c5fe0dda9df9a76d5aca9423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1193019487,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1193019487,
+    "wof:lastmodified":1537656242,
+    "wof:name":"Sanji",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53333,
+    33.51667,
+    126.53333,
+    33.51667
+],
+  "geometry": {"coordinates":[126.53333000000001,33.51667],"type":"Point"}
+}

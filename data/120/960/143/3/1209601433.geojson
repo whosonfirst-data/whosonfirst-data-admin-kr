@@ -1,0 +1,64 @@
+{
+  "id": 1209601433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4386,37.03159,127.4386,37.03159",
+    "geom:latitude":37.03159,
+    "geom:longitude":127.4386,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wissamgeori",
+    "gn:country_code":"KR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9977248,
+    "gn:latitude":37.03159,
+    "gn:longitude":127.4386,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Wissamgeori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\uc0bc\uac70\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9977248
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb60dbf7fba7324d54eefcadbfd00f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209601433
+        }
+    ],
+    "wof:id":1209601433,
+    "wof:lastmodified":1537658972,
+    "wof:name":"Wissamgeori",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4386,
+    37.03159,
+    127.4386,
+    37.03159
+],
+  "geometry": {"coordinates":[127.43859999999999,37.03159],"type":"Point"}
+}

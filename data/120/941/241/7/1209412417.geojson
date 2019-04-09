@@ -1,0 +1,64 @@
+{
+  "id": 1209412417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21724,38.14306,127.21724,38.14306",
+    "geom:latitude":38.14306,
+    "geom:longitude":127.21724,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hagilseong",
+    "gn:country_code":"KR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866469,
+    "gn:latitude":38.14306,
+    "gn:longitude":127.21724,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Hagilseong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uae38\uc131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866469
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cf53229a58144c60e0c3f83c8dde451e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209412417
+        }
+    ],
+    "wof:id":1209412417,
+    "wof:lastmodified":1537658958,
+    "wof:name":"Hagilseong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21724,
+    38.14306,
+    127.21724,
+    38.14306
+],
+  "geometry": {"coordinates":[127.21724,38.14306],"type":"Point"}
+}

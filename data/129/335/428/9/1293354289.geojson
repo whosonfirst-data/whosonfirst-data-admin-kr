@@ -1,0 +1,75 @@
+{
+  "id": 1293354289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.13692,34.96008,127.13692,34.96008",
+    "geom:latitude":34.96008,
+    "geom:longitude":127.13692,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ganggakdong",
+    "gn:country_code":"KR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843173,
+    "gn:latitude":34.96008,
+    "gn:longitude":127.13692,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Ganggakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\uac01\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kanggak",
+        "Kanggak-tong",
+        "Ganggakdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843173
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e26abf7b1a723c8a3e55939f76adae1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1293354289,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293354289,
+    "wof:lastmodified":1537656535,
+    "wof:name":"Ganggakdong",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.13692,
+    34.96008,
+    127.13692,
+    34.96008
+],
+  "geometry": {"coordinates":[127.13692,34.96008],"type":"Point"}
+}

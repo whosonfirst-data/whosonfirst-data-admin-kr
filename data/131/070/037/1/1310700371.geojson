@@ -1,0 +1,77 @@
+{
+  "id": 1310700371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.87433,37.02445,127.87433,37.02445",
+    "geom:latitude":37.02445,
+    "geom:longitude":127.87433,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Meondeure",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795216,
+    "gn:latitude":37.02445,
+    "gn:longitude":127.87433,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Meondeure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba3c\ub4dc\ub798"
+    ],
+    "name:kor_x_variant":[
+        "M\u014fnd\u016drae",
+        "\uba3c\ub4dc\ub808"
+    ],
+    "name:und_x_variant":[
+        "Meondeurae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795216
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a6651a55abdcc22afa0b9ca8f9a661d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1310700371,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1310700371,
+    "wof:lastmodified":1537657520,
+    "wof:name":"Meondeure",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.87433,
+    37.02445,
+    127.87433,
+    37.02445
+],
+  "geometry": {"coordinates":[127.87433,37.02445],"type":"Point"}
+}

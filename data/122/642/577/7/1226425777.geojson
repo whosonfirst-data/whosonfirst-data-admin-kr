@@ -1,0 +1,71 @@
+{
+  "id": 1226425777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.41806,36.75886,129.41806,36.75886",
+    "geom:latitude":36.75886,
+    "geom:longitude":129.41806,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sagimak",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895448,
+    "gn:latitude":36.75886,
+    "gn:longitude":129.41806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sagimak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\uae30\ub9c9",
+        "Sagimak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895448
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af8e4f09d1667a5f0f759399e23be664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1226425777,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226425777,
+    "wof:lastmodified":1537656889,
+    "wof:name":"Sagimak",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.41806,
+    36.75886,
+    129.41806,
+    36.75886
+],
+  "geometry": {"coordinates":[129.41806,36.75886],"type":"Point"}
+}

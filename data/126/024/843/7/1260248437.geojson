@@ -1,0 +1,70 @@
+{
+  "id": 1260248437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15418,36.2633,127.15418,36.2633",
+    "geom:latitude":36.2633,
+    "geom:longitude":127.15418,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hancheon",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909521,
+    "gn:latitude":36.2633,
+    "gn:longitude":127.15418,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Hancheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\ucc9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909521
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d397ce2b41a9cfb57aee468515a4eb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474443,
+            "locality_id":1260248437,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260248437,
+    "wof:lastmodified":1537659080,
+    "wof:name":"Hancheon",
+    "wof:parent_id":890474443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15418,
+    36.2633,
+    127.15418,
+    36.2633
+],
+  "geometry": {"coordinates":[127.15418,36.2633],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193108317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38083,37.27194,127.38083,37.27194",
+    "geom:latitude":37.27194,
+    "geom:longitude":127.38083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Munbawi",
+    "gn:country_code":"KR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577474,
+    "gn:latitude":37.27194,
+    "gn:longitude":127.38083,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Munbawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb38\ubc14\uc704",
+        "Munbawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577474
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fd77faa797ae92799a08469d8b27c899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1193108317,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193108317,
+    "wof:lastmodified":1537657367,
+    "wof:name":"Munbawi",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38083,
+    37.27194,
+    127.38083,
+    37.27194
+],
+  "geometry": {"coordinates":[127.38083,37.27194],"type":"Point"}
+}

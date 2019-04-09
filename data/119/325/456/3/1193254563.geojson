@@ -1,0 +1,72 @@
+{
+  "id": 1193254563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48284,36.8572,126.48284,36.8572",
+    "geom:latitude":36.8572,
+    "geom:longitude":126.48284,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Oesong",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839945,
+    "gn:latitude":36.8572,
+    "gn:longitude":126.48284,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oes\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oes\u014fng-ni",
+        "\uc678\uc131",
+        "Oes\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839945
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d41bbefcc6bffc1c67ed4634913ecda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1193254563,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1193254563,
+    "wof:lastmodified":1537656370,
+    "wof:name":"Oesong",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48284,
+    36.8572,
+    126.48284,
+    36.8572
+],
+  "geometry": {"coordinates":[126.48284,36.8572],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260256055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.96468,36.5544,128.96468,36.5544",
+    "geom:latitude":36.5544,
+    "geom:longitude":128.96468,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pyeongjimal",
+    "gn:country_code":"KR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895141,
+    "gn:latitude":36.5544,
+    "gn:longitude":128.96468,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Pyeongjimal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc9c0\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "P\u2019y\u014fngji-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895141
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7170a3fb724ca47fb1d3b8f519672e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1260256055,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260256055,
+    "wof:lastmodified":1537656877,
+    "wof:name":"Pyeongjimal",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.96468000000002,
+    36.5544,
+    128.96468000000002,
+    36.5544
+],
+  "geometry": {"coordinates":[128.96468000000002,36.5544],"type":"Point"}
+}

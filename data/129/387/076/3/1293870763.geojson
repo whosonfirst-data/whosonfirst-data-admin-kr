@@ -1,0 +1,74 @@
+{
+  "id": 1293870763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46683,37.75379,126.46683,37.75379",
+    "geom:latitude":37.75379,
+    "geom:longitude":126.46683,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Gimjakkkol",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948838,
+    "gn:latitude":37.75379,
+    "gn:longitude":126.46683,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Gimjakkkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae40\uc791\uaf34"
+    ],
+    "name:und_x_variant":[
+        "Kimjak-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948838
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"493bba965a449bc49e1f819c23f5ef66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1293870763,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1293870763,
+    "wof:lastmodified":1537656964,
+    "wof:name":"Gimjakkkol",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46683,
+    37.75379,
+    126.46683,
+    37.75379
+],
+  "geometry": {"coordinates":[126.46683,37.75379],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259862815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.22356,36.47248,128.22356,36.47248",
+    "geom:latitude":36.47248,
+    "geom:longitude":128.22356,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pinanchon",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889845,
+    "gn:latitude":36.47248,
+    "gn:longitude":128.22356,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Pinanchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud53c\ub09c\ucd0c",
+        "P\u2019inan-ch\u2019on",
+        "Pinanchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889845
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7abacf41fca286f04fea7c2ba31a9e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1259862815,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259862815,
+    "wof:lastmodified":1537658463,
+    "wof:name":"Pinanchon",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.22356000000002,
+    36.47248,
+    128.22356000000002,
+    36.47248
+],
+  "geometry": {"coordinates":[128.22356000000002,36.47248],"type":"Point"}
+}

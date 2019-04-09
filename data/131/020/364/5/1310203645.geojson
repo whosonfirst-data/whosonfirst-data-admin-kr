@@ -1,0 +1,70 @@
+{
+  "id": 1310203645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.44946,36.67033,127.44946,36.67033",
+    "geom:latitude":36.67033,
+    "geom:longitude":127.44946,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bumunam",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10307542,
+    "gn:latitude":36.67033,
+    "gn:longitude":127.44946,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bumunam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\ubb38\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10307542
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cbe6a065a4fdd6ea176087e79d4559c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746435,
+            "locality_id":1310203645,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1310203645,
+    "wof:lastmodified":1537659014,
+    "wof:name":"Bumunam",
+    "wof:parent_id":1108746435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.44946000000002,
+    36.67033,
+    127.44946000000002,
+    36.67033
+],
+  "geometry": {"coordinates":[127.44946000000002,36.67033],"type":"Point"}
+}

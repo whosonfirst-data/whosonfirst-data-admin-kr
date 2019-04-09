@@ -1,0 +1,65 @@
+{
+  "id": 1209190523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3969,36.5086,126.3969,36.5086",
+    "geom:latitude":36.5086,
+    "geom:longitude":126.3969,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Toeneji",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808870,
+    "gn:latitude":36.5086,
+    "gn:longitude":126.3969,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Toeneji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub418\ub124\uc9c0",
+        "Toeneji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808870
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7c5c0d7824f91fe9cffb06a97f5bcddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209190523
+        }
+    ],
+    "wof:id":1209190523,
+    "wof:lastmodified":1537657851,
+    "wof:name":"Toeneji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3969,
+    36.5086,
+    126.3969,
+    36.5086
+],
+  "geometry": {"coordinates":[126.3969,36.5086],"type":"Point"}
+}

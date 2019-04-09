@@ -1,0 +1,72 @@
+{
+  "id": 1344036731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38833,37.48056,127.38833,37.48056",
+    "geom:latitude":37.48056,
+    "geom:longitude":127.38833,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chang-chon",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897084,
+    "gn:latitude":37.48056,
+    "gn:longitude":127.38833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chang-chon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc3d\ucd0c",
+        "Chang-chon",
+        "Ch\u2019ang-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897084
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fb05350b373e50a7e2347cfd6eb7623e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1344036731,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344036731,
+    "wof:lastmodified":1537656929,
+    "wof:name":"Chang-chon",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38833,
+    37.48056,
+    127.38833,
+    37.48056
+],
+  "geometry": {"coordinates":[127.38833,37.48056],"type":"Point"}
+}

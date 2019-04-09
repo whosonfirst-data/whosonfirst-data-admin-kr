@@ -1,0 +1,70 @@
+{
+  "id": 1225858733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.21347,33.26032,126.21347,33.26032",
+    "geom:latitude":33.26032,
+    "geom:longitude":126.21347,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Samtong",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10022251,
+    "gn:latitude":33.26032,
+    "gn:longitude":126.21347,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Samtong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\ud1b5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890474633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10022251
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0e25dc7103fae8a6ee3923f9c1bc221b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474633,
+            "locality_id":1225858733,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1225858733,
+    "wof:lastmodified":1537658990,
+    "wof:name":"Samtong",
+    "wof:parent_id":890474633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.21347,
+    33.26032,
+    126.21347,
+    33.26032
+],
+  "geometry": {"coordinates":[126.21347,33.26032],"type":"Point"}
+}

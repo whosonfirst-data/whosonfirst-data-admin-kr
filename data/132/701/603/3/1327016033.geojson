@@ -1,0 +1,74 @@
+{
+  "id": 1327016033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3,37.6888,127.3,37.6888",
+    "geom:latitude":37.6888,
+    "geom:longitude":127.3,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gaosil",
+    "gn:country_code":"KR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803448,
+    "gn:latitude":37.6888,
+    "gn:longitude":127.3,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Gaosil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc624\uc2e4"
+    ],
+    "name:und_x_variant":[
+        "\uac00\uc624\uc2e4",
+        "Gaosil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803448
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"03af7d69de722e1482f9e0621aec2562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1327016033,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327016033,
+    "wof:lastmodified":1537657784,
+    "wof:name":"Gaosil",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3,
+    37.6888,
+    127.3,
+    37.6888
+],
+  "geometry": {"coordinates":[127.3,37.6888],"type":"Point"}
+}

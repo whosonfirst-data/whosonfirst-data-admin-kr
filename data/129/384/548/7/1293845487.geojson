@@ -1,0 +1,67 @@
+{
+  "id": 1293845487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.02222,35.45944,129.02222,35.45944",
+    "geom:latitude":35.45944,
+    "geom:longitude":129.02222,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Oryong-gol",
+    "gn:country_code":"KR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894574,
+    "gn:latitude":35.45944,
+    "gn:longitude":129.02222,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Oryong-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894574
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c59f22d64a5c612de7aec20817bdad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1293845487,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293845487,
+    "wof:lastmodified":1536768708,
+    "wof:name":"Oryong-gol",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.02222,
+    35.45944,
+    129.02222,
+    35.45944
+],
+  "geometry": {"coordinates":[129.02222,35.45944],"type":"Point"}
+}

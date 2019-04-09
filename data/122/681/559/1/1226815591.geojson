@@ -1,0 +1,75 @@
+{
+  "id": 1226815591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2097,36.4339,127.2097,36.4339",
+    "geom:latitude":36.4339,
+    "geom:longitude":127.2097,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maagu",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888430,
+    "gn:latitude":36.4339,
+    "gn:longitude":127.2097,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Maagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc544\uad6c"
+    ],
+    "name:und_x_variant":[
+        "\ub9c8\uc5b4\uad6c",
+        "Ma\u014fgu",
+        "Maagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888430
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64566c966d963f15882586f31b48736e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1226815591,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226815591,
+    "wof:lastmodified":1537658422,
+    "wof:name":"Maagu",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2097,
+    36.4339,
+    127.2097,
+    36.4339
+],
+  "geometry": {"coordinates":[127.2097,36.4339],"type":"Point"}
+}

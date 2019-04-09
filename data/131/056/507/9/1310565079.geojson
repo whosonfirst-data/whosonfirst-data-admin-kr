@@ -1,0 +1,75 @@
+{
+  "id": 1310565079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56167,34.49083,126.56167,34.49083",
+    "geom:latitude":34.49083,
+    "geom:longitude":126.56167,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sanggusi",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837764,
+    "gn:latitude":34.49083,
+    "gn:longitude":126.56167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanggusi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uad6c\uc2dc"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fngh\u016dng-ni",
+        "Sang-kusi",
+        "Sanggusi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837764
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0316b43b79309532234bd4ad4e9bc82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1310565079,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310565079,
+    "wof:lastmodified":1537656255,
+    "wof:name":"Sanggusi",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56167,
+    34.49083,
+    126.56167,
+    34.49083
+],
+  "geometry": {"coordinates":[126.56167000000001,34.49083],"type":"Point"}
+}

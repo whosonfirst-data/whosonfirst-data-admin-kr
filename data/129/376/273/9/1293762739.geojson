@@ -1,0 +1,74 @@
+{
+  "id": 1293762739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86099,37.70092,126.86099,37.70092",
+    "geom:latitude":37.70092,
+    "geom:longitude":126.86099,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dupyodong",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363842,
+    "gn:latitude":37.70092,
+    "gn:longitude":126.86099,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Dupyodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ud3ec\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Tup\u2019o-dong",
+        "\ub450\ud45c\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363842
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5267b11250b247316d55a29fa9ad4c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746463,
+            "locality_id":1293762739,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293762739,
+    "wof:lastmodified":1537657057,
+    "wof:name":"Dupyodong",
+    "wof:parent_id":1108746463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86099,
+    37.70092,
+    126.86099,
+    37.70092
+],
+  "geometry": {"coordinates":[126.86099,37.70092],"type":"Point"}
+}

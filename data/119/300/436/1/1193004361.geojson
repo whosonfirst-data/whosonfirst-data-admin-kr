@@ -1,0 +1,74 @@
+{
+  "id": 1193004361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82672,37.76292,126.82672,37.76292",
+    "geom:latitude":37.76292,
+    "geom:longitude":126.82672,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Sageunjeori",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951222,
+    "gn:latitude":37.76292,
+    "gn:longitude":126.82672,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Sageunjeori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uadfc\uc808\uc774"
+    ],
+    "name:kor_x_variant":[
+        "Sag\u016dnj\u014fri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951222
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed07d47258e110b69c1ad0c8902435c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1193004361,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193004361,
+    "wof:lastmodified":1537656973,
+    "wof:name":"Sageunjeori",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82672,
+    37.76292,
+    126.82672,
+    37.76292
+],
+  "geometry": {"coordinates":[126.82671999999999,37.76292],"type":"Point"}
+}

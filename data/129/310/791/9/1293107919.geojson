@@ -1,0 +1,73 @@
+{
+  "id": 1293107919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.41519,33.45928,126.41519,33.45928",
+    "geom:latitude":33.45928,
+    "geom:longitude":126.41519,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Donggareum",
+    "gn:country_code":"KR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194279,
+    "gn:latitude":33.45928,
+    "gn:longitude":126.41519,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Donggareum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uac00\ub984"
+    ],
+    "name:und_x_variant":[
+        "Tonggar\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194279
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2f1764644afb7e23e5f213c83dc6372c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1293107919,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1293107919,
+    "wof:lastmodified":1537657006,
+    "wof:name":"Donggareum",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.41519,
+    33.45928,
+    126.41519,
+    33.45928
+],
+  "geometry": {"coordinates":[126.41519,33.45928],"type":"Point"}
+}

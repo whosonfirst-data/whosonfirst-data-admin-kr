@@ -1,0 +1,76 @@
+{
+  "id": 1226106059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85444,34.48417,126.85444,34.48417",
+    "geom:latitude":34.48417,
+    "geom:longitude":126.85444,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Punt'o",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838545,
+    "gn:latitude":34.48417,
+    "gn:longitude":126.85444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Punt\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd84\ud1a0"
+    ],
+    "name:kor_x_variant":[
+        "Punt\u2019o"
+    ],
+    "name:und_x_variant":[
+        "Punt\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838545
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aea8d0b0b40efbf7f2ad8ddd3c822395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1226106059,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226106059,
+    "wof:lastmodified":1537656299,
+    "wof:name":"Punt'o",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85444,
+    34.48417,
+    126.85444,
+    34.48417
+],
+  "geometry": {"coordinates":[126.85444,34.48417],"type":"Point"}
+}

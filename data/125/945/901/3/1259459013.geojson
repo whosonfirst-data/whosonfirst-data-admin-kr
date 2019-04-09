@@ -1,0 +1,67 @@
+{
+  "id": 1259459013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.11667,36.55,127.11667,36.55",
+    "geom:latitude":36.55,
+    "geom:longitude":127.11667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soksongjong",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836470,
+    "gn:latitude":36.55,
+    "gn:longitude":127.11667,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"S\u014fksongj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836470
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cf40e507458e6f9caa4e5b50deedec2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1259459013,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259459013,
+    "wof:lastmodified":1536893730,
+    "wof:name":"Soksongjong",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.11667,
+    36.55,
+    127.11667,
+    36.55
+],
+  "geometry": {"coordinates":[127.11667,36.55],"type":"Point"}
+}

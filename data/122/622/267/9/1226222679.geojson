@@ -1,0 +1,73 @@
+{
+  "id": 1226222679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04418,37.54183,127.04418,37.54183",
+    "geom:latitude":37.54183,
+    "geom:longitude":127.04418,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ttukseom",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834010,
+    "gn:latitude":37.54183,
+    "gn:longitude":127.04418,
+    "gn:modification_date":"2014-01-06",
+    "gn:name":"Ttukseom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ttukseom"
+    ],
+    "name:kor_x_preferred":[
+        "\ub69d\uc12c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890473253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834010
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6c599f50328aebc687208f4c2f298d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473253,
+            "locality_id":1226222679,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1226222679,
+    "wof:lastmodified":1537550066,
+    "wof:name":"Ttukseom",
+    "wof:parent_id":890473253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04418,
+    37.54183,
+    127.04418,
+    37.54183
+],
+  "geometry": {"coordinates":[127.04418,37.54183],"type":"Point"}
+}

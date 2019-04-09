@@ -1,0 +1,70 @@
+{
+  "id": 1243054099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74083,37.23389,126.74083,37.23389",
+    "geom:latitude":37.23389,
+    "geom:longitude":126.74083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yonggae",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364705,
+    "gn:latitude":37.23389,
+    "gn:longitude":126.74083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yonggae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uac1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364705
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7aaa6adc826c680ebe22e7478edd022d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1243054099,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243054099,
+    "wof:lastmodified":1537657093,
+    "wof:name":"Yonggae",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74083,
+    37.23389,
+    126.74083,
+    37.23389
+],
+  "geometry": {"coordinates":[126.74083,37.23389],"type":"Point"}
+}

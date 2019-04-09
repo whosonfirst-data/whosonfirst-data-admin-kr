@@ -1,0 +1,70 @@
+{
+  "id": 1343449535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.93894,35.15866,128.93894,35.15866",
+    "geom:latitude":35.15866,
+    "geom:longitude":128.93894,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sunseo",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118431,
+    "gn:latitude":35.15866,
+    "gn:longitude":128.93894,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Sunseo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc21c\uc11c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118431
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"332faee3f2eb0f75a37ebf1230e3a7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1343449535,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1343449535,
+    "wof:lastmodified":1537659169,
+    "wof:name":"Sunseo",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.93894,
+    35.15866,
+    128.93894,
+    35.15866
+],
+  "geometry": {"coordinates":[128.93894,35.15866],"type":"Point"}
+}

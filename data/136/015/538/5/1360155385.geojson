@@ -1,0 +1,70 @@
+{
+  "id": 1360155385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.39131,36.58364,128.39131,36.58364",
+    "geom:latitude":36.58364,
+    "geom:longitude":128.39131,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gaenmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11269527,
+    "gn:latitude":36.58364,
+    "gn:longitude":128.39131,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Gaenmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac2f\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11269527
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b9f23e43ea1ba1eda8168f0039288cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1360155385,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1360155385,
+    "wof:lastmodified":1537659306,
+    "wof:name":"Gaenmaeul",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.39131,
+    36.58364,
+    128.39131,
+    36.58364
+],
+  "geometry": {"coordinates":[128.39131,36.58364],"type":"Point"}
+}

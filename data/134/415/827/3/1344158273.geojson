@@ -1,0 +1,72 @@
+{
+  "id": 1344158273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40966,35.55694,127.40966,35.55694",
+    "geom:latitude":35.55694,
+    "geom:longitude":127.40966,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kyewol",
+    "gn:country_code":"KR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876693,
+    "gn:latitude":35.55694,
+    "gn:longitude":127.40966,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kyew\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacc4\uc6d4",
+        "Kyew\u014fl",
+        "Gyewol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876693
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"38beeb3b370703712794ef48560e7f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475797,
+            "locality_id":1344158273,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1344158273,
+    "wof:lastmodified":1537658143,
+    "wof:name":"Kyewol",
+    "wof:parent_id":890475797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40966,
+    35.55694000000001,
+    127.40966,
+    35.55694000000001
+],
+  "geometry": {"coordinates":[127.40966,35.55694000000001],"type":"Point"}
+}

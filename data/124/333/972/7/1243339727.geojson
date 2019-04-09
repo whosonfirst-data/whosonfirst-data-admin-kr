@@ -1,0 +1,71 @@
+{
+  "id": 1243339727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.669,36.2826,126.669,36.2826",
+    "geom:latitude":36.2826,
+    "geom:longitude":126.669,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"P'ungnyon-dong",
+    "gn:country_code":"KR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838560,
+    "gn:latitude":36.2826,
+    "gn:longitude":126.669,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u2019ungny\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud48d\ub144\ub3d9",
+        "P\u2019ungny\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838560
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8eb76bd3457911fcdc827d54949869f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1243339727,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243339727,
+    "wof:lastmodified":1537656300,
+    "wof:name":"P'ungnyon-dong",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.669,
+    36.2826,
+    126.669,
+    36.2826
+],
+  "geometry": {"coordinates":[126.669,36.2826],"type":"Point"}
+}

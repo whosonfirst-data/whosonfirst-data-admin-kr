@@ -1,0 +1,75 @@
+{
+  "id": 1343265271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26417,33.415,126.26417,33.415",
+    "geom:latitude":33.415,
+    "geom:longitude":126.26417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hallim",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844564,
+    "gn:latitude":33.415,
+    "gn:longitude":126.26417,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Hallim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\ub9bc"
+    ],
+    "name:und_x_variant":[
+        "Kanrin-ri",
+        "Hallim-ni",
+        "Hallim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844564
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7a2234b0d8960236ba173224540db2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1343265271,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1343265271,
+    "wof:lastmodified":1537656603,
+    "wof:name":"Hallim",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26417,
+    33.415,
+    126.26417,
+    33.415
+],
+  "geometry": {"coordinates":[126.26416999999999,33.415],"type":"Point"}
+}

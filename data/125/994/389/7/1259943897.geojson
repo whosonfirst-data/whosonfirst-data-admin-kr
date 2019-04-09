@@ -1,0 +1,75 @@
+{
+  "id": 1259943897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90282,35.27235,126.90282,35.27235",
+    "geom:latitude":35.27235,
+    "geom:longitude":126.90282,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Galjeon",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843308,
+    "gn:latitude":35.27235,
+    "gn:longitude":126.90282,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Galjeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uc804"
+    ],
+    "name:und_x_variant":[
+        "Kalch\u014fn",
+        "Kalbat",
+        "Galjeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843308
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de50f9c9b167fbdabc24ece3c6434c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1259943897,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259943897,
+    "wof:lastmodified":1537656542,
+    "wof:name":"Galjeon",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90282,
+    35.27235,
+    126.90282,
+    35.27235
+],
+  "geometry": {"coordinates":[126.90282000000001,35.27235],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276465735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.64,38.16167,127.64,38.16167",
+    "geom:latitude":38.16167,
+    "geom:longitude":127.64,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangyangji",
+    "gn:country_code":"KR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367622,
+    "gn:latitude":38.16167,
+    "gn:longitude":127.64,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangyangji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uc591\uc9c0",
+        "Sangyangji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367622
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aaf890c39e69e7afc8710ce3c29579dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1276465735,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276465735,
+    "wof:lastmodified":1537657115,
+    "wof:name":"Sangyangji",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.64,
+    38.16167,
+    127.64,
+    38.16167
+],
+  "geometry": {"coordinates":[127.64,38.16167],"type":"Point"}
+}

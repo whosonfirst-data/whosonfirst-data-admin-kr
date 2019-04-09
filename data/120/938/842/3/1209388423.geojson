@@ -1,0 +1,64 @@
+{
+  "id": 1209388423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.17891,35.7877,129.17891,35.7877",
+    "geom:latitude":35.7877,
+    "geom:longitude":129.17891,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dudong",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064909,
+    "gn:latitude":35.7877,
+    "gn:longitude":129.17891,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064909
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"88f0e3236a41fc4cf8f9fa52ee93839e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209388423
+        }
+    ],
+    "wof:id":1209388423,
+    "wof:lastmodified":1537659126,
+    "wof:name":"Dudong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.17891,
+    35.7877,
+    129.17891,
+    35.7877
+],
+  "geometry": {"coordinates":[129.17891,35.7877],"type":"Point"}
+}

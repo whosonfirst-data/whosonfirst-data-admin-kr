@@ -1,0 +1,70 @@
+{
+  "id": 1259943909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80113,35.26535,126.80113,35.26535",
+    "geom:latitude":35.26535,
+    "geom:longitude":126.80113,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Maheung",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170032,
+    "gn:latitude":35.26535,
+    "gn:longitude":126.80113,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Maheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\ud765"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170032
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d1c9a5ddfd1d93b816a8b59d8d180860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1259943909,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259943909,
+    "wof:lastmodified":1537659184,
+    "wof:name":"Maheung",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80113,
+    35.26535,
+    126.80113,
+    35.26535
+],
+  "geometry": {"coordinates":[126.80113,35.26535],"type":"Point"}
+}

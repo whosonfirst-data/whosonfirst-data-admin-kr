@@ -1,0 +1,76 @@
+{
+  "id": 1276224647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4914,37.1535,128.4914,37.1535",
+    "geom:latitude":37.1535,
+    "geom:longitude":128.4914,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koe-ri",
+    "gn:country_code":"KR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841902,
+    "gn:latitude":37.1535,
+    "gn:longitude":128.4914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koe-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad34\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Koean-ni",
+        "Kwian-ni",
+        "Kwae-ri",
+        "Koe-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841902
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"23f2787c7118ed9914ab178bb86a6a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1276224647,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276224647,
+    "wof:lastmodified":1537656468,
+    "wof:name":"Koe-ri",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4914,
+    37.1535,
+    128.4914,
+    37.1535
+],
+  "geometry": {"coordinates":[128.4914,37.1535],"type":"Point"}
+}

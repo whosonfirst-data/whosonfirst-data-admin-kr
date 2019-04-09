@@ -1,0 +1,72 @@
+{
+  "id": 1360049361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07972,34.88861,126.07972,34.88861",
+    "geom:latitude":34.88861,
+    "geom:longitude":126.07972,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yokchi",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832741,
+    "gn:latitude":34.88861,
+    "gn:longitude":126.07972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yokchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yokchido",
+        "Yokchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832741
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e54356fdb0096c5cdf1111e09d2822eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1360049361,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360049361,
+    "wof:lastmodified":1537655993,
+    "wof:name":"Yokchi",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07972,
+    34.88861,
+    126.07972,
+    34.88861
+],
+  "geometry": {"coordinates":[126.07971999999999,34.88861],"type":"Point"}
+}

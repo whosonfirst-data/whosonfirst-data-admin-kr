@@ -1,0 +1,77 @@
+{
+  "id": 1310177067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02225,34.74502,127.02225,34.74502",
+    "geom:latitude":34.74502,
+    "geom:longitude":127.02225,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gangsan",
+    "gn:country_code":"KR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684526,
+    "gn:latitude":34.74502,
+    "gn:longitude":127.02225,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Gangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc57c\ub9ac\uac15\uc0b0"
+    ],
+    "name:kor_x_variant":[
+        "\uac15\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Taeyarigangsan",
+        "Gangsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684526
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ebbaa31b366d13c122c4c4af70dfa2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1310177067,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310177067,
+    "wof:lastmodified":1537657414,
+    "wof:name":"Gangsan",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02225,
+    34.74502,
+    127.02225,
+    34.74502
+],
+  "geometry": {"coordinates":[127.02225,34.74502],"type":"Point"}
+}

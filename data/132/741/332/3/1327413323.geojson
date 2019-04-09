@@ -1,0 +1,75 @@
+{
+  "id": 1327413323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64781,37.59623,126.64781,37.59623",
+    "geom:latitude":37.59623,
+    "geom:longitude":126.64781,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Daewang",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835445,
+    "gn:latitude":37.59623,
+    "gn:longitude":126.64781,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Daewang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc655"
+    ],
+    "name:und_x_variant":[
+        "K\u2019\u016dnmal",
+        "Tae-ch\u2019on",
+        "Daewang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835445
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cb0c304745b02dc7caf1a5cf809d257d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746517,
+            "locality_id":1327413323,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1327413323,
+    "wof:lastmodified":1537656138,
+    "wof:name":"Daewang",
+    "wof:parent_id":1108746517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64781,
+    37.59623,
+    126.64781,
+    37.59623
+],
+  "geometry": {"coordinates":[126.64781000000001,37.59623],"type":"Point"}
+}

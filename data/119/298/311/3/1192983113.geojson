@@ -1,0 +1,67 @@
+{
+  "id": 1192983113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.15,35.43333,128.15,35.43333",
+    "geom:latitude":35.43333,
+    "geom:longitude":128.15,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sin'gi",
+    "gn:country_code":"KR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837109,
+    "gn:latitude":35.43333,
+    "gn:longitude":128.15,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Sin\u2019gi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837109
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c7b00631896f52db71280481b95fe44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1192983113,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1192983113,
+    "wof:lastmodified":1536366248,
+    "wof:name":"Sin'gi",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.15,
+    35.43333,
+    128.15,
+    35.43333
+],
+  "geometry": {"coordinates":[128.15000000000001,35.43333],"type":"Point"}
+}

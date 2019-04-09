@@ -1,0 +1,73 @@
+{
+  "id": 1310473101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8923,37.0084,126.8923,37.0084",
+    "geom:latitude":37.0084,
+    "geom:longitude":126.8923,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Myeonsan",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896702,
+    "gn:latitude":37.0084,
+    "gn:longitude":126.8923,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Myeonsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba74\uc0b0"
+    ],
+    "name:kor_x_variant":[
+        "My\u014fnsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896702
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a938793c60548aeeea1c6b8e700c1450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1310473101,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310473101,
+    "wof:lastmodified":1537656908,
+    "wof:name":"Myeonsan",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8923,
+    37.0084,
+    126.8923,
+    37.0084
+],
+  "geometry": {"coordinates":[126.89230000000001,37.0084],"type":"Point"}
+}

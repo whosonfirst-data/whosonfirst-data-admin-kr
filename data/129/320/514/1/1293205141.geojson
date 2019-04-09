@@ -1,0 +1,71 @@
+{
+  "id": 1293205141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8631,36.395,127.8631,36.395",
+    "geom:latitude":36.395,
+    "geom:longitude":127.8631,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hanjung",
+    "gn:country_code":"KR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892199,
+    "gn:latitude":36.395,
+    "gn:longitude":127.8631,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hanjung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud55c\uc911",
+        "Hanjung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892199
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d097b0f7598c97fe0c49055bd61ac648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472333,
+            "locality_id":1293205141,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293205141,
+    "wof:lastmodified":1537658534,
+    "wof:name":"Hanjung",
+    "wof:parent_id":890472333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8631,
+    36.395,
+    127.8631,
+    36.395
+],
+  "geometry": {"coordinates":[127.8631,36.395],"type":"Point"}
+}

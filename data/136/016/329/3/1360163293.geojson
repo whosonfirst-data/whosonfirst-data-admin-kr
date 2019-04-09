@@ -1,0 +1,67 @@
+{
+  "id": 1360163293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.07583,35.17611,129.07583,35.17611",
+    "geom:latitude":35.17611,
+    "geom:longitude":129.07583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yangchong 2-dong",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979163,
+    "gn:latitude":35.17611,
+    "gn:longitude":129.07583,
+    "gn:modification_date":"2004-05-26",
+    "gn:name":"Yangch\u014fng 2-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890475779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979163
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4fb1dd71d901bd9a764f849b9a48ee57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475779,
+            "locality_id":1360163293,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1360163293,
+    "wof:lastmodified":1536831889,
+    "wof:name":"Yangchong 2-dong",
+    "wof:parent_id":890475779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.07583,
+    35.17610999999999,
+    129.07583,
+    35.17610999999999
+],
+  "geometry": {"coordinates":[129.07583,35.17610999999999],"type":"Point"}
+}

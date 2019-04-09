@@ -1,0 +1,73 @@
+{
+  "id": 1310369233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.59045,34.41992,126.59045,34.41992",
+    "geom:latitude":34.41992,
+    "geom:longitude":126.59045,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geumje",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394763,
+    "gn:latitude":34.41992,
+    "gn:longitude":126.59045,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Geumje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "K\u016dmje"
+    ],
+    "name:kor_x_variant":[
+        "\uae08\uc81c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394763
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49196d0934a11608b7dd1bc16d151658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1310369233,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310369233,
+    "wof:lastmodified":1537657140,
+    "wof:name":"Geumje",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.59045,
+    34.41992,
+    126.59045,
+    34.41992
+],
+  "geometry": {"coordinates":[126.59045,34.41992],"type":"Point"}
+}

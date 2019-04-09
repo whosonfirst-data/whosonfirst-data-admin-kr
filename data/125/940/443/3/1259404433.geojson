@@ -1,0 +1,73 @@
+{
+  "id": 1259404433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.79511,37.19398,127.79511,37.19398",
+    "geom:latitude":37.19398,
+    "geom:longitude":127.79511,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Daman",
+    "gn:country_code":"KR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890149,
+    "gn:latitude":37.19398,
+    "gn:longitude":127.79511,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Daman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f4\uc548"
+    ],
+    "name:und_x_variant":[
+        "Taman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890149
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"00020ccbd9a4ede8b5b32ba5b908bb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1259404433,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259404433,
+    "wof:lastmodified":1537656817,
+    "wof:name":"Daman",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.79511,
+    37.19398,
+    127.79511,
+    37.19398
+],
+  "geometry": {"coordinates":[127.79510999999999,37.19398],"type":"Point"}
+}

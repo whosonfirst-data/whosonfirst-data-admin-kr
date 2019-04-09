@@ -1,0 +1,70 @@
+{
+  "id": 1309899041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39002,36.74261,127.39002,36.74261",
+    "geom:latitude":36.74261,
+    "geom:longitude":127.39002,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hugi",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349216,
+    "gn:latitude":36.74261,
+    "gn:longitude":127.39002,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud6c4\uae30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349216
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9c8d79bc77316bba305445623d042991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1309899041,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1309899041,
+    "wof:lastmodified":1537659022,
+    "wof:name":"Hugi",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39002,
+    36.74261,
+    127.39002,
+    36.74261
+],
+  "geometry": {"coordinates":[127.39002000000001,36.74261],"type":"Point"}
+}

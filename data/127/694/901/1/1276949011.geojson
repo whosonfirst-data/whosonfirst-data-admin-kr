@@ -1,0 +1,74 @@
+{
+  "id": 1276949011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72556,37.8325,126.72556,37.8325",
+    "geom:latitude":37.8325,
+    "geom:longitude":126.72556,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Dorimgye",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951594,
+    "gn:latitude":37.8325,
+    "gn:longitude":126.72556,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Dorimgye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ub9bc\uacc4"
+    ],
+    "name:und_x_variant":[
+        "Torimgye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951594
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"485348410373ad45a0c566252bced7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1276949011,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276949011,
+    "wof:lastmodified":1537656977,
+    "wof:name":"Dorimgye",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72556000000002,
+    37.8325,
+    126.72556000000002,
+    37.8325
+],
+  "geometry": {"coordinates":[126.72556000000002,37.8325],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310672609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.1,34.8,126.1,34.8",
+    "geom:latitude":34.8,
+    "geom:longitude":126.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chunghung",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845054,
+    "gn:latitude":34.8,
+    "gn:longitude":126.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chungh\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chungh\u016dng-ni",
+        "Chungh\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845054
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d5137192488764898f7fda60508c3007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1310672609,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310672609,
+    "wof:lastmodified":1537656631,
+    "wof:name":"Chunghung",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.1,
+    34.8,
+    126.1,
+    34.8
+],
+  "geometry": {"coordinates":[126.09999999999999,34.8],"type":"Point"}
+}

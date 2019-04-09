@@ -1,0 +1,64 @@
+{
+  "id": 1209586323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.41411,35.70888,128.41411,35.70888",
+    "geom:latitude":35.70888,
+    "geom:longitude":128.41411,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Doksil",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11019455,
+    "gn:latitude":35.70888,
+    "gn:longitude":128.41411,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Doksil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c5\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11019455
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ad7f646346ca953cb4a67d0d4de3d809",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586323
+        }
+    ],
+    "wof:id":1209586323,
+    "wof:lastmodified":1537659108,
+    "wof:name":"Doksil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.41411000000002,
+    35.70888,
+    128.41411000000002,
+    35.70888
+],
+  "geometry": {"coordinates":[128.41411000000002,35.70888],"type":"Point"}
+}

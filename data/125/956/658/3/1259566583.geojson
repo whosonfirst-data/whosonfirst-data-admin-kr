@@ -1,0 +1,70 @@
+{
+  "id": 1259566583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.06356,35.73311,129.06356,35.73311",
+    "geom:latitude":35.73311,
+    "geom:longitude":129.06356,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dongpyeon",
+    "gn:country_code":"KR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064105,
+    "gn:latitude":35.73311,
+    "gn:longitude":129.06356,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dongpyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ud3b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064105
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a0be981368c5f5bba827867a20e963e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1259566583,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259566583,
+    "wof:lastmodified":1537659123,
+    "wof:name":"Dongpyeon",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.06356,
+    35.73311,
+    129.06356,
+    35.73311
+],
+  "geometry": {"coordinates":[129.06356,35.73311],"type":"Point"}
+}

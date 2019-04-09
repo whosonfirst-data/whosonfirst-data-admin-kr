@@ -1,0 +1,64 @@
+{
+  "id": 1209479045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56472,34.18861,126.56472,34.18861",
+    "geom:latitude":34.18861,
+    "geom:longitude":126.56472,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sinji",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394603,
+    "gn:latitude":34.18861,
+    "gn:longitude":126.56472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc798\ud3ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394603
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a9235495d2aeece27a10a6268c907a8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209479045
+        }
+    ],
+    "wof:id":1209479045,
+    "wof:lastmodified":1537657135,
+    "wof:name":"Sinji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56472,
+    34.18861,
+    126.56472,
+    34.18861
+],
+  "geometry": {"coordinates":[126.56471999999999,34.18861],"type":"Point"}
+}

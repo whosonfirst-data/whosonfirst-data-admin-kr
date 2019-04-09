@@ -1,0 +1,71 @@
+{
+  "id": 1243420757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8601,36.39,126.8601,36.39",
+    "geom:latitude":36.39,
+    "geom:longitude":126.8601,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Anttum",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883936,
+    "gn:latitude":36.39,
+    "gn:longitude":126.8601,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Antt\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\ub738",
+        "Antt\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883936
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fe2e71a135be04504ff21221d8cfae45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474649,
+            "locality_id":1243420757,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243420757,
+    "wof:lastmodified":1537658304,
+    "wof:name":"Anttum",
+    "wof:parent_id":890474649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8601,
+    36.39,
+    126.8601,
+    36.39
+],
+  "geometry": {"coordinates":[126.8601,36.39],"type":"Point"}
+}

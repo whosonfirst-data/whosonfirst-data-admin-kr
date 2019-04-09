@@ -1,0 +1,70 @@
+{
+  "id": 1277046089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.21206,36.55886,128.21206,36.55886",
+    "geom:latitude":36.55886,
+    "geom:longitude":128.21206,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gwanam",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11267246,
+    "gn:latitude":36.55886,
+    "gn:longitude":128.21206,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Gwanam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267246
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c085b7442cff9124176269a396fa35ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1277046089,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1277046089,
+    "wof:lastmodified":1537659299,
+    "wof:name":"Gwanam",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.21206,
+    36.55886,
+    128.21206,
+    36.55886
+],
+  "geometry": {"coordinates":[128.21206000000001,36.55886],"type":"Point"}
+}

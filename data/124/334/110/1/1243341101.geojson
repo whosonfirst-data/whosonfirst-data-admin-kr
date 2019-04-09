@@ -1,0 +1,71 @@
+{
+  "id": 1243341101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.92771,37.50696,126.92771,37.50696",
+    "geom:latitude":37.50696,
+    "geom:longitude":126.92771,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taebang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6800068,
+    "gn:latitude":37.50696,
+    "gn:longitude":126.92771,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taebang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\ubc29\ub3d9",
+        "Taebang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890476313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6800068
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"71a56ce33feef614502fa414b1b66a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476313,
+            "locality_id":1243341101,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1243341101,
+    "wof:lastmodified":1537657667,
+    "wof:name":"Taebang-dong",
+    "wof:parent_id":890476313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92771,
+    37.50696,
+    126.92771,
+    37.50696
+],
+  "geometry": {"coordinates":[126.92771,37.50696],"type":"Point"}
+}

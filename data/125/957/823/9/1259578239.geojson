@@ -1,0 +1,74 @@
+{
+  "id": 1259578239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.14626,37.87954,128.14626,37.87954",
+    "geom:latitude":37.87954,
+    "geom:longitude":128.14626,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Witgwaeseok",
+    "gn:country_code":"KR",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888665,
+    "gn:latitude":37.87954,
+    "gn:longitude":128.14626,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Witgwaeseok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uad18\uc11d"
+    ],
+    "name:kor_x_variant":[
+        "Sanggwaes\u014fk",
+        "\uc717\uad18\uc11d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888665
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52e88e67e4d98753b8fb193068f16362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1259578239,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259578239,
+    "wof:lastmodified":1537656794,
+    "wof:name":"Witgwaeseok",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.14626,
+    37.87954000000001,
+    128.14626,
+    37.87954000000001
+],
+  "geometry": {"coordinates":[128.14626000000001,37.87954000000001],"type":"Point"}
+}

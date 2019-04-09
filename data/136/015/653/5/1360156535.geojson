@@ -1,0 +1,76 @@
+{
+  "id": 1360156535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.29797,34.38092,126.29797,34.38092",
+    "geom:latitude":34.38092,
+    "geom:longitude":126.29797,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"Chindo-gun",
+    "gn:asciiname":"Jeopdo",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884419,
+    "gn:latitude":34.38092,
+    "gn:longitude":126.29797,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Jeopdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc811\ub3c4"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fpto-ri",
+        "Ch\u014fpto",
+        "Jeopdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884419
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ac2acdeb3733736bb131c16a78269950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1360156535,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360156535,
+    "wof:lastmodified":1537656777,
+    "wof:name":"Jeopdo",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.29797,
+    34.38092,
+    126.29797,
+    34.38092
+],
+  "geometry": {"coordinates":[126.29797000000001,34.38092],"type":"Point"}
+}

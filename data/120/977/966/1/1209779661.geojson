@@ -1,0 +1,73 @@
+{
+  "id": 1209779661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05675,34.68072,127.05675,34.68072",
+    "geom:latitude":34.68072,
+    "geom:longitude":127.05675,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hachon",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684668,
+    "gn:latitude":34.68072,
+    "gn:longitude":127.05675,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Hachon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Hach\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684668
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"81a458c7877944c0bf4c06d02310f1e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1209779661,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209779661,
+    "wof:lastmodified":1537657421,
+    "wof:name":"Hachon",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05675,
+    34.68072,
+    127.05675,
+    34.68072
+],
+  "geometry": {"coordinates":[127.05674999999999,34.68072],"type":"Point"}
+}

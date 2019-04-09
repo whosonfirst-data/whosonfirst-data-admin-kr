@@ -1,0 +1,71 @@
+{
+  "id": 1276306899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2926,35.57017,128.2926,35.57017",
+    "geom:latitude":35.57017,
+    "geom:longitude":128.2926,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hwangbo",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901827,
+    "gn:latitude":35.57017,
+    "gn:longitude":128.2926,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hwangbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud669\ubcf4",
+        "Hwangbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901827
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c13e6e9a5f44170b7bd32577930dcee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1276306899,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276306899,
+    "wof:lastmodified":1537658801,
+    "wof:name":"Hwangbo",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2926,
+    35.57017000000001,
+    128.2926,
+    35.57017000000001
+],
+  "geometry": {"coordinates":[128.29259999999999,35.57017000000001],"type":"Point"}
+}

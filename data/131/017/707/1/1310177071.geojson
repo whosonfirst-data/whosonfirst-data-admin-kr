@@ -1,0 +1,73 @@
+{
+  "id": 1310177071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62812,34.76164,127.62812,34.76164",
+    "geom:latitude":34.76164,
+    "geom:longitude":127.62812,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hageum",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844684,
+    "gn:latitude":34.76164,
+    "gn:longitude":127.62812,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Hageum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uae08"
+    ],
+    "name:und_x_variant":[
+        "Hag\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844684
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6e0d6230203196f91ad23a7fbe40ce3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1310177071,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310177071,
+    "wof:lastmodified":1537656610,
+    "wof:name":"Hageum",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62812,
+    34.76164,
+    127.62812,
+    34.76164
+],
+  "geometry": {"coordinates":[127.62812,34.76164],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276650211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.84405,35.10227,128.84405,35.10227",
+    "geom:latitude":35.10227,
+    "geom:longitude":128.84405,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Songjeong",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893994,
+    "gn:latitude":35.10227,
+    "gn:longitude":128.84405,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Songjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uc815"
+    ],
+    "name:und_x_variant":[
+        "Songj\u014fng-ri",
+        "Songj\u014fng-ni",
+        "Songj\u014fng",
+        "Songjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893994
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1d993b9f40f25b6ff215eb1764788498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1276650211,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1276650211,
+    "wof:lastmodified":1537656844,
+    "wof:name":"Songjeong",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.84405,
+    35.10227,
+    128.84405,
+    35.10227
+],
+  "geometry": {"coordinates":[128.84405000000001,35.10227],"type":"Point"}
+}

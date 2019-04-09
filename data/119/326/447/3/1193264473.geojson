@@ -1,0 +1,73 @@
+{
+  "id": 1193264473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3417,37.824,127.3417,37.824",
+    "geom:latitude":37.824,
+    "geom:longitude":127.3417,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seoksaul",
+    "gn:country_code":"KR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813709,
+    "gn:latitude":37.824,
+    "gn:longitude":127.3417,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Seoksaul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uc0ac\uc6b8"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fksaul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813709
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b67bd4c79420daa08d573775448cb209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1193264473,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193264473,
+    "wof:lastmodified":1537658021,
+    "wof:name":"Seoksaul",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3417,
+    37.824,
+    127.3417,
+    37.824
+],
+  "geometry": {"coordinates":[127.3417,37.824],"type":"Point"}
+}

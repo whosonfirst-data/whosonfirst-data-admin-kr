@@ -1,0 +1,67 @@
+{
+  "id": 1243540709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3425,37.61333,127.3425,37.61333",
+    "geom:latitude":37.61333,
+    "geom:longitude":127.3425,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Handari",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897095,
+    "gn:latitude":37.61333,
+    "gn:longitude":127.3425,
+    "gn:modification_date":"1997-11-04",
+    "gn:name":"Handari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897095
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e26fbb73593dd8e0f4f6f67afac09c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1243540709,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243540709,
+    "wof:lastmodified":1536669686,
+    "wof:name":"Handari",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3425,
+    37.61333,
+    127.3425,
+    37.61333
+],
+  "geometry": {"coordinates":[127.3425,37.61333],"type":"Point"}
+}

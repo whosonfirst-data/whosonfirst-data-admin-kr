@@ -1,0 +1,70 @@
+{
+  "id": 1343726205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.22346,35.68816,129.22346,35.68816",
+    "geom:latitude":35.68816,
+    "geom:longitude":129.22346,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Songni",
+    "gn:country_code":"KR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079256,
+    "gn:latitude":35.68816,
+    "gn:longitude":129.22346,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Songni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079256
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"21bc73e24560632f0516e42b4010ede7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1343726205,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1343726205,
+    "wof:lastmodified":1537659139,
+    "wof:name":"Songni",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.22346000000002,
+    35.68816,
+    129.22346000000002,
+    35.68816
+],
+  "geometry": {"coordinates":[129.22346000000002,35.68816],"type":"Point"}
+}

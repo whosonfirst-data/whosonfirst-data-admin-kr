@@ -1,0 +1,64 @@
+{
+  "id": 1209398137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.28193,35.88558,129.28193,35.88558",
+    "geom:latitude":35.88558,
+    "geom:longitude":129.28193,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Galgok",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250484,
+    "gn:latitude":35.88558,
+    "gn:longitude":129.28193,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Galgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250484
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"304c0ee7f4b56770a454fb12c80269d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209398137
+        }
+    ],
+    "wof:id":1209398137,
+    "wof:lastmodified":1537659258,
+    "wof:name":"Galgok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.28193000000002,
+    35.88558,
+    129.28193000000002,
+    35.88558
+],
+  "geometry": {"coordinates":[129.28193000000002,35.88558],"type":"Point"}
+}

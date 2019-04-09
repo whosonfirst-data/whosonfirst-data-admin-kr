@@ -1,0 +1,72 @@
+{
+  "id": 1259762839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.33021,37.53944,126.33021,37.53944",
+    "geom:latitude":37.53944,
+    "geom:longitude":126.33021,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Geoneojang",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274492,
+    "gn:latitude":37.53944,
+    "gn:longitude":126.33021,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Geoneojang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac74\uc5b4\uc7a5",
+        "Geoneojang",
+        "K\u014fn\u014fjang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890473555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274492
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"239091920a9f2ab5d2601756d0bb5437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473555,
+            "locality_id":1259762839,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1259762839,
+    "wof:lastmodified":1537657019,
+    "wof:name":"Geoneojang",
+    "wof:parent_id":890473555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.33021,
+    37.53944,
+    126.33021,
+    37.53944
+],
+  "geometry": {"coordinates":[126.33020999999999,37.53944],"type":"Point"}
+}

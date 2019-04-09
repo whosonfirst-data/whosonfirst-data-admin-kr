@@ -1,0 +1,71 @@
+{
+  "id": 1260245269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6754,36.9212,126.6754,36.9212",
+    "geom:latitude":36.9212,
+    "geom:longitude":126.6754,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kobuk-kol",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807895,
+    "gn:latitude":36.9212,
+    "gn:longitude":126.6754,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u014fbuk-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac70\ubd81\uace8",
+        "K\u014fbuk-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807895
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3ef8856e7e0e5c823687c21fe05116a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1260245269,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260245269,
+    "wof:lastmodified":1537657806,
+    "wof:name":"Kobuk-kol",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6754,
+    36.9212,
+    126.6754,
+    36.9212
+],
+  "geometry": {"coordinates":[126.6754,36.9212],"type":"Point"}
+}

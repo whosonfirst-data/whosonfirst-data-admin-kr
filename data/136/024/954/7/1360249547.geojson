@@ -1,0 +1,67 @@
+{
+  "id": 1360249547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6,35.47167,128.6,35.47167",
+    "geom:latitude":35.47167,
+    "geom:longitude":128.6,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ungdong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894642,
+    "gn:latitude":35.47167,
+    "gn:longitude":128.6,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Ungdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894642
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e130a946a720c4c7195b7b31581dbae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472405,
+            "locality_id":1360249547,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1360249547,
+    "wof:lastmodified":1536708790,
+    "wof:name":"Ungdong-ni",
+    "wof:parent_id":890472405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6,
+    35.47167,
+    128.6,
+    35.47167
+],
+  "geometry": {"coordinates":[128.59999999999999,35.47167],"type":"Point"}
+}

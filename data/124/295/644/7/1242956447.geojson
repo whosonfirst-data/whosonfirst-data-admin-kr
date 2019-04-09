@@ -1,0 +1,75 @@
+{
+  "id": 1242956447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.52403,35.89372,129.52403,35.89372",
+    "geom:latitude":35.89372,
+    "geom:longitude":129.52403,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Daeyangni",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835026,
+    "gn:latitude":35.89372,
+    "gn:longitude":129.52403,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Daeyangni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc591\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Taeyang",
+        "Taeyang-ni",
+        "Daeyangni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835026
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"da687c948a2ba37380a5f84960dacdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1242956447,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242956447,
+    "wof:lastmodified":1537656120,
+    "wof:name":"Daeyangni",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.52403,
+    35.89372,
+    129.52403,
+    35.89372
+],
+  "geometry": {"coordinates":[129.52403000000001,35.89372],"type":"Point"}
+}

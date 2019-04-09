@@ -1,0 +1,72 @@
+{
+  "id": 1326901583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.11903,37.74559,127.11903,37.74559",
+    "geom:latitude":37.74559,
+    "geom:longitude":127.11903,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gatpawi",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801959,
+    "gn:latitude":37.74559,
+    "gn:longitude":127.11903,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Gatpawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac13\ubc14\uc704",
+        "Kappawi",
+        "Gatpawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801959
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7e7d946fff195c133baab3fb090ab72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475299,
+            "locality_id":1326901583,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1326901583,
+    "wof:lastmodified":1537657714,
+    "wof:name":"Gatpawi",
+    "wof:parent_id":890475299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.11903,
+    37.74559,
+    127.11903,
+    37.74559
+],
+  "geometry": {"coordinates":[127.11903,37.74559],"type":"Point"}
+}

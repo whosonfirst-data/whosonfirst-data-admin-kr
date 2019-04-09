@@ -1,0 +1,68 @@
+{
+  "id": 1343443013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46583,34.47833,126.46583,34.47833",
+    "geom:latitude":34.47833,
+    "geom:longitude":126.46583,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"Haenam-gun",
+    "gn:asciiname":"Songjwa-dong",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6306232,
+    "gn:latitude":34.47833,
+    "gn:longitude":126.46583,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"S\u014fngjwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6306232
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c9721fb9452c0fd97ef788707add9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1343443013,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343443013,
+    "wof:lastmodified":1536772008,
+    "wof:name":"Songjwa-dong",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46583,
+    34.47833,
+    126.46583,
+    34.47833
+],
+  "geometry": {"coordinates":[126.46583,34.47833],"type":"Point"}
+}

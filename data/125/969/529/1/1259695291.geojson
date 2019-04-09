@@ -1,0 +1,67 @@
+{
+  "id": 1259695291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.50583,35.48556,126.50583,35.48556",
+    "geom:latitude":35.48556,
+    "geom:longitude":126.50583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nasong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885756,
+    "gn:latitude":35.48556,
+    "gn:longitude":126.50583,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Nas\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885756
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5ae5213cf5d694e42a313ff44ac9d4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1259695291,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1259695291,
+    "wof:lastmodified":1537047941,
+    "wof:name":"Nasong-ni",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.50583,
+    35.48556,
+    126.50583,
+    35.48556
+],
+  "geometry": {"coordinates":[126.50583,35.48556],"type":"Point"}
+}

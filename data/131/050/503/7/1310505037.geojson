@@ -1,0 +1,75 @@
+{
+  "id": 1310505037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.28414,33.38557,126.28414,33.38557",
+    "geom:latitude":33.38557,
+    "geom:longitude":126.28414,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Pukcheju-gun",
+    "gn:asciiname":"Munsudong",
+    "gn:country_code":"KR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840848,
+    "gn:latitude":33.38557,
+    "gn:longitude":126.28414,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Munsudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc218\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Muns\u016dmul-tong",
+        "Munsudong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840848
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96f5a7dd85ea123dd7b86d5120ae770f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1310505037,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1310505037,
+    "wof:lastmodified":1537656415,
+    "wof:name":"Munsudong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.28414,
+    33.38557,
+    126.28414,
+    33.38557
+],
+  "geometry": {"coordinates":[126.28413999999999,33.38557],"type":"Point"}
+}

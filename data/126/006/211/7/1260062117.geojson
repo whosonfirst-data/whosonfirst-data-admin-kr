@@ -1,0 +1,68 @@
+{
+  "id": 1260062117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45221,34.75713,126.45221,34.75713",
+    "geom:latitude":34.75713,
+    "geom:longitude":126.45221,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"36410.0",
+    "gn:asciiname":"Daebul",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11549692,
+    "gn:latitude":34.75713,
+    "gn:longitude":126.45221,
+    "gn:modification_date":"2017-05-24",
+    "gn:name":"Daebul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11549692
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b4015983d8718f3fd2ebb033ec5e4fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1260062117,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260062117,
+    "wof:lastmodified":1537018077,
+    "wof:name":"Daebul",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45221,
+    34.75713,
+    126.45221,
+    34.75713
+],
+  "geometry": {"coordinates":[126.45220999999999,34.75713],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293747589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76182,35.27288,126.76182,35.27288",
+    "geom:latitude":35.27288,
+    "geom:longitude":126.76182,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Banggok",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833509,
+    "gn:latitude":35.27288,
+    "gn:longitude":126.76182,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Banggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uace1"
+    ],
+    "name:und_x_variant":[
+        "Gakoku",
+        "Wakok",
+        "Wagok",
+        "Banggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833509
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f05f27937a8fe89486d162ff996bcd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1293747589,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293747589,
+    "wof:lastmodified":1537656037,
+    "wof:name":"Banggok",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76182,
+    35.27288,
+    126.76182,
+    35.27288
+],
+  "geometry": {"coordinates":[126.76182,35.27288],"type":"Point"}
+}

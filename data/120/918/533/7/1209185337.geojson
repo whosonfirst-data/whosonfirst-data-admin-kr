@@ -1,0 +1,64 @@
+{
+  "id": 1209185337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71333,37.225,126.71333,37.225",
+    "geom:latitude":37.225,
+    "geom:longitude":126.71333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Twikkol",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364680,
+    "gn:latitude":37.225,
+    "gn:longitude":126.71333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Twikkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub4b7\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364680
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f134d7bd4655db8b5e477b285fccc71b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209185337
+        }
+    ],
+    "wof:id":1209185337,
+    "wof:lastmodified":1537657092,
+    "wof:name":"Twikkol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71333,
+    37.225,
+    126.71333,
+    37.225
+],
+  "geometry": {"coordinates":[126.71333,37.225],"type":"Point"}
+}

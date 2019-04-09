@@ -1,0 +1,70 @@
+{
+  "id": 1277054569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.22637,35.24204,129.22637,35.24204",
+    "geom:latitude":35.24204,
+    "geom:longitude":129.22637,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sincheon",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097954,
+    "gn:latitude":35.24204,
+    "gn:longitude":129.22637,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Sincheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ucc9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097954
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7fa03bcb223eb8b32ee729e3433e3e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1277054569,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1277054569,
+    "wof:lastmodified":1537659155,
+    "wof:name":"Sincheon",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.22637,
+    35.24204,
+    129.22637,
+    35.24204
+],
+  "geometry": {"coordinates":[129.22637,35.24204],"type":"Point"}
+}

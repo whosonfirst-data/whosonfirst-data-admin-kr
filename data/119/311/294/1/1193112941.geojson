@@ -1,0 +1,75 @@
+{
+  "id": 1193112941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89667,35.15611,126.89667,35.15611",
+    "geom:latitude":35.15611,
+    "geom:longitude":126.89667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Yang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1981385,
+    "gn:latitude":35.15611,
+    "gn:longitude":126.89667,
+    "gn:modification_date":"2004-06-10",
+    "gn:name":"Yang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472273,
+        85673219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1981385
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"146be31eaf64730d00820e8363ce545d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1193112941,
+            "region_id":85673199
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1193112941,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193112941,
+    "wof:lastmodified":1536371271,
+    "wof:name":"Yang-dong",
+    "wof:parent_id":890472273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89667,
+    35.15611,
+    126.89667,
+    35.15611
+],
+  "geometry": {"coordinates":[126.89667,35.15611],"type":"Point"}
+}

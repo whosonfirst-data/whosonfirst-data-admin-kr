@@ -1,0 +1,71 @@
+{
+  "id": 1343233281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3325,37.48861,127.3325,37.48861",
+    "geom:latitude":37.48861,
+    "geom:longitude":127.3325,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Suriul",
+    "gn:country_code":"KR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577668,
+    "gn:latitude":37.48861,
+    "gn:longitude":127.3325,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Suriul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc218\ub9ac\uc6b8",
+        "Suriul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577668
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f93b98a12c1e6c5c96133bef309425b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1343233281,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343233281,
+    "wof:lastmodified":1537657380,
+    "wof:name":"Suriul",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3325,
+    37.48861,
+    127.3325,
+    37.48861
+],
+  "geometry": {"coordinates":[127.3325,37.48861],"type":"Point"}
+}

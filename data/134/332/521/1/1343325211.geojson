@@ -1,0 +1,71 @@
+{
+  "id": 1343325211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7314,36.3163,126.7314,36.3163",
+    "geom:latitude":36.3163,
+    "geom:longitude":126.7314,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Win-mal",
+    "gn:country_code":"KR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883601,
+    "gn:latitude":36.3163,
+    "gn:longitude":126.7314,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Win-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc717\ub9d0",
+        "Win-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883601
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bceb1317c065a368946a0a2c3ddba600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473525,
+            "locality_id":1343325211,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343325211,
+    "wof:lastmodified":1537658288,
+    "wof:name":"Win-mal",
+    "wof:parent_id":890473525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7314,
+    36.3163,
+    126.7314,
+    36.3163
+],
+  "geometry": {"coordinates":[126.73139999999999,36.3163],"type":"Point"}
+}

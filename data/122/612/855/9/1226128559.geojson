@@ -1,0 +1,73 @@
+{
+  "id": 1226128559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76028,37.64944,126.76028,37.64944",
+    "geom:latitude":37.64944,
+    "geom:longitude":126.76028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mugon",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363883,
+    "gn:latitude":37.64944,
+    "gn:longitude":126.76028,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Mug\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb34\uac80"
+    ],
+    "name:kor_x_variant":[
+        "Mug\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363883
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"38af1abb2e6dcee9511a865ee3198112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746465,
+            "locality_id":1226128559,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226128559,
+    "wof:lastmodified":1537657058,
+    "wof:name":"Mugon",
+    "wof:parent_id":1108746465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76028,
+    37.64944000000001,
+    126.76028,
+    37.64944000000001
+],
+  "geometry": {"coordinates":[126.76027999999999,37.64944000000001],"type":"Point"}
+}

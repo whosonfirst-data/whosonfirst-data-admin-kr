@@ -1,0 +1,64 @@
+{
+  "id": 1209079641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.97953,36.67231,128.97953,36.67231",
+    "geom:latitude":36.67231,
+    "geom:longitude":128.97953,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Galmagol",
+    "gn:country_code":"KR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256600,
+    "gn:latitude":36.67231,
+    "gn:longitude":128.97953,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Galmagol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\ub9c8\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256600
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0e5ad7a7224485bd0ff2d39fe906a7b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209079641
+        }
+    ],
+    "wof:id":1209079641,
+    "wof:lastmodified":1537659298,
+    "wof:name":"Galmagol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.97953,
+    36.67231,
+    128.97953,
+    36.67231
+],
+  "geometry": {"coordinates":[128.97953000000001,36.67231],"type":"Point"}
+}

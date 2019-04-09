@@ -1,0 +1,70 @@
+{
+  "id": 1243285567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8722,37.2747,128.8722,37.2747",
+    "geom:latitude":37.2747,
+    "geom:longitude":128.8722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taejisan",
+    "gn:country_code":"KR",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835245,
+    "gn:latitude":37.2747,
+    "gn:longitude":128.8722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taejisan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc9c0\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835245
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d59031fccd42a76a07e36a58e96dd8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1243285567,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243285567,
+    "wof:lastmodified":1537656130,
+    "wof:name":"Taejisan",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8722,
+    37.2747,
+    128.8722,
+    37.2747
+],
+  "geometry": {"coordinates":[128.87219999999999,37.2747],"type":"Point"}
+}

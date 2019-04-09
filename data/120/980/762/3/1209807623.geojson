@@ -1,0 +1,75 @@
+{
+  "id": 1209807623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.62494,38.01661,128.62494,38.01661",
+    "geom:latitude":38.01661,
+    "geom:longitude":128.62494,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Seokgaeri",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588469,
+    "gn:latitude":38.01661,
+    "gn:longitude":128.62494,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Seokgaeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uac1c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "S\u014fkkye-ri",
+        "\uc11d\uacc4\ub9ac",
+        "Seokgaeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588469
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e3826f5ff09b06b8cf846394c8c1639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1209807623,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209807623,
+    "wof:lastmodified":1537658888,
+    "wof:name":"Seokgaeri",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.62493999999998,
+    38.01661,
+    128.62493999999998,
+    38.01661
+],
+  "geometry": {"coordinates":[128.62493999999998,38.01661],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209278273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.66639,34.67222,126.66639,34.67222",
+    "geom:latitude":34.67222,
+    "geom:longitude":126.66639,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sachon",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838296,
+    "gn:latitude":34.67222,
+    "gn:longitude":126.66639,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sachon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Sach\u2019on"
+    ],
+    "name:und_x_variant":[
+        "\uc0ac\ucd0c",
+        "Sachon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838296
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f8da08c0304520aba1d47dc287ecce1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209278273
+        }
+    ],
+    "wof:id":1209278273,
+    "wof:lastmodified":1537656285,
+    "wof:name":"Sachon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.66639,
+    34.67222,
+    126.66639,
+    34.67222
+],
+  "geometry": {"coordinates":[126.66639000000001,34.67222],"type":"Point"}
+}

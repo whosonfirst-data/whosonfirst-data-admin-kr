@@ -1,0 +1,73 @@
+{
+  "id": 1292908133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.77181,37.02934,127.77181,37.02934",
+    "geom:latitude":37.02934,
+    "geom:longitude":127.77181,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goldaebanggol",
+    "gn:country_code":"KR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812785,
+    "gn:latitude":37.02934,
+    "gn:longitude":127.77181,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Goldaebanggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace8\ub300\ubc29\uace8"
+    ],
+    "name:und_x_variant":[
+        "Koltaebang-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812785
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6a7d2414895d0ab09d6fb081fda544b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1292908133,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1292908133,
+    "wof:lastmodified":1537657984,
+    "wof:name":"Goldaebanggol",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.77181000000002,
+    37.02934000000001,
+    127.77181000000002,
+    37.02934000000001
+],
+  "geometry": {"coordinates":[127.77181000000002,37.02934000000001],"type":"Point"}
+}

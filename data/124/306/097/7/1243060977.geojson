@@ -1,0 +1,70 @@
+{
+  "id": 1243060977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49586,36.9696,127.49586,36.9696",
+    "geom:latitude":36.9696,
+    "geom:longitude":127.49586,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oesaeng",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9977884,
+    "gn:latitude":36.9696,
+    "gn:longitude":127.49586,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Oesaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\uc0dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9977884
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7b9753263ee8164c9ac3f92b597f8491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1243060977,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243060977,
+    "wof:lastmodified":1537658976,
+    "wof:name":"Oesaeng",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49586,
+    36.9696,
+    127.49586,
+    36.9696
+],
+  "geometry": {"coordinates":[127.49585999999999,36.9696],"type":"Point"}
+}

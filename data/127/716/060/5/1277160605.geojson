@@ -1,0 +1,74 @@
+{
+  "id": 1277160605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.99,36.67523,127.99,36.67523",
+    "geom:latitude":36.67523,
+    "geom:longitude":127.99,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wanjang",
+    "gn:country_code":"KR",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833468,
+    "gn:latitude":36.67523,
+    "gn:longitude":127.99,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Wanjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc644\uc7a5"
+    ],
+    "name:und_x_variant":[
+        "Wanjang-ni",
+        "Wanjang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833468
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d9850a826601adcde82906b2b2f0fcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1277160605,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1277160605,
+    "wof:lastmodified":1537656035,
+    "wof:name":"Wanjang",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.99,
+    36.67523,
+    127.99,
+    36.67523
+],
+  "geometry": {"coordinates":[127.98999999999999,36.67523],"type":"Point"}
+}

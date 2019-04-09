@@ -1,0 +1,72 @@
+{
+  "id": 1243158341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9114,37.7965,126.9114,37.7965",
+    "geom:latitude":37.7965,
+    "geom:longitude":126.9114,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cheontaedong",
+    "gn:country_code":"KR",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799388,
+    "gn:latitude":37.7965,
+    "gn:longitude":126.9114,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Cheontaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc9c\ud0dc\ub3d9",
+        "Ch\u2019\u014fnt\u2019ae-dong",
+        "Cheontaedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799388
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"91cd5a54b183b097ffe65cd62f1a6b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1243158341,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243158341,
+    "wof:lastmodified":1537657635,
+    "wof:name":"Cheontaedong",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9114,
+    37.7965,
+    126.9114,
+    37.7965
+],
+  "geometry": {"coordinates":[126.9114,37.7965],"type":"Point"}
+}

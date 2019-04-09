@@ -1,0 +1,64 @@
+{
+  "id": 1209391027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3028,36.77224,127.3028,36.77224",
+    "geom:latitude":36.77224,
+    "geom:longitude":127.3028,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gaemigi",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349101,
+    "gn:latitude":36.77224,
+    "gn:longitude":127.3028,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Gaemigi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\ubbf8\uae30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349101
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eff5f69c83581f32bb55f23a48413474",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209391027
+        }
+    ],
+    "wof:id":1209391027,
+    "wof:lastmodified":1537659020,
+    "wof:name":"Gaemigi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3028,
+    36.77224,
+    127.3028,
+    36.77224
+],
+  "geometry": {"coordinates":[127.3028,36.77224],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209400989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40083,37.38194,127.40083,37.38194",
+    "geom:latitude":37.38194,
+    "geom:longitude":127.40083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Saem-gol",
+    "gn:country_code":"KR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577589,
+    "gn:latitude":37.38194,
+    "gn:longitude":127.40083,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saem-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0d8\uace8",
+        "Saem-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577589
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a0438532e93fd2a2eb25590f4a610950",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209400989
+        }
+    ],
+    "wof:id":1209400989,
+    "wof:lastmodified":1537657375,
+    "wof:name":"Saem-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40083,
+    37.38194,
+    127.40083,
+    37.38194
+],
+  "geometry": {"coordinates":[127.40083,37.38194],"type":"Point"}
+}

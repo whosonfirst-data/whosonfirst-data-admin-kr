@@ -1,0 +1,67 @@
+{
+  "id": 1326503645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.99444,36.86722,128.99444,36.86722",
+    "geom:latitude":36.86722,
+    "geom:longitude":128.99444,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Araekkongi",
+    "gn:country_code":"KR",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895425,
+    "gn:latitude":36.86722,
+    "gn:longitude":128.99444,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Araekkongi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895425
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"358f71e244739bad429041223dc8e4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1326503645,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1326503645,
+    "wof:lastmodified":1537024227,
+    "wof:name":"Araekkongi",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.99444,
+    36.86722,
+    128.99444,
+    36.86722
+],
+  "geometry": {"coordinates":[128.99444,36.86722],"type":"Point"}
+}

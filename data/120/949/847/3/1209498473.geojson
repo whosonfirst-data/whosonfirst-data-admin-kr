@@ -1,0 +1,65 @@
+{
+  "id": 1209498473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.28021,36.16879,129.28021,36.16879",
+    "geom:latitude":36.16879,
+    "geom:longitude":129.28021,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mudomsil",
+    "gn:country_code":"KR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878310,
+    "gn:latitude":36.16879,
+    "gn:longitude":129.28021,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mud\u014fmsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb34\ub364\uc2e4",
+        "Mud\u014fmsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878310
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"157c3f32b7c902782237a325850f8392",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209498473
+        }
+    ],
+    "wof:id":1209498473,
+    "wof:lastmodified":1537658189,
+    "wof:name":"Mudomsil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.28021,
+    36.16879,
+    129.28021,
+    36.16879
+],
+  "geometry": {"coordinates":[129.28021000000001,36.16879],"type":"Point"}
+}

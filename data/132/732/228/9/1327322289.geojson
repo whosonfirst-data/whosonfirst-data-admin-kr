@@ -1,0 +1,70 @@
+{
+  "id": 1327322289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.83222,35.05194,128.83222,35.05194",
+    "geom:latitude":35.05194,
+    "geom:longitude":128.83222,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Katoku",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843445,
+    "gn:latitude":35.05194,
+    "gn:longitude":128.83222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Katoku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kad\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843445
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"02557b4dc43bed320d68c05e3d4dc90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1327322289,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1327322289,
+    "wof:lastmodified":1537656549,
+    "wof:name":"Katoku",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.83222,
+    35.05194,
+    128.83222,
+    35.05194
+],
+  "geometry": {"coordinates":[128.83222000000001,35.05194],"type":"Point"}
+}

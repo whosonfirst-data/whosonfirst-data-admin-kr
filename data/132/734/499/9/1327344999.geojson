@@ -1,0 +1,71 @@
+{
+  "id": 1327344999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24469,35.98969,127.24469,35.98969",
+    "geom:latitude":35.98969,
+    "geom:longitude":127.24469,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Annam",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877854,
+    "gn:latitude":35.98969,
+    "gn:longitude":127.24469,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Annam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\ub0a8",
+        "Annam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877854
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"527864e53896ba14765e13cf96ef9e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474683,
+            "locality_id":1327344999,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1327344999,
+    "wof:lastmodified":1537658174,
+    "wof:name":"Annam",
+    "wof:parent_id":890474683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24469,
+    35.98969,
+    127.24469,
+    35.98969
+],
+  "geometry": {"coordinates":[127.24469000000001,35.98969],"type":"Point"}
+}

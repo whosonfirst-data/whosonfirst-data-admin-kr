@@ -1,0 +1,71 @@
+{
+  "id": 1310667197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.231,36.492,127.231,36.492",
+    "geom:latitude":36.492,
+    "geom:longitude":127.231,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Pongsan",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888378,
+    "gn:latitude":36.492,
+    "gn:longitude":127.231,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pongsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd09\uc0b0",
+        "Pongsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888378
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"405ce98823789c08415d50d1b435c64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1310667197,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1310667197,
+    "wof:lastmodified":1537658419,
+    "wof:name":"Pongsan",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.231,
+    36.492,
+    127.231,
+    36.492
+],
+  "geometry": {"coordinates":[127.23099999999999,36.492],"type":"Point"}
+}

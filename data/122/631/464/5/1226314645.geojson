@@ -1,0 +1,74 @@
+{
+  "id": 1226314645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.01,34.6175,126.01,34.6175",
+    "geom:latitude":34.6175,
+    "geom:longitude":126.01,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nungsal-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840115,
+    "gn:latitude":34.6175,
+    "gn:longitude":126.01,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"N\u016dngsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ry\u014dzan-ri",
+        "N\u016dngsan-ni",
+        "N\u016dngsan",
+        "N\u016dngsal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840115
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"68c7768964b7f7ad8c7d9d10d28cd1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1226314645,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226314645,
+    "wof:lastmodified":1537656379,
+    "wof:name":"Nungsal-li",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.01,
+    34.6175,
+    126.01,
+    34.6175
+],
+  "geometry": {"coordinates":[126.01000000000001,34.6175],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343558545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4037,37.5686,128.4037,37.5686",
+    "geom:latitude":37.5686,
+    "geom:longitude":128.4037,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kech'onp'yong",
+    "gn:country_code":"KR",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816880,
+    "gn:latitude":37.5686,
+    "gn:longitude":128.4037,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kech\u2019\u014fnp\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac8c\ucc9c\ud3c9"
+    ],
+    "name:kor_x_variant":[
+        "Kech\u2019\u014fnp\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816880
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7c06611ac43eae92d311d2646ccf8f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1343558545,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343558545,
+    "wof:lastmodified":1537658102,
+    "wof:name":"Kech'onp'yong",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4037,
+    37.5686,
+    128.4037,
+    37.5686
+],
+  "geometry": {"coordinates":[128.40369999999999,37.5686],"type":"Point"}
+}

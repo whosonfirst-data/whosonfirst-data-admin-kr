@@ -1,0 +1,73 @@
+{
+  "id": 1344123337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38333,36.46667,126.38333,36.46667",
+    "geom:latitude":36.46667,
+    "geom:longitude":126.38333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Unson-gol",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833579,
+    "gn:latitude":36.46667,
+    "gn:longitude":126.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u016cns\u014fn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016cns\u014fn-dong",
+        "\u016cns\u014fn-kol",
+        "\u016cns\u014fn-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833579
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"abd166fd28a6c12faa0668352b8be7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1344123337,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1344123337,
+    "wof:lastmodified":1537656041,
+    "wof:name":"Unson-gol",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38333,
+    36.46667,
+    126.38333,
+    36.46667
+],
+  "geometry": {"coordinates":[126.38333,36.46667],"type":"Point"}
+}

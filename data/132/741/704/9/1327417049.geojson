@@ -1,0 +1,73 @@
+{
+  "id": 1327417049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76191,36.96706,128.76191,36.96706",
+    "geom:latitude":36.96706,
+    "geom:longitude":128.76191,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyeoldan",
+    "gn:country_code":"KR",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841625,
+    "gn:latitude":36.96706,
+    "gn:longitude":128.76191,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Gyeoldan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacb0\ub2e8"
+    ],
+    "name:kor_x_variant":[
+        "Ky\u014fltan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841625
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b082fd56ee9d874d308a2d6770581ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1327417049,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327417049,
+    "wof:lastmodified":1537656453,
+    "wof:name":"Gyeoldan",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76191,
+    36.96706,
+    128.76191,
+    36.96706
+],
+  "geometry": {"coordinates":[128.76191,36.96706],"type":"Point"}
+}

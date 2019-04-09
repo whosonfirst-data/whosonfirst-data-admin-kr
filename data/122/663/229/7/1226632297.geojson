@@ -1,0 +1,74 @@
+{
+  "id": 1226632297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4573,37.5306,127.4573,37.5306",
+    "geom:latitude":37.5306,
+    "geom:longitude":127.4573,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wontongi",
+    "gn:country_code":"KR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803289,
+    "gn:latitude":37.5306,
+    "gn:longitude":127.4573,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Wontongi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ud1b5\uc774"
+    ],
+    "name:und_x_variant":[
+        "\uc6d0\ud1b5\uc774",
+        "Wontongi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803289
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"20c95cd9c026afb44bf44c7f5f2b7530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1226632297,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226632297,
+    "wof:lastmodified":1537657777,
+    "wof:name":"Wontongi",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4573,
+    37.5306,
+    127.4573,
+    37.5306
+],
+  "geometry": {"coordinates":[127.4573,37.5306],"type":"Point"}
+}

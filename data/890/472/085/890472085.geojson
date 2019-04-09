@@ -1,0 +1,100 @@
+{
+  "id": 890472085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001123,
+    "geom:area_square_m":11345379.06857,
+    "geom:bbox":"129.056836426,35.1614383616,129.112601362,35.2011650561",
+    "geom:latitude":35.184258,
+    "geom:longitude":129.082981,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "lbl:latitude":35.188083,
+    "lbl:longitude":129.081071,
+    "meso:admin_1_en":"Busan",
+    "meso:admin_1_lo":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
+    "meso:diss_me":"Yeonje-guBusan",
+    "meso:gadm_admin":"Yeonje",
+    "meso:local_id":"21130",
+    "meso:mps_x":129.081071,
+    "meso:mps_y":35.188083,
+    "meso:name_en":"Yeonje-gu",
+    "meso:name_local":"\uc5f0\uc81c\uad6c",
+    "meso:source":"AOTM",
+    "mps:latitude":35.188083,
+    "mps:longitude":129.081071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yeonje-gu"
+    ],
+    "name:eng_x_variant":[
+        "Yeonje"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5f0\uc81c\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc5f0\uc81c",
+        "\uc5f0\uc81c\uad6c"
+    ],
+    "name:unk_x_variant":[
+        "Yeonje"
+    ],
+    "qs:name":"Yeonje-gu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462807,
+        "qs:id":209105,
+        "wd:id":"Q50422",
+        "wk:page":"Yeonje District"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053881,
+    "wof:geomhash":"5fc193442e1b9331d4ecac4215c59a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472085,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":890472085,
+    "wof:lastmodified":1527790280,
+    "wof:name":"Yeonje-gu",
+    "wof:parent_id":85673227,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.05683642624786,
+    35.16143836160981,
+    129.11260136161593,
+    35.20116505614624
+],
+  "geometry": {"coordinates":[[[129.11260136161593,35.18478800679772],[129.11252591565298,35.18469635618553],[129.09921723715701,35.17945970766682],[129.09730314831077,35.17110016566001],[129.09730406949882,35.17109635129376],[129.09352415983886,35.16355596878951],[129.08568714069315,35.16143836160981],[129.08265226705402,35.1645396344366],[129.08257500886415,35.17581697980757],[129.07243755103534,35.17911616173303],[129.06223876873352,35.17428926624302],[129.06166238098007,35.17483653069595],[129.05683642624786,35.18894129428973],[129.05787927685893,35.19009188851049],[129.06437468314707,35.19566474539559],[129.06843601372825,35.20116505614624],[129.07117778052174,35.19987604253838],[129.08054251264005,35.20000419916212],[129.08604251489544,35.19850315085505],[129.09017130768652,35.19562404880157],[129.09073917846086,35.19374469901071],[129.09118831703739,35.1934922254766],[129.10404153908013,35.19321225099959],[129.11260136161593,35.18478800679772]]],"type":"Polygon"}
+}

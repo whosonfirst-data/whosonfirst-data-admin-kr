@@ -1,0 +1,74 @@
+{
+  "id": 1259554681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90263,36.96494,126.90263,36.96494",
+    "geom:latitude":36.96494,
+    "geom:longitude":126.90263,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Domungok",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840891,
+    "gn:latitude":36.96494,
+    "gn:longitude":126.90263,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Domungok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mun\u2019gong-ni",
+        "\ub3c4\ubb38\uace1",
+        "Mun\u2019gok",
+        "Tomun\u2019gok",
+        "Domungok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840891
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c707bf75deceae077c0e76068405649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1259554681,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259554681,
+    "wof:lastmodified":1537656417,
+    "wof:name":"Domungok",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90263,
+    36.96494000000001,
+    126.90263,
+    36.96494000000001
+],
+  "geometry": {"coordinates":[126.90263,36.96494000000001],"type":"Point"}
+}

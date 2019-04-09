@@ -1,0 +1,70 @@
+{
+  "id": 1209880081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80636,35.25682,126.80636,35.25682",
+    "geom:latitude":35.25682,
+    "geom:longitude":126.80636,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Simok",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170027,
+    "gn:latitude":35.25682,
+    "gn:longitude":126.80636,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Simok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dc\ubaa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170027
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6fc872cd121ce389bcde9926d65c70dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1209880081,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209880081,
+    "wof:lastmodified":1537659184,
+    "wof:name":"Simok",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80636,
+    35.25682000000001,
+    126.80636,
+    35.25682000000001
+],
+  "geometry": {"coordinates":[126.80636,35.25682000000001],"type":"Point"}
+}

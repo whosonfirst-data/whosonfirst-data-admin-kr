@@ -1,0 +1,70 @@
+{
+  "id": 1193250223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80078,35.22273,126.80078,35.22273",
+    "geom:latitude":35.22273,
+    "geom:longitude":126.80078,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Saeteo",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171700,
+    "gn:latitude":35.22273,
+    "gn:longitude":126.80078,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Saeteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171700
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e163f5f783343c731575806f555bb7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1193250223,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193250223,
+    "wof:lastmodified":1537659206,
+    "wof:name":"Saeteo",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80078,
+    35.22273,
+    126.80078,
+    35.22273
+],
+  "geometry": {"coordinates":[126.80078,35.22273],"type":"Point"}
+}

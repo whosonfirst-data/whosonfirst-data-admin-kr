@@ -1,0 +1,82 @@
+{
+  "id": 890473829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36479,34.84989,127.36479,34.84989",
+    "geom:latitude":34.84989,
+    "geom:longitude":127.36479,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "Yangdong-ni"
+    ],
+    "qs:name":"\uc591\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uad11\uc8fc",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":397,
+    "wof:belongsto":[
+        102191569,
+        85673219,
+        85632231,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832925,
+        "gp:id":28835288,
+        "qs:id":992969,
+        "wd:id":"Q6617072",
+        "wk:page":"List of districts of Gwangju"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053967,
+    "wof:geomhash":"fdf511273849e9d45d3b909ad849a8a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "neighbourhood_id":890473829,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":890473829,
+    "wof:lastmodified":1527792831,
+    "wof:name":"\uc591\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36479,
+    34.84989,
+    127.36479,
+    34.84989
+],
+  "geometry": {"coordinates":[127.36479,34.84989],"type":"Point"}
+}

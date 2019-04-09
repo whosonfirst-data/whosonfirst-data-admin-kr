@@ -1,0 +1,70 @@
+{
+  "id": 1344133515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42774,37.77711,126.42774,37.77711",
+    "geom:latitude":37.77711,
+    "geom:longitude":126.42774,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jangol",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8577028,
+    "gn:latitude":37.77711,
+    "gn:longitude":126.42774,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Jangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc794\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8577028
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9a0f3826f355ec6c7b199b7e9a64b3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1344133515,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1344133515,
+    "wof:lastmodified":1537658894,
+    "wof:name":"Jangol",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42774,
+    37.77711,
+    126.42774,
+    37.77711
+],
+  "geometry": {"coordinates":[126.42774,37.77711],"type":"Point"}
+}

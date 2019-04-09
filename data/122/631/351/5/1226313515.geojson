@@ -1,0 +1,71 @@
+{
+  "id": 1226313515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.4306,36.7359,129.4306,36.7359",
+    "geom:latitude":36.7359,
+    "geom:longitude":129.4306,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Otchil",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894729,
+    "gn:latitude":36.7359,
+    "gn:longitude":129.4306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Otchil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc637\uc9c8",
+        "Otchil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894729
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a3a4c79799b396a8548859d7e5d21ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1226313515,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226313515,
+    "wof:lastmodified":1537658606,
+    "wof:name":"Otchil",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.4306,
+    36.7359,
+    129.4306,
+    36.7359
+],
+  "geometry": {"coordinates":[129.4306,36.7359],"type":"Point"}
+}

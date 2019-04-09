@@ -1,0 +1,75 @@
+{
+  "id": 1276745333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95772,34.96493,126.95772,34.96493",
+    "geom:latitude":34.96493,
+    "geom:longitude":126.95772,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gwangdaechon",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841845,
+    "gn:latitude":34.96493,
+    "gn:longitude":126.95772,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Gwangdaechon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad11\ub300\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Kwangdae",
+        "Kwangdaech\u2019on",
+        "Gwangdaechon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841845
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e247ecefddaef9191cd431cc8091cef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1276745333,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276745333,
+    "wof:lastmodified":1537656465,
+    "wof:name":"Gwangdaechon",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95772,
+    34.96493,
+    126.95772,
+    34.96493
+],
+  "geometry": {"coordinates":[126.95771999999999,34.96493],"type":"Point"}
+}

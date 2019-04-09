@@ -1,0 +1,75 @@
+{
+  "id": 1310672589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28169,34.69688,127.28169,34.69688",
+    "geom:latitude":34.69688,
+    "geom:longitude":127.28169,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yehoe",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832786,
+    "gn:latitude":34.69688,
+    "gn:longitude":127.28169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yehoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc608\ud68c"
+    ],
+    "name:und_x_variant":[
+        "Naehae-ri",
+        "Yehoe-ri",
+        "Yehoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832786
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"925b033876e16d62d6910547afbdf74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1310672589,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310672589,
+    "wof:lastmodified":1537655995,
+    "wof:name":"Yehoe",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28169,
+    34.69688,
+    127.28169,
+    34.69688
+],
+  "geometry": {"coordinates":[127.28169,34.69688],"type":"Point"}
+}

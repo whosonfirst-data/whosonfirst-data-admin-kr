@@ -1,0 +1,75 @@
+{
+  "id": 1226038325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41983,36.93263,127.41983,36.93263",
+    "geom:latitude":36.93263,
+    "geom:longitude":127.41983,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Songhyeon",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836199,
+    "gn:latitude":36.93263,
+    "gn:longitude":127.41983,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Songhyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\ud604"
+    ],
+    "name:und_x_variant":[
+        "Songhy\u014fn-ni",
+        "Songhy\u014fn",
+        "Songhyeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890476185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836199
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb84657e9b37a262da20f079984b21d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476185,
+            "locality_id":1226038325,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226038325,
+    "wof:lastmodified":1537656176,
+    "wof:name":"Songhyeon",
+    "wof:parent_id":890476185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41983,
+    36.93263,
+    127.41983,
+    36.93263
+],
+  "geometry": {"coordinates":[127.41983,36.93263],"type":"Point"}
+}

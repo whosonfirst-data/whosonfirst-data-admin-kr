@@ -1,0 +1,71 @@
+{
+  "id": 1243136755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.90873,35.85406,127.90873,35.85406",
+    "geom:latitude":35.85406,
+    "geom:longitude":127.90873,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Songsansaettam",
+    "gn:country_code":"KR",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880077,
+    "gn:latitude":35.85406,
+    "gn:longitude":127.90873,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songsansaettam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\uc0b0\uc0db\ub2f4",
+        "Songsansaettam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880077
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"69fd2f30641323037c7a0468b8b0be54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1243136755,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243136755,
+    "wof:lastmodified":1537658244,
+    "wof:name":"Songsansaettam",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.90873,
+    35.85406,
+    127.90873,
+    35.85406
+],
+  "geometry": {"coordinates":[127.90873000000001,35.85406],"type":"Point"}
+}

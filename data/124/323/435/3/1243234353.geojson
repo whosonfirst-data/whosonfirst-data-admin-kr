@@ -1,0 +1,70 @@
+{
+  "id": 1243234353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40768,36.00269,128.40768,36.00269",
+    "geom:latitude":36.00269,
+    "geom:longitude":128.40768,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Geumongni",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10966703,
+    "gn:latitude":36.00269,
+    "gn:longitude":128.40768,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Geumongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uc625\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10966703
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6af5fddad3b0ea65893b5c2efec1cae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1243234353,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243234353,
+    "wof:lastmodified":1537659098,
+    "wof:name":"Geumongni",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40768,
+    36.00269,
+    128.40768,
+    36.00269
+],
+  "geometry": {"coordinates":[128.40768,36.00269],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309817995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49682,35.13303,126.49682,35.13303",
+    "geom:latitude":35.13303,
+    "geom:longitude":126.49682,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gari",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843059,
+    "gn:latitude":35.13303,
+    "gn:longitude":126.49682,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Gari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ka-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843059
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"330e14214ef5d4b15bb39300249adfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1309817995,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309817995,
+    "wof:lastmodified":1537656529,
+    "wof:name":"Gari",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49682,
+    35.13303,
+    126.49682,
+    35.13303
+],
+  "geometry": {"coordinates":[126.49682,35.13303],"type":"Point"}
+}

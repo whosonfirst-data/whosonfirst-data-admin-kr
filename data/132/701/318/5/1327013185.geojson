@@ -1,0 +1,71 @@
+{
+  "id": 1327013185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.01505,35.88573,128.01505,35.88573",
+    "geom:latitude":35.88573,
+    "geom:longitude":128.01505,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mu-gol",
+    "gn:country_code":"KR",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902509,
+    "gn:latitude":35.88573,
+    "gn:longitude":128.01505,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mu-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb34\uace8",
+        "Mu-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902509
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8ccf8f38c7539a87fca53a4d7322e380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1327013185,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327013185,
+    "wof:lastmodified":1537658822,
+    "wof:name":"Mu-gol",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.01505,
+    35.88573,
+    128.01505,
+    35.88573
+],
+  "geometry": {"coordinates":[128.01505,35.88573],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344020693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81447,35.05271,126.81447,35.05271",
+    "geom:latitude":35.05271,
+    "geom:longitude":126.81447,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Jukchon",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193494,
+    "gn:latitude":35.05271,
+    "gn:longitude":126.81447,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Jukchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fd\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193494
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1d3736b3d6556c27cb3f4286584718ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472185,
+            "locality_id":1344020693,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1344020693,
+    "wof:lastmodified":1537659227,
+    "wof:name":"Jukchon",
+    "wof:parent_id":890472185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81447,
+    35.05271,
+    126.81447,
+    35.05271
+],
+  "geometry": {"coordinates":[126.81447,35.05271],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242944881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8111,35.32115,126.8111,35.32115",
+    "geom:latitude":35.32115,
+    "geom:longitude":126.8111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Cheongnyong",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170063,
+    "gn:latitude":35.32115,
+    "gn:longitude":126.8111,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Cheongnyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\ub8e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170063
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0f6dbbe7834289db247c0325bc5b075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1242944881,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242944881,
+    "wof:lastmodified":1537659184,
+    "wof:name":"Cheongnyong",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8111,
+    35.32115,
+    126.8111,
+    35.32115
+],
+  "geometry": {"coordinates":[126.8111,35.32115],"type":"Point"}
+}

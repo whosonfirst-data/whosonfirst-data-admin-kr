@@ -1,0 +1,67 @@
+{
+  "id": 1209408125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.48304,37.05408,128.48304,37.05408",
+    "geom:latitude":37.05408,
+    "geom:longitude":128.48304,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Choegadong",
+    "gn:country_code":"KR",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793590,
+    "gn:latitude":37.05408,
+    "gn:longitude":128.48304,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Choegadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucd5c\uac00\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019oega-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793590
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a18fc3009902a3975e17806c9ae1cbe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209408125
+        }
+    ],
+    "wof:id":1209408125,
+    "wof:lastmodified":1537657469,
+    "wof:name":"Choegadong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.48304,
+    37.05408,
+    128.48304,
+    37.05408
+],
+  "geometry": {"coordinates":[128.48303999999999,37.05408],"type":"Point"}
+}

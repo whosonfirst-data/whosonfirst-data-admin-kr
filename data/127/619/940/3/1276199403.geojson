@@ -1,0 +1,70 @@
+{
+  "id": 1276199403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.24726,36.52569,128.24726,36.52569",
+    "geom:latitude":36.52569,
+    "geom:longitude":128.24726,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hagal",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895282,
+    "gn:latitude":36.52569,
+    "gn:longitude":128.24726,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Hagal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uac08"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895282
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed8c6f8af5ea18c8596508f93587e0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1276199403,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276199403,
+    "wof:lastmodified":1537656883,
+    "wof:name":"Hagal",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.24726,
+    36.52569,
+    128.24726,
+    36.52569
+],
+  "geometry": {"coordinates":[128.24726000000001,36.52569],"type":"Point"}
+}

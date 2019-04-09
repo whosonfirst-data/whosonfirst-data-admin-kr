@@ -1,0 +1,72 @@
+{
+  "id": 1260246511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.33597,35.56205,128.33597,35.56205",
+    "geom:latitude":35.56205,
+    "geom:longitude":128.33597,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Saemaeul",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901838,
+    "gn:latitude":35.56205,
+    "gn:longitude":128.33597,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Saemaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c8\ub9c8\uc744",
+        "Sae-ma\u016dl",
+        "Saemaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901838
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a71c030ea0a1c7bc6a3febdba0290363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1260246511,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1260246511,
+    "wof:lastmodified":1537658802,
+    "wof:name":"Saemaeul",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.33597,
+    35.56205,
+    128.33597,
+    35.56205
+],
+  "geometry": {"coordinates":[128.33597,35.56205],"type":"Point"}
+}

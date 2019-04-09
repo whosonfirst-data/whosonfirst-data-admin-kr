@@ -1,0 +1,72 @@
+{
+  "id": 1293552753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32379,36.48191,127.32379,36.48191",
+    "geom:latitude":36.48191,
+    "geom:longitude":127.32379,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Donggoji",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888724,
+    "gn:latitude":36.48191,
+    "gn:longitude":127.32379,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Donggoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\uace0\uc9c0",
+        "Tonggoji",
+        "Donggoji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888724
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"71f98bca9dfc0de2a8c7a2aa9171fa32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1293552753,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1293552753,
+    "wof:lastmodified":1537658438,
+    "wof:name":"Donggoji",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32379,
+    36.48191,
+    127.32379,
+    36.48191
+],
+  "geometry": {"coordinates":[127.32379,36.48191],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226215283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.63333,35.86667,128.63333,35.86667",
+    "geom:latitude":35.86667,
+    "geom:longitude":128.63333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hyomok",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843780,
+    "gn:latitude":35.86667,
+    "gn:longitude":128.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hyomok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hyomok-tong",
+        "Hyomoktong-Ilgu",
+        "Hyomok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890473007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843780
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17e7e35d74623342179083bfb759d871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473007,
+            "locality_id":1226215283,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1226215283,
+    "wof:lastmodified":1537656565,
+    "wof:name":"Hyomok",
+    "wof:parent_id":890473007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.63333,
+    35.86667,
+    128.63333,
+    35.86667
+],
+  "geometry": {"coordinates":[128.63333,35.86667],"type":"Point"}
+}

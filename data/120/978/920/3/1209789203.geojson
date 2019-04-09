@@ -1,0 +1,70 @@
+{
+  "id": 1209789203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.44163,36.64773,128.44163,36.64773",
+    "geom:latitude":36.64773,
+    "geom:longitude":128.44163,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hongsim",
+    "gn:country_code":"KR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254621,
+    "gn:latitude":36.64773,
+    "gn:longitude":128.44163,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Hongsim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud64d\uc2ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254621
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"93ed5e1d6f5d661ba7a5ae2683e913cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1209789203,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209789203,
+    "wof:lastmodified":1537659274,
+    "wof:name":"Hongsim",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.44163,
+    36.64773,
+    128.44163,
+    36.64773
+],
+  "geometry": {"coordinates":[128.44163,36.64773],"type":"Point"}
+}

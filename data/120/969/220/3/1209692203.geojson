@@ -1,0 +1,65 @@
+{
+  "id": 1209692203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3222,36.815,126.3222,36.815",
+    "geom:latitude":36.815,
+    "geom:longitude":126.3222,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Andonae",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811909,
+    "gn:latitude":36.815,
+    "gn:longitude":126.3222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Andonae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\ub3c4\ub0b4",
+        "Andonae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811909
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6777483917dbc67f29fe8fc2861a41e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209692203
+        }
+    ],
+    "wof:id":1209692203,
+    "wof:lastmodified":1537657955,
+    "wof:name":"Andonae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3222,
+    36.815,
+    126.3222,
+    36.815
+],
+  "geometry": {"coordinates":[126.3222,36.815],"type":"Point"}
+}

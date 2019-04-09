@@ -1,0 +1,71 @@
+{
+  "id": 1310168847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7099,36.441,126.7099,36.441",
+    "geom:latitude":36.441,
+    "geom:longitude":126.7099,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Paeul",
+    "gn:country_code":"KR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884073,
+    "gn:latitude":36.441,
+    "gn:longitude":126.7099,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc30\uc6b8",
+        "Paeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884073
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cad6e994a625d843eb9b157f56d03f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474649,
+            "locality_id":1310168847,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310168847,
+    "wof:lastmodified":1537658309,
+    "wof:name":"Paeul",
+    "wof:parent_id":890474649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7099,
+    36.441,
+    126.7099,
+    36.441
+],
+  "geometry": {"coordinates":[126.7099,36.441],"type":"Point"}
+}

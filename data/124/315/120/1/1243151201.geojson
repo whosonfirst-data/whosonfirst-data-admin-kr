@@ -1,0 +1,73 @@
+{
+  "id": 1243151201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52923,37.95502,127.52923,37.95502",
+    "geom:latitude":37.95502,
+    "geom:longitude":127.52923,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jungganmal",
+    "gn:country_code":"KR",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897216,
+    "gn:latitude":37.95502,
+    "gn:longitude":127.52923,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jungganmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\uac04\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Chunggan-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897216
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"baa856a5d44683e60da253a31df61fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1243151201,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243151201,
+    "wof:lastmodified":1537656935,
+    "wof:name":"Jungganmal",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52923,
+    37.95502000000001,
+    127.52923,
+    37.95502000000001
+],
+  "geometry": {"coordinates":[127.52923,37.95502000000001],"type":"Point"}
+}

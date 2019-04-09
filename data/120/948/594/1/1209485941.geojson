@@ -1,0 +1,64 @@
+{
+  "id": 1209485941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.80624,36.01123,128.80624,36.01123",
+    "geom:latitude":36.01123,
+    "geom:longitude":128.80624,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gaengbyeonma",
+    "gn:country_code":"KR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10941317,
+    "gn:latitude":36.01123,
+    "gn:longitude":128.80624,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Gaengbyeonma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac31\ubcc0\ub9c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10941317
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c0f197add5d33cd4ba5f416891a0d4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209485941
+        }
+    ],
+    "wof:id":1209485941,
+    "wof:lastmodified":1537659094,
+    "wof:name":"Gaengbyeonma",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.80624,
+    36.01123,
+    128.80624,
+    36.01123
+],
+  "geometry": {"coordinates":[128.80624,36.01123],"type":"Point"}
+}

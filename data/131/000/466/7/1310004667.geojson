@@ -1,0 +1,74 @@
+{
+  "id": 1310004667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32283,37.07767,128.32283,37.07767",
+    "geom:latitude":37.07767,
+    "geom:longitude":128.32283,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Songjidong",
+    "gn:country_code":"KR",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797050,
+    "gn:latitude":37.07767,
+    "gn:longitude":128.32283,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Songjidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2b9\uc9c0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "S\u016dngji-dong",
+        "\uc1a1\uc9c0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797050
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"23ffac017bd828832fa9f7a9c2495512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1310004667,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1310004667,
+    "wof:lastmodified":1537657577,
+    "wof:name":"Songjidong",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32283,
+    37.07767,
+    128.32283,
+    37.07767
+],
+  "geometry": {"coordinates":[128.32283000000001,37.07767],"type":"Point"}
+}

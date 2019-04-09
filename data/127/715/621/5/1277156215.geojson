@@ -1,0 +1,73 @@
+{
+  "id": 1277156215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55933,37.20571,127.55933,37.20571",
+    "geom:latitude":37.20571,
+    "geom:longitude":127.55933,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gongsimi",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812616,
+    "gn:latitude":37.20571,
+    "gn:longitude":127.55933,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Gongsimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf5\uc2ec\uc774"
+    ],
+    "name:und_x_variant":[
+        "Kongsimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812616
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d716379682ac32b3aa01b053d49cc43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1277156215,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1277156215,
+    "wof:lastmodified":1537657974,
+    "wof:name":"Gongsimi",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55933,
+    37.20571,
+    127.55933,
+    37.20571
+],
+  "geometry": {"coordinates":[127.55933,37.20571],"type":"Point"}
+}

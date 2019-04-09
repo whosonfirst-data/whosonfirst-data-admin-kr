@@ -1,0 +1,67 @@
+{
+  "id": 1209816813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75028,35.94861,126.75028,35.94861",
+    "geom:latitude":35.94861,
+    "geom:longitude":126.75028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pongso",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1933145,
+    "gn:latitude":35.94861,
+    "gn:longitude":126.75028,
+    "gn:modification_date":"2004-02-05",
+    "gn:name":"Pongs\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1933145
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bf3a77b2e1f6e1717fd3287a7a4bce1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1209816813,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1209816813,
+    "wof:lastmodified":1536383039,
+    "wof:name":"Pongso",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75028,
+    35.94860999999999,
+    126.75028,
+    35.94860999999999
+],
+  "geometry": {"coordinates":[126.75028,35.94860999999999],"type":"Point"}
+}

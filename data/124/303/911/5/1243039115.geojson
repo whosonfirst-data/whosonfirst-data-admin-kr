@@ -1,0 +1,75 @@
+{
+  "id": 1243039115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.12926,36.98931,127.12926,36.98931",
+    "geom:latitude":36.98931,
+    "geom:longitude":127.12926,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Solbanmal",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836451,
+    "gn:latitude":36.98931,
+    "gn:longitude":127.12926,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Solbanmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc194\ubc2d\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Songj\u014fn",
+        "Solbat\u2019mal",
+        "Solbanmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836451
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5c9a2e34f974d59859661ac684750b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1243039115,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243039115,
+    "wof:lastmodified":1537656188,
+    "wof:name":"Solbanmal",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.12926000000002,
+    36.98931,
+    127.12926000000002,
+    36.98931
+],
+  "geometry": {"coordinates":[127.12926000000002,36.98931],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343241265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.57436,37.68902,126.57436,37.68902",
+    "geom:latitude":37.68902,
+    "geom:longitude":126.57436,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gwandumul",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274766,
+    "gn:latitude":37.68902,
+    "gn:longitude":126.57436,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Gwandumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\ub450\ubb3c"
+    ],
+    "name:und_x_variant":[
+        "\uad00\ub514\ubb3c",
+        "Gwandimul",
+        "Kwandimul",
+        "Gwandumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274766
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6681c0a5ea6cb34e6abe80bb28ca42c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472445,
+            "locality_id":1343241265,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343241265,
+    "wof:lastmodified":1537657038,
+    "wof:name":"Gwandumul",
+    "wof:parent_id":890472445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.57436,
+    37.68902,
+    126.57436,
+    37.68902
+],
+  "geometry": {"coordinates":[126.57436,37.68902],"type":"Point"}
+}

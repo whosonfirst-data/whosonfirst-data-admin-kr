@@ -1,0 +1,72 @@
+{
+  "id": 1192984977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.708,36.459,126.708,36.459",
+    "geom:latitude":36.459,
+    "geom:longitude":126.708,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tongmyong",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834206,
+    "gn:latitude":36.459,
+    "gn:longitude":126.708,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u014fngmy\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u014fngmy\u014fng-ni",
+        "\ub355\uba85",
+        "T\u014fngmy\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834206
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"25a9a841645bbb8ec034a1afdbe8219d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474649,
+            "locality_id":1192984977,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1192984977,
+    "wof:lastmodified":1537656073,
+    "wof:name":"Tongmyong",
+    "wof:parent_id":890474649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.708,
+    36.459,
+    126.708,
+    36.459
+],
+  "geometry": {"coordinates":[126.708,36.459],"type":"Point"}
+}

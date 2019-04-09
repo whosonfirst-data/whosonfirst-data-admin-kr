@@ -1,0 +1,75 @@
+{
+  "id": 1260051761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91846,35.38824,126.91846,35.38824",
+    "geom:latitude":35.38824,
+    "geom:longitude":126.91846,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Galma",
+    "gn:country_code":"KR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843279,
+    "gn:latitude":35.38824,
+    "gn:longitude":126.91846,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Galma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\ub9c8"
+    ],
+    "name:und_x_variant":[
+        "Kalma-ri",
+        "Kalmaji",
+        "Galma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843279
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9870e54e4fe4dab3839ef0849b5ec200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1260051761,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260051761,
+    "wof:lastmodified":1537656540,
+    "wof:name":"Galma",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91846,
+    35.38824,
+    126.91846,
+    35.38824
+],
+  "geometry": {"coordinates":[126.91846,35.38824],"type":"Point"}
+}

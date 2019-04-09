@@ -1,0 +1,72 @@
+{
+  "id": 1309876899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.10302,37.64928,127.10302,37.64928",
+    "geom:latitude":37.64928,
+    "geom:longitude":127.10302,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Buramdong",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801565,
+    "gn:latitude":37.64928,
+    "gn:longitude":127.10302,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Buramdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd88\uc554\ub3d9",
+        "Puram-dong",
+        "Buramdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801565
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f8e50cf01ddb5c1f9b5f41520978b8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1309876899,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309876899,
+    "wof:lastmodified":1537657699,
+    "wof:name":"Buramdong",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.10302,
+    37.64928,
+    127.10302,
+    37.64928
+],
+  "geometry": {"coordinates":[127.10302,37.64928],"type":"Point"}
+}

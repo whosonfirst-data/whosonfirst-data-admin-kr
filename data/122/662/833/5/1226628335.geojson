@@ -1,0 +1,74 @@
+{
+  "id": 1226628335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.54472,34.60722,126.54472,34.60722",
+    "geom:latitude":34.60722,
+    "geom:longitude":126.54472,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yongban",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832638,
+    "gn:latitude":34.60722,
+    "gn:longitude":126.54472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ubc18"
+    ],
+    "name:und_x_variant":[
+        "Yongban-ni",
+        "Yongban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832638
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"45db4918035fc6ff6cc1366aff969012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1226628335,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226628335,
+    "wof:lastmodified":1537655988,
+    "wof:name":"Yongban",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.54472,
+    34.60722,
+    126.54472,
+    34.60722
+],
+  "geometry": {"coordinates":[126.54472,34.60722],"type":"Point"}
+}

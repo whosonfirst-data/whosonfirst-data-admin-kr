@@ -1,0 +1,72 @@
+{
+  "id": 1260151923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96093,37.88411,126.96093,37.88411",
+    "geom:latitude":37.88411,
+    "geom:longitude":126.96093,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bukguri",
+    "gn:country_code":"KR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799322,
+    "gn:latitude":37.88411,
+    "gn:longitude":126.96093,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bukguri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd81\uad6c\ub9ac",
+        "Pukku-ri",
+        "Bukguri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799322
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0ae03fc8730a11f647063edc21bc273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1260151923,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260151923,
+    "wof:lastmodified":1537657629,
+    "wof:name":"Bukguri",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96093,
+    37.88411,
+    126.96093,
+    37.88411
+],
+  "geometry": {"coordinates":[126.96093,37.88411],"type":"Point"}
+}

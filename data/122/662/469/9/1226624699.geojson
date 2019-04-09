@@ -1,0 +1,70 @@
+{
+  "id": 1226624699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.15758,35.27316,129.15758,35.27316",
+    "geom:latitude":35.27316,
+    "geom:longitude":129.15758,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gunosil",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111980,
+    "gn:latitude":35.27316,
+    "gn:longitude":129.15758,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Gunosil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub178\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111980
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"39df0f31035cb2a57c5807c70e829bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1226624699,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1226624699,
+    "wof:lastmodified":1537659161,
+    "wof:name":"Gunosil",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.15758,
+    35.27316,
+    129.15758,
+    35.27316
+],
+  "geometry": {"coordinates":[129.15758,35.27316],"type":"Point"}
+}

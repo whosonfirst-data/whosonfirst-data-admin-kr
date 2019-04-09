@@ -1,0 +1,71 @@
+{
+  "id": 1276965323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25306,37.28361,127.25306,37.28361",
+    "geom:latitude":37.28361,
+    "geom:longitude":127.25306,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Swaenaesil",
+    "gn:country_code":"KR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577416,
+    "gn:latitude":37.28361,
+    "gn:longitude":127.25306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Swaenaesil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1c4\ub0b4\uc2e4",
+        "Swaenaesil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577416
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1548f5cf9b1b937d8d4bed4fb8038ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1276965323,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276965323,
+    "wof:lastmodified":1537657363,
+    "wof:name":"Swaenaesil",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25306,
+    37.28361,
+    127.25306,
+    37.28361
+],
+  "geometry": {"coordinates":[127.25306,37.28361],"type":"Point"}
+}

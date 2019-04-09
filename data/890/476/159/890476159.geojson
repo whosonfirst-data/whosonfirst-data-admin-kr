@@ -1,0 +1,88 @@
+{
+  "id": 890476159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62626,36.56705,126.62626,36.56705",
+    "geom:latitude":36.56705,
+    "geom:longitude":126.62626,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Hongseong-gun"
+    ],
+    "name:kor_x_preferred":[
+        "\ud64d\uc131\uad70"
+    ],
+    "name:kor_x_variant":[
+        "Hongs\u014fng-gun",
+        "\ud64d\uc131"
+    ],
+    "name:unk_x_variant":[
+        "Hongseong-gun"
+    ],
+    "qs:name":"\ud64d\uc131\uad70",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\ucda9\uccad\ub0a8\ub3c4",
+    "qs:photos":123,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":251,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":779,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844173,
+        "gp:id":28289205,
+        "qs:id":213555,
+        "wd:id":"Q50343",
+        "wk:page":"Hongseong County"
+    },
+    "wof:country":"KR",
+    "wof:created":1469054065,
+    "wof:geomhash":"e5788e12bdb5a409da8c0ab08ff12a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476159,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":890476159,
+    "wof:lastmodified":1527727147,
+    "wof:name":"\ud64d\uc131\uad70",
+    "wof:parent_id":85673203,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62626,
+    36.56705,
+    126.62626,
+    36.56705
+],
+  "geometry": {"coordinates":[126.62626,36.56705],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276511709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9025,35.65777,127.9025,35.65777",
+    "geom:latitude":35.65777,
+    "geom:longitude":127.9025,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chungsan",
+    "gn:country_code":"KR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894249,
+    "gn:latitude":35.65777,
+    "gn:longitude":127.9025,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chungsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uc0b0",
+        "Chungsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894249
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"db62c4b5df92f6658eaee1ab2ea9f63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1276511709,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276511709,
+    "wof:lastmodified":1537658582,
+    "wof:name":"Chungsan",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9025,
+    35.65777,
+    127.9025,
+    35.65777
+],
+  "geometry": {"coordinates":[127.9025,35.65777],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225819775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.92979,35.87484,127.92979,35.87484",
+    "geom:latitude":35.87484,
+    "geom:longitude":127.92979,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yeso-dong",
+    "gn:country_code":"KR",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880054,
+    "gn:latitude":35.87484,
+    "gn:longitude":127.92979,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yes\u014f-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc608\uc11c\ub3d9",
+        "Yes\u014f-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880054
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1ee5e75341a8beeb64259acbc53f9ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1225819775,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225819775,
+    "wof:lastmodified":1537658243,
+    "wof:name":"Yeso-dong",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.92979,
+    35.87484,
+    127.92979,
+    35.87484
+],
+  "geometry": {"coordinates":[127.92979,35.87484],"type":"Point"}
+}

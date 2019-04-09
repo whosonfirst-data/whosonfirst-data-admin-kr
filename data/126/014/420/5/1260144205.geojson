@@ -1,0 +1,74 @@
+{
+  "id": 1260144205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.54389,34.49861,126.54389,34.49861",
+    "geom:latitude":34.49861,
+    "geom:longitude":126.54389,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Osipchae",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839631,
+    "gn:latitude":34.49861,
+    "gn:longitude":126.54389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Osipchae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uc2ed\uc7ac"
+    ],
+    "name:und_x_variant":[
+        "Osim-ni",
+        "Osipchae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839631
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3b1e57ad0ba8605a04b8bbbd25a72342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1260144205,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260144205,
+    "wof:lastmodified":1537656355,
+    "wof:name":"Osipchae",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.54389,
+    34.49861,
+    126.54389,
+    34.49861
+],
+  "geometry": {"coordinates":[126.54389,34.49861],"type":"Point"}
+}

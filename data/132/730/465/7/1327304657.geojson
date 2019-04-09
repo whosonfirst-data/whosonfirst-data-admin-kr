@@ -1,0 +1,70 @@
+{
+  "id": 1327304657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.74605,36.95733,128.74605,36.95733",
+    "geom:latitude":36.95733,
+    "geom:longitude":128.74605,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Munyang",
+    "gn:country_code":"KR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9082553,
+    "gn:latitude":36.95733,
+    "gn:longitude":128.74605,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Munyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc591"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9082553
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3bd83ca996f4f86601f08725a0c2e97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1327304657,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327304657,
+    "wof:lastmodified":1537658917,
+    "wof:name":"Munyang",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.74605,
+    36.95733,
+    128.74605,
+    36.95733
+],
+  "geometry": {"coordinates":[128.74605,36.95733],"type":"Point"}
+}

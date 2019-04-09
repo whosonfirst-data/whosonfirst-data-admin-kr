@@ -1,0 +1,71 @@
+{
+  "id": 1293167281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.66297,36.48879,126.66297,36.48879",
+    "geom:latitude":36.48879,
+    "geom:longitude":126.66297,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Osan",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883700,
+    "gn:latitude":36.48879,
+    "gn:longitude":126.66297,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Osan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\uc0b0",
+        "Osan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883700
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9a98cdfec4aeb4ddfb194bfe90683e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1293167281,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293167281,
+    "wof:lastmodified":1537658292,
+    "wof:name":"Osan",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.66297,
+    36.48879,
+    126.66297,
+    36.48879
+],
+  "geometry": {"coordinates":[126.66297,36.48879],"type":"Point"}
+}

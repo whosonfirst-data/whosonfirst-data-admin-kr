@@ -1,0 +1,67 @@
+{
+  "id": 1242739473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.06667,35.05,128.06667,35.05",
+    "geom:latitude":35.05,
+    "geom:longitude":128.06667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Todong",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834707,
+    "gn:latitude":35.05,
+    "gn:longitude":128.06667,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Todong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834707
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"019e7e1d1b7ccd2645b125ed31a3bda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473489,
+            "locality_id":1242739473,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1242739473,
+    "wof:lastmodified":1536829741,
+    "wof:name":"Todong",
+    "wof:parent_id":890473489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.06667,
+    35.05,
+    128.06667,
+    35.05
+],
+  "geometry": {"coordinates":[128.06666999999999,35.05],"type":"Point"}
+}

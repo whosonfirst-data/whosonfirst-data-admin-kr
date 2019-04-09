@@ -1,0 +1,71 @@
+{
+  "id": 1309682839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2792,36.1588,128.2792,36.1588",
+    "geom:latitude":36.1588,
+    "geom:longitude":128.2792,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hasong",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6891017,
+    "gn:latitude":36.1588,
+    "gn:longitude":128.2792,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hasong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uc1a1",
+        "Hasong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6891017
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"91ca96247e09733290fb04728e0ae482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1309682839,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309682839,
+    "wof:lastmodified":1537658504,
+    "wof:name":"Hasong",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2792,
+    36.1588,
+    128.2792,
+    36.1588
+],
+  "geometry": {"coordinates":[128.2792,36.1588],"type":"Point"}
+}

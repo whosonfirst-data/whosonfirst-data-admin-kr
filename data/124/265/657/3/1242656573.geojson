@@ -1,0 +1,79 @@
+{
+  "id": 1242656573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21068,37.15513,127.21068,37.15513",
+    "geom:latitude":37.15513,
+    "geom:longitude":127.21068,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Ssanggoe",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398674,
+    "gn:latitude":37.15513,
+    "gn:longitude":127.21068,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Ssanggoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc30d\uad34\uc815"
+    ],
+    "name:kor_x_variant":[
+        "Ssanggoej\u014fng",
+        "\uc30d\uad34"
+    ],
+    "name:und_x_variant":[
+        "Ssanggoejeong",
+        "Ssanggoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398674
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a1cd7f37b79642260b20171e5a187564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1242656573,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242656573,
+    "wof:lastmodified":1537657183,
+    "wof:name":"Ssanggoe",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21068,
+    37.15513,
+    127.21068,
+    37.15513
+],
+  "geometry": {"coordinates":[127.21068,37.15513],"type":"Point"}
+}

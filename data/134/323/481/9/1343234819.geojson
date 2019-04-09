@@ -1,0 +1,74 @@
+{
+  "id": 1343234819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.71935,35.93379,128.71935,35.93379",
+    "geom:latitude":35.93379,
+    "geom:longitude":128.71935,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Siryangi",
+    "gn:country_code":"KR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836775,
+    "gn:latitude":35.93379,
+    "gn:longitude":128.71935,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Siryangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dc\ub7c9\uc774"
+    ],
+    "name:und_x_variant":[
+        "Siryang",
+        "Siryangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836775
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"151c6cdb6e0bf0cfb31ca4eeb7704e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1343234819,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1343234819,
+    "wof:lastmodified":1537656203,
+    "wof:name":"Siryangi",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.71935,
+    35.93379,
+    128.71935,
+    35.93379
+],
+  "geometry": {"coordinates":[128.71934999999999,35.93379],"type":"Point"}
+}

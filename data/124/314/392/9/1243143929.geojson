@@ -1,0 +1,70 @@
+{
+  "id": 1243143929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93973,34.94363,126.93973,34.94363",
+    "geom:latitude":34.94363,
+    "geom:longitude":126.93973,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hoehwari",
+    "gn:country_code":"KR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11196993,
+    "gn:latitude":34.94363,
+    "gn:longitude":126.93973,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Hoehwari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud68c\ud654\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11196993
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"83a7f0b20b36c721c0e52c92c540ea83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1243143929,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243143929,
+    "wof:lastmodified":1537659232,
+    "wof:name":"Hoehwari",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93973,
+    34.94363,
+    126.93973,
+    34.94363
+],
+  "geometry": {"coordinates":[126.93973,34.94363],"type":"Point"}
+}

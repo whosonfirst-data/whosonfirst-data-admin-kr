@@ -1,0 +1,74 @@
+{
+  "id": 1260245769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88488,34.64718,126.88488,34.64718",
+    "geom:latitude":34.64718,
+    "geom:longitude":126.88488,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Daeban",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394822,
+    "gn:latitude":34.64718,
+    "gn:longitude":126.88488,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Daeban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ubc18"
+    ],
+    "name:und_x_variant":[
+        "Taeban",
+        "Daeban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394822
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1853cfdd307dbb0c8a7e7c2df938ecf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1260245769,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260245769,
+    "wof:lastmodified":1537657142,
+    "wof:name":"Daeban",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88488,
+    34.64718,
+    126.88488,
+    34.64718
+],
+  "geometry": {"coordinates":[126.88488,34.64718],"type":"Point"}
+}

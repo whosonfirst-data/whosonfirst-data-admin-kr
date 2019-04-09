@@ -1,0 +1,72 @@
+{
+  "id": 1260254345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.25139,35.05861,126.25139,35.05861",
+    "geom:latitude":35.05861,
+    "geom:longitude":126.25139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chadong-ni",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846829,
+    "gn:latitude":35.05861,
+    "gn:longitude":126.25139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chadong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chadong",
+        "Chadong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846829
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"617d5bca2cf6345e976f298fa9ddb225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1260254345,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260254345,
+    "wof:lastmodified":1537656721,
+    "wof:name":"Chadong-ni",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.25139,
+    35.05860999999999,
+    126.25139,
+    35.05860999999999
+],
+  "geometry": {"coordinates":[126.25139,35.05860999999999],"type":"Point"}
+}

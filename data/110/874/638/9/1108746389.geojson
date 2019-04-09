@@ -1,0 +1,75 @@
+{
+  "id": 1108746389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001012,
+    "geom:area_square_m":9935325.793315,
+    "geom:bbox":"126.766392346,37.4591647287,126.83070539,37.4888697801",
+    "geom:latitude":37.475099,
+    "geom:longitude":126.801891,
+    "iso:country":"KR",
+    "lbl:latitude":37.473931,
+    "lbl:longitude":126.81046,
+    "meso:admin_1_en":"Gyeonggi-do",
+    "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
+    "meso:diss_me":"BucheonsisosaguGyeonggi-do",
+    "meso:gadm_admin":"Bucheon",
+    "meso:local_id":"31052",
+    "meso:mps_x":126.81046,
+    "meso:mps_y":37.473931,
+    "meso:name_en":"Bucheonsisosagu",
+    "meso:name_local":"\ubd80\ucc9c\uc2dc\uc18c\uc0ac\uad6c",
+    "meso:source":"AOTM",
+    "mps:latitude":37.473931,
+    "mps:longitude":126.81046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_variant":[
+        "Bucheon"
+    ],
+    "name:und_x_variant":[
+        "\ubd80\ucc9c\uc2dc\uc18c\uc0ac\uad6c"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1479154642,
+    "wof:geomhash":"37a41b586da34688c0754ee7892b9089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746389,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1108746389,
+    "wof:lastmodified":1504912722,
+    "wof:name":"Bucheonsisosagu",
+    "wof:parent_id":85673191,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[
+        1108746417
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76639234554095,
+    37.45916472867047,
+    126.83070538975058,
+    37.48886978007008
+],
+  "geometry": {"coordinates":[[[126.81948322047198,37.48886978007008],[126.82226311689084,37.47669706734937],[126.83070538975058,37.47206692388687],[126.82929542229679,37.46446381927274],[126.8266823291801,37.46174673884374],[126.81872478851035,37.46032911188406],[126.81663985699068,37.45916472867047],[126.80397727429018,37.46645373823173],[126.80051642873192,37.46646029128908],[126.79798887479804,37.46881135598902],[126.79689447946458,37.46868670856914],[126.79525394618351,37.46845415431912],[126.78240523940541,37.47115357716575],[126.78211299785892,37.47105156212728],[126.76737035204336,37.47792681271974],[126.76639234554095,37.48307251134344],[126.77994103812387,37.48804513982452],[126.78596716202891,37.48404594037213],[126.79191879611518,37.48504078806702],[126.79926914984935,37.48011545752031],[126.80480093193466,37.48418648310066],[126.80738345998932,37.48386751953789],[126.81948322047198,37.48886978007008]]],"type":"Polygon"}
+}

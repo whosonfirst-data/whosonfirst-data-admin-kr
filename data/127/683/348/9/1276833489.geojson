@@ -1,0 +1,76 @@
+{
+  "id": 1276833489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5,34.4,126.5,34.4",
+    "geom:latitude":34.4,
+    "geom:longitude":126.5,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hakga",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844616,
+    "gn:latitude":34.4,
+    "gn:longitude":126.5,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Hakga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\uac00"
+    ],
+    "name:und_x_variant":[
+        "Kakuka-ri",
+        "Hakka-ri",
+        "Hakka",
+        "Hakga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844616
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c18c72e88de2a934d326660d047d9bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1276833489,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276833489,
+    "wof:lastmodified":1537656607,
+    "wof:name":"Hakga",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5,
+    34.4,
+    126.5,
+    34.4
+],
+  "geometry": {"coordinates":[126.5,34.4],"type":"Point"}
+}

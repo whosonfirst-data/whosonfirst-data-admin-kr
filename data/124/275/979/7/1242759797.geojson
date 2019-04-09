@@ -1,0 +1,70 @@
+{
+  "id": 1242759797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96152,35.24048,126.96152,35.24048",
+    "geom:latitude":35.24048,
+    "geom:longitude":126.96152,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jangsan",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170723,
+    "gn:latitude":35.24048,
+    "gn:longitude":126.96152,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170723
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3c67fb5290d2951035f85b8b28902120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1242759797,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242759797,
+    "wof:lastmodified":1537659193,
+    "wof:name":"Jangsan",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96152,
+    35.24048,
+    126.96152,
+    35.24048
+],
+  "geometry": {"coordinates":[126.96151999999999,35.24048],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209508323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3367,37.1551,128.3367,37.1551",
+    "geom:latitude":37.1551,
+    "geom:longitude":128.3367,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mongat",
+    "gn:country_code":"KR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795219,
+    "gn:latitude":37.1551,
+    "gn:longitude":128.3367,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"M\u014fngat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba4d\uc557"
+    ],
+    "name:kor_x_variant":[
+        "M\u014fngat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795219
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f3b48beb5f45e099b675377446c230ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209508323
+        }
+    ],
+    "wof:id":1209508323,
+    "wof:lastmodified":1537657520,
+    "wof:name":"Mongat",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3367,
+    37.1551,
+    128.3367,
+    37.1551
+],
+  "geometry": {"coordinates":[128.33670000000001,37.1551],"type":"Point"}
+}

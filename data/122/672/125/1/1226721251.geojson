@@ -1,0 +1,70 @@
+{
+  "id": 1226721251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25487,37.05202,127.25487,37.05202",
+    "geom:latitude":37.05202,
+    "geom:longitude":127.25487,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yangjam",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865892,
+    "gn:latitude":37.05202,
+    "gn:longitude":127.25487,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Yangjam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc7a0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865892
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fdceb11950932658efd3fead0e752ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1226721251,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226721251,
+    "wof:lastmodified":1537658953,
+    "wof:name":"Yangjam",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25487,
+    37.05202,
+    127.25487,
+    37.05202
+],
+  "geometry": {"coordinates":[127.25487,37.05202],"type":"Point"}
+}

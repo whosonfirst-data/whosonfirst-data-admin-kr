@@ -1,0 +1,72 @@
+{
+  "id": 1343880145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.73966,37.82347,127.73966,37.82347",
+    "geom:latitude":37.82347,
+    "geom:longitude":127.73966,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jipeum",
+    "gn:country_code":"KR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802572,
+    "gn:latitude":37.82347,
+    "gn:longitude":127.73966,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Jipeum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c0\ud488",
+        "Chip\u2019um",
+        "Jipeum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802572
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4f74744196afff3cd557e70360c97c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1343880145,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343880145,
+    "wof:lastmodified":1537657745,
+    "wof:name":"Jipeum",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.73966,
+    37.82347,
+    127.73966,
+    37.82347
+],
+  "geometry": {"coordinates":[127.73966,37.82347],"type":"Point"}
+}

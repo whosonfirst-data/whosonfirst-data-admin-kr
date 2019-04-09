@@ -1,0 +1,65 @@
+{
+  "id": 1209280873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5366,36.685,126.5366,36.685",
+    "geom:latitude":36.685,
+    "geom:longitude":126.5366,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Togan",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809466,
+    "gn:latitude":36.685,
+    "gn:longitude":126.5366,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Togan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c4\uac04",
+        "Togan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809466
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1ceabcbc7e32f23cc3a6833cd99efdeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209280873
+        }
+    ],
+    "wof:id":1209280873,
+    "wof:lastmodified":1537657875,
+    "wof:name":"Togan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5366,
+    36.685,
+    126.5366,
+    36.685
+],
+  "geometry": {"coordinates":[126.53660000000001,36.685],"type":"Point"}
+}

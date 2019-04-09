@@ -1,0 +1,72 @@
+{
+  "id": 1243242649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.11278,37.40111,127.11278,37.40111",
+    "geom:latitude":37.40111,
+    "geom:longitude":127.11278,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bodeul",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573491,
+    "gn:latitude":37.40111,
+    "gn:longitude":127.11278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bodeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcf4\ub4e4",
+        "Bodeul",
+        "Pod\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573491
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"16291a2e397690715a89bda731b2db8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746519,
+            "locality_id":1243242649,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243242649,
+    "wof:lastmodified":1537657228,
+    "wof:name":"Bodeul",
+    "wof:parent_id":1108746519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.11278,
+    37.40111,
+    127.11278,
+    37.40111
+],
+  "geometry": {"coordinates":[127.11278,37.40111],"type":"Point"}
+}

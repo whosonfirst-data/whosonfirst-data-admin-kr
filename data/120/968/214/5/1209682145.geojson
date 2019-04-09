@@ -1,0 +1,65 @@
+{
+  "id": 1209682145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5767,36.9249,126.5767,36.9249",
+    "geom:latitude":36.9249,
+    "geom:longitude":126.5767,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sosongjong",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812128,
+    "gn:latitude":36.9249,
+    "gn:longitude":126.5767,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fsongj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11c\uc1a1\uc815",
+        "S\u014fsongj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812128
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0b0f95deaaca899987acb3b93e6be8b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209682145
+        }
+    ],
+    "wof:id":1209682145,
+    "wof:lastmodified":1537657968,
+    "wof:name":"Sosongjong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5767,
+    36.9249,
+    126.5767,
+    36.9249
+],
+  "geometry": {"coordinates":[126.5767,36.9249],"type":"Point"}
+}

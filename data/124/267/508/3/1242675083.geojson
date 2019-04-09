@@ -1,0 +1,73 @@
+{
+  "id": 1242675083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.07333,37.54139,129.07333,37.54139",
+    "geom:latitude":37.54139,
+    "geom:longitude":129.07333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sungji-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835633,
+    "gn:latitude":37.54139,
+    "gn:longitude":129.07333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u016dngji-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016dngji-kol",
+        "S\u016dngji-gol",
+        "S\u016dngji-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835633
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f410249c9d4695aa6813f6d9345e5b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476243,
+            "locality_id":1242675083,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242675083,
+    "wof:lastmodified":1537656148,
+    "wof:name":"Sungji-dong",
+    "wof:parent_id":890476243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.07333,
+    37.54139,
+    129.07333,
+    37.54139
+],
+  "geometry": {"coordinates":[129.07333,37.54139],"type":"Point"}
+}

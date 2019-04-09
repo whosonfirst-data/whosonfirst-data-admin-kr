@@ -1,0 +1,76 @@
+{
+  "id": 1309733635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.98028,37.20194,128.98028,37.20194",
+    "geom:latitude":37.20194,
+    "geom:longitude":128.98028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hyoram",
+    "gn:country_code":"KR",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890887,
+    "gn:latitude":37.20194,
+    "gn:longitude":128.98028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hy\u014fram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Hy\u014fram"
+    ],
+    "name:kor_x_variant":[
+        "\ud608\uc554"
+    ],
+    "name:und_x_variant":[
+        "Hy\u014fram-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890887
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c20b458953fd387dcf2ea4ed66b0517c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473189,
+            "locality_id":1309733635,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309733635,
+    "wof:lastmodified":1537656826,
+    "wof:name":"Hyoram",
+    "wof:parent_id":890473189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.98028,
+    37.20194,
+    128.98028,
+    37.20194
+],
+  "geometry": {"coordinates":[128.98027999999999,37.20194],"type":"Point"}
+}

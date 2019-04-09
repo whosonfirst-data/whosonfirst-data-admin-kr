@@ -1,0 +1,75 @@
+{
+  "id": 1242675037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.67932,38.11524,127.67932,38.11524",
+    "geom:latitude":38.11524,
+    "geom:longitude":127.67932,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gudunji",
+    "gn:country_code":"KR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367640,
+    "gn:latitude":38.11524,
+    "gn:longitude":127.67932,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Gudunji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub454\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "\uac70\ubd81\ub454\uc9c0",
+        "K\u014fbuktunji",
+        "Gudunji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367640
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"15e31b05bb5c5e6d48c264bc64023a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1242675037,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242675037,
+    "wof:lastmodified":1537657116,
+    "wof:name":"Gudunji",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.67932,
+    38.11524,
+    127.67932,
+    38.11524
+],
+  "geometry": {"coordinates":[127.67932,38.11524],"type":"Point"}
+}

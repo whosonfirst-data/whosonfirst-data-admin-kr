@@ -1,0 +1,71 @@
+{
+  "id": 1260245297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5021,36.7183,126.5021,36.7183",
+    "geom:latitude":36.7183,
+    "geom:longitude":126.5021,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nomon-mal",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809284,
+    "gn:latitude":36.7183,
+    "gn:longitude":126.5021,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u014fm\u014fn-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub108\uba4b\ub9d0",
+        "N\u014fm\u014fn-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809284
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d019080882242d8805b1055d059f02fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1260245297,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260245297,
+    "wof:lastmodified":1537657868,
+    "wof:name":"Nomon-mal",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5021,
+    36.7183,
+    126.5021,
+    36.7183
+],
+  "geometry": {"coordinates":[126.5021,36.7183],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209280877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3936,36.7357,126.3936,36.7357",
+    "geom:latitude":36.7357,
+    "geom:longitude":126.3936,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tugumi",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807755,
+    "gn:latitude":36.7357,
+    "gn:longitude":126.3936,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tug\u016dmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub450\uadf8\ubbf8",
+        "Tug\u016dmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807755
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0123c6a6837b75851d9cc6a27e5b1dc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209280877
+        }
+    ],
+    "wof:id":1209280877,
+    "wof:lastmodified":1537657800,
+    "wof:name":"Tugumi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3936,
+    36.7357,
+    126.3936,
+    36.7357
+],
+  "geometry": {"coordinates":[126.39360000000001,36.7357],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242955095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79246,34.42562,126.79246,34.42562",
+    "geom:latitude":34.42562,
+    "geom:longitude":126.79246,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Cheonghakdong",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884426,
+    "gn:latitude":34.42562,
+    "gn:longitude":126.79246,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Cheonghakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\ud559\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019\u014fnghak-tong"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fnghang-ni",
+        "Cheonghakdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884426
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"51ca822416877fd133070d64e7448fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1242955095,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242955095,
+    "wof:lastmodified":1537656777,
+    "wof:name":"Cheonghakdong",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79246,
+    34.42562,
+    126.79246,
+    34.42562
+],
+  "geometry": {"coordinates":[126.79246000000001,34.42562],"type":"Point"}
+}

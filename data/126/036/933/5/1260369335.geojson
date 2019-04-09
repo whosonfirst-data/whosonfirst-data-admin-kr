@@ -1,0 +1,78 @@
+{
+  "id": 1260369335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.65196,37.20676,127.65196,37.20676",
+    "geom:latitude":37.20676,
+    "geom:longitude":127.65196,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cheongalli",
+    "gn:country_code":"KR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845715,
+    "gn:latitude":37.20676,
+    "gn:longitude":127.65196,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Cheongalli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\uc548\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019\u014fngal-li"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fngan-ni",
+        "Cheongan-ri",
+        "Cheongalli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845715
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3d908de532b9bebbc7b54f6f74425edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1260369335,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260369335,
+    "wof:lastmodified":1537656662,
+    "wof:name":"Cheongalli",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.65196,
+    37.20676,
+    127.65196,
+    37.20676
+],
+  "geometry": {"coordinates":[127.65196,37.20676],"type":"Point"}
+}

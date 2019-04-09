@@ -1,0 +1,67 @@
+{
+  "id": 1276510949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75,34.86667,126.75,34.86667",
+    "geom:latitude":34.86667,
+    "geom:longitude":126.75,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Un-dong",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833675,
+    "gn:latitude":34.86667,
+    "gn:longitude":126.75,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Un-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833675
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8b7c0899009acde4451357feb78742b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1276510949,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276510949,
+    "wof:lastmodified":1537036637,
+    "wof:name":"Un-dong",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75,
+    34.86667,
+    126.75,
+    34.86667
+],
+  "geometry": {"coordinates":[126.75,34.86667],"type":"Point"}
+}

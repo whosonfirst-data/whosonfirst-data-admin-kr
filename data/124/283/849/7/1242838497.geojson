@@ -1,0 +1,67 @@
+{
+  "id": 1242838497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.27,35.55111,129.27,35.55111",
+    "geom:latitude":35.55111,
+    "geom:longitude":129.27,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Samho",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894594,
+    "gn:latitude":35.55111,
+    "gn:longitude":129.27,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Samho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894594
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"66d0be34683aaaedf5700f84390455ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746505,
+            "locality_id":1242838497,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1242838497,
+    "wof:lastmodified":1536688067,
+    "wof:name":"Samho",
+    "wof:parent_id":1108746505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.27,
+    35.55110999999999,
+    129.27,
+    35.55110999999999
+],
+  "geometry": {"coordinates":[129.27000000000001,35.55110999999999],"type":"Point"}
+}

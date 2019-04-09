@@ -1,0 +1,75 @@
+{
+  "id": 1293801995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.28348,35.09588,126.28348,35.09588",
+    "geom:latitude":35.09588,
+    "geom:longitude":126.28348,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Balsan",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839381,
+    "gn:latitude":35.09588,
+    "gn:longitude":126.28348,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Balsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc1c\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Palsan-ni",
+        "Palsan",
+        "Balsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839381
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c76d88143440d8e25db950728cf41d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1293801995,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293801995,
+    "wof:lastmodified":1537656342,
+    "wof:name":"Balsan",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.28348,
+    35.09588,
+    126.28348,
+    35.09588
+],
+  "geometry": {"coordinates":[126.28348,35.09588],"type":"Point"}
+}

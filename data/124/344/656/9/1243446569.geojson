@@ -1,0 +1,74 @@
+{
+  "id": 1243446569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37212,38.51736,128.37212,38.51736",
+    "geom:latitude":38.51736,
+    "geom:longitude":128.37212,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kondal",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842632,
+    "gn:latitude":38.51736,
+    "gn:longitude":128.37212,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u014fndal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac74\ub2ec"
+    ],
+    "name:und_x_variant":[
+        "K\u014fnda-li",
+        "K\u014fndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842632
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"12bf3ce307446a74f4b7f2add645d214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1243446569,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243446569,
+    "wof:lastmodified":1537656506,
+    "wof:name":"Kondal",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37212,
+    38.51736,
+    128.37212,
+    38.51736
+],
+  "geometry": {"coordinates":[128.37212,38.51736],"type":"Point"}
+}

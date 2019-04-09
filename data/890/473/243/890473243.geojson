@@ -1,0 +1,80 @@
+{
+  "id": 890473243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.95,36.96667,127.95,36.96667",
+    "geom:latitude":36.96667,
+    "geom:longitude":127.95,
+    "gn:country":"KR",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chungju-si"
+    ],
+    "name:eng_x_variant":[
+        "Chungju"
+    ],
+    "name:kor_x_preferred":[
+        "\ucda9\uc8fc\uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucda9\uc8fc",
+        "Ch\u2019ungju-si"
+    ],
+    "name:unk_x_variant":[
+        "Chungju-si"
+    ],
+    "qs:name":"Chungju City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845032,
+        "qs:id":372377
+    },
+    "wof:country":"KR",
+    "wof:created":1469053945,
+    "wof:geomhash":"962a155096154a8c2124f7e9741323be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "localadmin_id":890473243,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":890473243,
+    "wof:lastmodified":1505343716,
+    "wof:name":"Chungju City",
+    "wof:parent_id":890472255,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.95,
+    36.96667,
+    127.95,
+    36.96667
+],
+  "geometry": {"coordinates":[127.95,36.96667],"type":"Point"}
+}

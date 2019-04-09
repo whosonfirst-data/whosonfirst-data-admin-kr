@@ -1,0 +1,74 @@
+{
+  "id": 1343558587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13515,37.70146,128.13515,37.70146",
+    "geom:latitude":37.70146,
+    "geom:longitude":128.13515,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gwau",
+    "gn:country_code":"KR",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889085,
+    "gn:latitude":37.70146,
+    "gn:longitude":128.13515,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Gwau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacfc\uc6b0"
+    ],
+    "name:und_x_variant":[
+        "Kwau",
+        "Gwau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889085
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c6a50f3c9d98dbb6c8a1dc24f35bebb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1343558587,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343558587,
+    "wof:lastmodified":1537656803,
+    "wof:name":"Gwau",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13515,
+    37.70146,
+    128.13515,
+    37.70146
+],
+  "geometry": {"coordinates":[128.13515000000001,37.70146],"type":"Point"}
+}

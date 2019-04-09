@@ -1,0 +1,74 @@
+{
+  "id": 1293755511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95611,34.555,126.95611,34.555",
+    "geom:latitude":34.555,
+    "geom:longitude":126.95611,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chibuk",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846240,
+    "gn:latitude":34.555,
+    "gn:longitude":126.95611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chibuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ubd81"
+    ],
+    "name:und_x_variant":[
+        "Katto",
+        "Chibuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846240
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d311996f45047851110b4cef3a9bffef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1293755511,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293755511,
+    "wof:lastmodified":1537656690,
+    "wof:name":"Chibuk",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95611,
+    34.555,
+    126.95611,
+    34.555
+],
+  "geometry": {"coordinates":[126.95611,34.555],"type":"Point"}
+}

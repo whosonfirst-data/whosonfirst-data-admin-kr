@@ -1,0 +1,72 @@
+{
+  "id": 1276335915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3231,35.55972,127.3231,35.55972",
+    "geom:latitude":35.55972,
+    "geom:longitude":127.3231,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"K'un-gol",
+    "gn:country_code":"KR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876720,
+    "gn:latitude":35.55972,
+    "gn:longitude":127.3231,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u2019\u016dn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud070\uace8",
+        "K\u2019\u016dn-gol",
+        "Keungol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876720
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d2e9ec0a012de1b8522df973c63868df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474645,
+            "locality_id":1276335915,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1276335915,
+    "wof:lastmodified":1537658145,
+    "wof:name":"K'un-gol",
+    "wof:parent_id":890474645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3231,
+    35.55972,
+    127.3231,
+    35.55972
+],
+  "geometry": {"coordinates":[127.3231,35.55972],"type":"Point"}
+}

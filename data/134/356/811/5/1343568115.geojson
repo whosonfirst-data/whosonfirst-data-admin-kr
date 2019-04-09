@@ -1,0 +1,67 @@
+{
+  "id": 1343568115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63611,35.43806,126.63611,35.43806",
+    "geom:latitude":35.43806,
+    "geom:longitude":126.63611,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sanggam-ni",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885754,
+    "gn:latitude":35.43806,
+    "gn:longitude":126.63611,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Sanggam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885754
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3ffae3347404ef61cf67ddad86937049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1343568115,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1343568115,
+    "wof:lastmodified":1537085185,
+    "wof:name":"Sanggam-ni",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63611000000002,
+    35.43806,
+    126.63611000000002,
+    35.43806
+],
+  "geometry": {"coordinates":[126.63611000000002,35.43806],"type":"Point"}
+}

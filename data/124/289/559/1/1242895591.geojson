@@ -1,0 +1,78 @@
+{
+  "id": 1242895591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.86967,38.04196,127.86967,38.04196",
+    "geom:latitude":38.04196,
+    "geom:longitude":127.86967,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangchugok",
+    "gn:country_code":"KR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837833,
+    "gn:latitude":38.04196,
+    "gn:longitude":127.86967,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Sangchugok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ucd94\uace1"
+    ],
+    "name:kor_x_variant":[
+        "Sangch\u2019ugok"
+    ],
+    "name:und_x_variant":[
+        "Sangch\u2019ugong-ni",
+        "Sangch\u2019ugol-li",
+        "Sangchugok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837833
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9dbc249b712cee066af250a4207071e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1242895591,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242895591,
+    "wof:lastmodified":1537656259,
+    "wof:name":"Sangchugok",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.86967,
+    38.04196,
+    127.86967,
+    38.04196
+],
+  "geometry": {"coordinates":[127.86967,38.04196],"type":"Point"}
+}

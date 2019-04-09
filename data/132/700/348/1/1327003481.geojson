@@ -1,0 +1,75 @@
+{
+  "id": 1327003481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.96168,36.49067,128.96168,36.49067",
+    "geom:latitude":36.49067,
+    "geom:longitude":128.96168,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gisiri",
+    "gn:country_code":"KR",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893025,
+    "gn:latitude":36.49067,
+    "gn:longitude":128.96168,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Gisiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\uc2dc\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\uae30\uc774\ud0dc",
+        "Kiit\u2019ae",
+        "Gisiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893025
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"60981eedacda27fd007851ebe2a753c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1327003481,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327003481,
+    "wof:lastmodified":1537658569,
+    "wof:name":"Gisiri",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.96168,
+    36.49067,
+    128.96168,
+    36.49067
+],
+  "geometry": {"coordinates":[128.96168,36.49067],"type":"Point"}
+}

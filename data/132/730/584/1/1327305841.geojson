@@ -1,0 +1,77 @@
+{
+  "id": 1327305841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.54778,34.34996,126.54778,34.34996",
+    "geom:latitude":34.34996,
+    "geom:longitude":126.54778,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Maryeon",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394507,
+    "gn:latitude":34.34996,
+    "gn:longitude":126.54778,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Maryeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ec\uc2dc\uace8"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub828"
+    ],
+    "name:und_x_variant":[
+        "Mohangdo",
+        "Maryeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394507
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c36706ebd61179ae2743e589c38eb308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1327305841,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327305841,
+    "wof:lastmodified":1537657132,
+    "wof:name":"Maryeon",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.54778,
+    34.34996,
+    126.54778,
+    34.34996
+],
+  "geometry": {"coordinates":[126.54778,34.34996],"type":"Point"}
+}

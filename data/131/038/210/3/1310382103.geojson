@@ -1,0 +1,76 @@
+{
+  "id": 1310382103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.36928,37.78528,126.36928,37.78528",
+    "geom:latitude":37.78528,
+    "geom:longitude":126.36928,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Jeoundong",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948812,
+    "gn:latitude":37.78528,
+    "gn:longitude":126.36928,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Jeoundong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc800\uc6b4\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fund\u016dl",
+        "Ch\u014fun-dong",
+        "Jeoundong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948812
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9187929ee37cb69781086edc77497bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1310382103,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1310382103,
+    "wof:lastmodified":1537656963,
+    "wof:name":"Jeoundong",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.36928,
+    37.78528,
+    126.36928,
+    37.78528
+],
+  "geometry": {"coordinates":[126.36928,37.78528],"type":"Point"}
+}

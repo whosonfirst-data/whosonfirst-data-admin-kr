@@ -1,0 +1,71 @@
+{
+  "id": 1310281675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43079,37.68339,126.43079,37.68339",
+    "geom:latitude":37.68339,
+    "geom:longitude":126.43079,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sanmun",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274552,
+    "gn:latitude":37.68339,
+    "gn:longitude":126.43079,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Sanmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0b0\ubb38",
+        "Sanmun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274552
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cbb15aeb438d73bca157ef44b5459a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1310281675,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1310281675,
+    "wof:lastmodified":1537657022,
+    "wof:name":"Sanmun",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43079,
+    37.68339,
+    126.43079,
+    37.68339
+],
+  "geometry": {"coordinates":[126.43079,37.68339],"type":"Point"}
+}

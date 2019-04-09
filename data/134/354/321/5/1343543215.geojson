@@ -1,0 +1,70 @@
+{
+  "id": 1343543215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.66733,35.17132,126.66733,35.17132",
+    "geom:latitude":35.17132,
+    "geom:longitude":126.66733,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Anteo",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171109,
+    "gn:latitude":35.17132,
+    "gn:longitude":126.66733,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Anteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171109
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"75b9be177ef9e5cea7c31d713321fb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1343543215,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343543215,
+    "wof:lastmodified":1537659199,
+    "wof:name":"Anteo",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.66733,
+    35.17132,
+    126.66733,
+    35.17132
+],
+  "geometry": {"coordinates":[126.66733000000001,35.17132],"type":"Point"}
+}

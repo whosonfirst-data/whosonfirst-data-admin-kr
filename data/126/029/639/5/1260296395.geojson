@@ -1,0 +1,73 @@
+{
+  "id": 1260296395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05194,35.7193,127.05194,35.7193",
+    "geom:latitude":35.7193,
+    "geom:longitude":127.05194,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Anyang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846896,
+    "gn:latitude":35.7193,
+    "gn:longitude":127.05194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anyang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anyang",
+        "Any\u014d",
+        "\uc548\uc591\ub3d9",
+        "Anyang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890473531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846896
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9f4b6c2e78650abcff7990482b4d7e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473531,
+            "locality_id":1260296395,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1260296395,
+    "wof:lastmodified":1537656726,
+    "wof:name":"Anyang-dong",
+    "wof:parent_id":890473531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05194,
+    35.7193,
+    127.05194,
+    35.7193
+],
+  "geometry": {"coordinates":[127.05194,35.7193],"type":"Point"}
+}

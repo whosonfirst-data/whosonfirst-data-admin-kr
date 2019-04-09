@@ -1,0 +1,71 @@
+{
+  "id": 1343738415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4207,36.1427,127.4207,36.1427",
+    "geom:latitude":36.1427,
+    "geom:longitude":127.4207,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Koendol",
+    "gn:country_code":"KR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888121,
+    "gn:latitude":36.1427,
+    "gn:longitude":127.4207,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Koendol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad38\ub3cc",
+        "Koendol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888121
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a7ddfe9db24872233f5d10a0afaf1ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473345,
+            "locality_id":1343738415,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343738415,
+    "wof:lastmodified":1537658414,
+    "wof:name":"Koendol",
+    "wof:parent_id":890473345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4207,
+    36.1427,
+    127.4207,
+    36.1427
+],
+  "geometry": {"coordinates":[127.4207,36.1427],"type":"Point"}
+}

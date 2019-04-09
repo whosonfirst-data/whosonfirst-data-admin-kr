@@ -1,0 +1,67 @@
+{
+  "id": 1260379519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.29056,35.32417,129.29056,35.32417",
+    "geom:latitude":35.32417,
+    "geom:longitude":129.29056,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kori-dong",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842567,
+    "gn:latitude":35.32417,
+    "gn:longitude":129.29056,
+    "gn:modification_date":"1997-04-21",
+    "gn:name":"Kori-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842567
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7e31b457b4e68ea1a455df86b936535b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1260379519,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1260379519,
+    "wof:lastmodified":1537077232,
+    "wof:name":"Kori-dong",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.29056,
+    35.32417,
+    129.29056,
+    35.32417
+],
+  "geometry": {"coordinates":[129.29056,35.32417],"type":"Point"}
+}

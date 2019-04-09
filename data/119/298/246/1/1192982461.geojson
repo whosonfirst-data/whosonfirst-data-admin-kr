@@ -1,0 +1,67 @@
+{
+  "id": 1192982461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64278,34.62417,126.64278,34.62417",
+    "geom:latitude":34.62417,
+    "geom:longitude":126.64278,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"dangsangol",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395902,
+    "gn:latitude":34.62417,
+    "gn:longitude":126.64278,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"\ub2f9\uc0b0\uace8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395902
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"425d3ad29fc3780bc93e1dde80c328a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1192982461,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1192982461,
+    "wof:lastmodified":1536366712,
+    "wof:name":"dangsangol",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64278,
+    34.62417,
+    126.64278,
+    34.62417
+],
+  "geometry": {"coordinates":[126.64278,34.62417],"type":"Point"}
+}

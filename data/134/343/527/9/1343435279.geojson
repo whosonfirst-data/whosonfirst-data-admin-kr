@@ -1,0 +1,71 @@
+{
+  "id": 1343435279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.63797,35.5528,127.63797,35.5528",
+    "geom:latitude":35.5528,
+    "geom:longitude":127.63797,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Paekchon",
+    "gn:country_code":"KR",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896610,
+    "gn:latitude":35.5528,
+    "gn:longitude":127.63797,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paekch\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc31\uc804",
+        "Paekch\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896610
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6290d8840699deeebc260857d78a7a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472469,
+            "locality_id":1343435279,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343435279,
+    "wof:lastmodified":1537658667,
+    "wof:name":"Paekchon",
+    "wof:parent_id":890472469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.63797,
+    35.5528,
+    127.63797,
+    35.5528
+],
+  "geometry": {"coordinates":[127.63797,35.5528],"type":"Point"}
+}

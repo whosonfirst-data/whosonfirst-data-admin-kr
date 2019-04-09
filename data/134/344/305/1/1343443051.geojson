@@ -1,0 +1,70 @@
+{
+  "id": 1343443051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95962,35.21807,126.95962,35.21807",
+    "geom:latitude":35.21807,
+    "geom:longitude":126.95962,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oebo",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11174580,
+    "gn:latitude":35.21807,
+    "gn:longitude":126.95962,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Oebo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\ubcf4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11174580
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a82d0cd0728843ec435e0d9e5d9d1d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1343443051,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343443051,
+    "wof:lastmodified":1537659209,
+    "wof:name":"Oebo",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95962,
+    35.21807000000001,
+    126.95962,
+    35.21807000000001
+],
+  "geometry": {"coordinates":[126.95962,35.21807000000001],"type":"Point"}
+}

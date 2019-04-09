@@ -1,0 +1,67 @@
+{
+  "id": 1327426093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.81667,37.95,127.81667,37.95",
+    "geom:latitude":37.95,
+    "geom:longitude":127.81667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sugu-dong",
+    "gn:country_code":"KR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835703,
+    "gn:latitude":37.95,
+    "gn:longitude":127.81667,
+    "gn:modification_date":"1996-05-20",
+    "gn:name":"Sugu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835703
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ab318f823a044a268755eb9568919d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1327426093,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327426093,
+    "wof:lastmodified":1536690067,
+    "wof:name":"Sugu-dong",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.81667,
+    37.95,
+    127.81667,
+    37.95
+],
+  "geometry": {"coordinates":[127.81667,37.95],"type":"Point"}
+}

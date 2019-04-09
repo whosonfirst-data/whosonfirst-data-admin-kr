@@ -1,0 +1,70 @@
+{
+  "id": 1344149113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1245,37.9781,128.1245,37.9781",
+    "geom:latitude":37.9781,
+    "geom:longitude":128.1245,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tosuam",
+    "gn:country_code":"KR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888595,
+    "gn:latitude":37.9781,
+    "gn:longitude":128.1245,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tosuam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\uc218\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888595
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"778ea51c7bf9d7386e2ea15224c6e7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1344149113,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1344149113,
+    "wof:lastmodified":1537656793,
+    "wof:name":"Tosuam",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1245,
+    37.9781,
+    128.1245,
+    37.9781
+],
+  "geometry": {"coordinates":[128.12450000000001,37.9781],"type":"Point"}
+}

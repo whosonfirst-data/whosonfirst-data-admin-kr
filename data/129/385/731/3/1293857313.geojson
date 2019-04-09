@@ -1,0 +1,71 @@
+{
+  "id": 1293857313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3297,36.3,128.3297,36.3",
+    "geom:latitude":36.3,
+    "geom:longitude":128.3297,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kunggi",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890215,
+    "gn:latitude":36.3,
+    "gn:longitude":128.3297,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kunggi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad81\uae30",
+        "Kunggi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890215
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c5ac20face2e5649698ba3c6495f82b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472251,
+            "locality_id":1293857313,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293857313,
+    "wof:lastmodified":1537658479,
+    "wof:name":"Kunggi",
+    "wof:parent_id":890472251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3297,
+    36.3,
+    128.3297,
+    36.3
+],
+  "geometry": {"coordinates":[128.3297,36.3],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259659885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.96139,36.2325,125.96139,36.2325",
+    "geom:latitude":36.2325,
+    "geom:longitude":125.96139,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hwangdo-ri",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843952,
+    "gn:latitude":36.2325,
+    "gn:longitude":125.96139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hwangdo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hwangdo",
+        "Hwangdo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843952
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bdcb3545caacfe19197505e429f4a833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1259659885,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1259659885,
+    "wof:lastmodified":1537656572,
+    "wof:name":"Hwangdo-ri",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.96139,
+    36.2325,
+    125.96139,
+    36.2325
+],
+  "geometry": {"coordinates":[125.96138999999999,36.2325],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209196403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.16667,35.0,126.16667,35.0",
+    "geom:latitude":35.0,
+    "geom:longitude":126.16667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kokto",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842712,
+    "gn:latitude":35.0,
+    "gn:longitude":126.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kokto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokto-ri",
+        "Kokto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842712
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"273c48ae1af91cb79ee36bc14d64ac2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209196403
+        }
+    ],
+    "wof:id":1209196403,
+    "wof:lastmodified":1537656510,
+    "wof:name":"Kokto",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.16667,
+    35.0,
+    126.16667,
+    35.0
+],
+  "geometry": {"coordinates":[126.16667,35.0],"type":"Point"}
+}

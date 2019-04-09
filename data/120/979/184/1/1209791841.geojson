@@ -1,0 +1,71 @@
+{
+  "id": 1209791841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6215,36.5385,126.6215,36.5385",
+    "geom:latitude":36.5385,
+    "geom:longitude":126.6215,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sonam",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808383,
+    "gn:latitude":36.5385,
+    "gn:longitude":126.6215,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc120\uc554",
+        "S\u014fnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808383
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7b4accfb6d8b75fde0e440b98ff13dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1209791841,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1209791841,
+    "wof:lastmodified":1537657829,
+    "wof:name":"Sonam",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6215,
+    36.5385,
+    126.6215,
+    36.5385
+],
+  "geometry": {"coordinates":[126.6215,36.5385],"type":"Point"}
+}

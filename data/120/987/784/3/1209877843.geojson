@@ -1,0 +1,76 @@
+{
+  "id": 1209877843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04306,34.79139,128.04306,34.79139",
+    "geom:latitude":34.79139,
+    "geom:longitude":128.04306,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mugon-ni",
+    "gn:country_code":"KR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840922,
+    "gn:latitude":34.79139,
+    "gn:longitude":128.04306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mugon-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butsukinri",
+        "Kotsukin-ri",
+        "Fukkin-ri",
+        "Mugon-ni",
+        "Mulg\u014fn-ni",
+        "Mulg\u014fn-ri",
+        "Mulg\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840922
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed1e2ef161b3d595d096cfda2e790853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475467,
+            "locality_id":1209877843,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1209877843,
+    "wof:lastmodified":1537656418,
+    "wof:name":"Mugon-ni",
+    "wof:parent_id":890475467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04306,
+    34.79139,
+    128.04306,
+    34.79139
+],
+  "geometry": {"coordinates":[128.04306,34.79139],"type":"Point"}
+}

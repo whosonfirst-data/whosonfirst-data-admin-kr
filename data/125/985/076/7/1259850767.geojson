@@ -1,0 +1,74 @@
+{
+  "id": 1259850767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81846,37.86481,126.81846,37.86481",
+    "geom:latitude":37.86481,
+    "geom:longitude":126.81846,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Donyuul",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951684,
+    "gn:latitude":37.86481,
+    "gn:longitude":126.81846,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Donyuul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c8\uc720\uc6b8"
+    ],
+    "name:und_x_variant":[
+        "Tonyuul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951684
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8235f1c3ef1c0a8ecf4713b6c9dead22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1259850767,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259850767,
+    "wof:lastmodified":1537656980,
+    "wof:name":"Donyuul",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81846000000002,
+    37.86481,
+    126.81846000000002,
+    37.86481
+],
+  "geometry": {"coordinates":[126.81846000000002,37.86481],"type":"Point"}
+}

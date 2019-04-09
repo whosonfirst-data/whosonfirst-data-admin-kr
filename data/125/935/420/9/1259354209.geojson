@@ -1,0 +1,77 @@
+{
+  "id": 1259354209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5099,37.09488,127.5099,37.09488",
+    "geom:latitude":37.09488,
+    "geom:longitude":127.5099,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Naesandae",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812958,
+    "gn:latitude":37.09488,
+    "gn:longitude":127.5099,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Naesandae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uc0b0\ub300"
+    ],
+    "name:kor_x_variant":[
+        "\ub0b4\uc0b0\ub300"
+    ],
+    "name:und_x_variant":[
+        "Ansandae",
+        "Naesandae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812958
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"14f60152a79fb6eb7ff232eeac394a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1259354209,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259354209,
+    "wof:lastmodified":1537657994,
+    "wof:name":"Naesandae",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5099,
+    37.09488,
+    127.5099,
+    37.09488
+],
+  "geometry": {"coordinates":[127.5099,37.09488],"type":"Point"}
+}

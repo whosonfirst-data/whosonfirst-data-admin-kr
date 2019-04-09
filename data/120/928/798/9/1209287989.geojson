@@ -1,0 +1,66 @@
+{
+  "id": 1209287989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65,36.16667,128.65,36.16667",
+    "geom:latitude":36.16667,
+    "geom:longitude":128.65,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kosan-gol",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842533,
+    "gn:latitude":36.16667,
+    "gn:longitude":128.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kosan-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosan-dong",
+        "Kosan-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842533
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e6b9a869cda45f893980a23635056155",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287989
+        }
+    ],
+    "wof:id":1209287989,
+    "wof:lastmodified":1537656501,
+    "wof:name":"Kosan-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65,
+    36.16667,
+    128.65,
+    36.16667
+],
+  "geometry": {"coordinates":[128.65000000000001,36.16667],"type":"Point"}
+}

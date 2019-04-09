@@ -1,0 +1,73 @@
+{
+  "id": 1309985751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23691,37.76171,126.23691,37.76171",
+    "geom:latitude":37.76171,
+    "geom:longitude":126.23691,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gure",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930927,
+    "gn:latitude":37.76171,
+    "gn:longitude":126.23691,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Gure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub808"
+    ],
+    "name:und_x_variant":[
+        "Kurye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930927
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cae9e2544fa300e6fa2f057e9dc96a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1309985751,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1309985751,
+    "wof:lastmodified":1537656954,
+    "wof:name":"Gure",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23691,
+    37.76171,
+    126.23691,
+    37.76171
+],
+  "geometry": {"coordinates":[126.23690999999999,37.76171],"type":"Point"}
+}

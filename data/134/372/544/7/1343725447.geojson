@@ -1,0 +1,70 @@
+{
+  "id": 1343725447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98576,36.69541,126.98576,36.69541",
+    "geom:latitude":36.69541,
+    "geom:longitude":126.98576,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Jeokjimi",
+    "gn:country_code":"KR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251134,
+    "gn:latitude":36.69541,
+    "gn:longitude":126.98576,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Jeokjimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc801\uc9c0\ubbf8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251134
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bc19b4791b54df27aec55c9bf6edb2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1343725447,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343725447,
+    "wof:lastmodified":1537659001,
+    "wof:name":"Jeokjimi",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98576,
+    36.69541,
+    126.98576,
+    36.69541
+],
+  "geometry": {"coordinates":[126.98576,36.69541],"type":"Point"}
+}

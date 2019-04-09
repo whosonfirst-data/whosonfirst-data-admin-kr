@@ -1,0 +1,74 @@
+{
+  "id": 1326512129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.57111,34.22222,126.57111,34.22222",
+    "geom:latitude":34.22222,
+    "geom:longitude":126.57111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pukkoji",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838640,
+    "gn:latitude":34.22222,
+    "gn:longitude":126.57111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pukkoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd81\uace0\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "Pukko-ri",
+        "Pukkoji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838640
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"819ead568b9c7b21b8a6253b58684274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1326512129,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1326512129,
+    "wof:lastmodified":1537656303,
+    "wof:name":"Pukkoji",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.57111,
+    34.22222,
+    126.57111,
+    34.22222
+],
+  "geometry": {"coordinates":[126.57111,34.22222],"type":"Point"}
+}

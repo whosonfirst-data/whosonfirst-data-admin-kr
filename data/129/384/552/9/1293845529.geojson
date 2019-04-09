@@ -1,0 +1,71 @@
+{
+  "id": 1293845529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30794,35.13838,128.30794,35.13838",
+    "geom:latitude":35.13838,
+    "geom:longitude":128.30794,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Simsin",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899361,
+    "gn:latitude":35.13838,
+    "gn:longitude":128.30794,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Simsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2ec\uc2e0",
+        "Simsin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899361
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5d35fe76387c8b6452417cac3d1336fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475301,
+            "locality_id":1293845529,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293845529,
+    "wof:lastmodified":1537658739,
+    "wof:name":"Simsin",
+    "wof:parent_id":890475301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30794,
+    35.13838,
+    128.30794,
+    35.13838
+],
+  "geometry": {"coordinates":[128.30794,35.13838],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343356541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51031,38.27828,128.51031,38.27828",
+    "geom:latitude":38.27828,
+    "geom:longitude":128.51031,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Togijeom",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9808750,
+    "gn:latitude":38.27828,
+    "gn:longitude":128.51031,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Togijeom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1a0\uae30\uc810"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9808750
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"530c6d75ab9546cce9385b9a58ba0145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1343356541,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343356541,
+    "wof:lastmodified":1537658944,
+    "wof:name":"Togijeom",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51031,
+    38.27828,
+    128.51031,
+    38.27828
+],
+  "geometry": {"coordinates":[128.51031,38.27828],"type":"Point"}
+}

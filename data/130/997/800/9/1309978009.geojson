@@ -1,0 +1,81 @@
+{
+  "id": 1309978009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65056,34.3325,126.65056,34.3325",
+    "geom:latitude":34.3325,
+    "geom:longitude":126.65056,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wondangin",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833199,
+    "gn:latitude":34.3325,
+    "gn:longitude":126.65056,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Wondangin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ub2f9\uc774"
+    ],
+    "name:kor_x_variant":[
+        "W\u014fndangi",
+        "\uc6d0\ub2f9\uc778"
+    ],
+    "name:und_x_variant":[
+        "Tangin",
+        "T\u014djin-ri",
+        "Tangin-ni",
+        "Tangil-li",
+        "Wondangin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833199
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f7b2fa577ce4c56fb3aa44aa6c36cf5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1309978009,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309978009,
+    "wof:lastmodified":1537656019,
+    "wof:name":"Wondangin",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65056,
+    34.3325,
+    126.65056,
+    34.3325
+],
+  "geometry": {"coordinates":[126.65056,34.3325],"type":"Point"}
+}

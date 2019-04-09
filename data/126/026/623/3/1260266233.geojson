@@ -1,0 +1,71 @@
+{
+  "id": 1260266233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9819,36.3204,127.9819,36.3204",
+    "geom:latitude":36.3204,
+    "geom:longitude":127.9819,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sangi",
+    "gn:country_code":"KR",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892341,
+    "gn:latitude":36.3204,
+    "gn:longitude":127.9819,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uc774",
+        "Sangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892341
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"756ee511c292c7e33d0ebf0e1b607e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1260266233,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260266233,
+    "wof:lastmodified":1537658541,
+    "wof:name":"Sangi",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9819,
+    36.3204,
+    127.9819,
+    36.3204
+],
+  "geometry": {"coordinates":[127.9819,36.3204],"type":"Point"}
+}

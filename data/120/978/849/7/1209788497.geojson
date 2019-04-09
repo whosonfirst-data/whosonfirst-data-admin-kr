@@ -1,0 +1,73 @@
+{
+  "id": 1209788497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.69432,35.93126,128.69432,35.93126",
+    "geom:latitude":35.93126,
+    "geom:longitude":128.69432,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Araegakdan",
+    "gn:country_code":"KR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900633,
+    "gn:latitude":35.93126,
+    "gn:longitude":128.69432,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Araegakdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub798\uac01\ub2e8"
+    ],
+    "name:und_x_variant":[
+        "Araegaktan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900633
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e1c91181b838a423b404eafd8d5149b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1209788497,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1209788497,
+    "wof:lastmodified":1537656942,
+    "wof:name":"Araegakdan",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.69432,
+    35.93125999999999,
+    128.69432,
+    35.93125999999999
+],
+  "geometry": {"coordinates":[128.69432,35.93125999999999],"type":"Point"}
+}

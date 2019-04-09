@@ -1,0 +1,67 @@
+{
+  "id": 1343432087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01917,38.08194,127.01917,38.08194",
+    "geom:latitude":38.08194,
+    "geom:longitude":127.01917,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Samgo-ri",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884243,
+    "gn:latitude":38.08194,
+    "gn:longitude":127.01917,
+    "gn:modification_date":"1995-04-17",
+    "gn:name":"Samg\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884243
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"54cd1d56975ffeec72ca20d1a4af102e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1343432087,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343432087,
+    "wof:lastmodified":1536787756,
+    "wof:name":"Samgo-ri",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01917,
+    38.08194,
+    127.01917,
+    38.08194
+],
+  "geometry": {"coordinates":[127.01917,38.08194],"type":"Point"}
+}

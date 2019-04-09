@@ -1,0 +1,71 @@
+{
+  "id": 1226218631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8474,36.6119,126.8474,36.6119",
+    "geom:latitude":36.6119,
+    "geom:longitude":126.8474,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Song-am",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810891,
+    "gn:latitude":36.6119,
+    "gn:longitude":126.8474,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Song-am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\uc554",
+        "Song-am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810891
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"85a61aa36b49472d082366308387a6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1226218631,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226218631,
+    "wof:lastmodified":1537657918,
+    "wof:name":"Song-am",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8474,
+    36.6119,
+    126.8474,
+    36.6119
+],
+  "geometry": {"coordinates":[126.84739999999999,36.6119],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293560267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1689,37.5999,127.1689,37.5999",
+    "geom:latitude":37.5999,
+    "geom:longitude":127.1689,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kajae",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801089,
+    "gn:latitude":37.5999,
+    "gn:longitude":127.1689,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kajae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc7ac"
+    ],
+    "name:und_x_variant":[
+        "\uac00\uc7ac",
+        "Kajae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801089
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0bc630f1289d3d47bebdf93be7c99380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1293560267,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293560267,
+    "wof:lastmodified":1537657688,
+    "wof:name":"Kajae",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1689,
+    37.5999,
+    127.1689,
+    37.5999
+],
+  "geometry": {"coordinates":[127.16889999999999,37.5999],"type":"Point"}
+}

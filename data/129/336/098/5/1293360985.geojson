@@ -1,0 +1,67 @@
+{
+  "id": 1293360985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.20639,36.63333,128.20639,36.63333",
+    "geom:latitude":36.63333,
+    "geom:longitude":128.20639,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Makkok",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895286,
+    "gn:latitude":36.63333,
+    "gn:longitude":128.20639,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Makkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895286
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3c6a8e2a0d33c42d51766e5d6406b67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1293360985,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293360985,
+    "wof:lastmodified":1536969219,
+    "wof:name":"Makkok",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.20639,
+    36.63333,
+    128.20639,
+    36.63333
+],
+  "geometry": {"coordinates":[128.20639,36.63333],"type":"Point"}
+}

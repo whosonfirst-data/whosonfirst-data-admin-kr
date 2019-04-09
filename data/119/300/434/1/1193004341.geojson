@@ -1,0 +1,71 @@
+{
+  "id": 1193004341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90275,37.70951,126.90275,37.70951",
+    "geom:latitude":37.70951,
+    "geom:longitude":126.90275,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koyang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801711,
+    "gn:latitude":37.70951,
+    "gn:longitude":126.90275,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Koyang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc591\ub3d9",
+        "Koyang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801711
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c61df3000c46b61596ad082e3e6f96aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746463,
+            "locality_id":1193004341,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193004341,
+    "wof:lastmodified":1537657703,
+    "wof:name":"Koyang-dong",
+    "wof:parent_id":1108746463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90275,
+    37.70951,
+    126.90275,
+    37.70951
+],
+  "geometry": {"coordinates":[126.90275,37.70951],"type":"Point"}
+}

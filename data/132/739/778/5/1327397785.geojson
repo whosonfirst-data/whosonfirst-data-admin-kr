@@ -1,0 +1,77 @@
+{
+  "id": 1327397785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05032,34.96013,127.05032,34.96013",
+    "geom:latitude":34.96013,
+    "geom:longitude":127.05032,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gacheolli",
+    "gn:country_code":"KR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843453,
+    "gn:latitude":34.96013,
+    "gn:longitude":127.05032,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Gacheolli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ucc9c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kach\u2019\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "Kach\u2019\u014fn-ni",
+        "Gacheolli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843453
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"86ff9e13ca9c1729e15a40b5ed6f3b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1327397785,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327397785,
+    "wof:lastmodified":1537656549,
+    "wof:name":"Gacheolli",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05032,
+    34.96013,
+    127.05032,
+    34.96013
+],
+  "geometry": {"coordinates":[127.05032,34.96013],"type":"Point"}
+}

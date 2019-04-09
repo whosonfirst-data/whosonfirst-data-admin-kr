@@ -1,0 +1,71 @@
+{
+  "id": 1343273331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.78214,35.97723,127.78214,35.97723",
+    "geom:latitude":35.97723,
+    "geom:longitude":127.78214,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kongjidam",
+    "gn:country_code":"KR",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880187,
+    "gn:latitude":35.97723,
+    "gn:longitude":127.78214,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kongjidam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacf5\uc9c0\ub2f4",
+        "Kongjidam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880187
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eb276490d1b835d3b93685642e9bc6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472985,
+            "locality_id":1343273331,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1343273331,
+    "wof:lastmodified":1537658250,
+    "wof:name":"Kongjidam",
+    "wof:parent_id":890472985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.78213999999998,
+    35.97723,
+    127.78213999999998,
+    35.97723
+],
+  "geometry": {"coordinates":[127.78213999999998,35.97723],"type":"Point"}
+}

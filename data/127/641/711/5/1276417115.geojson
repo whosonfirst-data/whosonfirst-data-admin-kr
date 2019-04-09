@@ -1,0 +1,71 @@
+{
+  "id": 1276417115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51188,37.67639,126.51188,37.67639",
+    "geom:latitude":37.67639,
+    "geom:longitude":126.51188,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ansani",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274776,
+    "gn:latitude":37.67639,
+    "gn:longitude":126.51188,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ansani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\uc0b0\uc774",
+        "Ansani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274776
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fb52d7648710fce611ef7c756f9830a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1276417115,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1276417115,
+    "wof:lastmodified":1537657039,
+    "wof:name":"Ansani",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51188,
+    37.67639000000001,
+    126.51188,
+    37.67639000000001
+],
+  "geometry": {"coordinates":[126.51188,37.67639000000001],"type":"Point"}
+}

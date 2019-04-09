@@ -1,0 +1,71 @@
+{
+  "id": 1259855579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6448,36.9255,126.6448,36.9255",
+    "geom:latitude":36.9255,
+    "geom:longitude":126.6448,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kumam-ni",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807788,
+    "gn:latitude":36.9255,
+    "gn:longitude":126.6448,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016dmam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\uc554\ub9ac",
+        "K\u016dmam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807788
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"30a702bc57ad6d1bc8e85cf2c9659097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1259855579,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259855579,
+    "wof:lastmodified":1537657801,
+    "wof:name":"Kumam-ni",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6448,
+    36.9255,
+    126.6448,
+    36.9255
+],
+  "geometry": {"coordinates":[126.6448,36.9255],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209285101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.75331,36.07059,128.75331,36.07059",
+    "geom:latitude":36.07059,
+    "geom:longitude":128.75331,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wonnakgol",
+    "gn:country_code":"KR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10941248,
+    "gn:latitude":36.07059,
+    "gn:longitude":128.75331,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Wonnakgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ub099\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10941248
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"92b7d972b3cf7933c8804667a9496924",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209285101
+        }
+    ],
+    "wof:id":1209285101,
+    "wof:lastmodified":1537659093,
+    "wof:name":"Wonnakgol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.75331,
+    36.07059,
+    128.75331,
+    36.07059
+],
+  "geometry": {"coordinates":[128.75331,36.07059],"type":"Point"}
+}

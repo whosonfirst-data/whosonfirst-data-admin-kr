@@ -1,0 +1,75 @@
+{
+  "id": 1226820277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16331,37.49782,127.16331,37.49782",
+    "geom:latitude":37.49782,
+    "geom:longitude":127.16331,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Neolmuni",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573521,
+    "gn:latitude":37.49782,
+    "gn:longitude":127.16331,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Neolmuni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub110\ubb34\ub2c8"
+    ],
+    "name:und_x_variant":[
+        "\ub110\ubb38\uc774",
+        "Neolmuni",
+        "N\u014flmuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573521
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e148870c191ec61d692becf256b9346b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1226820277,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226820277,
+    "wof:lastmodified":1537657230,
+    "wof:name":"Neolmuni",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16331,
+    37.49782,
+    127.16331,
+    37.49782
+],
+  "geometry": {"coordinates":[127.16331,37.49782],"type":"Point"}
+}

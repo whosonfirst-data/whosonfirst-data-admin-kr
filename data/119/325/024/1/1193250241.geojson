@@ -1,0 +1,77 @@
+{
+  "id": 1193250241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35384,34.66468,127.35384,34.66468",
+    "geom:latitude":34.66468,
+    "geom:longitude":127.35384,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yeondeung",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832668,
+    "gn:latitude":34.66468,
+    "gn:longitude":127.35384,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Yeondeung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\ub4f1"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fnd\u016dng"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fndong-ni",
+        "Yeondeung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832668
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ce07168c23072d139e6e50ce412261a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1193250241,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193250241,
+    "wof:lastmodified":1537655989,
+    "wof:name":"Yeondeung",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35384,
+    34.66468,
+    127.35384,
+    34.66468
+],
+  "geometry": {"coordinates":[127.35384000000001,34.66468],"type":"Point"}
+}

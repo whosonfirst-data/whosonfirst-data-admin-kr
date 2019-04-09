@@ -1,0 +1,70 @@
+{
+  "id": 1226563837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0006,37.4979,128.0006,37.4979",
+    "geom:latitude":37.4979,
+    "geom:longitude":128.0006,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malmi",
+    "gn:country_code":"KR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795082,
+    "gn:latitude":37.4979,
+    "gn:longitude":128.0006,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Malmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9d0\ubbf8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795082
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d0862c09be5acc35688a0228ec3a62f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473623,
+            "locality_id":1226563837,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226563837,
+    "wof:lastmodified":1537657516,
+    "wof:name":"Malmi",
+    "wof:parent_id":890473623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0006,
+    37.4979,
+    128.0006,
+    37.4979
+],
+  "geometry": {"coordinates":[128.00059999999999,37.4979],"type":"Point"}
+}

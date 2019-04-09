@@ -1,0 +1,75 @@
+{
+  "id": 1276947547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4739,35.69071,128.4739,35.69071",
+    "geom:latitude":35.69071,
+    "geom:longitude":128.4739,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yongdong",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893745,
+    "gn:latitude":35.69071,
+    "gn:longitude":128.4739,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Yongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uc6a9\ub9ac",
+        "Yong-ni",
+        "Yongdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893745
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"78575bdf199d664db4ae4e8471695730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1276947547,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1276947547,
+    "wof:lastmodified":1537656837,
+    "wof:name":"Yongdong",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4739,
+    35.69071,
+    128.4739,
+    35.69071
+],
+  "geometry": {"coordinates":[128.47389999999999,35.69071],"type":"Point"}
+}

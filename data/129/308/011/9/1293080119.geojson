@@ -1,0 +1,72 @@
+{
+  "id": 1293080119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89501,37.32608,126.89501,37.32608",
+    "geom:latitude":37.32608,
+    "geom:longitude":126.89501,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tundae-dong",
+    "gn:country_code":"KR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6572049,
+    "gn:latitude":37.32608,
+    "gn:longitude":126.89501,
+    "gn:modification_date":"2014-01-06",
+    "gn:name":"Tundae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub454\ub300\ub3d9",
+        "Dundae-dong",
+        "Tundae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6572049
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c2ec4b4f09b2d258dafd78c54d31f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474585,
+            "locality_id":1293080119,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293080119,
+    "wof:lastmodified":1537657219,
+    "wof:name":"Tundae-dong",
+    "wof:parent_id":890474585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89501,
+    37.32608,
+    126.89501,
+    37.32608
+],
+  "geometry": {"coordinates":[126.89501,37.32608],"type":"Point"}
+}

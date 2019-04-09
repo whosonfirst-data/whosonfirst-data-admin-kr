@@ -1,0 +1,75 @@
+{
+  "id": 1243418173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79917,35.23326,126.79917,35.23326",
+    "geom:latitude":35.23326,
+    "geom:longitude":126.79917,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seungga",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835636,
+    "gn:latitude":35.23326,
+    "gn:longitude":126.79917,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Seungga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2b9\uac00"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fn\u2019ga",
+        "S\u016dngga",
+        "Seungga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835636
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4cbf508451c6ce64f8ab64395d7f34b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1243418173,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243418173,
+    "wof:lastmodified":1537656148,
+    "wof:name":"Seungga",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79917,
+    35.23325999999999,
+    126.79917,
+    35.23325999999999
+],
+  "geometry": {"coordinates":[126.79917,35.23325999999999],"type":"Point"}
+}

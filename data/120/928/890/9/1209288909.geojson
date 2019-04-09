@@ -1,0 +1,65 @@
+{
+  "id": 1209288909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.53475,35.58648,128.53475,35.58648",
+    "geom:latitude":35.58648,
+    "geom:longitude":128.53475,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yadong",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903327,
+    "gn:latitude":35.58648,
+    "gn:longitude":128.53475,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Yadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc57c\ub3d9",
+        "Yadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903327
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fb6c476cb316abd69f4e8738f476a6d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209288909
+        }
+    ],
+    "wof:id":1209288909,
+    "wof:lastmodified":1537658844,
+    "wof:name":"Yadong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.53475,
+    35.58648,
+    128.53475,
+    35.58648
+],
+  "geometry": {"coordinates":[128.53475,35.58648],"type":"Point"}
+}

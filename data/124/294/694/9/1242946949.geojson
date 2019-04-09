@@ -1,0 +1,70 @@
+{
+  "id": 1242946949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.44231,35.63502,129.44231,35.63502",
+    "geom:latitude":35.63502,
+    "geom:longitude":129.44231,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Hwaam",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900845,
+    "gn:latitude":35.63502,
+    "gn:longitude":129.44231,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hwaam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900845
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3f06c3548e0eccc703c4fb0fa6b9fca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746399,
+            "locality_id":1242946949,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1242946949,
+    "wof:lastmodified":1537656944,
+    "wof:name":"Hwaam",
+    "wof:parent_id":1108746399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.44231000000002,
+    35.63502000000001,
+    129.44231000000002,
+    35.63502000000001
+],
+  "geometry": {"coordinates":[129.44231000000002,35.63502000000001],"type":"Point"}
+}

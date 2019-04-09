@@ -1,0 +1,76 @@
+{
+  "id": 1192981917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95221,36.68453,126.95221,36.68453",
+    "geom:latitude":36.68453,
+    "geom:longitude":126.95221,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dolmudeom",
+    "gn:country_code":"KR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834419,
+    "gn:latitude":36.68453,
+    "gn:longitude":126.95221,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Dolmudeom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3cc\ubb34\ub364"
+    ],
+    "name:und_x_variant":[
+        "S\u014fkcha-ri",
+        "S\u014fkch\u014fng-ni",
+        "Tolmud\u014fm",
+        "Dolmudeom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834419
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d9674f2f24bda6132fc1dd47147af053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1192981917,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1192981917,
+    "wof:lastmodified":1537656084,
+    "wof:name":"Dolmudeom",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95221,
+    36.68453,
+    126.95221,
+    36.68453
+],
+  "geometry": {"coordinates":[126.95220999999999,36.68453],"type":"Point"}
+}

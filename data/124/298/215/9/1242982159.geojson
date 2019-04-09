@@ -1,0 +1,72 @@
+{
+  "id": 1242982159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34272,35.54809,127.34272,35.54809",
+    "geom:latitude":35.54809,
+    "geom:longitude":127.34272,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kyesan",
+    "gn:country_code":"KR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876714,
+    "gn:latitude":35.54809,
+    "gn:longitude":127.34272,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kyesan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacc4\uc0b0",
+        "Kyesan",
+        "Gyesan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876714
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f849e24652554733a76999568ccb045f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474645,
+            "locality_id":1242982159,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1242982159,
+    "wof:lastmodified":1537658144,
+    "wof:name":"Kyesan",
+    "wof:parent_id":890474645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34272,
+    35.54809,
+    127.34272,
+    35.54809
+],
+  "geometry": {"coordinates":[127.34272,35.54809],"type":"Point"}
+}

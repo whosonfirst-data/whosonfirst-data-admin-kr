@@ -1,0 +1,70 @@
+{
+  "id": 1276617421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1142,36.71683,127.1142,36.71683",
+    "geom:latitude":36.71683,
+    "geom:longitude":127.1142,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gangchon",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354366,
+    "gn:latitude":36.71683,
+    "gn:longitude":127.1142,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Gangchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354366
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a83658a5f47ffd1a7c16be9df9900184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746431,
+            "locality_id":1276617421,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1276617421,
+    "wof:lastmodified":1537659041,
+    "wof:name":"Gangchon",
+    "wof:parent_id":1108746431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1142,
+    36.71683,
+    127.1142,
+    36.71683
+],
+  "geometry": {"coordinates":[127.1142,36.71683],"type":"Point"}
+}

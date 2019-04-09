@@ -1,0 +1,71 @@
+{
+  "id": 1344168509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39292,35.85245,127.39292,35.85245",
+    "geom:latitude":35.85245,
+    "geom:longitude":127.39292,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hasuhang",
+    "gn:country_code":"KR",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844333,
+    "gn:latitude":35.85245,
+    "gn:longitude":127.39292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hasuhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uc218\ud56d",
+        "Hasuhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844333
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b43eb74e196d3f58fb2a9b8675be42ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1344168509,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1344168509,
+    "wof:lastmodified":1537656589,
+    "wof:name":"Hasuhang",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39292,
+    35.85245,
+    127.39292,
+    35.85245
+],
+  "geometry": {"coordinates":[127.39292,35.85245],"type":"Point"}
+}

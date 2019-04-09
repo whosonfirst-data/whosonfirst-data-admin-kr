@@ -1,0 +1,75 @@
+{
+  "id": 1310465769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52335,34.82561,126.52335,34.82561",
+    "geom:latitude":34.82561,
+    "geom:longitude":126.52335,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gujeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842376,
+    "gn:latitude":34.82561,
+    "gn:longitude":126.52335,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Gujeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kuj\u014fng-ni",
+        "Kuj\u014fng-dong",
+        "Gujeongdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842376
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"19c153e2bd46ce2eb2ca8414356e822c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1310465769,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310465769,
+    "wof:lastmodified":1537656493,
+    "wof:name":"Gujeongdong",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52335,
+    34.82561,
+    126.52335,
+    34.82561
+],
+  "geometry": {"coordinates":[126.52334999999999,34.82561],"type":"Point"}
+}

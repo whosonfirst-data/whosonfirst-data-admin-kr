@@ -1,0 +1,77 @@
+{
+  "id": 1343341301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.40243,37.70251,126.40243,37.70251",
+    "geom:latitude":37.70251,
+    "geom:longitude":126.40243,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Darangmal",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274543,
+    "gn:latitude":37.70251,
+    "gn:longitude":126.40243,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Darangmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2e4\ub77d\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "\ub204\ucd0c",
+        "Nu-chon",
+        "Nu-ch\u2019on",
+        "Darakmal",
+        "Darangmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274543
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"43aa033b8e70c8bda7f25217cdf0a273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1343341301,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1343341301,
+    "wof:lastmodified":1537657022,
+    "wof:name":"Darangmal",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.40243,
+    37.70251,
+    126.40243,
+    37.70251
+],
+  "geometry": {"coordinates":[126.40243,37.70251],"type":"Point"}
+}

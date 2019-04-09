@@ -1,0 +1,67 @@
+{
+  "id": 1310114977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.1825,33.34306,126.1825,33.34306",
+    "geom:latitude":33.34306,
+    "geom:longitude":126.1825,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Han'gyong",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883877,
+    "gn:latitude":33.34306,
+    "gn:longitude":126.1825,
+    "gn:modification_date":"1995-04-13",
+    "gn:name":"Han\u2019gy\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883877
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5cc6a68a2e08470a183325bef523c7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1310114977,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1310114977,
+    "wof:lastmodified":1536982010,
+    "wof:name":"Han'gyong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.1825,
+    33.34305999999999,
+    126.1825,
+    33.34305999999999
+],
+  "geometry": {"coordinates":[126.1825,33.34305999999999],"type":"Point"}
+}

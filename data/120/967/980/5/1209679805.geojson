@@ -1,0 +1,64 @@
+{
+  "id": 1209679805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.23477,35.50877,129.23477,35.50877",
+    "geom:latitude":35.50877,
+    "geom:longitude":129.23477,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bamtiyangdal",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11093271,
+    "gn:latitude":35.50877,
+    "gn:longitude":129.23477,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Bamtiyangdal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc24\ud2f0\uc591\ub2ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11093271
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f0dc3bf819ebfe278c319d016a3f04e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209679805
+        }
+    ],
+    "wof:id":1209679805,
+    "wof:lastmodified":1537659151,
+    "wof:name":"Bamtiyangdal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.23477,
+    35.50877,
+    129.23477,
+    35.50877
+],
+  "geometry": {"coordinates":[129.23477,35.50877],"type":"Point"}
+}

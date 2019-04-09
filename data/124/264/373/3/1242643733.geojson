@@ -1,0 +1,72 @@
+{
+  "id": 1242643733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8008,36.4269,126.8008,36.4269",
+    "geom:latitude":36.4269,
+    "geom:longitude":126.8008,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sangjok",
+    "gn:country_code":"KR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837710,
+    "gn:latitude":36.4269,
+    "gn:longitude":126.8008,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sangj\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangj\u014fng-ni",
+        "Sangj\u014fk",
+        "\uc0c1\uc801"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837710
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"371b08f478231fce94647271e2034869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474649,
+            "locality_id":1242643733,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1242643733,
+    "wof:lastmodified":1537656252,
+    "wof:name":"Sangjok",
+    "wof:parent_id":890474649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8008,
+    36.4269,
+    126.8008,
+    36.4269
+],
+  "geometry": {"coordinates":[126.8008,36.4269],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259380159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.54556,38.3031,128.54556,38.3031",
+    "geom:latitude":38.3031,
+    "geom:longitude":128.54556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Munam Illi",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9808732,
+    "gn:latitude":38.3031,
+    "gn:longitude":128.54556,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Munam Illi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc554\uc77c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "\ubb38\uc5541\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Munam 1 Ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9808732
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ac08fd939280cea4abc1ad17ddc2092a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1259380159,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259380159,
+    "wof:lastmodified":1537658943,
+    "wof:name":"Munam Illi",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.54556000000002,
+    38.3031,
+    128.54556000000002,
+    38.3031
+],
+  "geometry": {"coordinates":[128.54556000000002,38.3031],"type":"Point"}
+}

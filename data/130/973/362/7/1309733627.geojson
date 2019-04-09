@@ -1,0 +1,75 @@
+{
+  "id": 1309733627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.18299,37.91403,128.18299,37.91403",
+    "geom:latitude":37.91403,
+    "geom:longitude":128.18299,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gimburi",
+    "gn:country_code":"KR",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842946,
+    "gn:latitude":37.91403,
+    "gn:longitude":128.18299,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Gimburi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae40\ubd80\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmbu-ri",
+        "Kimbu-ri",
+        "Gimburi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842946
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e07f63e16847c35c3790f7d2b1aa712e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1309733627,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309733627,
+    "wof:lastmodified":1537656523,
+    "wof:name":"Gimburi",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.18299,
+    37.91403,
+    128.18299,
+    37.91403
+],
+  "geometry": {"coordinates":[128.18298999999999,37.91403],"type":"Point"}
+}

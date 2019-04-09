@@ -1,0 +1,73 @@
+{
+  "id": 1259354175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.78333,37.48333,126.78333,37.48333",
+    "geom:latitude":37.48333,
+    "geom:longitude":126.78333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sosa",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835901,
+    "gn:latitude":37.48333,
+    "gn:longitude":126.78333,
+    "gn:modification_date":"2013-06-13",
+    "gn:name":"Sosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wissosa",
+        "Sosha",
+        "Sosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835901
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"01af0ed5f0c5f9fa7031dee68dab0403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746417,
+            "locality_id":1259354175,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259354175,
+    "wof:lastmodified":1537656161,
+    "wof:name":"Sosa",
+    "wof:parent_id":1108746417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.78333,
+    37.48333,
+    126.78333,
+    37.48333
+],
+  "geometry": {"coordinates":[126.78333000000001,37.48333],"type":"Point"}
+}

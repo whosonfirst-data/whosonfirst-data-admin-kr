@@ -1,0 +1,77 @@
+{
+  "id": 1309683373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72331,37.70106,126.72331,37.70106",
+    "geom:latitude":37.70106,
+    "geom:longitude":126.72331,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gajaewol",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363670,
+    "gn:latitude":37.70106,
+    "gn:longitude":126.72331,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Gajaewol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc88c\uc6b8"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\uc81c\uc6d4"
+    ],
+    "name:und_x_variant":[
+        "Kajwaul",
+        "Gajaewol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363670
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1daed88a50570be3381f83f3f7c17a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746467,
+            "locality_id":1309683373,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309683373,
+    "wof:lastmodified":1537657049,
+    "wof:name":"Gajaewol",
+    "wof:parent_id":1108746467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72331,
+    37.70106,
+    126.72331,
+    37.70106
+],
+  "geometry": {"coordinates":[126.72331,37.70106],"type":"Point"}
+}

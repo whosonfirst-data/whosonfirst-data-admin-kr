@@ -1,0 +1,72 @@
+{
+  "id": 1310415629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.13333,35.63333,127.13333,35.63333",
+    "geom:latitude":35.63333,
+    "geom:longitude":127.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naema",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840608,
+    "gn:latitude":35.63333,
+    "gn:longitude":127.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naema",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naema-ri",
+        "Naema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840608
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee7f922e0745dbc5f97da6c9d60a9028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474645,
+            "locality_id":1310415629,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1310415629,
+    "wof:lastmodified":1537656404,
+    "wof:name":"Naema",
+    "wof:parent_id":890474645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.13333,
+    35.63333,
+    127.13333,
+    35.63333
+],
+  "geometry": {"coordinates":[127.13333,35.63333],"type":"Point"}
+}

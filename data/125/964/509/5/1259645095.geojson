@@ -1,0 +1,72 @@
+{
+  "id": 1259645095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.00611,35.33333,129.00611,35.33333",
+    "geom:latitude":35.33333,
+    "geom:longitude":129.00611,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pomo-ri",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838976,
+    "gn:latitude":35.33333,
+    "gn:longitude":129.00611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u014fm\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u014fm\u014f-dong",
+        "P\u014fm\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838976
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8fccdd61194f17b3546efa51f62c0620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1259645095,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259645095,
+    "wof:lastmodified":1537656317,
+    "wof:name":"Pomo-ri",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.00611,
+    35.33333,
+    129.00611,
+    35.33333
+],
+  "geometry": {"coordinates":[129.00611000000001,35.33333],"type":"Point"}
+}

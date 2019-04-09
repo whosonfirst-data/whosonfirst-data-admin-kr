@@ -1,0 +1,66 @@
+{
+  "id": 1209489729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65429,35.53938,128.65429,35.53938",
+    "geom:latitude":35.53938,
+    "geom:longitude":128.65429,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kamakso",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901016,
+    "gn:latitude":35.53938,
+    "gn:longitude":128.65429,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kamakso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ub9c9\uc18c",
+        "Kkamak-ch\u2019on",
+        "Kamakso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901016
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0b829b6017a0707a029e562bfa0ce2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209489729
+        }
+    ],
+    "wof:id":1209489729,
+    "wof:lastmodified":1537656945,
+    "wof:name":"Kamakso",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65429,
+    35.53938,
+    128.65429,
+    35.53938
+],
+  "geometry": {"coordinates":[128.65429,35.53938],"type":"Point"}
+}

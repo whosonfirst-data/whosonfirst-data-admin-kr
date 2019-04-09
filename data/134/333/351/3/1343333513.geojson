@@ -1,0 +1,71 @@
+{
+  "id": 1343333513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.87111,34.61028,125.87111,34.61028",
+    "geom:latitude":34.61028,
+    "geom:longitude":125.87111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Soui",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835850,
+    "gn:latitude":34.61028,
+    "gn:longitude":125.87111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soido",
+        "S\u014fri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835850
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b66fcbc2c818d885c3edd0b647c5bc65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1343333513,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343333513,
+    "wof:lastmodified":1537656159,
+    "wof:name":"Soui",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.87111000000002,
+    34.61028,
+    125.87111000000002,
+    34.61028
+],
+  "geometry": {"coordinates":[125.87111000000002,34.61028],"type":"Point"}
+}

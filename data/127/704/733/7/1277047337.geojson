@@ -1,0 +1,76 @@
+{
+  "id": 1277047337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.69569,34.9414,127.69569,34.9414",
+    "geom:latitude":34.9414,
+    "geom:longitude":127.69569,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gwangyang",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1884178,
+    "gn:latitude":34.9414,
+    "gn:longitude":127.69569,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Gwangyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad11\uc591"
+    ],
+    "name:und_x_variant":[
+        "Tonggwangyang",
+        "Kwangyang",
+        "Gwangyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884178,
+        "wk:page":"Gwangyang"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b4e090c4606d57f9797539760b479e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472247,
+            "locality_id":1277047337,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1277047337,
+    "wof:lastmodified":1537656775,
+    "wof:name":"Gwangyang",
+    "wof:parent_id":890472247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.69568999999998,
+    34.9414,
+    127.69568999999998,
+    34.9414
+],
+  "geometry": {"coordinates":[127.69568999999998,34.9414],"type":"Point"}
+}

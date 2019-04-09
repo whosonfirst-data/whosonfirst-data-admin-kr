@@ -1,0 +1,64 @@
+{
+  "id": 1209286271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68583,34.56278,126.68583,34.56278",
+    "geom:latitude":34.56278,
+    "geom:longitude":126.68583,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hak-tong",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6397503,
+    "gn:latitude":34.56278,
+    "gn:longitude":126.68583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6397503
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"87a6a0f143241ec926f0778ab08d9e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209286271
+        }
+    ],
+    "wof:id":1209286271,
+    "wof:lastmodified":1537657178,
+    "wof:name":"Hak-tong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68583,
+    34.56278,
+    126.68583,
+    34.56278
+],
+  "geometry": {"coordinates":[126.68583,34.56278],"type":"Point"}
+}

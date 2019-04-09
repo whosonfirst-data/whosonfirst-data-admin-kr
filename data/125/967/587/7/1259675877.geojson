@@ -1,0 +1,73 @@
+{
+  "id": 1259675877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.79543,37.71379,128.79543,37.71379",
+    "geom:latitude":37.71379,
+    "geom:longitude":128.79543,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hajeminwon",
+    "gn:country_code":"KR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816555,
+    "gn:latitude":37.71379,
+    "gn:longitude":128.79543,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Hajeminwon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc81c\ubbfc\uc6d0"
+    ],
+    "name:kor_x_variant":[
+        "Hajeminw\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816555
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"20d774e94f78b2172133bde7a51bf94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1259675877,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259675877,
+    "wof:lastmodified":1537658094,
+    "wof:name":"Hajeminwon",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.79543,
+    37.71379,
+    128.79543,
+    37.71379
+],
+  "geometry": {"coordinates":[128.79543000000001,37.71379],"type":"Point"}
+}

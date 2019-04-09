@@ -1,0 +1,72 @@
+{
+  "id": 1276830879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.33333,35.05,128.33333,35.05",
+    "geom:latitude":35.05,
+    "geom:longitude":128.33333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sonmi",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835974,
+    "gn:latitude":35.05,
+    "gn:longitude":128.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u014fnmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fnmi-ri",
+        "S\u014fnmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835974
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c8a3c03166a608900c4a5d58c37f6b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746461,
+            "locality_id":1276830879,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276830879,
+    "wof:lastmodified":1537656164,
+    "wof:name":"Sonmi",
+    "wof:parent_id":1108746461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.33333000000002,
+    35.05,
+    128.33333000000002,
+    35.05
+],
+  "geometry": {"coordinates":[128.33333000000002,35.05],"type":"Point"}
+}

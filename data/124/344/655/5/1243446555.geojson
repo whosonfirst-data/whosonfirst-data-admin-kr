@@ -1,0 +1,70 @@
+{
+  "id": 1243446555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.06241,38.1782,128.06241,38.1782",
+    "geom:latitude":38.1782,
+    "geom:longitude":128.06241,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Musumak",
+    "gn:country_code":"KR",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840805,
+    "gn:latitude":38.1782,
+    "gn:longitude":128.06241,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Musumak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb34\uc218\ub9c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890474685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840805
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"20c8b9e1760bd0b70c04c0f48e1effdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474685,
+            "locality_id":1243446555,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243446555,
+    "wof:lastmodified":1537656413,
+    "wof:name":"Musumak",
+    "wof:parent_id":890474685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.06241,
+    38.1782,
+    128.06241,
+    38.1782
+],
+  "geometry": {"coordinates":[128.06241,38.1782],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327143611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71806,33.27944,126.71806,33.27944",
+    "geom:latitude":33.27944,
+    "geom:longitude":126.71806,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Namjeju-gun",
+    "gn:asciiname":"Namwon",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840380,
+    "gn:latitude":33.27944,
+    "gn:longitude":126.71806,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Namwon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc6d0"
+    ],
+    "name:und_x_variant":[
+        "Namw\u014fn-ni",
+        "Namw\u014fn",
+        "Namwon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890474633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840380
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"93cb4b8a4b14eebeeb1646727d52b565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474633,
+            "locality_id":1327143611,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1327143611,
+    "wof:lastmodified":1537656393,
+    "wof:name":"Namwon",
+    "wof:parent_id":890474633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71806,
+    33.27944,
+    126.71806,
+    33.27944
+],
+  "geometry": {"coordinates":[126.71805999999999,33.27944],"type":"Point"}
+}

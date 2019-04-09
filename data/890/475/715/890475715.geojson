@@ -1,0 +1,65 @@
+{
+  "id": 890475715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86639,37.47722,126.86639,37.47722",
+    "geom:latitude":37.47722,
+    "geom:longitude":126.86639,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":357545,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kwangmy\u014fng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948005,
+        "qs:id":137295
+    },
+    "wof:country":"KR",
+    "wof:created":1469054047,
+    "wof:geomhash":"251cb9e84e80e59eaefccdeed64e2d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472589,
+            "locality_id":890475715,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":890475715,
+    "wof:lastmodified":1505343720,
+    "wof:name":"Kwangmy\u014fng",
+    "wof:parent_id":890472589,
+    "wof:placetype":"locality",
+    "wof:population":357545,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86639,
+    37.47722,
+    126.86639,
+    37.47722
+],
+  "geometry": {"coordinates":[126.86639,37.47722],"type":"Point"}
+}

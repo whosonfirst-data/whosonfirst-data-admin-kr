@@ -1,0 +1,67 @@
+{
+  "id": 1326601793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.99194,34.26278,125.99194,34.26278",
+    "geom:latitude":34.26278,
+    "geom:longitude":125.99194,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Makkumi",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882617,
+    "gn:latitude":34.26278,
+    "gn:longitude":125.99194,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Makk\u016dmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882617
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"11fec642e2c379c15bcf7588250b72e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1326601793,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1326601793,
+    "wof:lastmodified":1536883241,
+    "wof:name":"Makkumi",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.99194,
+    34.26278,
+    125.99194,
+    34.26278
+],
+  "geometry": {"coordinates":[125.99194,34.26278],"type":"Point"}
+}

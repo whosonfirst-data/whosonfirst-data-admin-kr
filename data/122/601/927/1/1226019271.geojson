@@ -1,0 +1,71 @@
+{
+  "id": 1226019271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40783,35.31629,128.40783,35.31629",
+    "geom:latitude":35.31629,
+    "geom:longitude":128.40783,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Palch'ae",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894742,
+    "gn:latitude":35.31629,
+    "gn:longitude":128.40783,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Palch\u2019ae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc1c\ucc44",
+        "Palch\u2019ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894742
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8412ce6881fb62f441bb1ce68f822aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474513,
+            "locality_id":1226019271,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226019271,
+    "wof:lastmodified":1537656865,
+    "wof:name":"Palch'ae",
+    "wof:parent_id":890474513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40783000000002,
+    35.31629,
+    128.40783000000002,
+    35.31629
+],
+  "geometry": {"coordinates":[128.40783000000002,35.31629],"type":"Point"}
+}

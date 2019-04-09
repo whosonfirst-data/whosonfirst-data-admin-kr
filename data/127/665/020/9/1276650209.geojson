@@ -1,0 +1,70 @@
+{
+  "id": 1276650209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.86389,35.16024,128.86389,35.16024",
+    "geom:latitude":35.16024,
+    "geom:longitude":128.86389,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tapdong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117117,
+    "gn:latitude":35.16024,
+    "gn:longitude":128.86389,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Tapdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0d1\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117117
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4a76008f9db81d8058ec6351deb2db27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1276650209,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1276650209,
+    "wof:lastmodified":1537659165,
+    "wof:name":"Tapdong",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.86389,
+    35.16024,
+    128.86389,
+    35.16024
+],
+  "geometry": {"coordinates":[128.86389,35.16024],"type":"Point"}
+}

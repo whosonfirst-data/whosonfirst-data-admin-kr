@@ -1,0 +1,67 @@
+{
+  "id": 1226108705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5,36.85,127.5,36.85",
+    "geom:latitude":36.85,
+    "geom:longitude":127.5,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soktan",
+    "gn:country_code":"KR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836462,
+    "gn:latitude":36.85,
+    "gn:longitude":127.5,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"S\u014fktan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890476185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836462
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c9d9c99497346c121bb3952f9b2c6f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476185,
+            "locality_id":1226108705,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226108705,
+    "wof:lastmodified":1536632937,
+    "wof:name":"Soktan",
+    "wof:parent_id":890476185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5,
+    36.85,
+    127.5,
+    36.85
+],
+  "geometry": {"coordinates":[127.5,36.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209591851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.36472,36.38889,126.36472,36.38889",
+    "geom:latitude":36.38889,
+    "geom:longitude":126.36472,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kodae",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842841,
+    "gn:latitude":36.38889,
+    "gn:longitude":126.36472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kodae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kodaedo-ri",
+        "Kodaedo",
+        "Kodae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842841
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a03e8ace2b3885d79e6e921ca1e4b89d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209591851
+        }
+    ],
+    "wof:id":1209591851,
+    "wof:lastmodified":1537656517,
+    "wof:name":"Kodae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.36472,
+    36.38889,
+    126.36472,
+    36.38889
+],
+  "geometry": {"coordinates":[126.36472000000001,36.38889],"type":"Point"}
+}

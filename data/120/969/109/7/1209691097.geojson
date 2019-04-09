@@ -1,0 +1,65 @@
+{
+  "id": 1209691097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4483,36.4355,127.4483,36.4355",
+    "geom:latitude":36.4355,
+    "geom:longitude":127.4483,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Umji-mal",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889010,
+    "gn:latitude":36.4355,
+    "gn:longitude":127.4483,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u016cmji-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc74c\uc9c0\ub9d0",
+        "\u016cmji-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889010
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e81850c9ca83a7bfd3f25c96b537788c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209691097
+        }
+    ],
+    "wof:id":1209691097,
+    "wof:lastmodified":1537658450,
+    "wof:name":"Umji-mal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4483,
+    36.4355,
+    127.4483,
+    36.4355
+],
+  "geometry": {"coordinates":[127.4483,36.4355],"type":"Point"}
+}

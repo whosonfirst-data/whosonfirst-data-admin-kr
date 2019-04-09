@@ -1,0 +1,67 @@
+{
+  "id": 1209401015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62091,37.11419,127.62091,37.11419",
+    "geom:latitude":37.11419,
+    "geom:longitude":127.62091,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dunmal",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896861,
+    "gn:latitude":37.11419,
+    "gn:longitude":127.62091,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Dunmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub454\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Tun-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896861
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6335666f0dddc680d61d7353e0d7e5a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209401015
+        }
+    ],
+    "wof:id":1209401015,
+    "wof:lastmodified":1537656916,
+    "wof:name":"Dunmal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62091,
+    37.11419,
+    127.62091,
+    37.11419
+],
+  "geometry": {"coordinates":[127.62090999999999,37.11419],"type":"Point"}
+}

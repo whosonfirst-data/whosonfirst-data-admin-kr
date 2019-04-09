@@ -1,0 +1,70 @@
+{
+  "id": 1243329299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74735,35.19801,126.74735,35.19801",
+    "geom:latitude":35.19801,
+    "geom:longitude":126.74735,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Haheukseok",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171324,
+    "gn:latitude":35.19801,
+    "gn:longitude":126.74735,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Haheukseok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ud751\uc11d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171324
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e1f06f0fb647b19aae8afeb6dc55b6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473197,
+            "locality_id":1243329299,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1243329299,
+    "wof:lastmodified":1537659204,
+    "wof:name":"Haheukseok",
+    "wof:parent_id":890473197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74735,
+    35.19801,
+    126.74735,
+    35.19801
+],
+  "geometry": {"coordinates":[126.74735,35.19801],"type":"Point"}
+}

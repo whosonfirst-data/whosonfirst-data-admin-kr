@@ -1,0 +1,62 @@
+{
+  "id": 1209428727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38472,33.26444,126.38472,33.26444",
+    "geom:latitude":33.26444,
+    "geom:longitude":126.38472,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"S\u014fgwip'o-si",
+    "gn:asciiname":"Unam-dong",
+    "gn:country_code":"KR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6193964,
+    "gn:latitude":33.26444,
+    "gn:longitude":126.38472,
+    "gn:modification_date":"2006-01-27",
+    "gn:name":"Unam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6193964
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"51cecfdb69c193b47559b877c073bab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209428727
+        }
+    ],
+    "wof:id":1209428727,
+    "wof:lastmodified":1536287299,
+    "wof:name":"Unam-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38472,
+    33.26444,
+    126.38472,
+    33.26444
+],
+  "geometry": {"coordinates":[126.38472,33.26444],"type":"Point"}
+}

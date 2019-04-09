@@ -1,0 +1,64 @@
+{
+  "id": 1209388827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.11247,35.49849,129.11247,35.49849",
+    "geom:latitude":35.49849,
+    "geom:longitude":129.11247,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Baenamgum",
+    "gn:country_code":"KR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088028,
+    "gn:latitude":35.49849,
+    "gn:longitude":129.11247,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Baenamgum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc30\ub0a8\uad7c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088028
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f3680c52e66d8b6b0bf2db0e69c03fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209388827
+        }
+    ],
+    "wof:id":1209388827,
+    "wof:lastmodified":1537659147,
+    "wof:name":"Baenamgum",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.11247,
+    35.49849000000001,
+    129.11247,
+    35.49849000000001
+],
+  "geometry": {"coordinates":[129.11247,35.49849000000001],"type":"Point"}
+}

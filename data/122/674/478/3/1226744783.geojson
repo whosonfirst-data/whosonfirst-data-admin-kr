@@ -1,0 +1,76 @@
+{
+  "id": 1226744783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6016,37.3935,128.6016,37.3935",
+    "geom:latitude":37.3935,
+    "geom:longitude":128.6016,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pyokt'an",
+    "gn:country_code":"KR",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838489,
+    "gn:latitude":37.3935,
+    "gn:longitude":128.6016,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Py\u014fkt\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcbd\ud0c4"
+    ],
+    "name:kor_x_variant":[
+        "Py\u014fkt\u2019an"
+    ],
+    "name:und_x_variant":[
+        "Py\u014fkt\u2019an-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838489
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8aca36f06e71a5fb4dcfb69c7531e4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1226744783,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226744783,
+    "wof:lastmodified":1537656296,
+    "wof:name":"Pyokt'an",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6016,
+    37.3935,
+    128.6016,
+    37.3935
+],
+  "geometry": {"coordinates":[128.60159999999999,37.3935],"type":"Point"}
+}

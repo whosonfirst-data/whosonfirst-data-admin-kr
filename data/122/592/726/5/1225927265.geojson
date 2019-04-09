@@ -1,0 +1,72 @@
+{
+  "id": 1225927265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.72771,35.70737,128.72771,35.70737",
+    "geom:latitude":35.70737,
+    "geom:longitude":128.72771,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Geumgok",
+    "gn:country_code":"KR",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903169,
+    "gn:latitude":35.70737,
+    "gn:longitude":128.72771,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Geumgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\uace1",
+        "K\u016dmgok",
+        "Geumgok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903169
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"684db11b52b180f98f0b6e3bc4410a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1225927265,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225927265,
+    "wof:lastmodified":1537658836,
+    "wof:name":"Geumgok",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.72771,
+    35.70737000000001,
+    128.72771,
+    35.70737000000001
+],
+  "geometry": {"coordinates":[128.72771,35.70737000000001],"type":"Point"}
+}

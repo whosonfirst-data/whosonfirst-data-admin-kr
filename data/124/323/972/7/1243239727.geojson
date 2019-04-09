@@ -1,0 +1,70 @@
+{
+  "id": 1243239727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40614,36.75562,127.40614,36.75562",
+    "geom:latitude":36.75562,
+    "geom:longitude":127.40614,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hadeok",
+    "gn:country_code":"KR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10307144,
+    "gn:latitude":36.75562,
+    "gn:longitude":127.40614,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Hadeok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub355"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10307144
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5178271706b0b7fb35b3ffa746853f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746431,
+            "locality_id":1243239727,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243239727,
+    "wof:lastmodified":1537659011,
+    "wof:name":"Hadeok",
+    "wof:parent_id":1108746431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40614,
+    36.75562,
+    127.40614,
+    36.75562
+],
+  "geometry": {"coordinates":[127.40613999999999,36.75562],"type":"Point"}
+}

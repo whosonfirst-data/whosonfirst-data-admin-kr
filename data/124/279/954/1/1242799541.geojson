@@ -1,0 +1,77 @@
+{
+  "id": 1242799541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9826,38.04729,127.9826,38.04729",
+    "geom:latitude":38.04729,
+    "geom:longitude":127.9826,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Naesimpo",
+    "gn:country_code":"KR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840566,
+    "gn:latitude":38.04729,
+    "gn:longitude":127.9826,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Naesimpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\uc2ec\ud3ec"
+    ],
+    "name:kor_x_variant":[
+        "Naesimp\u2019o"
+    ],
+    "name:und_x_variant":[
+        "Naesimp\u2019o-ri",
+        "Naesimpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890474685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840566
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"785220c6fc153c410edb7d99603f7468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474685,
+            "locality_id":1242799541,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242799541,
+    "wof:lastmodified":1537656401,
+    "wof:name":"Naesimpo",
+    "wof:parent_id":890474685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9826,
+    38.04729,
+    127.9826,
+    38.04729
+],
+  "geometry": {"coordinates":[127.98260000000001,38.04729],"type":"Point"}
+}

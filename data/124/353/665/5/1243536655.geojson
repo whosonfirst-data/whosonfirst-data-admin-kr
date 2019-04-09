@@ -1,0 +1,72 @@
+{
+  "id": 1243536655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51944,34.94667,126.51944,34.94667",
+    "geom:latitude":34.94667,
+    "geom:longitude":126.51944,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Haksal-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844598,
+    "gn:latitude":34.94667,
+    "gn:longitude":126.51944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haksal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haksan-ni",
+        "Haksal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844598
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6914d68a07b50ca5d0f0585ad58cfb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1243536655,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243536655,
+    "wof:lastmodified":1537656605,
+    "wof:name":"Haksal-li",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51944,
+    34.94667,
+    126.51944,
+    34.94667
+],
+  "geometry": {"coordinates":[126.51944,34.94667],"type":"Point"}
+}

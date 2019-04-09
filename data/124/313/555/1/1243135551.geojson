@@ -1,0 +1,71 @@
+{
+  "id": 1243135551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.1885,36.7466,126.1885,36.7466",
+    "geom:latitude":36.7466,
+    "geom:longitude":126.1885,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kojwa",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842732,
+    "gn:latitude":36.7466,
+    "gn:longitude":126.1885,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kojwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc88c",
+        "Kojwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842732
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7541a5ea607cfe54ab8807c3a06dcecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1243135551,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243135551,
+    "wof:lastmodified":1537656511,
+    "wof:name":"Kojwa",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.1885,
+    36.7466,
+    126.1885,
+    36.7466
+],
+  "geometry": {"coordinates":[126.1885,36.7466],"type":"Point"}
+}

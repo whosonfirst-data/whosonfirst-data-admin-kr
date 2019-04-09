@@ -1,0 +1,70 @@
+{
+  "id": 1344240239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.32245,35.81437,129.32245,35.81437",
+    "geom:latitude":35.81437,
+    "geom:longitude":129.32245,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jeoldeogol",
+    "gn:country_code":"KR",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077674,
+    "gn:latitude":35.81437,
+    "gn:longitude":129.32245,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Jeoldeogol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc808\ub354\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077674
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64378c124397019dfc25a310b95457e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1344240239,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344240239,
+    "wof:lastmodified":1537659131,
+    "wof:name":"Jeoldeogol",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.32245,
+    35.81437000000001,
+    129.32245,
+    35.81437000000001
+],
+  "geometry": {"coordinates":[129.32245,35.81437000000001],"type":"Point"}
+}

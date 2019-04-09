@@ -1,0 +1,72 @@
+{
+  "id": 1259682609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5817,36.35929,127.5817,36.35929",
+    "geom:latitude":36.35929,
+    "geom:longitude":127.5817,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Seokgyeol",
+    "gn:country_code":"KR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884617,
+    "gn:latitude":36.35929,
+    "gn:longitude":127.5817,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Seokgyeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11d\uacb0",
+        "S\u014fkky\u014fl",
+        "Seokgyeol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884617
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"521a249da748f54d719739c18903eff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1259682609,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259682609,
+    "wof:lastmodified":1537658331,
+    "wof:name":"Seokgyeol",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5817,
+    36.35929,
+    127.5817,
+    36.35929
+],
+  "geometry": {"coordinates":[127.5817,36.35929],"type":"Point"}
+}

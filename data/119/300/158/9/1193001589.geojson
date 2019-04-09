@@ -1,0 +1,71 @@
+{
+  "id": 1193001589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3606,36.037,128.3606,36.037",
+    "geom:latitude":36.037,
+    "geom:longitude":128.3606,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Anongmani",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890922,
+    "gn:latitude":36.037,
+    "gn:longitude":128.3606,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Anongmani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\uc625\ub9cc\uc774",
+        "Anongmani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890922
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b8dd0bfb9b55e6dc2c32b37a04b70704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1193001589,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193001589,
+    "wof:lastmodified":1537658500,
+    "wof:name":"Anongmani",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3606,
+    36.037,
+    128.3606,
+    36.037
+],
+  "geometry": {"coordinates":[128.36060000000001,36.037],"type":"Point"}
+}

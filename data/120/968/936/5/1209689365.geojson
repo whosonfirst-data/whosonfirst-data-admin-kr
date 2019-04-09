@@ -1,0 +1,64 @@
+{
+  "id": 1209689365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.34122,35.97157,129.34122,35.97157",
+    "geom:latitude":35.97157,
+    "geom:longitude":129.34122,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Witdongnae",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250809,
+    "gn:latitude":35.97157,
+    "gn:longitude":129.34122,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Witdongnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\ub3d9\ub0b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250809
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"244bb968c130c5c83e81e24e92d4e4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689365
+        }
+    ],
+    "wof:id":1209689365,
+    "wof:lastmodified":1537659260,
+    "wof:name":"Witdongnae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.34122,
+    35.97157,
+    129.34122,
+    35.97157
+],
+  "geometry": {"coordinates":[129.34121999999999,35.97157],"type":"Point"}
+}

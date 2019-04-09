@@ -1,0 +1,73 @@
+{
+  "id": 1259605023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.59222,38.06194,128.59222,38.06194",
+    "geom:latitude":38.06194,
+    "geom:longitude":128.59222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pombu-ri",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1989126,
+    "gn:latitude":38.06194,
+    "gn:longitude":128.59222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fmbu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc94\ubd80\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "P\u014fmbu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1989126
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"88b027fd27d9d7e74aa37b2d5183733e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1259605023,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259605023,
+    "wof:lastmodified":1537656996,
+    "wof:name":"Pombu-ri",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.59222,
+    38.06194,
+    128.59222,
+    38.06194
+],
+  "geometry": {"coordinates":[128.59222,38.06194],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309718965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.11442,35.68491,127.11442,35.68491",
+    "geom:latitude":35.68491,
+    "geom:longitude":127.11442,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kyo-dong",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834783,
+    "gn:latitude":35.68491,
+    "gn:longitude":127.11442,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kyo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tari-kol",
+        "Kyodong-ni",
+        "Tarigol",
+        "\uad50\ub3d9",
+        "Kyo-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834783
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1849e6a85b05fc43150212316bfe58ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474683,
+            "locality_id":1309718965,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1309718965,
+    "wof:lastmodified":1537656106,
+    "wof:name":"Kyo-dong",
+    "wof:parent_id":890474683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.11442,
+    35.68490999999999,
+    127.11442,
+    35.68490999999999
+],
+  "geometry": {"coordinates":[127.11442,35.68490999999999],"type":"Point"}
+}

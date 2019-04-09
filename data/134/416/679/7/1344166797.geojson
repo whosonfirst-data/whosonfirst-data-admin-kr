@@ -1,0 +1,75 @@
+{
+  "id": 1344166797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58695,34.82609,127.58695,34.82609",
+    "geom:latitude":34.82609,
+    "geom:longitude":127.58695,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sanguigok",
+    "gn:country_code":"KR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837580,
+    "gn:latitude":34.82609,
+    "gn:longitude":127.58695,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Sanguigok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc758\uace1"
+    ],
+    "name:und_x_variant":[
+        "Sanggaemisil",
+        "Sang\u016digok",
+        "Sanguigok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837580
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1b1d79b79d82144dad7859f19eb8ebe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1344166797,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1344166797,
+    "wof:lastmodified":1537656244,
+    "wof:name":"Sanguigok",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58695,
+    34.82609,
+    127.58695,
+    34.82609
+],
+  "geometry": {"coordinates":[127.58695,34.82609],"type":"Point"}
+}

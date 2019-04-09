@@ -1,0 +1,70 @@
+{
+  "id": 1343245423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.49241,35.93684,128.49241,35.93684",
+    "geom:latitude":35.93684,
+    "geom:longitude":128.49241,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Seombaegi",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550779,
+    "gn:latitude":35.93684,
+    "gn:longitude":128.49241,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Seombaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc12c\ubc31\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550779
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dc8ed3a9612aa26e684ec44845554a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1343245423,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343245423,
+    "wof:lastmodified":1537658890,
+    "wof:name":"Seombaegi",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.49241,
+    35.93684000000001,
+    128.49241,
+    35.93684000000001
+],
+  "geometry": {"coordinates":[128.49241000000001,35.93684000000001],"type":"Point"}
+}

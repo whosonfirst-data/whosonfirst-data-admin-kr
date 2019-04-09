@@ -1,0 +1,73 @@
+{
+  "id": 1327413329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74917,37.60528,126.74917,37.60528",
+    "geom:latitude":37.60528,
+    "geom:longitude":126.74917,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Korant'ae",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363705,
+    "gn:latitude":37.60528,
+    "gn:longitude":126.74917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Korant\u2019ae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ub780\ud0dc"
+    ],
+    "name:kor_x_variant":[
+        "Korant\u2019ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363705
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"28d8202da9c4f96cddb002ee2e75f318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472445,
+            "locality_id":1327413329,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327413329,
+    "wof:lastmodified":1537657051,
+    "wof:name":"Korant'ae",
+    "wof:parent_id":890472445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74917,
+    37.60528,
+    126.74917,
+    37.60528
+],
+  "geometry": {"coordinates":[126.74917000000001,37.60528],"type":"Point"}
+}

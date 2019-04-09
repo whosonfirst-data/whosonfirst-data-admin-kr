@@ -1,0 +1,65 @@
+{
+  "id": 1209287913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1339,36.0343,128.1339,36.0343",
+    "geom:latitude":36.0343,
+    "geom:longitude":128.1339,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pokho",
+    "gn:country_code":"KR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890855,
+    "gn:latitude":36.0343,
+    "gn:longitude":128.1339,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pokho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcf5\ud638",
+        "Pokho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890855
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6ca1de80e0aa3f4cd05bcb41d05ec2da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287913
+        }
+    ],
+    "wof:id":1209287913,
+    "wof:lastmodified":1537658497,
+    "wof:name":"Pokho",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1339,
+    36.0343,
+    128.1339,
+    36.0343
+],
+  "geometry": {"coordinates":[128.13390000000001,36.0343],"type":"Point"}
+}

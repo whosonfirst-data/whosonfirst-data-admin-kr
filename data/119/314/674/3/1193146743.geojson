@@ -1,0 +1,75 @@
+{
+  "id": 1193146743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.40702,35.22048,126.40702,35.22048",
+    "geom:latitude":35.22048,
+    "geom:longitude":126.40702,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Namgye",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840459,
+    "gn:latitude":35.22048,
+    "gn:longitude":126.40702,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Namgye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uacc4"
+    ],
+    "name:und_x_variant":[
+        "Namgye-ri",
+        "Namgae-ri",
+        "Namgye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840459
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"03f8e3f4af4f182845fe516a640cfcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473229,
+            "locality_id":1193146743,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193146743,
+    "wof:lastmodified":1537656397,
+    "wof:name":"Namgye",
+    "wof:parent_id":890473229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.40702,
+    35.22048,
+    126.40702,
+    35.22048
+],
+  "geometry": {"coordinates":[126.40702,35.22048],"type":"Point"}
+}

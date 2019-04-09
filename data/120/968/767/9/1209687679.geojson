@@ -1,0 +1,68 @@
+{
+  "id": 1209687679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34166,34.91295,127.34166,34.91295",
+    "geom:latitude":34.91295,
+    "geom:longitude":127.34166,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seongbuk",
+    "gn:country_code":"KR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684953,
+    "gn:latitude":34.91295,
+    "gn:longitude":127.34166,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Seongbuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc120\ubd81\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fngbung-ni",
+        "\uc131\ubd81"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684953
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f11b565f1efd190e7703f0fc133b1f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209687679
+        }
+    ],
+    "wof:id":1209687679,
+    "wof:lastmodified":1537657438,
+    "wof:name":"Seongbuk",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34166,
+    34.91295,
+    127.34166,
+    34.91295
+],
+  "geometry": {"coordinates":[127.34166,34.91295],"type":"Point"}
+}

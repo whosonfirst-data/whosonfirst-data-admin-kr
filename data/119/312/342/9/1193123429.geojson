@@ -1,0 +1,72 @@
+{
+  "id": 1193123429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9041,37.6996,126.9041,37.6996",
+    "geom:latitude":37.6996,
+    "geom:longitude":126.9041,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Eungdalchon",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801806,
+    "gn:latitude":37.6996,
+    "gn:longitude":126.9041,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Eungdalchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc751\ub2ec\ucd0c",
+        "\u016cngdalch\u2019on",
+        "Eungdalchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801806
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fd1e2cdcfc6a33932910bc882feb94b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746463,
+            "locality_id":1193123429,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193123429,
+    "wof:lastmodified":1537657707,
+    "wof:name":"Eungdalchon",
+    "wof:parent_id":1108746463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9041,
+    37.6996,
+    126.9041,
+    37.6996
+],
+  "geometry": {"coordinates":[126.9041,37.6996],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276966189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.41929,37.63959,126.41929,37.63959",
+    "geom:latitude":37.63959,
+    "geom:longitude":126.41929,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gochangmoe",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274577,
+    "gn:latitude":37.63959,
+    "gn:longitude":126.41929,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Gochangmoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ucc3d\ubafc"
+    ],
+    "name:und_x_variant":[
+        "\uace0\ucc3d\ucd0c",
+        "Gochangchon",
+        "Koch\u2019ang-ch\u2019on",
+        "Gochangmoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274577
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d4017df69ecc1f9eca510eef733a7ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1276966189,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1276966189,
+    "wof:lastmodified":1537657024,
+    "wof:name":"Gochangmoe",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.41929,
+    37.63959000000001,
+    126.41929,
+    37.63959000000001
+],
+  "geometry": {"coordinates":[126.41929,37.63959000000001],"type":"Point"}
+}

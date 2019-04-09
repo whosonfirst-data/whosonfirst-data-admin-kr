@@ -1,0 +1,71 @@
+{
+  "id": 1276433549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6523,37.86826,127.6523,37.86826",
+    "geom:latitude":37.86826,
+    "geom:longitude":127.6523,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Myongwol",
+    "gn:country_code":"KR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802286,
+    "gn:latitude":37.86826,
+    "gn:longitude":127.6523,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"My\u014fngw\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba85\uc6d4",
+        "My\u014fngw\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802286
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"13374c827c84908ca546ed8cc5a53a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1276433549,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276433549,
+    "wof:lastmodified":1537657742,
+    "wof:name":"Myongwol",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6523,
+    37.86826,
+    127.6523,
+    37.86826
+],
+  "geometry": {"coordinates":[127.6523,37.86826],"type":"Point"}
+}

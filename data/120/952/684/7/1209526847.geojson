@@ -1,0 +1,65 @@
+{
+  "id": 1209526847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81833,35.98722,126.81833,35.98722",
+    "geom:latitude":35.98722,
+    "geom:longitude":126.81833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ch'ango-ri",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846438,
+    "gn:latitude":35.98722,
+    "gn:longitude":126.81833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u2019ango-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ango",
+        "Ch\u2019ango-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846438
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc716124f9d928aa9069ac9452b9323e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209526847
+        }
+    ],
+    "wof:id":1209526847,
+    "wof:lastmodified":1537656700,
+    "wof:name":"Ch'ango-ri",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81833,
+    35.98722,
+    126.81833,
+    35.98722
+],
+  "geometry": {"coordinates":[126.81833,35.98722],"type":"Point"}
+}

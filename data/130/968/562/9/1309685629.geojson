@@ -1,0 +1,73 @@
+{
+  "id": 1309685629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9254,36.70715,128.9254,36.70715",
+    "geom:latitude":36.70715,
+    "geom:longitude":128.9254,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Seonghwangni",
+    "gn:country_code":"KR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836202,
+    "gn:latitude":36.70715,
+    "gn:longitude":128.9254,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Seonghwangni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\ud669\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "S\u014fnghwang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836202
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5f778634148a1ac205187f4d71c0ad0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1309685629,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309685629,
+    "wof:lastmodified":1537656176,
+    "wof:name":"Seonghwangni",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9254,
+    36.70715,
+    128.9254,
+    36.70715
+],
+  "geometry": {"coordinates":[128.9254,36.70715],"type":"Point"}
+}

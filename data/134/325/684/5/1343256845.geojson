@@ -1,0 +1,73 @@
+{
+  "id": 1343256845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0051,37.90713,128.0051,37.90713",
+    "geom:latitude":37.90713,
+    "geom:longitude":128.0051,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jodeokgol",
+    "gn:country_code":"KR",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815388,
+    "gn:latitude":37.90713,
+    "gn:longitude":128.0051,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Jodeokgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc870\ub355\uace8"
+    ],
+    "name:kor_x_variant":[
+        "Chod\u014fk-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815388
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c89b2c4e321b1ad520c07cb8c742d401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1343256845,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343256845,
+    "wof:lastmodified":1537658051,
+    "wof:name":"Jodeokgol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0051,
+    37.90713,
+    128.0051,
+    37.90713
+],
+  "geometry": {"coordinates":[128.0051,37.90713],"type":"Point"}
+}

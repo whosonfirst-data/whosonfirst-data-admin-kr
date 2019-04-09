@@ -1,0 +1,72 @@
+{
+  "id": 1226221369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31028,37.3525,127.31028,37.3525",
+    "geom:latitude":37.3525,
+    "geom:longitude":127.31028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Guseok-mal",
+    "gn:country_code":"KR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577352,
+    "gn:latitude":37.3525,
+    "gn:longitude":127.31028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Guseok-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\uc11d\ub9d0",
+        "Guseok-mal",
+        "Kus\u014fng-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577352
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e964005d779251316c595d9f13bbfd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1226221369,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226221369,
+    "wof:lastmodified":1537657359,
+    "wof:name":"Guseok-mal",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31028,
+    37.3525,
+    127.31028,
+    37.3525
+],
+  "geometry": {"coordinates":[127.31028000000001,37.3525],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259749603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7,36.16667,126.7,36.16667",
+    "geom:latitude":36.16667,
+    "geom:longitude":126.7,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"P'an'gyo-ri",
+    "gn:country_code":"KR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839261,
+    "gn:latitude":36.16667,
+    "gn:longitude":126.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u2019an\u2019gyo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanky\u014d",
+        "P\u2019an\u2019gyo",
+        "Hanky\u014d-ri",
+        "P\u2019andari",
+        "P\u2019an\u2019gyo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890476195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839261
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2d06b97cac61b95210c8ceaad72be2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476195,
+            "locality_id":1259749603,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259749603,
+    "wof:lastmodified":1537656334,
+    "wof:name":"P'an'gyo-ri",
+    "wof:parent_id":890476195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7,
+    36.16667,
+    126.7,
+    36.16667
+],
+  "geometry": {"coordinates":[126.7,36.16667],"type":"Point"}
+}

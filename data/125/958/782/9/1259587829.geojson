@@ -1,0 +1,71 @@
+{
+  "id": 1259587829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5837,36.2636,127.5837,36.2636",
+    "geom:latitude":36.2636,
+    "geom:longitude":127.5837,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kap'ung",
+    "gn:country_code":"KR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884657,
+    "gn:latitude":36.2636,
+    "gn:longitude":127.5837,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kap\u2019ung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ud48d",
+        "Kap\u2019ung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884657
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"059fde817c994804ced1166433bf5164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1259587829,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259587829,
+    "wof:lastmodified":1537658333,
+    "wof:name":"Kap'ung",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5837,
+    36.2636,
+    127.5837,
+    36.2636
+],
+  "geometry": {"coordinates":[127.58369999999999,36.2636],"type":"Point"}
+}

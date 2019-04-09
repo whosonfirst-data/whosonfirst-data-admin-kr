@@ -1,0 +1,74 @@
+{
+  "id": 1209999885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.19608,36.5006,128.19608,36.5006",
+    "geom:latitude":36.5006,
+    "geom:longitude":128.19608,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mogwagok",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841094,
+    "gn:latitude":36.5006,
+    "gn:longitude":128.19608,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Mogwagok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\uacfc\uace1"
+    ],
+    "name:und_x_variant":[
+        "Mokkwa",
+        "Mogwagok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841094
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b246d57c581b84a5e96945403db48469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1209999885,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209999885,
+    "wof:lastmodified":1537656428,
+    "wof:name":"Mogwagok",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.19608,
+    36.5006,
+    128.19608,
+    36.5006
+],
+  "geometry": {"coordinates":[128.19607999999999,36.5006],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242741805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67056,34.32583,126.67056,34.32583",
+    "geom:latitude":34.32583,
+    "geom:longitude":126.67056,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sosepo",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394539,
+    "gn:latitude":34.32583,
+    "gn:longitude":126.67056,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sosepo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uc2dd\ud3ec"
+    ],
+    "name:kor_x_variant":[
+        "\uc18c\uc138\ud3ec"
+    ],
+    "name:und_x_variant":[
+        "Tangje-gol",
+        "Sosepo",
+        "Sosikpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394539
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6f9de9a6f62aed8d2d039fbaf481cf92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1242741805,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242741805,
+    "wof:lastmodified":1537657133,
+    "wof:name":"Sosepo",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67056,
+    34.32583,
+    126.67056,
+    34.32583
+],
+  "geometry": {"coordinates":[126.67055999999999,34.32583],"type":"Point"}
+}

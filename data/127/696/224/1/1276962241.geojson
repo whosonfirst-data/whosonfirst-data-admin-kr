@@ -1,0 +1,75 @@
+{
+  "id": 1276962241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.49758,35.95422,128.49758,35.95422",
+    "geom:latitude":35.95422,
+    "geom:longitude":128.49758,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gujangteo",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842393,
+    "gn:latitude":35.95422,
+    "gn:longitude":128.49758,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Gujangteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc7a5\ud130"
+    ],
+    "name:und_x_variant":[
+        "Sigi-dong",
+        "Kujangt\u2019\u014f",
+        "Gujangteo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842393
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ac5dce5f8766844255f529e68c17d955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1276962241,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276962241,
+    "wof:lastmodified":1537656494,
+    "wof:name":"Gujangteo",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.49758,
+    35.95422,
+    128.49758,
+    35.95422
+],
+  "geometry": {"coordinates":[128.49758,35.95422],"type":"Point"}
+}

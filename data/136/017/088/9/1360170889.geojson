@@ -1,0 +1,71 @@
+{
+  "id": 1360170889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.14081,37.0558,127.14081,37.0558",
+    "geom:latitude":37.0558,
+    "geom:longitude":127.14081,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hajimun",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575639,
+    "gn:latitude":37.0558,
+    "gn:longitude":127.14081,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Hajimun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uc9c0\ubb38",
+        "Hajimun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575639
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6576b51f1014a5c4c570ccf91a72b189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1360170889,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360170889,
+    "wof:lastmodified":1537657284,
+    "wof:name":"Hajimun",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.14081000000002,
+    37.0558,
+    127.14081000000002,
+    37.0558
+],
+  "geometry": {"coordinates":[127.14081000000002,37.0558],"type":"Point"}
+}

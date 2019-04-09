@@ -1,0 +1,73 @@
+{
+  "id": 1259446929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.72495,34.63631,127.72495,34.63631",
+    "geom:latitude":34.63631,
+    "geom:longitude":127.72495,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geumcheon",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842315,
+    "gn:latitude":34.63631,
+    "gn:longitude":127.72495,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Geumcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmch\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842315
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"45bf5dc993e04021ef578edbe7816c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1259446929,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259446929,
+    "wof:lastmodified":1537656490,
+    "wof:name":"Geumcheon",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.72495,
+    34.63630999999999,
+    127.72495,
+    34.63630999999999
+],
+  "geometry": {"coordinates":[127.72495000000001,34.63630999999999],"type":"Point"}
+}

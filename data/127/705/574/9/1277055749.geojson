@@ -1,0 +1,73 @@
+{
+  "id": 1277055749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65421,37.5891,126.65421,37.5891",
+    "geom:latitude":37.5891,
+    "geom:longitude":126.65421,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sawol",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363954,
+    "gn:latitude":37.5891,
+    "gn:longitude":126.65421,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Sawol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uc6d4"
+    ],
+    "name:kor_x_variant":[
+        "Saw\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363954
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"02440316cc14b0463e14a4b7783a0fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746517,
+            "locality_id":1277055749,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1277055749,
+    "wof:lastmodified":1537657061,
+    "wof:name":"Sawol",
+    "wof:parent_id":1108746517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65421,
+    37.5891,
+    126.65421,
+    37.5891
+],
+  "geometry": {"coordinates":[126.65421000000001,37.5891],"type":"Point"}
+}

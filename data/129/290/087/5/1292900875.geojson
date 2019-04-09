@@ -1,0 +1,73 @@
+{
+  "id": 1292900875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.82366,37.87422,128.82366,37.87422",
+    "geom:latitude":37.87422,
+    "geom:longitude":128.82366,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Eungmakdong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797710,
+    "gn:latitude":37.87422,
+    "gn:longitude":128.82366,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Eungmakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc751\ub9c9\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\u016cngmak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797710
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"98b9a2c2928a8ba20cd70bc6dda28eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1292900875,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1292900875,
+    "wof:lastmodified":1537657600,
+    "wof:name":"Eungmakdong",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.82366000000002,
+    37.87422,
+    128.82366000000002,
+    37.87422
+],
+  "geometry": {"coordinates":[128.82366000000002,37.87422],"type":"Point"}
+}

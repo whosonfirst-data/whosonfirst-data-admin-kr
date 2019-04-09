@@ -1,0 +1,70 @@
+{
+  "id": 1293473165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.96575,36.73251,128.96575,36.73251",
+    "geom:latitude":36.73251,
+    "geom:longitude":128.96575,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gosarigol",
+    "gn:country_code":"KR",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256607,
+    "gn:latitude":36.73251,
+    "gn:longitude":128.96575,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Gosarigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\uc0ac\ub9ac\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256607
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"543b948b780e7c2797a4437897be8868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1293473165,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293473165,
+    "wof:lastmodified":1537659298,
+    "wof:name":"Gosarigol",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.96575,
+    36.73251,
+    128.96575,
+    36.73251
+],
+  "geometry": {"coordinates":[128.96575000000001,36.73251],"type":"Point"}
+}

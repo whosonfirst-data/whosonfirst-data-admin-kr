@@ -1,0 +1,73 @@
+{
+  "id": 1276517941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.50521,36.74571,128.50521,36.74571",
+    "geom:latitude":36.74571,
+    "geom:longitude":128.50521,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jinjak",
+    "gn:country_code":"KR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895311,
+    "gn:latitude":36.74571,
+    "gn:longitude":128.50521,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Jinjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c4\uc791"
+    ],
+    "name:und_x_variant":[
+        "Chinjak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895311
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"41265bb47fe9a06fe31093a366f85b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1276517941,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276517941,
+    "wof:lastmodified":1537656884,
+    "wof:name":"Jinjak",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.50521,
+    36.74571,
+    128.50521,
+    36.74571
+],
+  "geometry": {"coordinates":[128.50521000000001,36.74571],"type":"Point"}
+}

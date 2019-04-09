@@ -1,0 +1,71 @@
+{
+  "id": 890473299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.93083,35.9675,128.93083,35.9675",
+    "geom:latitude":35.9675,
+    "geom:longitude":128.93083,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":56006,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Y\u014fngch\u2019\u014fn"
+    ],
+    "qs:name":"Eisen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832617,
+        "gp:id":28808428,
+        "qs:id":1033358,
+        "wk:page":"Eisen"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053947,
+    "wof:geomhash":"83446ea0163d29f3749cc8d99c94b638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475319,
+            "locality_id":890473299,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":890473299,
+    "wof:lastmodified":1527792835,
+    "wof:name":"Eisen",
+    "wof:parent_id":890475319,
+    "wof:placetype":"locality",
+    "wof:population":56006,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.93083,
+    35.9675,
+    128.93083,
+    35.9675
+],
+  "geometry": {"coordinates":[128.93082999999999,35.9675],"type":"Point"}
+}

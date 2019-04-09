@@ -1,0 +1,74 @@
+{
+  "id": 1193010455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.773,37.9265,128.773,37.9265",
+    "geom:latitude":37.9265,
+    "geom:longitude":128.773,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Eungdalmal",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797658,
+    "gn:latitude":37.9265,
+    "gn:longitude":128.773,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Eungdalmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc74c\ub2ec\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "\u016cmdal-mal",
+        "\uc751\ub2ec\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797658
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f5c55402b91c04464ce4fcbb6ccbe742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1193010455,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1193010455,
+    "wof:lastmodified":1537657597,
+    "wof:name":"Eungdalmal",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.773,
+    37.9265,
+    128.773,
+    37.9265
+],
+  "geometry": {"coordinates":[128.773,37.9265],"type":"Point"}
+}

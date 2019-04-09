@@ -1,0 +1,74 @@
+{
+  "id": 1242846185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72242,35.24263,126.72242,35.24263",
+    "geom:latitude":35.24263,
+    "geom:longitude":126.72242,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Insan",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843533,
+    "gn:latitude":35.24263,
+    "gn:longitude":126.72242,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Insan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc778\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Insan-ni",
+        "Insan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843533
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8275a0e5ba3f93c7efc74142f027ce86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1242846185,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242846185,
+    "wof:lastmodified":1537656554,
+    "wof:name":"Insan",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72242,
+    35.24263,
+    126.72242,
+    35.24263
+],
+  "geometry": {"coordinates":[126.72242,35.24263],"type":"Point"}
+}

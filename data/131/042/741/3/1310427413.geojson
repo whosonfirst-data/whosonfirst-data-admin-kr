@@ -1,0 +1,70 @@
+{
+  "id": 1310427413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51244,38.25139,128.51244,38.25139",
+    "geom:latitude":38.25139,
+    "geom:longitude":128.51244,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Seongdaeri",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9808764,
+    "gn:latitude":38.25139,
+    "gn:longitude":128.51244,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Seongdaeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\ub300\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9808764
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d349a2c57b6cc6aca3b3142f0c9f7bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1310427413,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310427413,
+    "wof:lastmodified":1537658944,
+    "wof:name":"Seongdaeri",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51244,
+    38.25139,
+    128.51244,
+    38.25139
+],
+  "geometry": {"coordinates":[128.51244,38.25139],"type":"Point"}
+}

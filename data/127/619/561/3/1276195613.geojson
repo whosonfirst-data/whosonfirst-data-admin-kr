@@ -1,0 +1,70 @@
+{
+  "id": 1276195613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65798,35.77422,128.65798,35.77422",
+    "geom:latitude":35.77422,
+    "geom:longitude":128.65798,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jeonpyeong",
+    "gn:country_code":"KR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11033343,
+    "gn:latitude":35.77422,
+    "gn:longitude":128.65798,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Jeonpyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc804\ud3c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11033343
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"56f261fec3468c738b069f5d0dc42435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1276195613,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1276195613,
+    "wof:lastmodified":1537659111,
+    "wof:name":"Jeonpyeong",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65798,
+    35.77422,
+    128.65798,
+    35.77422
+],
+  "geometry": {"coordinates":[128.65798000000001,35.77422],"type":"Point"}
+}

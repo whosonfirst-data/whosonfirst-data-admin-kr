@@ -1,0 +1,70 @@
+{
+  "id": 1276199421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.36245,36.13521,129.36245,36.13521",
+    "geom:latitude":36.13521,
+    "geom:longitude":129.36245,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Seondolbaek",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11248199,
+    "gn:latitude":36.13521,
+    "gn:longitude":129.36245,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Seondolbaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc120\ub3cc\ubc31"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11248199
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aa1889d166a36fb5ce9612dbc1b88107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1276199421,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276199421,
+    "wof:lastmodified":1537659250,
+    "wof:name":"Seondolbaek",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.36245,
+    36.13521,
+    129.36245,
+    36.13521
+],
+  "geometry": {"coordinates":[129.36245,36.13521],"type":"Point"}
+}

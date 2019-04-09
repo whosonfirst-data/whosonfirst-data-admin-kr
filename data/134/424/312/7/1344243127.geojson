@@ -1,0 +1,73 @@
+{
+  "id": 1344243127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5738,37.1386,127.5738,37.1386",
+    "geom:latitude":37.1386,
+    "geom:longitude":127.5738,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seoneup-ri",
+    "gn:country_code":"KR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6813462,
+    "gn:latitude":37.1386,
+    "gn:longitude":127.5738,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Seoneup-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc120\uc74d\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fn\u016dm-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813462
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"01e485eac42aac907819bba2c2ac3900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1344243127,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344243127,
+    "wof:lastmodified":1537658017,
+    "wof:name":"Seoneup-ri",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5738,
+    37.1386,
+    127.5738,
+    37.1386
+],
+  "geometry": {"coordinates":[127.57380000000001,37.1386],"type":"Point"}
+}

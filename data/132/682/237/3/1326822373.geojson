@@ -1,0 +1,73 @@
+{
+  "id": 1326822373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7094,37.74522,127.7094,37.74522",
+    "geom:latitude":37.74522,
+    "geom:longitude":127.7094,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Banuidong",
+    "gn:country_code":"KR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896552,
+    "gn:latitude":37.74522,
+    "gn:longitude":127.7094,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Banuidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc18\uc758\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Pan\u016di-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896552
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dd4167908e4e4294c1add8a1a665be8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1326822373,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1326822373,
+    "wof:lastmodified":1537656906,
+    "wof:name":"Banuidong",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7094,
+    37.74522,
+    127.7094,
+    37.74522
+],
+  "geometry": {"coordinates":[127.7094,37.74522],"type":"Point"}
+}

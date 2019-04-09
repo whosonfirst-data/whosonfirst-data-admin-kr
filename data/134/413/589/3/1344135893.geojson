@@ -1,0 +1,75 @@
+{
+  "id": 1344135893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9005,37.8149,126.9005,37.8149",
+    "geom:latitude":37.8149,
+    "geom:longitude":126.9005,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Osandong",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799378,
+    "gn:latitude":37.8149,
+    "gn:longitude":126.9005,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Osandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uc0b0\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uc624\ubbf8",
+        "Omi",
+        "Osandong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799378
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8b787ec512426add8ba1bc6ff9550e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1344135893,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344135893,
+    "wof:lastmodified":1537657634,
+    "wof:name":"Osandong",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9005,
+    37.8149,
+    126.9005,
+    37.8149
+],
+  "geometry": {"coordinates":[126.90049999999999,37.8149],"type":"Point"}
+}

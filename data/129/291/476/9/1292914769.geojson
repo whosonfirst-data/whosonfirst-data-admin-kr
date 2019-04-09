@@ -1,0 +1,73 @@
+{
+  "id": 1292914769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65556,35.377,126.65556,35.377",
+    "geom:latitude":35.377,
+    "geom:longitude":126.65556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Eorim",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839702,
+    "gn:latitude":35.377,
+    "gn:longitude":126.65556,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Eorim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\ub9bc"
+    ],
+    "name:und_x_variant":[
+        "\u014erim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839702
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aff4d67532b8ff3b366433ad0124eecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1292914769,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1292914769,
+    "wof:lastmodified":1537656359,
+    "wof:name":"Eorim",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65556,
+    35.37699999999999,
+    126.65556,
+    35.37699999999999
+],
+  "geometry": {"coordinates":[126.65555999999999,35.37699999999999],"type":"Point"}
+}

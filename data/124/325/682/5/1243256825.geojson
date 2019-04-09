@@ -1,0 +1,70 @@
+{
+  "id": 1243256825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.47564,36.689,127.47564,36.689",
+    "geom:latitude":36.689,
+    "geom:longitude":127.47564,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Saeburyong",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10309023,
+    "gn:latitude":36.689,
+    "gn:longitude":127.47564,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Saeburyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ubd80\ub8e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10309023
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ec2ce9c4c2e2b47889cb5507ef4b7127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746437,
+            "locality_id":1243256825,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243256825,
+    "wof:lastmodified":1537659018,
+    "wof:name":"Saeburyong",
+    "wof:parent_id":1108746437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.47563999999998,
+    36.689,
+    127.47563999999998,
+    36.689
+],
+  "geometry": {"coordinates":[127.47563999999998,36.689],"type":"Point"}
+}

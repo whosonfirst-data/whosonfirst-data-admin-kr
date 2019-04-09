@@ -1,0 +1,83 @@
+{
+  "id": 1243530233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83083,35.11556,126.83083,35.11556",
+    "geom:latitude":35.11556,
+    "geom:longitude":126.83083,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Saedong",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837409,
+    "gn:latitude":35.11556,
+    "gn:longitude":126.83083,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Saedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Sedong-ni",
+        "Sedong",
+        "Saedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472273,
+        85673219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837409
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee2107be1e539675016fa91d8619e4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1243530233,
+            "region_id":85673199
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1243530233,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243530233,
+    "wof:lastmodified":1537656235,
+    "wof:name":"Saedong",
+    "wof:parent_id":890472273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83083,
+    35.11556,
+    126.83083,
+    35.11556
+],
+  "geometry": {"coordinates":[126.83083000000001,35.11556],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209789239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34474,35.75104,128.34474,35.75104",
+    "geom:latitude":35.75104,
+    "geom:longitude":128.34474,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gibal",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901480,
+    "gn:latitude":35.75104,
+    "gn:longitude":128.34474,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Gibal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\ubc1c"
+    ],
+    "name:und_x_variant":[
+        "\uae30\uc871",
+        "Kijok",
+        "Gibal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901480
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"42806ab39ef53cda223ba8131567b97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1209789239,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209789239,
+    "wof:lastmodified":1537658780,
+    "wof:name":"Gibal",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34474,
+    35.75104,
+    128.34474,
+    35.75104
+],
+  "geometry": {"coordinates":[128.34474,35.75104],"type":"Point"}
+}

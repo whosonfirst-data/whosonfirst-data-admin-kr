@@ -1,0 +1,67 @@
+{
+  "id": 1209085333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7066,37.73993,126.7066,37.73993",
+    "geom:latitude":37.73993,
+    "geom:longitude":126.7066,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Geomulli",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363686,
+    "gn:latitude":37.73993,
+    "gn:longitude":126.7066,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Geomulli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac70\ubb38\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "K\u014fmul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363686
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"19a388ab313e711e4cfc4a1adbef18c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209085333
+        }
+    ],
+    "wof:id":1209085333,
+    "wof:lastmodified":1537657050,
+    "wof:name":"Geomulli",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7066,
+    37.73993,
+    126.7066,
+    37.73993
+],
+  "geometry": {"coordinates":[126.70659999999999,37.73993],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343434459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.59175,36.69506,128.59175,36.69506",
+    "geom:latitude":36.69506,
+    "geom:longitude":128.59175,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gageori",
+    "gn:country_code":"KR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895390,
+    "gn:latitude":36.69506,
+    "gn:longitude":128.59175,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Gageori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uac70\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kag\u014fri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895390
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2e974d778f9190faa006f8927aa3dd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1343434459,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343434459,
+    "wof:lastmodified":1537656886,
+    "wof:name":"Gageori",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.59175,
+    36.69506,
+    128.59175,
+    36.69506
+],
+  "geometry": {"coordinates":[128.59174999999999,36.69506],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209697879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19568,34.74918,127.19568,34.74918",
+    "geom:latitude":34.74918,
+    "geom:longitude":127.19568,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Joyang",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880846,
+    "gn:latitude":34.74918,
+    "gn:longitude":127.19568,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Joyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc870\uc591"
+    ],
+    "name:und_x_variant":[
+        "Choyang",
+        "Joyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880846
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"15a68cd422f2fe1885cd90496b98df9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1209697879,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209697879,
+    "wof:lastmodified":1537656735,
+    "wof:name":"Joyang",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19568,
+    34.74918,
+    127.19568,
+    34.74918
+],
+  "geometry": {"coordinates":[127.19568,34.74918],"type":"Point"}
+}

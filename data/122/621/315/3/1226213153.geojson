@@ -1,0 +1,70 @@
+{
+  "id": 1226213153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.58097,36.93062,128.58097,36.93062",
+    "geom:latitude":36.93062,
+    "geom:longitude":128.58097,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gachijaei",
+    "gn:country_code":"KR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114009,
+    "gn:latitude":36.93062,
+    "gn:longitude":128.58097,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Gachijaei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uce58\uc7ac\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114009
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ebabb5907633266e53da74199a3525e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476183,
+            "locality_id":1226213153,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226213153,
+    "wof:lastmodified":1537658923,
+    "wof:name":"Gachijaei",
+    "wof:parent_id":890476183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.58097,
+    36.93062000000001,
+    128.58097,
+    36.93062000000001
+],
+  "geometry": {"coordinates":[128.58097000000001,36.93062000000001],"type":"Point"}
+}

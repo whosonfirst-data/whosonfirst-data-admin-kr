@@ -1,0 +1,71 @@
+{
+  "id": 1225920829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51417,37.52806,126.51417,37.52806",
+    "geom:latitude":37.52806,
+    "geom:longitude":126.51417,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Salgae",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274858,
+    "gn:latitude":37.52806,
+    "gn:longitude":126.51417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Salgae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0b4\uac1c",
+        "Salgae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274858
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a25e9c1ebf7077cd31e9f2b560355f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746485,
+            "locality_id":1225920829,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1225920829,
+    "wof:lastmodified":1537657043,
+    "wof:name":"Salgae",
+    "wof:parent_id":1108746485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51417,
+    37.52806,
+    126.51417,
+    37.52806
+],
+  "geometry": {"coordinates":[126.51416999999999,37.52806],"type":"Point"}
+}

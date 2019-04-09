@@ -1,0 +1,73 @@
+{
+  "id": 1243530661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3451,36.622,126.3451,36.622",
+    "geom:latitude":36.622,
+    "geom:longitude":126.3451,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hanbawi",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844523,
+    "gn:latitude":36.622,
+    "gn:longitude":126.3451,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hanbawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taegan-ni",
+        "Iaeam-ni",
+        "\ud55c\ubc14\uc704",
+        "Hanbawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844523
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e6a358444d3f4cd359fe7a05bb98f3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1243530661,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243530661,
+    "wof:lastmodified":1537656601,
+    "wof:name":"Hanbawi",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3451,
+    36.622,
+    126.3451,
+    36.622
+],
+  "geometry": {"coordinates":[126.3451,36.622],"type":"Point"}
+}

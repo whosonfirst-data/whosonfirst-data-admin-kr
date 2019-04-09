@@ -1,0 +1,71 @@
+{
+  "id": 1242946437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2409,36.4528,128.2409,36.4528",
+    "geom:latitude":36.4528,
+    "geom:longitude":128.2409,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sambong",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889871,
+    "gn:latitude":36.4528,
+    "gn:longitude":128.2409,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sambong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\ubd09",
+        "Sambong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889871
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae3b124beb6dc93dba3488d7a984b4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1242946437,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242946437,
+    "wof:lastmodified":1537658463,
+    "wof:name":"Sambong",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2409,
+    36.4528,
+    128.2409,
+    36.4528
+],
+  "geometry": {"coordinates":[128.24090000000001,36.4528],"type":"Point"}
+}

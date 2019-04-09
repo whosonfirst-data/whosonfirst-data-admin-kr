@@ -1,0 +1,71 @@
+{
+  "id": 1343828535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.05696,36.28753,128.05696,36.28753",
+    "geom:latitude":36.28753,
+    "geom:longitude":128.05696,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Uttok-kol",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892640,
+    "gn:latitude":36.28753,
+    "gn:longitude":128.05696,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Uttok-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6c3\ub3d7\uace8",
+        "Uttok-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892640
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5ad91744aa5b8cac57e394add99a9b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1343828535,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343828535,
+    "wof:lastmodified":1537658556,
+    "wof:name":"Uttok-kol",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.05696,
+    36.28753,
+    128.05696,
+    36.28753
+],
+  "geometry": {"coordinates":[128.05696,36.28753],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242649247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53333,35.0,126.53333,35.0",
+    "geom:latitude":35.0,
+    "geom:longitude":126.53333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kokch'ang",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842731,
+    "gn:latitude":35.0,
+    "gn:longitude":126.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kokch\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokch\u2019ang-ni",
+        "Kokch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842731
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0db15349396d2ec4326011850836a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1242649247,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242649247,
+    "wof:lastmodified":1537656511,
+    "wof:name":"Kokch'ang",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53333,
+    35.0,
+    126.53333,
+    35.0
+],
+  "geometry": {"coordinates":[126.53333000000001,35.0],"type":"Point"}
+}

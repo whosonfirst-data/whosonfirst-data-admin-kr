@@ -1,0 +1,74 @@
+{
+  "id": 1259897893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63333,35.55,126.63333,35.55",
+    "geom:latitude":35.55,
+    "geom:longitude":126.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sanjong",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837533,
+    "gn:latitude":35.55,
+    "gn:longitude":126.63333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Sanj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\uc815\uc7ac"
+    ],
+    "name:und_x_variant":[
+        "Sanjeongjae",
+        "Sanj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837533
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2daf5a1dc33175197a90bc4379c9321a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1259897893,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1259897893,
+    "wof:lastmodified":1537656241,
+    "wof:name":"Sanjong",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63333,
+    35.55,
+    126.63333,
+    35.55
+],
+  "geometry": {"coordinates":[126.63333,35.55],"type":"Point"}
+}

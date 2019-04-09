@@ -1,0 +1,75 @@
+{
+  "id": 1277046731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43916,37.05878,127.43916,37.05878",
+    "geom:latitude":37.05878,
+    "geom:longitude":127.43916,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ans\u014fng-si",
+    "gn:asciiname":"Dangbuk",
+    "gn:country_code":"KR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6399040,
+    "gn:latitude":37.05878,
+    "gn:longitude":127.43916,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Dangbuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\ubd81"
+    ],
+    "name:und_x_variant":[
+        "Tangbuk",
+        "Dangbuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6399040
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"39ea395bb4d26c785049ec3b4976ea74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1277046731,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1277046731,
+    "wof:lastmodified":1537657206,
+    "wof:name":"Dangbuk",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43916000000002,
+    37.05878,
+    127.43916000000002,
+    37.05878
+],
+  "geometry": {"coordinates":[127.43916000000002,37.05878],"type":"Point"}
+}

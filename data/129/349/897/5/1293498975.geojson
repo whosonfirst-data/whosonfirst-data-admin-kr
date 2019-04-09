@@ -1,0 +1,71 @@
+{
+  "id": 1293498975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40313,35.71417,127.40313,35.71417",
+    "geom:latitude":35.71417,
+    "geom:longitude":127.40313,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kajon",
+    "gn:country_code":"KR",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876353,
+    "gn:latitude":35.71417,
+    "gn:longitude":127.40313,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kaj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uc804",
+        "Kaj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876353
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cd5535750316b6590d389688c46a6d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1293498975,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1293498975,
+    "wof:lastmodified":1537658126,
+    "wof:name":"Kajon",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40313,
+    35.71417,
+    127.40313,
+    35.71417
+],
+  "geometry": {"coordinates":[127.40313,35.71417],"type":"Point"}
+}

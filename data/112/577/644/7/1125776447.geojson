@@ -1,0 +1,81 @@
+{
+  "id": 1125776447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.10863,34.8262,126.10863,34.8262",
+    "geom:latitude":34.8262,
+    "geom:longitude":126.10863,
+    "gn:gn_country":"KR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":53150,
+    "gn:population":53150,
+    "iso:country":"KR",
+    "lbl:latitude":34.8262,
+    "lbl:longitude":126.10863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "\uc2e0\uc548"
+    ],
+    "qs_pg:aaroncc":"KR",
+    "qs_pg:gn_country":"KR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6395804,
+    "qs_pg:gn_pop":53150,
+    "qs_pg:name":"Sinan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1037198,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395804,
+        "qs_pg:id":1037198
+    },
+    "wof:country":"KR",
+    "wof:created":1497290279,
+    "wof:geomhash":"56a755206da9c82fb358824bfa629cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1125776447,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1125776447,
+    "wof:lastmodified":1509391314,
+    "wof:name":"Sinan",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:population":53150,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.10863,
+    34.8262,
+    126.10863,
+    34.8262
+],
+  "geometry": {"coordinates":[126.10863000000001,34.8262],"type":"Point"}
+}

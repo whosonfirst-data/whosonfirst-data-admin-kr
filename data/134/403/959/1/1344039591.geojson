@@ -1,0 +1,73 @@
+{
+  "id": 1344039591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45139,35.05806,126.45139,35.05806",
+    "geom:latitude":35.05806,
+    "geom:longitude":126.45139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Haeul-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844707,
+    "gn:latitude":35.05806,
+    "gn:longitude":126.45139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haeul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haeun-dong",
+        "Haeun-ni",
+        "Haeul-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844707
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"094b3d8202eb6e5b9dc5dd6bbc99f3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1344039591,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1344039591,
+    "wof:lastmodified":1537656612,
+    "wof:name":"Haeul-li",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45139,
+    35.05806,
+    126.45139,
+    35.05806
+],
+  "geometry": {"coordinates":[126.45139,35.05806],"type":"Point"}
+}

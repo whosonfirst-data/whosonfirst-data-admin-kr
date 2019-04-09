@@ -1,0 +1,72 @@
+{
+  "id": 1326916513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02583,37.23417,127.02583,37.23417",
+    "geom:latitude":37.23417,
+    "geom:longitude":127.02583,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sinchon",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575217,
+    "gn:latitude":37.23417,
+    "gn:longitude":127.02583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sinchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\ucd0c",
+        "Sinchon",
+        "Sinch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575217
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a526818fb3397de62d74d3fbd272af8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746527,
+            "locality_id":1326916513,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1326916513,
+    "wof:lastmodified":1537657253,
+    "wof:name":"Sinchon",
+    "wof:parent_id":1108746527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02583,
+    37.23417,
+    127.02583,
+    37.23417
+],
+  "geometry": {"coordinates":[127.02583,37.23417],"type":"Point"}
+}

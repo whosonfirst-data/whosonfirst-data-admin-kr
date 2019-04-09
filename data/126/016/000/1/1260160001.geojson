@@ -1,0 +1,72 @@
+{
+  "id": 1260160001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.54667,37.49306,127.54667,37.49306",
+    "geom:latitude":37.49306,
+    "geom:longitude":127.54667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cheonbyeon",
+    "gn:country_code":"KR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576273,
+    "gn:latitude":37.49306,
+    "gn:longitude":127.54667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Cheonbyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc9c\ubcc0",
+        "Cheonbyeon",
+        "Ch\u2019\u014fnby\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576273
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9d6daadae462e1068962d90473c1d4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1260160001,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260160001,
+    "wof:lastmodified":1537657303,
+    "wof:name":"Cheonbyeon",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.54667,
+    37.49306,
+    127.54667,
+    37.49306
+],
+  "geometry": {"coordinates":[127.54667000000001,37.49306],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293166507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.885,35.15028,126.885,35.15028",
+    "geom:latitude":35.15028,
+    "geom:longitude":126.885,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hwajong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1981395,
+    "gn:latitude":35.15028,
+    "gn:longitude":126.885,
+    "gn:modification_date":"2004-06-10",
+    "gn:name":"Hwaj\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472273,
+        85673219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1981395
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"203ecbd8f765201c6cbbf97041d92ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1293166507,
+            "region_id":85673199
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1293166507,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293166507,
+    "wof:lastmodified":1536752932,
+    "wof:name":"Hwajong-dong",
+    "wof:parent_id":890472273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.885,
+    35.15028,
+    126.885,
+    35.15028
+],
+  "geometry": {"coordinates":[126.88500000000001,35.15028],"type":"Point"}
+}

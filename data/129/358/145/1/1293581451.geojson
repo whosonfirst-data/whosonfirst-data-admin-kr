@@ -1,0 +1,70 @@
+{
+  "id": 1293581451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.87766,37.996,127.87766,37.996",
+    "geom:latitude":37.996,
+    "geom:longitude":127.87766,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soil",
+    "gn:country_code":"KR",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6814065,
+    "gn:latitude":37.996,
+    "gn:longitude":127.87766,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Soil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uc77c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6814065
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f1c4b37e8c5c6d7e95549539e333048d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1293581451,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293581451,
+    "wof:lastmodified":1537658038,
+    "wof:name":"Soil",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.87766,
+    37.996,
+    127.87766,
+    37.996
+],
+  "geometry": {"coordinates":[127.87766000000001,37.996],"type":"Point"}
+}

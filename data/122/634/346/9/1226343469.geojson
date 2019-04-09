@@ -1,0 +1,71 @@
+{
+  "id": 1226343469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20199,35.84779,127.20199,35.84779",
+    "geom:latitude":35.84779,
+    "geom:longitude":127.20199,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kongdok",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877836,
+    "gn:latitude":35.84779,
+    "gn:longitude":127.20199,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kongd\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacf5\ub355",
+        "Kongd\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        1108746469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877836
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d5bc3bf58f5fa51895acf5ebea38ed91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746469,
+            "locality_id":1226343469,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1226343469,
+    "wof:lastmodified":1537658173,
+    "wof:name":"Kongdok",
+    "wof:parent_id":1108746469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20199,
+    35.84779,
+    127.20199,
+    35.84779
+],
+  "geometry": {"coordinates":[127.20199,35.84779],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209388397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32146,35.99845,128.32146,35.99845",
+    "geom:latitude":35.99845,
+    "geom:longitude":128.32146,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Naegak",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962815,
+    "gn:latitude":35.99845,
+    "gn:longitude":128.32146,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Naegak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\uac01"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962815
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1d05ab2835438bc32a44117c5ed08ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209388397
+        }
+    ],
+    "wof:id":1209388397,
+    "wof:lastmodified":1537659097,
+    "wof:name":"Naegak",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32146,
+    35.99845,
+    128.32146,
+    35.99845
+],
+  "geometry": {"coordinates":[128.32146,35.99845],"type":"Point"}
+}

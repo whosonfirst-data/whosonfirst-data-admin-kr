@@ -1,0 +1,65 @@
+{
+  "id": 1209526853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6223,35.86852,127.6223,35.86852",
+    "geom:latitude":35.86852,
+    "geom:longitude":127.6223,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Myolmyo",
+    "gn:country_code":"KR",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896986,
+    "gn:latitude":35.86852,
+    "gn:longitude":127.6223,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"My\u014flmyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba78\ubb18",
+        "My\u014flmyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896986
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"14add3d8d6ee79e9a1de0769c1e11355",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209526853
+        }
+    ],
+    "wof:id":1209526853,
+    "wof:lastmodified":1537658679,
+    "wof:name":"Myolmyo",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6223,
+    35.86852000000001,
+    127.6223,
+    35.86852000000001
+],
+  "geometry": {"coordinates":[127.6223,35.86852000000001],"type":"Point"}
+}

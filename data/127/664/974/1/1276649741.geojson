@@ -1,0 +1,73 @@
+{
+  "id": 1276649741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.46958,37.05713,128.46958,37.05713",
+    "geom:latitude":37.05713,
+    "geom:longitude":128.46958,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bangteo",
+    "gn:country_code":"KR",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795877,
+    "gn:latitude":37.05713,
+    "gn:longitude":128.46958,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Bangteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\ud130"
+    ],
+    "name:kor_x_variant":[
+        "Pangt\u2019\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795877
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2e5e321ab5fddd67bb0e88b9158d9fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1276649741,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1276649741,
+    "wof:lastmodified":1537657540,
+    "wof:name":"Bangteo",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.46958,
+    37.05713,
+    128.46958,
+    37.05713
+],
+  "geometry": {"coordinates":[128.46958000000001,37.05713],"type":"Point"}
+}

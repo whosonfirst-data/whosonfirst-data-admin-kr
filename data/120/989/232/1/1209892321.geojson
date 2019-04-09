@@ -1,0 +1,72 @@
+{
+  "id": 1209892321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21186,36.26141,127.21186,36.26141",
+    "geom:latitude":36.26141,
+    "geom:longitude":127.21186,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Baeul",
+    "gn:country_code":"KR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888530,
+    "gn:latitude":36.26141,
+    "gn:longitude":127.21186,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Baeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc30\uc6b8",
+        "Paeul",
+        "Baeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888530
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"18a09e90c8f787e713a6868a762724bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472515,
+            "locality_id":1209892321,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1209892321,
+    "wof:lastmodified":1537658427,
+    "wof:name":"Baeul",
+    "wof:parent_id":890472515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21186000000002,
+    36.26141,
+    127.21186000000002,
+    36.26141
+],
+  "geometry": {"coordinates":[127.21186000000002,36.26141],"type":"Point"}
+}

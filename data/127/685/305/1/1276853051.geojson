@@ -1,0 +1,75 @@
+{
+  "id": 1276853051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88915,34.93976,126.88915,34.93976",
+    "geom:latitude":34.93976,
+    "geom:longitude":126.88915,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Woncheon-ri",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833224,
+    "gn:latitude":34.93976,
+    "gn:longitude":126.88915,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Woncheon-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ucc9c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "W\u014fnch\u2019\u014fn-ni",
+        "W\u014fnch\u2019\u014fl-li",
+        "Woncheon-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833224
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"59e2a7e94770c8e50548830ae1129f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1276853051,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276853051,
+    "wof:lastmodified":1537656021,
+    "wof:name":"Woncheon-ri",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88915,
+    34.93976,
+    126.88915,
+    34.93976
+],
+  "geometry": {"coordinates":[126.88915,34.93976],"type":"Point"}
+}

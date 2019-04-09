@@ -1,0 +1,71 @@
+{
+  "id": 1310203649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6627,36.2426,127.6627,36.2426",
+    "geom:latitude":36.2426,
+    "geom:longitude":127.6627,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Poltam",
+    "gn:country_code":"KR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6886926,
+    "gn:latitude":36.2426,
+    "gn:longitude":127.6627,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fltam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc8c\ub2f4",
+        "P\u014fltam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6886926
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"56e086c2ba853878043d20cfe131b46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1310203649,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1310203649,
+    "wof:lastmodified":1537658379,
+    "wof:name":"Poltam",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6627,
+    36.2426,
+    127.6627,
+    36.2426
+],
+  "geometry": {"coordinates":[127.6627,36.2426],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243437659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8,35.9,128.8,35.9",
+    "geom:latitude":35.9,
+    "geom:longitude":128.8,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hosan-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844156,
+    "gn:latitude":35.9,
+    "gn:longitude":128.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hosan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosan-d\u014d",
+        "Hosan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844156
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b62e12da73e0b9e8fc62691cb25a584a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1243437659,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243437659,
+    "wof:lastmodified":1537656580,
+    "wof:name":"Hosan-dong",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8,
+    35.9,
+    128.8,
+    35.9
+],
+  "geometry": {"coordinates":[128.80000000000001,35.9],"type":"Point"}
+}

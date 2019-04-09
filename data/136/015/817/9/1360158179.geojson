@@ -1,0 +1,74 @@
+{
+  "id": 1360158179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.35202,35.85553,128.35202,35.85553",
+    "geom:latitude":35.85553,
+    "geom:longitude":128.35202,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Giseongni",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842892,
+    "gn:latitude":35.85553,
+    "gn:longitude":128.35202,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Giseongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisal-li",
+        "Kisong-dong",
+        "\uae30\uc131\ub9ac",
+        "Kis\u014fng-ni",
+        "Giseongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842892
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ac3752e8540e20f0a2d7546bca3a142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473191,
+            "locality_id":1360158179,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1360158179,
+    "wof:lastmodified":1537656520,
+    "wof:name":"Giseongni",
+    "wof:parent_id":890473191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.35201999999998,
+    35.85553,
+    128.35201999999998,
+    35.85553
+],
+  "geometry": {"coordinates":[128.35201999999998,35.85553],"type":"Point"}
+}

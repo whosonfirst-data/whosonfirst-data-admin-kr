@@ -1,0 +1,64 @@
+{
+  "id": 1209207919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.11928,36.98302,128.11928,36.98302",
+    "geom:latitude":36.98302,
+    "geom:longitude":128.11928,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hayonggok",
+    "gn:country_code":"KR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9193380,
+    "gn:latitude":36.98302,
+    "gn:longitude":128.11928,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Hayonggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc6a9\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9193380
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ec6fe85b74e0ed46177fb2c0575c950c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209207919
+        }
+    ],
+    "wof:id":1209207919,
+    "wof:lastmodified":1537658929,
+    "wof:name":"Hayonggok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.11928,
+    36.98302,
+    128.11928,
+    36.98302
+],
+  "geometry": {"coordinates":[128.11928,36.98302],"type":"Point"}
+}

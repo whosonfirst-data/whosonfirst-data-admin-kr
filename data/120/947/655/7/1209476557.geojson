@@ -1,0 +1,66 @@
+{
+  "id": 1209476557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.99056,35.27556,127.99056,35.27556",
+    "geom:latitude":35.27556,
+    "geom:longitude":127.99056,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Oeryu",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894362,
+    "gn:latitude":35.27556,
+    "gn:longitude":127.99056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oeryu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oeyul-li",
+        "Oeryu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894362
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ab78a20a9618b6f5ec1b3ebc39978908",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209476557
+        }
+    ],
+    "wof:id":1209476557,
+    "wof:lastmodified":1537656853,
+    "wof:name":"Oeryu",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.99056000000002,
+    35.27556,
+    127.99056000000002,
+    35.27556
+],
+  "geometry": {"coordinates":[127.99056000000002,35.27556],"type":"Point"}
+}

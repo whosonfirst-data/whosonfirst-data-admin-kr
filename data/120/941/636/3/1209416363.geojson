@@ -1,0 +1,65 @@
+{
+  "id": 1209416363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31946,35.63545,127.31946,35.63545",
+    "geom:latitude":35.63545,
+    "geom:longitude":127.31946,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hu-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876494,
+    "gn:latitude":35.63545,
+    "gn:longitude":127.31946,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hu-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud6c4\ucd0c",
+        "Hu-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876494
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"44c17c42797f0bbe42dcfd3c559a104b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209416363
+        }
+    ],
+    "wof:id":1209416363,
+    "wof:lastmodified":1537658133,
+    "wof:name":"Hu-ch'on",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31946,
+    35.63545,
+    127.31946,
+    35.63545
+],
+  "geometry": {"coordinates":[127.31946000000001,35.63545],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309785493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.40569,37.80516,126.40569,37.80516",
+    "geom:latitude":37.80516,
+    "geom:longitude":126.40569,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Eunggok",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948875,
+    "gn:latitude":37.80516,
+    "gn:longitude":126.40569,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Eunggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc751\uace1"
+    ],
+    "name:kor_x_variant":[
+        "\u016cnggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948875
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ba3deb11da75b65d78dd5640d507e2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1309785493,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1309785493,
+    "wof:lastmodified":1537656966,
+    "wof:name":"Eunggok",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.40569,
+    37.80516,
+    126.40569,
+    37.80516
+],
+  "geometry": {"coordinates":[126.40569000000001,37.80516],"type":"Point"}
+}

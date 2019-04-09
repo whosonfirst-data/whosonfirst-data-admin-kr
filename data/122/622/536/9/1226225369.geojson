@@ -1,0 +1,70 @@
+{
+  "id": 1226225369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13138,36.653,128.13138,36.653",
+    "geom:latitude":36.653,
+    "geom:longitude":128.13138,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wonseong",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10451583,
+    "gn:latitude":36.653,
+    "gn:longitude":128.13138,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Wonseong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uc131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10451583
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"491479b49618f0588cec4ea299f97397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1226225369,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226225369,
+    "wof:lastmodified":1537659061,
+    "wof:name":"Wonseong",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13138,
+    36.653,
+    128.13138,
+    36.653
+],
+  "geometry": {"coordinates":[128.13138000000001,36.653],"type":"Point"}
+}

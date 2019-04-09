@@ -1,0 +1,75 @@
+{
+  "id": 1343783767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.17708,38.04286,128.17708,38.04286",
+    "geom:latitude":38.04286,
+    "geom:longitude":128.17708,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Geumbari",
+    "gn:country_code":"KR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842322,
+    "gn:latitude":38.04286,
+    "gn:longitude":128.17708,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Geumbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\ubc14\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "K\u014fmbal-li",
+        "K\u016dmba-ri",
+        "Geumbari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842322
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b23c980c1c624cc4baaf90167db255e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1343783767,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343783767,
+    "wof:lastmodified":1537656490,
+    "wof:name":"Geumbari",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.17708000000002,
+    38.04286,
+    128.17708000000002,
+    38.04286
+],
+  "geometry": {"coordinates":[128.17708000000002,38.04286],"type":"Point"}
+}

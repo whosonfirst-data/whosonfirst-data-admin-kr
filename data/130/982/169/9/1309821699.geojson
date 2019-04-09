@@ -1,0 +1,67 @@
+{
+  "id": 1309821699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63333,35.35,126.63333,35.35",
+    "geom:latitude":35.35,
+    "geom:longitude":126.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Musong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840806,
+    "gn:latitude":35.35,
+    "gn:longitude":126.63333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Musong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840806
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"869e536de5f312b4bbc2e3888afec81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1309821699,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1309821699,
+    "wof:lastmodified":1536908467,
+    "wof:name":"Musong-ni",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63333,
+    35.35,
+    126.63333,
+    35.35
+],
+  "geometry": {"coordinates":[126.63333,35.35],"type":"Point"}
+}

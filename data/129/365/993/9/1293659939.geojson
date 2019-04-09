@@ -1,0 +1,74 @@
+{
+  "id": 1293659939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.78327,37.0591,128.78327,37.0591",
+    "geom:latitude":37.0591,
+    "geom:longitude":128.78327,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gogi",
+    "gn:country_code":"KR",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794569,
+    "gn:latitude":37.0591,
+    "gn:longitude":128.78327,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Gogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\uae30"
+    ],
+    "name:und_x_variant":[
+        "Kogi",
+        "Gogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794569
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a3278376538371ba106e941be1e27510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1293659939,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293659939,
+    "wof:lastmodified":1537657500,
+    "wof:name":"Gogi",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.78327,
+    37.0591,
+    128.78327,
+    37.0591
+],
+  "geometry": {"coordinates":[128.78326999999999,37.0591],"type":"Point"}
+}

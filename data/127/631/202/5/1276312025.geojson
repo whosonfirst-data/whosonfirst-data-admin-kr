@@ -1,0 +1,72 @@
+{
+  "id": 1276312025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98417,37.3625,126.98417,37.3625",
+    "geom:latitude":37.3625,
+    "geom:longitude":126.98417,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seongnajaro-maeul",
+    "gn:country_code":"KR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573904,
+    "gn:latitude":37.3625,
+    "gn:longitude":126.98417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Seongnajaro-maeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc131\ub098\uc790\ub85c\ub9c8\uc744",
+        "Seongnajaro-maeul",
+        "S\u014fngnajaro-ma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573904
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7cb506113d3db3dca94a005af346e667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474637,
+            "locality_id":1276312025,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276312025,
+    "wof:lastmodified":1537657249,
+    "wof:name":"Seongnajaro-maeul",
+    "wof:parent_id":890474637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98417,
+    37.3625,
+    126.98417,
+    37.3625
+],
+  "geometry": {"coordinates":[126.98417000000001,37.3625],"type":"Point"}
+}

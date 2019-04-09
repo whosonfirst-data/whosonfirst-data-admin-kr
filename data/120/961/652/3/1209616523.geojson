@@ -1,0 +1,65 @@
+{
+  "id": 1209616523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36621,35.72883,127.36621,35.72883",
+    "geom:latitude":35.72883,
+    "geom:longitude":127.36621,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sokkyo",
+    "gn:country_code":"KR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876324,
+    "gn:latitude":35.72883,
+    "gn:longitude":127.36621,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fkkyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11d\uad50",
+        "S\u014fkkyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876324
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1e5f66e3c11767987396dc485c6a7fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209616523
+        }
+    ],
+    "wof:id":1209616523,
+    "wof:lastmodified":1537658125,
+    "wof:name":"Sokkyo",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36621,
+    35.72883,
+    127.36621,
+    35.72883
+],
+  "geometry": {"coordinates":[127.36621,35.72883],"type":"Point"}
+}

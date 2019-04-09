@@ -1,0 +1,70 @@
+{
+  "id": 1226224227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6434,35.16516,126.6434,35.16516",
+    "geom:latitude":35.16516,
+    "geom:longitude":126.6434,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Deongnyeong",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171026,
+    "gn:latitude":35.16516,
+    "gn:longitude":126.6434,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Deongnyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ub839"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171026
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"265c3a19ebbaa1f3a59affc016a6486e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1226224227,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226224227,
+    "wof:lastmodified":1537659197,
+    "wof:name":"Deongnyeong",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6434,
+    35.16516,
+    126.6434,
+    35.16516
+],
+  "geometry": {"coordinates":[126.6434,35.16516],"type":"Point"}
+}

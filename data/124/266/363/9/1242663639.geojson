@@ -1,0 +1,74 @@
+{
+  "id": 1242663639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2211,37.5418,127.2211,37.5418",
+    "geom:latitude":37.5418,
+    "geom:longitude":127.2211,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Deougae",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802903,
+    "gn:latitude":37.5418,
+    "gn:longitude":127.2211,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Deougae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub354\uc6b0\uac1c"
+    ],
+    "name:und_x_variant":[
+        "\ub354\uc6b0\uac1c",
+        "Deougae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802903
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0016759547aff3975b667f338c1938b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1242663639,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242663639,
+    "wof:lastmodified":1537657760,
+    "wof:name":"Deougae",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2211,
+    37.5418,
+    127.2211,
+    37.5418
+],
+  "geometry": {"coordinates":[127.22110000000001,37.5418],"type":"Point"}
+}

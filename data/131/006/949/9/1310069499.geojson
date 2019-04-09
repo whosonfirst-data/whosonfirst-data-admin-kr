@@ -1,0 +1,74 @@
+{
+  "id": 1310069499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82551,34.40589,126.82551,34.40589",
+    "geom:latitude":34.40589,
+    "geom:longitude":126.82551,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seonjang",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395046,
+    "gn:latitude":34.40589,
+    "gn:longitude":126.82551,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Seonjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc120\uc7a5"
+    ],
+    "name:und_x_variant":[
+        "Sinjang",
+        "Seonjang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395046
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"899c1bc6e8a8f0878868ff4865d7719a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1310069499,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310069499,
+    "wof:lastmodified":1537657150,
+    "wof:name":"Seonjang",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82551,
+    34.40589,
+    126.82551,
+    34.40589
+],
+  "geometry": {"coordinates":[126.82550999999999,34.40589],"type":"Point"}
+}

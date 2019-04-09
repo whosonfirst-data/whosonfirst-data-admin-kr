@@ -1,0 +1,75 @@
+{
+  "id": 1360080105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.75613,37.80015,127.75613,37.80015",
+    "geom:latitude":37.80015,
+    "geom:longitude":127.75613,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bongui",
+    "gn:country_code":"KR",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802226,
+    "gn:latitude":37.80015,
+    "gn:longitude":127.75613,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Bongui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\uc6b0\uc774"
+    ],
+    "name:und_x_variant":[
+        "\ubd09\uc704",
+        "Pongwi",
+        "Bongui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802226
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9f2ad602d1bf89aa4ba42753b6b8823f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1360080105,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360080105,
+    "wof:lastmodified":1537657736,
+    "wof:name":"Bongui",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.75613,
+    37.80015,
+    127.75613,
+    37.80015
+],
+  "geometry": {"coordinates":[127.75613,37.80015],"type":"Point"}
+}

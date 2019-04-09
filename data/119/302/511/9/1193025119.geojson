@@ -1,0 +1,68 @@
+{
+  "id": 1193025119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.24306,33.23361,126.24306,33.23361",
+    "geom:latitude":33.23361,
+    "geom:longitude":126.24306,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Namjeju-gun",
+    "gn:asciiname":"Tongil-li",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834246,
+    "gn:latitude":33.23361,
+    "gn:longitude":126.24306,
+    "gn:modification_date":"2006-02-23",
+    "gn:name":"Tongil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890474633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834246
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c829c1901530aa35c1ae08243329ffb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474633,
+            "locality_id":1193025119,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1193025119,
+    "wof:lastmodified":1536368805,
+    "wof:name":"Tongil-li",
+    "wof:parent_id":890474633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.24306,
+    33.23361,
+    126.24306,
+    33.23361
+],
+  "geometry": {"coordinates":[126.24306,33.23361],"type":"Point"}
+}

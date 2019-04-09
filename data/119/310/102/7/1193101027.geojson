@@ -1,0 +1,70 @@
+{
+  "id": 1193101027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51778,34.56472,126.51778,34.56472",
+    "geom:latitude":34.56472,
+    "geom:longitude":126.51778,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Paem-gol",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6396081,
+    "gn:latitude":34.56472,
+    "gn:longitude":126.51778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paem-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc40\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6396081
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"efd325b59b364caffbaedda97314aa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1193101027,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193101027,
+    "wof:lastmodified":1537657173,
+    "wof:name":"Paem-gol",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51778,
+    34.56472,
+    126.51778,
+    34.56472
+],
+  "geometry": {"coordinates":[126.51778,34.56472],"type":"Point"}
+}

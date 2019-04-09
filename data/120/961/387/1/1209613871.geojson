@@ -1,0 +1,64 @@
+{
+  "id": 1209613871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40038,36.50542,127.40038,36.50542",
+    "geom:latitude":36.50542,
+    "geom:longitude":127.40038,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deunggol",
+    "gn:country_code":"KR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10816262,
+    "gn:latitude":36.50542,
+    "gn:longitude":127.40038,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Deunggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub4f1\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10816262
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f3e8af8d0f17987e9e8414426eb9ffdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209613871
+        }
+    ],
+    "wof:id":1209613871,
+    "wof:lastmodified":1537659072,
+    "wof:name":"Deunggol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40038,
+    36.50542,
+    127.40038,
+    36.50542
+],
+  "geometry": {"coordinates":[127.40038,36.50542],"type":"Point"}
+}

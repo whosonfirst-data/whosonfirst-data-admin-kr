@@ -1,0 +1,77 @@
+{
+  "id": 1343455979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.86697,37.78636,127.86697,37.78636",
+    "geom:latitude":37.78636,
+    "geom:longitude":127.86697,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sagokmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6814178,
+    "gn:latitude":37.78636,
+    "gn:longitude":127.86697,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Sagokmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uace1"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\uace1\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Sagok",
+        "Sagokmaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6814178
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1b6fa7bc66ecb835114faa873c1b68c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1343455979,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343455979,
+    "wof:lastmodified":1537658043,
+    "wof:name":"Sagokmaeul",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.86697,
+    37.78636,
+    127.86697,
+    37.78636
+],
+  "geometry": {"coordinates":[127.86696999999999,37.78636],"type":"Point"}
+}

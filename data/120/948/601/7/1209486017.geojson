@@ -1,0 +1,64 @@
+{
+  "id": 1209486017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.91258,36.93288,128.91258,36.93288",
+    "geom:latitude":36.93288,
+    "geom:longitude":128.91258,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Namsanpyeon",
+    "gn:country_code":"KR",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9080580,
+    "gn:latitude":36.93288,
+    "gn:longitude":128.91258,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Namsanpyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc0b0\ud3b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9080580
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b7f3ac25364777aef6c04831b90c9aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209486017
+        }
+    ],
+    "wof:id":1209486017,
+    "wof:lastmodified":1537658914,
+    "wof:name":"Namsanpyeon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.91258,
+    36.93288,
+    128.91258,
+    36.93288
+],
+  "geometry": {"coordinates":[128.91257999999999,36.93288],"type":"Point"}
+}

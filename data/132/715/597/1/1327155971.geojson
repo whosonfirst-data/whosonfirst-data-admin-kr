@@ -1,0 +1,75 @@
+{
+  "id": 1327155971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7685,37.6577,127.7685,37.6577",
+    "geom:latitude":37.6577,
+    "geom:longitude":127.7685,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saek-kol",
+    "gn:country_code":"KR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838235,
+    "gn:latitude":37.6577,
+    "gn:longitude":127.7685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saek-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0db\uace8"
+    ],
+    "name:und_x_variant":[
+        "Kan\u2019go-ri",
+        "Kan\u2019gong-ni",
+        "Saek-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838235
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cb05c03d88b115dc47202b3c69e0f7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1327155971,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327155971,
+    "wof:lastmodified":1537656281,
+    "wof:name":"Saek-kol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7685,
+    37.6577,
+    127.7685,
+    37.6577
+],
+  "geometry": {"coordinates":[127.7685,37.6577],"type":"Point"}
+}

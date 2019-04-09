@@ -1,0 +1,75 @@
+{
+  "id": 1310563275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3138,36.36774,127.3138,36.36774",
+    "geom:latitude":36.36774,
+    "geom:longitude":127.3138,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Domajae",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888625,
+    "gn:latitude":36.36774,
+    "gn:longitude":127.3138,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Domajae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ub9c8\uc7ac"
+    ],
+    "name:und_x_variant":[
+        "\ub3c4\ubbf8\uc7ac",
+        "Tomijae",
+        "Domajae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        890474599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888625
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6a1144ad688a4da4ad39ec995450f8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474599,
+            "locality_id":1310563275,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1310563275,
+    "wof:lastmodified":1537658432,
+    "wof:name":"Domajae",
+    "wof:parent_id":890474599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3138,
+    36.36774000000001,
+    127.3138,
+    36.36774000000001
+],
+  "geometry": {"coordinates":[127.3138,36.36774000000001],"type":"Point"}
+}

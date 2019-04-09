@@ -1,0 +1,73 @@
+{
+  "id": 1209729221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3952,33.42364,126.3952,33.42364",
+    "geom:latitude":33.42364,
+    "geom:longitude":126.3952,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gaecheokdanji",
+    "gn:country_code":"KR",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194212,
+    "gn:latitude":33.42364,
+    "gn:longitude":126.3952,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Gaecheokdanji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\ucc99\ub2e8\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "Kaech\u2019\u014fk-tanji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194212
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ba81455ab02db5e3f8d8aad3be41389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1209729221,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1209729221,
+    "wof:lastmodified":1537657004,
+    "wof:name":"Gaecheokdanji",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3952,
+    33.42364,
+    126.3952,
+    33.42364
+],
+  "geometry": {"coordinates":[126.3952,33.42364],"type":"Point"}
+}

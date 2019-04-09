@@ -1,0 +1,70 @@
+{
+  "id": 1293009789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42161,33.46705,126.42161,33.46705",
+    "geom:latitude":33.46705,
+    "geom:longitude":126.42161,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sindong",
+    "gn:country_code":"KR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194283,
+    "gn:latitude":33.46705,
+    "gn:longitude":126.42161,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Sindong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194283
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2e63f0471057baabaad44e9e7b61d9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1293009789,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1293009789,
+    "wof:lastmodified":1537657006,
+    "wof:name":"Sindong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42161000000002,
+    33.46705,
+    126.42161000000002,
+    33.46705
+],
+  "geometry": {"coordinates":[126.42161000000002,33.46705],"type":"Point"}
+}

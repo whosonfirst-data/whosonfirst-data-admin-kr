@@ -1,0 +1,74 @@
+{
+  "id": 1276833443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.18405,34.78038,127.18405,34.78038",
+    "geom:latitude":34.78038,
+    "geom:longitude":127.18405,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hapacheong",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839581,
+    "gn:latitude":34.78038,
+    "gn:longitude":127.18405,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Hapacheong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud30c\uc815"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019ach\u2019\u014fng",
+        "\ud558\ud30c\uccad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839581
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1326d755c2eb94671ae413b6ce0acdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1276833443,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276833443,
+    "wof:lastmodified":1537656353,
+    "wof:name":"Hapacheong",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.18405,
+    34.78038,
+    127.18405,
+    34.78038
+],
+  "geometry": {"coordinates":[127.18405,34.78038],"type":"Point"}
+}

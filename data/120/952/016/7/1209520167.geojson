@@ -1,0 +1,64 @@
+{
+  "id": 1209520167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.75664,36.76591,127.75664,36.76591",
+    "geom:latitude":36.76591,
+    "geom:longitude":127.75664,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Geonneomal",
+    "gn:country_code":"KR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10370530,
+    "gn:latitude":36.76591,
+    "gn:longitude":127.75664,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Geonneomal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac74\ub108\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370530
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64db9feaf62cd496c9e560c07b4abf9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209520167
+        }
+    ],
+    "wof:id":1209520167,
+    "wof:lastmodified":1537659048,
+    "wof:name":"Geonneomal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.75664,
+    36.76591,
+    127.75664,
+    36.76591
+],
+  "geometry": {"coordinates":[127.75664,36.76591],"type":"Point"}
+}

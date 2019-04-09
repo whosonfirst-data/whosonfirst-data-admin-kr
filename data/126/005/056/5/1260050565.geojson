@@ -1,0 +1,70 @@
+{
+  "id": 1260050565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.41873,36.08979,129.41873,36.08979",
+    "geom:latitude":36.08979,
+    "geom:longitude":129.41873,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jieulli",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11248803,
+    "gn:latitude":36.08979,
+    "gn:longitude":129.41873,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Jieulli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\uc744\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11248803
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"27683c91be139a203fde6fe932836923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1260050565,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260050565,
+    "wof:lastmodified":1537659252,
+    "wof:name":"Jieulli",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.41873,
+    36.08979,
+    129.41873,
+    36.08979
+],
+  "geometry": {"coordinates":[129.41873000000001,36.08979],"type":"Point"}
+}

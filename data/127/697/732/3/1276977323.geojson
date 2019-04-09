@@ -1,0 +1,70 @@
+{
+  "id": 1276977323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.09279,37.80527,128.09279,37.80527",
+    "geom:latitude":37.80527,
+    "geom:longitude":128.09279,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Motungi",
+    "gn:country_code":"KR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8995088,
+    "gn:latitude":37.80527,
+    "gn:longitude":128.09279,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Motungi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\ud241\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8995088
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a257247fb75c051f8f4d016f58d0882d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1276977323,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276977323,
+    "wof:lastmodified":1537658913,
+    "wof:name":"Motungi",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.09278999999998,
+    37.80527,
+    128.09278999999998,
+    37.80527
+],
+  "geometry": {"coordinates":[128.09278999999998,37.80527],"type":"Point"}
+}

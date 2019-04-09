@@ -1,0 +1,73 @@
+{
+  "id": 1360255773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.077,36.0862,128.077,36.0862",
+    "geom:latitude":36.0862,
+    "geom:longitude":128.077,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hwanggak",
+    "gn:country_code":"KR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843948,
+    "gn:latitude":36.0862,
+    "gn:longitude":128.077,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hwanggak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanggak-tong",
+        "Hwanggak",
+        "\ud669\uac01",
+        "Hwanggak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843948
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6388b643c802e27340ed02ea06eff4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1360255773,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1360255773,
+    "wof:lastmodified":1537656571,
+    "wof:name":"Hwanggak",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.077,
+    36.0862,
+    128.077,
+    36.0862
+],
+  "geometry": {"coordinates":[128.077,36.0862],"type":"Point"}
+}

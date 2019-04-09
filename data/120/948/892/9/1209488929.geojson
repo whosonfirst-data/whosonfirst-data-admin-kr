@@ -1,0 +1,69 @@
+{
+  "id": 1209488929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32137,35.88099,128.32137,35.88099",
+    "geom:latitude":35.88099,
+    "geom:longitude":128.32137,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gulbadae",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900569,
+    "gn:latitude":35.88099,
+    "gn:longitude":128.32137,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Gulbadae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad74\ubc14\ub300"
+    ],
+    "name:und_x_variant":[
+        "\uae00\ubc14\ub300",
+        "K\u016dlbadae",
+        "Gulbadae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900569
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"252e1e3960afd290c55e8e08baa98f89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209488929
+        }
+    ],
+    "wof:id":1209488929,
+    "wof:lastmodified":1537658766,
+    "wof:name":"Gulbadae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32137,
+    35.88099000000001,
+    128.32137,
+    35.88099000000001
+],
+  "geometry": {"coordinates":[128.32137,35.88099000000001],"type":"Point"}
+}

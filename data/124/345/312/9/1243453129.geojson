@@ -1,0 +1,75 @@
+{
+  "id": 1243453129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.45793,37.02963,128.45793,37.02963",
+    "geom:latitude":37.02963,
+    "geom:longitude":128.45793,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yongsodong",
+    "gn:country_code":"KR",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832284,
+    "gn:latitude":37.02963,
+    "gn:longitude":128.45793,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Yongsodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc18c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Yongso-ma\u016dl",
+        "Yongso-dong",
+        "Yongsodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832284
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"14fbc1b86a715b7b1adf2b078175a8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1243453129,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243453129,
+    "wof:lastmodified":1537655970,
+    "wof:name":"Yongsodong",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.45793,
+    37.02963,
+    128.45793,
+    37.02963
+],
+  "geometry": {"coordinates":[128.45793,37.02963],"type":"Point"}
+}

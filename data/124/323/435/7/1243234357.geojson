@@ -1,0 +1,70 @@
+{
+  "id": 1243234357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.75589,36.51738,128.75589,36.51738",
+    "geom:latitude":36.51738,
+    "geom:longitude":128.75589,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jirigol",
+    "gn:country_code":"KR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11273569,
+    "gn:latitude":36.51738,
+    "gn:longitude":128.75589,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Jirigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ub9ac\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11273569
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9aecef672568d713e3370e385dcc555c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1243234357,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243234357,
+    "wof:lastmodified":1537659320,
+    "wof:name":"Jirigol",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.75589,
+    36.51738,
+    128.75589,
+    36.51738
+],
+  "geometry": {"coordinates":[128.75588999999999,36.51738],"type":"Point"}
+}

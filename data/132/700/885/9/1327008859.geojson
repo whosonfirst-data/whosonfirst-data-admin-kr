@@ -1,0 +1,77 @@
+{
+  "id": 1327008859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.376,37.646,127.376,37.646",
+    "geom:latitude":37.646,
+    "geom:longitude":127.376,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Oesuip",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839942,
+    "gn:latitude":37.646,
+    "gn:longitude":127.376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oesuip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\uc218\uc785"
+    ],
+    "name:und_x_variant":[
+        "Oemud\u016dri",
+        "Oemusu-ri",
+        "Oesuim-ni",
+        "\uc678\uc218\uc785",
+        "Oesuip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839942
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ba5e8592d945037761226e1e162c7b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1327008859,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327008859,
+    "wof:lastmodified":1537656370,
+    "wof:name":"Oesuip",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.376,
+    37.646,
+    127.376,
+    37.646
+],
+  "geometry": {"coordinates":[127.376,37.646],"type":"Point"}
+}

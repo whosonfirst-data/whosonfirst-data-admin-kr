@@ -1,0 +1,67 @@
+{
+  "id": 890473187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.71667,34.75,127.71667,34.75",
+    "geom:latitude":34.75,
+    "geom:longitude":127.71667,
+    "gn:country":"KR",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Yeosu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":980,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832149,
+        "qs:id":351230,
+        "wd:id":"Q42125",
+        "wk:page":"Yeosu"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053942,
+    "wof:geomhash":"57f3631e94e7c0f2230fda028d03a254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "localadmin_id":890473187,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":890473187,
+    "wof:lastmodified":1527792833,
+    "wof:name":"Yeosu",
+    "wof:parent_id":890473219,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.71667,
+    34.75,
+    127.71667,
+    34.75
+],
+  "geometry": {"coordinates":[127.71666999999999,34.75],"type":"Point"}
+}

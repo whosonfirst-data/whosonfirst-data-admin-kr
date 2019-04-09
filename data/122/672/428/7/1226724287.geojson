@@ -1,0 +1,71 @@
+{
+  "id": 1226724287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42388,34.77057,128.42388,34.77057",
+    "geom:latitude":34.77057,
+    "geom:longitude":128.42388,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mulgae",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6897700,
+    "gn:latitude":34.77057,
+    "gn:longitude":128.42388,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mulgae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb3c\uac1c",
+        "Mulgae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6897700
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0d7998559ee7a1ee78693ff2719ed0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474581,
+            "locality_id":1226724287,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226724287,
+    "wof:lastmodified":1537658701,
+    "wof:name":"Mulgae",
+    "wof:parent_id":890474581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42388,
+    34.77057,
+    128.42388,
+    34.77057
+],
+  "geometry": {"coordinates":[128.42388,34.77057],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209285647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.405,37.26139,127.405,37.26139",
+    "geom:latitude":37.26139,
+    "geom:longitude":127.405,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577452,
+    "gn:latitude":37.26139,
+    "gn:longitude":127.405,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubaa9\ub9ac",
+        "Mok-ri",
+        "Mong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577452
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4112f0adef7420cbc00b02c91f7a7ed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209285647
+        }
+    ],
+    "wof:id":1209285647,
+    "wof:lastmodified":1537657366,
+    "wof:name":"Mong-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.405,
+    37.26139000000001,
+    127.405,
+    37.26139000000001
+],
+  "geometry": {"coordinates":[127.405,37.26139000000001],"type":"Point"}
+}

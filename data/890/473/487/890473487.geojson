@@ -1,0 +1,79 @@
+{
+  "id": 890473487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71556,34.68278,126.71556,34.68278",
+    "geom:latitude":34.68278,
+    "geom:longitude":126.71556,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0ad\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "Nang-dong"
+    ],
+    "qs:name":"\uc911\uc559\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uad11\uc8fc",
+    "qs:photos":91,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":91,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85673219,
+        85632231,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6397486,
+        "gp:id":28995186,
+        "qs:id":358886
+    },
+    "wof:country":"KR",
+    "wof:created":1469053954,
+    "wof:geomhash":"78a2ba176002b5b54e78d12fc2f48336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "neighbourhood_id":890473487,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":890473487,
+    "wof:lastmodified":1505343717,
+    "wof:name":"\uc911\uc559\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71556,
+    34.68278,
+    126.71556,
+    34.68278
+],
+  "geometry": {"coordinates":[126.71556,34.68278],"type":"Point"}
+}

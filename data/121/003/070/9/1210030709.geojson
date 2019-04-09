@@ -1,0 +1,72 @@
+{
+  "id": 1210030709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96667,35.98333,126.96667,35.98333",
+    "geom:latitude":35.98333,
+    "geom:longitude":126.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oehwa",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839991,
+    "gn:latitude":35.98333,
+    "gn:longitude":126.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oehwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oehwa-ri",
+        "Oehwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890476057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839991
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"84f8692d8d83d7db11857c64442bede7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476057,
+            "locality_id":1210030709,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1210030709,
+    "wof:lastmodified":1537656372,
+    "wof:name":"Oehwa",
+    "wof:parent_id":890476057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96667,
+    35.98333,
+    126.96667,
+    35.98333
+],
+  "geometry": {"coordinates":[126.96666999999999,35.98333],"type":"Point"}
+}

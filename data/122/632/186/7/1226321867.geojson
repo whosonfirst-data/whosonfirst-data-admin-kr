@@ -1,0 +1,73 @@
+{
+  "id": 1226321867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82083,37.6075,126.82083,37.6075",
+    "geom:latitude":37.6075,
+    "geom:longitude":126.82083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kyolsok",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363695,
+    "gn:latitude":37.6075,
+    "gn:longitude":126.82083,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ky\u014fls\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacb0\uc11d"
+    ],
+    "name:kor_x_variant":[
+        "Ky\u014fls\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363695
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8503e3a5bc0e64bc0898a31638282ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746463,
+            "locality_id":1226321867,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226321867,
+    "wof:lastmodified":1537657050,
+    "wof:name":"Kyolsok",
+    "wof:parent_id":1108746463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82083,
+    37.6075,
+    126.82083,
+    37.6075
+],
+  "geometry": {"coordinates":[126.82083,37.6075],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310015023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65116,33.27069,126.65116,33.27069",
+    "geom:latitude":33.27069,
+    "geom:longitude":126.65116,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Namjeju-gun",
+    "gn:asciiname":"Seoseongdong",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194148,
+    "gn:latitude":33.27069,
+    "gn:longitude":126.65116,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Seoseongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc131\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "S\u014fs\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890474633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194148
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ef8293c8e124906e3816b5ad2e2d8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474633,
+            "locality_id":1310015023,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1310015023,
+    "wof:lastmodified":1537657004,
+    "wof:name":"Seoseongdong",
+    "wof:parent_id":890474633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65116,
+    33.27069,
+    126.65116,
+    33.27069
+],
+  "geometry": {"coordinates":[126.65116,33.27069],"type":"Point"}
+}

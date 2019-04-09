@@ -1,0 +1,73 @@
+{
+  "id": 1193014677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.84962,37.06353,127.84962,37.06353",
+    "geom:latitude":37.06353,
+    "geom:longitude":127.84962,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wongol",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891071,
+    "gn:latitude":37.06353,
+    "gn:longitude":127.84962,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Wongol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uace8"
+    ],
+    "name:kor_x_variant":[
+        "W\u014fn-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891071
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"09ebcc67f75cd36dc8c96107cdd83b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1193014677,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1193014677,
+    "wof:lastmodified":1537656828,
+    "wof:name":"Wongol",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.84962,
+    37.06353,
+    127.84962,
+    37.06353
+],
+  "geometry": {"coordinates":[127.84962,37.06353],"type":"Point"}
+}

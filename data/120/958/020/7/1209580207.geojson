@@ -1,0 +1,65 @@
+{
+  "id": 1209580207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30735,35.292,128.30735,35.292",
+    "geom:latitude":35.292,
+    "geom:longitude":128.30735,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Uibongnae",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898534,
+    "gn:latitude":35.292,
+    "gn:longitude":128.30735,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u016cibongnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc758\ubd09\ub0b4",
+        "\u016cibongnae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898534
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a5ca211268c74bdaee05089297c210a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209580207
+        }
+    ],
+    "wof:id":1209580207,
+    "wof:lastmodified":1537658722,
+    "wof:name":"Uibongnae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30735,
+    35.292,
+    128.30735,
+    35.292
+],
+  "geometry": {"coordinates":[128.30735000000001,35.292],"type":"Point"}
+}

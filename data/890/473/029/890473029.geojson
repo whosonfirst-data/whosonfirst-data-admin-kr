@@ -1,0 +1,79 @@
+{
+  "id": 890473029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75,36.66667,126.75,36.66667",
+    "geom:latitude":36.66667,
+    "geom:longitude":126.75,
+    "gn:country":"KR",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yesan-gun"
+    ],
+    "name:kor_x_preferred":[
+        "\uc608\uc0b0\uad70"
+    ],
+    "name:kor_x_variant":[
+        "\uc608\uc0b0"
+    ],
+    "name:unk_x_variant":[
+        "Yesan"
+    ],
+    "qs:name":"Yesan-gun",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832770,
+        "qs:id":276630,
+        "wd:id":"Q50307",
+        "wk:page":"Yesan County"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053936,
+    "wof:geomhash":"eeb58ccfb2a537b8b6be62862ff873b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "localadmin_id":890473029,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":890473029,
+    "wof:lastmodified":1527792834,
+    "wof:name":"Yesan-gun",
+    "wof:parent_id":890474695,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75,
+    36.66667,
+    126.75,
+    36.66667
+],
+  "geometry": {"coordinates":[126.75,36.66667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209076771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.53927,36.72363,128.53927,36.72363",
+    "geom:latitude":36.72363,
+    "geom:longitude":128.53927,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sangyeomak",
+    "gn:country_code":"KR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255129,
+    "gn:latitude":36.72363,
+    "gn:longitude":128.53927,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sangyeomak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc5ec\ub9c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255129
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a6844bd76ab9a4dc7188f2c288d27a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209076771
+        }
+    ],
+    "wof:id":1209076771,
+    "wof:lastmodified":1537659280,
+    "wof:name":"Sangyeomak",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.53927,
+    36.72363,
+    128.53927,
+    36.72363
+],
+  "geometry": {"coordinates":[128.53926999999999,36.72363],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343325705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65413,34.93729,126.65413,34.93729",
+    "geom:latitude":34.93729,
+    "geom:longitude":126.65413,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sangdu",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837806,
+    "gn:latitude":34.93729,
+    "gn:longitude":126.65413,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Sangdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub450"
+    ],
+    "name:und_x_variant":[
+        "Sangdu-ri",
+        "Sangdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837806
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e8bbd2f177b0ea5e75d68805619c86e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1343325705,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343325705,
+    "wof:lastmodified":1537656257,
+    "wof:name":"Sangdu",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65413,
+    34.93729,
+    126.65413,
+    34.93729
+],
+  "geometry": {"coordinates":[126.65412999999999,34.93729],"type":"Point"}
+}

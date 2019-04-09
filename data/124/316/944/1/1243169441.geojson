@@ -1,0 +1,73 @@
+{
+  "id": 1243169441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.33639,37.23806,129.33639,37.23806",
+    "geom:latitude":37.23806,
+    "geom:longitude":129.33639,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Samch'\u014fk-si",
+    "gn:asciiname":"Ch'ongnyong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883725,
+    "gn:latitude":37.23806,
+    "gn:longitude":129.33639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014fngnyong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019\u014fngnyong",
+        "Ch\u2019\u014fngnyong-dong",
+        "\uccad\ub8e1\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883725
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a89e6ddc24a18b04f65c5797dac1e0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1243169441,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243169441,
+    "wof:lastmodified":1537656761,
+    "wof:name":"Ch'ongnyong-dong",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.33639,
+    37.23806,
+    129.33639,
+    37.23806
+],
+  "geometry": {"coordinates":[129.33638999999999,37.23806],"type":"Point"}
+}

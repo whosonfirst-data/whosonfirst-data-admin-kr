@@ -1,0 +1,65 @@
+{
+  "id": 1209393993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77528,37.84417,126.77528,37.84417",
+    "geom:latitude":37.84417,
+    "geom:longitude":126.77528,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Omugi",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951580,
+    "gn:latitude":37.84417,
+    "gn:longitude":126.77528,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Omugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ubb34\uae30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951580
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4262fad8734872154e0ad229f870a2d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209393993
+        }
+    ],
+    "wof:id":1209393993,
+    "wof:lastmodified":1537656977,
+    "wof:name":"Omugi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77528,
+    37.84417,
+    126.77528,
+    37.84417
+],
+  "geometry": {"coordinates":[126.77528,37.84417],"type":"Point"}
+}

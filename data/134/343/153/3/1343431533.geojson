@@ -1,0 +1,75 @@
+{
+  "id": 1343431533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.26479,36.16932,129.26479,36.16932",
+    "geom:latitude":36.16932,
+    "geom:longitude":129.26479,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Saetgol",
+    "gn:country_code":"KR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878313,
+    "gn:latitude":36.16932,
+    "gn:longitude":129.26479,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Saetgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0db\uace8"
+    ],
+    "name:und_x_variant":[
+        "\uc1f3\uace8",
+        "Soek-kol",
+        "Saetgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878313
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"46bee46c8dc9acebec3373a908d47ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1343431533,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343431533,
+    "wof:lastmodified":1537658189,
+    "wof:name":"Saetgol",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.26478999999998,
+    36.16932,
+    129.26478999999998,
+    36.16932
+],
+  "geometry": {"coordinates":[129.26478999999998,36.16932],"type":"Point"}
+}

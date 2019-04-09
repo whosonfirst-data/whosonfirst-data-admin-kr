@@ -1,0 +1,65 @@
+{
+  "id": 1209080503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.45259,35.122,128.45259,35.122",
+    "geom:latitude":35.122,
+    "geom:longitude":128.45259,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tongsam",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899392,
+    "gn:latitude":35.122,
+    "gn:longitude":128.45259,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tongsam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\uc0bc",
+        "Tongsam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899392
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4a420e241efaf3ac031ad764fdfd0d6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209080503
+        }
+    ],
+    "wof:id":1209080503,
+    "wof:lastmodified":1537658740,
+    "wof:name":"Tongsam",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.45259,
+    35.122,
+    128.45259,
+    35.122
+],
+  "geometry": {"coordinates":[128.45258999999999,35.122],"type":"Point"}
+}

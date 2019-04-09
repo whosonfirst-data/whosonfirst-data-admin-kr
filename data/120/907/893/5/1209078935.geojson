@@ -1,0 +1,64 @@
+{
+  "id": 1209078935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42495,35.78301,128.42495,35.78301",
+    "geom:latitude":35.78301,
+    "geom:longitude":128.42495,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Saettam",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11016603,
+    "gn:latitude":35.78301,
+    "gn:longitude":128.42495,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Saettam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ub540"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11016603
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1da9e8d878814c47e594869dcf3fbbfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209078935
+        }
+    ],
+    "wof:id":1209078935,
+    "wof:lastmodified":1537659108,
+    "wof:name":"Saettam",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42495,
+    35.78301,
+    128.42495,
+    35.78301
+],
+  "geometry": {"coordinates":[128.42495,35.78301],"type":"Point"}
+}

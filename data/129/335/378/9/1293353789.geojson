@@ -1,0 +1,70 @@
+{
+  "id": 1293353789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.92604,36.69465,126.92604,36.69465",
+    "geom:latitude":36.69465,
+    "geom:longitude":126.92604,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gomuri",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251018,
+    "gn:latitude":36.69465,
+    "gn:longitude":126.92604,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Gomuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf0\uc6b0\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251018
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b07eaa766edcd6a3e9c90ffd10c324a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1293353789,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293353789,
+    "wof:lastmodified":1537658999,
+    "wof:name":"Gomuri",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92604,
+    36.69465,
+    126.92604,
+    36.69465
+],
+  "geometry": {"coordinates":[126.92604,36.69465],"type":"Point"}
+}

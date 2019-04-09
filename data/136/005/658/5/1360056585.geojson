@@ -1,0 +1,76 @@
+{
+  "id": 1360056585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9198,38.03625,126.9198,38.03625",
+    "geom:latitude":38.03625,
+    "geom:longitude":126.9198,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chanumul",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846316,
+    "gn:latitude":38.03625,
+    "gn:longitude":126.9198,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Chanumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc2c\uc6b0\ubb3c"
+    ],
+    "name:und_x_variant":[
+        "Naengj\u014fng",
+        "Ch\u2019arumul",
+        "Ch\u2019anumul",
+        "Chanumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846316
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c270573418ce86fc59b680aa792229f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1360056585,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360056585,
+    "wof:lastmodified":1537656694,
+    "wof:name":"Chanumul",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9198,
+    38.03625,
+    126.9198,
+    38.03625
+],
+  "geometry": {"coordinates":[126.9198,38.03625],"type":"Point"}
+}

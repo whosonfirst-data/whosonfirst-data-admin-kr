@@ -1,0 +1,76 @@
+{
+  "id": 1310519521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46424,35.14532,126.46424,35.14532",
+    "geom:latitude":35.14532,
+    "geom:longitude":126.46424,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Byeokho",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838497,
+    "gn:latitude":35.14532,
+    "gn:longitude":126.46424,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Byeokho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcbd\ud638"
+    ],
+    "name:und_x_variant":[
+        "Py\u014fkch\u2019o",
+        "Py\u014fkch\u2019o-ri",
+        "Py\u014fkho",
+        "Byeokho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838497
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"abac2f4f0841a18b41a7d760e4248c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1310519521,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310519521,
+    "wof:lastmodified":1537656297,
+    "wof:name":"Byeokho",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46424,
+    35.14532,
+    126.46424,
+    35.14532
+],
+  "geometry": {"coordinates":[126.46424,35.14532],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259901683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9519,37.3753,127.9519,37.3753",
+    "geom:latitude":37.3753,
+    "geom:longitude":127.9519,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hanbaemi",
+    "gn:country_code":"KR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794030,
+    "gn:latitude":37.3753,
+    "gn:longitude":127.9519,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hanbaemi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\ubc30\ubbf8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794030
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e1e61fd42e5d9ba92e0fc22fc5407ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1259901683,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259901683,
+    "wof:lastmodified":1537657483,
+    "wof:name":"Hanbaemi",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9519,
+    37.3753,
+    127.9519,
+    37.3753
+],
+  "geometry": {"coordinates":[127.95189999999999,37.3753],"type":"Point"}
+}

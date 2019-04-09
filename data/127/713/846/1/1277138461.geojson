@@ -1,0 +1,74 @@
+{
+  "id": 1277138461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.47889,35.38889,128.47889,35.38889",
+    "geom:latitude":35.38889,
+    "geom:longitude":128.47889,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Namji",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840440,
+    "gn:latitude":35.38889,
+    "gn:longitude":128.47889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Namji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamji-ri",
+        "Nanshi-ri",
+        "Namji",
+        "\ub0a8\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840440
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9e7f3852de93d374b25616c42ea580a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473621,
+            "locality_id":1277138461,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1277138461,
+    "wof:lastmodified":1537656396,
+    "wof:name":"Namji",
+    "wof:parent_id":890473621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.47888999999998,
+    35.38889,
+    128.47888999999998,
+    35.38889
+],
+  "geometry": {"coordinates":[128.47888999999998,35.38889],"type":"Point"}
+}

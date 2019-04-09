@@ -1,0 +1,72 @@
+{
+  "id": 1243472419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.56667,34.9,127.56667,34.9",
+    "geom:latitude":34.9,
+    "geom:longitude":127.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hanyu",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844416,
+    "gn:latitude":34.9,
+    "gn:longitude":127.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hanyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanyu-ri",
+        "Hanyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844416
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2eac75b4917597c8856c2caed2ce0c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1243472419,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243472419,
+    "wof:lastmodified":1537656594,
+    "wof:name":"Hanyu",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.56667,
+    34.9,
+    127.56667,
+    34.9
+],
+  "geometry": {"coordinates":[127.56667,34.9],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310708821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58945,35.65066,127.58945,35.65066",
+    "geom:latitude":35.65066,
+    "geom:longitude":127.58945,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chibo",
+    "gn:country_code":"KR",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885950,
+    "gn:latitude":35.65066,
+    "gn:longitude":127.58945,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chibo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c0\ubcf4",
+        "Chiboch\u2019on",
+        "Chibo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885950
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8920729dab1291613a1f97e6f61259bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1310708821,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1310708821,
+    "wof:lastmodified":1537656783,
+    "wof:name":"Chibo",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58945,
+    35.65065999999999,
+    127.58945,
+    35.65065999999999
+],
+  "geometry": {"coordinates":[127.58945,35.65065999999999],"type":"Point"}
+}

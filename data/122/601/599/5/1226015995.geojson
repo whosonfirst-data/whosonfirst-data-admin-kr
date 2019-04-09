@@ -1,0 +1,72 @@
+{
+  "id": 1226015995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96528,37.41194,126.96528,37.41194",
+    "geom:latitude":37.41194,
+    "geom:longitude":126.96528,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gan-chon",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573613,
+    "gn:latitude":37.41194,
+    "gn:longitude":126.96528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gan-chon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac04\ucd0c",
+        "Gan-chon",
+        "Kan-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573613
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3920fb6e0176bea7ac126b63ca697771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746411,
+            "locality_id":1226015995,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226015995,
+    "wof:lastmodified":1537657233,
+    "wof:name":"Gan-chon",
+    "wof:parent_id":1108746411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96528,
+    37.41194,
+    126.96528,
+    37.41194
+],
+  "geometry": {"coordinates":[126.96528000000001,37.41194],"type":"Point"}
+}

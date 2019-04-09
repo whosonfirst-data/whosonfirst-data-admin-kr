@@ -1,0 +1,70 @@
+{
+  "id": 1293265707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.53357,35.99927,128.53357,35.99927",
+    "geom:latitude":35.99927,
+    "geom:longitude":128.53357,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yangjima",
+    "gn:country_code":"KR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553427,
+    "gn:latitude":35.99927,
+    "gn:longitude":128.53357,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Yangjima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc9c0\ub9c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553427
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6e0acff762a728755c854e7ccbbd94b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1293265707,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293265707,
+    "wof:lastmodified":1537658892,
+    "wof:name":"Yangjima",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.53357,
+    35.99927,
+    128.53357,
+    35.99927
+],
+  "geometry": {"coordinates":[128.53357,35.99927],"type":"Point"}
+}

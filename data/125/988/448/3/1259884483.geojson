@@ -1,0 +1,71 @@
+{
+  "id": 1259884483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53249,36.42235,127.53249,36.42235",
+    "geom:latitude":36.42235,
+    "geom:longitude":127.53249,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Umudong",
+    "gn:country_code":"KR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884540,
+    "gn:latitude":36.42235,
+    "gn:longitude":127.53249,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Umudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6b0\ubb34\ub3d9",
+        "Umudong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884540
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"69fe7e6b7bd1ef0e9ae3f3f9cc340ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746447,
+            "locality_id":1259884483,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1259884483,
+    "wof:lastmodified":1537658326,
+    "wof:name":"Umudong",
+    "wof:parent_id":1108746447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53249,
+    36.42235,
+    127.53249,
+    36.42235
+],
+  "geometry": {"coordinates":[127.53249,36.42235],"type":"Point"}
+}

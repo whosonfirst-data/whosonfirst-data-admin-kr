@@ -1,0 +1,72 @@
+{
+  "id": 1226617247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0325,37.36111,127.0325,37.36111",
+    "geom:latitude":37.36111,
+    "geom:longitude":127.0325,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gokhyeon",
+    "gn:country_code":"KR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573910,
+    "gn:latitude":37.36111,
+    "gn:longitude":127.0325,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gokhyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace1\ud604",
+        "Gokhyeon",
+        "Kokhy\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573910
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2098f0d8c6a66bff06f96c4f4250a0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746547,
+            "locality_id":1226617247,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226617247,
+    "wof:lastmodified":1537657249,
+    "wof:name":"Gokhyeon",
+    "wof:parent_id":1108746547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0325,
+    37.36111,
+    127.0325,
+    37.36111
+],
+  "geometry": {"coordinates":[127.0325,37.36111],"type":"Point"}
+}

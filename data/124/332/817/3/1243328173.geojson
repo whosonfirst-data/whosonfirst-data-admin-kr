@@ -1,0 +1,76 @@
+{
+  "id": 1243328173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.79754,35.09182,128.79754,35.09182",
+    "geom:latitude":35.09182,
+    "geom:longitude":128.79754,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"Chinhae-si",
+    "gn:asciiname":"Angol",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846967,
+    "gn:latitude":35.09182,
+    "gn:longitude":128.79754,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Angol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uace8"
+    ],
+    "name:und_x_variant":[
+        "Ankotsu-ri",
+        "An\u2019gol-li",
+        "Angol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846967
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d072325682b3747076e662de33bc3c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746475,
+            "locality_id":1243328173,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243328173,
+    "wof:lastmodified":1537656730,
+    "wof:name":"Angol",
+    "wof:parent_id":1108746475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.79754,
+    35.09182,
+    128.79754,
+    35.09182
+],
+  "geometry": {"coordinates":[128.79754,35.09182],"type":"Point"}
+}

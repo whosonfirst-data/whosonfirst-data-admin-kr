@@ -1,0 +1,74 @@
+{
+  "id": 1343653905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.70612,38.03357,128.70612,38.03357",
+    "geom:latitude":38.03357,
+    "geom:longitude":128.70612,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Doksongjeong",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7520568,
+    "gn:latitude":38.03357,
+    "gn:longitude":128.70612,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Doksongjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c5\uc1a1\uc815"
+    ],
+    "name:und_x_variant":[
+        "Toksongj\u014fng",
+        "Doksongjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7520568
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"19a8d1b73524896524fb7dd73c57105d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1343653905,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343653905,
+    "wof:lastmodified":1537658877,
+    "wof:name":"Doksongjeong",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.70612,
+    38.03357000000001,
+    128.70612,
+    38.03357000000001
+],
+  "geometry": {"coordinates":[128.70612,38.03357000000001],"type":"Point"}
+}

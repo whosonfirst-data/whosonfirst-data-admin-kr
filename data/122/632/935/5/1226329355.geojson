@@ -1,0 +1,74 @@
+{
+  "id": 1226329355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6395,37.59649,126.6395,37.59649",
+    "geom:latitude":37.59649,
+    "geom:longitude":126.6395,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sowang",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835840,
+    "gn:latitude":37.59649,
+    "gn:longitude":126.6395,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sowang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uc655"
+    ],
+    "name:und_x_variant":[
+        "Sowanggil-li",
+        "Sowang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835840
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"27ccffdf168c3c777128e5aa7f020c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746517,
+            "locality_id":1226329355,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1226329355,
+    "wof:lastmodified":1537656158,
+    "wof:name":"Sowang",
+    "wof:parent_id":1108746517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6395,
+    37.59649,
+    126.6395,
+    37.59649
+],
+  "geometry": {"coordinates":[126.6395,37.59649],"type":"Point"}
+}

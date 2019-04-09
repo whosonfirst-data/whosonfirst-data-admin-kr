@@ -1,0 +1,71 @@
+{
+  "id": 1226535563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6783,36.2353,127.6783,36.2353",
+    "geom:latitude":36.2353,
+    "geom:longitude":127.6783,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Paekchi-ri",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6886906,
+    "gn:latitude":36.2353,
+    "gn:longitude":127.6783,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paekchi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc31\uc9c0\ub9ac",
+        "Paekchi-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6886906
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e7b96fa485f8a535fe9bc3db09d68203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1226535563,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226535563,
+    "wof:lastmodified":1537658378,
+    "wof:name":"Paekchi-ri",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6783,
+    36.2353,
+    127.6783,
+    36.2353
+],
+  "geometry": {"coordinates":[127.67829999999999,36.2353],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293492259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38039,36.70703,127.38039,36.70703",
+    "geom:latitude":36.70703,
+    "geom:longitude":127.38039,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bansong",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349491,
+    "gn:latitude":36.70703,
+    "gn:longitude":127.38039,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Bansong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc18\uc1a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349491
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9311ecb7f4e8fcf3d196a34720bdfac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1293492259,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293492259,
+    "wof:lastmodified":1537659026,
+    "wof:name":"Bansong",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38039,
+    36.70703,
+    127.38039,
+    36.70703
+],
+  "geometry": {"coordinates":[127.38039000000001,36.70703],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309730117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76667,35.36667,126.76667,35.36667",
+    "geom:latitude":35.36667,
+    "geom:longitude":126.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chuam",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845332,
+    "gn:latitude":35.36667,
+    "gn:longitude":126.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chuam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuam-ni",
+        "Chuam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845332
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"efac6641b385c62af55f556032cdf4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1309730117,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309730117,
+    "wof:lastmodified":1537656644,
+    "wof:name":"Chuam",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76667,
+    35.36667,
+    126.76667,
+    35.36667
+],
+  "geometry": {"coordinates":[126.76667,35.36667],"type":"Point"}
+}

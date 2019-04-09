@@ -1,0 +1,75 @@
+{
+  "id": 1310683913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.68444,35.83111,128.68444,35.83111",
+    "geom:latitude":35.83111,
+    "geom:longitude":128.68444,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Naehwan",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840632,
+    "gn:latitude":35.83111,
+    "gn:longitude":128.68444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naehwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naegwan-dong",
+        "Naehwan-dong",
+        "Naekkot-tong",
+        "Naegot-tong",
+        "Naehwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890473007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840632
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8ccf3a9b44ae2ef1beea41cbec3cdb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473007,
+            "locality_id":1310683913,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1310683913,
+    "wof:lastmodified":1537656405,
+    "wof:name":"Naehwan",
+    "wof:parent_id":890473007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.68444,
+    35.83110999999999,
+    128.68444,
+    35.83110999999999
+],
+  "geometry": {"coordinates":[128.68444,35.83110999999999],"type":"Point"}
+}

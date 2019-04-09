@@ -1,0 +1,67 @@
+{
+  "id": 1209401023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.78,37.18389,126.78,37.18389",
+    "geom:latitude":37.18389,
+    "geom:longitude":126.78,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kojongni",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364574,
+    "gn:latitude":37.18389,
+    "gn:longitude":126.78,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u014fj\u014fngni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac70\uc801\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "K\u014fj\u014fngni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364574
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"716be0c624306e3c3a3025e6e4403c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209401023
+        }
+    ],
+    "wof:id":1209401023,
+    "wof:lastmodified":1537657088,
+    "wof:name":"Kojongni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.78,
+    37.18389000000001,
+    126.78,
+    37.18389000000001
+],
+  "geometry": {"coordinates":[126.78,37.18389000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226620567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65361,34.95306,128.65361,34.95306",
+    "geom:latitude":34.95306,
+    "geom:longitude":128.65361,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sin-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882051,
+    "gn:latitude":34.95306,
+    "gn:longitude":128.65361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sin-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shin-dong",
+        "Sin-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882051
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"065ccf9ea51b53b95b33e3942b9eac5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474515,
+            "locality_id":1226620567,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226620567,
+    "wof:lastmodified":1537656747,
+    "wof:name":"Sin-dong",
+    "wof:parent_id":890474515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65361,
+    34.95306,
+    128.65361,
+    34.95306
+],
+  "geometry": {"coordinates":[128.65360999999999,34.95306],"type":"Point"}
+}

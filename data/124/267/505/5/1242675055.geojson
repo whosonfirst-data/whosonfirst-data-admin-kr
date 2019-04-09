@@ -1,0 +1,70 @@
+{
+  "id": 1242675055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.41448,38.46081,128.41448,38.46081",
+    "geom:latitude":38.46081,
+    "geom:longitude":128.41448,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chungnim",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7575100,
+    "gn:latitude":38.46081,
+    "gn:longitude":128.41448,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chungnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc8fd\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7575100
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e971c2019d2617791a7830b49b165d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1242675055,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242675055,
+    "wof:lastmodified":1537658880,
+    "wof:name":"Chungnim",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.41448,
+    38.46081,
+    128.41448,
+    38.46081
+],
+  "geometry": {"coordinates":[128.41448,38.46081],"type":"Point"}
+}

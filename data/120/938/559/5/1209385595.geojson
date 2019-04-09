@@ -1,0 +1,64 @@
+{
+  "id": 1209385595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81154,36.52627,128.81154,36.52627",
+    "geom:latitude":36.52627,
+    "geom:longitude":128.81154,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Onggijeom",
+    "gn:country_code":"KR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11273593,
+    "gn:latitude":36.52627,
+    "gn:longitude":128.81154,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Onggijeom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc639\uae30\uc810"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11273593
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5a852bcc3edddeffb8068695f66541ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209385595
+        }
+    ],
+    "wof:id":1209385595,
+    "wof:lastmodified":1537659320,
+    "wof:name":"Onggijeom",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81153999999998,
+    36.52627,
+    128.81153999999998,
+    36.52627
+],
+  "geometry": {"coordinates":[128.81153999999998,36.52627],"type":"Point"}
+}

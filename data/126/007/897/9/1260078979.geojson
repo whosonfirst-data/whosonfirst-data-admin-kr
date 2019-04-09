@@ -1,0 +1,71 @@
+{
+  "id": 1260078979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5375,36.4305,127.5375,36.4305",
+    "geom:latitude":36.4305,
+    "geom:longitude":127.5375,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Saedongne",
+    "gn:country_code":"KR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884536,
+    "gn:latitude":36.4305,
+    "gn:longitude":127.5375,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saedongne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c8\ub3d9\ub124",
+        "Saedongne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884536
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"db5a00640415b214e02c5ce5c45ca038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472333,
+            "locality_id":1260078979,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1260078979,
+    "wof:lastmodified":1537658326,
+    "wof:name":"Saedongne",
+    "wof:parent_id":890472333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5375,
+    36.4305,
+    127.5375,
+    36.4305
+],
+  "geometry": {"coordinates":[127.53749999999999,36.4305],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243355763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.27362,38.00594,128.27362,38.00594",
+    "geom:latitude":38.00594,
+    "geom:longitude":128.27362,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Deodimi",
+    "gn:country_code":"KR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988693,
+    "gn:latitude":38.00594,
+    "gn:longitude":128.27362,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Deodimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub354\ub4f8\ubbf8"
+    ],
+    "name:kor_x_variant":[
+        "\ub354\ub514\ubbf8"
+    ],
+    "name:und_x_variant":[
+        "T\u014fd\u016dimi",
+        "T\u014fdimi",
+        "Deodimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988693
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"630223e29f47f2fefb887f3b99cbffa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1243355763,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243355763,
+    "wof:lastmodified":1537656991,
+    "wof:name":"Deodimi",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.27362,
+    38.00594,
+    128.27362,
+    38.00594
+],
+  "geometry": {"coordinates":[128.27361999999999,38.00594],"type":"Point"}
+}

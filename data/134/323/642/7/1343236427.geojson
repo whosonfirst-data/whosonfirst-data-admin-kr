@@ -1,0 +1,75 @@
+{
+  "id": 1343236427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8599,34.77229,127.8599,34.77229",
+    "geom:latitude":34.77229,
+    "geom:longitude":127.8599,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Orijeong",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839708,
+    "gn:latitude":34.77229,
+    "gn:longitude":127.8599,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Orijeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ub9ac\uc815"
+    ],
+    "name:und_x_variant":[
+        "Ori-ri",
+        "Orij\u014fng",
+        "Orijeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839708
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0545d685ba757ff025bf4a717a4c2066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475467,
+            "locality_id":1343236427,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343236427,
+    "wof:lastmodified":1537656360,
+    "wof:name":"Orijeong",
+    "wof:parent_id":890475467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8599,
+    34.77229000000001,
+    127.8599,
+    34.77229000000001
+],
+  "geometry": {"coordinates":[127.8599,34.77229000000001],"type":"Point"}
+}

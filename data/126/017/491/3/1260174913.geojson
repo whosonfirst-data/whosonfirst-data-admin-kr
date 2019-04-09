@@ -1,0 +1,70 @@
+{
+  "id": 1260174913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57015,36.76794,127.57015,36.76794",
+    "geom:latitude":36.76794,
+    "geom:longitude":127.57015,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mansul",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351271,
+    "gn:latitude":36.76794,
+    "gn:longitude":127.57015,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Mansul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9cc\uc220"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351271
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96cb02b96582bab565b5fb094527882b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1260174913,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1260174913,
+    "wof:lastmodified":1537659030,
+    "wof:name":"Mansul",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57015,
+    36.76794,
+    127.57015,
+    36.76794
+],
+  "geometry": {"coordinates":[127.57015,36.76794],"type":"Point"}
+}

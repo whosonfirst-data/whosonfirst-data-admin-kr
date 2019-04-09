@@ -1,0 +1,71 @@
+{
+  "id": 1259353615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9941,36.3399,128.9941,36.3399",
+    "geom:latitude":36.3399,
+    "geom:longitude":128.9941,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kamp'o",
+    "gn:country_code":"KR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893091,
+    "gn:latitude":36.3399,
+    "gn:longitude":128.9941,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kamp\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac10\ud3ec",
+        "Kamp\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893091
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0ccd116bf2df88d9e01e217e815e21ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474963,
+            "locality_id":1259353615,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259353615,
+    "wof:lastmodified":1537658572,
+    "wof:name":"Kamp'o",
+    "wof:parent_id":890474963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9941,
+    36.3399,
+    128.9941,
+    36.3399
+],
+  "geometry": {"coordinates":[128.9941,36.3399],"type":"Point"}
+}

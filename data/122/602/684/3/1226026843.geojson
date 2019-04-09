@@ -1,0 +1,67 @@
+{
+  "id": 1226026843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5,34.5,126.5,34.5",
+    "geom:latitude":34.5,
+    "geom:longitude":126.5,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yonhwa-dong",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832227,
+    "gn:latitude":34.5,
+    "gn:longitude":126.5,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Y\u014fnhwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832227
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"47d4658c8620464a7d8e3293b98fd9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1226026843,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226026843,
+    "wof:lastmodified":1536752387,
+    "wof:name":"Yonhwa-dong",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5,
+    34.5,
+    126.5,
+    34.5
+],
+  "geometry": {"coordinates":[126.5,34.5],"type":"Point"}
+}

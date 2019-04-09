@@ -1,0 +1,66 @@
+{
+  "id": 1209491491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32473,36.46782,127.32473,36.46782",
+    "geom:latitude":36.46782,
+    "geom:longitude":127.32473,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Daejidong",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888710,
+    "gn:latitude":36.46782,
+    "gn:longitude":127.32473,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Daejidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\uc9c0\ub3d9",
+        "Taeji-dong",
+        "Daejidong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888710
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3a362b6899c7004691fd02fad2559b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209491491
+        }
+    ],
+    "wof:id":1209491491,
+    "wof:lastmodified":1537658437,
+    "wof:name":"Daejidong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32473,
+    36.46782,
+    127.32473,
+    36.46782
+],
+  "geometry": {"coordinates":[127.32473,36.46782],"type":"Point"}
+}

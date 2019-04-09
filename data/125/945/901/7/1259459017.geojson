@@ -1,0 +1,72 @@
+{
+  "id": 1259459017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52563,36.18565,127.52563,36.18565",
+    "geom:latitude":36.18565,
+    "geom:longitude":127.52563,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bangajae",
+    "gn:country_code":"KR",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6886660,
+    "gn:latitude":36.18565,
+    "gn:longitude":127.52563,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bangajae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc29\uc544\uc7ac",
+        "Pangajae",
+        "Bangajae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6886660
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6a98534c476152428c6aeec800676803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473345,
+            "locality_id":1259459017,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259459017,
+    "wof:lastmodified":1537658366,
+    "wof:name":"Bangajae",
+    "wof:parent_id":890473345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52563,
+    36.18565,
+    127.52563,
+    36.18565
+],
+  "geometry": {"coordinates":[127.52563000000001,36.18565],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210005349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.96958,35.20166,128.96958,35.20166",
+    "geom:latitude":35.20166,
+    "geom:longitude":128.96958,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sindeok",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979046,
+    "gn:latitude":35.20166,
+    "gn:longitude":128.96958,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Sindeok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub355"
+    ],
+    "name:und_x_variant":[
+        "Sind\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979046
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9a4e87c675fb0421dac8904706f60062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1210005349,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1210005349,
+    "wof:lastmodified":1537656985,
+    "wof:name":"Sindeok",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.96958,
+    35.20166,
+    128.96958,
+    35.20166
+],
+  "geometry": {"coordinates":[128.96958000000001,35.20166],"type":"Point"}
+}

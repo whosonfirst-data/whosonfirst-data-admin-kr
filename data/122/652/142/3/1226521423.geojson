@@ -1,0 +1,75 @@
+{
+  "id": 1226521423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97458,37.72136,126.97458,37.72136",
+    "geom:latitude":37.72136,
+    "geom:longitude":126.97458,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Iljakkul",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801866,
+    "gn:latitude":37.72136,
+    "gn:longitude":126.97458,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Iljakkul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc77c\uc790\uafc0"
+    ],
+    "name:und_x_variant":[
+        "\uc77c\uc9dc\uad74",
+        "Iltchagul",
+        "Iljakkul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801866
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9f8cd8f6ad84d5a3512604ee7e4c4398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1226521423,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226521423,
+    "wof:lastmodified":1537657710,
+    "wof:name":"Iljakkul",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97458,
+    37.72136,
+    126.97458,
+    37.72136
+],
+  "geometry": {"coordinates":[126.97458,37.72136],"type":"Point"}
+}

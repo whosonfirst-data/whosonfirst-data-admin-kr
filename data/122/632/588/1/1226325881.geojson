@@ -1,0 +1,70 @@
+{
+  "id": 1226325881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.24458,35.9206,129.24458,35.9206",
+    "geom:latitude":35.9206,
+    "geom:longitude":129.24458,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Daeho",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250383,
+    "gn:latitude":35.9206,
+    "gn:longitude":129.24458,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Daeho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ud638"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250383
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6bdc034108a0e2b95e8450d09c86e2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1226325881,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226325881,
+    "wof:lastmodified":1537659257,
+    "wof:name":"Daeho",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.24458,
+    35.9206,
+    129.24458,
+    35.9206
+],
+  "geometry": {"coordinates":[129.24458000000001,35.9206],"type":"Point"}
+}

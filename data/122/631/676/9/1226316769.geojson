@@ -1,0 +1,74 @@
+{
+  "id": 1226316769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.46235,35.594,129.46235,35.594",
+    "geom:latitude":35.594,
+    "geom:longitude":129.46235,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ugamal",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833816,
+    "gn:latitude":35.594,
+    "gn:longitude":129.46235,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ugamal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b0\uac00\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Gy\u016bka-matsu",
+        "Ugamal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833816
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"38d79b6e9c5d24d0c638d114cb5a0cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746399,
+            "locality_id":1226316769,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1226316769,
+    "wof:lastmodified":1537656052,
+    "wof:name":"Ugamal",
+    "wof:parent_id":1108746399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.46235,
+    35.594,
+    129.46235,
+    35.594
+],
+  "geometry": {"coordinates":[129.46234999999999,35.594],"type":"Point"}
+}

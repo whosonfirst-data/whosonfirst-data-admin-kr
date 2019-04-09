@@ -1,0 +1,71 @@
+{
+  "id": 1260063481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.3849,36.5638,129.3849,36.5638",
+    "geom:latitude":36.5638,
+    "geom:longitude":129.3849,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894618,
+    "gn:latitude":36.5638,
+    "gn:longitude":129.3849,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac01\ub9ac",
+        "Kang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894618
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8c219c9198e7890e384b3edd203a449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1260063481,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260063481,
+    "wof:lastmodified":1537658601,
+    "wof:name":"Kang-ni",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.3849,
+    36.5638,
+    129.3849,
+    36.5638
+],
+  "geometry": {"coordinates":[129.38489999999999,36.5638],"type":"Point"}
+}

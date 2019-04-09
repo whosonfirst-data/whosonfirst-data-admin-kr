@@ -1,0 +1,65 @@
+{
+  "id": 1209689387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2619,36.5471,129.2619,36.5471",
+    "geom:latitude":36.5471,
+    "geom:longitude":129.2619,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sonbawi-gol",
+    "gn:country_code":"KR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895129,
+    "gn:latitude":36.5471,
+    "gn:longitude":129.2619,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fnbawi-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc120\ubc14\uc704\uace8",
+        "S\u014fnbawi-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895129
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a65620cf6a8460e349b911c9322c8fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689387
+        }
+    ],
+    "wof:id":1209689387,
+    "wof:lastmodified":1537656877,
+    "wof:name":"Sonbawi-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2619,
+    36.5471,
+    129.2619,
+    36.5471
+],
+  "geometry": {"coordinates":[129.2619,36.5471],"type":"Point"}
+}

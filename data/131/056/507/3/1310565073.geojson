@@ -1,0 +1,73 @@
+{
+  "id": 1310565073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39387,34.79344,127.39387,34.79344",
+    "geom:latitude":34.79344,
+    "geom:longitude":127.39387,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Daepo",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685015,
+    "gn:latitude":34.79344,
+    "gn:longitude":127.39387,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Daepo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ud3ec"
+    ],
+    "name:kor_x_variant":[
+        "Taep\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685015
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"11a334667a4b3b8c688c922d7f2c85a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1310565073,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310565073,
+    "wof:lastmodified":1537657441,
+    "wof:name":"Daepo",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39387,
+    34.79344,
+    127.39387,
+    34.79344
+],
+  "geometry": {"coordinates":[127.39387000000001,34.79344],"type":"Point"}
+}

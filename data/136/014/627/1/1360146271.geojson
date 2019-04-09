@@ -1,0 +1,72 @@
+{
+  "id": 1360146271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.48154,35.58861,128.48154,35.58861",
+    "geom:latitude":35.58861,
+    "geom:longitude":128.48154,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Maetan",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901810,
+    "gn:latitude":35.58861,
+    "gn:longitude":128.48154,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Maetan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9e4\ud0c4",
+        "Maet\u2019an",
+        "Maetan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901810
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c3a3d35419b6d29b3f5f395bc89781a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473621,
+            "locality_id":1360146271,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1360146271,
+    "wof:lastmodified":1537658800,
+    "wof:name":"Maetan",
+    "wof:parent_id":890473621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.48154,
+    35.58861,
+    128.48154,
+    35.58861
+],
+  "geometry": {"coordinates":[128.48154,35.58861],"type":"Point"}
+}

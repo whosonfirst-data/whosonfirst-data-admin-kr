@@ -1,0 +1,73 @@
+{
+  "id": 1210038205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8043,37.2595,128.8043,37.2595",
+    "geom:latitude":37.2595,
+    "geom:longitude":128.8043,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tongman",
+    "gn:country_code":"KR",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797456,
+    "gn:latitude":37.2595,
+    "gn:longitude":128.8043,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u014fngman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fngman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797456
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a2f5514bdc5c12f017c2f587ddd5ae50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1210038205,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1210038205,
+    "wof:lastmodified":1537657590,
+    "wof:name":"Tongman",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8043,
+    37.2595,
+    128.8043,
+    37.2595
+],
+  "geometry": {"coordinates":[128.80430000000001,37.2595],"type":"Point"}
+}

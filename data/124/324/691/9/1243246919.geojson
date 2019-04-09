@@ -1,0 +1,71 @@
+{
+  "id": 1243246919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6085,35.65992,128.6085,35.65992",
+    "geom:latitude":35.65992,
+    "geom:longitude":128.6085,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kaeksil",
+    "gn:country_code":"KR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903248,
+    "gn:latitude":35.65992,
+    "gn:longitude":128.6085,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kaeksil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac1d\uc2e4",
+        "Kaeksil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903248
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0cea6698a5fee154d3134d5740bde289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1243246919,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243246919,
+    "wof:lastmodified":1537658840,
+    "wof:name":"Kaeksil",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6085,
+    35.65992,
+    128.6085,
+    35.65992
+],
+  "geometry": {"coordinates":[128.60849999999999,35.65992],"type":"Point"}
+}

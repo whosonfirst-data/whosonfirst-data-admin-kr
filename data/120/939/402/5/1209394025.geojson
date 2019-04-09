@@ -1,0 +1,65 @@
+{
+  "id": 1209394025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43528,37.32194,127.43528,37.32194",
+    "geom:latitude":37.32194,
+    "geom:longitude":127.43528,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Noga-dong",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577813,
+    "gn:latitude":37.32194,
+    "gn:longitude":127.43528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Noga-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub178\uac00\ub3d9",
+        "Noga-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577813
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"51f808ffedac6115890cd78c59632de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209394025
+        }
+    ],
+    "wof:id":1209394025,
+    "wof:lastmodified":1537657390,
+    "wof:name":"Noga-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43528,
+    37.32194000000001,
+    127.43528,
+    37.32194000000001
+],
+  "geometry": {"coordinates":[127.43528000000001,37.32194000000001],"type":"Point"}
+}

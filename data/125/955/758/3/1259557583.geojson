@@ -1,0 +1,70 @@
+{
+  "id": 1259557583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.25158,35.43236,129.25158,35.43236",
+    "geom:latitude":35.43236,
+    "geom:longitude":129.25158,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Pyeonggwang",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11095158,
+    "gn:latitude":35.43236,
+    "gn:longitude":129.25158,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Pyeonggwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uad11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11095158
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"326165bc83832ffd491a2398483d1d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1259557583,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1259557583,
+    "wof:lastmodified":1537659153,
+    "wof:name":"Pyeonggwang",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.25158000000002,
+    35.43236,
+    129.25158000000002,
+    35.43236
+],
+  "geometry": {"coordinates":[129.25158000000002,35.43236],"type":"Point"}
+}

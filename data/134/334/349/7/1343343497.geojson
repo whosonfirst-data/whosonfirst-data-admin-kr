@@ -1,0 +1,70 @@
+{
+  "id": 1343343497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65014,35.08934,126.65014,35.08934",
+    "geom:latitude":35.08934,
+    "geom:longitude":126.65014,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mojeon",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171064,
+    "gn:latitude":35.08934,
+    "gn:longitude":126.65014,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Mojeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171064
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"73232464b453538dce35c4f9209b50a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1343343497,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343343497,
+    "wof:lastmodified":1537659198,
+    "wof:name":"Mojeon",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65014,
+    35.08934,
+    126.65014,
+    35.08934
+],
+  "geometry": {"coordinates":[126.65013999999999,35.08934],"type":"Point"}
+}

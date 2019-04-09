@@ -1,0 +1,72 @@
+{
+  "id": 1309704433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57301,37.96763,127.57301,37.96763",
+    "geom:latitude":37.96763,
+    "geom:longitude":127.57301,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jogye",
+    "gn:country_code":"KR",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802187,
+    "gn:latitude":37.96763,
+    "gn:longitude":127.57301,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jogye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc870\uacc4",
+        "Chogye",
+        "Jogye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802187
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2d00fe991ec70facb37814f0edf6f175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1309704433,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309704433,
+    "wof:lastmodified":1537657732,
+    "wof:name":"Jogye",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57301,
+    37.96763,
+    127.57301,
+    37.96763
+],
+  "geometry": {"coordinates":[127.57301,37.96763],"type":"Point"}
+}

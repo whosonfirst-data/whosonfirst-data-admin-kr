@@ -1,0 +1,76 @@
+{
+  "id": 1209988291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55972,34.28111,126.55972,34.28111",
+    "geom:latitude":34.28111,
+    "geom:longitude":126.55972,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hugilto",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844107,
+    "gn:latitude":34.28111,
+    "gn:longitude":126.55972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u016dgilto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud751\uc77c\ub3c4"
+    ],
+    "name:kor_x_variant":[
+        "H\u016dgilto"
+    ],
+    "name:und_x_variant":[
+        "H\u016dlgilto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844107
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f8be5ea844141bcb2c885df90e6b4215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1209988291,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209988291,
+    "wof:lastmodified":1537656578,
+    "wof:name":"Hugilto",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55972,
+    34.28111,
+    126.55972,
+    34.28111
+],
+  "geometry": {"coordinates":[126.55972,34.28111],"type":"Point"}
+}

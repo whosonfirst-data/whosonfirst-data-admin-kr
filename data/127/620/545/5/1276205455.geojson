@@ -1,0 +1,73 @@
+{
+  "id": 1276205455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8325,37.24972,126.8325,37.24972",
+    "geom:latitude":37.24972,
+    "geom:longitude":126.8325,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yangchori",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364742,
+    "gn:latitude":37.24972,
+    "gn:longitude":126.8325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangch\u014fri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\ucca0\uc774"
+    ],
+    "name:kor_x_variant":[
+        "Yangch\u014fri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364742
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17ae35ffcd394fbf96f981afcfc2080b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1276205455,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276205455,
+    "wof:lastmodified":1537657095,
+    "wof:name":"Yangchori",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8325,
+    37.24972,
+    126.8325,
+    37.24972
+],
+  "geometry": {"coordinates":[126.8325,37.24972],"type":"Point"}
+}

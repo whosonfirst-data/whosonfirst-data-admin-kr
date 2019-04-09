@@ -1,0 +1,71 @@
+{
+  "id": 1226040091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0542,37.3451,129.0542,37.3451",
+    "geom:latitude":37.3451,
+    "geom:longitude":129.0542,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Komuram",
+    "gn:country_code":"KR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807774,
+    "gn:latitude":37.3451,
+    "gn:longitude":129.0542,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Komuram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\ubb3c\uc554",
+        "Komuram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807774
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c90580371b741c6ee3be106b6d0d8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1226040091,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226040091,
+    "wof:lastmodified":1537657801,
+    "wof:name":"Komuram",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0542,
+    37.3451,
+    129.0542,
+    37.3451
+],
+  "geometry": {"coordinates":[129.05420000000001,37.3451],"type":"Point"}
+}

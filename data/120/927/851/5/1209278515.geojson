@@ -1,0 +1,64 @@
+{
+  "id": 1209278515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.08595,35.598,129.08595,35.598",
+    "geom:latitude":35.598,
+    "geom:longitude":129.08595,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gungpyeong",
+    "gn:country_code":"KR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078586,
+    "gn:latitude":35.598,
+    "gn:longitude":129.08595,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Gungpyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad81\ud3c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078586
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"596096bcd0f98e6671f72eda53aa42df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209278515
+        }
+    ],
+    "wof:id":1209278515,
+    "wof:lastmodified":1537659136,
+    "wof:name":"Gungpyeong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.08595,
+    35.598,
+    129.08595,
+    35.598
+],
+  "geometry": {"coordinates":[129.08595,35.598],"type":"Point"}
+}

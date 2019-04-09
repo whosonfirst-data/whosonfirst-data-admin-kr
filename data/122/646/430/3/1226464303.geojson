@@ -1,0 +1,73 @@
+{
+  "id": 1226464303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.14486,38.27184,127.14486,38.27184",
+    "geom:latitude":38.27184,
+    "geom:longitude":127.14486,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangsaejok",
+    "gn:country_code":"KR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931161,
+    "gn:latitude":38.27184,
+    "gn:longitude":127.14486,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sangsaejok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc0c8\uc871"
+    ],
+    "name:und_x_variant":[
+        "Sangsejok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931161
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f99fee1ae3f0559bcc43347276077f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1226464303,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226464303,
+    "wof:lastmodified":1537656956,
+    "wof:name":"Sangsaejok",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.14486,
+    38.27184000000001,
+    127.14486,
+    38.27184000000001
+],
+  "geometry": {"coordinates":[127.14485999999999,38.27184000000001],"type":"Point"}
+}

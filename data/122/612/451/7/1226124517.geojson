@@ -1,0 +1,74 @@
+{
+  "id": 1226124517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33419,34.83196,127.33419,34.83196",
+    "geom:latitude":34.83196,
+    "geom:longitude":127.33419,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Muman",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840916,
+    "gn:latitude":34.83196,
+    "gn:longitude":127.33419,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Muman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb34\ub9cc"
+    ],
+    "name:und_x_variant":[
+        "Muman-ni",
+        "Muman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840916
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c8ebe4a6443c84a459bcc4b98f5ee1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1226124517,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226124517,
+    "wof:lastmodified":1537656418,
+    "wof:name":"Muman",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33419,
+    34.83196,
+    127.33419,
+    34.83196
+],
+  "geometry": {"coordinates":[127.33419000000001,34.83196],"type":"Point"}
+}

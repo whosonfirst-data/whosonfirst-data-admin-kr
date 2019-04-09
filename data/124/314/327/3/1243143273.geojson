@@ -1,0 +1,74 @@
+{
+  "id": 1243143273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80476,37.88415,126.80476,37.88415",
+    "geom:latitude":37.88415,
+    "geom:longitude":126.80476,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Hwaseokdong",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951666,
+    "gn:latitude":37.88415,
+    "gn:longitude":126.80476,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Hwaseokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc11d\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hwas\u014fk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951666
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"73efaaada526ad933e11ae126b91f9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1243143273,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243143273,
+    "wof:lastmodified":1537656979,
+    "wof:name":"Hwaseokdong",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80476000000002,
+    37.88415,
+    126.80476000000002,
+    37.88415
+],
+  "geometry": {"coordinates":[126.80476000000002,37.88415],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890472495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05684,34.88682,127.05684,34.88682",
+    "geom:latitude":34.88682,
+    "geom:longitude":127.05684,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "Sadong"
+    ],
+    "qs:name":"\uc0ac\uc9c1\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uad11\uc8fc",
+    "qs:photos":73,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":73,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85673219,
+        85632231,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684253,
+        "gp:id":28995182,
+        "qs:id":1197955
+    },
+    "wof:country":"KR",
+    "wof:created":1469053901,
+    "wof:geomhash":"6816c3495f4bf80ef544b368fe554fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "neighbourhood_id":890472495,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":890472495,
+    "wof:lastmodified":1505343715,
+    "wof:name":"\uc0ac\uc9c1\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05684,
+    34.88682,
+    127.05684,
+    34.88682
+],
+  "geometry": {"coordinates":[127.05683999999999,34.88682],"type":"Point"}
+}

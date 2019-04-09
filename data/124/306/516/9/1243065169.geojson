@@ -1,0 +1,70 @@
+{
+  "id": 1243065169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5446,37.6177,128.5446,37.6177",
+    "geom:latitude":37.6177,
+    "geom:longitude":128.5446,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hansan-dong",
+    "gn:country_code":"KR",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816932,
+    "gn:latitude":37.6177,
+    "gn:longitude":128.5446,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hansan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\uc0b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816932
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"981605ad5d01986549dae17761283799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1243065169,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243065169,
+    "wof:lastmodified":1537658104,
+    "wof:name":"Hansan-dong",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5446,
+    37.6177,
+    128.5446,
+    37.6177
+],
+  "geometry": {"coordinates":[128.5446,37.6177],"type":"Point"}
+}

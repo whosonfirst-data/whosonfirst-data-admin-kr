@@ -1,0 +1,70 @@
+{
+  "id": 1344158275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63359,35.36588,126.63359,35.36588",
+    "geom:latitude":35.36588,
+    "geom:longitude":126.63359,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Panjeong",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169262,
+    "gn:latitude":35.36588,
+    "gn:longitude":126.63359,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Panjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud310\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169262
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"127162316ceba53ff83f3b963c22db77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1344158275,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1344158275,
+    "wof:lastmodified":1537659171,
+    "wof:name":"Panjeong",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63358999999998,
+    35.36588,
+    126.63358999999998,
+    35.36588
+],
+  "geometry": {"coordinates":[126.63358999999998,35.36588],"type":"Point"}
+}

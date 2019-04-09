@@ -1,0 +1,64 @@
+{
+  "id": 1209485175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65007,35.76067,128.65007,35.76067",
+    "geom:latitude":35.76067,
+    "geom:longitude":128.65007,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Josangeol",
+    "gn:country_code":"KR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11032789,
+    "gn:latitude":35.76067,
+    "gn:longitude":128.65007,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Josangeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc870\uc0b0\uac78"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11032789
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3367cf370ccf8f782527c724f3a8403c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209485175
+        }
+    ],
+    "wof:id":1209485175,
+    "wof:lastmodified":1537659111,
+    "wof:name":"Josangeol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65007,
+    35.76067000000001,
+    128.65007,
+    35.76067000000001
+],
+  "geometry": {"coordinates":[128.65007,35.76067000000001],"type":"Point"}
+}

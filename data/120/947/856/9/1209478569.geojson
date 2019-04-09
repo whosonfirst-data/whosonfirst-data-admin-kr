@@ -1,0 +1,65 @@
+{
+  "id": 1209478569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7912,36.389,126.7912,36.389",
+    "geom:latitude":36.389,
+    "geom:longitude":126.7912,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tunbaengi",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884020,
+    "gn:latitude":36.389,
+    "gn:longitude":126.7912,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tunbaengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub454\ubc45\uc774",
+        "Tunbaengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884020
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"034dabe5bf1077947b0ffe47ee3a45bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209478569
+        }
+    ],
+    "wof:id":1209478569,
+    "wof:lastmodified":1537658306,
+    "wof:name":"Tunbaengi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7912,
+    36.389,
+    126.7912,
+    36.389
+],
+  "geometry": {"coordinates":[126.7912,36.389],"type":"Point"}
+}

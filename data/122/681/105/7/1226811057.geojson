@@ -1,0 +1,70 @@
+{
+  "id": 1226811057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43518,36.43821,127.43518,36.43821",
+    "geom:latitude":36.43821,
+    "geom:longitude":127.43518,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Cheongja",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869787,
+    "gn:latitude":36.43821,
+    "gn:longitude":127.43518,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Cheongja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\uc790"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        890474133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869787
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c829623eddbea55eca137fdf971988fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474133,
+            "locality_id":1226811057,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1226811057,
+    "wof:lastmodified":1537659078,
+    "wof:name":"Cheongja",
+    "wof:parent_id":890474133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43518,
+    36.43821,
+    127.43518,
+    36.43821
+],
+  "geometry": {"coordinates":[127.43518,36.43821],"type":"Point"}
+}

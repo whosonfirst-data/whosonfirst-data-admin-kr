@@ -1,0 +1,66 @@
+{
+  "id": 1209522441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.10627,35.99226,127.10627,35.99226",
+    "geom:latitude":35.99226,
+    "geom:longitude":127.10627,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kumgwang",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842249,
+    "gn:latitude":35.99226,
+    "gn:longitude":127.10627,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u016dmgwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016dmgwang-ni",
+        "\uae08\uad11",
+        "K\u016dmgwang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842249
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"356ffc1ace3f7b1dda45d0461f5ae156",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209522441
+        }
+    ],
+    "wof:id":1209522441,
+    "wof:lastmodified":1537656486,
+    "wof:name":"Kumgwang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.10627,
+    35.99225999999999,
+    127.10627,
+    35.99225999999999
+],
+  "geometry": {"coordinates":[127.10626999999999,35.99225999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343638109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42462,37.53946,126.42462,37.53946",
+    "geom:latitude":37.53946,
+    "geom:longitude":126.42462,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bakjeol",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203495,
+    "gn:latitude":37.53946,
+    "gn:longitude":126.42462,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Bakjeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc15\uc808"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890473555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203495
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5abea16c4e8709c9372e6b8f29c014cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473555,
+            "locality_id":1343638109,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1343638109,
+    "wof:lastmodified":1537659236,
+    "wof:name":"Bakjeol",
+    "wof:parent_id":890473555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42462,
+    37.53946,
+    126.42462,
+    37.53946
+],
+  "geometry": {"coordinates":[126.42462,37.53946],"type":"Point"}
+}

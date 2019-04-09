@@ -1,0 +1,67 @@
+{
+  "id": 1343225937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3,34.39028,125.3,34.39028",
+    "geom:latitude":34.39028,
+    "geom:longitude":125.3,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"T'aedo-ri",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885499,
+    "gn:latitude":34.39028,
+    "gn:longitude":125.3,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"T\u2019aedo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885499
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0c5938d291e6e920eed757fb4d48cd97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1343225937,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343225937,
+    "wof:lastmodified":1537081765,
+    "wof:name":"T'aedo-ri",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3,
+    34.39028,
+    125.3,
+    34.39028
+],
+  "geometry": {"coordinates":[125.3,34.39028],"type":"Point"}
+}

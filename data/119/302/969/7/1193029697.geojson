@@ -1,0 +1,67 @@
+{
+  "id": 1193029697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95,33.51667,126.95,33.51667",
+    "geom:latitude":33.51667,
+    "geom:longitude":126.95,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Samyang",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837914,
+    "gn:latitude":33.51667,
+    "gn:longitude":126.95,
+    "gn:modification_date":"1995-04-20",
+    "gn:name":"Samyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837914
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8ba0cf64b9112313d6c5002711e047bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1193029697,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1193029697,
+    "wof:lastmodified":1536365132,
+    "wof:name":"Samyang",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95,
+    33.51667,
+    126.95,
+    33.51667
+],
+  "geometry": {"coordinates":[126.95,33.51667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344254491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31548,37.93702,128.31548,37.93702",
+    "geom:latitude":37.93702,
+    "geom:longitude":128.31548,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Baegam",
+    "gn:country_code":"KR",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815638,
+    "gn:latitude":37.93702,
+    "gn:longitude":128.31548,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Baegam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc31\uc554\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\ubc31\uc554"
+    ],
+    "name:und_x_variant":[
+        "Paegam-dong",
+        "Baegam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815638
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"14edb877b1a5271c1be27026bd6bbf56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1344254491,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1344254491,
+    "wof:lastmodified":1537658061,
+    "wof:name":"Baegam",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31548,
+    37.93702,
+    128.31548,
+    37.93702
+],
+  "geometry": {"coordinates":[128.31548000000001,37.93702],"type":"Point"}
+}

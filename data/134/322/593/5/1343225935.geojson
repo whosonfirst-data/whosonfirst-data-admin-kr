@@ -1,0 +1,73 @@
+{
+  "id": 1343225935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20478,34.74245,127.20478,34.74245",
+    "geom:latitude":34.74245,
+    "geom:longitude":127.20478,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geumneung",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684712,
+    "gn:latitude":34.74245,
+    "gn:longitude":127.20478,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Geumneung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\ub989"
+    ],
+    "name:kor_x_variant":[
+        "K\u016dmn\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684712
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d7080112ae6292dd61a566e751237576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1343225935,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343225935,
+    "wof:lastmodified":1537657423,
+    "wof:name":"Geumneung",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20478,
+    34.74245,
+    127.20478,
+    34.74245
+],
+  "geometry": {"coordinates":[127.20478,34.74245],"type":"Point"}
+}

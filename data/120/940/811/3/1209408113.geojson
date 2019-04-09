@@ -1,0 +1,65 @@
+{
+  "id": 1209408113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.84194,36.08833,127.84194,36.08833",
+    "geom:latitude":36.08833,
+    "geom:longitude":127.84194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sanggoja",
+    "gn:country_code":"KR",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889122,
+    "gn:latitude":36.08833,
+    "gn:longitude":127.84194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanggoja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uace0\uc790",
+        "Sanggoja-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889122
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"31648a594e822c15758db3752ef4170b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209408113
+        }
+    ],
+    "wof:id":1209408113,
+    "wof:lastmodified":1537656804,
+    "wof:name":"Sanggoja",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.84194,
+    36.08833,
+    127.84194,
+    36.08833
+],
+  "geometry": {"coordinates":[127.84193999999999,36.08833],"type":"Point"}
+}

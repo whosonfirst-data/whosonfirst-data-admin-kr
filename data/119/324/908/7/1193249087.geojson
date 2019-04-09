@@ -1,0 +1,70 @@
+{
+  "id": 1193249087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.63552,36.10029,128.63552,36.10029",
+    "geom:latitude":36.10029,
+    "geom:longitude":128.63552,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Geosul",
+    "gn:country_code":"KR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940820,
+    "gn:latitude":36.10029,
+    "gn:longitude":128.63552,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Geosul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac70\uc220"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940820
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dee13e40342e908a28da78e462680b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474969,
+            "locality_id":1193249087,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193249087,
+    "wof:lastmodified":1537659091,
+    "wof:name":"Geosul",
+    "wof:parent_id":890474969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.63552,
+    36.10029,
+    128.63552,
+    36.10029
+],
+  "geometry": {"coordinates":[128.63552000000001,36.10029],"type":"Point"}
+}

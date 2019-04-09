@@ -1,0 +1,70 @@
+{
+  "id": 1193260503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81028,35.27148,126.81028,35.27148",
+    "geom:latitude":35.27148,
+    "geom:longitude":126.81028,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jeomchon",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170036,
+    "gn:latitude":35.27148,
+    "gn:longitude":126.81028,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jeomchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc810\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170036
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5a69b9c3372ec563ae54cef47ae5425e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1193260503,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193260503,
+    "wof:lastmodified":1537659184,
+    "wof:name":"Jeomchon",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81028,
+    35.27148,
+    126.81028,
+    35.27148
+],
+  "geometry": {"coordinates":[126.81028000000001,35.27148],"type":"Point"}
+}

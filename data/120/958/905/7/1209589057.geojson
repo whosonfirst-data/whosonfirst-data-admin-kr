@@ -1,0 +1,65 @@
+{
+  "id": 1209589057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3876,36.4328,128.3876,36.4328",
+    "geom:latitude":36.4328,
+    "geom:longitude":128.3876,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pamjol",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890261,
+    "gn:latitude":36.4328,
+    "gn:longitude":128.3876,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pamj\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc24\uc808",
+        "Pamj\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890261
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5d355dc161e837f50c04aa01a36d3152",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209589057
+        }
+    ],
+    "wof:id":1209589057,
+    "wof:lastmodified":1537658481,
+    "wof:name":"Pamjol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3876,
+    36.4328,
+    128.3876,
+    36.4328
+],
+  "geometry": {"coordinates":[128.38759999999999,36.4328],"type":"Point"}
+}

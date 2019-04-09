@@ -1,0 +1,72 @@
+{
+  "id": 1259562387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90611,37.30861,126.90611,37.30861",
+    "geom:latitude":37.30861,
+    "geom:longitude":126.90611,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Geongeon-dong",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6573848,
+    "gn:latitude":37.30861,
+    "gn:longitude":126.90611,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Geongeon-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac74\uac74\ub3d9",
+        "Geongeon-dong",
+        "K\u014fn\u2019g\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573848
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bed406754471bd5c101551e00fa30f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746409,
+            "locality_id":1259562387,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259562387,
+    "wof:lastmodified":1537657245,
+    "wof:name":"Geongeon-dong",
+    "wof:parent_id":1108746409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90611,
+    37.30861,
+    126.90611,
+    37.30861
+],
+  "geometry": {"coordinates":[126.90611,37.30861],"type":"Point"}
+}

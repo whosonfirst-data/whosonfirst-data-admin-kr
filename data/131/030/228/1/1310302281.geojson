@@ -1,0 +1,71 @@
+{
+  "id": 1310302281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.73917,38.13389,127.73917,38.13389",
+    "geom:latitude":38.13389,
+    "geom:longitude":127.73917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalguni",
+    "gn:country_code":"KR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367661,
+    "gn:latitude":38.13389,
+    "gn:longitude":127.73917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kalguni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac08\uad6c\ub2c8",
+        "Kalguni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367661
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9e17ec38d756f545ee21759399a57020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1310302281,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310302281,
+    "wof:lastmodified":1537657117,
+    "wof:name":"Kalguni",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.73917,
+    38.13389,
+    127.73917,
+    38.13389
+],
+  "geometry": {"coordinates":[127.73917,38.13389],"type":"Point"}
+}

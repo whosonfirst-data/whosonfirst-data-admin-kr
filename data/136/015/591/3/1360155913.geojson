@@ -1,0 +1,74 @@
+{
+  "id": 1360155913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74118,37.77184,126.74118,37.77184",
+    "geom:latitude":37.77184,
+    "geom:longitude":126.74118,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Joeumballi",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951148,
+    "gn:latitude":37.77184,
+    "gn:longitude":126.74118,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Joeumballi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc870\uc74c\ubc1c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Cho\u016dmbal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951148
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d32873561f5e587f25160bf0008de0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1360155913,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360155913,
+    "wof:lastmodified":1537656971,
+    "wof:name":"Joeumballi",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74118,
+    37.77184000000001,
+    126.74118,
+    37.77184000000001
+],
+  "geometry": {"coordinates":[126.74118,37.77184000000001],"type":"Point"}
+}

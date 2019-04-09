@@ -1,0 +1,72 @@
+{
+  "id": 1226622793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53364,37.2345,126.53364,37.2345",
+    "geom:latitude":37.2345,
+    "geom:longitude":126.53364,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Baenmal",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274195,
+    "gn:latitude":37.2345,
+    "gn:longitude":126.53364,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Baenmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc43\ub9d0",
+        "Baenmal",
+        "Paenmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890473555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274195
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"748f68a975ed21cb9289d3c1b60f88c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473555,
+            "locality_id":1226622793,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1226622793,
+    "wof:lastmodified":1537657010,
+    "wof:name":"Baenmal",
+    "wof:parent_id":890473555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53364,
+    37.2345,
+    126.53364,
+    37.2345
+],
+  "geometry": {"coordinates":[126.53364000000001,37.2345],"type":"Point"}
+}

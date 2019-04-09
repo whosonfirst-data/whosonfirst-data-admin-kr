@@ -1,0 +1,71 @@
+{
+  "id": 1259650047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5419,36.913,126.5419,36.913",
+    "geom:latitude":36.913,
+    "geom:longitude":126.5419,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Salgoji",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812133,
+    "gn:latitude":36.913,
+    "gn:longitude":126.5419,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Salgoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0b4\uace0\uc9c0",
+        "Salgoji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812133
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"369faeb7a6f6b12deb95d4ee4d222192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1259650047,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259650047,
+    "wof:lastmodified":1537657968,
+    "wof:name":"Salgoji",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5419,
+    36.913,
+    126.5419,
+    36.913
+],
+  "geometry": {"coordinates":[126.5419,36.913],"type":"Point"}
+}

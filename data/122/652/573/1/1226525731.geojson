@@ -1,0 +1,75 @@
+{
+  "id": 1226525731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23638,36.47277,128.23638,36.47277",
+    "geom:latitude":36.47277,
+    "geom:longitude":128.23638,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sutgui",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889849,
+    "gn:latitude":36.47277,
+    "gn:longitude":128.23638,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Sutgui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc22b\uad6c\uc774"
+    ],
+    "name:und_x_variant":[
+        "\uc22f\uad6c\uc774",
+        "Sukkui",
+        "Sutgui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889849
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"abc325d5d573255077da33dbf65a5301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1226525731,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226525731,
+    "wof:lastmodified":1537658463,
+    "wof:name":"Sutgui",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23638,
+    36.47277,
+    128.23638,
+    36.47277
+],
+  "geometry": {"coordinates":[128.23638,36.47277],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226629025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65828,35.83748,128.65828,35.83748",
+    "geom:latitude":35.83748,
+    "geom:longitude":128.65828,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Saecheong",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932629,
+    "gn:latitude":35.83748,
+    "gn:longitude":128.65828,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Saecheong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\uccad"
+    ],
+    "name:und_x_variant":[
+        "Saech\u2019\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890473007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932629
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fd4c7d49321146c1989bdc1bc2bd86b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473007,
+            "locality_id":1226629025,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1226629025,
+    "wof:lastmodified":1537656958,
+    "wof:name":"Saecheong",
+    "wof:parent_id":890473007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65828,
+    35.83748,
+    128.65828,
+    35.83748
+],
+  "geometry": {"coordinates":[128.65827999999999,35.83748],"type":"Point"}
+}

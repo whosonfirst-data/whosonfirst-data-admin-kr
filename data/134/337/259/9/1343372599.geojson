@@ -1,0 +1,71 @@
+{
+  "id": 1343372599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58278,33.47083,126.58278,33.47083",
+    "geom:latitude":33.47083,
+    "geom:longitude":126.58278,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yonggang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832520,
+    "gn:latitude":33.47083,
+    "gn:longitude":126.58278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yonggang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yonggang-ni",
+        "Yonggang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832520
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3117d61a995287a2b81493bca05ec730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1343372599,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1343372599,
+    "wof:lastmodified":1537655982,
+    "wof:name":"Yonggang-dong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58278,
+    33.47083,
+    126.58278,
+    33.47083
+],
+  "geometry": {"coordinates":[126.58278,33.47083],"type":"Point"}
+}

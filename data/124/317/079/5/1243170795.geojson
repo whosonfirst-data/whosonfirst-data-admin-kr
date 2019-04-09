@@ -1,0 +1,73 @@
+{
+  "id": 1243170795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62044,36.35579,127.62044,36.35579",
+    "geom:latitude":36.35579,
+    "geom:longitude":127.62044,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ukgye",
+    "gn:country_code":"KR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833766,
+    "gn:latitude":36.35579,
+    "gn:longitude":127.62044,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ukgye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ukkye-ri",
+        "Ukkye",
+        "\uc6b1\uacc4",
+        "Ukgye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833766
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5fc92dd5aa9e200968d52c6981c26b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1243170795,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243170795,
+    "wof:lastmodified":1537656050,
+    "wof:name":"Ukgye",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62044,
+    36.35579,
+    127.62044,
+    36.35579
+],
+  "geometry": {"coordinates":[127.62044,36.35579],"type":"Point"}
+}

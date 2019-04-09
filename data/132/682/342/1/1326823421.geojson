@@ -1,0 +1,73 @@
+{
+  "id": 1326823421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9073,37.0941,127.9073,37.0941",
+    "geom:latitude":37.0941,
+    "geom:longitude":127.9073,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podulgae",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795960,
+    "gn:latitude":37.0941,
+    "gn:longitude":127.9073,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fd\u016dlgae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc84\ub4e4\uac1c"
+    ],
+    "name:kor_x_variant":[
+        "P\u014fd\u016dlgae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795960
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c92f062b068aae70f45b2c21cb8158a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1326823421,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1326823421,
+    "wof:lastmodified":1537657542,
+    "wof:name":"Podulgae",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9073,
+    37.0941,
+    127.9073,
+    37.0941
+],
+  "geometry": {"coordinates":[127.90730000000001,37.0941],"type":"Point"}
+}

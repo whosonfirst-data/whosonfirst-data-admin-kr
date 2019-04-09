@@ -1,0 +1,73 @@
+{
+  "id": 1209802403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.61528,37.58722,126.61528,37.58722",
+    "geom:latitude":37.58722,
+    "geom:longitude":126.61528,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sungdo",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364042,
+    "gn:latitude":37.58722,
+    "gn:longitude":126.61528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u016dngdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2b9\ub3c4"
+    ],
+    "name:kor_x_variant":[
+        "S\u016dngdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364042
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7ee8db6463baa2711e9d3df78a34163e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746517,
+            "locality_id":1209802403,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1209802403,
+    "wof:lastmodified":1537657065,
+    "wof:name":"Sungdo",
+    "wof:parent_id":1108746517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.61528,
+    37.58722,
+    126.61528,
+    37.58722
+],
+  "geometry": {"coordinates":[126.61528,37.58722],"type":"Point"}
+}

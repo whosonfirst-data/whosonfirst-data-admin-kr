@@ -1,0 +1,73 @@
+{
+  "id": 1259943397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86667,36.83333,126.86667,36.83333",
+    "geom:latitude":36.83333,
+    "geom:longitude":126.86667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soegol",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836670,
+    "gn:latitude":36.83333,
+    "gn:longitude":126.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016dmgok",
+        "Soekol",
+        "Soegol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836670
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c6cf231048607a41952c0c5ddde6cbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1259943397,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259943397,
+    "wof:lastmodified":1537656198,
+    "wof:name":"Soegol",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86667,
+    36.83333,
+    126.86667,
+    36.83333
+],
+  "geometry": {"coordinates":[126.86667,36.83333],"type":"Point"}
+}

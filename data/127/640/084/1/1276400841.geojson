@@ -1,0 +1,71 @@
+{
+  "id": 1276400841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3057,35.56322,128.3057,35.56322",
+    "geom:latitude":35.56322,
+    "geom:longitude":128.3057,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chukko",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901832,
+    "gn:latitude":35.56322,
+    "gn:longitude":128.3057,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chukko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc8fd\uace0",
+        "Chukko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901832
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dffa54e5b9e9ba685772dbea9860219b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1276400841,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276400841,
+    "wof:lastmodified":1537658801,
+    "wof:name":"Chukko",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3057,
+    35.56322,
+    128.3057,
+    35.56322
+],
+  "geometry": {"coordinates":[128.3057,35.56322],"type":"Point"}
+}

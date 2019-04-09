@@ -1,0 +1,70 @@
+{
+  "id": 1360156515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75395,35.03208,126.75395,35.03208",
+    "geom:latitude":35.03208,
+    "geom:longitude":126.75395,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geumgu",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180597,
+    "gn:latitude":35.03208,
+    "gn:longitude":126.75395,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Geumgu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uad6c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180597
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"46f57bbd42768506e743d4d965460207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1360156515,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360156515,
+    "wof:lastmodified":1537659222,
+    "wof:name":"Geumgu",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75395,
+    35.03208,
+    126.75395,
+    35.03208
+],
+  "geometry": {"coordinates":[126.75395,35.03208],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209486581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59306,37.48528,127.59306,37.48528",
+    "geom:latitude":37.48528,
+    "geom:longitude":127.59306,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yongmun",
+    "gn:country_code":"KR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576398,
+    "gn:latitude":37.48528,
+    "gn:longitude":127.59306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\ubb38",
+        "Yongmun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576398
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8c04f6d5d1e83e1069a3bf70da011a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209486581
+        }
+    ],
+    "wof:id":1209486581,
+    "wof:lastmodified":1537657313,
+    "wof:name":"Yongmun",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59306,
+    37.48528,
+    127.59306,
+    37.48528
+],
+  "geometry": {"coordinates":[127.59305999999999,37.48528],"type":"Point"}
+}

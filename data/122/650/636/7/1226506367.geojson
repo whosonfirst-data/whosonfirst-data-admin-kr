@@ -1,0 +1,73 @@
+{
+  "id": 1226506367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.56865,34.7777,127.56865,34.7777",
+    "geom:latitude":34.7777,
+    "geom:longitude":127.56865,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gunghang",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842092,
+    "gn:latitude":34.7777,
+    "gn:longitude":127.56865,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Gunghang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad81\ud56d"
+    ],
+    "name:und_x_variant":[
+        "Kunghang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842092
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7ee9e04a2bc2c6078fb7b217d9bbdcf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1226506367,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226506367,
+    "wof:lastmodified":1537656480,
+    "wof:name":"Gunghang",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.56865,
+    34.7777,
+    127.56865,
+    34.7777
+],
+  "geometry": {"coordinates":[127.56865000000001,34.7777],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277003801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.04861,37.62111,129.04861,37.62111",
+    "geom:latitude":37.62111,
+    "geom:longitude":129.04861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chusu",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889394,
+    "gn:latitude":37.62111,
+    "gn:longitude":129.04861,
+    "gn:modification_date":"1996-05-20",
+    "gn:name":"Chusu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889394
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7f0332fc6451bbdc4956f38d53dc6d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1277003801,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1277003801,
+    "wof:lastmodified":1536874161,
+    "wof:name":"Chusu",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.04861,
+    37.62111,
+    129.04861,
+    37.62111
+],
+  "geometry": {"coordinates":[129.04861,37.62111],"type":"Point"}
+}

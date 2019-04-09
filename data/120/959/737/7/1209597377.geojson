@@ -1,0 +1,64 @@
+{
+  "id": 1209597377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36459,34.75681,127.36459,34.75681",
+    "geom:latitude":34.75681,
+    "geom:longitude":127.36459,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Waya",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880861,
+    "gn:latitude":34.75681,
+    "gn:longitude":127.36459,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Waya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc640\uc57c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880861
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"084ae11a8f99019652e082bb6ddb695d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209597377
+        }
+    ],
+    "wof:id":1209597377,
+    "wof:lastmodified":1537656735,
+    "wof:name":"Waya",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36459,
+    34.75680999999999,
+    127.36459,
+    34.75680999999999
+],
+  "geometry": {"coordinates":[127.36459000000001,34.75680999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343453107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.56301,38.19515,128.56301,38.19515",
+    "geom:latitude":38.19515,
+    "geom:longitude":128.56301,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Doriwolli",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834065,
+    "gn:latitude":38.19515,
+    "gn:longitude":128.56301,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Doriwolli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ub9ac\uc6d0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Toriw\u014fn",
+        "Toriw\u014fl-li",
+        "Doriwolli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834065
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b163c0e882b2d2298ad2f5df8f70e070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476055,
+            "locality_id":1343453107,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343453107,
+    "wof:lastmodified":1537656065,
+    "wof:name":"Doriwolli",
+    "wof:parent_id":890476055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.56301000000002,
+    38.19515,
+    128.56301000000002,
+    38.19515
+],
+  "geometry": {"coordinates":[128.56301000000002,38.19515],"type":"Point"}
+}

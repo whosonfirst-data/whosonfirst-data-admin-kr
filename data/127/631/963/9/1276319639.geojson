@@ -1,0 +1,75 @@
+{
+  "id": 1276319639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96317,37.77326,126.96317,37.77326",
+    "geom:latitude":37.77326,
+    "geom:longitude":126.96317,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Teokgol",
+    "gn:country_code":"KR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799406,
+    "gn:latitude":37.77326,
+    "gn:longitude":126.96317,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Teokgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud131\uace8"
+    ],
+    "name:und_x_variant":[
+        "\ud130\uace8",
+        "T\u2019\u014f-gol",
+        "Teokgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799406
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cfd5dd3d937767d3294c42793f8d57fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1276319639,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276319639,
+    "wof:lastmodified":1537657636,
+    "wof:name":"Teokgol",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96317,
+    37.77326,
+    126.96317,
+    37.77326
+],
+  "geometry": {"coordinates":[126.96317000000001,37.77326],"type":"Point"}
+}

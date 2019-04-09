@@ -1,0 +1,67 @@
+{
+  "id": 1260353027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95611,34.69778,125.95611,34.69778",
+    "geom:latitude":34.69778,
+    "geom:longitude":125.95611,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kunghang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842088,
+    "gn:latitude":34.69778,
+    "gn:longitude":125.95611,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Kunghang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842088
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a29a632f14d0598865e34b637481b1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1260353027,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260353027,
+    "wof:lastmodified":1536616614,
+    "wof:name":"Kunghang-ni",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95611,
+    34.69778,
+    125.95611,
+    34.69778
+],
+  "geometry": {"coordinates":[125.95611,34.69778],"type":"Point"}
+}

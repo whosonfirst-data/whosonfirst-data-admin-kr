@@ -1,0 +1,74 @@
+{
+  "id": 1209070213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.32806,34.405,126.32806,34.405",
+    "geom:latitude":34.405,
+    "geom:longitude":126.32806,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"Chindo-gun",
+    "gn:asciiname":"Songcheon",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836237,
+    "gn:latitude":34.405,
+    "gn:longitude":126.32806,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Songcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Sh\u014dsen-ri",
+        "Songgul-li",
+        "Songgun-ni",
+        "Songch\u2019\u014fn-ni",
+        "Songch\u2019on",
+        "Songgun",
+        "Songcheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836237
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a8371a0c7221bbcf4338e7f7565d3ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209070213
+        }
+    ],
+    "wof:id":1209070213,
+    "wof:lastmodified":1537656177,
+    "wof:name":"Songcheon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.32806,
+    34.405,
+    126.32806,
+    34.405
+],
+  "geometry": {"coordinates":[126.32805999999999,34.405],"type":"Point"}
+}

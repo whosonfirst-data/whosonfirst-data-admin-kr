@@ -1,0 +1,74 @@
+{
+  "id": 1293274279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51806,34.30667,126.51806,34.30667",
+    "geom:latitude":34.30667,
+    "geom:longitude":126.51806,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kalsan",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843266,
+    "gn:latitude":34.30667,
+    "gn:longitude":126.51806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Nae-dong",
+        "Kalsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843266
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"abf5a53c8a88f633528d6581cd9d36d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1293274279,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293274279,
+    "wof:lastmodified":1537656539,
+    "wof:name":"Kalsan",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51806,
+    34.30667,
+    126.51806,
+    34.30667
+],
+  "geometry": {"coordinates":[126.51806000000001,34.30667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276957717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15073,38.01809,127.15073,38.01809",
+    "geom:latitude":38.01809,
+    "geom:longitude":127.15073,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Baemoru",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839370,
+    "gn:latitude":38.01809,
+    "gn:longitude":127.15073,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Baemoru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc30\ubaa8\ub8e8"
+    ],
+    "name:und_x_variant":[
+        "Yuru",
+        "Pammol",
+        "Pemoru",
+        "Pammoru",
+        "Baemoru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839370
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"04232cddfabed43206f48aef92dda171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1276957717,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276957717,
+    "wof:lastmodified":1537656341,
+    "wof:name":"Baemoru",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15073,
+    38.01809,
+    127.15073,
+    38.01809
+],
+  "geometry": {"coordinates":[127.15073,38.01809],"type":"Point"}
+}

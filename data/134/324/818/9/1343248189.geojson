@@ -1,0 +1,74 @@
+{
+  "id": 1343248189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.237,37.5413,127.237,37.5413",
+    "geom:latitude":37.5413,
+    "geom:longitude":127.237,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bakkatchangmoru",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802900,
+    "gn:latitude":37.5413,
+    "gn:longitude":127.237,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bakkatchangmoru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc14\uae65\ucc3d\ubaa8\ub8e8"
+    ],
+    "name:und_x_variant":[
+        "\ubc14\uae65\ucc3d\ubaa8\ub8e8",
+        "Bakkatchangmoru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802900
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"53f44dbb1cbb0a42d0e9ebfe06311c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1343248189,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343248189,
+    "wof:lastmodified":1537657760,
+    "wof:name":"Bakkatchangmoru",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.237,
+    37.5413,
+    127.237,
+    37.5413
+],
+  "geometry": {"coordinates":[127.23699999999999,37.5413],"type":"Point"}
+}

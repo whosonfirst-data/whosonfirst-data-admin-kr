@@ -1,0 +1,75 @@
+{
+  "id": 1327409045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.47222,36.41092,127.47222,36.41092",
+    "geom:latitude":36.41092,
+    "geom:longitude":127.47222,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hyodeul",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888995,
+    "gn:latitude":36.41092,
+    "gn:longitude":127.47222,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Hyodeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud6a8\ub4e4"
+    ],
+    "name:und_x_variant":[
+        "\uc18c\ub4e4",
+        "Sod\u016dl",
+        "Hyodeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888995
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c18bdc45ff6aec17db98fa3781b15327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746447,
+            "locality_id":1327409045,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1327409045,
+    "wof:lastmodified":1537658449,
+    "wof:name":"Hyodeul",
+    "wof:parent_id":1108746447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.47222,
+    36.41092,
+    127.47222,
+    36.41092
+],
+  "geometry": {"coordinates":[127.47221999999999,36.41092],"type":"Point"}
+}

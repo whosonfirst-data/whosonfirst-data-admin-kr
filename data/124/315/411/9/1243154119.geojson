@@ -1,0 +1,70 @@
+{
+  "id": 1243154119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98928,35.25561,126.98928,35.25561",
+    "geom:latitude":35.25561,
+    "geom:longitude":126.98928,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gidong",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170748,
+    "gn:latitude":35.25561,
+    "gn:longitude":126.98928,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170748
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d871d9e508a7bc01dcb46a190bbf1161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1243154119,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243154119,
+    "wof:lastmodified":1537659193,
+    "wof:name":"Gidong",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98928,
+    35.25561,
+    126.98928,
+    35.25561
+],
+  "geometry": {"coordinates":[126.98927999999999,35.25561],"type":"Point"}
+}

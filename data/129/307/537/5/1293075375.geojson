@@ -1,0 +1,72 @@
+{
+  "id": 1293075375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.33461,35.32131,128.33461,35.32131",
+    "geom:latitude":35.32131,
+    "geom:longitude":128.33461,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kangju-ri",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894728,
+    "gn:latitude":35.32131,
+    "gn:longitude":128.33461,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kangju-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac15\uc8fc\ub9ac",
+        "Kangju",
+        "Kangju-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894728
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a0c7c7df0b1c85fb05b96ebf5a155cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474513,
+            "locality_id":1293075375,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293075375,
+    "wof:lastmodified":1537656865,
+    "wof:name":"Kangju-ri",
+    "wof:parent_id":890474513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.33461,
+    35.32131,
+    128.33461,
+    35.32131
+],
+  "geometry": {"coordinates":[128.33461,35.32131],"type":"Point"}
+}

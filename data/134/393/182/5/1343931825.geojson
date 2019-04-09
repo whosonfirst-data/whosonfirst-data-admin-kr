@@ -1,0 +1,67 @@
+{
+  "id": 1343931825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.08722,35.50278,129.08722,35.50278",
+    "geom:latitude":35.50278,
+    "geom:longitude":129.08722,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Habang",
+    "gn:country_code":"KR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900940,
+    "gn:latitude":35.50278,
+    "gn:longitude":129.08722,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Habang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900940
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"124ff018da606654f8ba3539cb13c786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1343931825,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343931825,
+    "wof:lastmodified":1537058832,
+    "wof:name":"Habang",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.08722,
+    35.50278,
+    129.08722,
+    35.50278
+],
+  "geometry": {"coordinates":[129.08722,35.50278],"type":"Point"}
+}

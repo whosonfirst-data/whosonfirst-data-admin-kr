@@ -1,0 +1,65 @@
+{
+  "id": 1209626701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26224,35.82542,127.26224,35.82542",
+    "geom:latitude":35.82542,
+    "geom:longitude":127.26224,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yangam-ni",
+    "gn:country_code":"KR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896139,
+    "gn:latitude":35.82542,
+    "gn:longitude":127.26224,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yangam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc57d\uc554\ub9ac",
+        "Yangam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896139
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e554db703a369147a9288e5cbddba4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209626701
+        }
+    ],
+    "wof:id":1209626701,
+    "wof:lastmodified":1537658649,
+    "wof:name":"Yangam-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26224,
+    35.82542,
+    127.26224,
+    35.82542
+],
+  "geometry": {"coordinates":[127.26224000000001,35.82542],"type":"Point"}
+}

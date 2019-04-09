@@ -1,0 +1,65 @@
+{
+  "id": 1209586321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13939,35.9476,128.13939,35.9476",
+    "geom:latitude":35.9476,
+    "geom:longitude":128.13939,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Isilmi",
+    "gn:country_code":"KR",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902401,
+    "gn:latitude":35.9476,
+    "gn:longitude":128.13939,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Isilmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc774\uc2e4\ubbf8",
+        "Isilmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902401
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7b3fe2de911e58146105509f89034022",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586321
+        }
+    ],
+    "wof:id":1209586321,
+    "wof:lastmodified":1537658816,
+    "wof:name":"Isilmi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13939,
+    35.9476,
+    128.13939,
+    35.9476
+],
+  "geometry": {"coordinates":[128.13938999999999,35.9476],"type":"Point"}
+}

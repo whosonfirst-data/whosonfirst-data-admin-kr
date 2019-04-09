@@ -1,0 +1,75 @@
+{
+  "id": 1327305851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52536,34.64896,126.52536,34.64896",
+    "geom:latitude":34.64896,
+    "geom:longitude":126.52536,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dangdu",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834908,
+    "gn:latitude":34.64896,
+    "gn:longitude":126.52536,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Dangdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\ub450"
+    ],
+    "name:und_x_variant":[
+        "Tangdu-ri",
+        "Tangdu",
+        "Dangdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834908
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5f15dae46845f6a398414d9304462a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1327305851,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327305851,
+    "wof:lastmodified":1537656114,
+    "wof:name":"Dangdu",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52536,
+    34.64896,
+    126.52536,
+    34.64896
+],
+  "geometry": {"coordinates":[126.52536000000001,34.64896],"type":"Point"}
+}

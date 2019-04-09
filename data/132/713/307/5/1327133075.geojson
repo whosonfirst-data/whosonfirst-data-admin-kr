@@ -1,0 +1,71 @@
+{
+  "id": 1327133075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5805,36.4444,127.5805,36.4444",
+    "geom:latitude":36.4444,
+    "geom:longitude":127.5805,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hoenam",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884448,
+    "gn:latitude":36.4444,
+    "gn:longitude":127.5805,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hoenam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud68c\ub0a8",
+        "Hoenam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884448
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"78a8be980a1c1c6296bf1ee4c5577253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472333,
+            "locality_id":1327133075,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1327133075,
+    "wof:lastmodified":1537658321,
+    "wof:name":"Hoenam",
+    "wof:parent_id":890472333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5805,
+    36.4444,
+    127.5805,
+    36.4444
+],
+  "geometry": {"coordinates":[127.5805,36.4444],"type":"Point"}
+}

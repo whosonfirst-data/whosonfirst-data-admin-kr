@@ -1,0 +1,65 @@
+{
+  "id": 1209426289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.09119,35.92337,127.09119,35.92337",
+    "geom:latitude":35.92337,
+    "geom:longitude":127.09119,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nongwon",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877907,
+    "gn:latitude":35.92337,
+    "gn:longitude":127.09119,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nongw\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub18d\uc6d0",
+        "Nongw\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877907
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"32ffe34952d7218c30c3076897751e1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209426289
+        }
+    ],
+    "wof:id":1209426289,
+    "wof:lastmodified":1537658177,
+    "wof:name":"Nongwon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.09119,
+    35.92337,
+    127.09119,
+    35.92337
+],
+  "geometry": {"coordinates":[127.09119,35.92337],"type":"Point"}
+}

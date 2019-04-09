@@ -1,0 +1,75 @@
+{
+  "id": 1242569847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13403,38.14158,128.13403,38.14158",
+    "geom:latitude":38.14158,
+    "geom:longitude":128.13403,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Anggeumbadi",
+    "gn:country_code":"KR",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7584350,
+    "gn:latitude":38.14158,
+    "gn:longitude":128.13403,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Anggeumbadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc559\uae08\ubc1b\uc774"
+    ],
+    "name:und_x_variant":[
+        "Angg\u016dmbat",
+        "\uc559\uae08\ubc2d",
+        "Anggeumbadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7584350
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c514090311e1bf0b929cf56592e72d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1242569847,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242569847,
+    "wof:lastmodified":1537658882,
+    "wof:name":"Anggeumbadi",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13403,
+    38.14158,
+    128.13403,
+    38.14158
+],
+  "geometry": {"coordinates":[128.13403,38.14158],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1126089599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1725,37.46333,127.1725,37.46333",
+    "geom:latitude":37.46333,
+    "geom:longitude":127.1725,
+    "gn:gn_country":"KR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:latitude":37.46333,
+    "gn:longitude":127.1725,
+    "iso:country":"KR",
+    "lbl:latitude":37.46333,
+    "lbl:longitude":127.1725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kor_x_preferred":[
+        "\uc740\ud5892\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uc740\ud5892"
+    ],
+    "name:unk_x_variant":[
+        "Eunhaengi-dong",
+        "\uc740\ud5892\ub3d9"
+    ],
+    "qs_pg:aaroncc":"KR",
+    "qs_pg:gn_country":"KR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6571531,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\uc740\ud5892\ub3d9",
+    "qs_pg:name_adm0":"\ud55c\uad6d",
+    "qs_pg:name_adm1":"\uacbd\uae30\ub3c4",
+    "qs_pg:photos":64,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":64,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":358490,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424868,
+    "qs_pg:woe_id":28806718,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424868,
+    "woe:name_adm0":"\ud55c\uad6d",
+    "woe:name_adm1":"\uacbd\uae30\ub3c4",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85673191,
+        102191569,
+        85632231,
+        1108746521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6571531,
+        "gp:id":28806718,
+        "qs:id":358490,
+        "qs_pg:id":358490
+    },
+    "wof:country":"KR",
+    "wof:created":1497313470,
+    "wof:geomhash":"43f43e427fd6b44418ca7ff45fe7820d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746521,
+            "locality_id":-1,
+            "neighbourhood_id":1126089599,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1126089599,
+    "wof:lastmodified":1534379374,
+    "wof:name":"\uc740\ud5892\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85925441
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1725,
+    37.46333,
+    127.1725,
+    37.46333
+],
+  "geometry": {"coordinates":[127.1725,37.46333],"type":"Point"}
+}

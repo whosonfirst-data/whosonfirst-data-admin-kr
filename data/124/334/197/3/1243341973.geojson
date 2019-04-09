@@ -1,0 +1,70 @@
+{
+  "id": 1243341973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.24749,35.24078,129.24749,35.24078",
+    "geom:latitude":35.24078,
+    "geom:longitude":129.24749,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Woljeon",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097961,
+    "gn:latitude":35.24078,
+    "gn:longitude":129.24749,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Woljeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097961
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c9e662775132c6a35dd269b9db8d99a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1243341973,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1243341973,
+    "wof:lastmodified":1537659155,
+    "wof:name":"Woljeon",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.24749,
+    35.24078,
+    129.24749,
+    35.24078
+],
+  "geometry": {"coordinates":[129.24749,35.24078],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343634899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.00509,35.85381,128.00509,35.85381",
+    "geom:latitude":35.85381,
+    "geom:longitude":128.00509,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sudo",
+    "gn:country_code":"KR",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893656,
+    "gn:latitude":35.85381,
+    "gn:longitude":128.00509,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sudo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sudo-ri",
+        "\uc218\ub3c4",
+        "Sudo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893656
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8ea8ac5be0154012b28b114d4c399de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1343634899,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343634899,
+    "wof:lastmodified":1537656834,
+    "wof:name":"Sudo",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.00509,
+    35.85381,
+    128.00509,
+    35.85381
+],
+  "geometry": {"coordinates":[128.00509,35.85381],"type":"Point"}
+}

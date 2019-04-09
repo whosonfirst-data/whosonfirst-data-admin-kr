@@ -1,0 +1,71 @@
+{
+  "id": 1242741301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3635,36.5811,126.3635,36.5811",
+    "geom:latitude":36.5811,
+    "geom:longitude":126.3635,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"T'ongsaem-gol",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808750,
+    "gn:latitude":36.5811,
+    "gn:longitude":126.3635,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019ongsaem-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud1b5\uc0d8\uace8",
+        "T\u2019ongsaem-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808750
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7d0c121307c480136251e92a566cdc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1242741301,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1242741301,
+    "wof:lastmodified":1537657846,
+    "wof:name":"T'ongsaem-gol",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3635,
+    36.5811,
+    126.3635,
+    36.5811
+],
+  "geometry": {"coordinates":[126.3635,36.5811],"type":"Point"}
+}

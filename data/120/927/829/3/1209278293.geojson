@@ -1,0 +1,62 @@
+{
+  "id": 1209278293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.2575,34.48167,126.2575,34.48167",
+    "geom:latitude":34.48167,
+    "geom:longitude":126.2575,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"Chindo-gun",
+    "gn:asciiname":"Chogum-ni",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6306159,
+    "gn:latitude":34.48167,
+    "gn:longitude":126.2575,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Chog\u016dm-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6306159
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"455810615659ad7ae5a20380edad44e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209278293
+        }
+    ],
+    "wof:id":1209278293,
+    "wof:lastmodified":1536292114,
+    "wof:name":"Chogum-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.2575,
+    34.48167,
+    126.2575,
+    34.48167
+],
+  "geometry": {"coordinates":[126.25749999999999,34.48167],"type":"Point"}
+}

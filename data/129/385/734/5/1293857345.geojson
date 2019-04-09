@@ -1,0 +1,71 @@
+{
+  "id": 1293857345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3636,36.2857,128.3636,36.2857",
+    "geom:latitude":36.2857,
+    "geom:longitude":128.3636,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Somma",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890642,
+    "gn:latitude":36.2857,
+    "gn:longitude":128.3636,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fmma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc12c\ub9c8",
+        "S\u014fmma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890642
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2795b215bf276ec5895c87c60289a794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472251,
+            "locality_id":1293857345,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293857345,
+    "wof:lastmodified":1537658486,
+    "wof:name":"Somma",
+    "wof:parent_id":890472251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3636,
+    36.2857,
+    128.3636,
+    36.2857
+],
+  "geometry": {"coordinates":[128.36359999999999,36.2857],"type":"Point"}
+}

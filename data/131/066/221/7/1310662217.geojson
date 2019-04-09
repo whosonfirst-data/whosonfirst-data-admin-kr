@@ -1,0 +1,67 @@
+{
+  "id": 1310662217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.14056,35.04306,128.14056,35.04306",
+    "geom:latitude":35.04306,
+    "geom:longitude":128.14056,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Poksang",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894465,
+    "gn:latitude":35.04306,
+    "gn:longitude":128.14056,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Poksang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894465
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2c8822217c4d7c4bd1eccbc692931010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473489,
+            "locality_id":1310662217,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1310662217,
+    "wof:lastmodified":1536691090,
+    "wof:name":"Poksang",
+    "wof:parent_id":890473489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.14056000000002,
+    35.04306,
+    128.14056000000002,
+    35.04306
+],
+  "geometry": {"coordinates":[128.14056000000002,35.04306],"type":"Point"}
+}

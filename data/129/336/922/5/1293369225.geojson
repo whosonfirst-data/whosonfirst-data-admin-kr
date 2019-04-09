@@ -1,0 +1,72 @@
+{
+  "id": 1293369225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38389,37.33222,127.38389,37.33222",
+    "geom:latitude":37.33222,
+    "geom:longitude":127.38389,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tolmuni",
+    "gn:country_code":"KR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577539,
+    "gn:latitude":37.33222,
+    "gn:longitude":127.38389,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tolmuni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3cc\ubb38\uc774",
+        "Dolmuni",
+        "Tolmuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577539
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"75ad0934462c566f643ee5024da3b3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1293369225,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293369225,
+    "wof:lastmodified":1537657371,
+    "wof:name":"Tolmuni",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38389,
+    37.33222,
+    127.38389,
+    37.33222
+],
+  "geometry": {"coordinates":[127.38388999999999,37.33222],"type":"Point"}
+}

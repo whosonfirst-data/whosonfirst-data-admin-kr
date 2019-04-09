@@ -1,0 +1,71 @@
+{
+  "id": 1309970663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85225,35.83415,127.85225,35.83415",
+    "geom:latitude":35.83415,
+    "geom:longitude":127.85225,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Okchon",
+    "gn:country_code":"KR",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880071,
+    "gn:latitude":35.83415,
+    "gn:longitude":127.85225,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Okch\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc625\uc804",
+        "Okch\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880071
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"378b8e9ee62f3c3a97589c87a0ecdd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1309970663,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1309970663,
+    "wof:lastmodified":1537658244,
+    "wof:name":"Okchon",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85225,
+    35.83415,
+    127.85225,
+    35.83415
+],
+  "geometry": {"coordinates":[127.85225,35.83415],"type":"Point"}
+}

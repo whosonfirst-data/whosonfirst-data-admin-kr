@@ -1,0 +1,71 @@
+{
+  "id": 1242647863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.3868,36.881,129.3868,36.881",
+    "geom:latitude":36.881,
+    "geom:longitude":129.3868,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Haiul",
+    "gn:country_code":"KR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879732,
+    "gn:latitude":36.881,
+    "gn:longitude":129.3868,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Haiul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uc774\uc6b8",
+        "Haiul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879732
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c642233cf098a67b6b07e3aad172e57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1242647863,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242647863,
+    "wof:lastmodified":1537658235,
+    "wof:name":"Haiul",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.3868,
+    36.881,
+    129.3868,
+    36.881
+],
+  "geometry": {"coordinates":[129.38679999999999,36.881],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276530131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69028,34.49,126.69028,34.49",
+    "geom:latitude":34.49,
+    "geom:longitude":126.69028,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gyokan-ri",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839910,
+    "gn:latitude":34.49,
+    "gn:longitude":126.69028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gyokan-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\uad00"
+    ],
+    "name:kor_x_variant":[
+        "\u014egwan"
+    ],
+    "name:und_x_variant":[
+        "\u014egwan-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839910
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c1c68c5225cfe6c4f584379d1d1a1b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1276530131,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276530131,
+    "wof:lastmodified":1537656369,
+    "wof:name":"Gyokan-ri",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69028,
+    34.49,
+    126.69028,
+    34.49
+],
+  "geometry": {"coordinates":[126.69028,34.49],"type":"Point"}
+}

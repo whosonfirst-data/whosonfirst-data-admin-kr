@@ -1,0 +1,61 @@
+{
+  "id": 1209391023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05,36.6,127.05,36.6",
+    "geom:latitude":36.6,
+    "geom:longitude":127.05,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kunjon",
+    "gn:country_code":"KR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842047,
+    "gn:latitude":36.6,
+    "gn:longitude":127.05,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"K\u016dnj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842047
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f93e712f3f7a306f354ab8961e08a0df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209391023
+        }
+    ],
+    "wof:id":1209391023,
+    "wof:lastmodified":1536288460,
+    "wof:name":"Kunjon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05,
+    36.6,
+    127.05,
+    36.6
+],
+  "geometry": {"coordinates":[127.05,36.6],"type":"Point"}
+}

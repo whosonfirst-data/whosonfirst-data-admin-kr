@@ -1,0 +1,74 @@
+{
+  "id": 1226629023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.48189,35.8883,128.48189,35.8883",
+    "geom:latitude":35.8883,
+    "geom:longitude":128.48189,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dallae",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932551,
+    "gn:latitude":35.8883,
+    "gn:longitude":128.48189,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dallae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2ec\ub0b4",
+        "Talnae",
+        "Tallae",
+        "Dallnae",
+        "Dallae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932551
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3fd649414cf2b2217f7a81bbf23a37eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1226629023,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1226629023,
+    "wof:lastmodified":1537656956,
+    "wof:name":"Dallae",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.48189,
+    35.8883,
+    128.48189,
+    35.8883
+],
+  "geometry": {"coordinates":[128.48188999999999,35.8883],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209786387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4493,36.70665,128.4493,36.70665",
+    "geom:latitude":36.70665,
+    "geom:longitude":128.4493,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Keunmatjil",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842037,
+    "gn:latitude":36.70665,
+    "gn:longitude":128.4493,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Keunmatjil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\ub9db\uc9c8"
+    ],
+    "name:und_x_variant":[
+        "Taej\u014f-dong",
+        "K\u2019\u016dnmassil",
+        "Keunmatjil",
+        "K\u2019\u016dnmatchil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842037
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f13724807ee978886bb71ea99c7532ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1209786387,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209786387,
+    "wof:lastmodified":1537656476,
+    "wof:name":"Keunmatjil",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4493,
+    36.70665,
+    128.4493,
+    36.70665
+],
+  "geometry": {"coordinates":[128.44929999999999,36.70665],"type":"Point"}
+}

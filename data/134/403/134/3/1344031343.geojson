@@ -1,0 +1,76 @@
+{
+  "id": 1344031343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.4626,35.67447,129.4626,35.67447",
+    "geom:latitude":35.67447,
+    "geom:longitude":129.4626,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Haseo",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844336,
+    "gn:latitude":35.67447,
+    "gn:longitude":129.4626,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Haseo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc11c"
+    ],
+    "name:und_x_variant":[
+        "Has\u014f-ri",
+        "Has\u014f-ni",
+        "Has\u014f",
+        "Haseo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844336
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d09edb0c0714fdeb7d3ba40d18f72558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1344031343,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344031343,
+    "wof:lastmodified":1537656589,
+    "wof:name":"Haseo",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.4626,
+    35.67447,
+    129.4626,
+    35.67447
+],
+  "geometry": {"coordinates":[129.46260000000001,35.67447],"type":"Point"}
+}

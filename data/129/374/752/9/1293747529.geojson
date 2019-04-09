@@ -1,0 +1,67 @@
+{
+  "id": 1293747529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.90778,34.73972,125.90778,34.73972",
+    "geom:latitude":34.73972,
+    "geom:longitude":125.90778,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oech'on",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840024,
+    "gn:latitude":34.73972,
+    "gn:longitude":125.90778,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Oech\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840024
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d0530ad4cc92b57fd89552989c883902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1293747529,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293747529,
+    "wof:lastmodified":1536909768,
+    "wof:name":"Oech'on",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.90778,
+    34.73972,
+    125.90778,
+    34.73972
+],
+  "geometry": {"coordinates":[125.90778,34.73972],"type":"Point"}
+}

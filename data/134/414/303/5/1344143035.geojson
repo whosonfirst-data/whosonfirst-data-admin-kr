@@ -1,0 +1,73 @@
+{
+  "id": 1344143035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52002,37.07748,127.52002,37.07748",
+    "geom:latitude":37.07748,
+    "geom:longitude":127.52002,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bonjuk-ri",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6813077,
+    "gn:latitude":37.07748,
+    "gn:longitude":127.52002,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bonjuk-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf8\uc8fd\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ponjung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813077
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e9c9a9ac469c79b6c0beb81794c90dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1344143035,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344143035,
+    "wof:lastmodified":1537658001,
+    "wof:name":"Bonjuk-ri",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52002,
+    37.07748,
+    127.52002,
+    37.07748
+],
+  "geometry": {"coordinates":[127.52002,37.07748],"type":"Point"}
+}

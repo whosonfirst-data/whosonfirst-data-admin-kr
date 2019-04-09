@@ -1,0 +1,73 @@
+{
+  "id": 1259677027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62031,37.08743,127.62031,37.08743",
+    "geom:latitude":37.08743,
+    "geom:longitude":127.62031,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Todon",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812700,
+    "gn:latitude":37.08743,
+    "gn:longitude":127.62031,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Todon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1a0\ub3c8"
+    ],
+    "name:kor_x_variant":[
+        "T\u2019odon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812700
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3f3f1a548b938ccaaadfd3806b91b781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1259677027,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259677027,
+    "wof:lastmodified":1537657979,
+    "wof:name":"Todon",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62031,
+    37.08743,
+    127.62031,
+    37.08743
+],
+  "geometry": {"coordinates":[127.62031,37.08743],"type":"Point"}
+}

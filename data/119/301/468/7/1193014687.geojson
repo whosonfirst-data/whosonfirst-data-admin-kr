@@ -1,0 +1,70 @@
+{
+  "id": 1193014687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.33966,36.98936,128.33966,36.98936",
+    "geom:latitude":36.98936,
+    "geom:longitude":128.33966,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wongok",
+    "gn:country_code":"KR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9129952,
+    "gn:latitude":36.98936,
+    "gn:longitude":128.33966,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Wongok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9129952
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1ab230913e900ca7db82e6af47b78665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1193014687,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1193014687,
+    "wof:lastmodified":1537658925,
+    "wof:name":"Wongok",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.33966,
+    36.98936,
+    128.33966,
+    36.98936
+],
+  "geometry": {"coordinates":[128.33966000000001,36.98936],"type":"Point"}
+}

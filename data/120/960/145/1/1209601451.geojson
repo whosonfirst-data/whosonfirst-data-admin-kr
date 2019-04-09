@@ -1,0 +1,64 @@
+{
+  "id": 1209601451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88556,37.15861,126.88556,37.15861",
+    "geom:latitude":37.15861,
+    "geom:longitude":126.88556,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yuram-ni",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364513,
+    "gn:latitude":37.15861,
+    "gn:longitude":126.88556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yuram-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc728\uc554\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364513
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fdc92849d1730631f4291100308156d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209601451
+        }
+    ],
+    "wof:id":1209601451,
+    "wof:lastmodified":1537657085,
+    "wof:name":"Yuram-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88556,
+    37.15861,
+    126.88556,
+    37.15861
+],
+  "geometry": {"coordinates":[126.88556,37.15861],"type":"Point"}
+}

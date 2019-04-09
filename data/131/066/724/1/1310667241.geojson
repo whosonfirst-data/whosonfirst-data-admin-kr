@@ -1,0 +1,67 @@
+{
+  "id": 1310667241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8,36.7,126.8,36.7",
+    "geom:latitude":36.7,
+    "geom:longitude":126.8,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wonhyong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833127,
+    "gn:latitude":36.7,
+    "gn:longitude":126.8,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"W\u014fnhy\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833127
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae323dfc9564ce3f0c1ee9d9f77b8dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1310667241,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310667241,
+    "wof:lastmodified":1536683602,
+    "wof:name":"Wonhyong-ni",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8,
+    36.7,
+    126.8,
+    36.7
+],
+  "geometry": {"coordinates":[126.8,36.7],"type":"Point"}
+}

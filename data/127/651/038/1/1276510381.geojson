@@ -1,0 +1,67 @@
+{
+  "id": 1276510381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.23333,36.55,127.23333,36.55",
+    "geom:latitude":36.55,
+    "geom:longitude":127.23333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Unam",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833696,
+    "gn:latitude":36.55,
+    "gn:longitude":127.23333,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"\u016cnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833696
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c666fbb8d030df0a87bc26fb857feeaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1276510381,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1276510381,
+    "wof:lastmodified":1537037366,
+    "wof:name":"Unam",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.23333,
+    36.55,
+    127.23333,
+    36.55
+],
+  "geometry": {"coordinates":[127.23333,36.55],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310493811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.20569,37.96549,128.20569,37.96549",
+    "geom:latitude":37.96549,
+    "geom:longitude":128.20569,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Giryeonggol",
+    "gn:country_code":"KR",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888671,
+    "gn:latitude":37.96549,
+    "gn:longitude":128.20569,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Giryeonggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\ub839\uace8"
+    ],
+    "name:kor_x_variant":[
+        "Kiry\u014fng-gol"
+    ],
+    "name:und_x_variant":[
+        "Chiry\u014fng-gol",
+        "Giryeonggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888671
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"873267fe50c68372075b3155e394abe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1310493811,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310493811,
+    "wof:lastmodified":1537656794,
+    "wof:name":"Giryeonggol",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.20569,
+    37.96549,
+    128.20569,
+    37.96549
+],
+  "geometry": {"coordinates":[128.20569,37.96549],"type":"Point"}
+}

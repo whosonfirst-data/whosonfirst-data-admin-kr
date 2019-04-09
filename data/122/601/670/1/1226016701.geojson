@@ -1,0 +1,74 @@
+{
+  "id": 1226016701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.45327,34.87338,127.45327,34.87338",
+    "geom:latitude":34.87338,
+    "geom:longitude":127.45327,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Janggi",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684808,
+    "gn:latitude":34.87338,
+    "gn:longitude":127.45327,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Janggi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uae30"
+    ],
+    "name:und_x_variant":[
+        "Changgi",
+        "Janggi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684808
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5db624cc1f30a7765a38c8c0218196f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1226016701,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226016701,
+    "wof:lastmodified":1537657429,
+    "wof:name":"Janggi",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.45327,
+    34.87338,
+    127.45327,
+    34.87338
+],
+  "geometry": {"coordinates":[127.45327,34.87338],"type":"Point"}
+}

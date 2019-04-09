@@ -1,0 +1,70 @@
+{
+  "id": 1360271587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85472,37.15917,126.85472,37.15917",
+    "geom:latitude":37.15917,
+    "geom:longitude":126.85472,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Angojan",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364514,
+    "gn:latitude":37.15917,
+    "gn:longitude":126.85472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Angojan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uace0\uc794"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364514
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ad23e87947ba8ffa62885dbba13ef559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1360271587,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360271587,
+    "wof:lastmodified":1537657085,
+    "wof:name":"Angojan",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85472,
+    37.15917,
+    126.85472,
+    37.15917
+],
+  "geometry": {"coordinates":[126.85472,37.15917],"type":"Point"}
+}

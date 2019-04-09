@@ -1,0 +1,76 @@
+{
+  "id": 1310318969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.18016,33.33341,126.18016,33.33341",
+    "geom:latitude":33.33341,
+    "geom:longitude":126.18016,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Pukcheju-gun",
+    "gn:asciiname":"Bondong",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839355,
+    "gn:latitude":33.33341,
+    "gn:longitude":126.18016,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf8\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Pan-dong",
+        "Pon-dong",
+        "Bondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839355
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"528c30d5fa389556f53b223b67ce5711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1310318969,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1310318969,
+    "wof:lastmodified":1537656340,
+    "wof:name":"Bondong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.18016,
+    33.33341,
+    126.18016,
+    33.33341
+],
+  "geometry": {"coordinates":[126.18016,33.33341],"type":"Point"}
+}

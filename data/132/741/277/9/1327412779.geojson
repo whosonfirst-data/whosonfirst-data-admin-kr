@@ -1,0 +1,74 @@
+{
+  "id": 1327412779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3312,37.5861,127.3312,37.5861",
+    "geom:latitude":37.5861,
+    "geom:longitude":127.3312,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gubong",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802986,
+    "gn:latitude":37.5861,
+    "gn:longitude":127.3312,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Gubong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ubd09"
+    ],
+    "name:und_x_variant":[
+        "\uad6c\ubd09",
+        "Gubong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802986
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e5066b98e2dbaa4d7e5ff51ac96aeaed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1327412779,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327412779,
+    "wof:lastmodified":1537657764,
+    "wof:name":"Gubong",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3312,
+    37.5861,
+    127.3312,
+    37.5861
+],
+  "geometry": {"coordinates":[127.3312,37.5861],"type":"Point"}
+}

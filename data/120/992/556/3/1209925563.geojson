@@ -1,0 +1,76 @@
+{
+  "id": 1209925563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37056,35.81889,126.37056,35.81889",
+    "geom:latitude":35.81889,
+    "geom:longitude":126.37056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kkon-ni",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842886,
+    "gn:latitude":35.81889,
+    "gn:longitude":126.37056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kkon-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotchi-ri",
+        "Kan-ri",
+        "Kwan-ni",
+        "Kan",
+        "Kon-ni",
+        "Kkon-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842886
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d4564830d7023c9c8e8aa53586bed9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1209925563,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1209925563,
+    "wof:lastmodified":1537656519,
+    "wof:name":"Kkon-ni",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37056,
+    35.81889,
+    126.37056,
+    35.81889
+],
+  "geometry": {"coordinates":[126.37056,35.81889],"type":"Point"}
+}

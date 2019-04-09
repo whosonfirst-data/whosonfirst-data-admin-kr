@@ -1,0 +1,72 @@
+{
+  "id": 1243575959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.45,37.53333,128.45,37.53333",
+    "geom:latitude":37.53333,
+    "geom:longitude":128.45,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ami-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847017,
+    "gn:latitude":37.53333,
+    "gn:longitude":128.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ami-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ami-d\u014f",
+        "Ami-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847017
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"97ff0df5ff79dc8907b084a39eb71b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1243575959,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243575959,
+    "wof:lastmodified":1537656732,
+    "wof:name":"Ami-dong",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.45,
+    37.53333,
+    128.45,
+    37.53333
+],
+  "geometry": {"coordinates":[128.44999999999999,37.53333],"type":"Point"}
+}

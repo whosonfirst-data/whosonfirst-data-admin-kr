@@ -1,0 +1,64 @@
+{
+  "id": 1209491923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.68111,37.96139,124.68111,37.96139",
+    "geom:latitude":37.96139,
+    "geom:longitude":124.68111,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sinhwa-dong",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881660,
+    "gn:latitude":37.96139,
+    "gn:longitude":124.68111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinhwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ud654\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881660
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c3239580efc54839bfeefcc75163579b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209491923
+        }
+    ],
+    "wof:id":1209491923,
+    "wof:lastmodified":1537656743,
+    "wof:name":"Sinhwa-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.68111,
+    37.96139,
+    124.68111,
+    37.96139
+],
+  "geometry": {"coordinates":[124.68111,37.96139],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243135543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.157,36.937,127.157,36.937",
+    "geom:latitude":36.937,
+    "geom:longitude":127.157,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sinhyangchon",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811706,
+    "gn:latitude":36.937,
+    "gn:longitude":127.157,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sinhyangchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\ud5a5\ucd0c",
+        "Sinhyang-ch\u2019on",
+        "Sinhyangchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811706
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8177d5a9026c5a17d22ec06130f7c7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746433,
+            "locality_id":1243135543,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243135543,
+    "wof:lastmodified":1537657951,
+    "wof:name":"Sinhyangchon",
+    "wof:parent_id":1108746433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.157,
+    36.937,
+    127.157,
+    36.937
+],
+  "geometry": {"coordinates":[127.157,36.937],"type":"Point"}
+}

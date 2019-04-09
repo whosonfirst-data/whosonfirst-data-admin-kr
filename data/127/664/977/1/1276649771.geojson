@@ -1,0 +1,73 @@
+{
+  "id": 1276649771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60604,37.03315,127.60604,37.03315",
+    "geom:latitude":37.03315,
+    "geom:longitude":127.60604,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gonjae",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813009,
+    "gn:latitude":37.03315,
+    "gn:longitude":127.60604,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Gonjae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace4\uc7ac"
+    ],
+    "name:und_x_variant":[
+        "Konjae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813009
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0c5d40588656c0ab448e9cd228a46dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1276649771,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1276649771,
+    "wof:lastmodified":1537657997,
+    "wof:name":"Gonjae",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60604,
+    37.03315,
+    127.60604,
+    37.03315
+],
+  "geometry": {"coordinates":[127.60603999999999,37.03315],"type":"Point"}
+}

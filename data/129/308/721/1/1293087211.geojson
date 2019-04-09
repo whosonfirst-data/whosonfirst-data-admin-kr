@@ -1,0 +1,71 @@
+{
+  "id": 1293087211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90139,37.415,126.90139,37.415",
+    "geom:latitude":37.415,
+    "geom:longitude":126.90139,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Saesulmak",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573502,
+    "gn:latitude":37.415,
+    "gn:longitude":126.90139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saesulmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c8\uc220\ub9c9",
+        "Saesulmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573502
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc30785c1de8b3cc39d6b26b671ec659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746383,
+            "locality_id":1293087211,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293087211,
+    "wof:lastmodified":1537657229,
+    "wof:name":"Saesulmak",
+    "wof:parent_id":1108746383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90139,
+    37.415,
+    126.90139,
+    37.415
+],
+  "geometry": {"coordinates":[126.90139000000001,37.415],"type":"Point"}
+}

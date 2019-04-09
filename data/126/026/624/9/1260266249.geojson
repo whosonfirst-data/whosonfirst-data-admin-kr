@@ -1,0 +1,73 @@
+{
+  "id": 1260266249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81231,35.72479,128.81231,35.72479",
+    "geom:latitude":35.72479,
+    "geom:longitude":128.81231,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Isari",
+    "gn:country_code":"KR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900959,
+    "gn:latitude":35.72479,
+    "gn:longitude":128.81231,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Isari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\uc0ac\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Iso-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900959
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e1baf8ff4df7e9aa40512eaa301a6ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1260266249,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260266249,
+    "wof:lastmodified":1537656945,
+    "wof:name":"Isari",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81231,
+    35.72479000000001,
+    128.81231,
+    35.72479000000001
+],
+  "geometry": {"coordinates":[128.81231,35.72479000000001],"type":"Point"}
+}

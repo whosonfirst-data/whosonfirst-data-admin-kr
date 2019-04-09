@@ -1,0 +1,74 @@
+{
+  "id": 1343332831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1424,37.6326,127.1424,37.6326",
+    "geom:latitude":37.6326,
+    "geom:longitude":127.1424,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Turemul-gol",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801444,
+    "gn:latitude":37.6326,
+    "gn:longitude":127.1424,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Turemul-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ub808\ubb3c\uace8"
+    ],
+    "name:und_x_variant":[
+        "\ub450\ub808\ubb3c\uace8",
+        "Turemul-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801444
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aeac59bd412b07df2d0980daaabc8279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474591,
+            "locality_id":1343332831,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343332831,
+    "wof:lastmodified":1537657696,
+    "wof:name":"Turemul-gol",
+    "wof:parent_id":890474591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1424,
+    37.6326,
+    127.1424,
+    37.6326
+],
+  "geometry": {"coordinates":[127.14239999999999,37.6326],"type":"Point"}
+}

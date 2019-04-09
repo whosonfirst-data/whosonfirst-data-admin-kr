@@ -1,0 +1,74 @@
+{
+  "id": 1242563867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1925,37.5764,127.1925,37.5764",
+    "geom:latitude":37.5764,
+    "geom:longitude":127.1925,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kusan",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6800612,
+    "gn:latitude":37.5764,
+    "gn:longitude":127.1925,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "\uad6c\uc0b0",
+        "Kusan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6800612
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2a3724aa2bf44cf07e13acce55bc1ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1242563867,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242563867,
+    "wof:lastmodified":1537657678,
+    "wof:name":"Kusan",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1925,
+    37.5764,
+    127.1925,
+    37.5764
+],
+  "geometry": {"coordinates":[127.1925,37.5764],"type":"Point"}
+}

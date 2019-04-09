@@ -1,0 +1,80 @@
+{
+  "id": 890472311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0,37.33333,127.0,37.33333",
+    "geom:latitude":37.33333,
+    "geom:longitude":127.0,
+    "gn:country":"KR",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suwon-si"
+    ],
+    "name:eng_x_variant":[
+        "Suwon"
+    ],
+    "name:kor_x_preferred":[
+        "\uc218\uc6d0\uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc218\uc6d0",
+        "Suw\u014fn-si"
+    ],
+    "name:unk_x_variant":[
+        "Suwon-si"
+    ],
+    "qs:name":"Suw\u014fn-si",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835551,
+        "qs:id":356072
+    },
+    "wof:country":"KR",
+    "wof:created":1469053890,
+    "wof:geomhash":"bed21348caf3af61831871334c64a355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474637,
+            "localadmin_id":890472311,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":890472311,
+    "wof:lastmodified":1505343714,
+    "wof:name":"Suw\u014fn-si",
+    "wof:parent_id":890474637,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0,
+    37.33333,
+    127.0,
+    37.33333
+],
+  "geometry": {"coordinates":[127.0,37.33333],"type":"Point"}
+}

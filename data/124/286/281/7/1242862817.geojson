@@ -1,0 +1,67 @@
+{
+  "id": 1242862817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.25,35.3,129.25,35.3",
+    "geom:latitude":35.3,
+    "geom:longitude":129.25,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Munjung-ni",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840870,
+    "gn:latitude":35.3,
+    "gn:longitude":129.25,
+    "gn:modification_date":"1997-04-21",
+    "gn:name":"Munjung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840870
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2775713a62f425efce2858b04b91a641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1242862817,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1242862817,
+    "wof:lastmodified":1536652736,
+    "wof:name":"Munjung-ni",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.25,
+    35.3,
+    129.25,
+    35.3
+],
+  "geometry": {"coordinates":[129.25,35.3],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259348549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7288,35.18781,126.7288,35.18781",
+    "geom:latitude":35.18781,
+    "geom:longitude":126.7288,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Songnim",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171276,
+    "gn:latitude":35.18781,
+    "gn:longitude":126.7288,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Songnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171276
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e817564e42907292c0a59c390964dd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473197,
+            "locality_id":1259348549,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1259348549,
+    "wof:lastmodified":1537659203,
+    "wof:name":"Songnim",
+    "wof:parent_id":890473197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7288,
+    35.18781,
+    126.7288,
+    35.18781
+],
+  "geometry": {"coordinates":[126.72880000000001,35.18781],"type":"Point"}
+}

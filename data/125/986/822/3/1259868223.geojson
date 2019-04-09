@@ -1,0 +1,72 @@
+{
+  "id": 1259868223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.095,35.24056,129.095,35.24056",
+    "geom:latitude":35.24056,
+    "geom:longitude":129.095,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pugok-tong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901135,
+    "gn:latitude":35.24056,
+    "gn:longitude":129.095,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pugok-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pugok-dong",
+        "Pugok-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901135
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1967cc163cff29d80ef6f25ab4f18b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472097,
+            "locality_id":1259868223,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1259868223,
+    "wof:lastmodified":1537656950,
+    "wof:name":"Pugok-tong",
+    "wof:parent_id":890472097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.095,
+    35.24055999999999,
+    129.095,
+    35.24055999999999
+],
+  "geometry": {"coordinates":[129.095,35.24055999999999],"type":"Point"}
+}

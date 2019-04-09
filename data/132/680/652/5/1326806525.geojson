@@ -1,0 +1,70 @@
+{
+  "id": 1326806525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20709,36.67907,127.20709,36.67907",
+    "geom:latitude":36.67907,
+    "geom:longitude":127.20709,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dongbu",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10254299,
+    "gn:latitude":36.67907,
+    "gn:longitude":127.20709,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Dongbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ubd80"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10254299
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"381944ba473c259ee77828b623fb0f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1326806525,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1326806525,
+    "wof:lastmodified":1537659005,
+    "wof:name":"Dongbu",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20709,
+    36.67907,
+    127.20709,
+    36.67907
+],
+  "geometry": {"coordinates":[127.20708999999999,36.67907],"type":"Point"}
+}

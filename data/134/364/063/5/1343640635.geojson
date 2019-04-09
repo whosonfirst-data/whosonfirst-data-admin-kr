@@ -1,0 +1,76 @@
+{
+  "id": 1343640635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02907,37.74274,127.02907,37.74274",
+    "geom:latitude":37.74274,
+    "geom:longitude":127.02907,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ganeung sam dong",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801912,
+    "gn:latitude":37.74274,
+    "gn:longitude":127.02907,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Ganeung sam dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub2a5\uc0bc\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uac00\ub2a53\ub3d9",
+        "Kan\u016dngsam-dong",
+        "Ganeung sam dong",
+        "Ganeung 3 dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801912
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ceb5acbc5a58dee4e9717d6d4a18a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475299,
+            "locality_id":1343640635,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343640635,
+    "wof:lastmodified":1537657712,
+    "wof:name":"Ganeung sam dong",
+    "wof:parent_id":890475299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02907,
+    37.74274000000001,
+    127.02907,
+    37.74274000000001
+],
+  "geometry": {"coordinates":[127.02907,37.74274000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259765257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.31246,34.88009,126.31246,34.88009",
+    "geom:latitude":34.88009,
+    "geom:longitude":126.31246,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mokgyo",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841069,
+    "gn:latitude":34.88009,
+    "gn:longitude":126.31246,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mokgyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa9\uad50"
+    ],
+    "name:und_x_variant":[
+        "Mokkyo-ri",
+        "Mokkyo",
+        "Mokgyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841069
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"33fb0470787e144fc37be74ec3b5384f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1259765257,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259765257,
+    "wof:lastmodified":1537656426,
+    "wof:name":"Mokgyo",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.31246000000002,
+    34.88009,
+    126.31246000000002,
+    34.88009
+],
+  "geometry": {"coordinates":[126.31246000000002,34.88009],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293456137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6315,36.3689,126.6315,36.3689",
+    "geom:latitude":36.3689,
+    "geom:longitude":126.6315,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ant'o",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883661,
+    "gn:latitude":36.3689,
+    "gn:longitude":126.6315,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ant\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\ud130",
+        "Ant\u2019\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883661
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"df9fb92f63c3da59abcb66ff22bfb200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1293456137,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293456137,
+    "wof:lastmodified":1537658290,
+    "wof:name":"Ant'o",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6315,
+    36.3689,
+    126.6315,
+    36.3689
+],
+  "geometry": {"coordinates":[126.6315,36.3689],"type":"Point"}
+}

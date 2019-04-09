@@ -1,0 +1,70 @@
+{
+  "id": 1360148777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63629,35.19977,126.63629,35.19977",
+    "geom:latitude":35.19977,
+    "geom:longitude":126.63629,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bongdeok",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171007,
+    "gn:latitude":35.19977,
+    "gn:longitude":126.63629,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Bongdeok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\ub355"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171007
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"80c34185a7d4f229ff774b1067161ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1360148777,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360148777,
+    "wof:lastmodified":1537659197,
+    "wof:name":"Bongdeok",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63629,
+    35.19977,
+    126.63629,
+    35.19977
+],
+  "geometry": {"coordinates":[126.63629,35.19977],"type":"Point"}
+}

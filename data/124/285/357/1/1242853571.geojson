@@ -1,0 +1,74 @@
+{
+  "id": 1242853571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.47722,37.43111,127.47722,37.43111",
+    "geom:latitude":37.43111,
+    "geom:longitude":127.47722,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taegam",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835369,
+    "gn:latitude":37.43111,
+    "gn:longitude":127.47722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taegam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Han\u2019gam-ni",
+        "Taegam-ni",
+        "\ub300\uac10",
+        "Daegam",
+        "Taegam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835369
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"35418db10a8741c9e3af9843fd6be744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1242853571,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242853571,
+    "wof:lastmodified":1537656135,
+    "wof:name":"Taegam",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.47722,
+    37.43111,
+    127.47722,
+    37.43111
+],
+  "geometry": {"coordinates":[127.47722,37.43111],"type":"Point"}
+}

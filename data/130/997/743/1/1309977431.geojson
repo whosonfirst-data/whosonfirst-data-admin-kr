@@ -1,0 +1,73 @@
+{
+  "id": 1309977431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93399,36.95364,126.93399,36.95364",
+    "geom:latitude":36.95364,
+    "geom:longitude":126.93399,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wonhwangsan",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833128,
+    "gn:latitude":36.95364,
+    "gn:longitude":126.93399,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Wonhwangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hwangsan-ni",
+        "\uc6d0\ud669\uc0b0",
+        "W\u014fnhwangsan",
+        "Wonhwangsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833128
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be16a00ad47e70245aeb94c615fb38ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1309977431,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309977431,
+    "wof:lastmodified":1537656014,
+    "wof:name":"Wonhwangsan",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93399,
+    36.95364,
+    126.93399,
+    36.95364
+],
+  "geometry": {"coordinates":[126.93398999999999,36.95364],"type":"Point"}
+}

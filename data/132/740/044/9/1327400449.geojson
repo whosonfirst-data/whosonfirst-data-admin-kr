@@ -1,0 +1,71 @@
+{
+  "id": 1327400449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52397,36.16634,127.52397,36.16634",
+    "geom:latitude":36.16634,
+    "geom:longitude":127.52397,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Saemgol",
+    "gn:country_code":"KR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6886015,
+    "gn:latitude":36.16634,
+    "gn:longitude":127.52397,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Saemgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0d8\uace8",
+        "Saemgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6886015
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"749ff0fe70cd476b1e0bd08b0d8b46fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473345,
+            "locality_id":1327400449,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1327400449,
+    "wof:lastmodified":1537658360,
+    "wof:name":"Saemgol",
+    "wof:parent_id":890473345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52397,
+    36.16634000000001,
+    127.52397,
+    36.16634000000001
+],
+  "geometry": {"coordinates":[127.52397000000001,36.16634000000001],"type":"Point"}
+}

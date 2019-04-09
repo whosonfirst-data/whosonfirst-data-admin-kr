@@ -1,0 +1,71 @@
+{
+  "id": 1293562579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2256,36.3614,128.2256,36.3614",
+    "geom:latitude":36.3614,
+    "geom:longitude":128.2256,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"T'ongsa-dong",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889964,
+    "gn:latitude":36.3614,
+    "gn:longitude":128.2256,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019ongsa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud1b5\uc0ac\ub3d9",
+        "T\u2019ongsa-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889964
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8935cd1eccf6705452729c68fbdd8d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1293562579,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293562579,
+    "wof:lastmodified":1537658466,
+    "wof:name":"T'ongsa-dong",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2256,
+    36.3614,
+    128.2256,
+    36.3614
+],
+  "geometry": {"coordinates":[128.22559999999999,36.3614],"type":"Point"}
+}

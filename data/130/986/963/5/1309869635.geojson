@@ -1,0 +1,70 @@
+{
+  "id": 1309869635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.30265,34.75965,127.30265,34.75965",
+    "geom:latitude":34.75965,
+    "geom:longitude":127.30265,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hanam",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684868,
+    "gn:latitude":34.75965,
+    "gn:longitude":127.30265,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Hanam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub0a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684868
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d5ccc0d5956245f1d260e1442991c6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1309869635,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309869635,
+    "wof:lastmodified":1537657433,
+    "wof:name":"Hanam",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.30265,
+    34.75965,
+    127.30265,
+    34.75965
+],
+  "geometry": {"coordinates":[127.30265,34.75965],"type":"Point"}
+}

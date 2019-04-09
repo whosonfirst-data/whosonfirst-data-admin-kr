@@ -1,0 +1,74 @@
+{
+  "id": 1209902361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4585,37.5452,127.4585,37.5452",
+    "geom:latitude":37.5452,
+    "geom:longitude":127.4585,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Malgol",
+    "gn:country_code":"KR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803306,
+    "gn:latitude":37.5452,
+    "gn:longitude":127.4585,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Malgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9d0\uace8"
+    ],
+    "name:und_x_variant":[
+        "\ub9d0\uace8",
+        "Malgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803306
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c77511dce4b048ae2acced2c9eb1a1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1209902361,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209902361,
+    "wof:lastmodified":1537657778,
+    "wof:name":"Malgol",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4585,
+    37.5452,
+    127.4585,
+    37.5452
+],
+  "geometry": {"coordinates":[127.4585,37.5452],"type":"Point"}
+}

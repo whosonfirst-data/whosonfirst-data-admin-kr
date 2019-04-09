@@ -1,0 +1,65 @@
+{
+  "id": 1209619815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0092,36.2323,128.0092,36.2323",
+    "geom:latitude":36.2323,
+    "geom:longitude":128.0092,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kakkum",
+    "gn:country_code":"KR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6891739,
+    "gn:latitude":36.2323,
+    "gn:longitude":128.0092,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kakk\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac01\uae08",
+        "Kakk\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6891739
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2956b75332a2abd09adff51f9687ca26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209619815
+        }
+    ],
+    "wof:id":1209619815,
+    "wof:lastmodified":1537658521,
+    "wof:name":"Kakkum",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0092,
+    36.2323,
+    128.0092,
+    36.2323
+],
+  "geometry": {"coordinates":[128.00919999999999,36.2323],"type":"Point"}
+}

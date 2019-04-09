@@ -1,0 +1,70 @@
+{
+  "id": 1327305859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64096,35.17449,126.64096,35.17449",
+    "geom:latitude":35.17449,
+    "geom:longitude":126.64096,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seokbo",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171021,
+    "gn:latitude":35.17449,
+    "gn:longitude":126.64096,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seokbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\ubcf4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171021
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0eba539cdb1b659135800ab23d6060c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1327305859,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327305859,
+    "wof:lastmodified":1537659197,
+    "wof:name":"Seokbo",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64096,
+    35.17449000000001,
+    126.64096,
+    35.17449000000001
+],
+  "geometry": {"coordinates":[126.64096000000001,35.17449000000001],"type":"Point"}
+}

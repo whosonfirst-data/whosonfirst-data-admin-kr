@@ -1,0 +1,75 @@
+{
+  "id": 1343244217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.20753,35.06132,126.20753,35.06132",
+    "geom:latitude":35.06132,
+    "geom:longitude":126.20753,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jido",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1846223,
+    "gn:latitude":35.06132,
+    "gn:longitude":126.20753,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Jido",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ub3c4"
+    ],
+    "name:und_x_variant":[
+        "Chit\u014d",
+        "Chido",
+        "Jido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846223
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"699008e776e7033ddc78b9cbd867afeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1343244217,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343244217,
+    "wof:lastmodified":1537656689,
+    "wof:name":"Jido",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.20753,
+    35.06132,
+    126.20753,
+    35.06132
+],
+  "geometry": {"coordinates":[126.20753000000001,35.06132],"type":"Point"}
+}

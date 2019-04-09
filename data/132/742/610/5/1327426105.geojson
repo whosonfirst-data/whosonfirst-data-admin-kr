@@ -1,0 +1,76 @@
+{
+  "id": 1327426105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.00596,37.41751,128.00596,37.41751",
+    "geom:latitude":37.41751,
+    "geom:longitude":128.00596,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"P'yongjang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838410,
+    "gn:latitude":37.41751,
+    "gn:longitude":128.00596,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u2019y\u014fngjang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc7a5\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019y\u014fngjang-dong"
+    ],
+    "name:und_x_variant":[
+        "P\u2019y\u014fngjang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838410
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"55a278ede74ee632498880c48d52249d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1327426105,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327426105,
+    "wof:lastmodified":1537656291,
+    "wof:name":"P'yongjang-dong",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.00596000000002,
+    37.41751,
+    128.00596000000002,
+    37.41751
+],
+  "geometry": {"coordinates":[128.00596000000002,37.41751],"type":"Point"}
+}

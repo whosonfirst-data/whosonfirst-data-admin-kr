@@ -1,0 +1,64 @@
+{
+  "id": 1209619823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43833,36.69306,127.43833,36.69306",
+    "geom:latitude":36.69306,
+    "geom:longitude":127.43833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Usan",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1933048,
+    "gn:latitude":36.69306,
+    "gn:longitude":127.43833,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Usan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b0\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1933048
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49a76bbb883cd87fdbe6edb3f66ff45b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209619823
+        }
+    ],
+    "wof:id":1209619823,
+    "wof:lastmodified":1537656959,
+    "wof:name":"Usan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43833,
+    36.69306,
+    127.43833,
+    36.69306
+],
+  "geometry": {"coordinates":[127.43832999999999,36.69306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360249559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.39867,35.29384,128.39867,35.29384",
+    "geom:latitude":35.29384,
+    "geom:longitude":128.39867,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sakkattung",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898556,
+    "gn:latitude":35.29384,
+    "gn:longitude":128.39867,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sakkatt\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bf\uac13\ub4f1",
+        "Sakkatt\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898556
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bd7157f380fd03d2329f7786a50a52a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474513,
+            "locality_id":1360249559,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1360249559,
+    "wof:lastmodified":1537658723,
+    "wof:name":"Sakkattung",
+    "wof:parent_id":890474513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.39866999999998,
+    35.29384,
+    128.39866999999998,
+    35.29384
+],
+  "geometry": {"coordinates":[128.39866999999998,35.29384],"type":"Point"}
+}

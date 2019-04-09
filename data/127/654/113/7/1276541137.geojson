@@ -1,0 +1,70 @@
+{
+  "id": 1276541137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3356,37.214,128.3356,37.214",
+    "geom:latitude":37.214,
+    "geom:longitude":128.3356,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Paeduduk",
+    "gn:country_code":"KR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795717,
+    "gn:latitude":37.214,
+    "gn:longitude":128.3356,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paeduduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc30\ub450\ub451"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795717
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2948921a6ca3d3d5157c488da60d3a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1276541137,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276541137,
+    "wof:lastmodified":1537657535,
+    "wof:name":"Paeduduk",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3356,
+    37.214,
+    128.3356,
+    37.214
+],
+  "geometry": {"coordinates":[128.3356,37.214],"type":"Point"}
+}

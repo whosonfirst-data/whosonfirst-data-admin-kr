@@ -1,0 +1,64 @@
+{
+  "id": 1209177605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32553,36.57309,127.32553,36.57309",
+    "geom:latitude":36.57309,
+    "geom:longitude":127.32553,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gangdang",
+    "gn:country_code":"KR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10810605,
+    "gn:latitude":36.57309,
+    "gn:longitude":127.32553,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Gangdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\ub2f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10810605
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0ca2d6af6e3b6e4d81c453ac08dd74c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209177605
+        }
+    ],
+    "wof:id":1209177605,
+    "wof:lastmodified":1537659067,
+    "wof:name":"Gangdang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32553,
+    36.57309,
+    127.32553,
+    36.57309
+],
+  "geometry": {"coordinates":[127.32553,36.57309],"type":"Point"}
+}

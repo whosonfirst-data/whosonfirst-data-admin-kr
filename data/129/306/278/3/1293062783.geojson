@@ -1,0 +1,71 @@
+{
+  "id": 1293062783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.77263,35.58926,127.77263,35.58926",
+    "geom:latitude":35.58926,
+    "geom:longitude":127.77263,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Andam",
+    "gn:country_code":"KR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6894375,
+    "gn:latitude":35.58926,
+    "gn:longitude":127.77263,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Andam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\ub2f4",
+        "Andam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894375
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1eddd7ca8f7af12e5a58a44e17fcc560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472469,
+            "locality_id":1293062783,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293062783,
+    "wof:lastmodified":1537658589,
+    "wof:name":"Andam",
+    "wof:parent_id":890472469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.77263,
+    35.58926,
+    127.77263,
+    35.58926
+],
+  "geometry": {"coordinates":[127.77263000000001,35.58926],"type":"Point"}
+}

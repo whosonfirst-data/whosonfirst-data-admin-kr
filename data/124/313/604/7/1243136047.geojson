@@ -1,0 +1,67 @@
+{
+  "id": 1243136047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.1,34.76667,126.1,34.76667",
+    "geom:latitude":34.76667,
+    "geom:longitude":126.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ach'on",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847067,
+    "gn:latitude":34.76667,
+    "gn:longitude":126.1,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Ach\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847067
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c72fc6823899da06093ddfa47c92a822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1243136047,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243136047,
+    "wof:lastmodified":1536756289,
+    "wof:name":"Ach'on",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.1,
+    34.76667,
+    126.1,
+    34.76667
+],
+  "geometry": {"coordinates":[126.09999999999999,34.76667],"type":"Point"}
+}

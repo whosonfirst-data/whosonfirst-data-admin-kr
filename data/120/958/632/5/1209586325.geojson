@@ -1,0 +1,64 @@
+{
+  "id": 1209586325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.19221,35.79025,129.19221,35.79025",
+    "geom:latitude":35.79025,
+    "geom:longitude":129.19221,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dwissaemal",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065268,
+    "gn:latitude":35.79025,
+    "gn:longitude":129.19221,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dwissaemal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub4b7\uc0c8\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065268
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2fbe45d1b7ce6bc7488ee5f508493bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586325
+        }
+    ],
+    "wof:id":1209586325,
+    "wof:lastmodified":1537659127,
+    "wof:name":"Dwissaemal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.19221000000002,
+    35.79025,
+    129.19221000000002,
+    35.79025
+],
+  "geometry": {"coordinates":[129.19221000000002,35.79025],"type":"Point"}
+}

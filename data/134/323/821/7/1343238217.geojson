@@ -1,0 +1,70 @@
+{
+  "id": 1343238217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02289,36.73265,127.02289,36.73265",
+    "geom:latitude":36.73265,
+    "geom:longitude":127.02289,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Seolhwari",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10353580,
+    "gn:latitude":36.73265,
+    "gn:longitude":127.02289,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Seolhwari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc124\ud654\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10353580
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b1017ae82b87d19e9d20fa5266011af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1343238217,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343238217,
+    "wof:lastmodified":1537659037,
+    "wof:name":"Seolhwari",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02289,
+    36.73265,
+    127.02289,
+    36.73265
+],
+  "geometry": {"coordinates":[127.02289,36.73265],"type":"Point"}
+}

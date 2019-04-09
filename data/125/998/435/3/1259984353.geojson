@@ -1,0 +1,70 @@
+{
+  "id": 1259984353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7727,36.70191,127.7727,36.70191",
+    "geom:latitude":36.70191,
+    "geom:longitude":127.7727,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sogol",
+    "gn:country_code":"KR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10370443,
+    "gn:latitude":36.70191,
+    "gn:longitude":127.7727,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Sogol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370443
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e4a8a3146a18add6bfc88adf6bafb614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1259984353,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259984353,
+    "wof:lastmodified":1537659046,
+    "wof:name":"Sogol",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7727,
+    36.70191,
+    127.7727,
+    36.70191
+],
+  "geometry": {"coordinates":[127.7727,36.70191],"type":"Point"}
+}

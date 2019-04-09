@@ -1,0 +1,75 @@
+{
+  "id": 1260372489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.00571,34.82234,127.00571,34.82234",
+    "geom:latitude":34.82234,
+    "geom:longitude":127.00571,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dubong",
+    "gn:country_code":"KR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834002,
+    "gn:latitude":34.82234,
+    "gn:longitude":127.00571,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Dubong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ubd09"
+    ],
+    "name:und_x_variant":[
+        "Tubong-ni",
+        "Tubong",
+        "Dubong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834002
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5f94d0bba5fef0572b5ba233ae5f0fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1260372489,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260372489,
+    "wof:lastmodified":1537656062,
+    "wof:name":"Dubong",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.00571,
+    34.82234,
+    127.00571,
+    34.82234
+],
+  "geometry": {"coordinates":[127.00570999999999,34.82234],"type":"Point"}
+}

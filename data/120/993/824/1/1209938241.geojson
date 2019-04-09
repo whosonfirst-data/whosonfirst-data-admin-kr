@@ -1,0 +1,73 @@
+{
+  "id": 1209938241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3925,38.49306,128.3925,38.49306",
+    "geom:latitude":38.49306,
+    "geom:longitude":128.3925,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yuch'on-dong",
+    "gn:country_code":"KR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988568,
+    "gn:latitude":38.49306,
+    "gn:longitude":128.3925,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yuch\u2019\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc720\ucc9c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Yuch\u2019\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988568
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e2352da377c211cf5debadfaa7e86194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1209938241,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209938241,
+    "wof:lastmodified":1537656990,
+    "wof:name":"Yuch'on-dong",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3925,
+    38.49306,
+    128.3925,
+    38.49306
+],
+  "geometry": {"coordinates":[128.39250000000001,38.49306],"type":"Point"}
+}

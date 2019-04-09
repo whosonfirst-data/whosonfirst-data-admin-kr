@@ -1,0 +1,70 @@
+{
+  "id": 1243356771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61563,36.66231,127.61563,36.66231",
+    "geom:latitude":36.66231,
+    "geom:longitude":127.61563,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Solgol",
+    "gn:country_code":"KR",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351511,
+    "gn:latitude":36.66231,
+    "gn:longitude":127.61563,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Solgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc194\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351511
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"91163c37cd1b09c70de03965cd34fcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1243356771,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243356771,
+    "wof:lastmodified":1537659032,
+    "wof:name":"Solgol",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61563,
+    36.66231,
+    127.61563,
+    36.66231
+],
+  "geometry": {"coordinates":[127.61563,36.66231],"type":"Point"}
+}

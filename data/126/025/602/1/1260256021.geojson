@@ -1,0 +1,71 @@
+{
+  "id": 1260256021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.73557,35.67439,128.73557,35.67439",
+    "geom:latitude":35.67439,
+    "geom:longitude":128.73557,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pakkatchilla",
+    "gn:country_code":"KR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903219,
+    "gn:latitude":35.67439,
+    "gn:longitude":128.73557,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pakkatchilla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc14\uae65\uc9c4\ub77c",
+        "Pakkatchilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903219
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"482ca5033f3c388166029819d0cd55e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1260256021,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260256021,
+    "wof:lastmodified":1537658838,
+    "wof:name":"Pakkatchilla",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.73557,
+    35.67439,
+    128.73557,
+    35.67439
+],
+  "geometry": {"coordinates":[128.73557,35.67439],"type":"Point"}
+}

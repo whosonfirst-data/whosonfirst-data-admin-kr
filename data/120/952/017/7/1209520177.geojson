@@ -1,0 +1,64 @@
+{
+  "id": 1209520177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3701,36.56927,127.3701,36.56927",
+    "geom:latitude":36.56927,
+    "geom:longitude":127.3701,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Eunjeokdong",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10809632,
+    "gn:latitude":36.56927,
+    "gn:longitude":127.3701,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Eunjeokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc740\uc801\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10809632
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ab7e8f962a7653379f7dbfa5b518e5aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209520177
+        }
+    ],
+    "wof:id":1209520177,
+    "wof:lastmodified":1537659066,
+    "wof:name":"Eunjeokdong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3701,
+    36.56927,
+    127.3701,
+    36.56927
+],
+  "geometry": {"coordinates":[127.37009999999999,36.56927],"type":"Point"}
+}

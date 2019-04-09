@@ -1,0 +1,70 @@
+{
+  "id": 1225827931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65131,35.78808,128.65131,35.78808",
+    "geom:latitude":35.78808,
+    "geom:longitude":128.65131,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Uttoegye",
+    "gn:country_code":"KR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11032765,
+    "gn:latitude":35.78808,
+    "gn:longitude":128.65131,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Uttoegye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6c3\ud1f4\uacc4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11032765
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a20b95c90b78aa6b997d390e3285c3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1225827931,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1225827931,
+    "wof:lastmodified":1537659110,
+    "wof:name":"Uttoegye",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65131,
+    35.78808,
+    128.65131,
+    35.78808
+],
+  "geometry": {"coordinates":[128.65131,35.78808],"type":"Point"}
+}

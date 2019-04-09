@@ -1,0 +1,73 @@
+{
+  "id": 1226733139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.309,36.0571,128.309,36.0571",
+    "geom:latitude":36.0571,
+    "geom:longitude":128.309,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kajang-kol",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835151,
+    "gn:latitude":36.0571,
+    "gn:longitude":128.309,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kajang-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Op\u2019y\u014fng-dong",
+        "\ub300\ud3c9\ub9ac",
+        "Taep\u2019y\u014fng-ni",
+        "T\u2019aep\u2019y\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835151
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4217a95dbcf04fd656104a9a29106ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1226733139,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226733139,
+    "wof:lastmodified":1537656125,
+    "wof:name":"Kajang-kol",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.309,
+    36.0571,
+    128.309,
+    36.0571
+],
+  "geometry": {"coordinates":[128.309,36.0571],"type":"Point"}
+}

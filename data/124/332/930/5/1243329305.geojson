@@ -1,0 +1,70 @@
+{
+  "id": 1243329305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8166,35.15713,126.8166,35.15713",
+    "geom:latitude":35.15713,
+    "geom:longitude":126.8166,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Dongjak",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11172013,
+    "gn:latitude":35.15713,
+    "gn:longitude":126.8166,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Dongjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc791"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172013
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b6eace3089b5ffb6617034294c5d2823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473197,
+            "locality_id":1243329305,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1243329305,
+    "wof:lastmodified":1537659207,
+    "wof:name":"Dongjak",
+    "wof:parent_id":890473197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8166,
+    35.15713,
+    126.8166,
+    35.15713
+],
+  "geometry": {"coordinates":[126.81659999999999,35.15713],"type":"Point"}
+}

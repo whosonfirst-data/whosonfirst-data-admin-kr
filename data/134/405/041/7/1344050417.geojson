@@ -1,0 +1,70 @@
+{
+  "id": 1344050417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35925,36.56867,127.35925,36.56867",
+    "geom:latitude":36.56867,
+    "geom:longitude":127.35925,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hajeosan",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10809633,
+    "gn:latitude":36.56867,
+    "gn:longitude":127.35925,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Hajeosan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc800\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10809633
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6cb6cef7008be4e22a653c09612e56a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1344050417,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1344050417,
+    "wof:lastmodified":1537659066,
+    "wof:name":"Hajeosan",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35925,
+    36.56867,
+    127.35925,
+    36.56867
+],
+  "geometry": {"coordinates":[127.35925,36.56867],"type":"Point"}
+}

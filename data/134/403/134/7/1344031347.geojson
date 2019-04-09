@@ -1,0 +1,73 @@
+{
+  "id": 1344031347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.72366,35.79306,128.72366,35.79306",
+    "geom:latitude":35.79306,
+    "geom:longitude":128.72366,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Guil",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932637,
+    "gn:latitude":35.79306,
+    "gn:longitude":128.72366,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Guil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc77c"
+    ],
+    "name:und_x_variant":[
+        "Kuil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932637
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"019803fa37b3c58d5d1eeefd1d2b2747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1344031347,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344031347,
+    "wof:lastmodified":1537656958,
+    "wof:name":"Guil",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.72366,
+    35.79306,
+    128.72366,
+    35.79306
+],
+  "geometry": {"coordinates":[128.72366,35.79306],"type":"Point"}
+}

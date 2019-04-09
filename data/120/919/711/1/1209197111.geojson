@@ -1,0 +1,65 @@
+{
+  "id": 1209197111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4415,35.85851,128.4415,35.85851",
+    "geom:latitude":35.85851,
+    "geom:longitude":128.4415,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pugong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900640,
+    "gn:latitude":35.85851,
+    "gn:longitude":128.4415,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pugong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd80\uace1\ub9ac",
+        "Pugong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900640
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0e1ffaa3d0d11db004c92ee7b890b0fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209197111
+        }
+    ],
+    "wof:id":1209197111,
+    "wof:lastmodified":1537658771,
+    "wof:name":"Pugong-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4415,
+    35.85850999999999,
+    128.4415,
+    35.85850999999999
+],
+  "geometry": {"coordinates":[128.44149999999999,35.85850999999999],"type":"Point"}
+}

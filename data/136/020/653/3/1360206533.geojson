@@ -1,0 +1,70 @@
+{
+  "id": 1360206533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.47234,38.39485,128.47234,38.39485",
+    "geom:latitude":38.39485,
+    "geom:longitude":128.47234,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pongho-ri",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305429,
+    "gn:latitude":38.39485,
+    "gn:longitude":128.47234,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pongho-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd09\ud638\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305429
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"421a21e58efc9673f4a640ec158377dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1360206533,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360206533,
+    "wof:lastmodified":1537658889,
+    "wof:name":"Pongho-ri",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.47234,
+    38.39485,
+    128.47234,
+    38.39485
+],
+  "geometry": {"coordinates":[128.47234,38.39485],"type":"Point"}
+}

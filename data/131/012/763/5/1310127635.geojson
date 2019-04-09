@@ -1,0 +1,78 @@
+{
+  "id": 1310127635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85077,38.00378,127.85077,38.00378",
+    "geom:latitude":38.00378,
+    "geom:longitude":127.85077,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bugwiteo",
+    "gn:country_code":"KR",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364881,
+    "gn:latitude":38.00378,
+    "gn:longitude":127.85077,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Bugwiteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\uadc0\ub300"
+    ],
+    "name:kor_x_variant":[
+        "\ubd80\uadc0\ud130"
+    ],
+    "name:und_x_variant":[
+        "Pugwidae",
+        "Bugwidae",
+        "Bugwiteo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364881
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2bb1cc3ccbdbb73c2e470b5bc2e449fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1310127635,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310127635,
+    "wof:lastmodified":1537657102,
+    "wof:name":"Bugwiteo",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85077,
+    38.00378,
+    127.85077,
+    38.00378
+],
+  "geometry": {"coordinates":[127.85077,38.00378],"type":"Point"}
+}

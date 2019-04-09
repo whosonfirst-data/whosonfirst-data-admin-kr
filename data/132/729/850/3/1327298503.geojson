@@ -1,0 +1,73 @@
+{
+  "id": 1327298503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.98231,35.34493,128.98231,35.34493",
+    "geom:latitude":35.34493,
+    "geom:longitude":128.98231,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Myeongeon",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901110,
+    "gn:latitude":35.34493,
+    "gn:longitude":128.98231,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Myeongeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba85\uc5b8"
+    ],
+    "name:und_x_variant":[
+        "My\u014fng\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901110
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d0bc52240502b5463f608e95bb80490a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1327298503,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1327298503,
+    "wof:lastmodified":1537656949,
+    "wof:name":"Myeongeon",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.98231,
+    35.34493,
+    128.98231,
+    35.34493
+],
+  "geometry": {"coordinates":[128.98231000000001,35.34493],"type":"Point"}
+}

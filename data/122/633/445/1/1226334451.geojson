@@ -1,0 +1,75 @@
+{
+  "id": 1226334451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.63031,38.17136,127.63031,38.17136",
+    "geom:latitude":38.17136,
+    "geom:longitude":127.63031,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Naebongdong",
+    "gn:country_code":"KR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882291,
+    "gn:latitude":38.17136,
+    "gn:longitude":127.63031,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Naebongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\ubd09\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uc548\ubd09\uace8",
+        "Anbong-gol",
+        "Naebongdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882291
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fad6769b4994f1ab193d1d89527e4ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1226334451,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226334451,
+    "wof:lastmodified":1537656755,
+    "wof:name":"Naebongdong",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.63031,
+    38.17136,
+    127.63031,
+    38.17136
+],
+  "geometry": {"coordinates":[127.63030999999999,38.17136],"type":"Point"}
+}

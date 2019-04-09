@@ -1,0 +1,79 @@
+{
+  "id": 890475549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.7,36.71667,128.7,36.71667",
+    "geom:latitude":36.71667,
+    "geom:longitude":128.7,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uacc4\uace8"
+    ],
+    "name:unk_x_variant":[
+        "Ongchon-dong"
+    ],
+    "qs:name":"\ub3d9\ucd0c\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\ub300\uad6c",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85673233,
+        85632231,
+        890476183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842243,
+        "gp:id":28995117,
+        "qs:id":55619
+    },
+    "wof:country":"KR",
+    "wof:created":1469054040,
+    "wof:geomhash":"63c515c19442f7c255190e8d05b80060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476183,
+            "neighbourhood_id":890475549,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":890475549,
+    "wof:lastmodified":1505343719,
+    "wof:name":"\ub3d9\ucd0c\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.7,
+    36.71667,
+    128.7,
+    36.71667
+],
+  "geometry": {"coordinates":[128.69999999999999,36.71667],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 890472301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001267,
+    "geom:area_square_m":12440574.889258,
+    "geom:bbox":"126.877586632,37.4328792575,126.931043149,37.4842242337",
+    "geom:latitude":37.46038,
+    "geom:longitude":126.904123,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "lbl:latitude":37.460249,
+    "lbl:longitude":126.9023,
+    "meso:admin_1_en":"Seoul",
+    "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+    "meso:diss_me":"Geumcheon-guSeoul",
+    "meso:gadm_admin":"Gwanak",
+    "meso:local_id":"11180",
+    "meso:mps_x":126.9023,
+    "meso:mps_y":37.460249,
+    "meso:name_en":"Geumcheon-gu",
+    "meso:name_local":"\uae08\ucc9c\uad6c",
+    "meso:source":"AOTM",
+    "mps:latitude":37.460249,
+    "mps:longitude":126.9023,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Geumcheon-gu"
+    ],
+    "name:eng_x_variant":[
+        "Gwanak"
+    ],
+    "name:kor_x_preferred":[
+        "\uae08\ucc9c\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uae08\ucc9c\uad6c"
+    ],
+    "qs:name":"Geumcheon-gu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":283,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8349534,
+        "qs:id":1155775,
+        "wd:id":"Q50359",
+        "wk:page":"Geumcheon District"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053889,
+    "wof:geomhash":"0d5efdfa6d904235fcf2dfd66e45f0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472301,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":890472301,
+    "wof:lastmodified":1527790279,
+    "wof:name":"Geumcheon-gu",
+    "wof:parent_id":85673185,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87758663184522,
+    37.43287925753695,
+    126.9310431492364,
+    37.48422423369933
+],
+  "geometry": {"coordinates":[[[126.87913758460724,37.48232374466445],[126.88356265526424,37.48367271264699],[126.89580200646347,37.47808954704017],[126.90239929105141,37.48403642478146],[126.90743280661343,37.48422423369933],[126.91342836766697,37.47356416261274],[126.91263964550276,37.46974776834882],[126.91075060419291,37.4665260704212],[126.91719742597795,37.45809882886555],[126.92825398290721,37.4569532396817],[126.93004755155988,37.45553106405702],[126.9310431492364,37.45320970249367],[126.91789452466558,37.44136931986972],[126.91800271473718,37.43430783095427],[126.91608879811889,37.43287925753695],[126.90106813020539,37.43687817968831],[126.90050078614374,37.44919261259938],[126.89093233477743,37.4536735919834],[126.89122455976728,37.46136354299372],[126.89145756698738,37.46369290746781],[126.88332634131667,37.46851234586808],[126.87758663184522,37.4798295516813],[126.87913758460724,37.48232374466445]]],"type":"Polygon"}
+}

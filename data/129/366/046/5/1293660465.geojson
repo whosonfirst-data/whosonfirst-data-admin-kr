@@ -1,0 +1,74 @@
+{
+  "id": 1293660465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2667,37.725,127.2667,37.725",
+    "geom:latitude":37.725,
+    "geom:longitude":127.2667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Deongmal",
+    "gn:country_code":"KR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803550,
+    "gn:latitude":37.725,
+    "gn:longitude":127.2667,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Deongmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "\ub355\ub9d0",
+        "Deongmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803550
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f0ea67453b426eba987a014a12f09dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1293660465,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293660465,
+    "wof:lastmodified":1537657787,
+    "wof:name":"Deongmal",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2667,
+    37.725,
+    127.2667,
+    37.725
+],
+  "geometry": {"coordinates":[127.2667,37.725],"type":"Point"}
+}

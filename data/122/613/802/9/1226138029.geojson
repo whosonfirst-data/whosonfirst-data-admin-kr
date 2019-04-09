@@ -1,0 +1,72 @@
+{
+  "id": 1226138029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0,35.1,129.0,35.1",
+    "geom:latitude":35.1,
+    "geom:longitude":129.0,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hoemangch'on",
+    "gn:country_code":"KR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844261,
+    "gn:latitude":35.1,
+    "gn:longitude":129.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hoemangch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koej\u014fng-ni",
+        "Hoej\u014fng-ni",
+        "Hoemangch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890474617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844261
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9462cc494a7c7d21bd62a72e9a9f3dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474617,
+            "locality_id":1226138029,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1226138029,
+    "wof:lastmodified":1537656585,
+    "wof:name":"Hoemangch'on",
+    "wof:parent_id":890474617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0,
+    35.1,
+    129.0,
+    35.1
+],
+  "geometry": {"coordinates":[129.0,35.1],"type":"Point"}
+}

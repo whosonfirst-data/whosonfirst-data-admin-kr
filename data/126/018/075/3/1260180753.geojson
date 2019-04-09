@@ -1,0 +1,70 @@
+{
+  "id": 1260180753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.03922,37.01082,128.03922,37.01082",
+    "geom:latitude":37.01082,
+    "geom:longitude":128.03922,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yanga",
+    "gn:country_code":"KR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797908,
+    "gn:latitude":37.01082,
+    "gn:longitude":128.03922,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Yanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc544"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797908
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"60f09ac3625cad629b70f8551f70de5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1260180753,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1260180753,
+    "wof:lastmodified":1537657607,
+    "wof:name":"Yanga",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.03922,
+    37.01082,
+    128.03922,
+    37.01082
+],
+  "geometry": {"coordinates":[128.03922,37.01082],"type":"Point"}
+}

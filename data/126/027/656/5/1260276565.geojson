@@ -1,0 +1,72 @@
+{
+  "id": 1260276565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61151,36.4066,127.61151,36.4066",
+    "geom:latitude":36.4066,
+    "geom:longitude":127.61151,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jangjugok",
+    "gn:country_code":"KR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884698,
+    "gn:latitude":36.4066,
+    "gn:longitude":127.61151,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Jangjugok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7a5\uc8fc\uace1",
+        "Changjugok",
+        "Jangjugok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884698
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"68680f838f6ef371ad5d139f99bf692a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472333,
+            "locality_id":1260276565,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1260276565,
+    "wof:lastmodified":1537658336,
+    "wof:name":"Jangjugok",
+    "wof:parent_id":890472333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61151,
+    36.4066,
+    127.61151,
+    36.4066
+],
+  "geometry": {"coordinates":[127.61151,36.4066],"type":"Point"}
+}

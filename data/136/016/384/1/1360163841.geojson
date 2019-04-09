@@ -1,0 +1,75 @@
+{
+  "id": 1360163841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.51596,37.79968,127.51596,37.79968",
+    "geom:latitude":37.79968,
+    "geom:longitude":127.51596,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yeopchang",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802143,
+    "gn:latitude":37.79968,
+    "gn:longitude":127.51596,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Yeopchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5fd\ucc3d"
+    ],
+    "name:und_x_variant":[
+        "\uc5fc\ucc3d",
+        "Y\u014fmch\u2019ang",
+        "Yeopchang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802143
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b8e80033cc00e62c1c40004fe38635d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1360163841,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360163841,
+    "wof:lastmodified":1537657727,
+    "wof:name":"Yeopchang",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.51596,
+    37.79968,
+    127.51596,
+    37.79968
+],
+  "geometry": {"coordinates":[127.51596000000001,37.79968],"type":"Point"}
+}

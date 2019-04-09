@@ -1,0 +1,73 @@
+{
+  "id": 1343532491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71689,37.67089,126.71689,37.67089",
+    "geom:latitude":37.67089,
+    "geom:longitude":126.71689,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seochon",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363993,
+    "gn:latitude":37.67089,
+    "gn:longitude":126.71689,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Seochon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363993
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2dc24e0b6df53b94cd647781b428174d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746467,
+            "locality_id":1343532491,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343532491,
+    "wof:lastmodified":1537657063,
+    "wof:name":"Seochon",
+    "wof:parent_id":1108746467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71689,
+    37.67089,
+    126.71689,
+    37.67089
+],
+  "geometry": {"coordinates":[126.71689000000001,37.67089],"type":"Point"}
+}

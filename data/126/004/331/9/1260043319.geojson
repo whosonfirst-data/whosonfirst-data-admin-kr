@@ -1,0 +1,67 @@
+{
+  "id": 1260043319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52583,36.15472,126.52583,36.15472",
+    "geom:latitude":36.15472,
+    "geom:longitude":126.52583,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Todul-li",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1886629,
+    "gn:latitude":36.15472,
+    "gn:longitude":126.52583,
+    "gn:modification_date":"2000-12-28",
+    "gn:name":"Todul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890476195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1886629
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ec3132dad712d84fa54c1379faad4a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476195,
+            "locality_id":1260043319,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260043319,
+    "wof:lastmodified":1537044209,
+    "wof:name":"Todul-li",
+    "wof:parent_id":890476195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52583,
+    36.15472000000001,
+    126.52583,
+    36.15472000000001
+],
+  "geometry": {"coordinates":[126.52583,36.15472000000001],"type":"Point"}
+}

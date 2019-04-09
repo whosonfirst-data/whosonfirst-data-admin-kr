@@ -1,0 +1,74 @@
+{
+  "id": 1225914817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65788,36.47768,128.65788,36.47768",
+    "geom:latitude":36.47768,
+    "geom:longitude":128.65788,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Unsan",
+    "gn:country_code":"KR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833589,
+    "gn:latitude":36.47768,
+    "gn:longitude":128.65788,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Unsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b4\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Unsan-dong",
+        "Unsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833589
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6e393a43ea38600541788db51e99ffca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1225914817,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225914817,
+    "wof:lastmodified":1537656041,
+    "wof:name":"Unsan",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65788,
+    36.47768,
+    128.65788,
+    36.47768
+],
+  "geometry": {"coordinates":[128.65788000000001,36.47768],"type":"Point"}
+}

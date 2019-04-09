@@ -1,0 +1,74 @@
+{
+  "id": 1310191347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1244,37.6447,127.1244,37.6447",
+    "geom:latitude":37.6447,
+    "geom:longitude":127.1244,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chuullae",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801523,
+    "gn:latitude":37.6447,
+    "gn:longitude":127.1244,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chu\u016dllae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fc\uc744\ub0b4"
+    ],
+    "name:und_x_variant":[
+        "\uc8fc\uc744\ub0b4",
+        "Chu\u016dllae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801523
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b141fbade852c6a0b21f075f72250532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1310191347,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310191347,
+    "wof:lastmodified":1537657698,
+    "wof:name":"Chuullae",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1244,
+    37.6447,
+    127.1244,
+    37.6447
+],
+  "geometry": {"coordinates":[127.12439999999999,37.6447],"type":"Point"}
+}

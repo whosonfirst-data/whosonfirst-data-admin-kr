@@ -1,0 +1,70 @@
+{
+  "id": 1243235479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.84194,34.40778,126.84194,34.40778",
+    "geom:latitude":34.40778,
+    "geom:longitude":126.84194,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Naedong",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395067,
+    "gn:latitude":34.40778,
+    "gn:longitude":126.84194,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Naedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395067
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"56b39e2a53c23fcc7e5b5cc47cd4eb29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1243235479,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243235479,
+    "wof:lastmodified":1537657151,
+    "wof:name":"Naedong",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.84194,
+    34.40778,
+    126.84194,
+    34.40778
+],
+  "geometry": {"coordinates":[126.84193999999999,34.40778],"type":"Point"}
+}

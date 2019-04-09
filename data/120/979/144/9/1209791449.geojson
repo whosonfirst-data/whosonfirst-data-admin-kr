@@ -1,0 +1,70 @@
+{
+  "id": 1209791449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64893,35.14641,126.64893,35.14641",
+    "geom:latitude":35.14641,
+    "geom:longitude":126.64893,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Seogam",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171035,
+    "gn:latitude":35.14641,
+    "gn:longitude":126.64893,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seogam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171035
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ec8a24b2d1662fc73053a6b1768e4308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1209791449,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209791449,
+    "wof:lastmodified":1537659197,
+    "wof:name":"Seogam",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64893,
+    35.14641,
+    126.64893,
+    35.14641
+],
+  "geometry": {"coordinates":[126.64892999999999,35.14641],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226617883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55556,34.46583,126.55556,34.46583",
+    "geom:latitude":34.46583,
+    "geom:longitude":126.55556,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Koken-ri",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842778,
+    "gn:latitude":34.46583,
+    "gn:longitude":126.55556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koken-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ud604"
+    ],
+    "name:kor_x_variant":[
+        "Kohy\u014fn"
+    ],
+    "name:und_x_variant":[
+        "Koken",
+        "Koken-ri",
+        "Kohy\u014fn-ni",
+        "Kohy\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842778
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1b0828243ca639b02657cd629314ead9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1226617883,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226617883,
+    "wof:lastmodified":1537656514,
+    "wof:name":"Koken-ri",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55556,
+    34.46583,
+    126.55556,
+    34.46583
+],
+  "geometry": {"coordinates":[126.55556,34.46583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243465799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06502,35.76238,127.06502,35.76238",
+    "geom:latitude":35.76238,
+    "geom:longitude":127.06502,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tokpae",
+    "gn:country_code":"KR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878080,
+    "gn:latitude":35.76238,
+    "gn:longitude":127.06502,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tokpae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c5\ubc30",
+        "Tokpae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        1108746471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878080
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0b91aef6427f45f5bf43c2f45e95c9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746471,
+            "locality_id":1243465799,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1243465799,
+    "wof:lastmodified":1537658185,
+    "wof:name":"Tokpae",
+    "wof:parent_id":1108746471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06502,
+    35.76238,
+    127.06502,
+    35.76238
+],
+  "geometry": {"coordinates":[127.06502,35.76238],"type":"Point"}
+}

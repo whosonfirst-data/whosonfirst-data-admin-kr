@@ -1,0 +1,78 @@
+{
+  "id": 1226521455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.47259,37.95926,127.47259,37.95926",
+    "geom:latitude":37.95926,
+    "geom:longitude":127.47259,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gwangcheongni",
+    "gn:country_code":"KR",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897212,
+    "gn:latitude":37.95926,
+    "gn:longitude":127.47259,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gwangcheongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\uccad"
+    ],
+    "name:kor_x_variant":[
+        "Kwanch\u2019\u014fng",
+        "\uad00\uccad\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kwanch\u2019\u014fng-ni",
+        "Gwangcheongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897212
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"92a1abe7d7ecfe91509fc846d615d23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1226521455,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226521455,
+    "wof:lastmodified":1537656935,
+    "wof:name":"Gwangcheongni",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.47259,
+    37.95926,
+    127.47259,
+    37.95926
+],
+  "geometry": {"coordinates":[127.47259,37.95926],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259371529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.20645,35.32766,129.20645,35.32766",
+    "geom:latitude":35.32766,
+    "geom:longitude":129.20645,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yerim",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11112133,
+    "gn:latitude":35.32766,
+    "gn:longitude":129.20645,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Yerim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc608\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11112133
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d8cb23b29fafc7eb0affcd5d93950cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1259371529,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1259371529,
+    "wof:lastmodified":1537659161,
+    "wof:name":"Yerim",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.20645,
+    35.32765999999999,
+    129.20645,
+    35.32765999999999
+],
+  "geometry": {"coordinates":[129.20644999999999,35.32765999999999],"type":"Point"}
+}

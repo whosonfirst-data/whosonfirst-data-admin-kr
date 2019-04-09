@@ -1,0 +1,64 @@
+{
+  "id": 1209591833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05297,36.67108,127.05297,36.67108",
+    "geom:latitude":36.67108,
+    "geom:longitude":127.05297,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hageom",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354606,
+    "gn:latitude":36.67108,
+    "gn:longitude":127.05297,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hageom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uac80"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354606
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3c12d15acdb704aef5d5f27c4b048a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209591833
+        }
+    ],
+    "wof:id":1209591833,
+    "wof:lastmodified":1537659042,
+    "wof:name":"Hageom",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05297,
+    36.67108,
+    127.05297,
+    36.67108
+],
+  "geometry": {"coordinates":[127.05297,36.67108],"type":"Point"}
+}

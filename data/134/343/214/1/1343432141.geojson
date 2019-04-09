@@ -1,0 +1,74 @@
+{
+  "id": 1343432141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.23659,37.18128,127.23659,37.18128",
+    "geom:latitude":37.18128,
+    "geom:longitude":127.23659,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Handeok",
+    "gn:country_code":"KR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398669,
+    "gn:latitude":37.18128,
+    "gn:longitude":127.23659,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Handeok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\ub355"
+    ],
+    "name:kor_x_variant":[
+        "Hand\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398669
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5007d38aaece458e9429ffd3c3cba151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1343432141,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343432141,
+    "wof:lastmodified":1537657183,
+    "wof:name":"Handeok",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.23659,
+    37.18128,
+    127.23659,
+    37.18128
+],
+  "geometry": {"coordinates":[127.23659000000001,37.18128],"type":"Point"}
+}

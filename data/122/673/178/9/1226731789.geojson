@@ -1,0 +1,73 @@
+{
+  "id": 1226731789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02999,34.73371,127.02999,34.73371",
+    "geom:latitude":34.73371,
+    "geom:longitude":127.02999,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Guseong",
+    "gn:country_code":"KR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684540,
+    "gn:latitude":34.73371,
+    "gn:longitude":127.02999,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Guseong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc131"
+    ],
+    "name:kor_x_variant":[
+        "Kus\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684540
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"410ffc5c84d7fb525f90114d0beb2837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1226731789,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226731789,
+    "wof:lastmodified":1537657415,
+    "wof:name":"Guseong",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02998999999998,
+    34.73370999999999,
+    127.02998999999998,
+    34.73370999999999
+],
+  "geometry": {"coordinates":[127.02998999999998,34.73370999999999],"type":"Point"}
+}

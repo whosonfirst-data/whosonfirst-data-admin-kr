@@ -1,0 +1,66 @@
+{
+  "id": 1209190489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5235,36.7028,126.5235,36.7028",
+    "geom:latitude":36.7028,
+    "geom:longitude":126.5235,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tokchi",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834578,
+    "gn:latitude":36.7028,
+    "gn:longitude":126.5235,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tokchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c5\uc9c0",
+        "Tokchi-ri",
+        "Tokchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834578
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b2256b122d37838d342b0c01bdd0949f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209190489
+        }
+    ],
+    "wof:id":1209190489,
+    "wof:lastmodified":1537656094,
+    "wof:name":"Tokchi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5235,
+    36.7028,
+    126.5235,
+    36.7028
+],
+  "geometry": {"coordinates":[126.5235,36.7028],"type":"Point"}
+}

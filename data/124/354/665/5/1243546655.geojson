@@ -1,0 +1,75 @@
+{
+  "id": 1243546655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59862,38.05864,127.59862,38.05864",
+    "geom:latitude":38.05864,
+    "geom:longitude":127.59862,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Myeoguji",
+    "gn:country_code":"KR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273093,
+    "gn:latitude":38.05864,
+    "gn:longitude":127.59862,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Myeoguji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba70\uad6c\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "My\u014fguji",
+        "Meguji",
+        "Myeoguji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273093
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8f7bbb48515de2aa467486be2d8a826a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1243546655,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243546655,
+    "wof:lastmodified":1537657009,
+    "wof:name":"Myeoguji",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59862,
+    38.05864,
+    127.59862,
+    38.05864
+],
+  "geometry": {"coordinates":[127.59862,38.05864],"type":"Point"}
+}

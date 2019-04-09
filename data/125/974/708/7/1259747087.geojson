@@ -1,0 +1,74 @@
+{
+  "id": 1259747087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.19076,34.41058,126.19076,34.41058",
+    "geom:latitude":34.41058,
+    "geom:longitude":126.19076,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sibilsi",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832166,
+    "gn:latitude":34.41058,
+    "gn:longitude":126.19076,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sibilsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2ed\uc77c\uc2dc"
+    ],
+    "name:und_x_variant":[
+        "J\u016bnichishi",
+        "Y\u014frilsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832166
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"df8ec3fef5d067ddb06474508f85af6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1259747087,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259747087,
+    "wof:lastmodified":1537655965,
+    "wof:name":"Sibilsi",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.19076,
+    34.41058,
+    126.19076,
+    34.41058
+],
+  "geometry": {"coordinates":[126.19076,34.41058],"type":"Point"}
+}

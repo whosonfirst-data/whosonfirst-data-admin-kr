@@ -1,0 +1,80 @@
+{
+  "id": 1343240683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.24159,35.31823,129.24159,35.31823",
+    "geom:latitude":35.31823,
+    "geom:longitude":129.24159,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jwacheon",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844857,
+    "gn:latitude":35.31823,
+    "gn:longitude":129.24159,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Jwacheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc88c\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Sasen",
+        "Chach\u2019\u014fn",
+        "Sasen-ri",
+        "Chwach\u2019\u014fn-dong",
+        "Chach\u2019\u014fn-ni",
+        "Chwach\u2019\u014fn-ni",
+        "Chwach\u2019\u014fn",
+        "Jwacheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844857
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dc4ee55dab0e0e06f2c7f6e0c6e71594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1343240683,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1343240683,
+    "wof:lastmodified":1537656620,
+    "wof:name":"Jwacheon",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.24159,
+    35.31823,
+    129.24159,
+    35.31823
+],
+  "geometry": {"coordinates":[129.24159,35.31823],"type":"Point"}
+}

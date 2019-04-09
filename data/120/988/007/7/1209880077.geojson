@@ -1,0 +1,73 @@
+{
+  "id": 1209880077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.25,34.5,126.25,34.5",
+    "geom:latitude":34.5,
+    "geom:longitude":126.25,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Susong",
+    "gn:country_code":"KR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835539,
+    "gn:latitude":34.5,
+    "gn:longitude":126.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Susong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juj\u014d",
+        "Susong",
+        "Juiki-ri",
+        "Suy\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835539
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ef0eb83e308b7bf5ac86422469b17c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1209880077,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209880077,
+    "wof:lastmodified":1537656143,
+    "wof:name":"Susong",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.25,
+    34.5,
+    126.25,
+    34.5
+],
+  "geometry": {"coordinates":[126.25,34.5],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310192139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38259,37.76624,126.38259,37.76624",
+    "geom:latitude":37.76624,
+    "geom:longitude":126.38259,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Dwinmul",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843164,
+    "gn:latitude":37.76624,
+    "gn:longitude":126.38259,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Dwinmul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub4b7\ubb3c"
+    ],
+    "name:und_x_variant":[
+        "Kanghu-dong",
+        "Hu-dong",
+        "Twitmul",
+        "Dwinmul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843164
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7602f16241447d4e9d049a6a9e72e13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1310192139,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1310192139,
+    "wof:lastmodified":1537656534,
+    "wof:name":"Dwinmul",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38259,
+    37.76624,
+    126.38259,
+    37.76624
+],
+  "geometry": {"coordinates":[126.38258999999999,37.76624],"type":"Point"}
+}

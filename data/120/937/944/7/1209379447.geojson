@@ -1,0 +1,64 @@
+{
+  "id": 1209379447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.02345,35.34559,129.02345,35.34559",
+    "geom:latitude":35.34559,
+    "geom:longitude":129.02345,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hoehyeondong",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11098704,
+    "gn:latitude":35.34559,
+    "gn:longitude":129.02345,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Hoehyeondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud68c\ud604\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11098704
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1b27a07b8e112b127c4d055076a599a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209379447
+        }
+    ],
+    "wof:id":1209379447,
+    "wof:lastmodified":1537659158,
+    "wof:name":"Hoehyeondong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.02345,
+    35.34559,
+    129.02345,
+    35.34559
+],
+  "geometry": {"coordinates":[129.02345,35.34559],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343532487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.46944,37.33,127.46944,37.33",
+    "geom:latitude":37.33,
+    "geom:longitude":127.46944,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Torim-ni",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6577807,
+    "gn:latitude":37.33,
+    "gn:longitude":127.46944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Torim-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c4\ub9bd\ub9ac",
+        "Dorip-ri",
+        "Torim-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577807
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4e3614c36e259b3aed30fc2c8dfadfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1343532487,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343532487,
+    "wof:lastmodified":1537657390,
+    "wof:name":"Torim-ni",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.46944,
+    37.33,
+    127.46944,
+    37.33
+],
+  "geometry": {"coordinates":[127.46944000000001,37.33],"type":"Point"}
+}

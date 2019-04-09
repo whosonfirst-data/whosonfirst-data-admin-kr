@@ -1,0 +1,72 @@
+{
+  "id": 1293376165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.64972,37.35,127.64972,37.35",
+    "geom:latitude":37.35,
+    "geom:longitude":127.64972,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kasal-li",
+    "gn:country_code":"KR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6576552,
+    "gn:latitude":37.35,
+    "gn:longitude":127.64972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kasal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uc0b0\ub9ac",
+        "Gasan-ri",
+        "Kasal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576552
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ccb83f19f4b7c18c32a88fe2984da5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1293376165,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293376165,
+    "wof:lastmodified":1537657324,
+    "wof:name":"Kasal-li",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.64972,
+    37.35,
+    127.64972,
+    37.35
+],
+  "geometry": {"coordinates":[127.64972,37.35],"type":"Point"}
+}

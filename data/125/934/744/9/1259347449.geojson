@@ -1,0 +1,74 @@
+{
+  "id": 1259347449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29062,35.64001,128.29062,35.64001",
+    "geom:latitude":35.64001,
+    "geom:longitude":128.29062,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yurwol-li",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832045,
+    "gn:latitude":35.64001,
+    "gn:longitude":128.29062,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yurw\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yurw\u014fn-ni",
+        "Yurw\u014fn",
+        "\uc728\uc6d0\ub9ac",
+        "Yurw\u014fn-dong",
+        "Yurw\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832045
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d302957427d93f0a1578da2378080206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1259347449,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259347449,
+    "wof:lastmodified":1537655959,
+    "wof:name":"Yurwol-li",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29062,
+    35.64001,
+    128.29062,
+    35.64001
+],
+  "geometry": {"coordinates":[128.29061999999999,35.64001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226420025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95139,37.48417,126.95139,37.48417",
+    "geom:latitude":37.48417,
+    "geom:longitude":126.95139,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jungang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6572032,
+    "gn:latitude":37.48417,
+    "gn:longitude":126.95139,
+    "gn:modification_date":"2014-01-06",
+    "gn:name":"Jungang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jungang-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\uc559\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890472187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6572032
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cf91c71d4caa033121ab338d27d71e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472187,
+            "locality_id":1226420025,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1226420025,
+    "wof:lastmodified":1537550282,
+    "wof:name":"Jungang-dong",
+    "wof:parent_id":890472187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95139,
+    37.48417,
+    126.95139,
+    37.48417
+],
+  "geometry": {"coordinates":[126.95139,37.48417],"type":"Point"}
+}

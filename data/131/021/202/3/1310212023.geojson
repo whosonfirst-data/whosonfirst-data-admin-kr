@@ -1,0 +1,71 @@
+{
+  "id": 1310212023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.75453,35.91245,127.75453,35.91245",
+    "geom:latitude":35.91245,
+    "geom:longitude":127.75453,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Paebang",
+    "gn:country_code":"KR",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880008,
+    "gn:latitude":35.91245,
+    "gn:longitude":127.75453,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paebang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc30\ubc29",
+        "Paebang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880008
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d3ffc48eb989290ba58a3301ae470ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472985,
+            "locality_id":1310212023,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1310212023,
+    "wof:lastmodified":1537658241,
+    "wof:name":"Paebang",
+    "wof:parent_id":890472985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.75453,
+    35.91245,
+    127.75453,
+    35.91245
+],
+  "geometry": {"coordinates":[127.75453,35.91245],"type":"Point"}
+}

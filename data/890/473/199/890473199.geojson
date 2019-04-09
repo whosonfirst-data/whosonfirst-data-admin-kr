@@ -1,0 +1,79 @@
+{
+  "id": 890473199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.75,35.91667,127.75,35.91667",
+    "geom:latitude":35.91667,
+    "geom:longitude":127.75,
+    "gn:country":"KR",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muju-gun"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\uc8fc\uad70"
+    ],
+    "name:kor_x_variant":[
+        "\ubb34\uc8fc"
+    ],
+    "name:unk_x_variant":[
+        "Muju"
+    ],
+    "qs:name":"Muju-gun",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":1679,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840941,
+        "qs:id":356121,
+        "wd:id":"Q50242",
+        "wk:page":"Muju County"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053943,
+    "wof:geomhash":"f3e6b2c7b98342588ce010976d210922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472985,
+            "localadmin_id":890473199,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":890473199,
+    "wof:lastmodified":1527792833,
+    "wof:name":"Muju-gun",
+    "wof:parent_id":890472985,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.75,
+    35.91667,
+    127.75,
+    35.91667
+],
+  "geometry": {"coordinates":[127.75,35.91667],"type":"Point"}
+}

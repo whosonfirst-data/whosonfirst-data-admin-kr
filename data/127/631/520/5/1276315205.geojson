@@ -1,0 +1,77 @@
+{
+  "id": 1276315205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82109,34.68311,126.82109,34.68311",
+    "geom:latitude":34.68311,
+    "geom:longitude":126.82109,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ima",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843637,
+    "gn:latitude":34.68311,
+    "gn:longitude":126.82109,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\ub9c8\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\ub9c8"
+    ],
+    "name:und_x_variant":[
+        "Ima-ri",
+        "Ima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843637
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"27b7c76db18fa5881f2f9dff1f58b069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1276315205,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276315205,
+    "wof:lastmodified":1537656559,
+    "wof:name":"Ima",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82108999999998,
+    34.68311,
+    126.82108999999998,
+    34.68311
+],
+  "geometry": {"coordinates":[126.82108999999998,34.68311],"type":"Point"}
+}

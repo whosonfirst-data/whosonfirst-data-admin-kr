@@ -1,0 +1,71 @@
+{
+  "id": 1343434397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9675,36.2982,127.9675,36.2982",
+    "geom:latitude":36.2982,
+    "geom:longitude":127.9675,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taean",
+    "gn:country_code":"KR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892319,
+    "gn:latitude":36.2982,
+    "gn:longitude":127.9675,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\uc548",
+        "Taean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892319
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"09624353c42e3242a0a4884b6165ccf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1343434397,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343434397,
+    "wof:lastmodified":1537658540,
+    "wof:name":"Taean",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9675,
+    36.2982,
+    127.9675,
+    36.2982
+],
+  "geometry": {"coordinates":[127.9675,36.2982],"type":"Point"}
+}

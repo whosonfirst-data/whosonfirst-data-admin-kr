@@ -1,0 +1,74 @@
+{
+  "id": 1343844165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2932,37.6454,127.2932,37.6454",
+    "geom:latitude":37.6454,
+    "geom:longitude":127.2932,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gungmal",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803138,
+    "gn:latitude":37.6454,
+    "gn:longitude":127.2932,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Gungmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad81\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "\uad81\ub9d0",
+        "Gungmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803138
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6ea2b507b30df13a9dfc487946a2b01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1343844165,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343844165,
+    "wof:lastmodified":1537657771,
+    "wof:name":"Gungmal",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2932,
+    37.6454,
+    127.2932,
+    37.6454
+],
+  "geometry": {"coordinates":[127.2932,37.6454],"type":"Point"}
+}

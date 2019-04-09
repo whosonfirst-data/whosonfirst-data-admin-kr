@@ -1,0 +1,70 @@
+{
+  "id": 1243530635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22143,36.29318,127.22143,36.29318",
+    "geom:latitude":36.29318,
+    "geom:longitude":127.22143,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dongokgol",
+    "gn:country_code":"KR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10913369,
+    "gn:latitude":36.29318,
+    "gn:longitude":127.22143,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Dongokgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc625\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10913369
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa5a15341ce13d5643c1af38d2eab1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472515,
+            "locality_id":1243530635,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243530635,
+    "wof:lastmodified":1537659084,
+    "wof:name":"Dongokgol",
+    "wof:parent_id":890472515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22143,
+    36.29318,
+    127.22143,
+    36.29318
+],
+  "geometry": {"coordinates":[127.22143,36.29318],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293103363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29883,36.63455,127.29883,36.63455",
+    "geom:latitude":36.63455,
+    "geom:longitude":127.29883,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Byeongmadong",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349065,
+    "gn:latitude":36.63455,
+    "gn:longitude":127.29883,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Byeongmadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcd1\ub9c8\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349065
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"859121b3f5c14b0c1062bad78f81125b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1293103363,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293103363,
+    "wof:lastmodified":1537659020,
+    "wof:name":"Byeongmadong",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29883,
+    36.63455,
+    127.29883,
+    36.63455
+],
+  "geometry": {"coordinates":[127.29883,36.63455],"type":"Point"}
+}

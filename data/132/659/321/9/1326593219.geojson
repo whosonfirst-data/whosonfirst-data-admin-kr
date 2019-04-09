@@ -1,0 +1,71 @@
+{
+  "id": 1326593219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4258,36.6879,126.4258,36.6879",
+    "geom:latitude":36.6879,
+    "geom:longitude":126.4258,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Poltogunji",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808142,
+    "gn:latitude":36.6879,
+    "gn:longitude":126.4258,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014flt\u014fgunji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc8c\ub355\uc6b4\uc9c0",
+        "P\u014flt\u014fgunji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808142
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ecab4b0a69ca178bfb645f693e7cd73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1326593219,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1326593219,
+    "wof:lastmodified":1537657818,
+    "wof:name":"Poltogunji",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4258,
+    36.6879,
+    126.4258,
+    36.6879
+],
+  "geometry": {"coordinates":[126.4258,36.6879],"type":"Point"}
+}

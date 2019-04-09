@@ -1,0 +1,73 @@
+{
+  "id": 1293084413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.02741,35.98631,128.02741,35.98631",
+    "geom:latitude":35.98631,
+    "geom:longitude":128.02741,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chirye",
+    "gn:country_code":"KR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845989,
+    "gn:latitude":35.98631,
+    "gn:longitude":128.02741,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chirye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chirei",
+        "Chire",
+        "\uc9c0\ub840",
+        "Chirye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845989
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d1cbe063ed1a772d5dc312fc64698d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1293084413,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293084413,
+    "wof:lastmodified":1537656677,
+    "wof:name":"Chirye",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.02741,
+    35.98631,
+    128.02741,
+    35.98631
+],
+  "geometry": {"coordinates":[128.02741,35.98631],"type":"Point"}
+}

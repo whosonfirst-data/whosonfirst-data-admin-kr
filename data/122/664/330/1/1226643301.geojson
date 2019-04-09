@@ -1,0 +1,74 @@
+{
+  "id": 1226643301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31471,37.86377,128.31471,37.86377",
+    "geom:latitude":37.86377,
+    "geom:longitude":128.31471,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soksadong",
+    "gn:country_code":"KR",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836483,
+    "gn:latitude":37.86377,
+    "gn:longitude":128.31471,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Soksadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18d\uc0ac\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Soksa-gol",
+        "Soksadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836483
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e9df0dc3f24f2e829db3ff83155f30ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1226643301,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226643301,
+    "wof:lastmodified":1537656189,
+    "wof:name":"Soksadong",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31471000000002,
+    37.86377,
+    128.31471000000002,
+    37.86377
+],
+  "geometry": {"coordinates":[128.31471000000002,37.86377],"type":"Point"}
+}

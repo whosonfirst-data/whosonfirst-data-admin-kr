@@ -1,0 +1,73 @@
+{
+  "id": 1243370595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98333,36.0,126.98333,36.0",
+    "geom:latitude":36.0,
+    "geom:longitude":126.98333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sojenae",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836575,
+    "gn:latitude":36.0,
+    "gn:longitude":126.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sojenae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "So-chenae",
+        "Soje-ri",
+        "Sojenae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890476057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836575
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4b0c9bc388860fc2af208d9038ce9fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476057,
+            "locality_id":1243370595,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1243370595,
+    "wof:lastmodified":1537656194,
+    "wof:name":"Sojenae",
+    "wof:parent_id":890476057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98333,
+    36.0,
+    126.98333,
+    36.0
+],
+  "geometry": {"coordinates":[126.98333,36.0],"type":"Point"}
+}

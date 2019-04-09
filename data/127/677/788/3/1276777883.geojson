@@ -1,0 +1,75 @@
+{
+  "id": 1276777883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31667,35.36667,127.31667,35.36667",
+    "geom:latitude":35.36667,
+    "geom:longitude":127.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chech'on",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846279,
+    "gn:latitude":35.36667,
+    "gn:longitude":127.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chech\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc81c\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Chech\u2019\u014fn-ni",
+        "Chech\u2019\u014fn",
+        "Jecheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846279
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6ac06d6c394193dd95860a62a4071c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475797,
+            "locality_id":1276777883,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1276777883,
+    "wof:lastmodified":1537656692,
+    "wof:name":"Chech'on",
+    "wof:parent_id":890475797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31667,
+    35.36667,
+    127.31667,
+    35.36667
+],
+  "geometry": {"coordinates":[127.31667,35.36667],"type":"Point"}
+}

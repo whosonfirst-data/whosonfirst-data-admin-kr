@@ -1,0 +1,70 @@
+{
+  "id": 1243154179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80981,35.22969,126.80981,35.22969",
+    "geom:latitude":35.22969,
+    "geom:longitude":126.80981,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wolgye",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171701,
+    "gn:latitude":35.22969,
+    "gn:longitude":126.80981,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Wolgye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\uacc4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171701
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4146689895cee261541a872938f2b5e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1243154179,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243154179,
+    "wof:lastmodified":1537659206,
+    "wof:name":"Wolgye",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80981,
+    35.22969000000001,
+    126.80981,
+    35.22969000000001
+],
+  "geometry": {"coordinates":[126.80981,35.22969000000001],"type":"Point"}
+}

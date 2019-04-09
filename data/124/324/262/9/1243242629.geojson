@@ -1,0 +1,74 @@
+{
+  "id": 1243242629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.74101,37.5293,127.74101,37.5293",
+    "geom:latitude":37.5293,
+    "geom:longitude":127.74101,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jaebisan",
+    "gn:country_code":"KR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799238,
+    "gn:latitude":37.5293,
+    "gn:longitude":127.74101,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Jaebisan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7ac\ube44\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Chaebisan",
+        "Jaebisan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799238
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"65dcb3eec0141b2d5cebdf9a8d5896a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1243242629,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243242629,
+    "wof:lastmodified":1537657625,
+    "wof:name":"Jaebisan",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.74101,
+    37.5293,
+    127.74101,
+    37.5293
+],
+  "geometry": {"coordinates":[127.74101,37.5293],"type":"Point"}
+}

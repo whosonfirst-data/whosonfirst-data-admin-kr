@@ -1,0 +1,72 @@
+{
+  "id": 1259554703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93118,37.05579,126.93118,37.05579",
+    "geom:latitude":37.05579,
+    "geom:longitude":126.93118,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gorandeul",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575462,
+    "gn:latitude":37.05579,
+    "gn:longitude":126.93118,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gorandeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\ub780\ub4e4",
+        "Gorandeul",
+        "Korand\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575462
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72a3367efd02bac62cf65af7daa23889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1259554703,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259554703,
+    "wof:lastmodified":1537657270,
+    "wof:name":"Gorandeul",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93118,
+    37.05579,
+    126.93118,
+    37.05579
+],
+  "geometry": {"coordinates":[126.93118,37.05579],"type":"Point"}
+}

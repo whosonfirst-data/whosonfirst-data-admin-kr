@@ -1,0 +1,75 @@
+{
+  "id": 1343479063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.14971,35.27822,129.14971,35.27822",
+    "geom:latitude":35.27822,
+    "geom:longitude":129.14971,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Wayeo",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894033,
+    "gn:latitude":35.27822,
+    "gn:longitude":129.14971,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Wayeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc640\uc5ec"
+    ],
+    "name:und_x_variant":[
+        "Way\u014f-ri",
+        "Way\u014f",
+        "Wayeo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894033
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4bd600172a9160a5cd4244c014f6727a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1343479063,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1343479063,
+    "wof:lastmodified":1537656844,
+    "wof:name":"Wayeo",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.14971,
+    35.27822000000001,
+    129.14971,
+    35.27822000000001
+],
+  "geometry": {"coordinates":[129.14971,35.27822000000001],"type":"Point"}
+}

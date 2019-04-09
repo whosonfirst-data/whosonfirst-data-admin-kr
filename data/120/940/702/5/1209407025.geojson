@@ -1,0 +1,64 @@
+{
+  "id": 1209407025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2602,37.26,128.2602,37.26",
+    "geom:latitude":37.26,
+    "geom:longitude":128.2602,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Maremi",
+    "gn:country_code":"KR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795128,
+    "gn:latitude":37.26,
+    "gn:longitude":128.2602,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maremi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\ub808\ubbf8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795128
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96d170f2ac20da7358609397b44f454d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209407025
+        }
+    ],
+    "wof:id":1209407025,
+    "wof:lastmodified":1537657517,
+    "wof:name":"Maremi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2602,
+    37.26,
+    128.2602,
+    37.26
+],
+  "geometry": {"coordinates":[128.2602,37.26],"type":"Point"}
+}

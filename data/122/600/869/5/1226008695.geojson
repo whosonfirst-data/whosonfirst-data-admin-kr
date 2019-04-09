@@ -1,0 +1,70 @@
+{
+  "id": 1226008695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91083,34.88923,126.91083,34.88923",
+    "geom:latitude":34.88923,
+    "geom:longitude":126.91083,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Munam",
+    "gn:country_code":"KR",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840915,
+    "gn:latitude":34.88923,
+    "gn:longitude":126.91083,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Munam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840915
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7df615cda3f455bd43bb60bb5b9e2f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1226008695,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226008695,
+    "wof:lastmodified":1537656418,
+    "wof:name":"Munam",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91083,
+    34.88923,
+    126.91083,
+    34.88923
+],
+  "geometry": {"coordinates":[126.91083,34.88923],"type":"Point"}
+}

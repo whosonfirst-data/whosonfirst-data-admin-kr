@@ -1,0 +1,64 @@
+{
+  "id": 1209497883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.52571,35.89925,128.52571,35.89925",
+    "geom:latitude":35.89925,
+    "geom:longitude":128.52571,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Munju",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8552734,
+    "gn:latitude":35.89925,
+    "gn:longitude":128.52571,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Munju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc8fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8552734
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"10ed06c5b918f763a8ef5cf1154f6504",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209497883
+        }
+    ],
+    "wof:id":1209497883,
+    "wof:lastmodified":1537658891,
+    "wof:name":"Munju",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.52571,
+    35.89925,
+    128.52571,
+    35.89925
+],
+  "geometry": {"coordinates":[128.52571,35.89925],"type":"Point"}
+}

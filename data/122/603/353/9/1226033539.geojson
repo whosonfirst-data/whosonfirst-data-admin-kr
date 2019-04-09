@@ -1,0 +1,70 @@
+{
+  "id": 1226033539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.1988,35.2588,129.1988,35.2588",
+    "geom:latitude":35.2588,
+    "geom:longitude":129.1988,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dongseo",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11112097,
+    "gn:latitude":35.2588,
+    "gn:longitude":129.1988,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Dongseo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc11c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11112097
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"797f43550a3f79b33006914751800ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1226033539,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1226033539,
+    "wof:lastmodified":1537659161,
+    "wof:name":"Dongseo",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.1988,
+    35.2588,
+    129.1988,
+    35.2588
+],
+  "geometry": {"coordinates":[129.19880000000001,35.2588],"type":"Point"}
+}

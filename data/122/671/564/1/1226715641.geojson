@@ -1,0 +1,83 @@
+{
+  "id": 1226715641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87299,35.15794,126.87299,35.15794",
+    "geom:latitude":35.15794,
+    "geom:longitude":126.87299,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Naebangdong",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840712,
+    "gn:latitude":35.15794,
+    "gn:longitude":126.87299,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Naebangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\ubc29\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Nae-dong",
+        "Naebang",
+        "Naebangdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472273,
+        85673219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840712
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2f8e5d4c5f7fbffbae0331966168a1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1226715641,
+            "region_id":85673199
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1226715641,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226715641,
+    "wof:lastmodified":1537656409,
+    "wof:name":"Naebangdong",
+    "wof:parent_id":890472273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87299,
+    35.15794,
+    126.87299,
+    35.15794
+],
+  "geometry": {"coordinates":[126.87299,35.15794],"type":"Point"}
+}

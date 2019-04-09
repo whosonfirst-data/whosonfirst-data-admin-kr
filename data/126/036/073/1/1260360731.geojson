@@ -1,0 +1,74 @@
+{
+  "id": 1260360731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48966,37.17521,127.48966,37.17521",
+    "geom:latitude":37.17521,
+    "geom:longitude":127.48966,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Gueundeul",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6399095,
+    "gn:latitude":37.17521,
+    "gn:longitude":127.48966,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gueundeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc740\ub4e4"
+    ],
+    "name:kor_x_variant":[
+        "Ku\u016dnd\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6399095
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2b8c5d7dfed9f85a74331ebfe444679d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1260360731,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260360731,
+    "wof:lastmodified":1537657210,
+    "wof:name":"Gueundeul",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48966,
+    37.17521,
+    127.48966,
+    37.17521
+],
+  "geometry": {"coordinates":[127.48966,37.17521],"type":"Point"}
+}

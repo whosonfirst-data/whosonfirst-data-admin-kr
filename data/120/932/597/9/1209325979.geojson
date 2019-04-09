@@ -1,0 +1,65 @@
+{
+  "id": 1209325979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.30947,35.79593,127.30947,35.79593",
+    "geom:latitude":35.79593,
+    "geom:longitude":127.30947,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puam",
+    "gn:country_code":"KR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896191,
+    "gn:latitude":35.79593,
+    "gn:longitude":127.30947,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Puam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd80\uc554",
+        "Puam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896191
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"28be9cbac7c0ac0a178747b49571bc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209325979
+        }
+    ],
+    "wof:id":1209325979,
+    "wof:lastmodified":1537658652,
+    "wof:name":"Puam",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.30947,
+    35.79593,
+    127.30947,
+    35.79593
+],
+  "geometry": {"coordinates":[127.30947,35.79593],"type":"Point"}
+}

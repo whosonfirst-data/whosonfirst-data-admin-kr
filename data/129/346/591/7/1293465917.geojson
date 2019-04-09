@@ -1,0 +1,70 @@
+{
+  "id": 1293465917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91873,36.70949,126.91873,36.70949",
+    "geom:latitude":36.70949,
+    "geom:longitude":126.91873,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hajiraengi",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10250530,
+    "gn:latitude":36.70949,
+    "gn:longitude":126.91873,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Hajiraengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc9c0\ub7ad\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10250530
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f930dc110932b027e45f32947ba6845c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1293465917,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293465917,
+    "wof:lastmodified":1537658998,
+    "wof:name":"Hajiraengi",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91873,
+    36.70949,
+    126.91873,
+    36.70949
+],
+  "geometry": {"coordinates":[126.91873,36.70949],"type":"Point"}
+}

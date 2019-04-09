@@ -1,0 +1,71 @@
+{
+  "id": 1309673633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3178,35.58731,128.3178,35.58731",
+    "geom:latitude":35.58731,
+    "geom:longitude":128.3178,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hwadong",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901764,
+    "gn:latitude":35.58731,
+    "gn:longitude":128.3178,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Hwadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud654\ub3d9",
+        "Hwadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901764
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4574f298de3928df8c591c8e16e57b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1309673633,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1309673633,
+    "wof:lastmodified":1537658797,
+    "wof:name":"Hwadong",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3178,
+    35.58730999999999,
+    128.3178,
+    35.58730999999999
+],
+  "geometry": {"coordinates":[128.31780000000001,35.58730999999999],"type":"Point"}
+}

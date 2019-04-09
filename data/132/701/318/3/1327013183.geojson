@@ -1,0 +1,72 @@
+{
+  "id": 1327013183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23487,35.70757,128.23487,35.70757",
+    "geom:latitude":35.70757,
+    "geom:longitude":128.23487,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wolmak-tong",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833323,
+    "gn:latitude":35.70757,
+    "gn:longitude":128.23487,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u014flmak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d4\ub9c9\ub3d9",
+        "W\u014flmak",
+        "W\u014flmak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833323
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"199ade7a1f113ab26d6a5cf3a4d5f972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1327013183,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327013183,
+    "wof:lastmodified":1537656026,
+    "wof:name":"Wolmak-tong",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23487,
+    35.70757000000001,
+    128.23487,
+    35.70757000000001
+],
+  "geometry": {"coordinates":[128.23487,35.70757000000001],"type":"Point"}
+}

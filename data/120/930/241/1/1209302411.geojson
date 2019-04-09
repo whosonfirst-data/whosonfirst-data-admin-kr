@@ -1,0 +1,65 @@
+{
+  "id": 1209302411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9484,37.60197,126.9484,37.60197",
+    "geom:latitude":37.60197,
+    "geom:longitude":126.9484,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Honguni-dong",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801168,
+    "gn:latitude":37.60197,
+    "gn:longitude":126.9484,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hong\u016dni-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud64d\uc7402\ub3d9",
+        "Hong\u016dni-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801168
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b5a98750564cec612f132f5614daf715",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209302411
+        }
+    ],
+    "wof:id":1209302411,
+    "wof:lastmodified":1537657689,
+    "wof:name":"Honguni-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9484,
+    37.60197,
+    126.9484,
+    37.60197
+],
+  "geometry": {"coordinates":[126.94840000000001,37.60197],"type":"Point"}
+}

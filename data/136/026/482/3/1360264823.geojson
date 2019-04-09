@@ -1,0 +1,70 @@
+{
+  "id": 1360264823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43331,37.78251,126.43331,37.78251",
+    "geom:latitude":37.78251,
+    "geom:longitude":126.43331,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dogani",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8577029,
+    "gn:latitude":37.78251,
+    "gn:longitude":126.43331,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Dogani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\uac04\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8577029
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f9f365d64b214330d12d7ff258f96fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1360264823,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1360264823,
+    "wof:lastmodified":1537658894,
+    "wof:name":"Dogani",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43331,
+    37.78251,
+    126.43331,
+    37.78251
+],
+  "geometry": {"coordinates":[126.43331000000001,37.78251],"type":"Point"}
+}

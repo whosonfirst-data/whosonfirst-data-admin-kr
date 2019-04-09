@@ -1,0 +1,75 @@
+{
+  "id": 1292984173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.54411,36.57621,128.54411,36.57621",
+    "geom:latitude":36.57621,
+    "geom:longitude":128.54411,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Seolmot",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836435,
+    "gn:latitude":36.57621,
+    "gn:longitude":128.54411,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Seolmot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc124\ubabb"
+    ],
+    "name:und_x_variant":[
+        "Saji-dong",
+        "S\u014flmot",
+        "Seolmot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836435
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9619da48aa30be863560affdc6566dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1292984173,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1292984173,
+    "wof:lastmodified":1537656187,
+    "wof:name":"Seolmot",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.54411000000002,
+    36.57621,
+    128.54411000000002,
+    36.57621
+],
+  "geometry": {"coordinates":[128.54411000000002,36.57621],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293387321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5634,37.5176,128.5634,37.5176",
+    "geom:latitude":37.5176,
+    "geom:longitude":128.5634,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koryongso",
+    "gn:country_code":"KR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817012,
+    "gn:latitude":37.5176,
+    "gn:longitude":128.5634,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Koryongso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ub8e1\uc18c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817012
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"425b465adeea7cc677d912e57bbcfc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1293387321,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293387321,
+    "wof:lastmodified":1537658108,
+    "wof:name":"Koryongso",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5634,
+    37.5176,
+    128.5634,
+    37.5176
+],
+  "geometry": {"coordinates":[128.5634,37.5176],"type":"Point"}
+}

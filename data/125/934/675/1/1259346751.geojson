@@ -1,0 +1,73 @@
+{
+  "id": 1259346751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8169,34.81465,126.8169,34.81465",
+    "geom:latitude":34.81465,
+    "geom:longitude":126.8169,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geungok",
+    "gn:country_code":"KR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842080,
+    "gn:latitude":34.81465,
+    "gn:longitude":126.8169,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Geungok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadfc\uace1"
+    ],
+    "name:und_x_variant":[
+        "K\u016dn\u2019gok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842080
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"94899890d863e05a6a47933992590f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1259346751,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259346751,
+    "wof:lastmodified":1537656479,
+    "wof:name":"Geungok",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8169,
+    34.81465,
+    126.8169,
+    34.81465
+],
+  "geometry": {"coordinates":[126.8169,34.81465],"type":"Point"}
+}

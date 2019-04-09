@@ -1,0 +1,64 @@
+{
+  "id": 1209177571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91042,36.72649,126.91042,36.72649",
+    "geom:latitude":36.72649,
+    "geom:longitude":126.91042,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Neuraengi",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10250659,
+    "gn:latitude":36.72649,
+    "gn:longitude":126.91042,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Neuraengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub290\ub7ad\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10250659
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"09bc0bb7224307f4c5e1a0c5a35557b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209177571
+        }
+    ],
+    "wof:id":1209177571,
+    "wof:lastmodified":1537658998,
+    "wof:name":"Neuraengi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91042,
+    36.72649000000001,
+    126.91042,
+    36.72649000000001
+],
+  "geometry": {"coordinates":[126.91042,36.72649000000001],"type":"Point"}
+}

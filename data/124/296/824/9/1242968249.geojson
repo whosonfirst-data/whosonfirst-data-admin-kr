@@ -1,0 +1,73 @@
+{
+  "id": 1242968249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36306,38.53111,128.36306,38.53111",
+    "geom:latitude":38.53111,
+    "geom:longitude":128.36306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalbat",
+    "gn:country_code":"KR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1843306,
+    "gn:latitude":38.53111,
+    "gn:longitude":128.36306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kor_x_preferred":[
+        "\uac08\uc804"
+    ],
+    "name:und_x_variant":[
+        "Kalch\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843306
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a30df39a9a01a7e28b5d5253bf6c01f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1242968249,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242968249,
+    "wof:lastmodified":1537656542,
+    "wof:name":"Kalbat",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36306000000002,
+    38.53111,
+    128.36306000000002,
+    38.53111
+],
+  "geometry": {"coordinates":[128.36306000000002,38.53111],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343946503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.91667,35.16667,128.91667,35.16667",
+    "geom:latitude":35.16667,
+    "geom:longitude":128.91667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sangnam",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837680,
+    "gn:latitude":35.16667,
+    "gn:longitude":128.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sangnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u014dnan",
+        "Sanam",
+        "Sangnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837680
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"43048d9da7f9bcf9d69b4287589b33e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1343946503,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1343946503,
+    "wof:lastmodified":1537656250,
+    "wof:name":"Sangnam",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.91666999999998,
+    35.16667,
+    128.91666999999998,
+    35.16667
+],
+  "geometry": {"coordinates":[128.91666999999998,35.16667],"type":"Point"}
+}

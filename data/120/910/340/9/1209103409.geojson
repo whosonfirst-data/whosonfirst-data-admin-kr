@@ -1,0 +1,64 @@
+{
+  "id": 1209103409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.19382,38.26929,128.19382,38.26929",
+    "geom:latitude":38.26929,
+    "geom:longitude":128.19382,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sajimogi",
+    "gn:country_code":"KR",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7570698,
+    "gn:latitude":38.26929,
+    "gn:longitude":128.19382,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sajimogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\uc9c0\ubaa9\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7570698
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0a1cb87656bd0d667d500dbce1236c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209103409
+        }
+    ],
+    "wof:id":1209103409,
+    "wof:lastmodified":1537658877,
+    "wof:name":"Sajimogi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.19382,
+    38.26929000000001,
+    128.19382,
+    38.26929000000001
+],
+  "geometry": {"coordinates":[128.19381999999999,38.26929000000001],"type":"Point"}
+}

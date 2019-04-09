@@ -1,0 +1,70 @@
+{
+  "id": 1259565375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77128,35.28814,126.77128,35.28814",
+    "geom:latitude":35.28814,
+    "geom:longitude":126.77128,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wolsandong",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169974,
+    "gn:latitude":35.28814,
+    "gn:longitude":126.77128,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Wolsandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\uc0b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169974
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a000edb4fb6bcfd2f3d9ff0492f58935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1259565375,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259565375,
+    "wof:lastmodified":1537659183,
+    "wof:name":"Wolsandong",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77128,
+    35.28814000000001,
+    126.77128,
+    35.28814000000001
+],
+  "geometry": {"coordinates":[126.77128,35.28814000000001],"type":"Point"}
+}

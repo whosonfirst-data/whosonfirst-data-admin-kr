@@ -1,0 +1,71 @@
+{
+  "id": 1326797051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6285,36.8003,126.6285,36.8003",
+    "geom:latitude":36.8003,
+    "geom:longitude":126.6285,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Komsil",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808362,
+    "gn:latitude":36.8003,
+    "gn:longitude":126.6285,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Komsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacf0\uc2e4",
+        "Komsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808362
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"558b010d7fa5becf625dea6b96fd0eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1326797051,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1326797051,
+    "wof:lastmodified":1537657828,
+    "wof:name":"Komsil",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6285,
+    36.8003,
+    126.6285,
+    36.8003
+],
+  "geometry": {"coordinates":[126.6285,36.8003],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343626217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.62389,35.06806,128.62389,35.06806",
+    "geom:latitude":35.06806,
+    "geom:longitude":128.62389,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Wonjon",
+    "gn:country_code":"KR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894815,
+    "gn:latitude":35.06806,
+    "gn:longitude":128.62389,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"W\u014fnj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894815
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"537b00ed88210e8130f92d646c67e059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746491,
+            "locality_id":1343626217,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343626217,
+    "wof:lastmodified":1537003793,
+    "wof:name":"Wonjon",
+    "wof:parent_id":1108746491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.62389,
+    35.06806,
+    128.62389,
+    35.06806
+],
+  "geometry": {"coordinates":[128.62388999999999,35.06806],"type":"Point"}
+}

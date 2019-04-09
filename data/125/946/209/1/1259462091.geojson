@@ -1,0 +1,73 @@
+{
+  "id": 1259462091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.07307,37.7296,127.07307,37.7296",
+    "geom:latitude":37.7296,
+    "geom:longitude":127.07307,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bonduya",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897132,
+    "gn:latitude":37.7296,
+    "gn:longitude":127.07307,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Bonduya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf8\ub450\uc57c"
+    ],
+    "name:und_x_variant":[
+        "Pondunya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897132
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"885356923d3ee161fb5cf0b1d9e91557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475299,
+            "locality_id":1259462091,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259462091,
+    "wof:lastmodified":1537656933,
+    "wof:name":"Bonduya",
+    "wof:parent_id":890475299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.07307,
+    37.7296,
+    127.07307,
+    37.7296
+],
+  "geometry": {"coordinates":[127.07307,37.7296],"type":"Point"}
+}

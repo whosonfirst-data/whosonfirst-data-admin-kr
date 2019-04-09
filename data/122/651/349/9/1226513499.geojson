@@ -1,0 +1,74 @@
+{
+  "id": 1226513499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73421,37.23924,126.73421,37.23924",
+    "geom:latitude":37.23924,
+    "geom:longitude":126.73421,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bogumul",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364715,
+    "gn:latitude":37.23924,
+    "gn:longitude":126.73421,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Bogumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\uc6b0\ubb3c"
+    ],
+    "name:und_x_variant":[
+        "Pogumul",
+        "Bogumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364715
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f9f2ed409bbe440d9711fddcf3e2e122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1226513499,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226513499,
+    "wof:lastmodified":1537657094,
+    "wof:name":"Bogumul",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73421,
+    37.23924,
+    126.73421,
+    37.23924
+],
+  "geometry": {"coordinates":[126.73421,37.23924],"type":"Point"}
+}

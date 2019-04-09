@@ -1,0 +1,73 @@
+{
+  "id": 1243459145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4244,37.0895,128.4244,37.0895",
+    "geom:latitude":37.0895,
+    "geom:longitude":128.4244,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kurosimi",
+    "gn:country_code":"KR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794868,
+    "gn:latitude":37.0895,
+    "gn:longitude":128.4244,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016dr\u014fsimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadf8\ub7ec\uc2ec\uc774"
+    ],
+    "name:kor_x_variant":[
+        "K\u016dr\u014fsimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794868
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9f9681c0dc0511604668a5a715531801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1243459145,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243459145,
+    "wof:lastmodified":1537657511,
+    "wof:name":"Kurosimi",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4244,
+    37.0895,
+    128.4244,
+    37.0895
+],
+  "geometry": {"coordinates":[128.42439999999999,37.0895],"type":"Point"}
+}

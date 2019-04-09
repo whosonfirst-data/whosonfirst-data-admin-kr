@@ -1,0 +1,73 @@
+{
+  "id": 1309706293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.92207,35.16731,128.92207,35.16731",
+    "geom:latitude":35.16731,
+    "geom:longitude":128.92207,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jeonggwan",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979032,
+    "gn:latitude":35.16731,
+    "gn:longitude":128.92207,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Jeonggwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\uad00"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fnggwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979032
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b1196c3362f27bf0d15f86a9d3584dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1309706293,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1309706293,
+    "wof:lastmodified":1537656985,
+    "wof:name":"Jeonggwan",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.92207,
+    35.16731,
+    128.92207,
+    35.16731
+],
+  "geometry": {"coordinates":[128.92206999999999,35.16731],"type":"Point"}
+}

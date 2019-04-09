@@ -1,0 +1,67 @@
+{
+  "id": 1343821841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26778,34.67778,126.26778,34.67778",
+    "geom:latitude":34.67778,
+    "geom:longitude":126.26778,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oejung-ni",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988865,
+    "gn:latitude":34.67778,
+    "gn:longitude":126.26778,
+    "gn:modification_date":"2004-10-18",
+    "gn:name":"Oejung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988865
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"779d74362d7085ff5a9f232dd4c55125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1343821841,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343821841,
+    "wof:lastmodified":1536722866,
+    "wof:name":"Oejung-ni",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26778,
+    34.67778,
+    126.26778,
+    34.67778
+],
+  "geometry": {"coordinates":[126.26778,34.67778],"type":"Point"}
+}

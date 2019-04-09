@@ -1,0 +1,70 @@
+{
+  "id": 1243142719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.73233,35.7886,128.73233,35.7886",
+    "geom:latitude":35.7886,
+    "geom:longitude":128.73233,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mokjae",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11034198,
+    "gn:latitude":35.7886,
+    "gn:longitude":128.73233,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Mokjae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa9\uc7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034198
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0d7f2b5add95e39754682f28f346e86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1243142719,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243142719,
+    "wof:lastmodified":1537659113,
+    "wof:name":"Mokjae",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.73233000000002,
+    35.7886,
+    128.73233000000002,
+    35.7886
+],
+  "geometry": {"coordinates":[128.73233000000002,35.7886],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209185943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0173,34.81466,127.0173,34.81466",
+    "geom:latitude":34.81466,
+    "geom:longitude":127.0173,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geumdong",
+    "gn:country_code":"KR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684153,
+    "gn:latitude":34.81466,
+    "gn:longitude":127.0173,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Geumdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "K\u016dmdong",
+        "\uae08\uc18c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmsodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684153
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bd75914b429549f839f85dd2dab1ec7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209185943
+        }
+    ],
+    "wof:id":1209185943,
+    "wof:lastmodified":1537657396,
+    "wof:name":"Geumdong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0173,
+    34.81466,
+    127.0173,
+    34.81466
+],
+  "geometry": {"coordinates":[127.01730000000001,34.81466],"type":"Point"}
+}

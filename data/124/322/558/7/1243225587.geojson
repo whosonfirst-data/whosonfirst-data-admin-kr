@@ -1,0 +1,72 @@
+{
+  "id": 1243225587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40455,36.27239,127.40455,36.27239",
+    "geom:latitude":36.27239,
+    "geom:longitude":127.40455,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Nakdong",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888888,
+    "gn:latitude":36.27239,
+    "gn:longitude":127.40455,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Nakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub099\ub3d9",
+        "Nak-tong",
+        "Nakdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888888
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a309b80f57cbace005c500efe300982e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746483,
+            "locality_id":1243225587,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1243225587,
+    "wof:lastmodified":1537658444,
+    "wof:name":"Nakdong",
+    "wof:parent_id":1108746483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40455,
+    36.27239,
+    127.40455,
+    36.27239
+],
+  "geometry": {"coordinates":[127.40455,36.27239],"type":"Point"}
+}

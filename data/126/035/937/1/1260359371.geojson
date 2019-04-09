@@ -1,0 +1,71 @@
+{
+  "id": 1260359371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.46411,35.68932,128.46411,35.68932",
+    "geom:latitude":35.68932,
+    "geom:longitude":128.46411,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Uman",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901628,
+    "gn:latitude":35.68932,
+    "gn:longitude":128.46411,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Uman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6b0\ub9cc",
+        "Uman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901628
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"afc4a036ea09a769934df4aeeb9deb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1260359371,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1260359371,
+    "wof:lastmodified":1537658788,
+    "wof:name":"Uman",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.46411,
+    35.68932,
+    128.46411,
+    35.68932
+],
+  "geometry": {"coordinates":[128.46411000000001,35.68932],"type":"Point"}
+}

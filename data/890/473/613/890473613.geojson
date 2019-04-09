@@ -1,0 +1,76 @@
+{
+  "id": 890473613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82056,34.3475,126.82056,34.3475",
+    "geom:latitude":34.3475,
+    "geom:longitude":126.82056,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Samma-dong"
+    ],
+    "qs:name":"\uc0bc\uac01\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uad11\uc8fc",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85673219,
+        85632231,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395141,
+        "gp:id":28995193,
+        "qs:id":962023
+    },
+    "wof:country":"KR",
+    "wof:created":1469053959,
+    "wof:geomhash":"d5029c72be6f5b9cf1b8bfb7dc5006dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "neighbourhood_id":890473613,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":890473613,
+    "wof:lastmodified":1505343717,
+    "wof:name":"\uc0bc\uac01\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82056,
+    34.3475,
+    126.82056,
+    34.3475
+],
+  "geometry": {"coordinates":[126.82056,34.3475],"type":"Point"}
+}

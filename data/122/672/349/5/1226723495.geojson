@@ -1,0 +1,73 @@
+{
+  "id": 1226723495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.91135,37.50023,130.91135,37.50023",
+    "geom:latitude":37.50023,
+    "geom:longitude":130.91135,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chodong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6793587,
+    "gn:latitude":37.50023,
+    "gn:longitude":130.91135,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u014fdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc800\ub3d9\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u014fdong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793587
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52720bd27d89dc04103cec9896d8fce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475357,
+            "locality_id":1226723495,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226723495,
+    "wof:lastmodified":1537657469,
+    "wof:name":"Chodong-ni",
+    "wof:parent_id":890475357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.91135,
+    37.50023,
+    130.91135,
+    37.50023
+],
+  "geometry": {"coordinates":[130.91135,37.50023],"type":"Point"}
+}

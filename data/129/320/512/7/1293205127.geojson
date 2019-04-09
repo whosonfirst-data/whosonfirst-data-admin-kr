@@ -1,0 +1,72 @@
+{
+  "id": 1293205127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6366,36.243,127.6366,36.243",
+    "geom:latitude":36.243,
+    "geom:longitude":127.6366,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hyol-li",
+    "gn:country_code":"KR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843736,
+    "gn:latitude":36.243,
+    "gn:longitude":127.6366,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hy\u014fl-li",
+        "\ud604\ub9ac",
+        "Hy\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843736
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cc2867a1ba53c564de6dc2e8f9f5f0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1293205127,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293205127,
+    "wof:lastmodified":1537656564,
+    "wof:name":"Hyol-li",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6366,
+    36.243,
+    127.6366,
+    36.243
+],
+  "geometry": {"coordinates":[127.6366,36.243],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327106395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90834,35.316,126.90834,35.316",
+    "geom:latitude":35.316,
+    "geom:longitude":126.90834,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Daegakdong",
+    "gn:country_code":"KR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170524,
+    "gn:latitude":35.316,
+    "gn:longitude":126.90834,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Daegakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uac01\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170524
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"838c2c4aff6d2fc19e7c969e8871721b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1327106395,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327106395,
+    "wof:lastmodified":1537659189,
+    "wof:name":"Daegakdong",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90834,
+    35.316,
+    126.90834,
+    35.316
+],
+  "geometry": {"coordinates":[126.90834,35.316],"type":"Point"}
+}

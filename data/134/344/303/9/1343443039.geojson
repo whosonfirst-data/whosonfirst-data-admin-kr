@@ -1,0 +1,70 @@
+{
+  "id": 1343443039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98017,35.20516,126.98017,35.20516",
+    "geom:latitude":35.20516,
+    "geom:longitude":126.98017,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jatjeong",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11174975,
+    "gn:latitude":35.20516,
+    "gn:longitude":126.98017,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jatjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a3\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11174975
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8642b3d8daf3b7f727f39149389993e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1343443039,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343443039,
+    "wof:lastmodified":1537659210,
+    "wof:name":"Jatjeong",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98017,
+    35.20516,
+    126.98017,
+    35.20516
+],
+  "geometry": {"coordinates":[126.98017,35.20516],"type":"Point"}
+}

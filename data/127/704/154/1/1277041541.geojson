@@ -1,0 +1,71 @@
+{
+  "id": 1277041541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.639,36.6574,126.639,36.6574",
+    "geom:latitude":36.6574,
+    "geom:longitude":126.639,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wikkarusil",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807743,
+    "gn:latitude":36.6574,
+    "gn:longitude":126.639,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wikkarusil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc717\uac00\ub8e8\uc2e4",
+        "Wikkarusil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807743
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8a25e64475272ec36115d1a3d7435a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1277041541,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1277041541,
+    "wof:lastmodified":1537657799,
+    "wof:name":"Wikkarusil",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.639,
+    36.6574,
+    126.639,
+    36.6574
+],
+  "geometry": {"coordinates":[126.639,36.6574],"type":"Point"}
+}

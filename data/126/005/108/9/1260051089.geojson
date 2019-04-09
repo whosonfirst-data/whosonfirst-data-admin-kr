@@ -1,0 +1,70 @@
+{
+  "id": 1260051089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26411,38.12411,127.26411,38.12411",
+    "geom:latitude":38.12411,
+    "geom:longitude":127.26411,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sajeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867071,
+    "gn:latitude":38.12411,
+    "gn:longitude":127.26411,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Sajeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uc815\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867071
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8c7a8d8b50a6292ae3eaf5c79a29261c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1260051089,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260051089,
+    "wof:lastmodified":1537658960,
+    "wof:name":"Sajeongdong",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26411,
+    38.12411,
+    127.26411,
+    38.12411
+],
+  "geometry": {"coordinates":[127.26411,38.12411],"type":"Point"}
+}

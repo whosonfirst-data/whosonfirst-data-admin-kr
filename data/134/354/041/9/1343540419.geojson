@@ -1,0 +1,73 @@
+{
+  "id": 1343540419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52164,37.24521,127.52164,37.24521",
+    "geom:latitude":37.24521,
+    "geom:longitude":127.52164,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gamokdong",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812574,
+    "gn:latitude":37.24521,
+    "gn:longitude":127.52164,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Gamokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ubaa9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kamok-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812574
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5739386d7cead0f93b5d009e33419f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1343540419,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343540419,
+    "wof:lastmodified":1537657972,
+    "wof:name":"Gamokdong",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52164,
+    37.24521,
+    127.52164,
+    37.24521
+],
+  "geometry": {"coordinates":[127.52164,37.24521],"type":"Point"}
+}

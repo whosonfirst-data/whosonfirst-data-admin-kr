@@ -1,0 +1,64 @@
+{
+  "id": 1209184751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.68151,36.60984,128.68151,36.60984",
+    "geom:latitude":36.60984,
+    "geom:longitude":128.68151,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Butugol",
+    "gn:country_code":"KR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272261,
+    "gn:latitude":36.60984,
+    "gn:longitude":128.68151,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Butugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\ud22c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272261
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a1d84c48cb25b66b9c850a93ce518b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209184751
+        }
+    ],
+    "wof:id":1209184751,
+    "wof:lastmodified":1537659317,
+    "wof:name":"Butugol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.68151,
+    36.60984000000001,
+    128.68151,
+    36.60984000000001
+],
+  "geometry": {"coordinates":[128.68151,36.60984000000001],"type":"Point"}
+}

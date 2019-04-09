@@ -1,0 +1,65 @@
+{
+  "id": 1209379443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.45202,35.48972,128.45202,35.48972",
+    "geom:latitude":35.48972,
+    "geom:longitude":128.45202,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Oul",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898226,
+    "gn:latitude":35.48972,
+    "gn:longitude":128.45202,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u014eul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5b4\uc6b8",
+        "\u014eul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898226
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d94385ebbf326c6771c3908a9c69f985",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209379443
+        }
+    ],
+    "wof:id":1209379443,
+    "wof:lastmodified":1537658705,
+    "wof:name":"Oul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.45202,
+    35.48972,
+    128.45202,
+    35.48972
+],
+  "geometry": {"coordinates":[128.45202,35.48972],"type":"Point"}
+}

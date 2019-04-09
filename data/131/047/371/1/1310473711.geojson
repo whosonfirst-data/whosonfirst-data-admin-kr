@@ -1,0 +1,75 @@
+{
+  "id": 1310473711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.54667,34.48222,126.54667,34.48222",
+    "geom:latitude":34.48222,
+    "geom:longitude":126.54667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hagusi",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844675,
+    "gn:latitude":34.48222,
+    "gn:longitude":126.54667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hagusi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uad6c\uc2dc"
+    ],
+    "name:und_x_variant":[
+        "Ky\u016bshi",
+        "Ky\u016bshi-ri",
+        "Hagusi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844675
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"967d3c65053fa9442156f8d40e6fdcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1310473711,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310473711,
+    "wof:lastmodified":1537656610,
+    "wof:name":"Hagusi",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.54667,
+    34.48222,
+    126.54667,
+    34.48222
+],
+  "geometry": {"coordinates":[126.54667000000001,34.48222],"type":"Point"}
+}

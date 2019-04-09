@@ -1,0 +1,61 @@
+{
+  "id": 890474469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.686544,37.712425,126.686544,37.712425",
+    "geom:latitude":37.712425,
+    "geom:longitude":126.686544,
+    "gn:country":"KR",
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "qs:name":"\ud558\uc131\uba74",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uacbd\uae30\ub3c4",
+    "qs:photos":46,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28807082,
+        "qs:id":903198
+    },
+    "wof:country":"KR",
+    "wof:created":1469053990,
+    "wof:geomhash":"750e173cdffb29eebbc011bccff7bab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "localadmin_id":890474469
+        }
+    ],
+    "wof:id":890474469,
+    "wof:lastmodified":1470255693,
+    "wof:name":"\ud558\uc131\uba74",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.686544,
+    37.712425,
+    126.686544,
+    37.712425
+],
+  "geometry": {"coordinates":[126.686544,37.712425],"type":"Point"}
+}

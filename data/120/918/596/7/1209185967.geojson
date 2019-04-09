@@ -1,0 +1,64 @@
+{
+  "id": 1209185967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83721,35.3494,126.83721,35.3494",
+    "geom:latitude":35.3494,
+    "geom:longitude":126.83721,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Deokjinchon",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170110,
+    "gn:latitude":35.3494,
+    "gn:longitude":126.83721,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Deokjinchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc9c4\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170110
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b51077ade361dfe97c82b2d9ccd98792",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209185967
+        }
+    ],
+    "wof:id":1209185967,
+    "wof:lastmodified":1537659185,
+    "wof:name":"Deokjinchon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83721,
+    35.3494,
+    126.83721,
+    35.3494
+],
+  "geometry": {"coordinates":[126.83721,35.3494],"type":"Point"}
+}

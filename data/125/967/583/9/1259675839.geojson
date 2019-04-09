@@ -1,0 +1,72 @@
+{
+  "id": 1259675839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1,38.0,128.1,38.0",
+    "geom:latitude":38.0,
+    "geom:longitude":128.1,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Umyang-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833699,
+    "gn:latitude":38.0,
+    "gn:longitude":128.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u016cmyang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016cmyang-ni",
+        "\u016cmyang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833699
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e38c1caa71ab43d5f8ef03b02cc5746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1259675839,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259675839,
+    "wof:lastmodified":1537656046,
+    "wof:name":"Umyang-dong",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1,
+    38.0,
+    128.1,
+    38.0
+],
+  "geometry": {"coordinates":[128.09999999999999,38.0],"type":"Point"}
+}

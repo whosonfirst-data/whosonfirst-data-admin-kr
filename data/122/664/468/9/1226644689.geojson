@@ -1,0 +1,71 @@
+{
+  "id": 1226644689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.33333,36.88333,128.33333,36.88333",
+    "geom:latitude":36.88333,
+    "geom:longitude":128.33333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chikch'i",
+    "gn:country_code":"KR",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846172,
+    "gn:latitude":36.88333,
+    "gn:longitude":128.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chikch\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chikch\u2019i-ri",
+        "Chikch\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846172
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"07a540d81ba9a440601c1ccaa796b6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1226644689,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226644689,
+    "wof:lastmodified":1537656686,
+    "wof:name":"Chikch'i",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.33333000000002,
+    36.88333,
+    128.33333000000002,
+    36.88333
+],
+  "geometry": {"coordinates":[128.33333000000002,36.88333],"type":"Point"}
+}

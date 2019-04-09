@@ -1,0 +1,73 @@
+{
+  "id": 1360176787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.80883,37.7319,128.80883,37.7319",
+    "geom:latitude":37.7319,
+    "geom:longitude":128.80883,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Neureuri",
+    "gn:country_code":"KR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816548,
+    "gn:latitude":37.7319,
+    "gn:longitude":128.80883,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Neureuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub290\ub974\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "N\u016dr\u016d-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816548
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"04f1f3a29f340c2c3351c988a9e39195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1360176787,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360176787,
+    "wof:lastmodified":1537658094,
+    "wof:name":"Neureuri",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.80883,
+    37.7319,
+    128.80883,
+    37.7319
+],
+  "geometry": {"coordinates":[128.80883,37.7319],"type":"Point"}
+}

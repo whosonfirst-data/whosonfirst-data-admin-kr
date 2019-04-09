@@ -1,0 +1,70 @@
+{
+  "id": 1242751395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35009,36.38349,129.35009,36.38349",
+    "geom:latitude":36.38349,
+    "geom:longitude":129.35009,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Eumjimaeul",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245542,
+    "gn:latitude":36.38349,
+    "gn:longitude":129.35009,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Eumjimaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc74c\uc9c0\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245542
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a02825e9799ea982a24c5c3b8d2a9eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1242751395,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242751395,
+    "wof:lastmodified":1537659245,
+    "wof:name":"Eumjimaeul",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35009,
+    36.38349,
+    129.35009,
+    36.38349
+],
+  "geometry": {"coordinates":[129.35008999999999,36.38349],"type":"Point"}
+}

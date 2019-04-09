@@ -1,0 +1,72 @@
+{
+  "id": 1243029723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34773,35.55774,128.34773,35.55774",
+    "geom:latitude":35.55774,
+    "geom:longitude":128.34773,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hajeokpo",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901906,
+    "gn:latitude":35.55774,
+    "gn:longitude":128.34773,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Hajeokpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uc801\ud3ec",
+        "Haj\u014fkp\u2019o",
+        "Hajeokpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901906
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"03a61d08137c84d475667c6530e04126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1243029723,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243029723,
+    "wof:lastmodified":1537658806,
+    "wof:name":"Hajeokpo",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34773,
+    35.55774,
+    128.34773,
+    35.55774
+],
+  "geometry": {"coordinates":[128.34773000000001,35.55774],"type":"Point"}
+}

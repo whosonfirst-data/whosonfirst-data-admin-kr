@@ -1,0 +1,73 @@
+{
+  "id": 1310573017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4145,34.86798,126.4145,34.86798",
+    "geom:latitude":34.86798,
+    "geom:longitude":126.4145,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bongnyong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1922808,
+    "gn:latitude":34.86798,
+    "gn:longitude":126.4145,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Bongnyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\ub8e1"
+    ],
+    "name:und_x_variant":[
+        "Pongnyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1922808
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"85d6ab252b47bb5606e4ab47665083b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1310573017,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310573017,
+    "wof:lastmodified":1537656952,
+    "wof:name":"Bongnyong",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4145,
+    34.86798,
+    126.4145,
+    34.86798
+],
+  "geometry": {"coordinates":[126.4145,34.86798],"type":"Point"}
+}

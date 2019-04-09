@@ -1,0 +1,105 @@
+{
+  "id": 890476313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001701,
+    "geom:area_square_m":16689598.574962,
+    "geom:bbox":"126.920923754,37.4725388054,126.986629403,37.5228886922",
+    "geom:latitude":37.500907,
+    "geom:longitude":126.956663,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "lbl:latitude":37.503783,
+    "lbl:longitude":126.959407,
+    "meso:admin_1_en":"Seoul",
+    "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+    "meso:diss_me":"Dongjak-guSeoul",
+    "meso:gadm_admin":"Yongsan",
+    "meso:local_id":"11200",
+    "meso:mps_x":126.959407,
+    "meso:mps_y":37.503783,
+    "meso:name_en":"Dongjak-gu",
+    "meso:name_local":"\ub3d9\uc791\uad6c",
+    "meso:source":"AOTM",
+    "mps:latitude":37.503783,
+    "mps:longitude":126.959407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dongjak-gu"
+    ],
+    "name:eng_x_variant":[
+        "Yongsan"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3d9\uc791\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\uc791\uad6c"
+    ],
+    "qs:name":"\ub3d9\uc791\uad6c",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uc11c\uc6b8",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3636,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":484,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834245,
+        "gp:id":28289155,
+        "qs:id":237840,
+        "wd:id":"Q50385",
+        "wk:page":"Dongjak District"
+    },
+    "wof:country":"KR",
+    "wof:created":1469054071,
+    "wof:geomhash":"674344c0d7ed826053d3a9cf76376e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476313,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":890476313,
+    "wof:lastmodified":1527727150,
+    "wof:name":"Dongjak-gu",
+    "wof:parent_id":85673185,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92092375418181,
+    37.47253880542323,
+    126.98662940280295,
+    37.52288869223221
+],
+  "geometry": {"coordinates":[[[126.95092111142738,37.52288869223221],[126.95265706061024,37.52259394997981],[126.95797773418147,37.51465250762203],[126.96887474675727,37.51511062679688],[126.96998015201554,37.51620810945816],[126.98143175813699,37.51185222730373],[126.98151092064138,37.49577958519919],[126.9827304255748,37.49525057948885],[126.98289674062626,37.49506547588365],[126.98662940280295,37.48369986309827],[126.98032672472193,37.47416378523318],[126.97620793077847,37.47344595558493],[126.97272136578484,37.47253880542323],[126.96930733737072,37.47883986307603],[126.96625178617631,37.4810080458543],[126.96307667439186,37.4855556325113],[126.96293234596942,37.49200994125411],[126.96276819660562,37.49209190523415],[126.95155361424477,37.49473095406869],[126.94985358131137,37.49505136791209],[126.9465327908968,37.49288334557319],[126.94166884530762,37.49357120683158],[126.93904616361665,37.49570187030415],[126.92603917500779,37.49443248755259],[126.92098560015336,37.49343261159237],[126.92092375418181,37.49346669311723],[126.92341447463231,37.51041282126182],[126.92299415497274,37.51145711212885],[126.92304152505811,37.51155307885761],[126.9339349305656,37.51981555610904],[126.93500239786268,37.51957231583139],[126.94108061245058,37.5155058212242],[126.95092111142738,37.52288869223221]]],"type":"Polygon"}
+}

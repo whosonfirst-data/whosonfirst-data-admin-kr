@@ -1,0 +1,73 @@
+{
+  "id": 1226020073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35275,36.26736,127.35275,36.26736",
+    "geom:latitude":36.26736,
+    "geom:longitude":127.35275,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dungol",
+    "gn:country_code":"KR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833912,
+    "gn:latitude":36.26736,
+    "gn:longitude":127.35275,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Dungol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tun-dong",
+        "\ub454\uace8",
+        "Tun-gol",
+        "Dungol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833912
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a281dbb6d4a2dd7016e549d2fa33e9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746515,
+            "locality_id":1226020073,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1226020073,
+    "wof:lastmodified":1537656056,
+    "wof:name":"Dungol",
+    "wof:parent_id":1108746515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35275,
+    36.26736,
+    127.35275,
+    36.26736
+],
+  "geometry": {"coordinates":[127.35275,36.26736],"type":"Point"}
+}

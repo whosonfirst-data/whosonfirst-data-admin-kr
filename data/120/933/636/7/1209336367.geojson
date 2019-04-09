@@ -1,0 +1,65 @@
+{
+  "id": 1209336367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.70828,37.78522,127.70828,37.78522",
+    "geom:latitude":37.78522,
+    "geom:longitude":127.70828,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Obong",
+    "gn:country_code":"KR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802683,
+    "gn:latitude":37.78522,
+    "gn:longitude":127.70828,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Obong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\ubd09",
+        "Obong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802683
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f66914ddb18d1b8caad105f5e0341e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209336367
+        }
+    ],
+    "wof:id":1209336367,
+    "wof:lastmodified":1537657755,
+    "wof:name":"Obong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.70828,
+    37.78522,
+    127.70828,
+    37.78522
+],
+  "geometry": {"coordinates":[127.70828,37.78522],"type":"Point"}
+}

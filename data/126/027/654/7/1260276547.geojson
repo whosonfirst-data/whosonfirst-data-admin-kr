@@ -1,0 +1,73 @@
+{
+  "id": 1260276547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9698,37.1208,127.9698,37.1208",
+    "geom:latitude":37.1208,
+    "geom:longitude":127.9698,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Noraengi",
+    "gn:country_code":"KR",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795519,
+    "gn:latitude":37.1208,
+    "gn:longitude":127.9698,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u014fraengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub108\ub7ad\uc774"
+    ],
+    "name:kor_x_variant":[
+        "N\u014fraengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795519
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a6716a0b4bbd59ac32be7f2d65e4a374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1260276547,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1260276547,
+    "wof:lastmodified":1537657529,
+    "wof:name":"Noraengi",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9698,
+    37.1208,
+    127.9698,
+    37.1208
+],
+  "geometry": {"coordinates":[127.96980000000001,37.1208],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310675253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.35707,35.54049,128.35707,35.54049",
+    "geom:latitude":35.54049,
+    "geom:longitude":128.35707,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Morae-dong",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841024,
+    "gn:latitude":35.54049,
+    "gn:longitude":128.35707,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Morae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sat\u014d",
+        "Sad\u016dng",
+        "\ubaa8\ub798\ub4f1",
+        "Morae-dong",
+        "Moraed\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841024
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bc7df8ef41385bc9b9c0cfec33228373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473621,
+            "locality_id":1310675253,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1310675253,
+    "wof:lastmodified":1537656424,
+    "wof:name":"Morae-dong",
+    "wof:parent_id":890473621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.35707,
+    35.54049000000001,
+    128.35707,
+    35.54049000000001
+],
+  "geometry": {"coordinates":[128.35706999999999,35.54049000000001],"type":"Point"}
+}

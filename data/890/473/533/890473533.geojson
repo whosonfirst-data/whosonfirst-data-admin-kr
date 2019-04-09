@@ -1,0 +1,107 @@
+{
+  "id": 890473533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001458,
+    "geom:area_square_m":14283074.876893,
+    "geom:bbox":"127.022883045,37.5604009201,127.08077247,37.6071540244",
+    "geom:latitude":37.582687,
+    "geom:longitude":127.055271,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "lbl:latitude":37.585594,
+    "lbl:longitude":127.05571,
+    "meso:admin_1_en":"Seoul",
+    "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+    "meso:diss_me":"Dongdaemun-guSeoul",
+    "meso:gadm_admin":"Seongbuk",
+    "meso:local_id":"11060",
+    "meso:mps_x":127.05571,
+    "meso:mps_y":37.585594,
+    "meso:name_en":"Dongdaemun-gu",
+    "meso:name_local":"\ub3d9\ub300\ubb38\uad6c",
+    "meso:source":"AOTM",
+    "mps:latitude":37.585594,
+    "mps:longitude":127.05571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dongdaemun-gu"
+    ],
+    "name:eng_x_variant":[
+        "Seongbuk"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3d9\ub300\ubb38\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ub300\ubb38",
+        "\ub3d9\ub300\ubb38\uad6c"
+    ],
+    "name:unk_x_variant":[
+        "Tongdaimoon-ku"
+    ],
+    "qs:name":"\ub3d9\ub300\ubb38\uad6c",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uc11c\uc6b8",
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1169,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":504,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834328,
+        "gp:id":28289152,
+        "qs:id":492059,
+        "wd:id":"Q50382",
+        "wk:page":"Dongdaemun District"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053956,
+    "wof:geomhash":"e33081317ffea8d4a2df66b3df0d93b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473533,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":890473533,
+    "wof:lastmodified":1527792830,
+    "wof:name":"Dongdaemun-gu",
+    "wof:parent_id":85673185,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02288304527139,
+    37.56040092006875,
+    127.08077246962857,
+    37.60715402438129
+],
+  "geometry": {"coordinates":[[[127.06944081149099,37.60715402438129],[127.07132295064257,37.60534738699882],[127.07186164327946,37.60183268931186],[127.0698651008361,37.59040477194853],[127.07179347958001,37.58591338378751],[127.07432157083413,37.5849905547779],[127.07666858933038,37.58461281790711],[127.08077246962857,37.57308110486553],[127.07691994303902,37.56831399435373],[127.07664031870831,37.56577042420673],[127.07225097997487,37.56040092006875],[127.06592220781012,37.56290750658026],[127.05754862563676,37.56402338273269],[127.05486194842757,37.57218651145744],[127.04714721299476,37.57137093995435],[127.04216753686556,37.57359899466133],[127.03811832228524,37.57391290126269],[127.02860541131089,37.56889240626398],[127.02288304527139,37.57477921113533],[127.03169183990939,37.58682422382105],[127.03208137731527,37.58969310533579],[127.03502174099812,37.59326204035253],[127.03614319037861,37.5932626397568],[127.0437810471677,37.5975628222542],[127.05380529852685,37.5994525259356],[127.05429868461066,37.6010057119815],[127.06944081149099,37.60715402438129]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343434415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.72606,36.64292,128.72606,36.64292",
+    "geom:latitude":36.64292,
+    "geom:longitude":128.72606,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ogeum",
+    "gn:country_code":"KR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256124,
+    "gn:latitude":36.64292,
+    "gn:longitude":128.72606,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ogeum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uae08"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256124
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a9986eea282c7084357dfb8feaa110bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1343434415,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343434415,
+    "wof:lastmodified":1537659290,
+    "wof:name":"Ogeum",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.72606000000002,
+    36.64292,
+    128.72606000000002,
+    36.64292
+],
+  "geometry": {"coordinates":[128.72606000000002,36.64292],"type":"Point"}
+}

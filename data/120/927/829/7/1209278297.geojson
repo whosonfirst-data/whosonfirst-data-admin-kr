@@ -1,0 +1,69 @@
+{
+  "id": 1209278297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51474,34.86618,126.51474,34.86618",
+    "geom:latitude":34.86618,
+    "geom:longitude":126.51474,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bangmoe",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839294,
+    "gn:latitude":34.86618,
+    "gn:longitude":126.51474,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bangmoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\ubafc"
+    ],
+    "name:und_x_variant":[
+        "Pangsan-dong",
+        "Pangmoe",
+        "Bangmoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839294
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ea0a4716d8dbc19c916f40328a2145fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209278297
+        }
+    ],
+    "wof:id":1209278297,
+    "wof:lastmodified":1537656336,
+    "wof:name":"Bangmoe",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51474,
+    34.86618,
+    126.51474,
+    34.86618
+],
+  "geometry": {"coordinates":[126.51474,34.86618],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293278415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.00405,37.05443,127.00405,37.05443",
+    "geom:latitude":37.05443,
+    "geom:longitude":127.00405,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gasandong",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575498,
+    "gn:latitude":37.05443,
+    "gn:longitude":127.00405,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gasandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uc0b0\ub3d9",
+        "Gasandong",
+        "Kasan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575498
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4527b71d7253c5a1ab3152ab5cfb21a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1293278415,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293278415,
+    "wof:lastmodified":1537657274,
+    "wof:name":"Gasandong",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.00405,
+    37.05443,
+    127.00405,
+    37.05443
+],
+  "geometry": {"coordinates":[127.00405000000001,37.05443],"type":"Point"}
+}

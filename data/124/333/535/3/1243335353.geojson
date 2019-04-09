@@ -1,0 +1,72 @@
+{
+  "id": 1243335353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.61667,34.86667,126.61667,34.86667",
+    "geom:latitude":34.86667,
+    "geom:longitude":126.61667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mansu",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841287,
+    "gn:latitude":34.86667,
+    "gn:longitude":126.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mansu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansu-ri",
+        "Mansu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841287
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cdce2af7b68f3c88132b74fd71dbeda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1243335353,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243335353,
+    "wof:lastmodified":1537656437,
+    "wof:name":"Mansu",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.61667,
+    34.86667,
+    126.61667,
+    34.86667
+],
+  "geometry": {"coordinates":[126.61667,34.86667],"type":"Point"}
+}

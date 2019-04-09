@@ -1,0 +1,64 @@
+{
+  "id": 1209072695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9393,36.68311,126.9393,36.68311",
+    "geom:latitude":36.68311,
+    "geom:longitude":126.9393,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Baekjeul",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251020,
+    "gn:latitude":36.68311,
+    "gn:longitude":126.9393,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Baekjeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc31\uc81c\uc6b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251020
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a1b54d91c0fdafb6a0080e9b3a1eee31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209072695
+        }
+    ],
+    "wof:id":1209072695,
+    "wof:lastmodified":1537658999,
+    "wof:name":"Baekjeul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9393,
+    36.68311,
+    126.9393,
+    36.68311
+],
+  "geometry": {"coordinates":[126.9393,36.68311],"type":"Point"}
+}

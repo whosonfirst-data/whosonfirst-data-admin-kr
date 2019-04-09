@@ -1,0 +1,74 @@
+{
+  "id": 1343335093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37082,35.71477,128.37082,35.71477",
+    "geom:latitude":35.71477,
+    "geom:longitude":128.37082,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Osa",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893733,
+    "gn:latitude":35.71477,
+    "gn:longitude":128.37082,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Osa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uc0ac"
+    ],
+    "name:und_x_variant":[
+        "Osa-ri",
+        "Osa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893733
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9f6ded6c22705bf39180dce9be8c5233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1343335093,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343335093,
+    "wof:lastmodified":1537656836,
+    "wof:name":"Osa",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37082,
+    35.71477,
+    128.37082,
+    35.71477
+],
+  "geometry": {"coordinates":[128.37082000000001,35.71477],"type":"Point"}
+}

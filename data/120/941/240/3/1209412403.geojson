@@ -1,0 +1,64 @@
+{
+  "id": 1209412403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26403,38.23407,127.26403,38.23407",
+    "geom:latitude":38.23407,
+    "geom:longitude":127.26403,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sohuri",
+    "gn:country_code":"KR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866077,
+    "gn:latitude":38.23407,
+    "gn:longitude":127.26403,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Sohuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\ud6c4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866077
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d8b15a07082ffa632e6aef0cf18051f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209412403
+        }
+    ],
+    "wof:id":1209412403,
+    "wof:lastmodified":1537658956,
+    "wof:name":"Sohuri",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26403,
+    38.23407,
+    127.26403,
+    38.23407
+],
+  "geometry": {"coordinates":[127.26403000000001,38.23407],"type":"Point"}
+}

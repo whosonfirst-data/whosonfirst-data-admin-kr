@@ -1,0 +1,65 @@
+{
+  "id": 1209069755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7017,36.5332,126.7017,36.5332",
+    "geom:latitude":36.5332,
+    "geom:longitude":126.7017,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mosumul",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809680,
+    "gn:latitude":36.5332,
+    "gn:longitude":126.7017,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"M\u014fsumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba38\uc218\ubb3c",
+        "M\u014fsumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809680
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f6b0b6e4988604fefa7586a387faa3ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209069755
+        }
+    ],
+    "wof:id":1209069755,
+    "wof:lastmodified":1537657884,
+    "wof:name":"Mosumul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7017,
+    36.5332,
+    126.7017,
+    36.5332
+],
+  "geometry": {"coordinates":[126.7017,36.5332],"type":"Point"}
+}

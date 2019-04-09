@@ -1,0 +1,64 @@
+{
+  "id": 1209197103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42746,35.67183,128.42746,35.67183",
+    "geom:latitude":35.67183,
+    "geom:longitude":128.42746,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jidongilgu",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11040754,
+    "gn:latitude":35.67183,
+    "gn:longitude":128.42746,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Jidongilgu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ub3d9\uc77c\uad6c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11040754
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"51e410ddea18cfbb37efd638944683c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209197103
+        }
+    ],
+    "wof:id":1209197103,
+    "wof:lastmodified":1537659119,
+    "wof:name":"Jidongilgu",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42746,
+    35.67183,
+    128.42746,
+    35.67183
+],
+  "geometry": {"coordinates":[128.42746,35.67183],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226820287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3975,37.47167,127.3975,37.47167",
+    "geom:latitude":37.47167,
+    "geom:longitude":127.3975,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seojigok",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577651,
+    "gn:latitude":37.47167,
+    "gn:longitude":127.3975,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Seojigok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11c\uc9c0\uace1",
+        "Seojigok",
+        "S\u014fjigok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577651
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0b8002da459d47f02198bd8e8c5d5fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1226820287,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226820287,
+    "wof:lastmodified":1537657379,
+    "wof:name":"Seojigok",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3975,
+    37.47167,
+    127.3975,
+    37.47167
+],
+  "geometry": {"coordinates":[127.39749999999999,37.47167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226512907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6172,35.64247,128.6172,35.64247",
+    "geom:latitude":35.64247,
+    "geom:longitude":128.6172,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"P'unggak",
+    "gn:country_code":"KR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893957,
+    "gn:latitude":35.64247,
+    "gn:longitude":128.6172,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019unggak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud48d\uac01",
+        "P\u2019unggak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893957
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"11286256824fab222d5ba915ec5f444e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1226512907,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226512907,
+    "wof:lastmodified":1537656843,
+    "wof:name":"P'unggak",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6172,
+    35.64247,
+    128.6172,
+    35.64247
+],
+  "geometry": {"coordinates":[128.6172,35.64247],"type":"Point"}
+}

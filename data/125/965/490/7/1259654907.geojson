@@ -1,0 +1,74 @@
+{
+  "id": 1259654907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.54083,37.29333,127.54083,37.29333",
+    "geom:latitude":37.29333,
+    "geom:longitude":127.54083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kobaeng-ni",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1842875,
+    "gn:latitude":37.29333,
+    "gn:longitude":127.54083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kobaeng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobaeg-ni",
+        "Kobang-ni",
+        "\uace0\ubc31\ub9ac",
+        "Gobaek-ri",
+        "Kobaeng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842875
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ab5e4ccf36c7e0b0d10345c31e544381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1259654907,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259654907,
+    "wof:lastmodified":1537656518,
+    "wof:name":"Kobaeng-ni",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.54083,
+    37.29333,
+    127.54083,
+    37.29333
+],
+  "geometry": {"coordinates":[127.54083,37.29333],"type":"Point"}
+}

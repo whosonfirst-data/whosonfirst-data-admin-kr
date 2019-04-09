@@ -1,0 +1,77 @@
+{
+  "id": 1276205491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3096,37.908,127.3096,37.908",
+    "geom:latitude":37.908,
+    "geom:longitude":127.3096,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yangjimal",
+    "gn:country_code":"KR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813735,
+    "gn:latitude":37.908,
+    "gn:longitude":127.3096,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yangjimal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc9c0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uc591\uc9c0\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Yangji-dong",
+        "Yangjimal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813735
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"882afa970747bddca790125498a69cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1276205491,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276205491,
+    "wof:lastmodified":1537658022,
+    "wof:name":"Yangjimal",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3096,
+    37.908,
+    127.3096,
+    37.908
+],
+  "geometry": {"coordinates":[127.3096,37.908],"type":"Point"}
+}

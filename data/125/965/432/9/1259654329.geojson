@@ -1,0 +1,72 @@
+{
+  "id": 1259654329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.35767,36.47103,128.35767,36.47103",
+    "geom:latitude":36.47103,
+    "geom:longitude":128.35767,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jungnim",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890238,
+    "gn:latitude":36.47103,
+    "gn:longitude":128.35767,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Jungnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc8fd\ub9bc",
+        "Chungnim",
+        "Jungnim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890238
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"419e7a0bd013b7d6c64324f6a109fe9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474631,
+            "locality_id":1259654329,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259654329,
+    "wof:lastmodified":1537658480,
+    "wof:name":"Jungnim",
+    "wof:parent_id":890474631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.35766999999998,
+    36.47103,
+    128.35766999999998,
+    36.47103
+],
+  "geometry": {"coordinates":[128.35766999999998,36.47103],"type":"Point"}
+}

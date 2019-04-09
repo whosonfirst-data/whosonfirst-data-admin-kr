@@ -1,0 +1,71 @@
+{
+  "id": 1310468365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8625,36.634,126.8625,36.634",
+    "geom:latitude":36.634,
+    "geom:longitude":126.8625,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kajwa-dong",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811115,
+    "gn:latitude":36.634,
+    "gn:longitude":126.8625,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kajwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uc88c\ub3d9",
+        "Kajwa-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811115
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"77531cba08e537e2a5a00f5f5c79efc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1310468365,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310468365,
+    "wof:lastmodified":1537657930,
+    "wof:name":"Kajwa-dong",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8625,
+    36.634,
+    126.8625,
+    36.634
+],
+  "geometry": {"coordinates":[126.8625,36.634],"type":"Point"}
+}

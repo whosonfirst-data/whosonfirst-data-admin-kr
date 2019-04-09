@@ -1,0 +1,70 @@
+{
+  "id": 1226115905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76439,36.61179,128.76439,36.61179",
+    "geom:latitude":36.61179,
+    "geom:longitude":128.76439,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hapgang",
+    "gn:country_code":"KR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272838,
+    "gn:latitude":36.61179,
+    "gn:longitude":128.76439,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Hapgang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud569\uac15"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272838
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"10047d5cd4013463a706b8fe9f6eae89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1226115905,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226115905,
+    "wof:lastmodified":1537659318,
+    "wof:name":"Hapgang",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76439,
+    36.61179,
+    128.76439,
+    36.61179
+],
+  "geometry": {"coordinates":[128.76438999999999,36.61179],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293769963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3918,37.691,127.3918,37.691",
+    "geom:latitude":37.691,
+    "geom:longitude":127.3918,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wittoeju",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803457,
+    "gn:latitude":37.691,
+    "gn:longitude":127.3918,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Wittoeju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\ud1f4\uc8fc"
+    ],
+    "name:und_x_variant":[
+        "\uc717\ud1f4\uc8fc",
+        "Wittoeju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803457
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a9176a3b4a54066ee8cfc2fca15f243e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1293769963,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293769963,
+    "wof:lastmodified":1537657784,
+    "wof:name":"Wittoeju",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3918,
+    37.691,
+    127.3918,
+    37.691
+],
+  "geometry": {"coordinates":[127.3918,37.691],"type":"Point"}
+}

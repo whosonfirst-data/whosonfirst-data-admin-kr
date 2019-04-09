@@ -1,0 +1,72 @@
+{
+  "id": 1344138981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95861,34.77389,125.95861,34.77389",
+    "geom:latitude":34.77389,
+    "geom:longitude":125.95861,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tangsan",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834861,
+    "gn:latitude":34.77389,
+    "gn:longitude":125.95861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangsan-ni",
+        "Tangsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834861
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"41242d8b41807eb2a32529928806458f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1344138981,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1344138981,
+    "wof:lastmodified":1537656111,
+    "wof:name":"Tangsan",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95861,
+    34.77389,
+    125.95861,
+    34.77389
+],
+  "geometry": {"coordinates":[125.95860999999999,34.77389],"type":"Point"}
+}

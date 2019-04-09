@@ -1,0 +1,75 @@
+{
+  "id": 1277140825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98699,34.88355,126.98699,34.88355",
+    "geom:latitude":34.88355,
+    "geom:longitude":126.98699,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Iyangsijang",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843474,
+    "gn:latitude":34.88355,
+    "gn:longitude":126.98699,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Iyangsijang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\uc591\uc2dc\uc7a5"
+    ],
+    "name:und_x_variant":[
+        "Sinyangjang",
+        "Shiny\u014dj\u014d",
+        "Iyangsijang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843474
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"186b859e6eb62cb758d0826983f627ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1277140825,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1277140825,
+    "wof:lastmodified":1537656551,
+    "wof:name":"Iyangsijang",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98699,
+    34.88355,
+    126.98699,
+    34.88355
+],
+  "geometry": {"coordinates":[126.98699000000001,34.88355],"type":"Point"}
+}

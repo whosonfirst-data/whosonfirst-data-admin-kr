@@ -1,0 +1,64 @@
+{
+  "id": 1209689401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.27471,36.56734,128.27471,36.56734",
+    "geom:latitude":36.56734,
+    "geom:longitude":128.27471,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wissamin",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11267887,
+    "gn:latitude":36.56734,
+    "gn:longitude":128.27471,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Wissamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\uc0bc\uc778"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267887
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"197821c36aee7adb598faceaf3eccb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689401
+        }
+    ],
+    "wof:id":1209689401,
+    "wof:lastmodified":1537659302,
+    "wof:name":"Wissamin",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.27471,
+    36.56734,
+    128.27471,
+    36.56734
+],
+  "geometry": {"coordinates":[128.27471,36.56734],"type":"Point"}
+}

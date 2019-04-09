@@ -1,0 +1,67 @@
+{
+  "id": 1360198283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73833,33.54944,126.73833,33.54944",
+    "geom:latitude":33.54944,
+    "geom:longitude":126.73833,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kimnyong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6198605,
+    "gn:latitude":33.54944,
+    "gn:longitude":126.73833,
+    "gn:modification_date":"2006-02-09",
+    "gn:name":"Kimny\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6198605
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8698911962c29b3db226449f6f8f52f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1360198283,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1360198283,
+    "wof:lastmodified":1536782773,
+    "wof:name":"Kimnyong-ni",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73833,
+    33.54944,
+    126.73833,
+    33.54944
+],
+  "geometry": {"coordinates":[126.73833,33.54944],"type":"Point"}
+}

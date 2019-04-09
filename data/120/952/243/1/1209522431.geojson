@@ -1,0 +1,65 @@
+{
+  "id": 1209522431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2602,36.0491,127.2602,36.0491",
+    "geom:latitude":36.0491,
+    "geom:longitude":127.2602,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kusu-dong",
+    "gn:country_code":"KR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6887843,
+    "gn:latitude":36.0491,
+    "gn:longitude":127.2602,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kusu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\uc218\ub3d9",
+        "Kusu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6887843
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3510465cfdc4e6988b0b04329c9a779c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209522431
+        }
+    ],
+    "wof:id":1209522431,
+    "wof:lastmodified":1537658396,
+    "wof:name":"Kusu-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2602,
+    36.0491,
+    127.2602,
+    36.0491
+],
+  "geometry": {"coordinates":[127.2602,36.0491],"type":"Point"}
+}

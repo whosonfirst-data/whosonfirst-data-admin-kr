@@ -1,0 +1,70 @@
+{
+  "id": 1242684745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64074,35.35441,126.64074,35.35441",
+    "geom:latitude":35.35441,
+    "geom:longitude":126.64074,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Geumsa",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169285,
+    "gn:latitude":35.35441,
+    "gn:longitude":126.64074,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Geumsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uc0ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169285
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee85a2dce5e18b44cae3777da83b8f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1242684745,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1242684745,
+    "wof:lastmodified":1537659172,
+    "wof:name":"Geumsa",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64074,
+    35.35440999999999,
+    126.64074,
+    35.35440999999999
+],
+  "geometry": {"coordinates":[126.64073999999999,35.35440999999999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226721241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87111,37.12194,126.87111,37.12194",
+    "geom:latitude":37.12194,
+    "geom:longitude":126.87111,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wormul-li",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896697,
+    "gn:latitude":37.12194,
+    "gn:longitude":126.87111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014frmul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\ubb38\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "W\u014frmul-li"
+    ],
+    "name:und_x_variant":[
+        "W\u014flmul-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896697
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"88d9db722b5925f205618228d54fb183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1226721241,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226721241,
+    "wof:lastmodified":1537656908,
+    "wof:name":"Wormul-li",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87111000000002,
+    37.12194,
+    126.87111000000002,
+    37.12194
+],
+  "geometry": {"coordinates":[126.87111000000002,37.12194],"type":"Point"}
+}

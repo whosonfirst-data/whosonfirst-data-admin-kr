@@ -1,0 +1,73 @@
+{
+  "id": 1310400647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.05564,35.24395,129.05564,35.24395",
+    "geom:latitude":35.24395,
+    "geom:longitude":129.05564,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gonghae",
+    "gn:country_code":"KR",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842626,
+    "gn:latitude":35.24395,
+    "gn:longitude":129.05564,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Gonghae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf5\ud574"
+    ],
+    "name:und_x_variant":[
+        "Konghae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842626
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"02834aeac267cc02e0218deee8346a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472097,
+            "locality_id":1310400647,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1310400647,
+    "wof:lastmodified":1537656506,
+    "wof:name":"Gonghae",
+    "wof:parent_id":890472097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.05563999999998,
+    35.24395,
+    129.05563999999998,
+    35.24395
+],
+  "geometry": {"coordinates":[129.05563999999998,35.24395],"type":"Point"}
+}

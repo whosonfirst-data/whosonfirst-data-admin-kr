@@ -1,0 +1,71 @@
+{
+  "id": 1243237893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.71886,35.02259,128.71886,35.02259",
+    "geom:latitude":35.02259,
+    "geom:longitude":128.71886,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"K\u014fje-si",
+    "gn:asciiname":"Hayu",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949565,
+    "gn:latitude":35.02259,
+    "gn:longitude":128.71886,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Hayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc720"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949565
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72710eabd550275ba9751dfb65f1ce5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474515,
+            "locality_id":1243237893,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243237893,
+    "wof:lastmodified":1537656968,
+    "wof:name":"Hayu",
+    "wof:parent_id":890474515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.71886,
+    35.02259,
+    128.71886,
+    35.02259
+],
+  "geometry": {"coordinates":[128.71886000000001,35.02259],"type":"Point"}
+}

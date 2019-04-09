@@ -1,0 +1,71 @@
+{
+  "id": 1209716887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31588,35.68314,127.31588,35.68314",
+    "geom:latitude":35.68314,
+    "geom:longitude":127.31588,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hagasu",
+    "gn:country_code":"KR",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876398,
+    "gn:latitude":35.68314,
+    "gn:longitude":127.31588,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hagasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uac00\uc218",
+        "Hagasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876398
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bc857e6e797d70c5d7c2d814cf62d3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1209716887,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1209716887,
+    "wof:lastmodified":1537658129,
+    "wof:name":"Hagasu",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31588,
+    35.68314,
+    127.31588,
+    35.68314
+],
+  "geometry": {"coordinates":[127.31588000000001,35.68314],"type":"Point"}
+}

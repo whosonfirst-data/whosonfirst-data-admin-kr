@@ -1,0 +1,64 @@
+{
+  "id": 1209613875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2062,37.1841,128.2062,37.1841",
+    "geom:latitude":37.1841,
+    "geom:longitude":128.2062,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sindam",
+    "gn:country_code":"KR",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796642,
+    "gn:latitude":37.1841,
+    "gn:longitude":128.2062,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sindam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub2f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796642
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee11c1a42ab795f491d5578b16b053e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209613875
+        }
+    ],
+    "wof:id":1209613875,
+    "wof:lastmodified":1537657565,
+    "wof:name":"Sindam",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2062,
+    37.1841,
+    128.2062,
+    37.1841
+],
+  "geometry": {"coordinates":[128.2062,37.1841],"type":"Point"}
+}

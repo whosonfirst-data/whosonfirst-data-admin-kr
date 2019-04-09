@@ -1,0 +1,70 @@
+{
+  "id": 1259850199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.96779,36.54989,128.96779,36.54989",
+    "geom:latitude":36.54989,
+    "geom:longitude":128.96779,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Eosa",
+    "gn:country_code":"KR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274088,
+    "gn:latitude":36.54989,
+    "gn:longitude":128.96779,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Eosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\uc0ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274088
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9766ae23f0e04b69616e547360bc9eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1259850199,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259850199,
+    "wof:lastmodified":1537659323,
+    "wof:name":"Eosa",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.96778999999998,
+    36.54989000000001,
+    128.96778999999998,
+    36.54989000000001
+],
+  "geometry": {"coordinates":[128.96778999999998,36.54989000000001],"type":"Point"}
+}

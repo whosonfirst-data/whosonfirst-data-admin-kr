@@ -1,0 +1,64 @@
+{
+  "id": 1209070175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25131,34.52308,127.25131,34.52308",
+    "geom:latitude":34.52308,
+    "geom:longitude":127.25131,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Namdang",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685135,
+    "gn:latitude":34.52308,
+    "gn:longitude":127.25131,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Namdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\ub2f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685135
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"900faf99f31dac7981fe167ff8617be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209070175
+        }
+    ],
+    "wof:id":1209070175,
+    "wof:lastmodified":1537657447,
+    "wof:name":"Namdang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25131,
+    34.52308,
+    127.25131,
+    34.52308
+],
+  "geometry": {"coordinates":[127.25131,34.52308],"type":"Point"}
+}

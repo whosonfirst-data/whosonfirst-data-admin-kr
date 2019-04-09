@@ -1,0 +1,70 @@
+{
+  "id": 1344154409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.88504,38.21596,127.88504,38.21596",
+    "geom:latitude":38.21596,
+    "geom:longitude":127.88504,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Songjeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9887740,
+    "gn:latitude":38.21596,
+    "gn:longitude":127.88504,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Songjeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uc815\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890474685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887740
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"260d31510a0c3fa4e2cf27f381ffa9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474685,
+            "locality_id":1344154409,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1344154409,
+    "wof:lastmodified":1537658965,
+    "wof:name":"Songjeongdong",
+    "wof:parent_id":890474685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.88504,
+    38.21596,
+    127.88504,
+    38.21596
+],
+  "geometry": {"coordinates":[127.88504,38.21596],"type":"Point"}
+}

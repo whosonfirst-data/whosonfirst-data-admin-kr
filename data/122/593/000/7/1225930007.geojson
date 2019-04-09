@@ -1,0 +1,75 @@
+{
+  "id": 1225930007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25719,37.07376,127.25719,37.07376",
+    "geom:latitude":37.07376,
+    "geom:longitude":127.25719,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ans\u014fng-si",
+    "gn:asciiname":"Beolmal",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839003,
+    "gn:latitude":37.07376,
+    "gn:longitude":127.25719,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Beolmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Taep\u2019y\u014fng-ni"
+    ],
+    "name:kor_x_variant":[
+        "\ubc8c\ub9d0",
+        "P\u014fl-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839003
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b14a75f9d967422b67a6a4b69699b86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1225930007,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1225930007,
+    "wof:lastmodified":1537656320,
+    "wof:name":"Beolmal",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25719,
+    37.07376,
+    127.25719,
+    37.07376
+],
+  "geometry": {"coordinates":[127.25718999999999,37.07376],"type":"Point"}
+}

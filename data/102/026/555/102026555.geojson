@@ -1,0 +1,74 @@
+{
+  "id": 102026555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":381274.622641,
+    "geom:bbox":"126.859731254,37.5402217766,126.870117187,37.5445773209",
+    "geom:latitude":37.542301,
+    "geom:longitude":126.865621,
+    "gn:latitude":36.95895,
+    "gn:longitude":127.09583,
+    "iso:country":"KR",
+    "lbl:latitude":37.5424,
+    "lbl:longitude":126.86562,
+    "mps:latitude":37.5424,
+    "mps:longitude":126.86562,
+    "mz:hierarchy_label":1,
+    "name:unk_x_variant":[
+        "\uc591\ucc9c"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Korea",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Yangch\u2019\u014fn",
+    "qs:loc_lc":"6811440",
+    "qs:pop":0,
+    "qs:source":"Rquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890472299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811440
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ffc2377c1a4df02494f70c56818948ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472299,
+            "locality_id":102026555,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":102026555,
+    "wof:lastmodified":1501273110,
+    "wof:name":"Yangch\u2019\u014fn",
+    "wof:parent_id":890472299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85973125385256,
+    37.54022177659998,
+    126.87011718700002,
+    37.54457732089996
+],
+  "geometry": {"coordinates":[[[126.86325073200005,37.54022177659998],[126.86070951176988,37.54022177659998],[126.85973125385256,37.54039802213441],[126.86131828282736,37.54239958049995],[126.861877441,37.54239958050005],[126.861877441,37.54457732089996],[126.86462402299999,37.54457732089996],[126.86737060500003,37.54457732089996],[126.87011718700002,37.54457732089996],[126.87011718700002,37.54239958050005],[126.87011718700002,37.54022177659998],[126.86737060500003,37.54022177659998],[126.86599731400001,37.54022177659998],[126.86462402299999,37.54022177659998],[126.86325073200005,37.54022177659998]]],"type":"Polygon"}
+}

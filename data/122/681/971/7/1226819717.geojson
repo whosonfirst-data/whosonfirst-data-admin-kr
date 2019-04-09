@@ -1,0 +1,72 @@
+{
+  "id": 1226819717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.25,36.76667,128.25,36.76667",
+    "geom:latitude":36.76667,
+    "geom:longitude":128.25,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kajwamok",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843329,
+    "gn:latitude":36.76667,
+    "gn:longitude":128.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kajwamok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kajamok",
+        "Kajwamok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843329
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"54a8be4053596c4f0b29f70b8e01be6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1226819717,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226819717,
+    "wof:lastmodified":1537656543,
+    "wof:name":"Kajwamok",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.25,
+    36.76667,
+    128.25,
+    36.76667
+],
+  "geometry": {"coordinates":[128.25,36.76667],"type":"Point"}
+}

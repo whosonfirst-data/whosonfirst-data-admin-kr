@@ -1,0 +1,71 @@
+{
+  "id": 1193111597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30469,35.01352,128.30469,35.01352",
+    "geom:latitude":35.01352,
+    "geom:longitude":128.30469,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sanggok",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899578,
+    "gn:latitude":35.01352,
+    "gn:longitude":128.30469,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uace1",
+        "Sanggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899578
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"635c1bcbac9d6b4fa4173a6285a91096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746461,
+            "locality_id":1193111597,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1193111597,
+    "wof:lastmodified":1537658748,
+    "wof:name":"Sanggok",
+    "wof:parent_id":1108746461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30469,
+    35.01352,
+    128.30469,
+    35.01352
+],
+  "geometry": {"coordinates":[128.30468999999999,35.01352],"type":"Point"}
+}

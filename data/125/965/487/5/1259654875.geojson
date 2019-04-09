@@ -1,0 +1,72 @@
+{
+  "id": 1259654875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.46028,37.47583,127.46028,37.47583",
+    "geom:latitude":37.47583,
+    "geom:longitude":127.46028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Songhang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6577706,
+    "gn:latitude":37.47583,
+    "gn:longitude":127.46028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songhang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\ud559\ub9ac",
+        "Songhak-ri",
+        "Songhang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577706
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dfed87b6a3f628daafe1b0cb45547a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1259654875,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259654875,
+    "wof:lastmodified":1537657383,
+    "wof:name":"Songhang-ni",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.46028,
+    37.47583,
+    127.46028,
+    37.47583
+],
+  "geometry": {"coordinates":[127.46028,37.47583],"type":"Point"}
+}

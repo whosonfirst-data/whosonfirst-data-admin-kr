@@ -1,0 +1,73 @@
+{
+  "id": 1326709447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89528,37.09639,126.89528,37.09639",
+    "geom:latitude":37.09639,
+    "geom:longitude":126.89528,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Son'gae",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364427,
+    "gn:latitude":37.09639,
+    "gn:longitude":126.89528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Son\u2019gae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc190\uac1c"
+    ],
+    "name:kor_x_variant":[
+        "Son\u2019gae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364427
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"afa0ea057487f6ed1da3124060645829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1326709447,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1326709447,
+    "wof:lastmodified":1537657081,
+    "wof:name":"Son'gae",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89528,
+    37.09639,
+    126.89528,
+    37.09639
+],
+  "geometry": {"coordinates":[126.89528,37.09639],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293659905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.55109,35.96743,129.55109,35.96743",
+    "geom:latitude":35.96743,
+    "geom:longitude":129.55109,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taekki",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11249569,
+    "gn:latitude":35.96743,
+    "gn:longitude":129.55109,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Taekki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0dc\ub07c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249569
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"072c397e74a3f18b7c44eedebd02856c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1293659905,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293659905,
+    "wof:lastmodified":1537659254,
+    "wof:name":"Taekki",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.55109,
+    35.96743,
+    129.55109,
+    35.96743
+],
+  "geometry": {"coordinates":[129.55108999999999,35.96743],"type":"Point"}
+}

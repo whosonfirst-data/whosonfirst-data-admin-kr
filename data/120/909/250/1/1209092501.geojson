@@ -1,0 +1,68 @@
+{
+  "id": 1209092501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4882,37.5179,127.4882,37.5179",
+    "geom:latitude":37.5179,
+    "geom:longitude":127.4882,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aekkol",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803241,
+    "gn:latitude":37.5179,
+    "gn:longitude":127.4882,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Aekkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc560\uaf34"
+    ],
+    "name:und_x_variant":[
+        "\uc560\uaf34",
+        "Aekkol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803241
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cf30c7142488aa2a6ae67ec6dd17bc4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209092501
+        }
+    ],
+    "wof:id":1209092501,
+    "wof:lastmodified":1537657775,
+    "wof:name":"Aekkol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4882,
+    37.5179,
+    127.4882,
+    37.5179
+],
+  "geometry": {"coordinates":[127.48820000000001,37.5179],"type":"Point"}
+}

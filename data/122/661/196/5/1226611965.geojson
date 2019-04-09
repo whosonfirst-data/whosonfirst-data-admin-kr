@@ -1,0 +1,72 @@
+{
+  "id": 1226611965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9809,36.8072,126.9809,36.8072",
+    "geom:latitude":36.8072,
+    "geom:longitude":126.9809,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kobunda-ri",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842862,
+    "gn:latitude":36.8072,
+    "gn:longitude":126.9809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kobunda-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokkyo-ri",
+        "\uace0\ubd84\ub2e4\ub9ac",
+        "Kobunda-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842862
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"69df11f3fd0c14f02d5257c2bba69d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1226611965,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226611965,
+    "wof:lastmodified":1537656517,
+    "wof:name":"Kobunda-ri",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9809,
+    36.8072,
+    126.9809,
+    36.8072
+],
+  "geometry": {"coordinates":[126.98090000000001,36.8072],"type":"Point"}
+}

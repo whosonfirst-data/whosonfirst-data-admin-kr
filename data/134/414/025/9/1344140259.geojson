@@ -1,0 +1,70 @@
+{
+  "id": 1344140259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.15844,36.6216,128.15844,36.6216",
+    "geom:latitude":36.6216,
+    "geom:longitude":128.15844,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Apgol",
+    "gn:country_code":"KR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10457036,
+    "gn:latitude":36.6216,
+    "gn:longitude":128.15844,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Apgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc55e\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10457036
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a4070ad414580405b4c7b610ec9e0403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1344140259,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344140259,
+    "wof:lastmodified":1537659061,
+    "wof:name":"Apgol",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.15843999999998,
+    36.6216,
+    128.15843999999998,
+    36.6216
+],
+  "geometry": {"coordinates":[128.15843999999998,36.6216],"type":"Point"}
+}

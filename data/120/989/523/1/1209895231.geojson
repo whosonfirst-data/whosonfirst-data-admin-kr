@@ -1,0 +1,75 @@
+{
+  "id": 1209895231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06375,37.86744,127.06375,37.86744",
+    "geom:latitude":37.86744,
+    "geom:longitude":127.06375,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gatgol",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799763,
+    "gn:latitude":37.86744,
+    "gn:longitude":127.06375,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gatgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac13\uace8"
+    ],
+    "name:und_x_variant":[
+        "\uacfc\uace8",
+        "Kwa-gol",
+        "Gatgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799763
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa9a22223ebffef1aeacdcb0365c85db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1209895231,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209895231,
+    "wof:lastmodified":1537657657,
+    "wof:name":"Gatgol",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06375,
+    37.86744,
+    127.06375,
+    37.86744
+],
+  "geometry": {"coordinates":[127.06375,37.86744],"type":"Point"}
+}

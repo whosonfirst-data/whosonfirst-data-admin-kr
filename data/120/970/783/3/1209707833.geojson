@@ -1,0 +1,73 @@
+{
+  "id": 1209707833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5824,37.6682,127.5824,37.6682",
+    "geom:latitude":37.6682,
+    "geom:longitude":127.5824,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chint'obol",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802047,
+    "gn:latitude":37.6682,
+    "gn:longitude":127.5824,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chint\u2019\u014fb\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c4\ud130\ubc8c"
+    ],
+    "name:kor_x_variant":[
+        "Chint\u2019\u014fb\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802047
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eee18a5924e2106b0804e0004f37c7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1209707833,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209707833,
+    "wof:lastmodified":1537657719,
+    "wof:name":"Chint'obol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5824,
+    37.6682,
+    127.5824,
+    37.6682
+],
+  "geometry": {"coordinates":[127.58240000000001,37.6682],"type":"Point"}
+}

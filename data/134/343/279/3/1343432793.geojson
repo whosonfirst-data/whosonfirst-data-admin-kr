@@ -1,0 +1,70 @@
+{
+  "id": 1343432793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69662,35.3366,126.69662,35.3366",
+    "geom:latitude":35.3366,
+    "geom:longitude":126.69662,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Angol",
+    "gn:country_code":"KR",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169383,
+    "gn:latitude":35.3366,
+    "gn:longitude":126.69662,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Angol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169383
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1da32f9b2207eac62f35eb6741dc0b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1343432793,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343432793,
+    "wof:lastmodified":1537659174,
+    "wof:name":"Angol",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69662,
+    35.3366,
+    126.69662,
+    35.3366
+],
+  "geometry": {"coordinates":[126.69662,35.3366],"type":"Point"}
+}

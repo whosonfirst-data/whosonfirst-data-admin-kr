@@ -1,0 +1,73 @@
+{
+  "id": 1225842377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.7607,37.3496,128.7607,37.3496",
+    "geom:latitude":37.3496,
+    "geom:longitude":128.7607,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oksil",
+    "gn:country_code":"KR",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795637,
+    "gn:latitude":37.3496,
+    "gn:longitude":128.7607,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u014eksil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b5\uc2e4"
+    ],
+    "name:kor_x_variant":[
+        "\u014eksil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795637
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"74bdf1f1e5c0e9d80a70f1ebbf8d614d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1225842377,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1225842377,
+    "wof:lastmodified":1537657533,
+    "wof:name":"Oksil",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.7607,
+    37.3496,
+    128.7607,
+    37.3496
+],
+  "geometry": {"coordinates":[128.76070000000001,37.3496],"type":"Point"}
+}

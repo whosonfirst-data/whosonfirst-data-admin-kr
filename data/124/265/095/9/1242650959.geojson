@@ -1,0 +1,75 @@
+{
+  "id": 1242650959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31058,36.59705,128.31058,36.59705",
+    "geom:latitude":36.59705,
+    "geom:longitude":128.31058,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Daeeun",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835048,
+    "gn:latitude":36.59705,
+    "gn:longitude":128.31058,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Daeeun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc740"
+    ],
+    "name:und_x_variant":[
+        "Tae\u016dn-ni",
+        "Tae\u016dn",
+        "Daeeun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835048
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f667551988957c3843a1fe6f6826dcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1242650959,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242650959,
+    "wof:lastmodified":1537656121,
+    "wof:name":"Daeeun",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31058000000002,
+    36.59705,
+    128.31058000000002,
+    36.59705
+],
+  "geometry": {"coordinates":[128.31058000000002,36.59705],"type":"Point"}
+}

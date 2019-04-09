@@ -1,0 +1,66 @@
+{
+  "id": 1209489755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85,35.11667,127.85,35.11667",
+    "geom:latitude":35.11667,
+    "geom:longitude":127.85,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sigumuk",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837373,
+    "gn:latitude":35.11667,
+    "gn:longitude":127.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sig\u016dmuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sig\u016dm",
+        "Sig\u016dmuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837373
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dc4fac8a28bc2a17e8eb0fab1d7bee6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209489755
+        }
+    ],
+    "wof:id":1209489755,
+    "wof:lastmodified":1537656233,
+    "wof:name":"Sigumuk",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85,
+    35.11667,
+    127.85,
+    35.11667
+],
+  "geometry": {"coordinates":[127.84999999999999,35.11667],"type":"Point"}
+}

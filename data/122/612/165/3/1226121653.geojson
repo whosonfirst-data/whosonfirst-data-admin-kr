@@ -1,0 +1,75 @@
+{
+  "id": 1226121653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.419,37.5425,127.419,37.5425",
+    "geom:latitude":37.5425,
+    "geom:longitude":127.419,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gohyeon",
+    "gn:country_code":"KR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803296,
+    "gn:latitude":37.5425,
+    "gn:longitude":127.419,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Gohyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ud604"
+    ],
+    "name:und_x_variant":[
+        "\uace0\ud604",
+        "Gohyeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803296,
+        "wk:page":"Gohyeon"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a2f1472f32ffd6efc6c0130988b5b898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1226121653,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226121653,
+    "wof:lastmodified":1537657778,
+    "wof:name":"Gohyeon",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.419,
+    37.5425,
+    127.419,
+    37.5425
+],
+  "geometry": {"coordinates":[127.419,37.5425],"type":"Point"}
+}

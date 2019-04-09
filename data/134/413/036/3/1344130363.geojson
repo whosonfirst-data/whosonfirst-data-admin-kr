@@ -1,0 +1,71 @@
+{
+  "id": 1344130363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.01752,36.00361,129.01752,36.00361",
+    "geom:latitude":36.00361,
+    "geom:longitude":129.01752,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taeju-gol",
+    "gn:country_code":"KR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878891,
+    "gn:latitude":36.00361,
+    "gn:longitude":129.01752,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taeju-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\uc8fc\uace8",
+        "Taeju-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878891
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"941cc02bdb7ad68b2e8423b582df7d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475319,
+            "locality_id":1344130363,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1344130363,
+    "wof:lastmodified":1537658209,
+    "wof:name":"Taeju-gol",
+    "wof:parent_id":890475319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.01752,
+    36.00360999999999,
+    129.01752,
+    36.00360999999999
+],
+  "geometry": {"coordinates":[129.01751999999999,36.00360999999999],"type":"Point"}
+}

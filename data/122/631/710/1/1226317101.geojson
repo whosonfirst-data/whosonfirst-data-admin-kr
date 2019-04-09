@@ -1,0 +1,65 @@
+{
+  "id": 1226317101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42783,34.98308,128.42783,34.98308",
+    "geom:latitude":34.98308,
+    "geom:longitude":128.42783,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hwadang",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6897386,
+    "gn:latitude":34.98308,
+    "gn:longitude":128.42783,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hwadang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud654\ub2f9",
+        "Hwadang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6897386
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ec8c02faddc6726a492a4226263d0081",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226317101,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226317101,
+    "wof:lastmodified":1537658688,
+    "wof:name":"Hwadang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42783,
+    34.98308,
+    128.42783,
+    34.98308
+],
+  "geometry": {"coordinates":[128.42783,34.98308],"type":"Point"}
+}

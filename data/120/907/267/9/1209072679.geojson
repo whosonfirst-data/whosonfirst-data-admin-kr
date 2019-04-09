@@ -1,0 +1,64 @@
+{
+  "id": 1209072679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31667,36.85,127.31667,36.85",
+    "geom:latitude":36.85,
+    "geom:longitude":127.31667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tolmok",
+    "gn:country_code":"KR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836532,
+    "gn:latitude":36.85,
+    "gn:longitude":127.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tolmok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fkhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836532
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f883edc607f60b67eab29612ad7af523",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209072679
+        }
+    ],
+    "wof:id":1209072679,
+    "wof:lastmodified":1537656192,
+    "wof:name":"Tolmok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31667,
+    36.85,
+    127.31667,
+    36.85
+],
+  "geometry": {"coordinates":[127.31667,36.85],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360150449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90276,35.22488,126.90276,35.22488",
+    "geom:latitude":35.22488,
+    "geom:longitude":126.90276,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mosan",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1933147,
+    "gn:latitude":35.22488,
+    "gn:longitude":126.90276,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mosan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Masan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1933147
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9d5540635409ee4671a6c1f0965563d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473321,
+            "locality_id":1360150449,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1360150449,
+    "wof:lastmodified":1537656959,
+    "wof:name":"Mosan",
+    "wof:parent_id":890473321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90276,
+    35.22488,
+    126.90276,
+    35.22488
+],
+  "geometry": {"coordinates":[126.90276,35.22488],"type":"Point"}
+}

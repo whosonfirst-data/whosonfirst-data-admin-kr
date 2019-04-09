@@ -1,0 +1,73 @@
+{
+  "id": 1242742919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.30253,36.26374,127.30253,36.26374",
+    "geom:latitude":36.26374,
+    "geom:longitude":127.30253,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gumani",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842328,
+    "gn:latitude":36.26374,
+    "gn:longitude":127.30253,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Gumani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuman-ni",
+        "\uad6c\ub9cc\uc774",
+        "Kumani",
+        "Gumani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842328
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ceac93ccaabe9a57bf01820b0d15908d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746515,
+            "locality_id":1242742919,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1242742919,
+    "wof:lastmodified":1537656491,
+    "wof:name":"Gumani",
+    "wof:parent_id":1108746515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.30253,
+    36.26374000000001,
+    127.30253,
+    36.26374000000001
+],
+  "geometry": {"coordinates":[127.30253,36.26374000000001],"type":"Point"}
+}

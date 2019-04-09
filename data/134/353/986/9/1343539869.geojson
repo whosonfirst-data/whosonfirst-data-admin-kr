@@ -1,0 +1,70 @@
+{
+  "id": 1343539869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81266,35.03189,128.81266,35.03189",
+    "geom:latitude":35.03189,
+    "geom:longitude":128.81266,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Araenmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11124634,
+    "gn:latitude":35.03189,
+    "gn:longitude":128.81266,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Araenmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub7ab\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11124634
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"50b556123b9b1e9a22d254ac39c9a9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1343539869,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1343539869,
+    "wof:lastmodified":1537659170,
+    "wof:name":"Araenmaeul",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81266000000002,
+    35.03189,
+    128.81266000000002,
+    35.03189
+],
+  "geometry": {"coordinates":[128.81266000000002,35.03189],"type":"Point"}
+}

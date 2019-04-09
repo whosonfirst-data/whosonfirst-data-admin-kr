@@ -1,0 +1,68 @@
+{
+  "id": 1209200753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4796,37.5077,127.4796,37.5077",
+    "geom:latitude":37.5077,
+    "geom:longitude":127.4796,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Obin",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802831,
+    "gn:latitude":37.5077,
+    "gn:longitude":127.4796,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Obin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ube48"
+    ],
+    "name:und_x_variant":[
+        "\uc624\ube48",
+        "Obin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802831
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"384a4c0ba9cabc81aa929777ed97bb3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209200753
+        }
+    ],
+    "wof:id":1209200753,
+    "wof:lastmodified":1537657758,
+    "wof:name":"Obin",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4796,
+    37.5077,
+    127.4796,
+    37.5077
+],
+  "geometry": {"coordinates":[127.4796,37.5077],"type":"Point"}
+}

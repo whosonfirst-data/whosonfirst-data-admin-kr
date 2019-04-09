@@ -1,0 +1,71 @@
+{
+  "id": 1344221603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.21308,35.55943,128.21308,35.55943",
+    "geom:latitude":35.55943,
+    "geom:longitude":128.21308,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yongjon",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904640,
+    "gn:latitude":35.55943,
+    "gn:longitude":128.21308,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u014fngj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc601\uc804",
+        "Y\u014fngj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904640
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f8f5e9be01bd2f054395eea5171c359b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1344221603,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1344221603,
+    "wof:lastmodified":1537658875,
+    "wof:name":"Yongjon",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.21308,
+    35.55943,
+    128.21308,
+    35.55943
+],
+  "geometry": {"coordinates":[128.21307999999999,35.55943],"type":"Point"}
+}

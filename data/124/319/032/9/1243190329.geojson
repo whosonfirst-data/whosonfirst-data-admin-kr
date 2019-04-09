@@ -1,0 +1,73 @@
+{
+  "id": 1243190329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.44261,35.1388,126.44261,35.1388",
+    "geom:latitude":35.1388,
+    "geom:longitude":126.44261,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yongheung",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832453,
+    "gn:latitude":35.1388,
+    "gn:longitude":126.44261,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Yongheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ud765"
+    ],
+    "name:und_x_variant":[
+        "Yongh\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832453
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae5ad6dfee87e9faf09eab1c5f8f661f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1243190329,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243190329,
+    "wof:lastmodified":1537655979,
+    "wof:name":"Yongheung",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.44261000000002,
+    35.1388,
+    126.44261000000002,
+    35.1388
+],
+  "geometry": {"coordinates":[126.44261000000002,35.1388],"type":"Point"}
+}

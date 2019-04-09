@@ -1,0 +1,73 @@
+{
+  "id": 1243164253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6599,37.4681,128.6599,37.4681",
+    "geom:latitude":37.4681,
+    "geom:longitude":128.6599,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kangsonam",
+    "gn:country_code":"KR",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794452,
+    "gn:latitude":37.4681,
+    "gn:longitude":128.6599,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kangs\u014fnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\uc120\uc554"
+    ],
+    "name:kor_x_variant":[
+        "Kangs\u014fnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794452
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1ab1f507580a710bf3a0a40d4abf51d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1243164253,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243164253,
+    "wof:lastmodified":1537657496,
+    "wof:name":"Kangsonam",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6599,
+    37.4681,
+    128.6599,
+    37.4681
+],
+  "geometry": {"coordinates":[128.65989999999999,37.4681],"type":"Point"}
+}

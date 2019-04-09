@@ -1,0 +1,73 @@
+{
+  "id": 1193271313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6214,36.72855,127.6214,36.72855",
+    "geom:latitude":36.72855,
+    "geom:longitude":127.6214,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deokpyeong",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834495,
+    "gn:latitude":36.72855,
+    "gn:longitude":127.6214,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Deokpyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ud3c9"
+    ],
+    "name:und_x_variant":[
+        "T\u014fkp\u2019y\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834495
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"16b61b251294f7d88204b3e3bdaaaf0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746473,
+            "locality_id":1193271313,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1193271313,
+    "wof:lastmodified":1537656089,
+    "wof:name":"Deokpyeong",
+    "wof:parent_id":1108746473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6214,
+    36.72855,
+    127.6214,
+    36.72855
+],
+  "geometry": {"coordinates":[127.62139999999999,36.72855],"type":"Point"}
+}

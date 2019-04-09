@@ -1,0 +1,77 @@
+{
+  "id": 1360064407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21546,38.07173,127.21546,38.07173",
+    "geom:latitude":38.07173,
+    "geom:longitude":127.21546,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Boreumni",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838754,
+    "gn:latitude":38.07173,
+    "gn:longitude":127.21546,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Boreumni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ub984\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "B\u014dgetsu-ri",
+        "Mangw\u014fl-li",
+        "Por\u016dmmi",
+        "Por\u016dm",
+        "Boreumni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838754
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0138edc6d545c5039364a6bc4f3dc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1360064407,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360064407,
+    "wof:lastmodified":1537656307,
+    "wof:name":"Boreumni",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21546,
+    38.07173,
+    127.21546,
+    38.07173
+],
+  "geometry": {"coordinates":[127.21545999999999,38.07173],"type":"Point"}
+}

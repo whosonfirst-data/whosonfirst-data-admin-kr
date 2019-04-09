@@ -1,0 +1,71 @@
+{
+  "id": 1310684471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.14344,35.80028,128.14344,35.80028",
+    "geom:latitude":35.80028,
+    "geom:longitude":128.14344,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chunggi",
+    "gn:country_code":"KR",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900569,
+    "gn:latitude":35.80028,
+    "gn:longitude":128.14344,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chunggi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uae30",
+        "Chunggi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900569
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"44b2fee14830044f81c928534898b9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473191,
+            "locality_id":1310684471,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310684471,
+    "wof:lastmodified":1537656939,
+    "wof:name":"Chunggi",
+    "wof:parent_id":890473191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.14344,
+    35.80028,
+    128.14344,
+    35.80028
+],
+  "geometry": {"coordinates":[128.14344,35.80028],"type":"Point"}
+}

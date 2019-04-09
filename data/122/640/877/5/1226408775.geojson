@@ -1,0 +1,72 @@
+{
+  "id": 1226408775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89317,36.64676,126.89317,36.64676",
+    "geom:latitude":36.64676,
+    "geom:longitude":126.89317,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Myeomal",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811125,
+    "gn:latitude":36.64676,
+    "gn:longitude":126.89317,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Myeomal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba70\ub9d0",
+        "My\u014f-mal",
+        "Myeomal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811125
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8f9f00ab748d1bd3ee0f0678bfa45d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1226408775,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226408775,
+    "wof:lastmodified":1537657931,
+    "wof:name":"Myeomal",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89317,
+    36.64676,
+    126.89317,
+    36.64676
+],
+  "geometry": {"coordinates":[126.89317,36.64676],"type":"Point"}
+}

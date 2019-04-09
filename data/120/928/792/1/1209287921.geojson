@@ -1,0 +1,65 @@
+{
+  "id": 1209287921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6195,35.61856,128.6195,35.61856",
+    "geom:latitude":35.61856,
+    "geom:longitude":128.6195,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Songwol",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903301,
+    "gn:latitude":35.61856,
+    "gn:longitude":128.6195,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songw\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\uc6d4",
+        "Songw\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903301
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f5756084f0bd836ed6eb5212f22a7578",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287921
+        }
+    ],
+    "wof:id":1209287921,
+    "wof:lastmodified":1537658843,
+    "wof:name":"Songwol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6195,
+    35.61855999999999,
+    128.6195,
+    35.61855999999999
+],
+  "geometry": {"coordinates":[128.61949999999999,35.61855999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310079595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.43149,35.59172,129.43149,35.59172",
+    "geom:latitude":35.59172,
+    "geom:longitude":129.43149,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gunam",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894547,
+    "gn:latitude":35.59172,
+    "gn:longitude":129.43149,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Gunam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub0a8"
+    ],
+    "name:und_x_variant":[
+        "Kunam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894547
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"61ccc303069a23c41a9155c4b88170cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746399,
+            "locality_id":1310079595,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1310079595,
+    "wof:lastmodified":1537656857,
+    "wof:name":"Gunam",
+    "wof:parent_id":1108746399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.43149,
+    35.59172,
+    129.43149,
+    35.59172
+],
+  "geometry": {"coordinates":[129.43149,35.59172],"type":"Point"}
+}

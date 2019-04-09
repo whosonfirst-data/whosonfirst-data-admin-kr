@@ -1,0 +1,71 @@
+{
+  "id": 1344022625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37276,35.32826,128.37276,35.32826",
+    "geom:latitude":35.32826,
+    "geom:longitude":128.37276,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Toksan",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898496,
+    "gn:latitude":35.32826,
+    "gn:longitude":128.37276,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Toksan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c5\uc0b0",
+        "Toksan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898496
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f966cac84f57d1f7e0ba3c8f85e07b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474513,
+            "locality_id":1344022625,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1344022625,
+    "wof:lastmodified":1537658719,
+    "wof:name":"Toksan",
+    "wof:parent_id":890474513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37276,
+    35.32826,
+    128.37276,
+    35.32826
+],
+  "geometry": {"coordinates":[128.37276,35.32826],"type":"Point"}
+}

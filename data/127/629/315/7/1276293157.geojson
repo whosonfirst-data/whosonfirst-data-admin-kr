@@ -1,0 +1,70 @@
+{
+  "id": 1276293157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.97305,35.33224,128.97305,35.33224",
+    "geom:latitude":35.33224,
+    "geom:longitude":128.97305,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Togyo",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11098352,
+    "gn:latitude":35.33224,
+    "gn:longitude":128.97305,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Togyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1a0\uad50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11098352
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d27b00f4b972e3bf16c4298e6b277169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1276293157,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276293157,
+    "wof:lastmodified":1537659157,
+    "wof:name":"Togyo",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.97305,
+    35.33224000000001,
+    128.97305,
+    35.33224000000001
+],
+  "geometry": {"coordinates":[128.97305,35.33224000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276761017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.47371,36.98512,127.47371,36.98512",
+    "geom:latitude":36.98512,
+    "geom:longitude":127.47371,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Banggeumi",
+    "gn:country_code":"KR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839315,
+    "gn:latitude":36.98512,
+    "gn:longitude":127.47371,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Banggeumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uae08\uc774"
+    ],
+    "name:und_x_variant":[
+        "Osang-ni",
+        "Pangg\u016dmi",
+        "Banggeumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839315
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7dcd61f827d5b5bf94e0ead1f3e919e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1276761017,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1276761017,
+    "wof:lastmodified":1537656338,
+    "wof:name":"Banggeumi",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.47371,
+    36.98512,
+    127.47371,
+    36.98512
+],
+  "geometry": {"coordinates":[127.47371,36.98512],"type":"Point"}
+}

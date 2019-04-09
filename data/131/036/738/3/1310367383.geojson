@@ -1,0 +1,71 @@
+{
+  "id": 1310367383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.345,36.2531,127.345,36.2531",
+    "geom:latitude":36.2531,
+    "geom:longitude":127.345,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Komundul",
+    "gn:country_code":"KR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888550,
+    "gn:latitude":36.2531,
+    "gn:longitude":127.345,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u014fmund\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac70\ubb38\ub4e4",
+        "K\u014fmund\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888550
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"208da36ef6c305660b160860ce155582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746515,
+            "locality_id":1310367383,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1310367383,
+    "wof:lastmodified":1537658428,
+    "wof:name":"Komundul",
+    "wof:parent_id":1108746515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.345,
+    36.2531,
+    127.345,
+    36.2531
+],
+  "geometry": {"coordinates":[127.345,36.2531],"type":"Point"}
+}

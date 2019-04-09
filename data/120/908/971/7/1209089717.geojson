@@ -1,0 +1,64 @@
+{
+  "id": 1209089717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.21662,36.59773,128.21662,36.59773",
+    "geom:latitude":36.59773,
+    "geom:longitude":128.21662,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Poha",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11267200,
+    "gn:latitude":36.59773,
+    "gn:longitude":128.21662,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Poha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3ec\ud558"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267200
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc82dcb3adc7e025b24e026c976552b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209089717
+        }
+    ],
+    "wof:id":1209089717,
+    "wof:lastmodified":1537659299,
+    "wof:name":"Poha",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.21662,
+    36.59773,
+    128.21662,
+    36.59773
+],
+  "geometry": {"coordinates":[128.21662000000001,36.59773],"type":"Point"}
+}

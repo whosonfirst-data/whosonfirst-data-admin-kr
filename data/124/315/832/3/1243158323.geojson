@@ -1,0 +1,70 @@
+{
+  "id": 1243158323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.47649,37.79902,127.47649,37.79902",
+    "geom:latitude":37.79902,
+    "geom:longitude":127.47649,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taebong",
+    "gn:country_code":"KR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8715718,
+    "gn:latitude":37.79902,
+    "gn:longitude":127.47649,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Taebong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0dc\ubd09"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8715718
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"75ead3c775994633f1d3066e26330cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1243158323,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243158323,
+    "wof:lastmodified":1537658908,
+    "wof:name":"Taebong",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.47648999999998,
+    37.79902,
+    127.47648999999998,
+    37.79902
+],
+  "geometry": {"coordinates":[127.47648999999998,37.79902],"type":"Point"}
+}

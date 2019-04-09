@@ -1,0 +1,65 @@
+{
+  "id": 1209070879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.91219,35.88252,127.91219,35.88252",
+    "geom:latitude":35.88252,
+    "geom:longitude":127.91219,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Changji",
+    "gn:country_code":"KR",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880049,
+    "gn:latitude":35.88252,
+    "gn:longitude":127.91219,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Changji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7a5\uc9c0",
+        "Changji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880049
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a27e269ea7131903469bba7e2ab9d9d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209070879
+        }
+    ],
+    "wof:id":1209070879,
+    "wof:lastmodified":1537658243,
+    "wof:name":"Changji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.91219,
+    35.88252,
+    127.91219,
+    35.88252
+],
+  "geometry": {"coordinates":[127.91219,35.88252],"type":"Point"}
+}

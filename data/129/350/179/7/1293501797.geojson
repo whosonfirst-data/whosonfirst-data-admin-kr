@@ -1,0 +1,76 @@
+{
+  "id": 1293501797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48333,35.23333,126.48333,35.23333",
+    "geom:latitude":35.23333,
+    "geom:longitude":126.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tongp'yon",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834168,
+    "gn:latitude":35.23333,
+    "gn:longitude":126.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tongp\u2019y\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ud3b8"
+    ],
+    "name:und_x_variant":[
+        "Tongby\u014fng-ri",
+        "Tongby\u014fn-ni",
+        "Tongp\u2019y\u014fn",
+        "Dongpyeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834168
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"83260ec3ed5d124ec7899a7084905817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473229,
+            "locality_id":1293501797,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293501797,
+    "wof:lastmodified":1537656072,
+    "wof:name":"Tongp'yon",
+    "wof:parent_id":890473229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48333,
+    35.23333,
+    126.48333,
+    35.23333
+],
+  "geometry": {"coordinates":[126.48333,35.23333],"type":"Point"}
+}

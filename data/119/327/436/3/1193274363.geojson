@@ -1,0 +1,71 @@
+{
+  "id": 1193274363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6749,36.4048,127.6749,36.4048",
+    "geom:latitude":36.4048,
+    "geom:longitude":127.6749,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Modan",
+    "gn:country_code":"KR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884817,
+    "gn:latitude":36.4048,
+    "gn:longitude":127.6749,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Modan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubabb\uc548",
+        "Modan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884817
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d7761fbfe73e64d042752f9cbeafb4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1193274363,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1193274363,
+    "wof:lastmodified":1537658342,
+    "wof:name":"Modan",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6749,
+    36.4048,
+    127.6749,
+    36.4048
+],
+  "geometry": {"coordinates":[127.67489999999999,36.4048],"type":"Point"}
+}

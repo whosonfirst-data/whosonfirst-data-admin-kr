@@ -1,0 +1,71 @@
+{
+  "id": 1276414637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.68532,35.5465,128.68532,35.5465",
+    "geom:latitude":35.5465,
+    "geom:longitude":128.68532,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sanghang",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903443,
+    "gn:latitude":35.5465,
+    "gn:longitude":128.68532,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanghang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\ud56d",
+        "Sanghang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903443
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6a9f51d925f331801a323752317bc4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472405,
+            "locality_id":1276414637,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276414637,
+    "wof:lastmodified":1537658850,
+    "wof:name":"Sanghang",
+    "wof:parent_id":890472405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.68532,
+    35.5465,
+    128.68532,
+    35.5465
+],
+  "geometry": {"coordinates":[128.68531999999999,35.5465],"type":"Point"}
+}

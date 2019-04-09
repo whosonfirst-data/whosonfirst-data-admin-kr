@@ -1,0 +1,71 @@
+{
+  "id": 1243430589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2276,36.473,127.2276,36.473",
+    "geom:latitude":36.473,
+    "geom:longitude":127.2276,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hyojeam",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888400,
+    "gn:latitude":36.473,
+    "gn:longitude":127.2276,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hyojeam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud6a8\uc81c\uc554",
+        "Hyojeam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888400
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2a04410867ab1734fbd1b1ab1424c81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1243430589,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1243430589,
+    "wof:lastmodified":1537658421,
+    "wof:name":"Hyojeam",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2276,
+    36.473,
+    127.2276,
+    36.473
+],
+  "geometry": {"coordinates":[127.2276,36.473],"type":"Point"}
+}

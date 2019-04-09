@@ -1,0 +1,71 @@
+{
+  "id": 1310675261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62117,35.55054,127.62117,35.55054",
+    "geom:latitude":35.55054,
+    "geom:longitude":127.62117,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chaegung",
+    "gn:country_code":"KR",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896631,
+    "gn:latitude":35.55054,
+    "gn:longitude":127.62117,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chaegung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7ac\uad81",
+        "Chaegung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896631
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9b8dad34c2b18c6f50224bc82161c88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472469,
+            "locality_id":1310675261,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1310675261,
+    "wof:lastmodified":1537658668,
+    "wof:name":"Chaegung",
+    "wof:parent_id":890472469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62117,
+    35.55054000000001,
+    127.62117,
+    35.55054000000001
+],
+  "geometry": {"coordinates":[127.62117000000001,35.55054000000001],"type":"Point"}
+}

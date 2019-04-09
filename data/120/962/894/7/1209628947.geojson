@@ -1,0 +1,66 @@
+{
+  "id": 1209628947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77222,33.41278,126.77222,33.41278",
+    "geom:latitude":33.41278,
+    "geom:longitude":126.77222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuryong-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841913,
+    "gn:latitude":33.41278,
+    "gn:longitude":126.77222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuryong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuyong-dong",
+        "Kuryong-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841913
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b06998055880a4dded350af78c84af54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209628947
+        }
+    ],
+    "wof:id":1209628947,
+    "wof:lastmodified":1537656468,
+    "wof:name":"Kuryong-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77222,
+    33.41278,
+    126.77222,
+    33.41278
+],
+  "geometry": {"coordinates":[126.77222,33.41278],"type":"Point"}
+}

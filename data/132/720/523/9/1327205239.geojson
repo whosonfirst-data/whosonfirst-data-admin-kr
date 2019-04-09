@@ -1,0 +1,78 @@
+{
+  "id": 1327205239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60447,37.13071,127.60447,37.13071",
+    "geom:latitude":37.13071,
+    "geom:longitude":127.60447,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bingjeong",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812918,
+    "gn:latitude":37.13071,
+    "gn:longitude":127.60447,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Bingjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc14\uae65\ud64d\uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ube59\uc815"
+    ],
+    "name:und_x_variant":[
+        "Bakkathongsi",
+        "Pakkathongsi",
+        "Bingjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812918
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c891e42568b4b3d82256dfd8d57e6071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1327205239,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327205239,
+    "wof:lastmodified":1537657992,
+    "wof:name":"Bingjeong",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60447,
+    37.13071,
+    127.60447,
+    37.13071
+],
+  "geometry": {"coordinates":[127.60447000000001,37.13071],"type":"Point"}
+}

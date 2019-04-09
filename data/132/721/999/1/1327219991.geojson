@@ -1,0 +1,76 @@
+{
+  "id": 1327219991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7314,37.82514,126.7314,37.82514",
+    "geom:latitude":37.82514,
+    "geom:longitude":126.7314,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Hansanri",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896434,
+    "gn:latitude":37.82514,
+    "gn:longitude":126.7314,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Hansanri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\uc0b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Hansal-li",
+        "Hansang-dong",
+        "Hansanri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896434
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"03ecee6be4e794a709bf31cb7bbdcfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1327219991,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327219991,
+    "wof:lastmodified":1537656900,
+    "wof:name":"Hansanri",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7314,
+    37.82514000000001,
+    126.7314,
+    37.82514000000001
+],
+  "geometry": {"coordinates":[126.73139999999999,37.82514000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343443035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26667,34.48333,126.26667,34.48333",
+    "geom:latitude":34.48333,
+    "geom:longitude":126.26667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kyodong-ni",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841636,
+    "gn:latitude":34.48333,
+    "gn:longitude":126.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kyodong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014f",
+        "Kyo",
+        "K\u014dd\u014d-ri",
+        "Kyodong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841636
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c28681367147ec3d2012dd02868a5177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1343443035,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343443035,
+    "wof:lastmodified":1537656453,
+    "wof:name":"Kyodong-ni",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26667,
+    34.48333,
+    126.26667,
+    34.48333
+],
+  "geometry": {"coordinates":[126.26667,34.48333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209607359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1118,37.4768,128.1118,37.4768",
+    "geom:latitude":37.4768,
+    "geom:longitude":128.1118,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samsil",
+    "gn:country_code":"KR",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796436,
+    "gn:latitude":37.4768,
+    "gn:longitude":128.1118,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Samsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796436
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bcea06df4c85394bed025dbca63ba225",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209607359
+        }
+    ],
+    "wof:id":1209607359,
+    "wof:lastmodified":1537657557,
+    "wof:name":"Samsil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1118,
+    37.4768,
+    128.1118,
+    37.4768
+],
+  "geometry": {"coordinates":[128.11179999999999,37.4768],"type":"Point"}
+}

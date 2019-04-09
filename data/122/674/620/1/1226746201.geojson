@@ -1,0 +1,74 @@
+{
+  "id": 1226746201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.35593,37.07547,128.35593,37.07547",
+    "geom:latitude":37.07547,
+    "geom:longitude":128.35593,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gaunbangdu",
+    "gn:country_code":"KR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794499,
+    "gn:latitude":37.07547,
+    "gn:longitude":128.35593,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Gaunbangdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc6b4\ubc29\ub450"
+    ],
+    "name:und_x_variant":[
+        "Kaunbangdu",
+        "Gaunbangdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794499
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"53a1fb269d4a91b203377d7f410b88f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1226746201,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226746201,
+    "wof:lastmodified":1537657498,
+    "wof:name":"Gaunbangdu",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.35593,
+    37.07547,
+    128.35593,
+    37.07547
+],
+  "geometry": {"coordinates":[128.35593,37.07547],"type":"Point"}
+}

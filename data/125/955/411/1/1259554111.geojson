@@ -1,0 +1,70 @@
+{
+  "id": 1259554111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.96523,36.69629,128.96523,36.69629",
+    "geom:latitude":36.69629,
+    "geom:longitude":128.96523,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Guseunberi",
+    "gn:country_code":"KR",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256603,
+    "gn:latitude":36.69629,
+    "gn:longitude":128.96523,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Guseunberi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad7f\uc740\ubca0\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256603
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c9f02debba8768d10e24b67c5717634d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1259554111,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259554111,
+    "wof:lastmodified":1537659298,
+    "wof:name":"Guseunberi",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.96523,
+    36.69629000000001,
+    128.96523,
+    36.69629000000001
+],
+  "geometry": {"coordinates":[128.96522999999999,36.69629000000001],"type":"Point"}
+}

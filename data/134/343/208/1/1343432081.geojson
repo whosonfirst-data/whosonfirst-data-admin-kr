@@ -1,0 +1,79 @@
+{
+  "id": 1343432081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58927,37.20881,127.58927,37.20881",
+    "geom:latitude":37.20881,
+    "geom:longitude":127.58927,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yangdalmal",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896909,
+    "gn:latitude":37.20881,
+    "gn:longitude":127.58927,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Yangdalmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc77c"
+    ],
+    "name:kor_x_variant":[
+        "\uc591\ub2ec\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Kwiil",
+        "Guil",
+        "Kuil",
+        "Yangdalmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896909
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4fbb91a818b974f215414d215658ee39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1343432081,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343432081,
+    "wof:lastmodified":1537656918,
+    "wof:name":"Yangdalmal",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58927,
+    37.20881,
+    127.58927,
+    37.20881
+],
+  "geometry": {"coordinates":[127.58927,37.20881],"type":"Point"}
+}

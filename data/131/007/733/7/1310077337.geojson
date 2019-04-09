@@ -1,0 +1,73 @@
+{
+  "id": 1310077337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6275,34.63694,127.6275,34.63694",
+    "geom:latitude":34.63694,
+    "geom:longitude":127.6275,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sepo",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837393,
+    "gn:latitude":34.63694,
+    "gn:longitude":127.6275,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sepo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc138\ud3ec"
+    ],
+    "name:und_x_variant":[
+        "Sep\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837393
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"209b2bc5f5c1561da8e14df1af9ac065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1310077337,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310077337,
+    "wof:lastmodified":1537656234,
+    "wof:name":"Sepo",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6275,
+    34.63694,
+    127.6275,
+    34.63694
+],
+  "geometry": {"coordinates":[127.6275,34.63694],"type":"Point"}
+}

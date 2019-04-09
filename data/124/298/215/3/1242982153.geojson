@@ -1,0 +1,72 @@
+{
+  "id": 1242982153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.42386,35.52253,127.42386,35.52253",
+    "geom:latitude":35.52253,
+    "geom:longitude":127.42386,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sop-kol",
+    "gn:country_code":"KR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876804,
+    "gn:latitude":35.52253,
+    "gn:longitude":127.42386,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fp-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc12d\uace8",
+        "S\u014fp-kol",
+        "Seopgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876804
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dc833998a9fcf987454a9a7c815c13b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475797,
+            "locality_id":1242982153,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1242982153,
+    "wof:lastmodified":1537658150,
+    "wof:name":"Sop-kol",
+    "wof:parent_id":890475797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.42386,
+    35.52253,
+    127.42386,
+    35.52253
+],
+  "geometry": {"coordinates":[127.42386,35.52253],"type":"Point"}
+}

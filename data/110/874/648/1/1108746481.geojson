@@ -1,0 +1,72 @@
+{
+  "id": 1108746481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000743,
+    "geom:area_square_m":7442308.43632,
+    "geom:bbox":"128.575054559,35.8553038948,128.615629795,35.8802721362",
+    "geom:latitude":35.867748,
+    "geom:longitude":128.59517,
+    "iso:country":"KR",
+    "lbl:latitude":35.867906,
+    "lbl:longitude":128.598841,
+    "meso:admin_1_en":"Daegu",
+    "meso:admin_1_lo":"\ub300\uad6c\uad11\uc5ed\uc2dc",
+    "meso:diss_me":"Jung-guDaegu",
+    "meso:gadm_admin":"Buk",
+    "meso:local_id":"22010",
+    "meso:mps_x":128.598841,
+    "meso:mps_y":35.867906,
+    "meso:name_en":"Jung-gu",
+    "meso:name_local":"\uc911\uad6c",
+    "meso:source":"AOTM",
+    "mps:latitude":35.867906,
+    "mps:longitude":128.598841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Buk"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\uad6c"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1479154715,
+    "wof:geomhash":"1cdef68bd01a18a8002fe4b593db803b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746481,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1108746481,
+    "wof:lastmodified":1512517023,
+    "wof:name":"Jung-gu",
+    "wof:parent_id":85673213,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57505455906278,
+    35.85530389477577,
+    128.61562979501488,
+    35.88027213619031
+],
+  "geometry": {"coordinates":[[[128.58204996998126,35.87988753530266],[128.59438605958232,35.87741070206481],[128.59797817607472,35.87990880930928],[128.59860304745013,35.88027213619031],[128.6049592405648,35.87657257137992],[128.6117330751882,35.87681494527221],[128.61562979501488,35.86896410251769],[128.61267799359391,35.86356694604557],[128.6112076919193,35.86213714191818],[128.60969080988232,35.85530389477577],[128.60318124335268,35.85614175835492],[128.59908070869787,35.85550626980152],[128.59287032645756,35.85998099483005],[128.59081225570068,35.86023975074187],[128.58742482338806,35.8572705419753],[128.57686301488545,35.8589868503332],[128.57505455906278,35.86189203770528],[128.57793485586342,35.87175043122778],[128.57736685916603,35.87390183792053],[128.58204996998126,35.87988753530266]]],"type":"Polygon"}
+}

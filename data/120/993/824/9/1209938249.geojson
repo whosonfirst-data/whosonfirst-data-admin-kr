@@ -1,0 +1,73 @@
+{
+  "id": 1209938249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.95923,37.76426,127.95923,37.76426",
+    "geom:latitude":37.76426,
+    "geom:longitude":127.95923,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ilgeon",
+    "gn:country_code":"KR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6814337,
+    "gn:latitude":37.76426,
+    "gn:longitude":127.95923,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ilgeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc77c\uac74"
+    ],
+    "name:kor_x_variant":[
+        "Ilg\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6814337
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bc9836a9343797c01ed78f1bbe9dd1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1209938249,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209938249,
+    "wof:lastmodified":1537658048,
+    "wof:name":"Ilgeon",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.95923,
+    37.76426,
+    127.95923,
+    37.76426
+],
+  "geometry": {"coordinates":[127.95923000000001,37.76426],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210023419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96667,36.13333,126.96667,36.13333",
+    "geom:latitude":36.13333,
+    "geom:longitude":126.96667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chara",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846309,
+    "gn:latitude":36.13333,
+    "gn:longitude":126.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chara-ri",
+        "Chara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890476057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846309
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8ab16fee6c4471278de934b7284fb269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476057,
+            "locality_id":1210023419,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1210023419,
+    "wof:lastmodified":1537656693,
+    "wof:name":"Chara",
+    "wof:parent_id":890476057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96667,
+    36.13333,
+    126.96667,
+    36.13333
+],
+  "geometry": {"coordinates":[126.96666999999999,36.13333],"type":"Point"}
+}

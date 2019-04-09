@@ -1,0 +1,77 @@
+{
+  "id": 1293755503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58826,34.88212,126.58826,34.88212",
+    "geom:latitude":34.88212,
+    "geom:longitude":126.58826,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gaesan",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843399,
+    "gn:latitude":34.88212,
+    "gn:longitude":126.58826,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Gaesan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Tangmoe-ri",
+        "Kyesan-ni",
+        "Kyesan",
+        "Kaesan",
+        "Gaesan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843399
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"38eca916d1307650fd56fcdcb875c56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1293755503,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293755503,
+    "wof:lastmodified":1537656547,
+    "wof:name":"Gaesan",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58826,
+    34.88212,
+    126.58826,
+    34.88212
+],
+  "geometry": {"coordinates":[126.58826000000001,34.88212],"type":"Point"}
+}

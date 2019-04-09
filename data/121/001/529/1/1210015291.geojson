@@ -1,0 +1,74 @@
+{
+  "id": 1210015291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23562,37.04829,128.23562,37.04829",
+    "geom:latitude":37.04829,
+    "geom:longitude":128.23562,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Witmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795223,
+    "gn:latitude":37.04829,
+    "gn:longitude":128.23562,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Witmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba38\ub290\uc2e4"
+    ],
+    "name:kor_x_variant":[
+        "M\u014fn\u016dsil",
+        "\uc717\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795223
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"25da693ad05b9d8fd4a37fb91a41176c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1210015291,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1210015291,
+    "wof:lastmodified":1537657520,
+    "wof:name":"Witmaeul",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23561999999998,
+    37.04829,
+    128.23561999999998,
+    37.04829
+],
+  "geometry": {"coordinates":[128.23561999999998,37.04829],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343525323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82342,34.434,126.82342,34.434",
+    "geom:latitude":34.434,
+    "geom:longitude":126.82342,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jungchon",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395045,
+    "gn:latitude":34.434,
+    "gn:longitude":126.82342,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Jungchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Chungch\u2019on"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395045
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d47d90229e80839d635b4dd9f6543bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1343525323,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343525323,
+    "wof:lastmodified":1537657150,
+    "wof:name":"Jungchon",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82342,
+    34.434,
+    126.82342,
+    34.434
+],
+  "geometry": {"coordinates":[126.82342,34.434],"type":"Point"}
+}

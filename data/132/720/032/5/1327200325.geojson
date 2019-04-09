@@ -1,0 +1,70 @@
+{
+  "id": 1327200325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87735,36.75012,126.87735,36.75012",
+    "geom:latitude":36.75012,
+    "geom:longitude":126.87735,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hwahammaeul",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10249548,
+    "gn:latitude":36.75012,
+    "gn:longitude":126.87735,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Hwahammaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\ud569\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10249548
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed695a6ad00b33dc5b003d5fd90b7151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1327200325,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1327200325,
+    "wof:lastmodified":1537658996,
+    "wof:name":"Hwahammaeul",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87735,
+    36.75012,
+    126.87735,
+    36.75012
+],
+  "geometry": {"coordinates":[126.87735000000001,36.75012],"type":"Point"}
+}

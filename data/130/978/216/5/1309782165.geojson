@@ -1,0 +1,75 @@
+{
+  "id": 1309782165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97023,36.64697,126.97023,36.64697",
+    "geom:latitude":36.64697,
+    "geom:longitude":126.97023,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soraetjeol",
+    "gn:country_code":"KR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835911,
+    "gn:latitude":36.64697,
+    "gn:longitude":126.97023,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Soraetjeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\ub7ab\uc808"
+    ],
+    "name:und_x_variant":[
+        "Sogong-ni",
+        "Soritch\u014fl",
+        "Soraetjeol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835911
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2c78d5772dcd27c7981d15603c986d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1309782165,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1309782165,
+    "wof:lastmodified":1537656161,
+    "wof:name":"Soraetjeol",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97023,
+    36.64697,
+    126.97023,
+    36.64697
+],
+  "geometry": {"coordinates":[126.97023,36.64697],"type":"Point"}
+}

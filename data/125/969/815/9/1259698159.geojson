@@ -1,0 +1,72 @@
+{
+  "id": 1259698159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6,34.6,127.6,34.6",
+    "geom:latitude":34.6,
+    "geom:longitude":127.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sanghwa",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837748,
+    "gn:latitude":34.6,
+    "gn:longitude":127.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanghwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanghwa-ri",
+        "Sanghwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837748
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f69dc658be54e17f424d59fb8ef34ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1259698159,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259698159,
+    "wof:lastmodified":1537656254,
+    "wof:name":"Sanghwa",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6,
+    34.6,
+    127.6,
+    34.6
+],
+  "geometry": {"coordinates":[127.59999999999999,34.6],"type":"Point"}
+}

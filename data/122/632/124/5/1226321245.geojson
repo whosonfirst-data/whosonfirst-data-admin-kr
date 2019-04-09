@@ -1,0 +1,75 @@
+{
+  "id": 1226321245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.07528,35.0725,129.07528,35.0725",
+    "geom:latitude":35.0725,
+    "geom:longitude":129.07528,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tongsam-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834166,
+    "gn:latitude":35.0725,
+    "gn:longitude":129.07528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tongsam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagukuyon",
+        "T\u014dsan-ri",
+        "Tongsam-ni",
+        "T\u014dsan-d\u014d",
+        "Tongsam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890475321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834166
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0e09113dd82bca9e2eba04d09700c6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475321,
+            "locality_id":1226321245,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1226321245,
+    "wof:lastmodified":1537656071,
+    "wof:name":"Tongsam-dong",
+    "wof:parent_id":890475321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.07528,
+    35.0725,
+    129.07528,
+    35.0725
+],
+  "geometry": {"coordinates":[129.07527999999999,35.0725],"type":"Point"}
+}

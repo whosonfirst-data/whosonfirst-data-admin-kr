@@ -1,0 +1,70 @@
+{
+  "id": 1226464277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22322,38.22349,127.22322,38.22349",
+    "geom:latitude":38.22349,
+    "geom:longitude":127.22322,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Woegadong",
+    "gn:country_code":"KR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9864107,
+    "gn:latitude":38.22349,
+    "gn:longitude":127.22322,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Woegadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\uac00\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9864107
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3be9909a93f70d0fb5f7ef04feaa1015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1226464277,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226464277,
+    "wof:lastmodified":1537658947,
+    "wof:name":"Woegadong",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22322,
+    38.22349000000001,
+    127.22322,
+    38.22349000000001
+],
+  "geometry": {"coordinates":[127.22322,38.22349000000001],"type":"Point"}
+}

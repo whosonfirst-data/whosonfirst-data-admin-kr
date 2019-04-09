@@ -1,0 +1,74 @@
+{
+  "id": 1309876917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.08833,37.04556,127.08833,37.04556",
+    "geom:latitude":37.04556,
+    "geom:longitude":127.08833,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Banghye",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839304,
+    "gn:latitude":37.04556,
+    "gn:longitude":127.08833,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Banghye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panghye-ri",
+        "\ubc29\ud61c",
+        "Banghye",
+        "Panghye-dong",
+        "Panghye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839304
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d852f0951ec0886482a3559efbfc6b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1309876917,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309876917,
+    "wof:lastmodified":1537656337,
+    "wof:name":"Banghye",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.08833,
+    37.04556,
+    127.08833,
+    37.04556
+],
+  "geometry": {"coordinates":[127.08833,37.04556],"type":"Point"}
+}

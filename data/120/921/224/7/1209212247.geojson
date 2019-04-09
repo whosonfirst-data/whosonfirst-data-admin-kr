@@ -1,0 +1,64 @@
+{
+  "id": 1209212247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.56426,38.24951,128.56426,38.24951",
+    "geom:latitude":38.24951,
+    "geom:longitude":128.56426,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bonghyeolli",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9808775,
+    "gn:latitude":38.24951,
+    "gn:longitude":128.56426,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Bonghyeolli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\ud604\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9808775
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3d9c49affcfbb4e00b208c65a09443f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209212247
+        }
+    ],
+    "wof:id":1209212247,
+    "wof:lastmodified":1537658945,
+    "wof:name":"Bonghyeolli",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.56426000000002,
+    38.24951,
+    128.56426000000002,
+    38.24951
+],
+  "geometry": {"coordinates":[128.56426000000002,38.24951],"type":"Point"}
+}

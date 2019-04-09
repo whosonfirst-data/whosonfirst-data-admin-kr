@@ -1,0 +1,73 @@
+{
+  "id": 1260253129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.53759,36.62305,128.53759,36.62305",
+    "geom:latitude":36.62305,
+    "geom:longitude":128.53759,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gamae",
+    "gn:country_code":"KR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895173,
+    "gn:latitude":36.62305,
+    "gn:longitude":128.53759,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Gamae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac10\uc560"
+    ],
+    "name:und_x_variant":[
+        "Kamae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895173
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7783d56aa9640f2ddf05163648a9d8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1260253129,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260253129,
+    "wof:lastmodified":1537656879,
+    "wof:name":"Gamae",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.53759,
+    36.62305,
+    128.53759,
+    36.62305
+],
+  "geometry": {"coordinates":[128.53758999999999,36.62305],"type":"Point"}
+}

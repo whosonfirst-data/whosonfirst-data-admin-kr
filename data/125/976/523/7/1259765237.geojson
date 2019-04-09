@@ -1,0 +1,75 @@
+{
+  "id": 1259765237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64722,34.36444,126.64722,34.36444",
+    "geom:latitude":34.36444,
+    "geom:longitude":126.64722,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Galmulli",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843271,
+    "gn:latitude":34.36444,
+    "gn:longitude":126.64722,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Galmulli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\ubb3c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kalmun-ni",
+        "Kalmul-li",
+        "Galmulli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843271
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a6b8a5bc61c0b330254f4ed2fd0e3456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1259765237,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259765237,
+    "wof:lastmodified":1537656540,
+    "wof:name":"Galmulli",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64722,
+    34.36444,
+    126.64722,
+    34.36444
+],
+  "geometry": {"coordinates":[126.64722,34.36444],"type":"Point"}
+}

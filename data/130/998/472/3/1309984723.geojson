@@ -1,0 +1,67 @@
+{
+  "id": 1309984723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.02861,35.23417,129.02861,35.23417",
+    "geom:latitude":35.23417,
+    "geom:longitude":129.02861,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hwamyong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894030,
+    "gn:latitude":35.23417,
+    "gn:longitude":129.02861,
+    "gn:modification_date":"2004-05-06",
+    "gn:name":"Hwamy\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        1108746393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894030
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cba04fb07c7c257cf17016a6bc5405f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746393,
+            "locality_id":1309984723,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1309984723,
+    "wof:lastmodified":1536673268,
+    "wof:name":"Hwamyong-dong",
+    "wof:parent_id":1108746393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.02861,
+    35.23417,
+    129.02861,
+    35.23417
+],
+  "geometry": {"coordinates":[129.02860999999999,35.23417],"type":"Point"}
+}

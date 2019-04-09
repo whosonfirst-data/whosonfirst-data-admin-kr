@@ -1,0 +1,71 @@
+{
+  "id": 1309872173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.712,36.7288,126.712,36.7288",
+    "geom:latitude":36.7288,
+    "geom:longitude":126.712,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kunmuru",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809230,
+    "gn:latitude":36.7288,
+    "gn:longitude":126.712,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kunmuru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad70\ubb34\ub8e8",
+        "Kunmuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809230
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"95aa8270d90faa1b8e0fc086338c8283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1309872173,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1309872173,
+    "wof:lastmodified":1537657866,
+    "wof:name":"Kunmuru",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.712,
+    36.7288,
+    126.712,
+    36.7288
+],
+  "geometry": {"coordinates":[126.712,36.7288],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209079667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.25876,36.52849,128.25876,36.52849",
+    "geom:latitude":36.52849,
+    "geom:longitude":128.25876,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyejimmak",
+    "gn:country_code":"KR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11267519,
+    "gn:latitude":36.52849,
+    "gn:longitude":128.25876,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Gyejimmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacc4\uc9d1\ub9c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267519
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3c2ac4e27e7038b339e3fde4c91bdea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209079667
+        }
+    ],
+    "wof:id":1209079667,
+    "wof:lastmodified":1537659300,
+    "wof:name":"Gyejimmak",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.25876,
+    36.52849000000001,
+    128.25876,
+    36.52849000000001
+],
+  "geometry": {"coordinates":[128.25876,36.52849000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310169329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53113,34.87632,127.53113,34.87632",
+    "geom:latitude":34.87632,
+    "geom:longitude":127.53113,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gyedang",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881866,
+    "gn:latitude":34.87632,
+    "gn:longitude":127.53113,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Gyedang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacc4\ub2f9"
+    ],
+    "name:und_x_variant":[
+        "Kedang",
+        "Kyedang",
+        "Gyedang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881866
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b493347c23ed3a5a7d42fabd5773997f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1310169329,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310169329,
+    "wof:lastmodified":1537656746,
+    "wof:name":"Gyedang",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53113,
+    34.87632,
+    127.53113,
+    34.87632
+],
+  "geometry": {"coordinates":[127.53113,34.87632],"type":"Point"}
+}

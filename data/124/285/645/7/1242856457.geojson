@@ -1,0 +1,73 @@
+{
+  "id": 1242856457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04982,34.67524,127.04982,34.67524",
+    "geom:latitude":34.67524,
+    "geom:longitude":127.04982,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mowon",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840985,
+    "gn:latitude":34.67524,
+    "gn:longitude":127.04982,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Mowon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\uc6d0"
+    ],
+    "name:kor_x_variant":[
+        "Mow\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840985
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3360086733878b21a7a8479eee37198b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1242856457,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242856457,
+    "wof:lastmodified":1537656422,
+    "wof:name":"Mowon",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04982,
+    34.67524,
+    127.04982,
+    34.67524
+],
+  "geometry": {"coordinates":[127.04982,34.67524],"type":"Point"}
+}

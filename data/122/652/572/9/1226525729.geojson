@@ -1,0 +1,70 @@
+{
+  "id": 1226525729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.96156,36.64275,128.96156,36.64275",
+    "geom:latitude":36.64275,
+    "geom:longitude":128.96156,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Geumsucheon",
+    "gn:country_code":"KR",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256594,
+    "gn:latitude":36.64275,
+    "gn:longitude":128.96156,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Geumsucheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uc218\ucc9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256594
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a340df440a91630fea1fdaaeb548b4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1226525729,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226525729,
+    "wof:lastmodified":1537659298,
+    "wof:name":"Geumsucheon",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.96156000000002,
+    36.64275,
+    128.96156000000002,
+    36.64275
+],
+  "geometry": {"coordinates":[128.96156000000002,36.64275],"type":"Point"}
+}

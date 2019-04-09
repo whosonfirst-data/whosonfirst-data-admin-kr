@@ -1,0 +1,72 @@
+{
+  "id": 1276312021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4375,37.39167,127.4375,37.39167",
+    "geom:latitude":37.39167,
+    "geom:longitude":127.4375,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Heukseogi",
+    "gn:country_code":"KR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577756,
+    "gn:latitude":37.39167,
+    "gn:longitude":127.4375,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Heukseogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud751\uc11d\uc774",
+        "Heukseogi",
+        "H\u016dks\u014fgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577756
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f75836105fccc5fc27e37594c3cf61a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1276312021,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276312021,
+    "wof:lastmodified":1537657387,
+    "wof:name":"Heukseogi",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4375,
+    37.39167,
+    127.4375,
+    37.39167
+],
+  "geometry": {"coordinates":[127.4375,37.39167],"type":"Point"}
+}

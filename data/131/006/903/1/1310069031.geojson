@@ -1,0 +1,76 @@
+{
+  "id": 1310069031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.94761,36.71325,126.94761,36.71325",
+    "geom:latitude":36.71325,
+    "geom:longitude":126.94761,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Jirye",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845988,
+    "gn:latitude":36.71325,
+    "gn:longitude":126.94761,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Jirye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ub840"
+    ],
+    "name:und_x_variant":[
+        "China-ri",
+        "Chira-ri",
+        "Chirye",
+        "Jirye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845988
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"da7235574dedb9de6fb38ea8ce68590d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1310069031,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310069031,
+    "wof:lastmodified":1537656677,
+    "wof:name":"Jirye",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.94761,
+    36.71325,
+    126.94761,
+    36.71325
+],
+  "geometry": {"coordinates":[126.94761,36.71325],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193119247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43488,34.88195,127.43488,34.88195",
+    "geom:latitude":34.88195,
+    "geom:longitude":127.43488,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Daeryeo",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684781,
+    "gn:latitude":34.88195,
+    "gn:longitude":127.43488,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Daeryeo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ub824"
+    ],
+    "name:kor_x_variant":[
+        "Taery\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684781
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f4942a2f3d8e29afc27a120ef530b994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1193119247,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193119247,
+    "wof:lastmodified":1537657427,
+    "wof:name":"Daeryeo",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43488,
+    34.88195,
+    127.43488,
+    34.88195
+],
+  "geometry": {"coordinates":[127.43488000000001,34.88195],"type":"Point"}
+}

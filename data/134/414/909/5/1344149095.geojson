@@ -1,0 +1,70 @@
+{
+  "id": 1344149095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33409,38.23019,127.33409,38.23019",
+    "geom:latitude":38.23019,
+    "geom:longitude":127.33409,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Galgol",
+    "gn:country_code":"KR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866068,
+    "gn:latitude":38.23019,
+    "gn:longitude":127.33409,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Galgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866068
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2e88769e4e1cc20fea7bddf674d99ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1344149095,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1344149095,
+    "wof:lastmodified":1537658955,
+    "wof:name":"Galgol",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33409,
+    38.23019,
+    127.33409,
+    38.23019
+],
+  "geometry": {"coordinates":[127.33409,38.23019],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326651859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04222,38.11944,128.04222,38.11944",
+    "geom:latitude":38.11944,
+    "geom:longitude":128.04222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yongha-ri",
+    "gn:country_code":"KR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832474,
+    "gn:latitude":38.11944,
+    "gn:longitude":128.04222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ud558\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ryuka-ri",
+        "Yonghang-ri",
+        "Yongha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890474685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832474
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"04e369f578d717d40a42492ce2705d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474685,
+            "locality_id":1326651859,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1326651859,
+    "wof:lastmodified":1537655980,
+    "wof:name":"Yongha-ri",
+    "wof:parent_id":890474685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04222,
+    38.11944,
+    128.04222,
+    38.11944
+],
+  "geometry": {"coordinates":[128.04221999999999,38.11944],"type":"Point"}
+}

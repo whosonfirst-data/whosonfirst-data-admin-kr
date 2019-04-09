@@ -1,0 +1,78 @@
+{
+  "id": 1310377161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53556,34.46222,126.53556,34.46222",
+    "geom:latitude":34.46222,
+    "geom:longitude":126.53556,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hagui",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844686,
+    "gn:latitude":34.46222,
+    "gn:longitude":126.53556,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Hagui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\uc758"
+    ],
+    "name:kor_x_variant":[
+        "Hag\u016di"
+    ],
+    "name:und_x_variant":[
+        "Hag\u016di-ri",
+        "Hag\u016d-ri",
+        "Hagui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844686
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"79b2ab04cbee0b6072279533443fc49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1310377161,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310377161,
+    "wof:lastmodified":1537656611,
+    "wof:name":"Hagui",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53556,
+    34.46222,
+    126.53556,
+    34.46222
+],
+  "geometry": {"coordinates":[126.53556,34.46222],"type":"Point"}
+}

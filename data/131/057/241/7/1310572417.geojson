@@ -1,0 +1,74 @@
+{
+  "id": 1310572417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6506,37.72474,126.6506,37.72474",
+    "geom:latitude":37.72474,
+    "geom:longitude":126.6506,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ojeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364120,
+    "gn:latitude":37.72474,
+    "gn:longitude":126.6506,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Ojeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uc815"
+    ],
+    "name:kor_x_variant":[
+        "Oj\u014fng",
+        "\uc624\uc815\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364120
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e13db91eeb277413a574d31acb4cdf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472445,
+            "locality_id":1310572417,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310572417,
+    "wof:lastmodified":1537657068,
+    "wof:name":"Ojeongdong",
+    "wof:parent_id":890472445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6506,
+    37.72474,
+    126.6506,
+    37.72474
+],
+  "geometry": {"coordinates":[126.6506,37.72474],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343626221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.83269,35.21964,128.83269,35.21964",
+    "geom:latitude":35.21964,
+    "geom:longitude":128.83269,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sindap",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11115798,
+    "gn:latitude":35.21964,
+    "gn:longitude":128.83269,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Sindap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub2f5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11115798
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cb57e1ec191eea54e1a2067dee2161ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475303,
+            "locality_id":1343626221,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343626221,
+    "wof:lastmodified":1537659164,
+    "wof:name":"Sindap",
+    "wof:parent_id":890475303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.83269,
+    35.21964000000001,
+    128.83269,
+    35.21964000000001
+],
+  "geometry": {"coordinates":[128.83269000000001,35.21964000000001],"type":"Point"}
+}

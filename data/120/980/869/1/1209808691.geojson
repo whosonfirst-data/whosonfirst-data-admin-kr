@@ -1,0 +1,73 @@
+{
+  "id": 1209808691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.70884,37.04318,127.70884,37.04318",
+    "geom:latitude":37.04318,
+    "geom:longitude":127.70884,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Allakgol",
+    "gn:country_code":"KR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813118,
+    "gn:latitude":37.04318,
+    "gn:longitude":127.70884,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Allakgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\ub77d\uace8"
+    ],
+    "name:und_x_variant":[
+        "Allak-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813118
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"23fd86953fa26270e66c74148cf81e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1209808691,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1209808691,
+    "wof:lastmodified":1537658003,
+    "wof:name":"Allakgol",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.70884,
+    37.04318,
+    127.70884,
+    37.04318
+],
+  "geometry": {"coordinates":[127.70884,37.04318],"type":"Point"}
+}

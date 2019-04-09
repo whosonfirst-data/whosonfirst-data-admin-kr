@@ -1,0 +1,71 @@
+{
+  "id": 1276627619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40412,35.76177,128.40412,35.76177",
+    "geom:latitude":35.76177,
+    "geom:longitude":128.40412,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Unari",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900774,
+    "gn:latitude":35.76177,
+    "gn:longitude":128.40412,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Unari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6b0\ub098\ub9ac",
+        "Unari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900774
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b498c6e5f15299ee2d85066d0fbc7ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1276627619,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1276627619,
+    "wof:lastmodified":1537658777,
+    "wof:name":"Unari",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40412,
+    35.76177,
+    128.40412,
+    35.76177
+],
+  "geometry": {"coordinates":[128.40412000000001,35.76177],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259647545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23922,34.91801,126.23922,34.91801",
+    "geom:latitude":34.91801,
+    "geom:longitude":126.23922,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Teojinmok",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841504,
+    "gn:latitude":34.91801,
+    "gn:longitude":126.23922,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Teojinmok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud130\uc9c4\ubaa9"
+    ],
+    "name:und_x_variant":[
+        "Maehwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841504
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"745d062f9fe2d21bfa4c2db1f50bb087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1259647545,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259647545,
+    "wof:lastmodified":1537656448,
+    "wof:name":"Teojinmok",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23922,
+    34.91801,
+    126.23922,
+    34.91801
+],
+  "geometry": {"coordinates":[126.23922,34.91801],"type":"Point"}
+}

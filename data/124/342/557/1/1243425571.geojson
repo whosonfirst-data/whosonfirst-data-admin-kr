@@ -1,0 +1,70 @@
+{
+  "id": 1243425571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05057,37.94424,127.05057,37.94424",
+    "geom:latitude":37.94424,
+    "geom:longitude":127.05057,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hwangateo",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11327600,
+    "gn:latitude":37.94424,
+    "gn:longitude":127.05057,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Hwangateo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud669\uc544\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11327600
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6dcd937c7d0526ebf236796fc13d497b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476241,
+            "locality_id":1243425571,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243425571,
+    "wof:lastmodified":1537659327,
+    "wof:name":"Hwangateo",
+    "wof:parent_id":890476241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05057,
+    37.94424,
+    127.05057,
+    37.94424
+],
+  "geometry": {"coordinates":[127.05056999999999,37.94424],"type":"Point"}
+}

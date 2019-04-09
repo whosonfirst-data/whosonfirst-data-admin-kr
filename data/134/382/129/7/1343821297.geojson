@@ -1,0 +1,70 @@
+{
+  "id": 1343821297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28515,36.70773,127.28515,36.70773",
+    "geom:latitude":36.70773,
+    "geom:longitude":127.28515,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hansin",
+    "gn:country_code":"KR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349045,
+    "gn:latitude":36.70773,
+    "gn:longitude":127.28515,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hansin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\uc2e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349045
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"58df8e3823b2939690d764965d8938fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746431,
+            "locality_id":1343821297,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343821297,
+    "wof:lastmodified":1537659019,
+    "wof:name":"Hansin",
+    "wof:parent_id":1108746431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28515,
+    36.70773,
+    127.28515,
+    36.70773
+],
+  "geometry": {"coordinates":[127.28515,36.70773],"type":"Point"}
+}

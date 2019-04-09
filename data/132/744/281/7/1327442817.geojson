@@ -1,0 +1,67 @@
+{
+  "id": 1327442817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74056,35.66556,126.74056,35.66556",
+    "geom:latitude":35.66556,
+    "geom:longitude":126.74056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tongnim-ni",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885896,
+    "gn:latitude":35.66556,
+    "gn:longitude":126.74056,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"T\u014fngnim-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885896
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e80236d4e916899e52a8a34ffd50a234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475783,
+            "locality_id":1327442817,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1327442817,
+    "wof:lastmodified":1536665725,
+    "wof:name":"Tongnim-ni",
+    "wof:parent_id":890475783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74056000000002,
+    35.66556,
+    126.74056000000002,
+    35.66556
+],
+  "geometry": {"coordinates":[126.74056000000002,35.66556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226321241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.03694,35.08861,129.03694,35.08861",
+    "geom:latitude":35.08861,
+    "geom:longitude":129.03694,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yongson-dong",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979393,
+    "gn:latitude":35.08861,
+    "gn:longitude":129.03694,
+    "gn:modification_date":"2004-05-26",
+    "gn:name":"Y\u014fngs\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890475321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979393
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b9579aed81a55d2e3313cbdbef466311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475321,
+            "locality_id":1226321241,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1226321241,
+    "wof:lastmodified":1536823970,
+    "wof:name":"Yongson-dong",
+    "wof:parent_id":890475321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.03694,
+    35.08861,
+    129.03694,
+    35.08861
+],
+  "geometry": {"coordinates":[129.03693999999999,35.08861],"type":"Point"}
+}

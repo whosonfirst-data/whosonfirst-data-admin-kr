@@ -1,0 +1,73 @@
+{
+  "id": 1360064389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.27027,37.97289,127.27027,37.97289",
+    "geom:latitude":37.97289,
+    "geom:longitude":127.27027,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kumju-ri",
+    "gn:country_code":"KR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1842196,
+    "gn:latitude":37.97289,
+    "gn:longitude":127.27027,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u016dmju-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uc8fc\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "K\u016dmju-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842196
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"993ad5c8f7a340eb22217ed8316803aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1360064389,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360064389,
+    "wof:lastmodified":1537656484,
+    "wof:name":"Kumju-ri",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.27027,
+    37.97289,
+    127.27027,
+    37.97289
+],
+  "geometry": {"coordinates":[127.27027,37.97289],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226112899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.31923,35.71195,129.31923,35.71195",
+    "geom:latitude":35.71195,
+    "geom:longitude":129.31923,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sungeum",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835624,
+    "gn:latitude":35.71195,
+    "gn:longitude":129.31923,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Sungeum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc21c\uae08"
+    ],
+    "name:und_x_variant":[
+        "Sun\u2019g\u016dm-ni",
+        "Sun\u2019gae-ni",
+        "Sun\u2019g\u016dm",
+        "Sungeum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835624
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3f75d2de2d5a0ac998f61129aa83ff90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1226112899,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226112899,
+    "wof:lastmodified":1537656147,
+    "wof:name":"Sungeum",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.31923,
+    35.71195,
+    129.31923,
+    35.71195
+],
+  "geometry": {"coordinates":[129.31923,35.71195],"type":"Point"}
+}

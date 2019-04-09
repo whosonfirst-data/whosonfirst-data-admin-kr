@@ -1,0 +1,72 @@
+{
+  "id": 1242656563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0395,37.80327,127.0395,37.80327",
+    "geom:latitude":37.80327,
+    "geom:longitude":127.0395,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Eumdalmal",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799501,
+    "gn:latitude":37.80327,
+    "gn:longitude":127.0395,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Eumdalmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc74c\ub2ec\ub9d0",
+        "\u016cmdal-mal",
+        "Eumdalmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799501
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f3904a00f6ffbba5f4afb49b4418f3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1242656563,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242656563,
+    "wof:lastmodified":1537657641,
+    "wof:name":"Eumdalmal",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0395,
+    37.80327,
+    127.0395,
+    37.80327
+],
+  "geometry": {"coordinates":[127.0395,37.80327],"type":"Point"}
+}

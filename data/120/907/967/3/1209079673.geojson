@@ -1,0 +1,65 @@
+{
+  "id": 1209079673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.05542,37.05917,129.05542,37.05917",
+    "geom:latitude":37.05917,
+    "geom:longitude":129.05542,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pamsil",
+    "gn:country_code":"KR",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808166,
+    "gn:latitude":37.05917,
+    "gn:longitude":129.05542,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pamsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc24\uc2e4",
+        "Pamsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808166
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6f06a6478ba60e5e99a8c4121fe68c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209079673
+        }
+    ],
+    "wof:id":1209079673,
+    "wof:lastmodified":1537657819,
+    "wof:name":"Pamsil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.05542,
+    37.05917,
+    129.05542,
+    37.05917
+],
+  "geometry": {"coordinates":[129.05542,37.05917],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242857735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.44768,36.74697,128.44768,36.74697",
+    "geom:latitude":36.74697,
+    "geom:longitude":128.44768,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Georok",
+    "gn:country_code":"KR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254694,
+    "gn:latitude":36.74697,
+    "gn:longitude":128.44768,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Georok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac70\ub85d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254694
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e7e702a81c4e7de21dda958ddfeb13cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1242857735,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242857735,
+    "wof:lastmodified":1537659276,
+    "wof:name":"Georok",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.44768,
+    36.74697000000001,
+    128.44768,
+    36.74697000000001
+],
+  "geometry": {"coordinates":[128.44767999999999,36.74697000000001],"type":"Point"}
+}

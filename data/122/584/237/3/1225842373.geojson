@@ -1,0 +1,75 @@
+{
+  "id": 1225842373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.55592,37.63748,128.55592,37.63748",
+    "geom:latitude":37.63748,
+    "geom:longitude":128.55592,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hajinbu-ri",
+    "gn:country_code":"KR",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844641,
+    "gn:latitude":37.63748,
+    "gn:longitude":128.55592,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hajinbu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc9c4\ubd80\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ha-chinbu-ri",
+        "Kachinfu-ri",
+        "Hajinbu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844641
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a3a4d9791fad5f00229bd9622543a178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1225842373,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1225842373,
+    "wof:lastmodified":1537656608,
+    "wof:name":"Hajinbu-ri",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.55592,
+    37.63748,
+    128.55592,
+    37.63748
+],
+  "geometry": {"coordinates":[128.55591999999999,37.63748],"type":"Point"}
+}

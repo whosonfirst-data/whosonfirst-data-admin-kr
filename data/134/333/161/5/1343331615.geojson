@@ -1,0 +1,73 @@
+{
+  "id": 1343331615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.45917,35.86222,128.45917,35.86222",
+    "geom:latitude":35.86222,
+    "geom:longitude":128.45917,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dasa",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932594,
+    "gn:latitude":35.86222,
+    "gn:longitude":128.45917,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Dasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2e4\uc0ac"
+    ],
+    "name:und_x_variant":[
+        "Tasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932594
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d5ca31050b525588a21a3140f6b260b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1343331615,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1343331615,
+    "wof:lastmodified":1537656957,
+    "wof:name":"Dasa",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.45917,
+    35.86222,
+    128.45917,
+    35.86222
+],
+  "geometry": {"coordinates":[128.45917,35.86222],"type":"Point"}
+}

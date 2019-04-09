@@ -1,0 +1,70 @@
+{
+  "id": 1226325887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.79292,36.0418,128.79292,36.0418",
+    "geom:latitude":36.0418,
+    "geom:longitude":128.79292,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bongwan",
+    "gn:country_code":"KR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10941332,
+    "gn:latitude":36.0418,
+    "gn:longitude":128.79292,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Bongwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf8\uad00"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10941332
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"615becaf906d70b9c649fb553c9c912a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475319,
+            "locality_id":1226325887,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226325887,
+    "wof:lastmodified":1537659095,
+    "wof:name":"Bongwan",
+    "wof:parent_id":890475319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.79292,
+    36.0418,
+    128.79292,
+    36.0418
+],
+  "geometry": {"coordinates":[128.79292000000001,36.0418],"type":"Point"}
+}

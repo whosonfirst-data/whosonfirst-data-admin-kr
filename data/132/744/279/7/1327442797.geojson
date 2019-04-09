@@ -1,0 +1,67 @@
+{
+  "id": 1327442797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63139,35.96083,126.63139,35.96083",
+    "geom:latitude":35.96083,
+    "geom:longitude":126.63139,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oksong",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930620,
+    "gn:latitude":35.96083,
+    "gn:longitude":126.63139,
+    "gn:modification_date":"2002-09-23",
+    "gn:name":"Oks\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930620
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c3ea0641dc959088cc5a5682a329ae1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1327442797,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1327442797,
+    "wof:lastmodified":1536665753,
+    "wof:name":"Oksong",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63139,
+    35.96083,
+    126.63139,
+    35.96083
+],
+  "geometry": {"coordinates":[126.63139,35.96083],"type":"Point"}
+}

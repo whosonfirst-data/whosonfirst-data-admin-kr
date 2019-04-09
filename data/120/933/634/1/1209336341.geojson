@@ -1,0 +1,64 @@
+{
+  "id": 1209336341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8489,37.2284,127.8489,37.2284",
+    "geom:latitude":37.2284,
+    "geom:longitude":127.8489,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Araeppangasil",
+    "gn:country_code":"KR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793240,
+    "gn:latitude":37.2284,
+    "gn:longitude":127.8489,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Araeppangasil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub7ab\ubc29\uc544\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793240
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b66af4f291c8c051452a2105ae054891",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209336341
+        }
+    ],
+    "wof:id":1209336341,
+    "wof:lastmodified":1537657457,
+    "wof:name":"Araeppangasil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8489,
+    37.2284,
+    127.8489,
+    37.2284
+],
+  "geometry": {"coordinates":[127.8489,37.2284],"type":"Point"}
+}

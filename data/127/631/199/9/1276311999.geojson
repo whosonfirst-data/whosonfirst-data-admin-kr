@@ -1,0 +1,76 @@
+{
+  "id": 1276311999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38895,37.12961,127.38895,37.12961",
+    "geom:latitude":37.12961,
+    "geom:longitude":127.38895,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Bongni",
+    "gn:country_code":"KR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398948,
+    "gn:latitude":37.12961,
+    "gn:longitude":127.38895,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Pong-ni",
+        "Bong-ri",
+        "Bongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398948
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aade0984eaa1ea099582b0a3da728112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1276311999,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276311999,
+    "wof:lastmodified":1537657201,
+    "wof:name":"Bongni",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38895,
+    37.12961,
+    127.38895,
+    37.12961
+],
+  "geometry": {"coordinates":[127.38894999999999,37.12961],"type":"Point"}
+}

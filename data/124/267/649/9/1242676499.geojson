@@ -1,0 +1,70 @@
+{
+  "id": 1242676499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3697,36.54669,127.3697,36.54669",
+    "geom:latitude":36.54669,
+    "geom:longitude":127.3697,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sanggal",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10812813,
+    "gn:latitude":36.54669,
+    "gn:longitude":127.3697,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Sanggal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uac08"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10812813
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"df983617cd72d42c6d61d57203323027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1242676499,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1242676499,
+    "wof:lastmodified":1537659069,
+    "wof:name":"Sanggal",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3697,
+    36.54669000000001,
+    127.3697,
+    36.54669000000001
+],
+  "geometry": {"coordinates":[127.36969999999999,36.54669000000001],"type":"Point"}
+}

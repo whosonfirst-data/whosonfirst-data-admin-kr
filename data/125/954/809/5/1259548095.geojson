@@ -1,0 +1,70 @@
+{
+  "id": 1259548095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.80282,35.22416,128.80282,35.22416",
+    "geom:latitude":35.22416,
+    "geom:longitude":128.80282,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sinjeon",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11114425,
+    "gn:latitude":35.22416,
+    "gn:longitude":128.80282,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Sinjeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11114425
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6d6d800a90c2417895f3bb7cc2ab7265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475303,
+            "locality_id":1259548095,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259548095,
+    "wof:lastmodified":1537659163,
+    "wof:name":"Sinjeon",
+    "wof:parent_id":890475303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.80282,
+    35.22416,
+    128.80282,
+    35.22416
+],
+  "geometry": {"coordinates":[128.80282,35.22416],"type":"Point"}
+}

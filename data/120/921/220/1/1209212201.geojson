@@ -1,0 +1,64 @@
+{
+  "id": 1209212201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.74399,37.93347,127.74399,37.93347",
+    "geom:latitude":37.93347,
+    "geom:longitude":127.74399,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Araesaembat",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130741,
+    "gn:latitude":37.93347,
+    "gn:longitude":127.74399,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Araesaembat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub798\uc0d8\ubc2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130741
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e9a0454e7e790f680030ec01fc3b0682",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209212201
+        }
+    ],
+    "wof:id":1209212201,
+    "wof:lastmodified":1537658994,
+    "wof:name":"Araesaembat",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.74399,
+    37.93347,
+    127.74399,
+    37.93347
+],
+  "geometry": {"coordinates":[127.74399,37.93347],"type":"Point"}
+}

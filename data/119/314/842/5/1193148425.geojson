@@ -1,0 +1,72 @@
+{
+  "id": 1193148425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26245,35.57369,127.26245,35.57369",
+    "geom:latitude":35.57369,
+    "geom:longitude":127.26245,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kosanni",
+    "gn:country_code":"KR",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876599,
+    "gn:latitude":35.57369,
+    "gn:longitude":127.26245,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kosanni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc0b0\ub2c8",
+        "Kosanni",
+        "Gosanni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876599
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b981fca1156d03d3fcc7bdec6712b6b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474645,
+            "locality_id":1193148425,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1193148425,
+    "wof:lastmodified":1537658138,
+    "wof:name":"Kosanni",
+    "wof:parent_id":890474645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26245,
+    35.57369,
+    127.26245,
+    35.57369
+],
+  "geometry": {"coordinates":[127.26245,35.57369],"type":"Point"}
+}

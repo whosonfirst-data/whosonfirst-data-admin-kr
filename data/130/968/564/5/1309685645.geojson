@@ -1,0 +1,70 @@
+{
+  "id": 1309685645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.38341,36.64784,128.38341,36.64784",
+    "geom:latitude":36.64784,
+    "geom:longitude":128.38341,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Manamteo",
+    "gn:country_code":"KR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254440,
+    "gn:latitude":36.64784,
+    "gn:longitude":128.38341,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Manamteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\ub0a8\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254440
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1d4c64862bd2c9588eebbdb8f108ad88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1309685645,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309685645,
+    "wof:lastmodified":1537659271,
+    "wof:name":"Manamteo",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.38341,
+    36.64784,
+    128.38341,
+    36.64784
+],
+  "geometry": {"coordinates":[128.38341,36.64784],"type":"Point"}
+}

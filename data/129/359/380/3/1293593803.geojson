@@ -1,0 +1,71 @@
+{
+  "id": 1293593803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.591,36.2792,127.591,36.2792",
+    "geom:latitude":36.2792,
+    "geom:longitude":127.591,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kosari-gol",
+    "gn:country_code":"KR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884654,
+    "gn:latitude":36.2792,
+    "gn:longitude":127.591,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kosari-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc0ac\ub9ac\uace8",
+        "Kosari-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884654
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"79d9b1578d46d53c766bd480d7f8e392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1293593803,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293593803,
+    "wof:lastmodified":1537658333,
+    "wof:name":"Kosari-gol",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.591,
+    36.2792,
+    127.591,
+    36.2792
+],
+  "geometry": {"coordinates":[127.59099999999999,36.2792],"type":"Point"}
+}

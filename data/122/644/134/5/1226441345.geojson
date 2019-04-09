@@ -1,0 +1,72 @@
+{
+  "id": 1226441345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59826,36.35353,127.59826,36.35353",
+    "geom:latitude":36.35353,
+    "geom:longitude":127.59826,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sotaegol",
+    "gn:country_code":"KR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884618,
+    "gn:latitude":36.35353,
+    "gn:longitude":127.59826,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sotaegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\ud0dc\uace8",
+        "Sot\u2019ae-gol",
+        "Sotaegol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884618
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9fe5209babcd21309b7da13922ca5f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1226441345,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226441345,
+    "wof:lastmodified":1537658331,
+    "wof:name":"Sotaegol",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59826,
+    36.35353,
+    127.59826,
+    36.35353
+],
+  "geometry": {"coordinates":[127.59826,36.35353],"type":"Point"}
+}

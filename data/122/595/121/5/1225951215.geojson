@@ -1,0 +1,71 @@
+{
+  "id": 1225951215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1769,35.9136,127.1769,35.9136",
+    "geom:latitude":35.9136,
+    "geom:longitude":127.1769,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chi-dong",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877968,
+    "gn:latitude":35.9136,
+    "gn:longitude":127.1769,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chi-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c0\ub3d9",
+        "Chi-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877968
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64bc5afb708268f39d0242b08e325e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474683,
+            "locality_id":1225951215,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1225951215,
+    "wof:lastmodified":1537658180,
+    "wof:name":"Chi-dong",
+    "wof:parent_id":890474683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1769,
+    35.9136,
+    127.1769,
+    35.9136
+],
+  "geometry": {"coordinates":[127.1769,35.9136],"type":"Point"}
+}

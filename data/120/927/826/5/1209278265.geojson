@@ -1,0 +1,67 @@
+{
+  "id": 1209278265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52167,34.51639,126.52167,34.51639",
+    "geom:latitude":34.51639,
+    "geom:longitude":126.52167,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Myonggum",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840765,
+    "gn:latitude":34.51639,
+    "gn:longitude":126.52167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"My\u014fngg\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "My\u014fngg\u016dm"
+    ],
+    "name:und_x_variant":[
+        "\uba85\uae08"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840765
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af5a748251896476ed5775bcb9c5df0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209278265
+        }
+    ],
+    "wof:id":1209278265,
+    "wof:lastmodified":1537656412,
+    "wof:name":"Myonggum",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52167,
+    34.51639,
+    126.52167,
+    34.51639
+],
+  "geometry": {"coordinates":[126.52167,34.51639],"type":"Point"}
+}

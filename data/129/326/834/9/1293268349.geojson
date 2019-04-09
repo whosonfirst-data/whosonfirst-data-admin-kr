@@ -1,0 +1,70 @@
+{
+  "id": 1293268349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02256,36.63025,127.02256,36.63025",
+    "geom:latitude":36.63025,
+    "geom:longitude":127.02256,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Andonghaedong",
+    "gn:country_code":"KR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10353411,
+    "gn:latitude":36.63025,
+    "gn:longitude":127.02256,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Andonghaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\ub3d9\ud574\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10353411
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8fffa2ee29b7f663d9a63ba36b859c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1293268349,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293268349,
+    "wof:lastmodified":1537659036,
+    "wof:name":"Andonghaedong",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02256,
+    36.63025,
+    127.02256,
+    36.63025
+],
+  "geometry": {"coordinates":[127.02256,36.63025],"type":"Point"}
+}

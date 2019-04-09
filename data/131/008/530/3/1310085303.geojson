@@ -1,0 +1,74 @@
+{
+  "id": 1310085303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.32585,37.79683,126.32585,37.79683",
+    "geom:latitude":37.79683,
+    "geom:longitude":126.32585,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Singol",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948801,
+    "gn:latitude":37.79683,
+    "gn:longitude":126.32585,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Singol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uace8"
+    ],
+    "name:und_x_variant":[
+        "Sin-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948801
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f7cb1348e69928ec6393be18b9e9cc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1310085303,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1310085303,
+    "wof:lastmodified":1537656962,
+    "wof:name":"Singol",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.32585,
+    37.79683,
+    126.32585,
+    37.79683
+],
+  "geometry": {"coordinates":[126.32585,37.79683],"type":"Point"}
+}

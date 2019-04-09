@@ -1,0 +1,64 @@
+{
+  "id": 1209293547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9325,37.81902,126.9325,37.81902",
+    "geom:latitude":37.81902,
+    "geom:longitude":126.9325,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hyeonseok",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8710111,
+    "gn:latitude":37.81902,
+    "gn:longitude":126.9325,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Hyeonseok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud604\uc11d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8710111
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0472f6ff7d0926dbf8764c5d9beaadae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209293547
+        }
+    ],
+    "wof:id":1209293547,
+    "wof:lastmodified":1537658907,
+    "wof:name":"Hyeonseok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9325,
+    37.81902,
+    126.9325,
+    37.81902
+],
+  "geometry": {"coordinates":[126.9325,37.81902],"type":"Point"}
+}

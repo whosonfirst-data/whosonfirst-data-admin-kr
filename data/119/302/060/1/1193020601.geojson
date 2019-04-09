@@ -1,0 +1,70 @@
+{
+  "id": 1193020601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52552,36.93817,127.52552,36.93817",
+    "geom:latitude":36.93817,
+    "geom:longitude":127.52552,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bangunde",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9978006,
+    "gn:latitude":36.93817,
+    "gn:longitude":127.52552,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Bangunde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uc6b4\ub370"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9978006
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1832f7bc4690f5532765b9cfedb4c003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1193020601,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1193020601,
+    "wof:lastmodified":1537658978,
+    "wof:name":"Bangunde",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52552,
+    36.93817,
+    127.52552,
+    36.93817
+],
+  "geometry": {"coordinates":[127.52552,36.93817],"type":"Point"}
+}

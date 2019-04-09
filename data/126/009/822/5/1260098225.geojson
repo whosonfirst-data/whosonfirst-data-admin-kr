@@ -1,0 +1,75 @@
+{
+  "id": 1260098225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4036,35.17209,126.4036,35.17209",
+    "geom:latitude":35.17209,
+    "geom:longitude":126.4036,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yangjaedong",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832891,
+    "gn:latitude":35.17209,
+    "gn:longitude":126.4036,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Yangjaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc7ac\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Changjae-dong",
+        "Yangjaedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832891,
+        "wk:page":"Yangjae-dong"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7594bef384a4d43379ccfae00270803a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1260098225,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260098225,
+    "wof:lastmodified":1537656001,
+    "wof:name":"Yangjaedong",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4036,
+    35.17209,
+    126.4036,
+    35.17209
+],
+  "geometry": {"coordinates":[126.4036,35.17209],"type":"Point"}
+}

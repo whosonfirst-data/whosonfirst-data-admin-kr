@@ -1,0 +1,71 @@
+{
+  "id": 1293193905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7432,36.3865,127.7432,36.3865",
+    "geom:latitude":36.3865,
+    "geom:longitude":127.7432,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oemang",
+    "gn:country_code":"KR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884866,
+    "gn:latitude":36.3865,
+    "gn:longitude":127.7432,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Oemang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc678\ub9dd",
+        "Oemang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884866
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"08500bc44d15075a3e95e2fa5f1e98eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1293193905,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293193905,
+    "wof:lastmodified":1537658345,
+    "wof:name":"Oemang",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7432,
+    36.3865,
+    127.7432,
+    36.3865
+],
+  "geometry": {"coordinates":[127.7432,36.3865],"type":"Point"}
+}

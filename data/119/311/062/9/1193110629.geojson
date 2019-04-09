@@ -1,0 +1,73 @@
+{
+  "id": 1193110629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.91578,36.02405,128.91578,36.02405",
+    "geom:latitude":36.02405,
+    "geom:longitude":128.91578,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taech'on-dong",
+    "gn:country_code":"KR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835449,
+    "gn:latitude":36.02405,
+    "gn:longitude":128.91578,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taech\u2019\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saengch\u2019\u014fn",
+        "\ub300\ucc9c\ub3d9",
+        "Taech\u2019\u014fn",
+        "Taech\u2019\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835449
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"50f447c5ae9a0ced37c3f885c947056f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475319,
+            "locality_id":1193110629,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193110629,
+    "wof:lastmodified":1537656138,
+    "wof:name":"Taech'on-dong",
+    "wof:parent_id":890475319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.91578,
+    36.02405,
+    128.91578,
+    36.02405
+],
+  "geometry": {"coordinates":[128.91578000000001,36.02405],"type":"Point"}
+}

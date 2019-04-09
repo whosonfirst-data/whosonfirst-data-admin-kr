@@ -1,0 +1,65 @@
+{
+  "id": 1209213511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.617,36.2886,127.617,36.2886",
+    "geom:latitude":36.2886,
+    "geom:longitude":127.617,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Padul-li",
+    "gn:country_code":"KR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884741,
+    "gn:latitude":36.2886,
+    "gn:longitude":127.617,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pad\u016dl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc14\ub4e4\ub9ac",
+        "Pad\u016dl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884741
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0e7be7addb623f7bd850fe64f984fd67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209213511
+        }
+    ],
+    "wof:id":1209213511,
+    "wof:lastmodified":1537658338,
+    "wof:name":"Padul-li",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.617,
+    36.2886,
+    127.617,
+    36.2886
+],
+  "geometry": {"coordinates":[127.617,36.2886],"type":"Point"}
+}

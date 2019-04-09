@@ -1,0 +1,76 @@
+{
+  "id": 1260378897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9435,37.6001,126.9435,37.6001",
+    "geom:latitude":37.6001,
+    "geom:longitude":126.9435,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hongjeoe-ri",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844172,
+    "gn:latitude":37.6001,
+    "gn:longitude":126.9435,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hongjeoe-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014fsaiga-ri",
+        "H\u016dngjeoe-ri",
+        "Hongjeoe-ri",
+        "HongChaiWan",
+        "Hongjaeoe-ri",
+        "\ud64d\uc740\ub3d9",
+        "Hong\u016dn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890472895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844172
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"16305106f79b6990b09f84f053e0db25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472895,
+            "locality_id":1260378897,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1260378897,
+    "wof:lastmodified":1537656581,
+    "wof:name":"Hongjeoe-ri",
+    "wof:parent_id":890472895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9435,
+    37.6001,
+    126.9435,
+    37.6001
+],
+  "geometry": {"coordinates":[126.9435,37.6001],"type":"Point"}
+}

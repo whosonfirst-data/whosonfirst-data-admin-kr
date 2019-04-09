@@ -1,0 +1,70 @@
+{
+  "id": 1242650969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.53821,36.71681,128.53821,36.71681",
+    "geom:latitude":36.71681,
+    "geom:longitude":128.53821,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chamsaegol",
+    "gn:country_code":"KR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255126,
+    "gn:latitude":36.71681,
+    "gn:longitude":128.53821,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Chamsaegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc38\uc0c8\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255126
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d1d8c592dc2e99ea3b1329227361c516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1242650969,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242650969,
+    "wof:lastmodified":1537659280,
+    "wof:name":"Chamsaegol",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.53821000000002,
+    36.71681,
+    128.53821000000002,
+    36.71681
+],
+  "geometry": {"coordinates":[128.53821000000002,36.71681],"type":"Point"}
+}

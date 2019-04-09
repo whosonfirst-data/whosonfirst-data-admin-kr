@@ -1,0 +1,77 @@
+{
+  "id": 1242563847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87533,37.84902,126.87533,37.84902",
+    "geom:latitude":37.84902,
+    "geom:longitude":126.87533,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Beobwon",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1839110,
+    "gn:latitude":37.84902,
+    "gn:longitude":126.87533,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Beobwon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc95\uc6d0"
+    ],
+    "name:und_x_variant":[
+        "P\u014fbw\u014fn-dong",
+        "P\u014fbw\u014fn-ni",
+        "P\u014fbw\u014fn",
+        "Beobwon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839110
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9599f2d757617db74512929cabe9a910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1242563847,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242563847,
+    "wof:lastmodified":1537656326,
+    "wof:name":"Beobwon",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87533,
+    37.84902,
+    126.87533,
+    37.84902
+],
+  "geometry": {"coordinates":[126.87533000000001,37.84902],"type":"Point"}
+}

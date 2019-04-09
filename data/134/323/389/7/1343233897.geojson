@@ -1,0 +1,75 @@
+{
+  "id": 1343233897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.40381,34.685,126.40381,34.685",
+    "geom:latitude":34.685,
+    "geom:longitude":126.40381,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Danghu",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834893,
+    "gn:latitude":34.685,
+    "gn:longitude":126.40381,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Danghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\ud6c4"
+    ],
+    "name:und_x_variant":[
+        "Tanghu",
+        "Tanghu-ri",
+        "Danghu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834893
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b60fe442714b26f82abc3b8ef3cfb0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1343233897,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343233897,
+    "wof:lastmodified":1537656113,
+    "wof:name":"Danghu",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.40381,
+    34.685,
+    126.40381,
+    34.685
+],
+  "geometry": {"coordinates":[126.40380999999999,34.685],"type":"Point"}
+}

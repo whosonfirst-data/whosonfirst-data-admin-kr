@@ -1,0 +1,73 @@
+{
+  "id": 1327400411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51667,36.8,126.51667,36.8",
+    "geom:latitude":36.8,
+    "geom:longitude":126.51667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wangsarang",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833472,
+    "gn:latitude":36.8,
+    "gn:longitude":126.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wangsarang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wangji-ri",
+        "Wangsarang",
+        "\uc655\uc0ac\ub791",
+        "Wangsirang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833472
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b51073e43ded3d934f29966514f91f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1327400411,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1327400411,
+    "wof:lastmodified":1537656035,
+    "wof:name":"Wangsarang",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51667,
+    36.8,
+    126.51667,
+    36.8
+],
+  "geometry": {"coordinates":[126.51667,36.8],"type":"Point"}
+}

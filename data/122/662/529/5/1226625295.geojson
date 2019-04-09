@@ -1,0 +1,74 @@
+{
+  "id": 1226625295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3201,37.5072,127.3201,37.5072",
+    "geom:latitude":37.5072,
+    "geom:longitude":127.3201,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Goenae",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802827,
+    "gn:latitude":37.5072,
+    "gn:longitude":127.3201,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Goenae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad34\ub0b4"
+    ],
+    "name:und_x_variant":[
+        "\uad34\ub0b4",
+        "Goenae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802827
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cfbf3c29de1e762eb6da67c5c0677b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1226625295,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226625295,
+    "wof:lastmodified":1537657757,
+    "wof:name":"Goenae",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3201,
+    37.5072,
+    127.3201,
+    37.5072
+],
+  "geometry": {"coordinates":[127.3201,37.5072],"type":"Point"}
+}

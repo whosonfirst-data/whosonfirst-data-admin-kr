@@ -1,0 +1,70 @@
+{
+  "id": 1225916033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68661,35.27103,126.68661,35.27103",
+    "geom:latitude":35.27103,
+    "geom:longitude":126.68661,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dongbal",
+    "gn:country_code":"KR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169688,
+    "gn:latitude":35.27103,
+    "gn:longitude":126.68661,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Dongbal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ubc1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169688
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5f1a1f2d9ea16be2cbc21973068cd35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1225916033,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225916033,
+    "wof:lastmodified":1537659179,
+    "wof:name":"Dongbal",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68661000000002,
+    35.27103,
+    126.68661000000002,
+    35.27103
+],
+  "geometry": {"coordinates":[126.68661000000002,35.27103],"type":"Point"}
+}

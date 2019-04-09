@@ -1,0 +1,71 @@
+{
+  "id": 1226425763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.02525,35.96153,128.02525,35.96153",
+    "geom:latitude":35.96153,
+    "geom:longitude":128.02525,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kwandok",
+    "gn:country_code":"KR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902385,
+    "gn:latitude":35.96153,
+    "gn:longitude":128.02525,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kwand\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad00\ub355",
+        "Kwand\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902385
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bd0c33585570b7837fa6d46fb6abbd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1226425763,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226425763,
+    "wof:lastmodified":1537658815,
+    "wof:name":"Kwandok",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.02525,
+    35.96153,
+    128.02525,
+    35.96153
+],
+  "geometry": {"coordinates":[128.02525,35.96153],"type":"Point"}
+}

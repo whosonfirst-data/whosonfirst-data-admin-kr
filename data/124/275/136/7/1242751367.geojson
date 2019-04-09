@@ -1,0 +1,70 @@
+{
+  "id": 1242751367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.88597,36.63479,127.88597,36.63479",
+    "geom:latitude":36.63479,
+    "geom:longitude":127.88597,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Deogam",
+    "gn:country_code":"KR",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420223,
+    "gn:latitude":36.63479,
+    "gn:longitude":127.88597,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Deogam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420223
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8694c185def3b69edd8c46c05f8317fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1242751367,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242751367,
+    "wof:lastmodified":1537659056,
+    "wof:name":"Deogam",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.88597,
+    36.63479,
+    127.88597,
+    36.63479
+],
+  "geometry": {"coordinates":[127.88597,36.63479],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226213123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.22386,36.02228,129.22386,36.02228",
+    "geom:latitude":36.02228,
+    "geom:longitude":129.22386,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nam-san",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878157,
+    "gn:latitude":36.02228,
+    "gn:longitude":129.22386,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nam-san",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0a8\uc0b0",
+        "Nam-san"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878157
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c656d3312e0172a38d36462191fa47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1226213123,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226213123,
+    "wof:lastmodified":1537658187,
+    "wof:name":"Nam-san",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.22386,
+    36.02228,
+    129.22386,
+    36.02228
+],
+  "geometry": {"coordinates":[129.22386,36.02228],"type":"Point"}
+}

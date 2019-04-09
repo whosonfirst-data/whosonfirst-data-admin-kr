@@ -1,0 +1,73 @@
+{
+  "id": 1259565391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33305,34.94165,127.33305,34.94165",
+    "geom:latitude":34.94165,
+    "geom:longitude":127.33305,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mokchon",
+    "gn:country_code":"KR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684940,
+    "gn:latitude":34.94165,
+    "gn:longitude":127.33305,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Mokchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa9\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Mokch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684940
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"574d6d829bde6b9287a71c1f12c928ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1259565391,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259565391,
+    "wof:lastmodified":1537657438,
+    "wof:name":"Mokchon",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33305,
+    34.94165,
+    127.33305,
+    34.94165
+],
+  "geometry": {"coordinates":[127.33305,34.94165],"type":"Point"}
+}

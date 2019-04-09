@@ -1,0 +1,65 @@
+{
+  "id": 1209601457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56667,37.22583,126.56667,37.22583",
+    "geom:latitude":37.22583,
+    "geom:longitude":126.56667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yu-gol",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274243,
+    "gn:latitude":37.22583,
+    "gn:longitude":126.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yu-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc720\uace8",
+        "Yu-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274243
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3f0dc9fbb56ceef0c39254e4408e493a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209601457
+        }
+    ],
+    "wof:id":1209601457,
+    "wof:lastmodified":1537657013,
+    "wof:name":"Yu-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56667,
+    37.22583,
+    126.56667,
+    37.22583
+],
+  "geometry": {"coordinates":[126.56667,37.22583],"type":"Point"}
+}

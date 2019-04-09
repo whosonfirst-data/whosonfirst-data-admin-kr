@@ -1,0 +1,73 @@
+{
+  "id": 1293271223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95857,36.96831,126.95857,36.96831",
+    "geom:latitude":36.96831,
+    "geom:longitude":126.95857,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Daesamjeong",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835106,
+    "gn:latitude":36.96831,
+    "gn:longitude":126.95857,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Daesamjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taesamj\u014fng-ni",
+        "\ub300\uc0bc\uc815",
+        "Taesamj\u014fng",
+        "Daesamjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835106
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"779f8ffe5262c84c020ec8f97738ada8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1293271223,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293271223,
+    "wof:lastmodified":1537656123,
+    "wof:name":"Daesamjeong",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95857,
+    36.96831,
+    126.95857,
+    36.96831
+],
+  "geometry": {"coordinates":[126.95856999999999,36.96831],"type":"Point"}
+}

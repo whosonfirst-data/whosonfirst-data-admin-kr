@@ -1,0 +1,74 @@
+{
+  "id": 1242770979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4109,37.07781,128.4109,37.07781",
+    "geom:latitude":37.07781,
+    "geom:longitude":128.4109,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sohakdong",
+    "gn:country_code":"KR",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796731,
+    "gn:latitude":37.07781,
+    "gn:longitude":128.4109,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Sohakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\ud559\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Sohak-tong",
+        "Sohakdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796731
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e161c251199e2aa258d1b39baf7ffcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1242770979,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1242770979,
+    "wof:lastmodified":1537657567,
+    "wof:name":"Sohakdong",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4109,
+    37.07781,
+    128.4109,
+    37.07781
+],
+  "geometry": {"coordinates":[128.4109,37.07781],"type":"Point"}
+}

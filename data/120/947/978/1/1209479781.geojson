@@ -1,0 +1,64 @@
+{
+  "id": 1209479781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9993,35.26127,128.9993,35.26127",
+    "geom:latitude":35.26127,
+    "geom:longitude":128.9993,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hasa",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11098591,
+    "gn:latitude":35.26127,
+    "gn:longitude":128.9993,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Hasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc0ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11098591
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2a9d71e21198ae54ff504dcd27e9b22f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209479781
+        }
+    ],
+    "wof:id":1209479781,
+    "wof:lastmodified":1537659158,
+    "wof:name":"Hasa",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9993,
+    35.26127,
+    128.9993,
+    35.26127
+],
+  "geometry": {"coordinates":[128.99930000000001,35.26127],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259346225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5002,36.8728,126.5002,36.8728",
+    "geom:latitude":36.8728,
+    "geom:longitude":126.5002,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ch'ang-mal",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812017,
+    "gn:latitude":36.8728,
+    "gn:longitude":126.5002,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019ang-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc3d\ub9d0",
+        "Ch\u2019ang-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812017
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"79df4a6684d01066bb6ead33f9d96829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1259346225,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259346225,
+    "wof:lastmodified":1537657961,
+    "wof:name":"Ch'ang-mal",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5002,
+    36.8728,
+    126.5002,
+    36.8728
+],
+  "geometry": {"coordinates":[126.50020000000001,36.8728],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1327148171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91667,33.43333,126.91667,33.43333",
+    "geom:latitude":33.43333,
+    "geom:longitude":126.91667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pangdu-dong",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839329,
+    "gn:latitude":33.43333,
+    "gn:longitude":126.91667,
+    "gn:modification_date":"1995-04-20",
+    "gn:name":"Pangdu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839329
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"59185e2d6d0418f00db6354d7cfc53dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327148171,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327148171,
+    "wof:lastmodified":1537087952,
+    "wof:name":"Pangdu-dong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91667,
+    33.43333,
+    126.91667,
+    33.43333
+],
+  "geometry": {"coordinates":[126.91667,33.43333],"type":"Point"}
+}

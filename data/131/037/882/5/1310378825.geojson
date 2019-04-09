@@ -1,0 +1,71 @@
+{
+  "id": 1310378825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3684,36.2874,128.3684,36.2874",
+    "geom:latitude":36.2874,
+    "geom:longitude":128.3684,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Usil",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890309,
+    "gn:latitude":36.2874,
+    "gn:longitude":128.3684,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Usil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6b0\uc2e4",
+        "Usil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890309
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9dd68d11037326266f37be30d1812b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472251,
+            "locality_id":1310378825,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310378825,
+    "wof:lastmodified":1537658483,
+    "wof:name":"Usil",
+    "wof:parent_id":890472251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3684,
+    36.2874,
+    128.3684,
+    36.2874
+],
+  "geometry": {"coordinates":[128.36840000000001,36.2874],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293256829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.25114,35.01701,128.25114,35.01701",
+    "geom:latitude":35.01701,
+    "geom:longitude":128.25114,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chongsaeng",
+    "gn:country_code":"KR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845540,
+    "gn:latitude":35.01701,
+    "gn:longitude":128.25114,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chongsaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc885\uc0dd",
+        "Chongsaeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845540
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b74a93d5ff743f83102fee64f5fe867a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746461,
+            "locality_id":1293256829,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293256829,
+    "wof:lastmodified":1537656653,
+    "wof:name":"Chongsaeng",
+    "wof:parent_id":1108746461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.25114,
+    35.01701,
+    128.25114,
+    35.01701
+],
+  "geometry": {"coordinates":[128.25113999999999,35.01701],"type":"Point"}
+}

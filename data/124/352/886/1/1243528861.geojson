@@ -1,0 +1,71 @@
+{
+  "id": 1243528861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.74154,35.76101,127.74154,35.76101",
+    "geom:latitude":35.76101,
+    "geom:longitude":127.74154,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Naegye",
+    "gn:country_code":"KR",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6897104,
+    "gn:latitude":35.76101,
+    "gn:longitude":127.74154,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Naegye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0b4\uacc4",
+        "Naegye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6897104
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"415afe40cc177d06ba855509cee98f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1243528861,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243528861,
+    "wof:lastmodified":1537658685,
+    "wof:name":"Naegye",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.74154,
+    35.76101,
+    127.74154,
+    35.76101
+],
+  "geometry": {"coordinates":[127.74154,35.76101],"type":"Point"}
+}

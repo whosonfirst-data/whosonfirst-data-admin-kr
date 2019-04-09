@@ -1,0 +1,67 @@
+{
+  "id": 1243561595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6425,35.95278,126.6425,35.95278",
+    "geom:latitude":35.95278,
+    "geom:longitude":126.6425,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Haech'il",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1933114,
+    "gn:latitude":35.95278,
+    "gn:longitude":126.6425,
+    "gn:modification_date":"2004-02-04",
+    "gn:name":"Haech\u2019il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1933114
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3ebab950fb813fc5efebf8833ad01a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1243561595,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1243561595,
+    "wof:lastmodified":1536638478,
+    "wof:name":"Haech'il",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6425,
+    35.95278,
+    126.6425,
+    35.95278
+],
+  "geometry": {"coordinates":[126.6425,35.95278],"type":"Point"}
+}

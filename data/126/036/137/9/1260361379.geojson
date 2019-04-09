@@ -1,0 +1,68 @@
+{
+  "id": 1260361379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.29111,34.49139,126.29111,34.49139",
+    "geom:latitude":34.49139,
+    "geom:longitude":126.29111,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"Chindo-gun",
+    "gn:asciiname":"Yangho-dong",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6306284,
+    "gn:latitude":34.49139,
+    "gn:longitude":126.29111,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Yangho-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6306284
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"35c9029236335b2aa0caacc7a8f69bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1260361379,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260361379,
+    "wof:lastmodified":1536604631,
+    "wof:name":"Yangho-dong",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.29111,
+    34.49139,
+    126.29111,
+    34.49139
+],
+  "geometry": {"coordinates":[126.29111,34.49139],"type":"Point"}
+}

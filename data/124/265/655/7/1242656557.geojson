@@ -1,0 +1,80 @@
+{
+  "id": 1242656557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31694,37.24972,127.31694,37.24972",
+    "geom:latitude":37.24972,
+    "geom:longitude":127.31694,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Naechugye",
+    "gn:country_code":"KR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896985,
+    "gn:latitude":37.24972,
+    "gn:longitude":127.31694,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Naechugye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Oech\u2019ugye"
+    ],
+    "name:kor_x_variant":[
+        "\ucd94\uacc4",
+        "Ch\u2019ugye",
+        "\ub0b4\ucd94\uacc4"
+    ],
+    "name:und_x_variant":[
+        "Chugye",
+        "Naechugye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896985
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5725b50ce18f5365701b1833aad09890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1242656557,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242656557,
+    "wof:lastmodified":1537656922,
+    "wof:name":"Naechugye",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31694,
+    37.24972,
+    127.31694,
+    37.24972
+],
+  "geometry": {"coordinates":[127.31694,37.24972],"type":"Point"}
+}

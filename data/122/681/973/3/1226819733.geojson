@@ -1,0 +1,67 @@
+{
+  "id": 1226819733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.1273,36.3833,129.1273,36.3833",
+    "geom:latitude":36.3833,
+    "geom:longitude":129.1273,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chibu-gol",
+    "gn:country_code":"KR",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880918,
+    "gn:latitude":36.3833,
+    "gn:longitude":129.1273,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Chibu-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880918
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5041f9af7032dff7106a80f5527932d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474963,
+            "locality_id":1226819733,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226819733,
+    "wof:lastmodified":1536606149,
+    "wof:name":"Chibu-gol",
+    "wof:parent_id":890474963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.1273,
+    36.3833,
+    129.1273,
+    36.3833
+],
+  "geometry": {"coordinates":[129.12729999999999,36.3833],"type":"Point"}
+}

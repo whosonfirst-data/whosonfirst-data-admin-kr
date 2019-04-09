@@ -1,0 +1,73 @@
+{
+  "id": 1193273053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.74078,38.25962,127.74078,38.25962",
+    "geom:latitude":38.25962,
+    "geom:longitude":127.74078,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Godungol",
+    "gn:country_code":"KR",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948408,
+    "gn:latitude":38.25962,
+    "gn:longitude":127.74078,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Godungol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ub454\uace8"
+    ],
+    "name:und_x_variant":[
+        "Kodun-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948408
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c63296793437cd4bbe57f946218278d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1193273053,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1193273053,
+    "wof:lastmodified":1537656960,
+    "wof:name":"Godungol",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.74078,
+    38.25962,
+    127.74078,
+    38.25962
+],
+  "geometry": {"coordinates":[127.74078,38.25962],"type":"Point"}
+}

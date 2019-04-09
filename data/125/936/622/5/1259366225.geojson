@@ -1,0 +1,71 @@
+{
+  "id": 1259366225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.14133,37.05795,129.14133,37.05795",
+    "geom:latitude":37.05795,
+    "geom:longitude":129.14133,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Saemt'o",
+    "gn:country_code":"KR",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808379,
+    "gn:latitude":37.05795,
+    "gn:longitude":129.14133,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saemt\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0d8\ud130",
+        "Saemt\u2019\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808379
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f78fcdc5292e755f65d44c68497142ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1259366225,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259366225,
+    "wof:lastmodified":1537657829,
+    "wof:name":"Saemt'o",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.14133,
+    37.05795,
+    129.14133,
+    37.05795
+],
+  "geometry": {"coordinates":[129.14133000000001,37.05795],"type":"Point"}
+}

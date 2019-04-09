@@ -1,0 +1,64 @@
+{
+  "id": 1209088411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79268,34.95381,126.79268,34.95381",
+    "geom:latitude":34.95381,
+    "geom:longitude":126.79268,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gomisil",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192815,
+    "gn:latitude":34.95381,
+    "gn:longitude":126.79268,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gomisil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ubbf8\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192815
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"15d8258e08162a1be55237c4cbc58f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209088411
+        }
+    ],
+    "wof:id":1209088411,
+    "wof:lastmodified":1537659225,
+    "wof:name":"Gomisil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79268,
+    34.95381,
+    126.79268,
+    34.95381
+],
+  "geometry": {"coordinates":[126.79268,34.95381],"type":"Point"}
+}

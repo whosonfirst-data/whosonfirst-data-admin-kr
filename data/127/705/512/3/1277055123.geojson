@@ -1,0 +1,76 @@
+{
+  "id": 1277055123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98069,37.74474,126.98069,37.74474",
+    "geom:latitude":37.74474,
+    "geom:longitude":126.98069,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wikkamaeul",
+    "gn:country_code":"KR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896507,
+    "gn:latitude":37.74474,
+    "gn:longitude":126.98069,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Wikkamaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\uac00\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "\uc0c1\ubd80\uace1",
+        "Wikkama-gol",
+        "Sangbugok",
+        "Wikkamaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896507
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fe5963863856bc99ec405fbe8c264077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1277055123,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1277055123,
+    "wof:lastmodified":1537656903,
+    "wof:name":"Wikkamaeul",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98069,
+    37.74474,
+    126.98069,
+    37.74474
+],
+  "geometry": {"coordinates":[126.98069,37.74474],"type":"Point"}
+}

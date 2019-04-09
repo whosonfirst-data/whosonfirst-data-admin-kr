@@ -1,0 +1,71 @@
+{
+  "id": 1309879187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2209,36.3379,128.2209,36.3379",
+    "geom:latitude":36.3379,
+    "geom:longitude":128.2209,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pyongbang",
+    "gn:country_code":"KR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889978,
+    "gn:latitude":36.3379,
+    "gn:longitude":128.2209,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Py\u014fngbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcd1\ubc29",
+        "Py\u014fngbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889978
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ef6db3cb34690888792f68403756c091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1309879187,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309879187,
+    "wof:lastmodified":1537658467,
+    "wof:name":"Pyongbang",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2209,
+    36.3379,
+    128.2209,
+    36.3379
+],
+  "geometry": {"coordinates":[128.2209,36.3379],"type":"Point"}
+}

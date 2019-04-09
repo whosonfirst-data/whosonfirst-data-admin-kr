@@ -1,0 +1,73 @@
+{
+  "id": 1259662249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.92544,35.11322,128.92544,35.11322",
+    "geom:latitude":35.11322,
+    "geom:longitude":128.92544,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jinmok",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893999,
+    "gn:latitude":35.11322,
+    "gn:longitude":128.92544,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Jinmok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c4\ubaa9"
+    ],
+    "name:und_x_variant":[
+        "Chinmok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893999
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1a3f3b2adf7a47ebd9f6036cc038605c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1259662249,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1259662249,
+    "wof:lastmodified":1537656844,
+    "wof:name":"Jinmok",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.92543999999998,
+    35.11322,
+    128.92543999999998,
+    35.11322
+],
+  "geometry": {"coordinates":[128.92543999999998,35.11322],"type":"Point"}
+}

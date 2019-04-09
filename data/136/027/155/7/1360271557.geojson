@@ -1,0 +1,74 @@
+{
+  "id": 1360271557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1672,37.5307,127.1672,37.5307",
+    "geom:latitude":37.5307,
+    "geom:longitude":127.1672,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Saraegi",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6800222,
+    "gn:latitude":37.5307,
+    "gn:longitude":127.1672,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saraegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ub798\uae30"
+    ],
+    "name:und_x_variant":[
+        "\uc0ac\ub798\uae30",
+        "Saraegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6800222
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"db2ed7b953f2d3801b97c7a696ee0d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1360271557,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360271557,
+    "wof:lastmodified":1537657670,
+    "wof:name":"Saraegi",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1672,
+    37.5307,
+    127.1672,
+    37.5307
+],
+  "geometry": {"coordinates":[127.16719999999999,37.5307],"type":"Point"}
+}

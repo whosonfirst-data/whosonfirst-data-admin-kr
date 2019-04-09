@@ -1,0 +1,67 @@
+{
+  "id": 1293116675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63333,35.68333,126.63333,35.68333",
+    "geom:latitude":35.68333,
+    "geom:longitude":126.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yongwa-dong",
+    "gn:country_code":"KR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832259,
+    "gn:latitude":35.68333,
+    "gn:longitude":126.63333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Yongwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832259
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72e50de68c0d5730f6db19ab286aafe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475783,
+            "locality_id":1293116675,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1293116675,
+    "wof:lastmodified":1536823789,
+    "wof:name":"Yongwa-dong",
+    "wof:parent_id":890475783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63333,
+    35.68333,
+    126.63333,
+    35.68333
+],
+  "geometry": {"coordinates":[126.63333,35.68333],"type":"Point"}
+}

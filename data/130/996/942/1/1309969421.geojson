@@ -1,0 +1,71 @@
+{
+  "id": 1309969421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5122,36.6561,126.5122,36.6561",
+    "geom:latitude":36.6561,
+    "geom:longitude":126.5122,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ha-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809556,
+    "gn:latitude":36.6561,
+    "gn:longitude":126.5122,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ha-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ucd0c",
+        "Ha-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809556
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae30c441c134619b6e837892cc9984d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1309969421,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1309969421,
+    "wof:lastmodified":1537657879,
+    "wof:name":"Ha-ch'on",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5122,
+    36.6561,
+    126.5122,
+    36.6561
+],
+  "geometry": {"coordinates":[126.51220000000001,36.6561],"type":"Point"}
+}

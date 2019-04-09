@@ -1,0 +1,75 @@
+{
+  "id": 1293754881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06401,37.08684,127.06401,37.08684",
+    "geom:latitude":37.08684,
+    "geom:longitude":127.06401,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ojwadong",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575671,
+    "gn:latitude":37.08684,
+    "gn:longitude":127.06401,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ojwadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uc88c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uc624\uc88c\uc6b8",
+        "Ojwaul",
+        "Ojwadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575671
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a12d36ec2f8979d1e115265c0cacf39b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1293754881,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293754881,
+    "wof:lastmodified":1537657286,
+    "wof:name":"Ojwadong",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06401,
+    37.08684,
+    127.06401,
+    37.08684
+],
+  "geometry": {"coordinates":[127.06401,37.08684],"type":"Point"}
+}

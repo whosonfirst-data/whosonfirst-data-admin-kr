@@ -1,0 +1,64 @@
+{
+  "id": 1209280089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76782,35.20492,126.76782,35.20492",
+    "geom:latitude":35.20492,
+    "geom:longitude":126.76782,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Byeokpajeong",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171857,
+    "gn:latitude":35.20492,
+    "gn:longitude":126.76782,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Byeokpajeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcbd\ud30c\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171857
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d2dc2e9d0728847f09c644291d63b688",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209280089
+        }
+    ],
+    "wof:id":1209280089,
+    "wof:lastmodified":1537659206,
+    "wof:name":"Byeokpajeong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76782,
+    35.20492,
+    126.76782,
+    35.20492
+],
+  "geometry": {"coordinates":[126.76782,35.20492],"type":"Point"}
+}

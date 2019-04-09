@@ -1,0 +1,74 @@
+{
+  "id": 1310169363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.30139,34.39083,125.30139,34.39083",
+    "geom:latitude":34.39083,
+    "geom:longitude":125.30139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hongdo-ri",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844324,
+    "gn:latitude":34.39083,
+    "gn:longitude":125.30139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hongdo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tait\u014d-ri",
+        "Hongdo-ri",
+        "T\u2019aedo-ri",
+        "T\u2019aeha-do",
+        "Hat\u2019aedo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844324
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6051f686cfcf5d023fab95bb3a20a6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1310169363,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310169363,
+    "wof:lastmodified":1537656589,
+    "wof:name":"Hongdo-ri",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.30138999999998,
+    34.39083,
+    125.30138999999998,
+    34.39083
+],
+  "geometry": {"coordinates":[125.30138999999998,34.39083],"type":"Point"}
+}

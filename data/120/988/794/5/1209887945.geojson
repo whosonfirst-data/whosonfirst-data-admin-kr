@@ -1,0 +1,70 @@
+{
+  "id": 1209887945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93648,34.99889,126.93648,34.99889",
+    "geom:latitude":34.99889,
+    "geom:longitude":126.93648,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Naedaegok",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11196895,
+    "gn:latitude":34.99889,
+    "gn:longitude":126.93648,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Naedaegok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\ub300\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11196895
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0a0d3cc5fb72915d181b97dbd6c4cda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1209887945,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209887945,
+    "wof:lastmodified":1537659231,
+    "wof:name":"Naedaegok",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93648,
+    34.99889,
+    126.93648,
+    34.99889
+],
+  "geometry": {"coordinates":[126.93648,34.99889],"type":"Point"}
+}

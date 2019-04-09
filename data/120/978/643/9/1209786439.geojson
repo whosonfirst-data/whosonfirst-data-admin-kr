@@ -1,0 +1,72 @@
+{
+  "id": 1209786439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.57181,35.71936,128.57181,35.71936",
+    "geom:latitude":35.71936,
+    "geom:longitude":128.57181,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samcheondong",
+    "gn:country_code":"KR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903141,
+    "gn:latitude":35.71936,
+    "gn:longitude":128.57181,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Samcheondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\ucc9c\ub3d9",
+        "Samch\u2019\u014fn-dong",
+        "Samcheondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903141
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"191cee861713f01213dd1c46bb40e2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1209786439,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209786439,
+    "wof:lastmodified":1537658834,
+    "wof:name":"Samcheondong",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57181,
+    35.71935999999999,
+    128.57181,
+    35.71935999999999
+],
+  "geometry": {"coordinates":[128.57181,35.71935999999999],"type":"Point"}
+}

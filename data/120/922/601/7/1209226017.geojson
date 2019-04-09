@@ -1,0 +1,65 @@
+{
+  "id": 1209226017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57649,35.70551,127.57649,35.70551",
+    "geom:latitude":35.70551,
+    "geom:longitude":127.57649,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yu-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896386,
+    "gn:latitude":35.70551,
+    "gn:longitude":127.57649,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yu-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc720\ucd0c",
+        "Yu-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896386
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8817a32bf6f7730409c255f4dc9e3031",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209226017
+        }
+    ],
+    "wof:id":1209226017,
+    "wof:lastmodified":1537658659,
+    "wof:name":"Yu-ch'on",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57649,
+    35.70551,
+    127.57649,
+    35.70551
+],
+  "geometry": {"coordinates":[127.57649000000001,35.70551],"type":"Point"}
+}

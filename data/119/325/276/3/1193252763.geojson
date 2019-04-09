@@ -1,0 +1,71 @@
+{
+  "id": 1193252763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34498,35.61693,128.34498,35.61693",
+    "geom:latitude":35.61693,
+    "geom:longitude":128.34498,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Namjaedong",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901707,
+    "gn:latitude":35.61693,
+    "gn:longitude":128.34498,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Namjaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0a8\uc7ac\ub3d9",
+        "Namjaedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901707
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"afc5a3cb81ef279d53a2caff6323e1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1193252763,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1193252763,
+    "wof:lastmodified":1537658793,
+    "wof:name":"Namjaedong",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34498,
+    35.61693,
+    128.34498,
+    35.61693
+],
+  "geometry": {"coordinates":[128.34497999999999,35.61693],"type":"Point"}
+}

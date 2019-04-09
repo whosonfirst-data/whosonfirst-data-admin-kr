@@ -1,0 +1,71 @@
+{
+  "id": 1309691301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.56639,37.41083,127.56639,37.41083",
+    "geom:latitude":37.41083,
+    "geom:longitude":127.56639,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mayau",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576434,
+    "gn:latitude":37.41083,
+    "gn:longitude":127.56639,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mayau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9c8\uc57c\uc6b0",
+        "Mayau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576434
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"69d668ec3b8ce2835ea222d84f364f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1309691301,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309691301,
+    "wof:lastmodified":1537657315,
+    "wof:name":"Mayau",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.56638999999998,
+    37.41083,
+    127.56638999999998,
+    37.41083
+],
+  "geometry": {"coordinates":[127.56638999999998,37.41083],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225809133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52139,34.35861,126.52139,34.35861",
+    "geom:latitude":34.35861,
+    "geom:longitude":126.52139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sojugeomnam",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394679,
+    "gn:latitude":34.35861,
+    "gn:longitude":126.52139,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sojugeomnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Araen\u014fmnamp\u2019o"
+    ],
+    "name:kor_x_variant":[
+        "\uc18c\uc8fd\uc5c4\ub0a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394679
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5ddbb13545d75d7c3509b7e88fa2b222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1225809133,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225809133,
+    "wof:lastmodified":1537657137,
+    "wof:name":"Sojugeomnam",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52139,
+    34.35861,
+    126.52139,
+    34.35861
+],
+  "geometry": {"coordinates":[126.52139,34.35861],"type":"Point"}
+}

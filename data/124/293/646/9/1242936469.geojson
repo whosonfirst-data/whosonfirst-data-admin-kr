@@ -1,0 +1,73 @@
+{
+  "id": 1242936469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67306,36.29389,126.67306,36.29389",
+    "geom:latitude":36.29389,
+    "geom:longitude":126.67306,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tohwadam-ni",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834617,
+    "gn:latitude":36.29389,
+    "gn:longitude":126.67306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tohwadam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tohwadan-ni",
+        "Tohwadam-ni",
+        "\ub3c4\ud654\ub2f4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834617
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1d670d7ee3cff32c2eb35edf2ff82f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1242936469,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1242936469,
+    "wof:lastmodified":1537656096,
+    "wof:name":"Tohwadam-ni",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67306,
+    36.29389000000001,
+    126.67306,
+    36.29389000000001
+],
+  "geometry": {"coordinates":[126.67306000000001,36.29389000000001],"type":"Point"}
+}

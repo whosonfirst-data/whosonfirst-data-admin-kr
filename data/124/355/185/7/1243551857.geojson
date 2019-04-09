@@ -1,0 +1,79 @@
+{
+  "id": 1243551857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.92766,38.19364,127.92766,38.19364",
+    "geom:latitude":38.19364,
+    "geom:longitude":127.92766,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Beodeongmal",
+    "gn:country_code":"KR",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839094,
+    "gn:latitude":38.19364,
+    "gn:longitude":127.92766,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Beodeongmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "P\u014fd\u014fng-mal"
+    ],
+    "name:kor_x_variant":[
+        "\ubc84\ub369\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "P\u2019od\u016dn-mal",
+        "P\u014fl-mal",
+        "Podong-mal",
+        "Beodeongmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890474685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839094
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5e4ba978468b192dc64ce44ea58d3e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474685,
+            "locality_id":1243551857,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243551857,
+    "wof:lastmodified":1537656325,
+    "wof:name":"Beodeongmal",
+    "wof:parent_id":890474685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.92766,
+    38.19364,
+    127.92766,
+    38.19364
+],
+  "geometry": {"coordinates":[127.92766,38.19364],"type":"Point"}
+}

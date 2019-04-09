@@ -1,0 +1,73 @@
+{
+  "id": 1226812547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5598,36.802,126.5598,36.802",
+    "geom:latitude":36.802,
+    "geom:longitude":126.5598,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kajwa-ri",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843326,
+    "gn:latitude":36.802,
+    "gn:longitude":126.5598,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kajwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasa-ri",
+        "\uac00\uc88c\ub9ac",
+        "Kajwaul",
+        "Kajwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843326
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c0ed13e1be54dc187157329e9275b886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1226812547,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226812547,
+    "wof:lastmodified":1537656543,
+    "wof:name":"Kajwa-ri",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5598,
+    36.802,
+    126.5598,
+    36.802
+],
+  "geometry": {"coordinates":[126.5598,36.802],"type":"Point"}
+}

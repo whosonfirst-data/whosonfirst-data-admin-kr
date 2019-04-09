@@ -1,0 +1,72 @@
+{
+  "id": 1193005169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42225,37.43504,126.42225,37.43504",
+    "geom:latitude":37.43504,
+    "geom:longitude":126.42225,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gongdaengi",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274408,
+    "gn:latitude":37.43504,
+    "gn:longitude":126.42225,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Gongdaengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacf5\ub315\uc774",
+        "Gongdaengi",
+        "Kongdaengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274408
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"36d13541212ee98f54b407952b3c056b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746485,
+            "locality_id":1193005169,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1193005169,
+    "wof:lastmodified":1537657015,
+    "wof:name":"Gongdaengi",
+    "wof:parent_id":1108746485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42225,
+    37.43504,
+    126.42225,
+    37.43504
+],
+  "geometry": {"coordinates":[126.42225000000001,37.43504],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225811743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4185,36.7272,126.4185,36.7272",
+    "geom:latitude":36.7272,
+    "geom:longitude":126.4185,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Onjong",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839739,
+    "gn:latitude":36.7272,
+    "gn:longitude":126.4185,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u014enj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014enj\u014fng-ni",
+        "\uc5b8\uc815",
+        "\u014enj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839739
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c21494184fe7f060b26d3ce203014adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1225811743,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1225811743,
+    "wof:lastmodified":1537656362,
+    "wof:name":"Onjong",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4185,
+    36.7272,
+    126.4185,
+    36.7272
+],
+  "geometry": {"coordinates":[126.41849999999999,36.7272],"type":"Point"}
+}

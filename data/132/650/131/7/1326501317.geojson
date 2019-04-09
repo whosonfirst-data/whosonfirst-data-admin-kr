@@ -1,0 +1,73 @@
+{
+  "id": 1326501317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6077,37.25607,126.6077,37.25607",
+    "geom:latitude":37.25607,
+    "geom:longitude":126.6077,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yeongjeondong",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832406,
+    "gn:latitude":37.25607,
+    "gn:longitude":126.6077,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Yeongjeondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc601\uc804\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fngj\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832406
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"46a53cf4f041a15573f82209121f3b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746407,
+            "locality_id":1326501317,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1326501317,
+    "wof:lastmodified":1537655976,
+    "wof:name":"Yeongjeondong",
+    "wof:parent_id":1108746407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6077,
+    37.25607,
+    126.6077,
+    37.25607
+],
+  "geometry": {"coordinates":[126.60769999999999,37.25607],"type":"Point"}
+}

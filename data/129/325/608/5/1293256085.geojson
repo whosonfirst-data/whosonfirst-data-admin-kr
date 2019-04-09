@@ -1,0 +1,70 @@
+{
+  "id": 1293256085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6937,35.27241,126.6937,35.27241",
+    "geom:latitude":35.27241,
+    "geom:longitude":126.6937,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seokchon",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169685,
+    "gn:latitude":35.27241,
+    "gn:longitude":126.6937,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seokchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169685
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c3dc0e270af6f043eb884df145147b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1293256085,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293256085,
+    "wof:lastmodified":1537659179,
+    "wof:name":"Seokchon",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6937,
+    35.27241,
+    126.6937,
+    35.27241
+],
+  "geometry": {"coordinates":[126.69370000000001,35.27241],"type":"Point"}
+}

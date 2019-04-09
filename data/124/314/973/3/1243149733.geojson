@@ -1,0 +1,71 @@
+{
+  "id": 1243149733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05747,37.59737,127.05747,37.59737",
+    "geom:latitude":37.59737,
+    "geom:longitude":127.05747,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Imuni-dong",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801066,
+    "gn:latitude":37.59737,
+    "gn:longitude":127.05747,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Imuni-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc774\ubb382\ub3d9",
+        "Imuni-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890473533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801066
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a04b16f06470bd39a6db9e3f4940dd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473533,
+            "locality_id":1243149733,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1243149733,
+    "wof:lastmodified":1537657687,
+    "wof:name":"Imuni-dong",
+    "wof:parent_id":890473533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05747,
+    37.59737,
+    127.05747,
+    37.59737
+],
+  "geometry": {"coordinates":[127.05747,37.59737],"type":"Point"}
+}

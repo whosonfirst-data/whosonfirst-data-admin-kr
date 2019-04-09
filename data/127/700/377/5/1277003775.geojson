@@ -1,0 +1,73 @@
+{
+  "id": 1277003775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8278,37.6571,127.8278,37.6571",
+    "geom:latitude":37.6571,
+    "geom:longitude":127.8278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'ongnyongu",
+    "gn:country_code":"KR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816192,
+    "gn:latitude":37.6571,
+    "gn:longitude":127.8278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019\u014fngnyongu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\ub8e1\uc6b0"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019\u014fngnyongu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816192
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ea84c99c8d78ac2c76cf6449bd3e7148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1277003775,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1277003775,
+    "wof:lastmodified":1537658081,
+    "wof:name":"Ch'ongnyongu",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8278,
+    37.6571,
+    127.8278,
+    37.6571
+],
+  "geometry": {"coordinates":[127.8278,37.6571],"type":"Point"}
+}

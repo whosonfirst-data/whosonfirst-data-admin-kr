@@ -1,0 +1,73 @@
+{
+  "id": 1276840721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.39928,36.12834,129.39928,36.12834",
+    "geom:latitude":36.12834,
+    "geom:longitude":129.39928,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gokgang",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889989,
+    "gn:latitude":36.12834,
+    "gn:longitude":129.39928,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Gokgang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace1\uac15"
+    ],
+    "name:und_x_variant":[
+        "Kokkang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889989
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5a0c226c75c636aa109affd0515e3376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1276840721,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276840721,
+    "wof:lastmodified":1537656813,
+    "wof:name":"Gokgang",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.39928,
+    36.12834,
+    129.39928,
+    36.12834
+],
+  "geometry": {"coordinates":[129.39928,36.12834],"type":"Point"}
+}

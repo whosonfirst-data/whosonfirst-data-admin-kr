@@ -1,0 +1,72 @@
+{
+  "id": 1327018373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.22833,35.22611,129.22833,35.22611",
+    "geom:latitude":35.22611,
+    "geom:longitude":129.22833,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Taihen-ri",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835478,
+    "gn:latitude":35.22611,
+    "gn:longitude":129.22833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taihen-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taeby\u014fn-ni",
+        "Taeby\u014fn-ri",
+        "Taeby\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835478
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"573ccb6e1099d0f99134caba20baeb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1327018373,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1327018373,
+    "wof:lastmodified":1537656140,
+    "wof:name":"Taihen-ri",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.22833,
+    35.22611,
+    129.22833,
+    35.22611
+],
+  "geometry": {"coordinates":[129.22833,35.22611],"type":"Point"}
+}

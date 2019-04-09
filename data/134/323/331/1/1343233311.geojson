@@ -1,0 +1,72 @@
+{
+  "id": 1343233311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9828,37.0673,126.9828,37.0673",
+    "geom:latitude":37.0673,
+    "geom:longitude":126.9828,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sanghyeon",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575474,
+    "gn:latitude":37.0673,
+    "gn:longitude":126.9828,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sanghyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\ud604",
+        "Sanghyeon",
+        "Sanghy\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575474
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"afe4fa67ae82e703e7f9ed0e0925362c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1343233311,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343233311,
+    "wof:lastmodified":1537657271,
+    "wof:name":"Sanghyeon",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9828,
+    37.0673,
+    126.9828,
+    37.0673
+],
+  "geometry": {"coordinates":[126.9828,37.0673],"type":"Point"}
+}

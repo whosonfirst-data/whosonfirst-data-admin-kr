@@ -1,0 +1,72 @@
+{
+  "id": 1242563871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04125,36.96627,127.04125,36.96627",
+    "geom:latitude":36.96627,
+    "geom:longitude":127.04125,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seojeongsa",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810984,
+    "gn:latitude":36.96627,
+    "gn:longitude":127.04125,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Seojeongsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11c\uc815\uc790",
+        "S\u014fj\u014fngja",
+        "Seojeongsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810984
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"04cf8e33b3c86b91ac29b54bbc8cbb2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1242563871,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242563871,
+    "wof:lastmodified":1537657923,
+    "wof:name":"Seojeongsa",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04125,
+    36.96627,
+    127.04125,
+    36.96627
+],
+  "geometry": {"coordinates":[127.04125000000001,36.96627],"type":"Point"}
+}

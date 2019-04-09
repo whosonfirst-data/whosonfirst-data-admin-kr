@@ -1,0 +1,76 @@
+{
+  "id": 1259662875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3932,37.5034,127.3932,37.5034",
+    "geom:latitude":37.5034,
+    "geom:longitude":127.3932,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Daetan",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897088,
+    "gn:latitude":37.5034,
+    "gn:longitude":127.3932,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Daetan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ud0c4"
+    ],
+    "name:und_x_variant":[
+        "Naet\u2019an",
+        "\ub300\ud0c4",
+        "Taet\u2019an",
+        "Daetan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897088
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72bca8df3367b86d29559fc52d627ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1259662875,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259662875,
+    "wof:lastmodified":1537656930,
+    "wof:name":"Daetan",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3932,
+    37.5034,
+    127.3932,
+    37.5034
+],
+  "geometry": {"coordinates":[127.39319999999999,37.5034],"type":"Point"}
+}

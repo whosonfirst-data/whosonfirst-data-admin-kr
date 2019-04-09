@@ -1,0 +1,70 @@
+{
+  "id": 1242846193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75049,35.28785,126.75049,35.28785",
+    "geom:latitude":35.28785,
+    "geom:longitude":126.75049,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Naehwang",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169523,
+    "gn:latitude":35.28785,
+    "gn:longitude":126.75049,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Naehwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\ud669"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169523
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"36d1527db2927c87ac6ce80c370ea42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1242846193,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242846193,
+    "wof:lastmodified":1537659178,
+    "wof:name":"Naehwang",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75049,
+    35.28785,
+    126.75049,
+    35.28785
+],
+  "geometry": {"coordinates":[126.75049,35.28785],"type":"Point"}
+}

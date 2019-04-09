@@ -1,0 +1,73 @@
+{
+  "id": 1309884931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.92531,37.96467,126.92531,37.96467",
+    "geom:latitude":37.96467,
+    "geom:longitude":126.92531,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Eumnae",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799293,
+    "gn:latitude":37.96467,
+    "gn:longitude":126.92531,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Eumnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc74d\ub0b4"
+    ],
+    "name:kor_x_variant":[
+        "\u016cmnae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799293
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af189be3c88dbf0be81202e805214597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1309884931,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309884931,
+    "wof:lastmodified":1537657628,
+    "wof:name":"Eumnae",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92531,
+    37.96467,
+    126.92531,
+    37.96467
+],
+  "geometry": {"coordinates":[126.92531,37.96467],"type":"Point"}
+}

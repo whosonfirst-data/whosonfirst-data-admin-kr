@@ -1,0 +1,71 @@
+{
+  "id": 1326609097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.03742,37.72741,127.03742,37.72741",
+    "geom:latitude":37.72741,
+    "geom:longitude":127.03742,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hodong",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801894,
+    "gn:latitude":37.72741,
+    "gn:longitude":127.03742,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Hodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud638\ub3d9",
+        "Hodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801894
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64f73566297d4eeb078112bd6f0229c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475299,
+            "locality_id":1326609097,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1326609097,
+    "wof:lastmodified":1537657711,
+    "wof:name":"Hodong",
+    "wof:parent_id":890475299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.03742,
+    37.72741,
+    127.03742,
+    37.72741
+],
+  "geometry": {"coordinates":[127.03742,37.72741],"type":"Point"}
+}

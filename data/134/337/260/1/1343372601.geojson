@@ -1,0 +1,73 @@
+{
+  "id": 1343372601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39833,33.47332,126.39833,33.47332",
+    "geom:latitude":33.47332,
+    "geom:longitude":126.39833,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hagwondong",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194271,
+    "gn:latitude":33.47332,
+    "gn:longitude":126.39833,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Hagwondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\uc6d0\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hagw\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194271
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5d8e758beeeb7a87cae2668e035992a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1343372601,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1343372601,
+    "wof:lastmodified":1537657006,
+    "wof:name":"Hagwondong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39833,
+    33.47332,
+    126.39833,
+    33.47332
+],
+  "geometry": {"coordinates":[126.39833,33.47332],"type":"Point"}
+}

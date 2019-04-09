@@ -1,0 +1,73 @@
+{
+  "id": 1276521031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3901,35.81278,128.3901,35.81278",
+    "geom:latitude":35.81278,
+    "geom:longitude":128.3901,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Beolji",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839015,
+    "gn:latitude":35.81278,
+    "gn:longitude":128.3901,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Beolji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u014flchi-dong",
+        "\ubc8c\uc9c0",
+        "P\u014flchi",
+        "Beolji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839015
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee378b999357f33f67ae121b300ea127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1276521031,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276521031,
+    "wof:lastmodified":1537656320,
+    "wof:name":"Beolji",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3901,
+    35.81278,
+    128.3901,
+    35.81278
+],
+  "geometry": {"coordinates":[128.39009999999999,35.81278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309789085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.017,36.9161,129.017,36.9161",
+    "geom:latitude":36.9161,
+    "geom:longitude":129.017,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Konae",
+    "gn:country_code":"KR",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6895630,
+    "gn:latitude":36.9161,
+    "gn:longitude":129.017,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u014fnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac70\ub0b4",
+        "K\u014fnae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6895630
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"084fc36c9c28af82c422a2e040cfd801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1309789085,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309789085,
+    "wof:lastmodified":1537658632,
+    "wof:name":"Konae",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.017,
+    36.9161,
+    129.017,
+    36.9161
+],
+  "geometry": {"coordinates":[129.017,36.9161],"type":"Point"}
+}

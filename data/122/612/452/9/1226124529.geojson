@@ -1,0 +1,70 @@
+{
+  "id": 1226124529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72711,35.36288,126.72711,35.36288",
+    "geom:latitude":35.36288,
+    "geom:longitude":126.72711,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Keungol",
+    "gn:country_code":"KR",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169348,
+    "gn:latitude":35.36288,
+    "gn:longitude":126.72711,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Keungol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169348
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9a91d1b5d410bf7657a7dcf38153ca11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1226124529,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226124529,
+    "wof:lastmodified":1537659173,
+    "wof:name":"Keungol",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72711,
+    35.36288,
+    126.72711,
+    35.36288
+],
+  "geometry": {"coordinates":[126.72711,35.36288],"type":"Point"}
+}

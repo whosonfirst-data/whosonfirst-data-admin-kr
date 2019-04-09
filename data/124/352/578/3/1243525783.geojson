@@ -1,0 +1,72 @@
+{
+  "id": 1243525783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1362,37.9012,127.1362,37.9012",
+    "geom:latitude":37.9012,
+    "geom:longitude":127.1362,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Uswangbang",
+    "gn:country_code":"KR",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799879,
+    "gn:latitude":37.9012,
+    "gn:longitude":127.1362,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Uswangbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6c3\uc655\ubc29",
+        "Uswangbang",
+        "Udwangbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799879
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be48d09ab49a87f27cb8e6ea89f0d8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476241,
+            "locality_id":1243525783,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243525783,
+    "wof:lastmodified":1537657665,
+    "wof:name":"Uswangbang",
+    "wof:parent_id":890476241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1362,
+    37.9012,
+    127.1362,
+    37.9012
+],
+  "geometry": {"coordinates":[127.1362,37.9012],"type":"Point"}
+}

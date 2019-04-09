@@ -1,0 +1,78 @@
+{
+  "id": 1310287069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.28742,34.38799,126.28742,34.38799",
+    "geom:latitude":34.38799,
+    "geom:longitude":126.28742,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"Chindo-gun",
+    "gn:asciiname":"Wondagol",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833212,
+    "gn:latitude":34.38799,
+    "gn:longitude":126.28742,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Wondagol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ub2e4\uace8"
+    ],
+    "name:und_x_variant":[
+        "Genta-d\u014d",
+        "W\u014fnda-dong",
+        "W\u014fnda-gol",
+        "W\u014fnda",
+        "Wondagol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833212
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5a77bc0f521af324d9386f749ef223d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1310287069,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310287069,
+    "wof:lastmodified":1537656020,
+    "wof:name":"Wondagol",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.28742,
+    34.38799,
+    126.28742,
+    34.38799
+],
+  "geometry": {"coordinates":[126.28742,34.38799],"type":"Point"}
+}

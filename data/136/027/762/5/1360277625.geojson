@@ -1,0 +1,73 @@
+{
+  "id": 1360277625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2385,37.6948,128.2385,37.6948",
+    "geom:latitude":37.6948,
+    "geom:longitude":128.2385,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Noraeul",
+    "gn:country_code":"KR",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816064,
+    "gn:latitude":37.6948,
+    "gn:longitude":128.2385,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u014fraeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub108\ub798\uc6b8"
+    ],
+    "name:kor_x_variant":[
+        "N\u014fraeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816064
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"741c28e78f97b6f5c3187b1cb8779ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1360277625,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360277625,
+    "wof:lastmodified":1537658076,
+    "wof:name":"Noraeul",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2385,
+    37.6948,
+    128.2385,
+    37.6948
+],
+  "geometry": {"coordinates":[128.23849999999999,37.6948],"type":"Point"}
+}

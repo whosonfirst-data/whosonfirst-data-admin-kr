@@ -1,0 +1,74 @@
+{
+  "id": 1293072861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.08306,34.76056,126.08306,34.76056",
+    "geom:latitude":34.76056,
+    "geom:longitude":126.08306,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hanul-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844421,
+    "gn:latitude":34.76056,
+    "gn:longitude":126.08306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hanul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hangun-ni",
+        "Hanun",
+        "Hanun-ni",
+        "Hanul-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844421
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dcb1ef0712ac34ebae16c8ba55a38da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1293072861,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293072861,
+    "wof:lastmodified":1537656595,
+    "wof:name":"Hanul-li",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.08306,
+    34.76056,
+    126.08306,
+    34.76056
+],
+  "geometry": {"coordinates":[126.08306,34.76056],"type":"Point"}
+}

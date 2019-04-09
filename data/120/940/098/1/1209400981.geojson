@@ -1,0 +1,73 @@
+{
+  "id": 1209400981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53222,37.76083,126.53222,37.76083",
+    "geom:latitude":37.76083,
+    "geom:longitude":126.53222,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Kimp'o-si",
+    "gn:asciiname":"Bosuguji",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839076,
+    "gn:latitude":37.76083,
+    "gn:longitude":126.53222,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bosuguji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\uc218\uad6c\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "Kekke-dong",
+        "Pogon-ni",
+        "Kaekkye-dong",
+        "Kae\u016dl-tong",
+        "Posuguji",
+        "Bosuguji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839076
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e2652b732653010dfa28ba5234e56187",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209400981
+        }
+    ],
+    "wof:id":1209400981,
+    "wof:lastmodified":1537656324,
+    "wof:name":"Bosuguji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53222,
+    37.76083,
+    126.53222,
+    37.76083
+],
+  "geometry": {"coordinates":[126.53222,37.76083],"type":"Point"}
+}

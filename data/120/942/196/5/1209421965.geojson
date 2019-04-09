@@ -1,0 +1,65 @@
+{
+  "id": 1209421965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06431,35.575,127.06431,35.575",
+    "geom:latitude":35.575,
+    "geom:longitude":127.06431,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sagyo",
+    "gn:country_code":"KR",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877142,
+    "gn:latitude":35.575,
+    "gn:longitude":127.06431,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sagyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\uad50",
+        "Sagyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877142
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6bd0cc0c2afdc17b7616d0d05809f3ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209421965
+        }
+    ],
+    "wof:id":1209421965,
+    "wof:lastmodified":1537658161,
+    "wof:name":"Sagyo",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06431,
+    35.575,
+    127.06431,
+    35.575
+],
+  "geometry": {"coordinates":[127.06431000000001,35.575],"type":"Point"}
+}

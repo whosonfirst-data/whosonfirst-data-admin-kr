@@ -1,0 +1,71 @@
+{
+  "id": 1243530665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6035,36.9162,126.6035,36.9162",
+    "geom:latitude":36.9162,
+    "geom:longitude":126.6035,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wonjin'gwan",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1887254,
+    "gn:latitude":36.9162,
+    "gn:longitude":126.6035,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014fnjin\u2019gwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uc9c4\uad00",
+        "W\u014fnjin\u2019gwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1887254
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"12e9adc25e33cb2d714b754154099903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1243530665,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243530665,
+    "wof:lastmodified":1537656790,
+    "wof:name":"Wonjin'gwan",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6035,
+    36.9162,
+    126.6035,
+    36.9162
+],
+  "geometry": {"coordinates":[126.6035,36.9162],"type":"Point"}
+}

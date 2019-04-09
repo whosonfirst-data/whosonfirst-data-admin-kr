@@ -1,0 +1,64 @@
+{
+  "id": 1209178297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35566,35.60186,129.35566,35.60186",
+    "geom:latitude":35.60186,
+    "geom:longitude":129.35566,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Jidang",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080276,
+    "gn:latitude":35.60186,
+    "gn:longitude":129.35566,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Jidang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ub2f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080276
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3ecbf647587ec85dad9fdd72a86190cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209178297
+        }
+    ],
+    "wof:id":1209178297,
+    "wof:lastmodified":1537659143,
+    "wof:name":"Jidang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35566,
+    35.60185999999999,
+    129.35566,
+    35.60185999999999
+],
+  "geometry": {"coordinates":[129.35566,35.60185999999999],"type":"Point"}
+}

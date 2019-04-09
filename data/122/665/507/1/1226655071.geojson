@@ -1,0 +1,74 @@
+{
+  "id": 1226655071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.29069,33.20874,126.29069,33.20874",
+    "geom:latitude":33.20874,
+    "geom:longitude":126.29069,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Namjeju-gun",
+    "gn:asciiname":"Sanisudong",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6193936,
+    "gn:latitude":33.20874,
+    "gn:longitude":126.29069,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sanisudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\uc774\uc218\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Sansui-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890474633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6193936
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cd2b436b0397c9f83d94ac2939efd41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474633,
+            "locality_id":1226655071,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1226655071,
+    "wof:lastmodified":1537657000,
+    "wof:name":"Sanisudong",
+    "wof:parent_id":890474633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.29068999999998,
+    33.20874,
+    126.29068999999998,
+    33.20874
+],
+  "geometry": {"coordinates":[126.29068999999998,33.20874],"type":"Point"}
+}

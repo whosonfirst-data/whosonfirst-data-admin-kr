@@ -1,0 +1,72 @@
+{
+  "id": 1310184191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97389,37.26194,126.97389,37.26194",
+    "geom:latitude":37.26194,
+    "geom:longitude":126.97389,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kosaek-tong",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573871,
+    "gn:latitude":37.26194,
+    "gn:longitude":126.97389,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kosaek-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc0c9\ub3d9",
+        "Gosaek-dong",
+        "Kosaek-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573871
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52d26ef746d73f159baf554cbaff4d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746527,
+            "locality_id":1310184191,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310184191,
+    "wof:lastmodified":1537657247,
+    "wof:name":"Kosaek-tong",
+    "wof:parent_id":1108746527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97389,
+    37.26194,
+    126.97389,
+    37.26194
+],
+  "geometry": {"coordinates":[126.97389,37.26194],"type":"Point"}
+}

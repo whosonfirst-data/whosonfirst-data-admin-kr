@@ -1,0 +1,71 @@
+{
+  "id": 1193240291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4906,36.4158,127.4906,36.4158",
+    "geom:latitude":36.4158,
+    "geom:longitude":127.4906,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hansaemnaegi",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889004,
+    "gn:latitude":36.4158,
+    "gn:longitude":127.4906,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hansaemnaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud55c\uc0d8\ub0b4\uae30",
+        "Hansaemnaegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889004
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b5134ce875abf7a252a9e0d9bb18f8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746447,
+            "locality_id":1193240291,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1193240291,
+    "wof:lastmodified":1537658449,
+    "wof:name":"Hansaemnaegi",
+    "wof:parent_id":1108746447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4906,
+    36.4158,
+    127.4906,
+    36.4158
+],
+  "geometry": {"coordinates":[127.4906,36.4158],"type":"Point"}
+}

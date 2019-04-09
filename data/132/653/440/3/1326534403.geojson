@@ -1,0 +1,77 @@
+{
+  "id": 1326534403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.629,37.0595,128.629,37.0595",
+    "geom:latitude":37.0595,
+    "geom:longitude":128.629,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Eoeundong",
+    "gn:country_code":"KR",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795705,
+    "gn:latitude":37.0595,
+    "gn:longitude":128.629,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Eoeundong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\uc740"
+    ],
+    "name:kor_x_variant":[
+        "\u014e\u016dn",
+        "\uc5b4\uc740\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Eoeun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795705
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"863e3321b1c33fcedd371369726bd7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1326534403,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1326534403,
+    "wof:lastmodified":1537657535,
+    "wof:name":"Eoeundong",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.629,
+    37.0595,
+    128.629,
+    37.0595
+],
+  "geometry": {"coordinates":[128.62899999999999,37.0595],"type":"Point"}
+}

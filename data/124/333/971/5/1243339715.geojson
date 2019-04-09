@@ -1,0 +1,71 @@
+{
+  "id": 1243339715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.2651,36.731,126.2651,36.731",
+    "geom:latitude":36.731,
+    "geom:longitude":126.2651,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Myongjaengi",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808127,
+    "gn:latitude":36.731,
+    "gn:longitude":126.2651,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"My\u014fngjaengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba85\uc7c1\uc774",
+        "My\u014fngjaengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808127
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"63478ea8b85a2708bfd42a25e3b60d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1243339715,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243339715,
+    "wof:lastmodified":1537657817,
+    "wof:name":"Myongjaengi",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.2651,
+    36.731,
+    126.2651,
+    36.731
+],
+  "geometry": {"coordinates":[126.2651,36.731],"type":"Point"}
+}

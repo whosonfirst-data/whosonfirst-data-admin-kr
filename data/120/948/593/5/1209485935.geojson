@@ -1,0 +1,65 @@
+{
+  "id": 1209485935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9257,36.3455,128.9257,36.3455",
+    "geom:latitude":36.3455,
+    "geom:longitude":128.9257,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tunjon",
+    "gn:country_code":"KR",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893087,
+    "gn:latitude":36.3455,
+    "gn:longitude":128.9257,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tunj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub454\uc804",
+        "Tunj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893087
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"380599dd225932f8d00868049a02bb03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209485935
+        }
+    ],
+    "wof:id":1209485935,
+    "wof:lastmodified":1537658571,
+    "wof:name":"Tunjon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9257,
+    36.3455,
+    128.9257,
+    36.3455
+],
+  "geometry": {"coordinates":[128.92570000000001,36.3455],"type":"Point"}
+}

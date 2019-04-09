@@ -1,0 +1,75 @@
+{
+  "id": 1327131673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13159,38.27888,128.13159,38.27888",
+    "geom:latitude":38.27888,
+    "geom:longitude":128.13159,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Unjeondong",
+    "gn:country_code":"KR",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833678,
+    "gn:latitude":38.27888,
+    "gn:longitude":128.13159,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Unjeondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b4\uc804\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Unch\u2019\u014fn-ni",
+        "Unj\u014fn-dong",
+        "Unjeondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890474685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833678
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0344657a6afaba7c6edef7cdfcd9e4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474685,
+            "locality_id":1327131673,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327131673,
+    "wof:lastmodified":1537656046,
+    "wof:name":"Unjeondong",
+    "wof:parent_id":890474685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13159,
+    38.27888,
+    128.13159,
+    38.27888
+],
+  "geometry": {"coordinates":[128.13158999999999,38.27888],"type":"Point"}
+}

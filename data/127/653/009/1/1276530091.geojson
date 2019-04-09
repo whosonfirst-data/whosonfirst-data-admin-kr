@@ -1,0 +1,78 @@
+{
+  "id": 1276530091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87833,34.6675,126.87833,34.6675",
+    "geom:latitude":34.6675,
+    "geom:longitude":126.87833,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yeongjeon",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832412,
+    "gn:latitude":34.6675,
+    "gn:longitude":126.87833,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Yeongjeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc601\uc804"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fngj\u014fn"
+    ],
+    "name:und_x_variant":[
+        "Eiden-ri",
+        "Y\u014fngj\u014fn-ni",
+        "Yeongjeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832412
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e0f9e1eddd84364f5959f779fcd2d32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1276530091,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276530091,
+    "wof:lastmodified":1537655977,
+    "wof:name":"Yeongjeon",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87833,
+    34.6675,
+    126.87833,
+    34.6675
+],
+  "geometry": {"coordinates":[126.87833000000001,34.6675],"type":"Point"}
+}

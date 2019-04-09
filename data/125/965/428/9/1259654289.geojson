@@ -1,0 +1,71 @@
+{
+  "id": 1259654289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.4288,36.8332,129.4288,36.8332",
+    "geom:latitude":36.8332,
+    "geom:longitude":129.4288,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Toltam",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879720,
+    "gn:latitude":36.8332,
+    "gn:longitude":129.4288,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Toltam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3cc\ub2f4",
+        "Toltam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879720
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"58d86d5433039bbb7ab2e3066ec06063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1259654289,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259654289,
+    "wof:lastmodified":1537658234,
+    "wof:name":"Toltam",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.4288,
+    36.8332,
+    129.4288,
+    36.8332
+],
+  "geometry": {"coordinates":[129.4288,36.8332],"type":"Point"}
+}

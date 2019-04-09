@@ -1,0 +1,70 @@
+{
+  "id": 1344222655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82725,35.09325,126.82725,35.09325",
+    "geom:latitude":35.09325,
+    "geom:longitude":126.82725,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gaedong",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11172020,
+    "gn:latitude":35.09325,
+    "gn:longitude":126.82725,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172020
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5b3dbc378321fafd4279efaa0d64cf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472185,
+            "locality_id":1344222655,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1344222655,
+    "wof:lastmodified":1537659207,
+    "wof:name":"Gaedong",
+    "wof:parent_id":890472185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82725,
+    35.09325,
+    126.82725,
+    35.09325
+],
+  "geometry": {"coordinates":[126.82725000000001,35.09325],"type":"Point"}
+}

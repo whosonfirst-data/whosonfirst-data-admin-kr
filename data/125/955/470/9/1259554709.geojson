@@ -1,0 +1,71 @@
+{
+  "id": 1259554709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93038,36.95767,126.93038,36.95767",
+    "geom:latitude":36.95767,
+    "geom:longitude":126.93038,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Haanjung",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807674,
+    "gn:latitude":36.95767,
+    "gn:longitude":126.93038,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Haanjung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uc548\uc911",
+        "Haanjung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807674
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2f4ae20d081b9b69690e067c2ec91b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1259554709,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259554709,
+    "wof:lastmodified":1537657796,
+    "wof:name":"Haanjung",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93038,
+    36.95767,
+    126.93038,
+    36.95767
+],
+  "geometry": {"coordinates":[126.93038,36.95767],"type":"Point"}
+}

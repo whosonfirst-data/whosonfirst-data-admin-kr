@@ -1,0 +1,70 @@
+{
+  "id": 1242975423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38974,36.60418,127.38974,36.60418",
+    "geom:latitude":36.60418,
+    "geom:longitude":127.38974,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hyeonam",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10809290,
+    "gn:latitude":36.60418,
+    "gn:longitude":127.38974,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Hyeonam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud604\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10809290
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"33f51d37aff7e8b89ffa626c9c921fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746435,
+            "locality_id":1242975423,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1242975423,
+    "wof:lastmodified":1537659065,
+    "wof:name":"Hyeonam",
+    "wof:parent_id":1108746435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38974,
+    36.60418,
+    127.38974,
+    36.60418
+],
+  "geometry": {"coordinates":[127.38974,36.60418],"type":"Point"}
+}

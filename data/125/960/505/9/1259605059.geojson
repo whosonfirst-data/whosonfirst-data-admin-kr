@@ -1,0 +1,73 @@
+{
+  "id": 1259605059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4293,37.1573,128.4293,37.1573",
+    "geom:latitude":37.1573,
+    "geom:longitude":128.4293,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nobun-gol",
+    "gn:country_code":"KR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795479,
+    "gn:latitude":37.1573,
+    "gn:longitude":128.4293,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u014fbun-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub108\ubd84\uace8"
+    ],
+    "name:kor_x_variant":[
+        "N\u014fbun-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795479
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e7d52889008136e3b4e2be6351e0366d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1259605059,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259605059,
+    "wof:lastmodified":1537657527,
+    "wof:name":"Nobun-gol",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4293,
+    37.1573,
+    128.4293,
+    37.1573
+],
+  "geometry": {"coordinates":[128.42930000000001,37.1573],"type":"Point"}
+}

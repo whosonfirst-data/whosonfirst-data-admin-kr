@@ -1,0 +1,78 @@
+{
+  "id": 1259655485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.46416,34.93139,127.46416,34.93139",
+    "geom:latitude":34.93139,
+    "geom:longitude":127.46416,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Heulsan",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844104,
+    "gn:latitude":34.93139,
+    "gn:longitude":127.46416,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Heulsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud758\uc0b0"
+    ],
+    "name:kor_x_variant":[
+        "H\u016dlsan"
+    ],
+    "name:und_x_variant":[
+        "Kalsan-ni",
+        "H\u016dlsan-ni",
+        "Heulsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844104
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"410a7bfe6d77710624195def59a6ff3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1259655485,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259655485,
+    "wof:lastmodified":1537656578,
+    "wof:name":"Heulsan",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.46416,
+    34.93139,
+    127.46416,
+    34.93139
+],
+  "geometry": {"coordinates":[127.46416000000001,34.93139],"type":"Point"}
+}

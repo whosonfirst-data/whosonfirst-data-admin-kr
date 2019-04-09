@@ -1,0 +1,65 @@
+{
+  "id": 1209376501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.55615,35.59511,128.55615,35.59511",
+    "geom:latitude":35.59511,
+    "geom:longitude":128.55615,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tokkok",
+    "gn:country_code":"KR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903333,
+    "gn:latitude":35.59511,
+    "gn:longitude":128.55615,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u014fkkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub355\uace1",
+        "T\u014fkkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903333
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5a123db2a02633a70de619f274e415c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209376501
+        }
+    ],
+    "wof:id":1209376501,
+    "wof:lastmodified":1537658845,
+    "wof:name":"Tokkok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.55615,
+    35.59511,
+    128.55615,
+    35.59511
+],
+  "geometry": {"coordinates":[128.55615,35.59511],"type":"Point"}
+}

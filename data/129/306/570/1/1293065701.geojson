@@ -1,0 +1,71 @@
+{
+  "id": 1293065701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34425,35.50083,128.34425,35.50083",
+    "geom:latitude":35.50083,
+    "geom:longitude":128.34425,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hayo",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898206,
+    "gn:latitude":35.50083,
+    "gn:longitude":128.34425,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hay\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uc5ec",
+        "Hay\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898206
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dade805678ee3e8ed6f334698b7b40cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474629,
+            "locality_id":1293065701,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293065701,
+    "wof:lastmodified":1537658704,
+    "wof:name":"Hayo",
+    "wof:parent_id":890474629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34425,
+    35.50083,
+    128.34425,
+    35.50083
+],
+  "geometry": {"coordinates":[128.34424999999999,35.50083],"type":"Point"}
+}

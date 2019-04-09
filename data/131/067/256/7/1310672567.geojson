@@ -1,0 +1,67 @@
+{
+  "id": 1310672567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87889,34.47833,126.87889,34.47833",
+    "geom:latitude":34.47833,
+    "geom:longitude":126.87889,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yangha",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395196,
+    "gn:latitude":34.47833,
+    "gn:longitude":126.87889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395196
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a2ec07c318d13f28cd351c8c8831b041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1310672567,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310672567,
+    "wof:lastmodified":1536675946,
+    "wof:name":"Yangha",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87888999999998,
+    34.47833,
+    126.87888999999998,
+    34.47833
+],
+  "geometry": {"coordinates":[126.87888999999998,34.47833],"type":"Point"}
+}

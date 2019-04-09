@@ -1,0 +1,73 @@
+{
+  "id": 1293083079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02001,34.86243,127.02001,34.86243",
+    "geom:latitude":34.86243,
+    "geom:longitude":127.02001,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hachudong",
+    "gn:country_code":"KR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684213,
+    "gn:latitude":34.86243,
+    "gn:longitude":127.02001,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Hachudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ucd94\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Hach\u2019u-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684213
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e63a1217be63d9a32e49741ad5fc1552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1293083079,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293083079,
+    "wof:lastmodified":1537657399,
+    "wof:name":"Hachudong",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02001,
+    34.86243,
+    127.02001,
+    34.86243
+],
+  "geometry": {"coordinates":[127.02001,34.86243],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209889627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.09325,36.18604,129.09325,36.18604",
+    "geom:latitude":36.18604,
+    "geom:longitude":129.09325,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kolbakk",
+    "gn:country_code":"KR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878551,
+    "gn:latitude":36.18604,
+    "gn:longitude":129.09325,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kolbakk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace8\ubc16",
+        "Kolbakk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878551
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4a0b31ba26887e28508cea4d8736aa91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1209889627,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209889627,
+    "wof:lastmodified":1537658194,
+    "wof:name":"Kolbakk",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.09325,
+    36.18604000000001,
+    129.09325,
+    36.18604000000001
+],
+  "geometry": {"coordinates":[129.09325000000001,36.18604000000001],"type":"Point"}
+}

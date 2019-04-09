@@ -1,0 +1,76 @@
+{
+  "id": 1326994033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97743,34.91185,126.97743,34.91185",
+    "geom:latitude":34.91185,
+    "geom:longitude":126.97743,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hanhandong",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844463,
+    "gn:latitude":34.91185,
+    "gn:longitude":126.97743,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Hanhandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\ud55c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kan\u2019gan-ni",
+        "Hanhgan-ni",
+        "Hanhan-dong",
+        "Hanhandong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844463
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"197d829956641e13bead71bddfaa29d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1326994033,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1326994033,
+    "wof:lastmodified":1537656597,
+    "wof:name":"Hanhandong",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97743,
+    34.91185,
+    126.97743,
+    34.91185
+],
+  "geometry": {"coordinates":[126.97743,34.91185],"type":"Point"}
+}

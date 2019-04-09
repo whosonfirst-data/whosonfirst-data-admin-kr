@@ -1,0 +1,73 @@
+{
+  "id": 1243453115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.75342,37.16958,127.75342,37.16958",
+    "geom:latitude":37.16958,
+    "geom:longitude":127.75342,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gangjeong",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843148,
+    "gn:latitude":37.16958,
+    "gn:longitude":127.75342,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Gangjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\uc815"
+    ],
+    "name:kor_x_variant":[
+        "Kangj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843148
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"76726743e8e5a7795381acce883d9d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1243453115,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243453115,
+    "wof:lastmodified":1537656533,
+    "wof:name":"Gangjeong",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.75342,
+    37.16958,
+    127.75342,
+    37.16958
+],
+  "geometry": {"coordinates":[127.75342000000001,37.16958],"type":"Point"}
+}

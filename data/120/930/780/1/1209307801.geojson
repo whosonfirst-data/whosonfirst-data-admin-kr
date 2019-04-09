@@ -1,0 +1,72 @@
+{
+  "id": 1209307801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60288,37.01002,127.60288,37.01002",
+    "geom:latitude":37.01002,
+    "geom:longitude":127.60288,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gajeonggae",
+    "gn:country_code":"KR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812750,
+    "gn:latitude":37.01002,
+    "gn:longitude":127.60288,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Gajeonggae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc9d5\uac1c"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\uc815\uac1c"
+    ],
+    "name:und_x_variant":[
+        "Gajinggae",
+        "Kajinggae",
+        "Gajeonggae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812750
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6f7603c69432b113972f42ab30fce38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209307801
+        }
+    ],
+    "wof:id":1209307801,
+    "wof:lastmodified":1537657982,
+    "wof:name":"Gajeonggae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60288,
+    37.01002,
+    127.60288,
+    37.01002
+],
+  "geometry": {"coordinates":[127.60288,37.01002],"type":"Point"}
+}

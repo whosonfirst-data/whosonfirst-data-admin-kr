@@ -1,0 +1,72 @@
+{
+  "id": 1259357323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.00694,35.32583,128.00694,35.32583",
+    "geom:latitude":35.32583,
+    "geom:longitude":128.00694,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Habin",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901081,
+    "gn:latitude":35.32583,
+    "gn:longitude":128.00694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Habin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanbin",
+        "Habin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901081
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7de70df542ef9e5bbacf2492e79e6151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472439,
+            "locality_id":1259357323,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259357323,
+    "wof:lastmodified":1537656948,
+    "wof:name":"Habin",
+    "wof:parent_id":890472439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.00694,
+    35.32583,
+    128.00694,
+    35.32583
+],
+  "geometry": {"coordinates":[128.00693999999999,35.32583],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243540671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22855,36.98353,127.22855,36.98353",
+    "geom:latitude":36.98353,
+    "geom:longitude":127.22855,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Galcheon",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843303,
+    "gn:latitude":36.98353,
+    "gn:longitude":127.22855,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Galcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uc804"
+    ],
+    "name:und_x_variant":[
+        "Kalch\u014fn-ni",
+        "Kalch\u014fn",
+        "Galcheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843303
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0660e6c9a07e39004a0b021fc526281f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1243540671,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243540671,
+    "wof:lastmodified":1537656542,
+    "wof:name":"Galcheon",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22855,
+    36.98353,
+    127.22855,
+    36.98353
+],
+  "geometry": {"coordinates":[127.22855,36.98353],"type":"Point"}
+}

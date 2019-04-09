@@ -1,0 +1,75 @@
+{
+  "id": 1276849893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93513,37.07069,126.93513,37.07069",
+    "geom:latitude":37.07069,
+    "geom:longitude":126.93513,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yodangi",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575460,
+    "gn:latitude":37.07069,
+    "gn:longitude":126.93513,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yodangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc694\ub2f9\uc774"
+    ],
+    "name:und_x_variant":[
+        "\uc694\ub2f9",
+        "Yodang",
+        "Yodangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575460
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ea76ae91139a75f035b53b91915539ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1276849893,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276849893,
+    "wof:lastmodified":1537657270,
+    "wof:name":"Yodangi",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93513,
+    37.07069,
+    126.93513,
+    37.07069
+],
+  "geometry": {"coordinates":[126.93513,37.07069],"type":"Point"}
+}

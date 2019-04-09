@@ -1,0 +1,78 @@
+{
+  "id": 1343332805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.74605,37.2177,127.74605,37.2177",
+    "geom:latitude":37.2177,
+    "geom:longitude":127.74605,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gongyangso",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813306,
+    "gn:latitude":37.2177,
+    "gn:longitude":127.74605,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Gongyangso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\ub0a8\uc774"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019angnami",
+        "\uacf5\uc591\uc18c"
+    ],
+    "name:und_x_variant":[
+        "Changnami",
+        "Gongyangso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813306
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"69dee59db4b469ea84482368d8eb2d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1343332805,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343332805,
+    "wof:lastmodified":1537658015,
+    "wof:name":"Gongyangso",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.74605,
+    37.2177,
+    127.74605,
+    37.2177
+],
+  "geometry": {"coordinates":[127.74605,37.2177],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226815583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2718,36.2652,127.2718,36.2652",
+    "geom:latitude":36.2652,
+    "geom:longitude":127.2718,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kuryesil",
+    "gn:country_code":"KR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889493,
+    "gn:latitude":36.2652,
+    "gn:longitude":127.2718,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kuryesil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\ub840\uc2e4",
+        "Kuryesil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889493
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"719da2a786eea0047c3e19e00c1ee8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472515,
+            "locality_id":1226815583,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226815583,
+    "wof:lastmodified":1537658452,
+    "wof:name":"Kuryesil",
+    "wof:parent_id":890472515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2718,
+    36.2652,
+    127.2718,
+    36.2652
+],
+  "geometry": {"coordinates":[127.2718,36.2652],"type":"Point"}
+}

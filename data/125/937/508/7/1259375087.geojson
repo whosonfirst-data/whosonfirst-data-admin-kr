@@ -1,0 +1,77 @@
+{
+  "id": 1259375087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2344,37.9794,128.2344,37.9794",
+    "geom:latitude":37.9794,
+    "geom:longitude":128.2344,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bakkatjeoul",
+    "gn:country_code":"KR",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888670,
+    "gn:latitude":37.9794,
+    "gn:longitude":128.2344,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bakkatjeoul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc14\uae65\uc800\uc6b8"
+    ],
+    "name:kor_x_variant":[
+        "Pakkatch\u014ful"
+    ],
+    "name:und_x_variant":[
+        "Pakakk\u014ful",
+        "Bakkatjeoul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888670
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2874e8b05628628fc0c19d1fb3f6e6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1259375087,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259375087,
+    "wof:lastmodified":1537656794,
+    "wof:name":"Bakkatjeoul",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2344,
+    37.9794,
+    128.2344,
+    37.9794
+],
+  "geometry": {"coordinates":[128.23439999999999,37.9794],"type":"Point"}
+}

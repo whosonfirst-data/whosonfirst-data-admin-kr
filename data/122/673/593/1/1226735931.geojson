@@ -1,0 +1,75 @@
+{
+  "id": 1226735931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90327,37.71689,126.90327,37.71689",
+    "geom:latitude":37.71689,
+    "geom:longitude":126.90327,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Byeokjaedong",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801859,
+    "gn:latitude":37.71689,
+    "gn:longitude":126.90327,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Byeokjaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcbd\uc81c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\ubcbd\uc81c",
+        "Py\u014fkche",
+        "Byeokjaedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801859
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"80b121fe4875281165a259033fe735bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746463,
+            "locality_id":1226735931,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226735931,
+    "wof:lastmodified":1537657710,
+    "wof:name":"Byeokjaedong",
+    "wof:parent_id":1108746463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90327,
+    37.71689,
+    126.90327,
+    37.71689
+],
+  "geometry": {"coordinates":[126.90327000000001,37.71689],"type":"Point"}
+}

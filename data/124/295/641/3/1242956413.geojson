@@ -1,0 +1,70 @@
+{
+  "id": 1242956413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.57965,36.61631,128.57965,36.61631",
+    "geom:latitude":36.61631,
+    "geom:longitude":128.57965,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hoam",
+    "gn:country_code":"KR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11271802,
+    "gn:latitude":36.61631,
+    "gn:longitude":128.57965,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Hoam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud638\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11271802
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"40701dacbc1eab79b2601097b127da3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1242956413,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242956413,
+    "wof:lastmodified":1537659314,
+    "wof:name":"Hoam",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.57965,
+    36.61631,
+    128.57965,
+    36.61631
+],
+  "geometry": {"coordinates":[128.57964999999999,36.61631],"type":"Point"}
+}

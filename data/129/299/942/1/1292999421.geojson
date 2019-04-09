@@ -1,0 +1,74 @@
+{
+  "id": 1292999421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.06667,36.95,128.06667,36.95",
+    "geom:latitude":36.95,
+    "geom:longitude":128.06667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hwanggang",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843946,
+    "gn:latitude":36.95,
+    "gn:longitude":128.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hwanggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dk\u014d-ri",
+        "Hwanggang-ni",
+        "K\u014dk\u014d",
+        "Hwanggang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843946
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17e4aa5efb011d4625384d5aff9fa5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1292999421,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1292999421,
+    "wof:lastmodified":1537656571,
+    "wof:name":"Hwanggang",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.06667,
+    36.95,
+    128.06667,
+    36.95
+],
+  "geometry": {"coordinates":[128.06666999999999,36.95],"type":"Point"}
+}

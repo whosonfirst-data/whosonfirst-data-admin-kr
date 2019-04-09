@@ -1,0 +1,71 @@
+{
+  "id": 1309982239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6745,36.7556,126.6745,36.7556",
+    "geom:latitude":36.7556,
+    "geom:longitude":126.6745,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kosang",
+    "gn:country_code":"KR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808497,
+    "gn:latitude":36.7556,
+    "gn:longitude":126.6745,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kosang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc0c1",
+        "Kosang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808497
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ec9c3348aa377cac35de8324180b906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1309982239,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1309982239,
+    "wof:lastmodified":1537657834,
+    "wof:name":"Kosang",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6745,
+    36.7556,
+    126.6745,
+    36.7556
+],
+  "geometry": {"coordinates":[126.67449999999999,36.7556],"type":"Point"}
+}

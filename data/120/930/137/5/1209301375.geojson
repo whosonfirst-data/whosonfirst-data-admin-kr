@@ -1,0 +1,64 @@
+{
+  "id": 1209301375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39675,37.74935,126.39675,37.74935",
+    "geom:latitude":37.74935,
+    "geom:longitude":126.39675,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sanhwa",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8569465,
+    "gn:latitude":37.74935,
+    "gn:longitude":126.39675,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Sanhwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\ud654"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8569465
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c267eaf91b18f4bc8400954c6795cb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209301375
+        }
+    ],
+    "wof:id":1209301375,
+    "wof:lastmodified":1537658893,
+    "wof:name":"Sanhwa",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39675,
+    37.74935,
+    126.39675,
+    37.74935
+],
+  "geometry": {"coordinates":[126.39675,37.74935],"type":"Point"}
+}

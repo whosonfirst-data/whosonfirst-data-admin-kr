@@ -1,0 +1,71 @@
+{
+  "id": 1259548093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32187,35.46506,128.32187,35.46506",
+    "geom:latitude":35.46506,
+    "geom:longitude":128.32187,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Purim",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898245,
+    "gn:latitude":35.46506,
+    "gn:longitude":128.32187,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Purim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd80\ub9bc",
+        "Purim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898245
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f0f89ec7d1b34780c151401422ff3f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474629,
+            "locality_id":1259548093,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259548093,
+    "wof:lastmodified":1537658706,
+    "wof:name":"Purim",
+    "wof:parent_id":890474629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32187,
+    35.46506,
+    128.32187,
+    35.46506
+],
+  "geometry": {"coordinates":[128.32186999999999,35.46506],"type":"Point"}
+}

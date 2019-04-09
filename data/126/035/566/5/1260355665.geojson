@@ -1,0 +1,71 @@
+{
+  "id": 1260355665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5784,36.8942,126.5784,36.8942",
+    "geom:latitude":36.8942,
+    "geom:longitude":126.5784,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Samgusil",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812148,
+    "gn:latitude":36.8942,
+    "gn:longitude":126.5784,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Samgusil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\uad6c\uc2e4",
+        "Samgusil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812148
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3de21fb6c4c0a5a3c190a5ab19057141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1260355665,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260355665,
+    "wof:lastmodified":1537657969,
+    "wof:name":"Samgusil",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5784,
+    36.8942,
+    126.5784,
+    36.8942
+],
+  "geometry": {"coordinates":[126.5784,36.8942],"type":"Point"}
+}

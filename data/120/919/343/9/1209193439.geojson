@@ -1,0 +1,64 @@
+{
+  "id": 1209193439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79533,37.75815,126.79533,37.75815",
+    "geom:latitude":37.75815,
+    "geom:longitude":126.79533,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ansanmal",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8693341,
+    "gn:latitude":37.75815,
+    "gn:longitude":126.79533,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Ansanmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uc0b0\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693341
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2c6f02eb7da1a7fe8b121d09a330c20b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209193439
+        }
+    ],
+    "wof:id":1209193439,
+    "wof:lastmodified":1537658907,
+    "wof:name":"Ansanmal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79533,
+    37.75815,
+    126.79533,
+    37.75815
+],
+  "geometry": {"coordinates":[126.79533000000001,37.75815],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209911501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.75645,37.92151,127.75645,37.92151",
+    "geom:latitude":37.92151,
+    "geom:longitude":127.75645,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Garaeul",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802269,
+    "gn:latitude":37.92151,
+    "gn:longitude":127.75645,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Garaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ub798\uc6b8",
+        "Karaeul",
+        "Garaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802269
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ca960d1cce6305382f750ca324381ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1209911501,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209911501,
+    "wof:lastmodified":1537657740,
+    "wof:name":"Garaeul",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.75645,
+    37.92151,
+    127.75645,
+    37.92151
+],
+  "geometry": {"coordinates":[127.75645,37.92151],"type":"Point"}
+}

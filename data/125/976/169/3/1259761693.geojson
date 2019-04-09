@@ -1,0 +1,77 @@
+{
+  "id": 1259761693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.26316,35.31851,129.26316,35.31851",
+    "geom:latitude":35.31851,
+    "geom:longitude":129.26316,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imnang",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843599,
+    "gn:latitude":35.31851,
+    "gn:longitude":129.26316,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Imnang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc784\ub791"
+    ],
+    "name:und_x_variant":[
+        "Rinr\u014d-ri",
+        "Imnyang-ni",
+        "Imnang-ni",
+        "Imyang-ni",
+        "Imnang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843599
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"058dbc1b543bd1c0087497dc49244984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1259761693,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1259761693,
+    "wof:lastmodified":1537656557,
+    "wof:name":"Imnang",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.26316,
+    35.31851,
+    129.26316,
+    35.31851
+],
+  "geometry": {"coordinates":[129.26316,35.31851],"type":"Point"}
+}

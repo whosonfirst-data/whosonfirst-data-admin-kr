@@ -1,0 +1,64 @@
+{
+  "id": 1209479309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.15948,35.51526,129.15948,35.51526",
+    "geom:latitude":35.51526,
+    "geom:longitude":129.15948,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Wangbang",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088864,
+    "gn:latitude":35.51526,
+    "gn:longitude":129.15948,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Wangbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc655\ubc29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088864
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"add2858c0e180ed24c9a56d25d27640a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209479309
+        }
+    ],
+    "wof:id":1209479309,
+    "wof:lastmodified":1537659147,
+    "wof:name":"Wangbang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.15948,
+    35.51526,
+    129.15948,
+    35.51526
+],
+  "geometry": {"coordinates":[129.15948,35.51526],"type":"Point"}
+}

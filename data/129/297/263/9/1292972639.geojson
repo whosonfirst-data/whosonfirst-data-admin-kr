@@ -1,0 +1,76 @@
+{
+  "id": 1292972639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25279,34.63878,127.25279,34.63878",
+    "geom:latitude":34.63878,
+    "geom:longitude":127.25279,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dugok",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833987,
+    "gn:latitude":34.63878,
+    "gn:longitude":127.25279,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Dugok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\uace1"
+    ],
+    "name:und_x_variant":[
+        "Chugok",
+        "Tugong-ni",
+        "Tugok",
+        "Dugok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833987
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"06a915faa167b8d408a91747422af857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1292972639,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1292972639,
+    "wof:lastmodified":1537656061,
+    "wof:name":"Dugok",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25279,
+    34.63878,
+    127.25279,
+    34.63878
+],
+  "geometry": {"coordinates":[127.25279,34.63878],"type":"Point"}
+}

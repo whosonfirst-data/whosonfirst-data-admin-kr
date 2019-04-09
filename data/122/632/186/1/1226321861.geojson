@@ -1,0 +1,70 @@
+{
+  "id": 1226321861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83869,37.47182,126.83869,37.47182",
+    "geom:latitude":37.47182,
+    "geom:longitude":126.83869,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Goraenongol",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233571,
+    "gn:latitude":37.47182,
+    "gn:longitude":126.83869,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Goraenongol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ub798\ub17c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233571
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"daec367de8f83c331fae14be109f4247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472589,
+            "locality_id":1226321861,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226321861,
+    "wof:lastmodified":1537659241,
+    "wof:name":"Goraenongol",
+    "wof:parent_id":890472589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83869,
+    37.47182,
+    126.83869,
+    37.47182
+],
+  "geometry": {"coordinates":[126.83869,37.47182],"type":"Point"}
+}

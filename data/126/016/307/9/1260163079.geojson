@@ -1,0 +1,77 @@
+{
+  "id": 1260163079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.09247,34.96414,127.09247,34.96414",
+    "geom:latitude":34.96414,
+    "geom:longitude":127.09247,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sinbang",
+    "gn:country_code":"KR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684319,
+    "gn:latitude":34.96414,
+    "gn:longitude":127.09247,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Sinbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2ec\ubc29\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uc2e0\ubc29"
+    ],
+    "name:und_x_variant":[
+        "Simbangdong",
+        "Sinbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684319
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"62959aa26628fd0849923232c09d9975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1260163079,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260163079,
+    "wof:lastmodified":1537657404,
+    "wof:name":"Sinbang",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.09247,
+    34.96414,
+    127.09247,
+    34.96414
+],
+  "geometry": {"coordinates":[127.09247000000001,34.96414],"type":"Point"}
+}

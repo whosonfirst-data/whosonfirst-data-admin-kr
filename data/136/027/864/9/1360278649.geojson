@@ -1,0 +1,70 @@
+{
+  "id": 1360278649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.39019,36.9565,128.39019,36.9565",
+    "geom:latitude":36.9565,
+    "geom:longitude":128.39019,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ganakgol",
+    "gn:country_code":"KR",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9129967,
+    "gn:latitude":36.9565,
+    "gn:longitude":128.39019,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ganakgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub099\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9129967
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"781b63c55c48d370c06ca3447ecc61b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1360278649,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1360278649,
+    "wof:lastmodified":1537658925,
+    "wof:name":"Ganakgol",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.39019,
+    36.9565,
+    128.39019,
+    36.9565
+],
+  "geometry": {"coordinates":[128.39018999999999,36.9565],"type":"Point"}
+}

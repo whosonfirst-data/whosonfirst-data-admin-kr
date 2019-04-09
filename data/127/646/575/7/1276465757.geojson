@@ -1,0 +1,78 @@
+{
+  "id": 1276465757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.16783,37.76611,128.16783,37.76611",
+    "geom:latitude":37.76611,
+    "geom:longitude":128.16783,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yanghanggol",
+    "gn:country_code":"KR",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888890,
+    "gn:latitude":37.76611,
+    "gn:longitude":128.16783,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Yanghanggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\ud56d\uace1"
+    ],
+    "name:kor_x_variant":[
+        "\uc591\ud56d\uace8"
+    ],
+    "name:und_x_variant":[
+        "Yanghyanggol",
+        "Yanghanggok",
+        "Yanghanggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888890
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0dbd9bcc9479293d5401aad982a99784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1276465757,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276465757,
+    "wof:lastmodified":1537656799,
+    "wof:name":"Yanghanggol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.16783,
+    37.76611,
+    128.16783,
+    37.76611
+],
+  "geometry": {"coordinates":[128.16783000000001,37.76611],"type":"Point"}
+}

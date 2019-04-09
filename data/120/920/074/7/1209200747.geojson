@@ -1,0 +1,66 @@
+{
+  "id": 1209200747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9,37.13333,126.9,37.13333",
+    "geom:latitude":37.13333,
+    "geom:longitude":126.9,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Teiganri",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833873,
+    "gn:latitude":37.13333,
+    "gn:longitude":126.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teiganri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheam-ni",
+        "Teiganri",
+        "Tury\u014fmbawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833873
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"61a367072d959c0af2652fd262e51b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209200747
+        }
+    ],
+    "wof:id":1209200747,
+    "wof:lastmodified":1537656054,
+    "wof:name":"Teiganri",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9,
+    37.13333,
+    126.9,
+    37.13333
+],
+  "geometry": {"coordinates":[126.90000000000001,37.13333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293353767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.12305,36.93964,127.12305,36.93964",
+    "geom:latitude":36.93964,
+    "geom:longitude":127.12305,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Eoryong",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811859,
+    "gn:latitude":36.93964,
+    "gn:longitude":127.12305,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Eoryong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\ub8e1"
+    ],
+    "name:und_x_variant":[
+        "\uc5b4\ub8e1\ub9ac",
+        "\u014eryong-ni",
+        "Eoryong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811859
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a43a4f3a545d29e81ad4a55ea72f545a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746433,
+            "locality_id":1293353767,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293353767,
+    "wof:lastmodified":1537657954,
+    "wof:name":"Eoryong",
+    "wof:parent_id":1108746433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.12305,
+    36.93964,
+    127.12305,
+    36.93964
+],
+  "geometry": {"coordinates":[127.12305000000001,36.93964],"type":"Point"}
+}

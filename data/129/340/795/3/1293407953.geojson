@@ -1,0 +1,73 @@
+{
+  "id": 1293407953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.84562,35.2559,126.84562,35.2559",
+    "geom:latitude":35.2559,
+    "geom:longitude":126.84562,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Jakdong",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846755,
+    "gn:latitude":35.2559,
+    "gn:longitude":126.84562,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Jakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc791\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Chak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846755
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7d2367e5d92206a6c7ae3909471c624b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1293407953,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293407953,
+    "wof:lastmodified":1537656717,
+    "wof:name":"Jakdong",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.84562,
+    35.2559,
+    126.84562,
+    35.2559
+],
+  "geometry": {"coordinates":[126.84562,35.2559],"type":"Point"}
+}

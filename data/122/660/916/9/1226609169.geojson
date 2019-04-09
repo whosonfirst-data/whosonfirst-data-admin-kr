@@ -1,0 +1,73 @@
+{
+  "id": 1226609169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.59556,34.70167,126.59556,34.70167",
+    "geom:latitude":34.70167,
+    "geom:longitude":126.59556,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Michon",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841206,
+    "gn:latitude":34.70167,
+    "gn:longitude":126.59556,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Michon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubbf8\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Mich\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841206
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ba863bb67c1698a664536e095e1f4526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1226609169,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226609169,
+    "wof:lastmodified":1537656433,
+    "wof:name":"Michon",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.59556,
+    34.70167,
+    126.59556,
+    34.70167
+],
+  "geometry": {"coordinates":[126.59556000000001,34.70167],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243234923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95324,38.05387,126.95324,38.05387",
+    "geom:latitude":38.05387,
+    "geom:longitude":126.95324,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Saereung",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865753,
+    "gn:latitude":38.05387,
+    "gn:longitude":126.95324,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Saereung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ub989"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865753
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"66db3d01e2df223a871b0617ab5de5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1243234923,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243234923,
+    "wof:lastmodified":1537658951,
+    "wof:name":"Saereung",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95324,
+    38.05387,
+    126.95324,
+    38.05387
+],
+  "geometry": {"coordinates":[126.95323999999999,38.05387],"type":"Point"}
+}

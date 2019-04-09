@@ -1,0 +1,70 @@
+{
+  "id": 1344078665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.71017,38.02641,128.71017,38.02641",
+    "geom:latitude":38.02641,
+    "geom:longitude":128.71017,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gungae",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870165,
+    "gn:latitude":38.02641,
+    "gn:longitude":128.71017,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gungae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad70\uac1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870165
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"298528852a46633ddf0faef6271d5fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1344078665,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1344078665,
+    "wof:lastmodified":1537658963,
+    "wof:name":"Gungae",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.71017,
+    38.02641,
+    128.71017,
+    38.02641
+],
+  "geometry": {"coordinates":[128.71017000000001,38.02641],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209993109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42415,37.80737,126.42415,37.80737",
+    "geom:latitude":37.80737,
+    "geom:longitude":126.42415,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Ochondong",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896251,
+    "gn:latitude":37.80737,
+    "gn:longitude":126.42415,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ochondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ucd0c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Och\u2019on-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896251
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a9aee92353a60a327e8453f5bf5afbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1209993109,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1209993109,
+    "wof:lastmodified":1537656895,
+    "wof:name":"Ochondong",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42415,
+    37.80737,
+    126.42415,
+    37.80737
+],
+  "geometry": {"coordinates":[126.42415,37.80737],"type":"Point"}
+}

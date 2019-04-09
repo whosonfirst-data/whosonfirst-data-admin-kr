@@ -1,0 +1,70 @@
+{
+  "id": 1193119217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26456,34.91687,127.26456,34.91687",
+    "geom:latitude":34.91687,
+    "geom:longitude":127.26456,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hago",
+    "gn:country_code":"KR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684837,
+    "gn:latitude":34.91687,
+    "gn:longitude":127.26456,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uace0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684837
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"00c198a9ed82c941a06cd07a74b5d1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1193119217,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193119217,
+    "wof:lastmodified":1537657431,
+    "wof:name":"Hago",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26456,
+    34.91687,
+    127.26456,
+    34.91687
+],
+  "geometry": {"coordinates":[127.26456,34.91687],"type":"Point"}
+}

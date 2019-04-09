@@ -1,0 +1,71 @@
+{
+  "id": 1343941189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3688,36.4641,128.3688,36.4641",
+    "geom:latitude":36.4641,
+    "geom:longitude":128.3688,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Komunae",
+    "gn:country_code":"KR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890245,
+    "gn:latitude":36.4641,
+    "gn:longitude":128.3688,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u014fmunae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac70\ubb34\ub0b4",
+        "K\u014fmunae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890245
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5ae34f8193b4d7df856e6f663d5643b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474631,
+            "locality_id":1343941189,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343941189,
+    "wof:lastmodified":1537658480,
+    "wof:name":"Komunae",
+    "wof:parent_id":890474631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3688,
+    36.4641,
+    128.3688,
+    36.4641
+],
+  "geometry": {"coordinates":[128.36879999999999,36.4641],"type":"Point"}
+}

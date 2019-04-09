@@ -1,0 +1,74 @@
+{
+  "id": 1310379677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4593,35.45842,128.4593,35.45842",
+    "geom:latitude":35.45842,
+    "geom:longitude":128.4593,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hwangyong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894636,
+    "gn:latitude":35.45842,
+    "gn:longitude":128.4593,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hwangy\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hway\u014fng",
+        "Hway\u014fng-ni",
+        "\ud669\uc601\ub3d9",
+        "Hway\u014fng-dong",
+        "Hwangy\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894636
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ad662904e8343c7932ada6d7a21c298d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473621,
+            "locality_id":1310379677,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1310379677,
+    "wof:lastmodified":1537656861,
+    "wof:name":"Hwangyong-dong",
+    "wof:parent_id":890473621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4593,
+    35.45842000000001,
+    128.4593,
+    35.45842000000001
+],
+  "geometry": {"coordinates":[128.45930000000001,35.45842000000001],"type":"Point"}
+}

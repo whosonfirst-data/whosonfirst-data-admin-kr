@@ -1,0 +1,67 @@
+{
+  "id": 1309721703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98333,35.88333,126.98333,35.88333",
+    "geom:latitude":35.88333,
+    "geom:longitude":126.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Haktong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844568,
+    "gn:latitude":35.88333,
+    "gn:longitude":126.98333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Haktong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890473531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844568
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"702e5bdb85dd592bedac84027953990a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473531,
+            "locality_id":1309721703,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1309721703,
+    "wof:lastmodified":1537050141,
+    "wof:name":"Haktong-ni",
+    "wof:parent_id":890473531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98333,
+    35.88333,
+    126.98333,
+    35.88333
+],
+  "geometry": {"coordinates":[126.98333,35.88333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343783773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7,37.71667,127.7,37.71667",
+    "geom:latitude":37.71667,
+    "geom:longitude":127.7,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kuun-dong",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841923,
+    "gn:latitude":37.71667,
+    "gn:longitude":127.7,
+    "gn:modification_date":"1997-11-04",
+    "gn:name":"Ku\u016dn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841923
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64d511a6d20a1893de9eb7a2d1e2fe00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1343783773,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343783773,
+    "wof:lastmodified":1536777921,
+    "wof:name":"Kuun-dong",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7,
+    37.71667,
+    127.7,
+    37.71667
+],
+  "geometry": {"coordinates":[127.7,37.71667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226617229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40944,37.20167,127.40944,37.20167",
+    "geom:latitude":37.20167,
+    "geom:longitude":127.40944,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Odongchon",
+    "gn:country_code":"KR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896827,
+    "gn:latitude":37.20167,
+    "gn:longitude":127.40944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Odongchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ub3d9\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Odongch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896827
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a1218bea1d7dcfd63bed45c98643fc6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1226617229,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226617229,
+    "wof:lastmodified":1537656913,
+    "wof:name":"Odongchon",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40944,
+    37.20167,
+    127.40944,
+    37.20167
+],
+  "geometry": {"coordinates":[127.40944,37.20167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326631353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63361,35.89917,126.63361,35.89917",
+    "geom:latitude":35.89917,
+    "geom:longitude":126.63361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sinhajae",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1933119,
+    "gn:latitude":35.89917,
+    "gn:longitude":126.63361,
+    "gn:modification_date":"2004-02-04",
+    "gn:name":"Sinhajae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1933119
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"27a2242730ccb096e07dfd1a3fb3cd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1326631353,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1326631353,
+    "wof:lastmodified":1536840049,
+    "wof:name":"Sinhajae",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63361,
+    35.89917,
+    126.63361,
+    35.89917
+],
+  "geometry": {"coordinates":[126.63361,35.89917],"type":"Point"}
+}

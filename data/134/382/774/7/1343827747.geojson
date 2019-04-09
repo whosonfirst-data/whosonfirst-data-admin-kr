@@ -1,0 +1,70 @@
+{
+  "id": 1343827747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.49573,35.88733,128.49573,35.88733",
+    "geom:latitude":35.88733,
+    "geom:longitude":128.49573,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Haerangpo",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550887,
+    "gn:latitude":35.88733,
+    "gn:longitude":128.49573,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Haerangpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\ub791\ud3ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550887
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4128590a9b423c6891c57f13b2b47769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1343827747,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1343827747,
+    "wof:lastmodified":1537658890,
+    "wof:name":"Haerangpo",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.49573,
+    35.88733,
+    128.49573,
+    35.88733
+],
+  "geometry": {"coordinates":[128.49573000000001,35.88733],"type":"Point"}
+}

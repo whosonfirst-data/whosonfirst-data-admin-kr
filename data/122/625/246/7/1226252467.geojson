@@ -1,0 +1,73 @@
+{
+  "id": 1226252467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.47999,35.15931,126.47999,35.15931",
+    "geom:latitude":35.15931,
+    "geom:longitude":126.47999,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bokchi",
+    "gn:country_code":"KR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839051,
+    "gn:latitude":35.15931,
+    "gn:longitude":126.47999,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Bokchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\uce58"
+    ],
+    "name:und_x_variant":[
+        "Pokch\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839051
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f085323cb858533442bab70704a0ad08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1226252467,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226252467,
+    "wof:lastmodified":1537656322,
+    "wof:name":"Bokchi",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.47999,
+    35.15931,
+    126.47999,
+    35.15931
+],
+  "geometry": {"coordinates":[126.47999,35.15931],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293659929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.18012,35.80244,129.18012,35.80244",
+    "geom:latitude":35.80244,
+    "geom:longitude":129.18012,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yuldong",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893905,
+    "gn:latitude":35.80244,
+    "gn:longitude":129.18012,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Yuldong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc728\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Yul-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893905
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bcdf6013997f6e78a45c71e5cd556d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1293659929,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293659929,
+    "wof:lastmodified":1537656842,
+    "wof:name":"Yuldong",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.18012,
+    35.80244000000001,
+    129.18012,
+    35.80244000000001
+],
+  "geometry": {"coordinates":[129.18011999999999,35.80244000000001],"type":"Point"}
+}

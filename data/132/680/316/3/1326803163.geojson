@@ -1,0 +1,70 @@
+{
+  "id": 1326803163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.67224,35.89859,128.67224,35.89859",
+    "geom:latitude":35.89859,
+    "geom:longitude":128.67224,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dunsan",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10986979,
+    "gn:latitude":35.89859,
+    "gn:longitude":128.67224,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Dunsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub454\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10986979
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a83c142ba5c4ae1e7dbfeaad46f769b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1326803163,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1326803163,
+    "wof:lastmodified":1537659101,
+    "wof:name":"Dunsan",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.67224,
+    35.89859000000001,
+    128.67224,
+    35.89859000000001
+],
+  "geometry": {"coordinates":[128.67223999999999,35.89859000000001],"type":"Point"}
+}

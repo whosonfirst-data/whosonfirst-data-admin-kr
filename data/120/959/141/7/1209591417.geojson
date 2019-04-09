@@ -1,0 +1,64 @@
+{
+  "id": 1209591417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89251,35.22872,126.89251,35.22872",
+    "geom:latitude":35.22872,
+    "geom:longitude":126.89251,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Jisan",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11172532,
+    "gn:latitude":35.22872,
+    "gn:longitude":126.89251,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jisan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172532
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bd692b492ddcb97bc678e243088c3519",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209591417
+        }
+    ],
+    "wof:id":1209591417,
+    "wof:lastmodified":1537659208,
+    "wof:name":"Jisan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89251000000002,
+    35.22872,
+    126.89251000000002,
+    35.22872
+],
+  "geometry": {"coordinates":[126.89251000000002,35.22872],"type":"Point"}
+}

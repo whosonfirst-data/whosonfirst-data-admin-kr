@@ -1,0 +1,73 @@
+{
+  "id": 1310493817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8925,37.4,127.8925,37.4",
+    "geom:latitude":37.4,
+    "geom:longitude":127.8925,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koyodae",
+    "gn:country_code":"KR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794710,
+    "gn:latitude":37.4,
+    "gn:longitude":127.8925,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Koy\u014fdae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\uc5ec\ub300"
+    ],
+    "name:kor_x_variant":[
+        "Koy\u014fdae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794710
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"596dfbecf7456dbe7cf85923a77e8511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1310493817,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310493817,
+    "wof:lastmodified":1537657506,
+    "wof:name":"Koyodae",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8925,
+    37.4,
+    127.8925,
+    37.4
+],
+  "geometry": {"coordinates":[127.8925,37.4],"type":"Point"}
+}

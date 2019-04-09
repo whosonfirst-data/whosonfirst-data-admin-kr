@@ -1,0 +1,75 @@
+{
+  "id": 1242847949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.20066,36.49735,128.20066,36.49735",
+    "geom:latitude":36.49735,
+    "geom:longitude":128.20066,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hadeokgok",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889807,
+    "gn:latitude":36.49735,
+    "gn:longitude":128.20066,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Hadeokgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub355\uace1"
+    ],
+    "name:und_x_variant":[
+        "\ud558\ub355\uac00",
+        "Had\u014fkka",
+        "Hadeokgok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889807
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bd3af7bb2c3e4cc51e3f60841318c869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1242847949,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242847949,
+    "wof:lastmodified":1537658462,
+    "wof:name":"Hadeokgok",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.20066,
+    36.49735,
+    128.20066,
+    36.49735
+],
+  "geometry": {"coordinates":[128.20066,36.49735],"type":"Point"}
+}

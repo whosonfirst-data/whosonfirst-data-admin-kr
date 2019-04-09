@@ -1,0 +1,64 @@
+{
+  "id": 1209311851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.61008,38.13401,128.61008,38.13401",
+    "geom:latitude":38.13401,
+    "geom:longitude":128.61008,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Apmal",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869796,
+    "gn:latitude":38.13401,
+    "gn:longitude":128.61008,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Apmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc55e\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869796
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9857961e52845ec95bc8509571ffd752",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209311851
+        }
+    ],
+    "wof:id":1209311851,
+    "wof:lastmodified":1537658962,
+    "wof:name":"Apmal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.61008,
+    38.13401,
+    128.61008,
+    38.13401
+],
+  "geometry": {"coordinates":[128.61008000000001,38.13401],"type":"Point"}
+}

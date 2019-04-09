@@ -1,0 +1,65 @@
+{
+  "id": 1209184789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.091,36.5094,129.091,36.5094",
+    "geom:latitude":36.5094,
+    "geom:longitude":129.091,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Namgaksan",
+    "gn:country_code":"KR",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6895124,
+    "gn:latitude":36.5094,
+    "gn:longitude":129.091,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Namgaksan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0a8\uac01\uc0b0",
+        "Namgaksan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6895124
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"696f64f3cd52d24632b9b786596c3ca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209184789
+        }
+    ],
+    "wof:id":1209184789,
+    "wof:lastmodified":1537658621,
+    "wof:name":"Namgaksan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.091,
+    36.5094,
+    129.091,
+    36.5094
+],
+  "geometry": {"coordinates":[129.09100000000001,36.5094],"type":"Point"}
+}

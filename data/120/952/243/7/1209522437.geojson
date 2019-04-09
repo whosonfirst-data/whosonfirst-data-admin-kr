@@ -1,0 +1,66 @@
+{
+  "id": 1209522437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01919,35.61709,127.01919,35.61709",
+    "geom:latitude":35.61709,
+    "geom:longitude":127.01919,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842629,
+    "gn:latitude":35.61709,
+    "gn:longitude":127.01919,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kong-gol",
+        "\uacf5\ub3d9",
+        "Kong-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842629
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0fd1d7c9ae3855c84ae6bd996cafde71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209522437
+        }
+    ],
+    "wof:id":1209522437,
+    "wof:lastmodified":1537656506,
+    "wof:name":"Kong-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01919,
+    35.61709000000001,
+    127.01919,
+    35.61709000000001
+],
+  "geometry": {"coordinates":[127.01918999999999,35.61709000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242741289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.17341,36.6769,127.17341,36.6769",
+    "geom:latitude":36.6769,
+    "geom:longitude":127.17341,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Oeoryu",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10253943,
+    "gn:latitude":36.6769,
+    "gn:longitude":127.17341,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Oeoryu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\uc624\ub958"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10253943
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f43b78a433946108f78e24a345979aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1242741289,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1242741289,
+    "wof:lastmodified":1537659003,
+    "wof:name":"Oeoryu",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.17341,
+    36.6769,
+    127.17341,
+    36.6769
+],
+  "geometry": {"coordinates":[127.17341,36.6769],"type":"Point"}
+}

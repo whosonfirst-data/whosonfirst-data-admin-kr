@@ -1,0 +1,74 @@
+{
+  "id": 1276303497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20444,37.04861,127.20444,37.04861",
+    "geom:latitude":37.04861,
+    "geom:longitude":127.20444,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ans\u014fng-si",
+    "gn:asciiname":"Myeongdang-ri",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1896770,
+    "gn:latitude":37.04861,
+    "gn:longitude":127.20444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Myeongdang-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba85\ub2f9\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "My\u014fngdang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896770
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7901657c602af42279a7309229edf7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1276303497,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276303497,
+    "wof:lastmodified":1537656911,
+    "wof:name":"Myeongdang-ri",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20444,
+    37.04861,
+    127.20444,
+    37.04861
+],
+  "geometry": {"coordinates":[127.20444000000001,37.04861],"type":"Point"}
+}

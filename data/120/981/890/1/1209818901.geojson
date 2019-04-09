@@ -1,0 +1,74 @@
+{
+  "id": 1209818901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.253,33.3092,126.253,33.3092",
+    "geom:latitude":33.3092,
+    "geom:longitude":126.253,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Pukcheju-gun",
+    "gn:asciiname":"Gwangheuldong",
+    "gn:country_code":"KR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6193993,
+    "gn:latitude":33.3092,
+    "gn:longitude":126.253,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gwangheuldong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad11\ud758\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kwangh\u016dl-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6193993
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"15636b235479b3d4a0074cc1bf8beed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1209818901,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1209818901,
+    "wof:lastmodified":1537657001,
+    "wof:name":"Gwangheuldong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.253,
+    33.3092,
+    126.253,
+    33.3092
+],
+  "geometry": {"coordinates":[126.253,33.3092],"type":"Point"}
+}

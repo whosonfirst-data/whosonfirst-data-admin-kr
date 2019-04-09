@@ -1,0 +1,73 @@
+{
+  "id": 1293805633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5355,37.153,128.5355,37.153",
+    "geom:latitude":37.153,
+    "geom:longitude":128.5355,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kotchol",
+    "gn:country_code":"KR",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794704,
+    "gn:latitude":37.153,
+    "gn:longitude":128.5355,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kotch\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf6\uc808"
+    ],
+    "name:kor_x_variant":[
+        "Kotch\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794704
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"744bbf9be106a82c3a8359a9ad0cd5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1293805633,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293805633,
+    "wof:lastmodified":1537657506,
+    "wof:name":"Kotchol",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5355,
+    37.153,
+    128.5355,
+    37.153
+],
+  "geometry": {"coordinates":[128.53550000000001,37.153],"type":"Point"}
+}

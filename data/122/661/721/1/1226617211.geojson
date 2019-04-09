@@ -1,0 +1,77 @@
+{
+  "id": 1226617211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71918,37.71647,126.71918,37.71647",
+    "geom:latitude":37.71647,
+    "geom:longitude":126.71918,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bakkmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363898,
+    "gn:latitude":37.71647,
+    "gn:longitude":126.71918,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Bakkmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc16\ubc14\uc6b8"
+    ],
+    "name:kor_x_variant":[
+        "\ubc16\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Pakpaul",
+        "Bakkmaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363898
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c85c7ea041babbcd562c7d5a2b8ec22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1226617211,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226617211,
+    "wof:lastmodified":1537657059,
+    "wof:name":"Bakkmaeul",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71918,
+    37.71647,
+    126.71918,
+    37.71647
+],
+  "geometry": {"coordinates":[126.71917999999999,37.71647],"type":"Point"}
+}

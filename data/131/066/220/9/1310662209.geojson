@@ -1,0 +1,71 @@
+{
+  "id": 1310662209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.86903,35.80637,127.86903,35.80637",
+    "geom:latitude":35.80637,
+    "geom:longitude":127.86903,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Wonnongsan",
+    "gn:country_code":"KR",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880126,
+    "gn:latitude":35.80637,
+    "gn:longitude":127.86903,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014fnnongsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\ub18d\uc0b0",
+        "W\u014fnnongsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880126
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e5d450bfd74d37c17cd3c84ec79d3afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1310662209,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1310662209,
+    "wof:lastmodified":1537658247,
+    "wof:name":"Wonnongsan",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.86903,
+    35.80637,
+    127.86903,
+    35.80637
+],
+  "geometry": {"coordinates":[127.86903,35.80637],"type":"Point"}
+}

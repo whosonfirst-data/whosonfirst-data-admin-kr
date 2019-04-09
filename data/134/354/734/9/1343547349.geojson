@@ -1,0 +1,74 @@
+{
+  "id": 1343547349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60678,37.53143,127.60678,37.53143",
+    "geom:latitude":37.53143,
+    "geom:longitude":127.60678,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jodong",
+    "gn:country_code":"KR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798893,
+    "gn:latitude":37.53143,
+    "gn:longitude":127.60678,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Jodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc870\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Cho-dong",
+        "Jodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798893
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d9b22161c591cd569680f42f17f61c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1343547349,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343547349,
+    "wof:lastmodified":1537657616,
+    "wof:name":"Jodong",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60678,
+    37.53143,
+    127.60678,
+    37.53143
+],
+  "geometry": {"coordinates":[127.60678,37.53143],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360163297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.99583,35.13722,128.99583,35.13722",
+    "geom:latitude":35.13722,
+    "geom:longitude":128.99583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kudok",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979053,
+    "gn:latitude":35.13722,
+    "gn:longitude":128.99583,
+    "gn:modification_date":"2004-05-12",
+    "gn:name":"Kud\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890476039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979053
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"87a3b585f89411788e3adfebdb316572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476039,
+            "locality_id":1360163297,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1360163297,
+    "wof:lastmodified":1536831886,
+    "wof:name":"Kudok",
+    "wof:parent_id":890476039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.99583,
+    35.13722,
+    128.99583,
+    35.13722
+],
+  "geometry": {"coordinates":[128.99583000000001,35.13722],"type":"Point"}
+}

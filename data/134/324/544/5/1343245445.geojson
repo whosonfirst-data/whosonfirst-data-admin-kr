@@ -1,0 +1,70 @@
+{
+  "id": 1343245445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.74287,36.62442,128.74287,36.62442",
+    "geom:latitude":36.62442,
+    "geom:longitude":128.74287,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dogamot",
+    "gn:country_code":"KR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256169,
+    "gn:latitude":36.62442,
+    "gn:longitude":128.74287,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Dogamot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\uac00\ubabb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256169
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7d6b2a2cf1f9d0f17598817dcf0653a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1343245445,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343245445,
+    "wof:lastmodified":1537659291,
+    "wof:name":"Dogamot",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.74286999999998,
+    36.62442,
+    128.74286999999998,
+    36.62442
+],
+  "geometry": {"coordinates":[128.74286999999998,36.62442],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209378757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72036,35.07384,126.72036,35.07384",
+    "geom:latitude":35.07384,
+    "geom:longitude":126.72036,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gojeong",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180303,
+    "gn:latitude":35.07384,
+    "gn:longitude":126.72036,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gojeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180303
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b8878c321dcc10b0b4550c7b860174c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209378757
+        }
+    ],
+    "wof:id":1209378757,
+    "wof:lastmodified":1537659217,
+    "wof:name":"Gojeong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72036,
+    35.07384,
+    126.72036,
+    35.07384
+],
+  "geometry": {"coordinates":[126.72036,35.07384],"type":"Point"}
+}

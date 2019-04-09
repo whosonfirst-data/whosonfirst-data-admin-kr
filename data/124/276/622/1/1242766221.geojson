@@ -1,0 +1,70 @@
+{
+  "id": 1242766221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8778,35.20416,128.8778,35.20416",
+    "geom:latitude":35.20416,
+    "geom:longitude":128.8778,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Doseon",
+    "gn:country_code":"KR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117793,
+    "gn:latitude":35.20416,
+    "gn:longitude":128.8778,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Doseon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\uc120"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117793
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49c5e3761e9d4a45c66e7f272b9f5672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1242766221,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1242766221,
+    "wof:lastmodified":1537659167,
+    "wof:name":"Doseon",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8778,
+    35.20415999999999,
+    128.8778,
+    35.20415999999999
+],
+  "geometry": {"coordinates":[128.87780000000001,35.20415999999999],"type":"Point"}
+}

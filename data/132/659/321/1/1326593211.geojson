@@ -1,0 +1,75 @@
+{
+  "id": 1326593211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0658,36.9375,127.0658,36.9375",
+    "geom:latitude":36.9375,
+    "geom:longitude":127.0658,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tomaksa",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811459,
+    "gn:latitude":36.9375,
+    "gn:longitude":127.0658,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Tomaksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1a0\ub9c9\uc0ac"
+    ],
+    "name:und_x_variant":[
+        "\uc2e0\ud1a0\ub9c9\uc0ac",
+        "Sint\u2019omaksa",
+        "Tomaksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811459
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de02d878bd85db7f883507b8fc92c714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1326593211,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1326593211,
+    "wof:lastmodified":1537657939,
+    "wof:name":"Tomaksa",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0658,
+    36.9375,
+    127.0658,
+    36.9375
+],
+  "geometry": {"coordinates":[127.0658,36.9375],"type":"Point"}
+}

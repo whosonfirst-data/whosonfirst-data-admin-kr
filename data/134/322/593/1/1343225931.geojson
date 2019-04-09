@@ -1,0 +1,76 @@
+{
+  "id": 1343225931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86941,34.88994,126.86941,34.88994",
+    "geom:latitude":34.88994,
+    "geom:longitude":126.86941,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hasurak",
+    "gn:country_code":"KR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844329,
+    "gn:latitude":34.88994,
+    "gn:longitude":126.86941,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Hasurak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc218\ub77d"
+    ],
+    "name:kor_x_variant":[
+        "\ubd09\ud558"
+    ],
+    "name:und_x_variant":[
+        "Bongha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844329
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a90f0084bc133c940f590211d7218e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1343225931,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343225931,
+    "wof:lastmodified":1537656589,
+    "wof:name":"Hasurak",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86941000000002,
+    34.88994,
+    126.86941000000002,
+    34.88994
+],
+  "geometry": {"coordinates":[126.86941000000002,34.88994],"type":"Point"}
+}

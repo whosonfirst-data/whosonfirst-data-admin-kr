@@ -1,0 +1,74 @@
+{
+  "id": 1259554699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98006,37.06051,126.98006,37.06051",
+    "geom:latitude":37.06051,
+    "geom:longitude":126.98006,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wonyulbok",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575471,
+    "gn:latitude":37.06051,
+    "gn:longitude":126.98006,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Wonyulbok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uc728\ubd81",
+        "Wonyulbuk",
+        "W\u014fnyulbuk",
+        "Wonyulbok",
+        "\uc6d0\uc728\ubcf5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575471
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c6125c59903949f174926f3c0d747201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1259554699,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259554699,
+    "wof:lastmodified":1537657271,
+    "wof:name":"Wonyulbok",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98006,
+    37.06051,
+    126.98006,
+    37.06051
+],
+  "geometry": {"coordinates":[126.98005999999999,37.06051],"type":"Point"}
+}

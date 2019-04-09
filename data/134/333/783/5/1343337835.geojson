@@ -1,0 +1,71 @@
+{
+  "id": 1343337835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8342,36.3153,126.8342,36.3153",
+    "geom:latitude":36.3153,
+    "geom:longitude":126.8342,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kyeryongdaengi",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884506,
+    "gn:latitude":36.3153,
+    "gn:longitude":126.8342,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kyeryongdaengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacc4\ub8e1\ub315\uc774",
+        "Kyeryongdaengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884506
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"730a019c8f4ea68784c37e86cef90c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473525,
+            "locality_id":1343337835,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343337835,
+    "wof:lastmodified":1537658324,
+    "wof:name":"Kyeryongdaengi",
+    "wof:parent_id":890473525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8342,
+    36.3153,
+    126.8342,
+    36.3153
+],
+  "geometry": {"coordinates":[126.8342,36.3153],"type":"Point"}
+}

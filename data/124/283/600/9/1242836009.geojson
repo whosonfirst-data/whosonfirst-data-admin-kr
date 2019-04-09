@@ -1,0 +1,71 @@
+{
+  "id": 1242836009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42456,35.19594,128.42456,35.19594",
+    "geom:latitude":35.19594,
+    "geom:longitude":128.42456,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Wikkaktan",
+    "gn:country_code":"KR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899275,
+    "gn:latitude":35.19594,
+    "gn:longitude":128.42456,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wikkaktan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc717\uac01\ub2e8",
+        "Wikkaktan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899275
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b93fdbfdeb59a578414ebcd812a3a1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474513,
+            "locality_id":1242836009,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1242836009,
+    "wof:lastmodified":1537658735,
+    "wof:name":"Wikkaktan",
+    "wof:parent_id":890474513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42456,
+    35.19594,
+    128.42456,
+    35.19594
+],
+  "geometry": {"coordinates":[128.42456000000001,35.19594],"type":"Point"}
+}

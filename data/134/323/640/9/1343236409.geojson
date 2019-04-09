@@ -1,0 +1,67 @@
+{
+  "id": 1343236409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04,35.3075,128.04,35.3075",
+    "geom:latitude":35.3075,
+    "geom:longitude":128.04,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hyon-dong",
+    "gn:country_code":"KR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894415,
+    "gn:latitude":35.3075,
+    "gn:longitude":128.04,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Hy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894415
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c56592991dc285befb8df87bd607f7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472439,
+            "locality_id":1343236409,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343236409,
+    "wof:lastmodified":1537066833,
+    "wof:name":"Hyon-dong",
+    "wof:parent_id":890472439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04,
+    35.3075,
+    128.04,
+    35.3075
+],
+  "geometry": {"coordinates":[128.03999999999999,35.3075],"type":"Point"}
+}

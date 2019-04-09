@@ -1,0 +1,70 @@
+{
+  "id": 1209809093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.28566,35.33807,129.28566,35.33807",
+    "geom:latitude":35.33807,
+    "geom:longitude":129.28566,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Haekgwang",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11098035,
+    "gn:latitude":35.33807,
+    "gn:longitude":129.28566,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Haekgwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud575\uad11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11098035
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6f7bcac72e02aa346bba4fd061c7c24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1209809093,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1209809093,
+    "wof:lastmodified":1537659156,
+    "wof:name":"Haekgwang",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.28566,
+    35.33807,
+    129.28566,
+    35.33807
+],
+  "geometry": {"coordinates":[129.28566000000001,35.33807],"type":"Point"}
+}

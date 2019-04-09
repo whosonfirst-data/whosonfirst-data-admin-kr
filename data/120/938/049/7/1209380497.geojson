@@ -1,0 +1,64 @@
+{
+  "id": 1209380497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8115,35.08185,126.8115,35.08185",
+    "geom:latitude":35.08185,
+    "geom:longitude":126.8115,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sangsin",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171899,
+    "gn:latitude":35.08185,
+    "gn:longitude":126.8115,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Sangsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc2e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171899
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a700fff2ab5a591d17d1aa9e97521a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209380497
+        }
+    ],
+    "wof:id":1209380497,
+    "wof:lastmodified":1537659207,
+    "wof:name":"Sangsin",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8115,
+    35.08185,
+    126.8115,
+    35.08185
+],
+  "geometry": {"coordinates":[126.8115,35.08185],"type":"Point"}
+}

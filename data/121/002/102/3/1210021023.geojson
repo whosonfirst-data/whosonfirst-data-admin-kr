@@ -1,0 +1,70 @@
+{
+  "id": 1210021023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36517,36.56669,127.36517,36.56669",
+    "geom:latitude":36.56669,
+    "geom:longitude":127.36517,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baekcheondong",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10809630,
+    "gn:latitude":36.56669,
+    "gn:longitude":127.36517,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Baekcheondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc31\ucc9c\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10809630
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6d67a113d8a6d030ac52465098d1f0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1210021023,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1210021023,
+    "wof:lastmodified":1537659066,
+    "wof:name":"Baekcheondong",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36517,
+    36.56669,
+    127.36517,
+    36.56669
+],
+  "geometry": {"coordinates":[127.36517000000001,36.56669],"type":"Point"}
+}

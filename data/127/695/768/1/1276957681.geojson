@@ -1,0 +1,71 @@
+{
+  "id": 1276957681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9468,37.7235,126.9468,37.7235",
+    "geom:latitude":37.7235,
+    "geom:longitude":126.9468,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sanggodong",
+    "gn:country_code":"KR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801880,
+    "gn:latitude":37.7235,
+    "gn:longitude":126.9468,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Sanggodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uace0\ub3d9",
+        "Sanggodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801880
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6614e0d6f6f5d82c93ef0ae7bdccde88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1276957681,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276957681,
+    "wof:lastmodified":1537657711,
+    "wof:name":"Sanggodong",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9468,
+    37.7235,
+    126.9468,
+    37.7235
+],
+  "geometry": {"coordinates":[126.9468,37.7235],"type":"Point"}
+}

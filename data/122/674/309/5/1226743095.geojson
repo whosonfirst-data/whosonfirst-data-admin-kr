@@ -1,0 +1,72 @@
+{
+  "id": 1226743095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13333,36.88333,128.13333,36.88333",
+    "geom:latitude":36.88333,
+    "geom:longitude":128.13333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sa-dong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838259,
+    "gn:latitude":36.88333,
+    "gn:longitude":128.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ji-d\u014d",
+        "Sa-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838259
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3fc2431a10e06fd3da7d544cf44a536e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1226743095,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226743095,
+    "wof:lastmodified":1537656283,
+    "wof:name":"Sa-dong",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13333,
+    36.88333,
+    128.13333,
+    36.88333
+],
+  "geometry": {"coordinates":[128.13333,36.88333],"type":"Point"}
+}

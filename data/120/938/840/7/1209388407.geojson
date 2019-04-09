@@ -1,0 +1,65 @@
+{
+  "id": 1209388407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.20013,35.68485,128.20013,35.68485",
+    "geom:latitude":35.68485,
+    "geom:longitude":128.20013,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Myongdok-kol",
+    "gn:country_code":"KR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904308,
+    "gn:latitude":35.68485,
+    "gn:longitude":128.20013,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"My\u014fngd\u014fk-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba85\ub355\uace8",
+        "My\u014fngd\u014fk-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904308
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1caf5709d8aa0494589a8769e81b02a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209388407
+        }
+    ],
+    "wof:id":1209388407,
+    "wof:lastmodified":1537658860,
+    "wof:name":"Myongdok-kol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.20013,
+    35.68485,
+    128.20013,
+    35.68485
+],
+  "geometry": {"coordinates":[128.20013,35.68485],"type":"Point"}
+}

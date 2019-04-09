@@ -1,0 +1,70 @@
+{
+  "id": 1226819699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65265,36.62725,128.65265,36.62725",
+    "geom:latitude":36.62725,
+    "geom:longitude":128.65265,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Deokgeori",
+    "gn:country_code":"KR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255340,
+    "gn:latitude":36.62725,
+    "gn:longitude":128.65265,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Deokgeori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uac70\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255340
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9094e46618ee93eed7dfdff289bd26fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1226819699,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226819699,
+    "wof:lastmodified":1537659284,
+    "wof:name":"Deokgeori",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65265,
+    36.62725,
+    128.65265,
+    36.62725
+],
+  "geometry": {"coordinates":[128.65264999999999,36.62725],"type":"Point"}
+}

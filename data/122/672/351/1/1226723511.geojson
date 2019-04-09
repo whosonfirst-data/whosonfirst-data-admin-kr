@@ -1,0 +1,70 @@
+{
+  "id": 1226723511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23876,36.62422,128.23876,36.62422",
+    "geom:latitude":36.62422,
+    "geom:longitude":128.23876,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chuamni",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254004,
+    "gn:latitude":36.62422,
+    "gn:longitude":128.23876,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Chuamni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucd94\uc554\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254004
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17efa0df0ac6cb7215723741b0cadc1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1226723511,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226723511,
+    "wof:lastmodified":1537659266,
+    "wof:name":"Chuamni",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23876,
+    36.62422,
+    128.23876,
+    36.62422
+],
+  "geometry": {"coordinates":[128.23876000000001,36.62422],"type":"Point"}
+}

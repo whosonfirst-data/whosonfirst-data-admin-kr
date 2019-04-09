@@ -1,0 +1,66 @@
+{
+  "id": 1209507267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.67223,38.02125,127.67223,38.02125",
+    "geom:latitude":38.02125,
+    "geom:longitude":127.67223,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bamnamugol",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367789,
+    "gn:latitude":38.02125,
+    "gn:longitude":127.67223,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Bamnamugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc24\ub098\ubb34\uace8",
+        "Pamnamu-gol",
+        "Bamnamugol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367789
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"33965397055804a6f1ef1469b4bffab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209507267
+        }
+    ],
+    "wof:id":1209507267,
+    "wof:lastmodified":1537657124,
+    "wof:name":"Bamnamugol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.67223,
+    38.02125,
+    127.67223,
+    38.02125
+],
+  "geometry": {"coordinates":[127.67223,38.02125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276130019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43374,35.74158,127.43374,35.74158",
+    "geom:latitude":35.74158,
+    "geom:longitude":127.43374,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karumnae",
+    "gn:country_code":"KR",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876331,
+    "gn:latitude":35.74158,
+    "gn:longitude":127.43374,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kar\u016dmnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ub984\ub0b4",
+        "Kar\u016dmnae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876331
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c12192b1ffc06f13b5b0dc8b18585570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1276130019,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1276130019,
+    "wof:lastmodified":1537658125,
+    "wof:name":"Karumnae",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43374,
+    35.74158,
+    127.43374,
+    35.74158
+],
+  "geometry": {"coordinates":[127.43374,35.74158],"type":"Point"}
+}

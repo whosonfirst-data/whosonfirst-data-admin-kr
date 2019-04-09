@@ -1,0 +1,77 @@
+{
+  "id": 1310505041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17943,33.30703,126.17943,33.30703",
+    "geom:latitude":33.30703,
+    "geom:longitude":126.17943,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Pukcheju-gun",
+    "gn:asciiname":"Danggadong",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834898,
+    "gn:latitude":33.30703,
+    "gn:longitude":126.17943,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Danggadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\uac00\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Tangga",
+        "Tangg\u014fri",
+        "Tangga-dong",
+        "Danggadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834898
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"01a86db910ef5bba191a3bbc31fb1383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1310505041,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1310505041,
+    "wof:lastmodified":1537656114,
+    "wof:name":"Danggadong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17943,
+    33.30703,
+    126.17943,
+    33.30703
+],
+  "geometry": {"coordinates":[126.17943,33.30703],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209178045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.97111,34.7775,125.97111,34.7775",
+    "geom:latitude":34.7775,
+    "geom:longitude":125.97111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Togo-ri",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834669,
+    "gn:latitude":34.7775,
+    "gn:longitude":125.97111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Togo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u014dko-ri",
+        "Togo",
+        "Togo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834669
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5dc5a370bce3e0970aad7278eb7a60a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209178045
+        }
+    ],
+    "wof:id":1209178045,
+    "wof:lastmodified":1537656099,
+    "wof:name":"Togo-ri",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.97111,
+    34.7775,
+    125.97111,
+    34.7775
+],
+  "geometry": {"coordinates":[125.97111,34.7775],"type":"Point"}
+}

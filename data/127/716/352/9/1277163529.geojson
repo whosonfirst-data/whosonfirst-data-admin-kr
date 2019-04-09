@@ -1,0 +1,74 @@
+{
+  "id": 1277163529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26886,37.72097,127.26886,37.72097",
+    "geom:latitude":37.72097,
+    "geom:longitude":127.26886,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gaegaenmal",
+    "gn:country_code":"KR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803537,
+    "gn:latitude":37.72097,
+    "gn:longitude":127.26886,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Gaegaenmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\uac2f\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "\uac1c\uac2f\ub9d0",
+        "Gaegaenmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803537
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"954d2a7bfa306fdb77640c329a68b5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1277163529,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1277163529,
+    "wof:lastmodified":1537657786,
+    "wof:name":"Gaegaenmal",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26886,
+    37.72097,
+    127.26886,
+    37.72097
+],
+  "geometry": {"coordinates":[127.26886,37.72097],"type":"Point"}
+}

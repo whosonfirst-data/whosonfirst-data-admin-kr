@@ -1,0 +1,73 @@
+{
+  "id": 1327255477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8236,37.7576,128.8236,37.7576",
+    "geom:latitude":37.7576,
+    "geom:longitude":128.8236,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gyeongamdong",
+    "gn:country_code":"KR",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794973,
+    "gn:latitude":37.7576,
+    "gn:longitude":128.8236,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Gyeongamdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacbd\uc554\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Ky\u014fngam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794973
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8d9e131a5de501daaa2f7679cd6833dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1327255477,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327255477,
+    "wof:lastmodified":1537657514,
+    "wof:name":"Gyeongamdong",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8236,
+    37.7576,
+    128.8236,
+    37.7576
+],
+  "geometry": {"coordinates":[128.8236,37.7576],"type":"Point"}
+}

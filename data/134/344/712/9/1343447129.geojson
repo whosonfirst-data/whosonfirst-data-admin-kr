@@ -1,0 +1,75 @@
+{
+  "id": 1343447129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01176,36.94557,127.01176,36.94557",
+    "geom:latitude":36.94557,
+    "geom:longitude":127.01176,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bonjeong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810991,
+    "gn:latitude":36.94557,
+    "gn:longitude":127.01176,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bonjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf8\uc815"
+    ],
+    "name:und_x_variant":[
+        "\ubcf8\uc815\ub9ac",
+        "Ponj\u014fng-ni",
+        "Bonjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810991
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a373d2835364717d209c6531bd683c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1343447129,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343447129,
+    "wof:lastmodified":1537657924,
+    "wof:name":"Bonjeong",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01176,
+    36.94557,
+    127.01176,
+    36.94557
+],
+  "geometry": {"coordinates":[127.01176,36.94557],"type":"Point"}
+}

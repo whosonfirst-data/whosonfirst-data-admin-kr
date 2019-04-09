@@ -1,0 +1,73 @@
+{
+  "id": 1209816823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5593,36.0223,127.5593,36.0223",
+    "geom:latitude":36.0223,
+    "geom:longitude":127.5593,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hap'yongdang",
+    "gn:country_code":"KR",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844396,
+    "gn:latitude":36.0223,
+    "gn:longitude":127.5593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hap\u2019y\u014fngdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araet-p\u2019y\u014fngdaengi",
+        "Hap\u2019y\u014fngdang-ni",
+        "\ud558\ud3c9\ub2f9",
+        "Hap\u2019y\u014fngdang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844396
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3d53e59c6d7e2a9be4437bee34a16ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472985,
+            "locality_id":1209816823,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1209816823,
+    "wof:lastmodified":1537656593,
+    "wof:name":"Hap'yongdang",
+    "wof:parent_id":890472985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5593,
+    36.0223,
+    127.5593,
+    36.0223
+],
+  "geometry": {"coordinates":[127.55929999999999,36.0223],"type":"Point"}
+}

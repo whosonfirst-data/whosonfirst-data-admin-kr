@@ -1,0 +1,76 @@
+{
+  "id": 1226121623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0603,37.8101,127.0603,37.8101",
+    "geom:latitude":37.8101,
+    "geom:longitude":127.0603,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doduni",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799799,
+    "gn:latitude":37.8101,
+    "gn:longitude":127.0603,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Doduni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ub454\uc774"
+    ],
+    "name:und_x_variant":[
+        "\uc9c0\uacc4\ub3d9",
+        "Chigye-dong",
+        "Doduni",
+        "Jigyedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799799
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2df0d4c3bdb0366c0126b29bb594b9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1226121623,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226121623,
+    "wof:lastmodified":1537657659,
+    "wof:name":"Doduni",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0603,
+    37.8101,
+    127.0603,
+    37.8101
+],
+  "geometry": {"coordinates":[127.0603,37.8101],"type":"Point"}
+}

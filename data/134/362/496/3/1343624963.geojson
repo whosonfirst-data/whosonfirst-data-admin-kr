@@ -1,0 +1,71 @@
+{
+  "id": 1343624963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5237,36.5165,126.5237,36.5165",
+    "geom:latitude":36.5165,
+    "geom:longitude":126.5237,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Omani",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810230,
+    "gn:latitude":36.5165,
+    "gn:longitude":126.5237,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Omani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\ub9cc\uc774",
+        "Omani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810230
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b4e412a9cea81a94231b1d40248096bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472595,
+            "locality_id":1343624963,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343624963,
+    "wof:lastmodified":1537657901,
+    "wof:name":"Omani",
+    "wof:parent_id":890472595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5237,
+    36.5165,
+    126.5237,
+    36.5165
+],
+  "geometry": {"coordinates":[126.52370000000001,36.5165],"type":"Point"}
+}

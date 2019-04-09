@@ -1,0 +1,70 @@
+{
+  "id": 1243339741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90281,36.69032,126.90281,36.69032",
+    "geom:latitude":36.69032,
+    "geom:longitude":126.90281,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gosaeul",
+    "gn:country_code":"KR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10250521,
+    "gn:latitude":36.69032,
+    "gn:longitude":126.90281,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Gosaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\uc0c8\uc6b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10250521
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"74dc116d9feba569bed552a79c9a381b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1243339741,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243339741,
+    "wof:lastmodified":1537658998,
+    "wof:name":"Gosaeul",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90281,
+    36.69032,
+    126.90281,
+    36.69032
+],
+  "geometry": {"coordinates":[126.90281,36.69032],"type":"Point"}
+}

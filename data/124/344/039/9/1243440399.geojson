@@ -1,0 +1,73 @@
+{
+  "id": 1243440399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.94556,37.36639,126.94556,37.36639",
+    "geom:latitude":37.36639,
+    "geom:longitude":126.94556,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Geumjeong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573007,
+    "gn:latitude":37.36639,
+    "gn:longitude":126.94556,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Geumjeong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\uc815\ub3d9",
+        "Geumjeong-dong",
+        "K\u016dmj\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573007,
+        "wk:page":"Geumjeong-dong"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"310501cbc0d853b009fe3814e90d2b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474585,
+            "locality_id":1243440399,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243440399,
+    "wof:lastmodified":1537657223,
+    "wof:name":"Geumjeong-dong",
+    "wof:parent_id":890474585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.94556,
+    37.36639,
+    126.94556,
+    37.36639
+],
+  "geometry": {"coordinates":[126.94556,37.36639],"type":"Point"}
+}

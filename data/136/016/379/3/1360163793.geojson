@@ -1,0 +1,75 @@
+{
+  "id": 1360163793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91181,37.8223,126.91181,37.8223",
+    "geom:latitude":37.8223,
+    "geom:longitude":126.91181,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Songguraemi",
+    "gn:country_code":"KR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799377,
+    "gn:latitude":37.8223,
+    "gn:longitude":126.91181,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Songguraemi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uad6c\ub798\ubbf8"
+    ],
+    "name:und_x_variant":[
+        "\uc1a1\uad6c\ub808\ubbf8",
+        "Songguremi",
+        "Songguraemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799377
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1ac24d10c3b8be171581700bcad8c1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1360163793,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360163793,
+    "wof:lastmodified":1537657633,
+    "wof:name":"Songguraemi",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91181,
+    37.8223,
+    126.91181,
+    37.8223
+],
+  "geometry": {"coordinates":[126.91181,37.8223],"type":"Point"}
+}

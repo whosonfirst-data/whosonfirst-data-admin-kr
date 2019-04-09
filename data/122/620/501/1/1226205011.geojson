@@ -1,0 +1,85 @@
+{
+  "id": 1226205011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83149,35.12725,126.83149,35.12725",
+    "geom:latitude":35.12725,
+    "geom:longitude":126.83149,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Masan",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841246,
+    "gn:latitude":35.12725,
+    "gn:longitude":126.83149,
+    "gn:modification_date":"2017-04-18",
+    "gn:name":"Masan",
+    "gn:population":434371,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Masan-ni",
+        "Masan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472273,
+        85673219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841246
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a461c59f78a0faf9e2c006c97c19f6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1226205011,
+            "region_id":85673199
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472273,
+            "locality_id":1226205011,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226205011,
+    "wof:lastmodified":1537656435,
+    "wof:name":"Masan",
+    "wof:parent_id":890472273,
+    "wof:placetype":"locality",
+    "wof:population":434371,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83149,
+    35.12725,
+    126.83149,
+    35.12725
+],
+  "geometry": {"coordinates":[126.83149,35.12725],"type":"Point"}
+}

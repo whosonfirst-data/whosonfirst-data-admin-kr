@@ -1,0 +1,67 @@
+{
+  "id": 1277059631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.145,36.19833,128.145,36.19833",
+    "geom:latitude":36.19833,
+    "geom:longitude":128.145,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kulmi",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890186,
+    "gn:latitude":36.19833,
+    "gn:longitude":128.145,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Kulmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890186
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e41a95d0dcb09e21bf2d4b83a191df08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1277059631,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1277059631,
+    "wof:lastmodified":1536800057,
+    "wof:name":"Kulmi",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.145,
+    36.19833,
+    128.145,
+    36.19833
+],
+  "geometry": {"coordinates":[128.14500000000001,36.19833],"type":"Point"}
+}

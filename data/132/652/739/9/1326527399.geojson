@@ -1,0 +1,74 @@
+{
+  "id": 1326527399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.82289,38.05269,127.82289,38.05269",
+    "geom:latitude":38.05269,
+    "geom:longitude":127.82289,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dongnim",
+    "gn:country_code":"KR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364824,
+    "gn:latitude":38.05269,
+    "gn:longitude":127.82289,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Dongnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ub9bc"
+    ],
+    "name:und_x_variant":[
+        "Tongnim",
+        "Dongnim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364824
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1f153f891822fb127ecacea15842f38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1326527399,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1326527399,
+    "wof:lastmodified":1537657099,
+    "wof:name":"Dongnim",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.82289,
+    38.05269000000001,
+    127.82289,
+    38.05269000000001
+],
+  "geometry": {"coordinates":[127.82289,38.05269000000001],"type":"Point"}
+}

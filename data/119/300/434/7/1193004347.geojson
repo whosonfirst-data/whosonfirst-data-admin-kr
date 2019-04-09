@@ -1,0 +1,71 @@
+{
+  "id": 1193004347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1,37.31667,127.1,37.31667",
+    "geom:latitude":37.31667,
+    "geom:longitude":127.1,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"P'ungdongnae",
+    "gn:country_code":"KR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838578,
+    "gn:latitude":37.31667,
+    "gn:longitude":127.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u2019ungd\u014fngnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019ungd\u014fkch\u2019\u014fn",
+        "P\u2019ungd\u014fngnae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838578
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"275f5c9dae30afe1d940b37a1c3d6d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746545,
+            "locality_id":1193004347,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193004347,
+    "wof:lastmodified":1537656301,
+    "wof:name":"P'ungdongnae",
+    "wof:parent_id":1108746545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1,
+    37.31667,
+    127.1,
+    37.31667
+],
+  "geometry": {"coordinates":[127.09999999999999,37.31667],"type":"Point"}
+}

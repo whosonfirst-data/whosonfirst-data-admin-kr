@@ -1,0 +1,71 @@
+{
+  "id": 1260145313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.45498,36.26786,127.45498,36.26786",
+    "geom:latitude":36.26786,
+    "geom:longitude":127.45498,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Wissori",
+    "gn:country_code":"KR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888906,
+    "gn:latitude":36.26786,
+    "gn:longitude":127.45498,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Wissori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc717\uc18c\ub9ac",
+        "Wissori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888906
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee01aa83d6d6e6e4d401d7919ce8a134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746447,
+            "locality_id":1260145313,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1260145313,
+    "wof:lastmodified":1537658445,
+    "wof:name":"Wissori",
+    "wof:parent_id":1108746447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.45498,
+    36.26786,
+    127.45498,
+    36.26786
+],
+  "geometry": {"coordinates":[127.45498000000001,36.26786],"type":"Point"}
+}

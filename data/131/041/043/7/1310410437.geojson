@@ -1,0 +1,67 @@
+{
+  "id": 1310410437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32917,37.13583,128.32917,37.13583",
+    "geom:latitude":37.13583,
+    "geom:longitude":128.32917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kaemak",
+    "gn:country_code":"KR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891258,
+    "gn:latitude":37.13583,
+    "gn:longitude":128.32917,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Kaemak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891258
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"503e41b3469528450813d159d935102b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1310410437,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1310410437,
+    "wof:lastmodified":1537051913,
+    "wof:name":"Kaemak",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32917,
+    37.13583,
+    128.32917,
+    37.13583
+],
+  "geometry": {"coordinates":[128.32917,37.13583],"type":"Point"}
+}

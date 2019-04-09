@@ -1,0 +1,64 @@
+{
+  "id": 1209385545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4236,36.5089,128.4236,36.5089",
+    "geom:latitude":36.5089,
+    "geom:longitude":128.4236,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cheongho",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11269876,
+    "gn:latitude":36.5089,
+    "gn:longitude":128.4236,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Cheongho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\ud638"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11269876
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b386c1d1ae3bfa9ec6c80810ba60cf6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209385545
+        }
+    ],
+    "wof:id":1209385545,
+    "wof:lastmodified":1537659307,
+    "wof:name":"Cheongho",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4236,
+    36.5089,
+    128.4236,
+    36.5089
+],
+  "geometry": {"coordinates":[128.42359999999999,36.5089],"type":"Point"}
+}

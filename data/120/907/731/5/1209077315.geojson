@@ -1,0 +1,65 @@
+{
+  "id": 1209077315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62333,37.33528,127.62333,37.33528",
+    "geom:latitude":37.33528,
+    "geom:longitude":127.62333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sabi",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576557,
+    "gn:latitude":37.33528,
+    "gn:longitude":127.62333,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sabi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\ube44",
+        "Sabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576557
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6399a2bfd3e264ea1ed4bb5f0bc9f751",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209077315
+        }
+    ],
+    "wof:id":1209077315,
+    "wof:lastmodified":1537657324,
+    "wof:name":"Sabi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62333,
+    37.33528,
+    127.62333,
+    37.33528
+],
+  "geometry": {"coordinates":[127.62333,37.33528],"type":"Point"}
+}

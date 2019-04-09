@@ -1,0 +1,70 @@
+{
+  "id": 1343432121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91358,37.97341,126.91358,37.97341",
+    "geom:latitude":37.97341,
+    "geom:longitude":126.91358,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jingaeul",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11325853,
+    "gn:latitude":37.97341,
+    "gn:longitude":126.91358,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jingaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c4\uac1c\uc6b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11325853
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"46e5710281b470b30b16b42762840944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1343432121,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343432121,
+    "wof:lastmodified":1537659326,
+    "wof:name":"Jingaeul",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91358,
+    37.97341,
+    126.91358,
+    37.97341
+],
+  "geometry": {"coordinates":[126.91358,37.97341],"type":"Point"}
+}

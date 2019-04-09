@@ -1,0 +1,71 @@
+{
+  "id": 1343634855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.396,36.8713,129.396,36.8713",
+    "geom:latitude":36.8713,
+    "geom:longitude":129.396,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pamul",
+    "gn:country_code":"KR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879726,
+    "gn:latitude":36.8713,
+    "gn:longitude":129.396,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pamul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc24\uc6b8",
+        "Pamul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879726
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"12f0fd6e2eb246e53884b527784bdab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1343634855,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343634855,
+    "wof:lastmodified":1537658234,
+    "wof:name":"Pamul",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.39600000000002,
+    36.8713,
+    129.39600000000002,
+    36.8713
+],
+  "geometry": {"coordinates":[129.39600000000002,36.8713],"type":"Point"}
+}

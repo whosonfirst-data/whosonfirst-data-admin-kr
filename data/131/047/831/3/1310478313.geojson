@@ -1,0 +1,72 @@
+{
+  "id": 1310478313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.29331,37.25801,126.29331,37.25801",
+    "geom:latitude":37.25801,
+    "geom:longitude":126.29331,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Saseumgae",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896356,
+    "gn:latitude":37.25801,
+    "gn:longitude":126.29331,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Saseumgae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\uc2b4\uac1c",
+        "Saseumgae",
+        "Sas\u016dmgae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890473555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896356
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c500232b5d9f1b46d516ca4e1ea7b4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473555,
+            "locality_id":1310478313,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1310478313,
+    "wof:lastmodified":1537656898,
+    "wof:name":"Saseumgae",
+    "wof:parent_id":890473555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.29331,
+    37.25801,
+    126.29331,
+    37.25801
+],
+  "geometry": {"coordinates":[126.29331000000001,37.25801],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242776509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60133,36.70904,127.60133,36.70904",
+    "geom:latitude":36.70904,
+    "geom:longitude":127.60133,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Inpyeongjeosuji",
+    "gn:country_code":"KR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351542,
+    "gn:latitude":36.70904,
+    "gn:longitude":127.60133,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Inpyeongjeosuji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc778\ud391\uc800\uc218\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351542
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"10ad962a894d391dbdcbee3cbf5afeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1242776509,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1242776509,
+    "wof:lastmodified":1537659032,
+    "wof:name":"Inpyeongjeosuji",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60133,
+    36.70904,
+    127.60133,
+    36.70904
+],
+  "geometry": {"coordinates":[127.60133,36.70904],"type":"Point"}
+}

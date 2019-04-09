@@ -1,0 +1,75 @@
+{
+  "id": 1193244901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0508,36.76976,127.0508,36.76976",
+    "geom:latitude":36.76976,
+    "geom:longitude":127.0508,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Galwol",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811192,
+    "gn:latitude":36.76976,
+    "gn:longitude":127.0508,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Galwol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uc6d4"
+    ],
+    "name:und_x_variant":[
+        "\uac08\ub3d9",
+        "Kal-tong",
+        "Galwol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811192
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"acb969dbc895f15025f5eaa21f6c2c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1193244901,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1193244901,
+    "wof:lastmodified":1537657934,
+    "wof:name":"Galwol",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0508,
+    36.76976,
+    127.0508,
+    36.76976
+],
+  "geometry": {"coordinates":[127.0508,36.76976],"type":"Point"}
+}

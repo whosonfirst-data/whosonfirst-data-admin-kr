@@ -1,0 +1,66 @@
+{
+  "id": 1209595099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49935,37.68118,126.49935,37.68118",
+    "geom:latitude":37.68118,
+    "geom:longitude":126.49935,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Neungchon",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274652,
+    "gn:latitude":37.68118,
+    "gn:longitude":126.49935,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Neungchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2a5\ucd0c",
+        "Neungchon",
+        "N\u016dng-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274652
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"092447cd95e6f7863bb2db41aecdaa4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209595099
+        }
+    ],
+    "wof:id":1209595099,
+    "wof:lastmodified":1537657029,
+    "wof:name":"Neungchon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49935,
+    37.68118,
+    126.49935,
+    37.68118
+],
+  "geometry": {"coordinates":[126.49935000000001,37.68118],"type":"Point"}
+}

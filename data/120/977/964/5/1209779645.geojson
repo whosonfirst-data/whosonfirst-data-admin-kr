@@ -1,0 +1,76 @@
+{
+  "id": 1209779645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.03683,34.31174,126.03683,34.31174",
+    "geom:latitude":34.31174,
+    "geom:longitude":126.03683,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Myeongji",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840756,
+    "gn:latitude":34.31174,
+    "gn:longitude":126.03683,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Myeongji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba85\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "Meichi",
+        "My\u014fngji-ri",
+        "My\u014fngji",
+        "Myeongji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840756
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"242e87796659bd174516c1bff0f2d964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1209779645,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209779645,
+    "wof:lastmodified":1537656412,
+    "wof:name":"Myeongji",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.03683,
+    34.31174,
+    126.03683,
+    34.31174
+],
+  "geometry": {"coordinates":[126.03682999999999,34.31174],"type":"Point"}
+}

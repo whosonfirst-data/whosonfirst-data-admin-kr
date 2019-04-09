@@ -1,0 +1,77 @@
+{
+  "id": 1260159955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68219,37.77517,126.68219,37.77517",
+    "geom:latitude":37.77517,
+    "geom:longitude":126.68219,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Jakgol",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846762,
+    "gn:latitude":37.77517,
+    "gn:longitude":126.68219,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Jakgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc791\uace8"
+    ],
+    "name:und_x_variant":[
+        "Shakkoku",
+        "Chakkok",
+        "Chak-kol",
+        "Jakgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846762
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f13f4e37c4b84e30a50561a453328288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1260159955,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260159955,
+    "wof:lastmodified":1537656718,
+    "wof:name":"Jakgol",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68219,
+    37.77517,
+    126.68219,
+    37.77517
+],
+  "geometry": {"coordinates":[126.68219000000001,37.77517],"type":"Point"}
+}

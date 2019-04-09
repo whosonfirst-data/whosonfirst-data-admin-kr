@@ -1,0 +1,70 @@
+{
+  "id": 1277153209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05519,36.69325,127.05519,36.69325",
+    "geom:latitude":36.69325,
+    "geom:longitude":127.05519,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Buwon",
+    "gn:country_code":"KR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354616,
+    "gn:latitude":36.69325,
+    "gn:longitude":127.05519,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Buwon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\uc6d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354616
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96f1af62d1f67da5f15531f755a98364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746431,
+            "locality_id":1277153209,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1277153209,
+    "wof:lastmodified":1537659042,
+    "wof:name":"Buwon",
+    "wof:parent_id":1108746431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05519,
+    36.69325,
+    127.05519,
+    36.69325
+],
+  "geometry": {"coordinates":[127.05519,36.69325],"type":"Point"}
+}

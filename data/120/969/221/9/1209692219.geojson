@@ -1,0 +1,66 @@
+{
+  "id": 1209692219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23333,36.68333,126.23333,36.68333",
+    "geom:latitude":36.68333,
+    "geom:longitude":126.23333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Habol",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844823,
+    "gn:latitude":36.68333,
+    "gn:longitude":126.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hab\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hab\u014fl-li",
+        "Hab\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844823
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0554076751c0a09c607022ae098d541c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209692219
+        }
+    ],
+    "wof:id":1209692219,
+    "wof:lastmodified":1537656618,
+    "wof:name":"Habol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23333,
+    36.68333,
+    126.23333,
+    36.68333
+],
+  "geometry": {"coordinates":[126.23333,36.68333],"type":"Point"}
+}

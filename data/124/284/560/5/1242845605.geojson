@@ -1,0 +1,72 @@
+{
+  "id": 1242845605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9706,37.8497,126.9706,37.8497",
+    "geom:latitude":37.8497,
+    "geom:longitude":126.9706,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bomakdong",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799359,
+    "gn:latitude":37.8497,
+    "gn:longitude":126.9706,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Bomakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcf4\ub9c9\ub3d9",
+        "Pomak-tong",
+        "Bomakdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799359
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4ae709d06bb6fe6f8c9fec194b0a8f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1242845605,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242845605,
+    "wof:lastmodified":1537657632,
+    "wof:name":"Bomakdong",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9706,
+    37.8497,
+    126.9706,
+    37.8497
+],
+  "geometry": {"coordinates":[126.9706,37.8497],"type":"Point"}
+}

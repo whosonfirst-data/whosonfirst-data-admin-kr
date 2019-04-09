@@ -1,0 +1,71 @@
+{
+  "id": 1343725465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6716,36.7328,126.6716,36.7328",
+    "geom:latitude":36.7328,
+    "geom:longitude":126.6716,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sodang-gol",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809129,
+    "gn:latitude":36.7328,
+    "gn:longitude":126.6716,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fdang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11c\ub2f9\uace8",
+        "S\u014fdang-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809129
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"32f3fdf86dc3fbb1cb818e3b3bceabcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1343725465,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343725465,
+    "wof:lastmodified":1537657861,
+    "wof:name":"Sodang-gol",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6716,
+    36.7328,
+    126.6716,
+    36.7328
+],
+  "geometry": {"coordinates":[126.6716,36.7328],"type":"Point"}
+}

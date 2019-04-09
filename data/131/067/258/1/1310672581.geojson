@@ -1,0 +1,76 @@
+{
+  "id": 1310672581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51583,34.49,126.51583,34.49",
+    "geom:latitude":34.49,
+    "geom:longitude":126.51583,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mamyong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841385,
+    "gn:latitude":34.49,
+    "gn:longitude":126.51583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mamy\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uba85\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Mamy\u014fng-dong"
+    ],
+    "name:und_x_variant":[
+        "Mamy\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841385
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7b24b8f5701a8703010f04c16f7bc312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1310672581,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310672581,
+    "wof:lastmodified":1537656442,
+    "wof:name":"Mamyong-dong",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51583,
+    34.49,
+    126.51583,
+    34.49
+],
+  "geometry": {"coordinates":[126.51582999999999,34.49],"type":"Point"}
+}

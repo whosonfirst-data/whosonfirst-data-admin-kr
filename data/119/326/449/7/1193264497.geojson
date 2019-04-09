@@ -1,0 +1,72 @@
+{
+  "id": 1193264497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.07556,37.06472,127.07556,37.06472",
+    "geom:latitude":37.06472,
+    "geom:longitude":127.07556,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ichung-dong",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6575666,
+    "gn:latitude":37.06472,
+    "gn:longitude":127.07556,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ichung-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc774\ucda9\ub3d9",
+        "Ichung-dong",
+        "Ich\u2019ung-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575666
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bff88439d54bfd519c587449af376cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1193264497,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193264497,
+    "wof:lastmodified":1537657286,
+    "wof:name":"Ichung-dong",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.07556,
+    37.06472,
+    127.07556,
+    37.06472
+],
+  "geometry": {"coordinates":[127.07556,37.06472],"type":"Point"}
+}

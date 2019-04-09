@@ -1,0 +1,71 @@
+{
+  "id": 1226318811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0973,36.9149,127.0973,36.9149",
+    "geom:latitude":36.9149,
+    "geom:longitude":127.0973,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wangji",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811471,
+    "gn:latitude":36.9149,
+    "gn:longitude":127.0973,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wangji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc655\uc9c0",
+        "Wangji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811471
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"652dc572f751e26ca14f88df1b364e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746433,
+            "locality_id":1226318811,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226318811,
+    "wof:lastmodified":1537657940,
+    "wof:name":"Wangji",
+    "wof:parent_id":1108746433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0973,
+    36.9149,
+    127.0973,
+    36.9149
+],
+  "geometry": {"coordinates":[127.0973,36.9149],"type":"Point"}
+}

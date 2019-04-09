@@ -1,0 +1,66 @@
+{
+  "id": 1209589891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.50806,35.3175,128.50806,35.3175",
+    "geom:latitude":35.3175,
+    "geom:longitude":128.50806,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sansong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894749,
+    "gn:latitude":35.3175,
+    "gn:longitude":128.50806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sans\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sans\u014fng-ni",
+        "Sans\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894749
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4809d2ed0466cb0d9dd1c572988fafaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209589891
+        }
+    ],
+    "wof:id":1209589891,
+    "wof:lastmodified":1537656865,
+    "wof:name":"Sansong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.50806,
+    35.3175,
+    128.50806,
+    35.3175
+],
+  "geometry": {"coordinates":[128.50806,35.3175],"type":"Point"}
+}

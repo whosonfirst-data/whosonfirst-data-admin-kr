@@ -1,0 +1,70 @@
+{
+  "id": 1310684453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35575,35.95827,129.35575,35.95827",
+    "geom:latitude":35.95827,
+    "geom:longitude":129.35575,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Geondeokdong",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250783,
+    "gn:latitude":35.95827,
+    "gn:longitude":129.35575,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Geondeokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac74\ub355\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250783
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"686b7b6d397609d61317441caa3828a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1310684453,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310684453,
+    "wof:lastmodified":1537659260,
+    "wof:name":"Geondeokdong",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35575,
+    35.95827,
+    129.35575,
+    35.95827
+],
+  "geometry": {"coordinates":[129.35575,35.95827],"type":"Point"}
+}

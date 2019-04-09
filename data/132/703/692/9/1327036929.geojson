@@ -1,0 +1,67 @@
+{
+  "id": 1327036929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56056,35.5975,126.56056,35.5975",
+    "geom:latitude":35.5975,
+    "geom:longitude":126.56056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Unho-ri",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885905,
+    "gn:latitude":35.5975,
+    "gn:longitude":126.56056,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Unho-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885905
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bc56aa5e3078cb7c826592270e4132aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475783,
+            "locality_id":1327036929,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1327036929,
+    "wof:lastmodified":1536753837,
+    "wof:name":"Unho-ri",
+    "wof:parent_id":890475783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56056,
+    35.5975,
+    126.56056,
+    35.5975
+],
+  "geometry": {"coordinates":[126.56056,35.5975],"type":"Point"}
+}

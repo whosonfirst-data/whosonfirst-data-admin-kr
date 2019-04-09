@@ -1,0 +1,64 @@
+{
+  "id": 1209487175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74186,35.07193,126.74186,35.07193",
+    "geom:latitude":35.07193,
+    "geom:longitude":126.74186,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Changnaeng",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180347,
+    "gn:latitude":35.07193,
+    "gn:longitude":126.74186,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Changnaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\ub0c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180347
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"846bd5cfdba21be9fce4e0f007e447b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209487175
+        }
+    ],
+    "wof:id":1209487175,
+    "wof:lastmodified":1537659218,
+    "wof:name":"Changnaeng",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74186,
+    35.07193,
+    126.74186,
+    35.07193
+],
+  "geometry": {"coordinates":[126.74186,35.07193],"type":"Point"}
+}

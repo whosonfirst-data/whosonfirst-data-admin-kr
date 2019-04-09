@@ -1,0 +1,72 @@
+{
+  "id": 1309810559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.44197,35.85313,127.44197,35.85313",
+    "geom:latitude":35.85313,
+    "geom:longitude":127.44197,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wonwolp'yong",
+    "gn:country_code":"KR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833023,
+    "gn:latitude":35.85313,
+    "gn:longitude":127.44197,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u014fnw\u014flp\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u014flp\u2019y\u014fng-ni",
+        "\uc6d0\uc6d4\ud3c9",
+        "W\u014fnw\u014flp\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833023
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dc02859164aec5d321df92a3a306a094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1309810559,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1309810559,
+    "wof:lastmodified":1537656006,
+    "wof:name":"Wonwolp'yong",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.44197,
+    35.85313,
+    127.44197,
+    35.85313
+],
+  "geometry": {"coordinates":[127.44197,35.85313],"type":"Point"}
+}

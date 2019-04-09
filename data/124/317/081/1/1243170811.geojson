@@ -1,0 +1,70 @@
+{
+  "id": 1243170811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.73963,36.7173,127.73963,36.7173",
+    "geom:latitude":36.7173,
+    "geom:longitude":127.73963,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Heungjigol",
+    "gn:country_code":"KR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10370630,
+    "gn:latitude":36.7173,
+    "gn:longitude":127.73963,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Heungjigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud765\uc9c0\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370630
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c1049727d12efbf6ad3d6834d6f10d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1243170811,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243170811,
+    "wof:lastmodified":1537659049,
+    "wof:name":"Heungjigol",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.73963,
+    36.7173,
+    127.73963,
+    36.7173
+],
+  "geometry": {"coordinates":[127.73963000000001,36.7173],"type":"Point"}
+}

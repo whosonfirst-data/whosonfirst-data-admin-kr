@@ -1,0 +1,77 @@
+{
+  "id": 1226506369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55174,34.38612,126.55174,34.38612",
+    "geom:latitude":34.38612,
+    "geom:longitude":126.55174,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seojeong",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394505,
+    "gn:latitude":34.38612,
+    "gn:longitude":126.55174,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Seojeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b4\ubcf8"
+    ],
+    "name:kor_x_variant":[
+        "Songj\u014fng",
+        "\uc11c\uc815"
+    ],
+    "name:und_x_variant":[
+        "Unbon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394505
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a5ac31c30a5b27b73fd9f325f5107508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1226506369,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226506369,
+    "wof:lastmodified":1537657131,
+    "wof:name":"Seojeong",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55174,
+    34.38612,
+    126.55174,
+    34.38612
+],
+  "geometry": {"coordinates":[126.55174,34.38612],"type":"Point"}
+}

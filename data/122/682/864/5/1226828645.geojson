@@ -1,0 +1,68 @@
+{
+  "id": 1226828645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72202,37.50533,126.72202,37.50533",
+    "geom:latitude":37.50533,
+    "geom:longitude":126.72202,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23060.0",
+    "gn:asciiname":"Bupyeong",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11549691,
+    "gn:latitude":37.50533,
+    "gn:longitude":126.72202,
+    "gn:modification_date":"2017-05-25",
+    "gn:name":"Bupyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11549691
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a8f4046ce6ada090f5952ec613c83735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476037,
+            "locality_id":1226828645,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1226828645,
+    "wof:lastmodified":1537089791,
+    "wof:name":"Bupyeong",
+    "wof:parent_id":890476037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72202,
+    37.50533,
+    126.72202,
+    37.50533
+],
+  "geometry": {"coordinates":[126.72202,37.50533],"type":"Point"}
+}

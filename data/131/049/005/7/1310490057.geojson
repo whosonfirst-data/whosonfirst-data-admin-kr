@@ -1,0 +1,71 @@
+{
+  "id": 1310490057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.05,35.18333,129.05,35.18333",
+    "geom:latitude":35.18333,
+    "geom:longitude":129.05,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ch'oup-tong",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845348,
+    "gn:latitude":35.18333,
+    "gn:longitude":129.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u2019o\u016dp-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019os\u014f",
+        "Ch\u2019o\u016dp-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890475779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845348
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"172fd50ed74d35fbde38eef3b37ce391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475779,
+            "locality_id":1310490057,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1310490057,
+    "wof:lastmodified":1537656644,
+    "wof:name":"Ch'oup-tong",
+    "wof:parent_id":890475779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.05,
+    35.18333,
+    129.05,
+    35.18333
+],
+  "geometry": {"coordinates":[129.05000000000001,35.18333],"type":"Point"}
+}

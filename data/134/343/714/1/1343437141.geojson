@@ -1,0 +1,71 @@
+{
+  "id": 1343437141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3215,36.7246,126.3215,36.7246",
+    "geom:latitude":36.7246,
+    "geom:longitude":126.3215,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sapchol",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807972,
+    "gn:latitude":36.7246,
+    "gn:longitude":126.3215,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sapch\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bd\uc808",
+        "Sapch\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807972
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4ca8018d030888de5fa7c5205f15c1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1343437141,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343437141,
+    "wof:lastmodified":1537657810,
+    "wof:name":"Sapchol",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3215,
+    36.7246,
+    126.3215,
+    36.7246
+],
+  "geometry": {"coordinates":[126.3215,36.7246],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343975981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.72856,34.82743,127.72856,34.82743",
+    "geom:latitude":34.82743,
+    "geom:longitude":127.72856,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jinbuk",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846104,
+    "gn:latitude":34.82743,
+    "gn:longitude":127.72856,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Jinbuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c4\ubd81"
+    ],
+    "name:und_x_variant":[
+        "Chinbung-ni",
+        "Chinbuk",
+        "Jinbuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846104
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"21d3e31f16567e3ffcd673a84cfd0e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "locality_id":1343975981,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343975981,
+    "wof:lastmodified":1537656683,
+    "wof:name":"Jinbuk",
+    "wof:parent_id":890473219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.72856000000002,
+    34.82743,
+    127.72856000000002,
+    34.82743
+],
+  "geometry": {"coordinates":[127.72856000000002,34.82743],"type":"Point"}
+}

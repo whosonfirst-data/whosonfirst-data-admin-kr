@@ -1,0 +1,73 @@
+{
+  "id": 1310277703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6368,35.71626,128.6368,35.71626",
+    "geom:latitude":35.71626,
+    "geom:longitude":128.6368,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hwabaengnok",
+    "gn:country_code":"KR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844830,
+    "gn:latitude":35.71626,
+    "gn:longitude":128.6368,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hwabaengnok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habaek-tong",
+        "\ud654\ubc31\ub85d",
+        "Habaengnok",
+        "Hwabaengnok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844830
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9bc94e9b9c74593cb846af564da2f04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1310277703,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1310277703,
+    "wof:lastmodified":1537656619,
+    "wof:name":"Hwabaengnok",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6368,
+    35.71626,
+    128.6368,
+    35.71626
+],
+  "geometry": {"coordinates":[128.63679999999999,35.71626],"type":"Point"}
+}

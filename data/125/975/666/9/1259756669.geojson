@@ -1,0 +1,71 @@
+{
+  "id": 1259756669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9335,36.3658,127.9335,36.3658",
+    "geom:latitude":36.3658,
+    "geom:longitude":127.9335,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chonggok",
+    "gn:country_code":"KR",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892383,
+    "gn:latitude":36.3658,
+    "gn:longitude":127.9335,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chonggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc885\uace1",
+        "Chonggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892383
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ce4e9254c94342d085c1fa5c924ef136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1259756669,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259756669,
+    "wof:lastmodified":1537658543,
+    "wof:name":"Chonggok",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9335,
+    36.3658,
+    127.9335,
+    36.3658
+],
+  "geometry": {"coordinates":[127.9335,36.3658],"type":"Point"}
+}

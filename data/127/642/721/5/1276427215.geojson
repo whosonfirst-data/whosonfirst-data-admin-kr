@@ -1,0 +1,73 @@
+{
+  "id": 1276427215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62795,37.19093,127.62795,37.19093",
+    "geom:latitude":37.19093,
+    "geom:longitude":127.62795,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Songnimri",
+    "gn:country_code":"KR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6812896,
+    "gn:latitude":37.19093,
+    "gn:longitude":127.62795,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songnimri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\ub9bc\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Songnim-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812896
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a8a096ac34b398f90c6cdbdf2f380c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1276427215,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276427215,
+    "wof:lastmodified":1537657991,
+    "wof:name":"Songnimri",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62795,
+    37.19093,
+    127.62795,
+    37.19093
+],
+  "geometry": {"coordinates":[127.62795,37.19093],"type":"Point"}
+}

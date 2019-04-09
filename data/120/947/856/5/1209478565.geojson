@@ -1,0 +1,64 @@
+{
+  "id": 1209478565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29667,36.57611,127.29667,36.57611",
+    "geom:latitude":36.57611,
+    "geom:longitude":127.29667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Guseowon",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10804353,
+    "gn:latitude":36.57611,
+    "gn:longitude":127.29667,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Guseowon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc11c\uc6d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10804353
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96cc5dd221a1a62b59c10e3a19935220",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209478565
+        }
+    ],
+    "wof:id":1209478565,
+    "wof:lastmodified":1537659063,
+    "wof:name":"Guseowon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29667,
+    36.57611,
+    127.29667,
+    36.57611
+],
+  "geometry": {"coordinates":[127.29667000000001,36.57611],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209285641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55944,37.37028,127.55944,37.37028",
+    "geom:latitude":37.37028,
+    "geom:longitude":127.55944,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Beol-mal",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576454,
+    "gn:latitude":37.37028,
+    "gn:longitude":127.55944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Beol-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc8c\ub9d0",
+        "Beol-mal",
+        "P\u014fl-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576454
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c11552dd231418599d08f86eacf26a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209285641
+        }
+    ],
+    "wof:id":1209285641,
+    "wof:lastmodified":1537657317,
+    "wof:name":"Beol-mal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55944,
+    37.37028,
+    127.55944,
+    37.37028
+],
+  "geometry": {"coordinates":[127.55944,37.37028],"type":"Point"}
+}

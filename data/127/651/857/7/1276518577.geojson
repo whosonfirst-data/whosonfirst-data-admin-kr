@@ -1,0 +1,76 @@
+{
+  "id": 1276518577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95052,37.07108,126.95052,37.07108",
+    "geom:latitude":37.07108,
+    "geom:longitude":126.95052,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dokjumul",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575466,
+    "gn:latitude":37.07108,
+    "gn:longitude":126.95052,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dokjumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c5\uc8fc\ubb3c"
+    ],
+    "name:und_x_variant":[
+        "\ub3c5\uc904",
+        "Dokjul",
+        "Tokchul",
+        "Dokjumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575466
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"40930f40d7038dcb105f46f88ddc8584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1276518577,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276518577,
+    "wof:lastmodified":1537657271,
+    "wof:name":"Dokjumul",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95052,
+    37.07108,
+    126.95052,
+    37.07108
+],
+  "geometry": {"coordinates":[126.95052,37.07108],"type":"Point"}
+}

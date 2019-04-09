@@ -1,0 +1,70 @@
+{
+  "id": 1327230245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.87239,36.97426,127.87239,36.97426",
+    "geom:latitude":36.97426,
+    "geom:longitude":127.87239,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bauan",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290828,
+    "gn:latitude":36.97426,
+    "gn:longitude":127.87239,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Bauan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc14\uc6b0\uc548"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290828
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49f746dd7153c7837988c000219c8bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1327230245,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1327230245,
+    "wof:lastmodified":1537658935,
+    "wof:name":"Bauan",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.87239,
+    36.97426,
+    127.87239,
+    36.97426
+],
+  "geometry": {"coordinates":[127.87239,36.97426],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327331083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.7685,37.1747,128.7685,37.1747",
+    "geom:latitude":37.1747,
+    "geom:longitude":128.7685,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chollyak-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793643,
+    "gn:latitude":37.1747,
+    "gn:longitude":128.7685,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u014fllyak-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc804\ub7b5\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u014fllyak-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793643
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f3dba0c6662db046af25bd259648639b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1327331083,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327331083,
+    "wof:lastmodified":1537657471,
+    "wof:name":"Chollyak-ch'on",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.7685,
+    37.1747,
+    128.7685,
+    37.1747
+],
+  "geometry": {"coordinates":[128.76849999999999,37.1747],"type":"Point"}
+}

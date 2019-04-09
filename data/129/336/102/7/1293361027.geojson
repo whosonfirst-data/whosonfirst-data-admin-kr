@@ -1,0 +1,71 @@
+{
+  "id": 1293361027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2526,36.3108,128.2526,36.3108",
+    "geom:latitude":36.3108,
+    "geom:longitude":128.2526,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ogusan",
+    "gn:country_code":"KR",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890137,
+    "gn:latitude":36.3108,
+    "gn:longitude":128.2526,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u014egusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5b4\uad6c\uc0b0",
+        "\u014egusan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890137
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"df3ff6ba735fb59679398e8152af2178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472251,
+            "locality_id":1293361027,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293361027,
+    "wof:lastmodified":1537658475,
+    "wof:name":"Ogusan",
+    "wof:parent_id":890472251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2526,
+    36.3108,
+    128.2526,
+    36.3108
+],
+  "geometry": {"coordinates":[128.2526,36.3108],"type":"Point"}
+}

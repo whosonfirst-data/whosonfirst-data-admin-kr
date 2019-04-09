@@ -1,0 +1,64 @@
+{
+  "id": 1209306759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.06481,37.4382,128.06481,37.4382",
+    "geom:latitude":37.4382,
+    "geom:longitude":128.06481,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Paektal-li",
+    "gn:country_code":"KR",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6795771,
+    "gn:latitude":37.4382,
+    "gn:longitude":128.06481,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paektal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc31\ub2ec\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795771
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4f0939b65e447087c4257a73f9fbdad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209306759
+        }
+    ],
+    "wof:id":1209306759,
+    "wof:lastmodified":1537657537,
+    "wof:name":"Paektal-li",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.06481000000002,
+    37.4382,
+    128.06481000000002,
+    37.4382
+],
+  "geometry": {"coordinates":[128.06481000000002,37.4382],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259457247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.71562,34.93103,128.71562,34.93103",
+    "geom:latitude":34.93103,
+    "geom:longitude":128.71562,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Daegye",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11124629,
+    "gn:latitude":34.93103,
+    "gn:longitude":128.71562,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Daegye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uacc4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11124629
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1130c7edfa14058f90548ef549e66269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474515,
+            "locality_id":1259457247,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259457247,
+    "wof:lastmodified":1537659170,
+    "wof:name":"Daegye",
+    "wof:parent_id":890474515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.71562,
+    34.93103,
+    128.71562,
+    34.93103
+],
+  "geometry": {"coordinates":[128.71562,34.93103],"type":"Point"}
+}

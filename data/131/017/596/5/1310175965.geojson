@@ -1,0 +1,71 @@
+{
+  "id": 1310175965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.968,36.4548,127.968,36.4548",
+    "geom:latitude":36.4548,
+    "geom:longitude":127.968,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chitchil",
+    "gn:country_code":"KR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892470,
+    "gn:latitude":36.4548,
+    "gn:longitude":127.968,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chitchil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9d3\uc9c8",
+        "Chitchil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892470
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"caa5f1f650fb596a2d5edf802df76b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1310175965,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310175965,
+    "wof:lastmodified":1537658547,
+    "wof:name":"Chitchil",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.968,
+    36.4548,
+    127.968,
+    36.4548
+],
+  "geometry": {"coordinates":[127.968,36.4548],"type":"Point"}
+}

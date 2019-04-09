@@ -1,0 +1,64 @@
+{
+  "id": 1209679591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75159,35.02829,126.75159,35.02829",
+    "geom:latitude":35.02829,
+    "geom:longitude":126.75159,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seryu",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180580,
+    "gn:latitude":35.02829,
+    "gn:longitude":126.75159,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seryu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc138\ub958"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180580
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"701c885507674403b7332febe57ce535",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209679591
+        }
+    ],
+    "wof:id":1209679591,
+    "wof:lastmodified":1537659222,
+    "wof:name":"Seryu",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75159,
+    35.02829000000001,
+    126.75159,
+    35.02829000000001
+],
+  "geometry": {"coordinates":[126.75158999999999,35.02829000000001],"type":"Point"}
+}

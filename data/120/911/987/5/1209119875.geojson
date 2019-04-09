@@ -1,0 +1,67 @@
+{
+  "id": 1209119875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38333,33.3,126.38333,33.3",
+    "geom:latitude":33.3,
+    "geom:longitude":126.38333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kol-maul",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842699,
+    "gn:latitude":33.3,
+    "gn:longitude":126.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u014fl-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komah\u016dl",
+        "K\u014fmh\u016dl",
+        "K\u014fl-ma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842699
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2a62b280685e2495892636066bc46946",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209119875
+        }
+    ],
+    "wof:id":1209119875,
+    "wof:lastmodified":1537656510,
+    "wof:name":"Kol-maul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38333,
+    33.3,
+    126.38333,
+    33.3
+],
+  "geometry": {"coordinates":[126.38333,33.3],"type":"Point"}
+}

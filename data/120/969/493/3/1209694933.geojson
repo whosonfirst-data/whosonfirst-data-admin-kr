@@ -1,0 +1,64 @@
+{
+  "id": 1209694933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62579,37.70152,126.62579,37.70152",
+    "geom:latitude":37.70152,
+    "geom:longitude":126.62579,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sindaedong",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607571,
+    "gn:latitude":37.70152,
+    "gn:longitude":126.62579,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Sindaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub300\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607571
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5c6e568648b4b0a62c64e1f4723c6536",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209694933
+        }
+    ],
+    "wof:id":1209694933,
+    "wof:lastmodified":1537658896,
+    "wof:name":"Sindaedong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62579,
+    37.70152,
+    126.62579,
+    37.70152
+],
+  "geometry": {"coordinates":[126.62578999999999,37.70152],"type":"Point"}
+}

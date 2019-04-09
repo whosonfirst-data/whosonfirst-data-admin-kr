@@ -1,0 +1,71 @@
+{
+  "id": 1243326947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0385,36.8628,127.0385,36.8628",
+    "geom:latitude":36.8628,
+    "geom:longitude":127.0385,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Songbawi",
+    "gn:country_code":"KR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811078,
+    "gn:latitude":36.8628,
+    "gn:longitude":127.0385,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songbawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\ubc14\uc704",
+        "Songbawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811078
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fada8e7efbb26498c1e80993c840df3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1243326947,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243326947,
+    "wof:lastmodified":1537657928,
+    "wof:name":"Songbawi",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0385,
+    36.8628,
+    127.0385,
+    36.8628
+],
+  "geometry": {"coordinates":[127.0385,36.8628],"type":"Point"}
+}

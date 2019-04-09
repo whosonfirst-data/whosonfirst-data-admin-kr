@@ -1,0 +1,78 @@
+{
+  "id": 1259354803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29526,34.9169,127.29526,34.9169",
+    "geom:latitude":34.9169,
+    "geom:longitude":127.29526,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Deokchi",
+    "gn:country_code":"KR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834588,
+    "gn:latitude":34.9169,
+    "gn:longitude":127.29526,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Deokchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uce58"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fkch\u2019i"
+    ],
+    "name:und_x_variant":[
+        "T\u014fchae-ri",
+        "T\u014fkch\u2019i-ri",
+        "Deokchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834588
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"72c70fd19316bd880c5fa23d3698b1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1259354803,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259354803,
+    "wof:lastmodified":1537656095,
+    "wof:name":"Deokchi",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29526,
+    34.9169,
+    127.29526,
+    34.9169
+],
+  "geometry": {"coordinates":[127.29526,34.9169],"type":"Point"}
+}

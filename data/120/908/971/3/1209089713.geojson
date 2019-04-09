@@ -1,0 +1,64 @@
+{
+  "id": 1209089713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.66575,36.46579,128.66575,36.46579",
+    "geom:latitude":36.46579,
+    "geom:longitude":128.66575,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yangjimaeul",
+    "gn:country_code":"KR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272176,
+    "gn:latitude":36.46579,
+    "gn:longitude":128.66575,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Yangjimaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc9c0\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272176
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c8aaad95603cdfa19c5b46cd0bdb6d02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209089713
+        }
+    ],
+    "wof:id":1209089713,
+    "wof:lastmodified":1537659316,
+    "wof:name":"Yangjimaeul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.66575,
+    36.46579000000001,
+    128.66575,
+    36.46579000000001
+],
+  "geometry": {"coordinates":[128.66575,36.46579000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310680159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.27778,37.49806,127.27778,37.49806",
+    "geom:latitude":37.49806,
+    "geom:longitude":127.27778,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Iseok-ri",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6577190,
+    "gn:latitude":37.49806,
+    "gn:longitude":127.27778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Iseok-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\uc11d\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\uc774\uc11d\ub9ac",
+        "Iseok-ri",
+        "Is\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577190
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c5614ff676eb6ff3224d249fc7095d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1310680159,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310680159,
+    "wof:lastmodified":1537657348,
+    "wof:name":"Iseok-ri",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.27778,
+    37.49806,
+    127.27778,
+    37.49806
+],
+  "geometry": {"coordinates":[127.27778000000001,37.49806],"type":"Point"}
+}

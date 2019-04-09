@@ -1,0 +1,67 @@
+{
+  "id": 1259753743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.31139,36.63333,129.31139,36.63333",
+    "geom:latitude":36.63333,
+    "geom:longitude":129.31139,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sirak-kol",
+    "gn:country_code":"KR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895436,
+    "gn:latitude":36.63333,
+    "gn:longitude":129.31139,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Sirak-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895436
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8c2485416c6d942783419feb09163cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1259753743,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259753743,
+    "wof:lastmodified":1536965834,
+    "wof:name":"Sirak-kol",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.31139,
+    36.63333,
+    129.31139,
+    36.63333
+],
+  "geometry": {"coordinates":[129.31138999999999,36.63333],"type":"Point"}
+}

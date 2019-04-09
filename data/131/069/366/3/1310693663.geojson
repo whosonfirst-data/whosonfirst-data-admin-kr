@@ -1,0 +1,70 @@
+{
+  "id": 1310693663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.93272,37.79931,127.93272,37.79931",
+    "geom:latitude":37.79931,
+    "geom:longitude":127.93272,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saedaegi",
+    "gn:country_code":"KR",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8717230,
+    "gn:latitude":37.79931,
+    "gn:longitude":127.93272,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Saedaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ub301\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8717230
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fcf299c60987daf73db5eceaf0555db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1310693663,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310693663,
+    "wof:lastmodified":1537658910,
+    "wof:name":"Saedaegi",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.93272,
+    37.79931,
+    127.93272,
+    37.79931
+],
+  "geometry": {"coordinates":[127.93272,37.79931],"type":"Point"}
+}

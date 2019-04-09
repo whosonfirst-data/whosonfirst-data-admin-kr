@@ -1,0 +1,75 @@
+{
+  "id": 1327039715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.73389,34.99846,127.73389,34.99846",
+    "geom:latitude":34.99846,
+    "geom:longitude":127.73389,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sadong",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838254,
+    "gn:latitude":34.99846,
+    "gn:longitude":127.73389,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Sadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fl-gol",
+        "Sadong-ni",
+        "Sadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838254
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"33888a098c2e2155242c3024a52af6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472247,
+            "locality_id":1327039715,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327039715,
+    "wof:lastmodified":1537656283,
+    "wof:name":"Sadong",
+    "wof:parent_id":890472247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.73389,
+    34.99845999999999,
+    127.73389,
+    34.99845999999999
+],
+  "geometry": {"coordinates":[127.73389,34.99845999999999],"type":"Point"}
+}

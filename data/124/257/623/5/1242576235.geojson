@@ -1,0 +1,77 @@
+{
+  "id": 1242576235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.39375,37.05409,128.39375,37.05409",
+    "geom:latitude":37.05409,
+    "geom:longitude":128.39375,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jiseogol",
+    "gn:country_code":"KR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793571,
+    "gn:latitude":37.05409,
+    "gn:longitude":128.39375,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Jiseogol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\uc18c\uace8"
+    ],
+    "name:kor_x_variant":[
+        "\uc9c0\uc11c\uace8"
+    ],
+    "name:und_x_variant":[
+        "Chiso-gol",
+        "Jiseogol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793571
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae6947cfeaee450e750ac73ffadee6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1242576235,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1242576235,
+    "wof:lastmodified":1537657468,
+    "wof:name":"Jiseogol",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.39375,
+    37.05409,
+    128.39375,
+    37.05409
+],
+  "geometry": {"coordinates":[128.39375000000001,37.05409],"type":"Point"}
+}

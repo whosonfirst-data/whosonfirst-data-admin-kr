@@ -1,0 +1,65 @@
+{
+  "id": 1209485983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2963,36.3955,128.2963,36.3955",
+    "geom:latitude":36.3955,
+    "geom:longitude":128.2963,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mullyang-gol",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890088,
+    "gn:latitude":36.3955,
+    "gn:longitude":128.2963,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mullyang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb3c\ub7c9\uace8",
+        "Mullyang-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890088
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ca2a1ff2e7f912ca4db582ce22c1f74e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209485983
+        }
+    ],
+    "wof:id":1209485983,
+    "wof:lastmodified":1537658472,
+    "wof:name":"Mullyang-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2963,
+    36.3955,
+    128.2963,
+    36.3955
+],
+  "geometry": {"coordinates":[128.2963,36.3955],"type":"Point"}
+}

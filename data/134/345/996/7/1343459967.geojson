@@ -1,0 +1,72 @@
+{
+  "id": 1343459967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3932,35.55099,127.3932,35.55099",
+    "geom:latitude":35.55099,
+    "geom:longitude":127.3932,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Songjok-kol",
+    "gn:country_code":"KR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876698,
+    "gn:latitude":35.55099,
+    "gn:longitude":127.3932,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fngj\u014fk-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc131\uc801\uace8",
+        "S\u014fngj\u014fk-kol",
+        "Seongjeokgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876698
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"15a4e6f7912df979eb8e51a73732310c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1343459967,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1343459967,
+    "wof:lastmodified":1537658143,
+    "wof:name":"Songjok-kol",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3932,
+    35.55099000000001,
+    127.3932,
+    35.55099000000001
+],
+  "geometry": {"coordinates":[127.39319999999999,35.55099000000001],"type":"Point"}
+}

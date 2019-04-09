@@ -1,0 +1,73 @@
+{
+  "id": 1360303467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43151,35.12474,126.43151,35.12474",
+    "geom:latitude":35.12474,
+    "geom:longitude":126.43151,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gamnam",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843213,
+    "gn:latitude":35.12474,
+    "gn:longitude":126.43151,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Gamnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac10\ub0a8"
+    ],
+    "name:und_x_variant":[
+        "Kamnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843213
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"16ac2e913385a2953a638baf81475d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1360303467,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360303467,
+    "wof:lastmodified":1537656537,
+    "wof:name":"Gamnam",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43151,
+    35.12474,
+    126.43151,
+    35.12474
+],
+  "geometry": {"coordinates":[126.43151,35.12474],"type":"Point"}
+}

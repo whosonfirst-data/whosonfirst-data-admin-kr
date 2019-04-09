@@ -1,0 +1,75 @@
+{
+  "id": 1343836599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.13704,35.35274,129.13704,35.35274",
+    "geom:latitude":35.35274,
+    "geom:longitude":129.13704,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hwangdari",
+    "gn:country_code":"KR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843956,
+    "gn:latitude":35.35274,
+    "gn:longitude":129.13704,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Hwangdari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud669\ub2e4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Hwanggyo",
+        "Handari",
+        "Hwangdari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843956
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6deb4c7922182c80df3a1961b98a1869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1343836599,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1343836599,
+    "wof:lastmodified":1537656572,
+    "wof:name":"Hwangdari",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.13703999999998,
+    35.35274000000001,
+    129.13703999999998,
+    35.35274000000001
+],
+  "geometry": {"coordinates":[129.13703999999998,35.35274000000001],"type":"Point"}
+}

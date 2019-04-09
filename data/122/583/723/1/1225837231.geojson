@@ -1,0 +1,67 @@
+{
+  "id": 1225837231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.98194,37.73056,128.98194,37.73056",
+    "geom:latitude":37.73056,
+    "geom:longitude":128.98194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Song-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889382,
+    "gn:latitude":37.73056,
+    "gn:longitude":128.98194,
+    "gn:modification_date":"1996-05-20",
+    "gn:name":"Song-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889382
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de79ce18ee8e1b806ec0b09981258448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1225837231,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1225837231,
+    "wof:lastmodified":1537024883,
+    "wof:name":"Song-ch'on",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.98193999999998,
+    37.73056,
+    128.98193999999998,
+    37.73056
+],
+  "geometry": {"coordinates":[128.98193999999998,37.73056],"type":"Point"}
+}

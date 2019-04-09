@@ -1,0 +1,66 @@
+{
+  "id": 1209207921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61667,36.53333,127.61667,36.53333",
+    "geom:latitude":36.53333,
+    "geom:longitude":127.61667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ch'ogae-gol",
+    "gn:country_code":"KR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845896,
+    "gn:latitude":36.53333,
+    "gn:longitude":127.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u2019ogae-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ogye-dong",
+        "Ch\u2019ogae-dong",
+        "Ch\u2019ogae-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845896
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"66b34f9969e53f7fe71a243a1da6f379",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209207921
+        }
+    ],
+    "wof:id":1209207921,
+    "wof:lastmodified":1537656672,
+    "wof:name":"Ch'ogae-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61667,
+    36.53333,
+    127.61667,
+    36.53333
+],
+  "geometry": {"coordinates":[127.61667,36.53333],"type":"Point"}
+}

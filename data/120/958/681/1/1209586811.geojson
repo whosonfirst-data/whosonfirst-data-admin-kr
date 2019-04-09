@@ -1,0 +1,66 @@
+{
+  "id": 1209586811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1122,37.7085,127.1122,37.7085",
+    "geom:latitude":37.7085,
+    "geom:longitude":127.1122,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wolchon",
+    "gn:country_code":"KR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801706,
+    "gn:latitude":37.7085,
+    "gn:longitude":127.1122,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Wolchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d4\ucd0c",
+        "W\u014flch\u2019on",
+        "Wolchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801706
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7a8b40e08da638829cf474248993ac14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586811
+        }
+    ],
+    "wof:id":1209586811,
+    "wof:lastmodified":1537657703,
+    "wof:name":"Wolchon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1122,
+    37.7085,
+    127.1122,
+    37.7085
+],
+  "geometry": {"coordinates":[127.1122,37.7085],"type":"Point"}
+}

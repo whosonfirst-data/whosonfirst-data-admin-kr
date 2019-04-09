@@ -1,0 +1,71 @@
+{
+  "id": 1293572557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.10662,35.84282,128.10662,35.84282",
+    "geom:latitude":35.84282,
+    "geom:longitude":128.10662,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wolnam",
+    "gn:country_code":"KR",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902564,
+    "gn:latitude":35.84282,
+    "gn:longitude":128.10662,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014flnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d4\ub0a8",
+        "W\u014flnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902564
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"221ddb677da0e940ab79778aeecd702b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473191,
+            "locality_id":1293572557,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293572557,
+    "wof:lastmodified":1537658825,
+    "wof:name":"Wolnam",
+    "wof:parent_id":890473191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.10662,
+    35.84282,
+    128.10662,
+    35.84282
+],
+  "geometry": {"coordinates":[128.10661999999999,35.84282],"type":"Point"}
+}

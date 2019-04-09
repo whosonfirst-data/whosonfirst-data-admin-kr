@@ -1,0 +1,64 @@
+{
+  "id": 1209076737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37059,36.69425,128.37059,36.69425",
+    "geom:latitude":36.69425,
+    "geom:longitude":128.37059,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Godeungol",
+    "gn:country_code":"KR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254471,
+    "gn:latitude":36.69425,
+    "gn:longitude":128.37059,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Godeungol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace7\uc740\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254471
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa50b6d0b42563ae49c39c22839cca4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209076737
+        }
+    ],
+    "wof:id":1209076737,
+    "wof:lastmodified":1537659272,
+    "wof:name":"Godeungol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37059,
+    36.69425,
+    128.37059,
+    36.69425
+],
+  "geometry": {"coordinates":[128.37058999999999,36.69425],"type":"Point"}
+}

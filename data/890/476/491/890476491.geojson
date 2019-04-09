@@ -1,0 +1,68 @@
+{
+  "id": 890476491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.62667,34.8825,128.62667,34.8825",
+    "geom:latitude":34.8825,
+    "geom:longitude":128.62667,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":82560,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sinhy\u014fn"
+    ],
+    "qs:name":"Sinhyeon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882056,
+        "qs:id":566813
+    },
+    "wof:country":"KR",
+    "wof:created":1469054077,
+    "wof:geomhash":"67c4409d26cb88d0cc005de3582adaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474515,
+            "locality_id":890476491,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":890476491,
+    "wof:lastmodified":1505343721,
+    "wof:name":"Sinhyeon",
+    "wof:parent_id":890474515,
+    "wof:placetype":"locality",
+    "wof:population":82560,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.62667,
+    34.8825,
+    128.62667,
+    34.8825
+],
+  "geometry": {"coordinates":[128.62666999999999,34.8825],"type":"Point"}
+}

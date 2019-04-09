@@ -1,0 +1,64 @@
+{
+  "id": 1209586291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.24234,36.59676,128.24234,36.59676",
+    "geom:latitude":36.59676,
+    "geom:longitude":128.24234,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hapyeongji",
+    "gn:country_code":"KR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11267580,
+    "gn:latitude":36.59676,
+    "gn:longitude":128.24234,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Hapyeongji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ud3c9\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11267580
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b3e0519a081bc2923e132fc400ad8818",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209586291
+        }
+    ],
+    "wof:id":1209586291,
+    "wof:lastmodified":1537659301,
+    "wof:name":"Hapyeongji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.24233999999998,
+    36.59676,
+    128.24233999999998,
+    36.59676
+],
+  "geometry": {"coordinates":[128.24233999999998,36.59676],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226105573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63333,36.5,126.63333,36.5",
+    "geom:latitude":36.5,
+    "geom:longitude":126.63333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kanjae",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843123,
+    "gn:latitude":36.5,
+    "gn:longitude":126.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanjae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanch\u2019i-ri",
+        "Kanji-ri",
+        "Kanjae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843123
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"504079df5cbe3b48e7f172e1be310876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1226105573,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226105573,
+    "wof:lastmodified":1537656533,
+    "wof:name":"Kanjae",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63333,
+    36.5,
+    126.63333,
+    36.5
+],
+  "geometry": {"coordinates":[126.63333,36.5],"type":"Point"}
+}

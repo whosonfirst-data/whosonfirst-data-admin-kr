@@ -1,0 +1,73 @@
+{
+  "id": 1343754067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9783,37.186,128.9783,37.186",
+    "geom:latitude":37.186,
+    "geom:longitude":128.9783,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"T'aebaek-kol",
+    "gn:country_code":"KR",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6797099,
+    "gn:latitude":37.186,
+    "gn:longitude":128.9783,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019aebaek-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0dc\ubc31\uace8"
+    ],
+    "name:kor_x_variant":[
+        "T\u2019aebaek-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6797099
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"748d1a3ec14f4b9676d2590c425294d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473189,
+            "locality_id":1343754067,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343754067,
+    "wof:lastmodified":1537657579,
+    "wof:name":"T'aebaek-kol",
+    "wof:parent_id":890473189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9783,
+    37.186,
+    128.9783,
+    37.186
+],
+  "geometry": {"coordinates":[128.97829999999999,37.186],"type":"Point"}
+}

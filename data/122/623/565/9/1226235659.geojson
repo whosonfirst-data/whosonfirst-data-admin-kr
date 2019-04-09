@@ -1,0 +1,70 @@
+{
+  "id": 1226235659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6412,36.7496,127.6412,36.7496",
+    "geom:latitude":36.7496,
+    "geom:longitude":127.6412,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Seongsan",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351749,
+    "gn:latitude":36.7496,
+    "gn:longitude":127.6412,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Seongsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351749
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eb5fa21f2d85564e490e438c19b24252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1226235659,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226235659,
+    "wof:lastmodified":1537659035,
+    "wof:name":"Seongsan",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6412,
+    36.7496,
+    127.6412,
+    36.7496
+],
+  "geometry": {"coordinates":[127.6412,36.7496],"type":"Point"}
+}

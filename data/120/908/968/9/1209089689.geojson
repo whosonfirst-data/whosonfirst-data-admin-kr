@@ -1,0 +1,64 @@
+{
+  "id": 1209089689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76233,35.88026,128.76233,35.88026",
+    "geom:latitude":35.88026,
+    "geom:longitude":128.76233,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cheongchon",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10989460,
+    "gn:latitude":35.88026,
+    "gn:longitude":128.76233,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Cheongchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\ucc9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989460
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2f0af4d7c4f6b6b98fd9e5c0fb61d8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209089689
+        }
+    ],
+    "wof:id":1209089689,
+    "wof:lastmodified":1537659104,
+    "wof:name":"Cheongchon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76233,
+    35.88026,
+    128.76233,
+    35.88026
+],
+  "geometry": {"coordinates":[128.76232999999999,35.88026],"type":"Point"}
+}

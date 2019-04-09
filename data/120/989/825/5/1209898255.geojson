@@ -1,0 +1,70 @@
+{
+  "id": 1209898255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69063,35.06785,126.69063,35.06785",
+    "geom:latitude":35.06785,
+    "geom:longitude":126.69063,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gwanggok",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180287,
+    "gn:latitude":35.06785,
+    "gn:longitude":126.69063,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gwanggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad11\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180287
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b6a1068fa050ead5c073396227b8a6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1209898255,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209898255,
+    "wof:lastmodified":1537659217,
+    "wof:name":"Gwanggok",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69063,
+    35.06785,
+    126.69063,
+    35.06785
+],
+  "geometry": {"coordinates":[126.69063,35.06785],"type":"Point"}
+}

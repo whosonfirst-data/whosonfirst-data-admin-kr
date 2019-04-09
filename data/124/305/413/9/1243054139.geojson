@@ -1,0 +1,75 @@
+{
+  "id": 1243054139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93666,37.83485,126.93666,37.83485",
+    "geom:latitude":37.83485,
+    "geom:longitude":126.93666,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seuge",
+    "gn:country_code":"KR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799367,
+    "gn:latitude":37.83485,
+    "gn:longitude":126.93666,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Seuge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc138\uc6b0\uac8c"
+    ],
+    "name:und_x_variant":[
+        "\uc548\uc138\uc6b0\uac8c",
+        "Anseuge",
+        "Seuge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799367
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"30325826521f175b7653f399ee28eac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1243054139,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243054139,
+    "wof:lastmodified":1537657633,
+    "wof:name":"Seuge",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93666,
+    37.83485,
+    126.93666,
+    37.83485
+],
+  "geometry": {"coordinates":[126.93666,37.83485],"type":"Point"}
+}

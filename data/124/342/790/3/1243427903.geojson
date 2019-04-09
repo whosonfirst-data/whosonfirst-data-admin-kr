@@ -1,0 +1,67 @@
+{
+  "id": 1243427903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35111,36.48889,129.35111,36.48889",
+    "geom:latitude":36.48889,
+    "geom:longitude":129.35111,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hansil",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895116,
+    "gn:latitude":36.48889,
+    "gn:longitude":129.35111,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Hansil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895116
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e5dfaf740266faf87a69034839a88551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1243427903,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243427903,
+    "wof:lastmodified":1536831275,
+    "wof:name":"Hansil",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35111,
+    36.48889000000001,
+    129.35111,
+    36.48889000000001
+],
+  "geometry": {"coordinates":[129.35111000000001,36.48889000000001],"type":"Point"}
+}

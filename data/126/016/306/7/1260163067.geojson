@@ -1,0 +1,73 @@
+{
+  "id": 1260163067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19564,34.63171,127.19564,34.63171",
+    "geom:latitude":34.63171,
+    "geom:longitude":127.19564,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Geumho",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880971,
+    "gn:latitude":34.63171,
+    "gn:longitude":127.19564,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Geumho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\ud638"
+    ],
+    "name:kor_x_variant":[
+        "K\u016dmho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880971
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1e28a8bff9c8e61aa7ec650cce229e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1260163067,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260163067,
+    "wof:lastmodified":1537656741,
+    "wof:name":"Geumho",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19564,
+    34.63171,
+    127.19564,
+    34.63171
+],
+  "geometry": {"coordinates":[127.19564,34.63171],"type":"Point"}
+}

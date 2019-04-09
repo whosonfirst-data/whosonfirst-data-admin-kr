@@ -1,0 +1,64 @@
+{
+  "id": 1209197689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.74384,36.73352,128.74384,36.73352",
+    "geom:latitude":36.73352,
+    "geom:longitude":128.74384,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Guryonggok",
+    "gn:country_code":"KR",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256075,
+    "gn:latitude":36.73352,
+    "gn:longitude":128.74384,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Guryonggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub8e1\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256075
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"70c75e10b76fa721857f706d070d4697",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209197689
+        }
+    ],
+    "wof:id":1209197689,
+    "wof:lastmodified":1537659289,
+    "wof:name":"Guryonggok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.74383999999998,
+    36.73352,
+    128.74383999999998,
+    36.73352
+],
+  "geometry": {"coordinates":[128.74383999999998,36.73352],"type":"Point"}
+}

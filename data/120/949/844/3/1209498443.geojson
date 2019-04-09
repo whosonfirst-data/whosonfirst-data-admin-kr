@@ -1,0 +1,64 @@
+{
+  "id": 1209498443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.50901,36.69471,128.50901,36.69471",
+    "geom:latitude":36.69471,
+    "geom:longitude":128.50901,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kkogdubawi",
+    "gn:country_code":"KR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255049,
+    "gn:latitude":36.69471,
+    "gn:longitude":128.50901,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Kkogdubawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uaf2d\ub450\ubc14\uc704"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255049
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"862076ba82dfe7d3557e8c6c334616f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209498443
+        }
+    ],
+    "wof:id":1209498443,
+    "wof:lastmodified":1537659279,
+    "wof:name":"Kkogdubawi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.50901000000002,
+    36.69471,
+    128.50901000000002,
+    36.69471
+],
+  "geometry": {"coordinates":[128.50901000000002,36.69471],"type":"Point"}
+}

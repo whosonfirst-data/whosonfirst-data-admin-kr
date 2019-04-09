@@ -1,0 +1,74 @@
+{
+  "id": 1276857411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1646,37.6619,127.1646,37.6619",
+    "geom:latitude":37.6619,
+    "geom:longitude":127.1646,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Talum-ni",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801433,
+    "gn:latitude":37.6619,
+    "gn:longitude":127.1646,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tal\u016dm-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2ec\uc74c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\ub2ec\uc74c\ub9ac",
+        "Tal\u016dm-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801433
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"936d1b1f2230bd06831b8ac71ceb521d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1276857411,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276857411,
+    "wof:lastmodified":1537657695,
+    "wof:name":"Talum-ni",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1646,
+    37.6619,
+    127.1646,
+    37.6619
+],
+  "geometry": {"coordinates":[127.16459999999999,37.6619],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309979559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0077,36.8008,129.0077,36.8008",
+    "geom:latitude":36.8008,
+    "geom:longitude":129.0077,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chunggu-gol",
+    "gn:country_code":"KR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6895685,
+    "gn:latitude":36.8008,
+    "gn:longitude":129.0077,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chunggu-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uad6c\uace8",
+        "Chunggu-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6895685
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"50a4db9da3a925dd1c2762d4a8ea83cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1309979559,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309979559,
+    "wof:lastmodified":1537658635,
+    "wof:name":"Chunggu-gol",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0077,
+    36.8008,
+    129.0077,
+    36.8008
+],
+  "geometry": {"coordinates":[129.0077,36.8008],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309801061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0325,37.159,129.0325,37.159",
+    "geom:latitude":37.159,
+    "geom:longitude":129.0325,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yangji-mal",
+    "gn:country_code":"KR",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832868,
+    "gn:latitude":37.159,
+    "gn:longitude":129.0325,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yangji-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019ong-ni",
+        "Yangji",
+        "Tong-ri",
+        "\uc591\uc9c0\ub9d0",
+        "Yangji-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832868
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0d7331133a3de0c40e65e53060f49802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473189,
+            "locality_id":1309801061,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309801061,
+    "wof:lastmodified":1537655999,
+    "wof:name":"Yangji-mal",
+    "wof:parent_id":890473189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0325,
+    37.159,
+    129.0325,
+    37.159
+],
+  "geometry": {"coordinates":[129.0325,37.159],"type":"Point"}
+}

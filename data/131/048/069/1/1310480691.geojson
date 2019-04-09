@@ -1,0 +1,74 @@
+{
+  "id": 1310480691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1537,37.6604,127.1537,37.6604",
+    "geom:latitude":37.6604,
+    "geom:longitude":127.1537,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pisokkori",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801420,
+    "gn:latitude":37.6604,
+    "gn:longitude":127.1537,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pis\u014fkk\u014fri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ube44\uc11d\uac70\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\ube44\uc11d\uac70\ub9ac",
+        "Pis\u014fkk\u014fri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801420
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bc5c9353bb779740e99f318a9e4b66d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1310480691,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310480691,
+    "wof:lastmodified":1537657695,
+    "wof:name":"Pisokkori",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1537,
+    37.6604,
+    127.1537,
+    37.6604
+],
+  "geometry": {"coordinates":[127.1537,37.6604],"type":"Point"}
+}

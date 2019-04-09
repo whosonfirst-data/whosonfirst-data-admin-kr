@@ -1,0 +1,73 @@
+{
+  "id": 1310427437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.02225,37.87879,128.02225,37.87879",
+    "geom:latitude":37.87879,
+    "geom:longitude":128.02225,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Neolbeunnaduri",
+    "gn:country_code":"KR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6814241,
+    "gn:latitude":37.87879,
+    "gn:longitude":128.02225,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Neolbeunnaduri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub113\uc740\ub098\ub4dc\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "N\u014flb\u016dnnad\u016d-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6814241
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7d79f96bbe2a8c65efd8de3b2ddfe704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1310427437,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310427437,
+    "wof:lastmodified":1537658046,
+    "wof:name":"Neolbeunnaduri",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.02225,
+    37.87879,
+    128.02225,
+    37.87879
+],
+  "geometry": {"coordinates":[128.02225000000001,37.87879],"type":"Point"}
+}

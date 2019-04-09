@@ -1,0 +1,70 @@
+{
+  "id": 1243038633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.01643,36.69797,128.01643,36.69797",
+    "geom:latitude":36.69797,
+    "geom:longitude":128.01643,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wayari",
+    "gn:country_code":"KR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410301,
+    "gn:latitude":36.69797,
+    "gn:longitude":128.01643,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Wayari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc640\uc57c\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410301
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"efdd36f5b34a3b48dd486024b1cb03eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1243038633,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243038633,
+    "wof:lastmodified":1537659052,
+    "wof:name":"Wayari",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.01643,
+    36.69797,
+    128.01643,
+    36.69797
+],
+  "geometry": {"coordinates":[128.01643000000001,36.69797],"type":"Point"}
+}

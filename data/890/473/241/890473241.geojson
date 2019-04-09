@@ -1,0 +1,76 @@
+{
+  "id": 890473241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5,38.2,128.5,38.2",
+    "geom:latitude":38.2,
+    "geom:longitude":128.5,
+    "gn:country":"KR",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sokcho-si"
+    ],
+    "name:eng_x_variant":[
+        "Sokcho"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18d\ucd08\uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc18d\ucd08"
+    ],
+    "qs:name":"Sokch\u2019o-si",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836534,
+        "qs:id":372365
+    },
+    "wof:country":"KR",
+    "wof:created":1469053945,
+    "wof:geomhash":"53d2f0e2019b600d33a204f7b734c5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476055,
+            "localadmin_id":890473241,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":890473241,
+    "wof:lastmodified":1505343716,
+    "wof:name":"Sokch\u2019o-si",
+    "wof:parent_id":890476055,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5,
+    38.2,
+    128.5,
+    38.2
+],
+  "geometry": {"coordinates":[128.5,38.2],"type":"Point"}
+}

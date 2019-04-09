@@ -1,0 +1,73 @@
+{
+  "id": 1259705531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9679,37.3249,128.9679,37.3249",
+    "geom:latitude":37.3249,
+    "geom:longitude":128.9679,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kason",
+    "gn:country_code":"KR",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844814,
+    "gn:latitude":37.3249,
+    "gn:longitude":128.9679,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kason",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Ha-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844814
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa14fe27d0c5b50a2d892536b495a517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473189,
+            "locality_id":1259705531,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259705531,
+    "wof:lastmodified":1537656617,
+    "wof:name":"Kason",
+    "wof:parent_id":890473189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9679,
+    37.3249,
+    128.9679,
+    37.3249
+],
+  "geometry": {"coordinates":[128.96789999999999,37.3249],"type":"Point"}
+}

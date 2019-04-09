@@ -1,0 +1,70 @@
+{
+  "id": 1310188433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.73908,36.95951,128.73908,36.95951",
+    "geom:latitude":36.95951,
+    "geom:longitude":128.73908,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Seori",
+    "gn:country_code":"KR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9082550,
+    "gn:latitude":36.95951,
+    "gn:longitude":128.73908,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Seori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9082550
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fb053a88113ece8bbe2cdc491bcd402b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1310188433,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310188433,
+    "wof:lastmodified":1537658917,
+    "wof:name":"Seori",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.73908,
+    36.95951,
+    128.73908,
+    36.95951
+],
+  "geometry": {"coordinates":[128.73908,36.95951],"type":"Point"}
+}

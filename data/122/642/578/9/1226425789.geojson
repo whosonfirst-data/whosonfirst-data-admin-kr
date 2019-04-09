@@ -1,0 +1,71 @@
+{
+  "id": 1226425789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.25359,35.98067,128.25359,35.98067",
+    "geom:latitude":35.98067,
+    "geom:longitude":128.25359,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Toch'on",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900333,
+    "gn:latitude":35.98067,
+    "gn:longitude":128.25359,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Toch\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c4\ucc9c",
+        "Toch\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900333
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2a059029f7eea4329164da0585b930f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473191,
+            "locality_id":1226425789,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226425789,
+    "wof:lastmodified":1537658751,
+    "wof:name":"Toch'on",
+    "wof:parent_id":890473191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.25359,
+    35.98067,
+    128.25359,
+    35.98067
+],
+  "geometry": {"coordinates":[128.25359,35.98067],"type":"Point"}
+}

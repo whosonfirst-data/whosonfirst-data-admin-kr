@@ -1,0 +1,73 @@
+{
+  "id": 1193144147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48241,35.89726,127.48241,35.89726",
+    "geom:latitude":35.89726,
+    "geom:longitude":127.48241,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mangdok",
+    "gn:country_code":"KR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1886092,
+    "gn:latitude":35.89726,
+    "gn:longitude":127.48241,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mangd\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangd\u014fng-ni",
+        "\ub9dd\ub355",
+        "Moj\u014fng-ni",
+        "Mangd\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1886092
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7234fcc02fed5f23095e8d10b510b4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1193144147,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1193144147,
+    "wof:lastmodified":1537656784,
+    "wof:name":"Mangdok",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48241000000002,
+    35.89726,
+    127.48241000000002,
+    35.89726
+],
+  "geometry": {"coordinates":[127.48241000000002,35.89726],"type":"Point"}
+}

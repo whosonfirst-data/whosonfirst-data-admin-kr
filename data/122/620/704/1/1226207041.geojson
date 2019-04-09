@@ -1,0 +1,67 @@
+{
+  "id": 1226207041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81889,35.38444,128.81889,35.38444",
+    "geom:latitude":35.38444,
+    "geom:longitude":128.81889,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Naebu",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901114,
+    "gn:latitude":35.38444,
+    "gn:longitude":128.81889,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Naebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901114
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d831773fef544ce927b8e3f880dc0864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472405,
+            "locality_id":1226207041,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226207041,
+    "wof:lastmodified":1536988700,
+    "wof:name":"Naebu",
+    "wof:parent_id":890472405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81888999999998,
+    35.38444000000001,
+    128.81888999999998,
+    35.38444000000001
+],
+  "geometry": {"coordinates":[128.81888999999998,35.38444000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276850447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72632,37.42585,126.72632,37.42585",
+    "geom:latitude":37.42585,
+    "geom:longitude":126.72632,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dorim",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231425,
+    "gn:latitude":37.42585,
+    "gn:longitude":126.72632,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Dorim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890472449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231425
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ac9680a869ff0c07de44462f0cf192ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472449,
+            "locality_id":1276850447,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1276850447,
+    "wof:lastmodified":1537659239,
+    "wof:name":"Dorim",
+    "wof:parent_id":890472449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72632,
+    37.42585,
+    126.72632,
+    37.42585
+],
+  "geometry": {"coordinates":[126.72632,37.42585],"type":"Point"}
+}

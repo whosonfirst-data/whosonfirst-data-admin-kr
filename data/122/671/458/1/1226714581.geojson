@@ -1,0 +1,73 @@
+{
+  "id": 1226714581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.15417,35.36411,129.15417,35.36411",
+    "geom:latitude":35.36411,
+    "geom:longitude":129.15417,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Wolla",
+    "gn:country_code":"KR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833339,
+    "gn:latitude":35.36411,
+    "gn:longitude":129.15417,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Wolla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\ub77c"
+    ],
+    "name:und_x_variant":[
+        "W\u014flla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833339
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0eaecf979285a7002a8fb9de4948c79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1226714581,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226714581,
+    "wof:lastmodified":1537656026,
+    "wof:name":"Wolla",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.15417,
+    35.36411,
+    129.15417,
+    35.36411
+],
+  "geometry": {"coordinates":[129.15416999999999,35.36411],"type":"Point"}
+}

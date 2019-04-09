@@ -1,0 +1,70 @@
+{
+  "id": 1209912825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31482,36.62124,127.31482,36.62124",
+    "geom:latitude":36.62124,
+    "geom:longitude":127.31482,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Solmi",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349161,
+    "gn:latitude":36.62124,
+    "gn:longitude":127.31482,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Solmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc194\ubbf8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349161
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fb6cad0fe849a21b10985a9b94af568f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1209912825,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1209912825,
+    "wof:lastmodified":1537659021,
+    "wof:name":"Solmi",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31482,
+    36.62124,
+    127.31482,
+    36.62124
+],
+  "geometry": {"coordinates":[127.31482,36.62124],"type":"Point"}
+}

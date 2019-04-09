@@ -1,0 +1,77 @@
+{
+  "id": 1243227641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83972,34.7,126.83972,34.7",
+    "geom:latitude":34.7,
+    "geom:longitude":126.83972,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Baegyang",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839522,
+    "gn:latitude":34.7,
+    "gn:longitude":126.83972,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Baegyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc31\ub7c9\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "\ubc31\uc591"
+    ],
+    "name:und_x_variant":[
+        "Paegyang-ni",
+        "Baegyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839522
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"850f6f676451979720f8a478179f4f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1243227641,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243227641,
+    "wof:lastmodified":1537656351,
+    "wof:name":"Baegyang",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83972,
+    34.7,
+    126.83972,
+    34.7
+],
+  "geometry": {"coordinates":[126.83972,34.7],"type":"Point"}
+}

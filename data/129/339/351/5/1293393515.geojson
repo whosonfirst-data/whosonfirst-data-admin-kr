@@ -1,0 +1,73 @@
+{
+  "id": 1293393515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.22961,33.40626,126.22961,33.40626",
+    "geom:latitude":33.40626,
+    "geom:longitude":126.22961,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Biyangdodong",
+    "gn:country_code":"KR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6193833,
+    "gn:latitude":33.40626,
+    "gn:longitude":126.22961,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Biyangdodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ube44\uc591\ub3c4\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Piyang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6193833
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de5d1ad2b3a6f634b1edcaa1bc229b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1293393515,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1293393515,
+    "wof:lastmodified":1537656999,
+    "wof:name":"Biyangdodong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.22961,
+    33.40626,
+    126.22961,
+    33.40626
+],
+  "geometry": {"coordinates":[126.22960999999999,33.40626],"type":"Point"}
+}

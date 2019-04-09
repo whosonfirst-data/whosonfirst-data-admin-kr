@@ -1,0 +1,71 @@
+{
+  "id": 1276865041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5991,36.2822,127.5991,36.2822",
+    "geom:latitude":36.2822,
+    "geom:longitude":127.5991,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Saeboro",
+    "gn:country_code":"KR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884738,
+    "gn:latitude":36.2822,
+    "gn:longitude":127.5991,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saeboro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c8\ubcf4\ub85c",
+        "Saeboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884738
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e81bb58ecb3dc61efebe6f3bef08b210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1276865041,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1276865041,
+    "wof:lastmodified":1537658338,
+    "wof:name":"Saeboro",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5991,
+    36.2822,
+    127.5991,
+    36.2822
+],
+  "geometry": {"coordinates":[127.59910000000001,36.2822],"type":"Point"}
+}

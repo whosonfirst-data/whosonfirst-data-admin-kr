@@ -1,0 +1,67 @@
+{
+  "id": 1243447639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.98556,36.80167,127.98556,36.80167",
+    "geom:latitude":36.80167,
+    "geom:longitude":127.98556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yo-dong",
+    "gn:country_code":"KR",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895256,
+    "gn:latitude":36.80167,
+    "gn:longitude":127.98556,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Yo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895256
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cf7bcd3861d21b27bb16875e106c65a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1243447639,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243447639,
+    "wof:lastmodified":1536803721,
+    "wof:name":"Yo-dong",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.98556,
+    36.80167,
+    127.98556,
+    36.80167
+],
+  "geometry": {"coordinates":[127.98556000000001,36.80167],"type":"Point"}
+}

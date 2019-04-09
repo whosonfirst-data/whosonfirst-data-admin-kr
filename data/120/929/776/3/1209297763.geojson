@@ -1,0 +1,64 @@
+{
+  "id": 1209297763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.64324,36.59662,128.64324,36.59662",
+    "geom:latitude":36.59662,
+    "geom:longitude":128.64324,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maruri",
+    "gn:country_code":"KR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11271903,
+    "gn:latitude":36.59662,
+    "gn:longitude":128.64324,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Maruri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9d0\uc6b0\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11271903
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52a98965e28e1dc032a146fedf92c508",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209297763
+        }
+    ],
+    "wof:id":1209297763,
+    "wof:lastmodified":1537659314,
+    "wof:name":"Maruri",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.64324,
+    36.59662,
+    128.64324,
+    36.59662
+],
+  "geometry": {"coordinates":[128.64323999999999,36.59662],"type":"Point"}
+}

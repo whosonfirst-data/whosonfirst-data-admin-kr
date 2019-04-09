@@ -1,0 +1,70 @@
+{
+  "id": 1327098647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.13312,35.47959,129.13312,35.47959",
+    "geom:latitude":35.47959,
+    "geom:longitude":129.13312,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bosam",
+    "gn:country_code":"KR",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088070,
+    "gn:latitude":35.47959,
+    "gn:longitude":129.13312,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Bosam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\uc0bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088070
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7114739b39c57e33570fd4f6f6dcd61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1327098647,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1327098647,
+    "wof:lastmodified":1537659147,
+    "wof:name":"Bosam",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.13312,
+    35.47959,
+    129.13312,
+    35.47959
+],
+  "geometry": {"coordinates":[129.13311999999999,35.47959],"type":"Point"}
+}

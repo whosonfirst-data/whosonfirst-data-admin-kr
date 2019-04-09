@@ -1,0 +1,70 @@
+{
+  "id": 1226819739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.97018,36.57699,128.97018,36.57699",
+    "geom:latitude":36.57699,
+    "geom:longitude":128.97018,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Galjeon",
+    "gn:country_code":"KR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274097,
+    "gn:latitude":36.57699,
+    "gn:longitude":128.97018,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Galjeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274097
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9de1212d4fb8d7447c67fad96601d291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1226819739,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226819739,
+    "wof:lastmodified":1537659324,
+    "wof:name":"Galjeon",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.97018,
+    36.57699,
+    128.97018,
+    36.57699
+],
+  "geometry": {"coordinates":[128.97018,36.57699],"type":"Point"}
+}

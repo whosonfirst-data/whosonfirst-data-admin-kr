@@ -1,0 +1,70 @@
+{
+  "id": 1225819455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.19966,35.46147,129.19966,35.46147",
+    "geom:latitude":35.46147,
+    "geom:longitude":129.19966,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Neombau",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092435,
+    "gn:latitude":35.46147,
+    "gn:longitude":129.19966,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Neombau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub118\ubc14\uc6b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092435
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"765454f4da02c1c7ce16a9ebecc40fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1225819455,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1225819455,
+    "wof:lastmodified":1537659149,
+    "wof:name":"Neombau",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.19966000000002,
+    35.46147,
+    129.19966000000002,
+    35.46147
+],
+  "geometry": {"coordinates":[129.19966000000002,35.46147],"type":"Point"}
+}

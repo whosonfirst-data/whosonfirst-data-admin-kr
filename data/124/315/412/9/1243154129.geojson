@@ -1,0 +1,76 @@
+{
+  "id": 1243154129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5125,34.4275,126.5125,34.4275",
+    "geom:latitude":34.4275,
+    "geom:longitude":126.5125,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dumo",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833956,
+    "gn:latitude":34.4275,
+    "gn:longitude":126.5125,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Dumo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ubaa8"
+    ],
+    "name:und_x_variant":[
+        "Tom\u014d-ri",
+        "Tumo-ri",
+        "Tumo",
+        "Dumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833956
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"885193c0a558a5643c1025f9d28c3318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1243154129,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243154129,
+    "wof:lastmodified":1537656059,
+    "wof:name":"Dumo",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5125,
+    34.4275,
+    126.5125,
+    34.4275
+],
+  "geometry": {"coordinates":[126.5125,34.4275],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343283721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51525,37.9601,128.51525,37.9601",
+    "geom:latitude":37.9601,
+    "geom:longitude":128.51525,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Withwangi",
+    "gn:country_code":"KR",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817144,
+    "gn:latitude":37.9601,
+    "gn:longitude":128.51525,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Withwangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6c3\ud669\uc774"
+    ],
+    "name:kor_x_variant":[
+        "\uc717\ud669\uc774"
+    ],
+    "name:und_x_variant":[
+        "Uthwangi",
+        "Withwangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817144
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ca583080e0ab28674fba90a8418ea178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1343283721,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343283721,
+    "wof:lastmodified":1537658112,
+    "wof:name":"Withwangi",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51525,
+    37.9601,
+    128.51525,
+    37.9601
+],
+  "geometry": {"coordinates":[128.51525000000001,37.9601],"type":"Point"}
+}

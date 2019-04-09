@@ -1,0 +1,71 @@
+{
+  "id": 1360061521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7296,36.4583,126.7296,36.4583",
+    "geom:latitude":36.4583,
+    "geom:longitude":126.7296,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Haepsa-ri",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884105,
+    "gn:latitude":36.4583,
+    "gn:longitude":126.7296,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Haepsa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud585\uc0ac\ub9ac",
+        "Haepsa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884105
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bab8ecd03b695019bf61780c458bfaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474649,
+            "locality_id":1360061521,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1360061521,
+    "wof:lastmodified":1537658311,
+    "wof:name":"Haepsa-ri",
+    "wof:parent_id":890474649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7296,
+    36.4583,
+    126.7296,
+    36.4583
+],
+  "geometry": {"coordinates":[126.7296,36.4583],"type":"Point"}
+}

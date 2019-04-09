@@ -1,0 +1,66 @@
+{
+  "id": 1209577107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36548,35.56087,128.36548,35.56087",
+    "geom:latitude":35.56087,
+    "geom:longitude":128.36548,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Geulbang",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901843,
+    "gn:latitude":35.56087,
+    "gn:longitude":128.36548,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Geulbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae00\ubc29",
+        "K\u016dlbang",
+        "Geulbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901843
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"270c3da2220297b9e40b501f35ca44f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209577107
+        }
+    ],
+    "wof:id":1209577107,
+    "wof:lastmodified":1537658802,
+    "wof:name":"Geulbang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36548,
+    35.56087,
+    128.36548,
+    35.56087
+],
+  "geometry": {"coordinates":[128.36547999999999,35.56087],"type":"Point"}
+}

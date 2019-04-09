@@ -1,0 +1,74 @@
+{
+  "id": 1343733457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35321,37.1251,127.35321,37.1251",
+    "geom:latitude":37.1251,
+    "geom:longitude":127.35321,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Sangni",
+    "gn:country_code":"KR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398943,
+    "gn:latitude":37.1251,
+    "gn:longitude":127.35321,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sangni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Sang-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398943
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b72c018d26baf2186d8aff08e0639a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1343733457,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343733457,
+    "wof:lastmodified":1537657200,
+    "wof:name":"Sangni",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35321,
+    37.1251,
+    127.35321,
+    37.1251
+],
+  "geometry": {"coordinates":[127.35321,37.1251],"type":"Point"}
+}

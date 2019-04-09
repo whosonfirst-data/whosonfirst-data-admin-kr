@@ -1,0 +1,64 @@
+{
+  "id": 1209386227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8875,37.16167,126.8875,37.16167",
+    "geom:latitude":37.16167,
+    "geom:longitude":126.8875,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ttibat",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364517,
+    "gn:latitude":37.16167,
+    "gn:longitude":126.8875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ttibat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub760\ubc2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364517
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8726a5a91ffdd7c7d6478b2ba0860f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209386227
+        }
+    ],
+    "wof:id":1209386227,
+    "wof:lastmodified":1537657085,
+    "wof:name":"Ttibat",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8875,
+    37.16167,
+    126.8875,
+    37.16167
+],
+  "geometry": {"coordinates":[126.8875,37.16167],"type":"Point"}
+}

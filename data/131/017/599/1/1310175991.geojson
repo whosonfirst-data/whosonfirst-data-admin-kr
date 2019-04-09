@@ -1,0 +1,77 @@
+{
+  "id": 1310175991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.55377,35.98994,129.55377,35.98994",
+    "geom:latitude":35.98994,
+    "geom:longitude":129.55377,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Guryongpo",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1841962,
+    "gn:latitude":35.98994,
+    "gn:longitude":129.55377,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Guryongpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub8e1\ud3ec"
+    ],
+    "name:und_x_variant":[
+        "Ky\u016bry\u016bho-ri",
+        "K\u016bry\u016bho-ri",
+        "Kuyongp\u2019o",
+        "Kuryongp\u2019o",
+        "Guryongpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841962
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dd02dea1cc52e9c658a7ef2816528d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1310175991,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310175991,
+    "wof:lastmodified":1537656472,
+    "wof:name":"Guryongpo",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.55377,
+    35.98994000000001,
+    129.55377,
+    35.98994000000001
+],
+  "geometry": {"coordinates":[129.55376999999999,35.98994000000001],"type":"Point"}
+}

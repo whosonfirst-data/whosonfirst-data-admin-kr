@@ -1,0 +1,64 @@
+{
+  "id": 1209391009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.18358,36.75226,127.18358,36.75226",
+    "geom:latitude":36.75226,
+    "geom:longitude":127.18358,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Singi",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10254046,
+    "gn:latitude":36.75226,
+    "gn:longitude":127.18358,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Singi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uae30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10254046
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af4bd9ebed891d3de8b7ca35d6b59ce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209391009
+        }
+    ],
+    "wof:id":1209391009,
+    "wof:lastmodified":1537659003,
+    "wof:name":"Singi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.18358,
+    36.75226,
+    127.18358,
+    36.75226
+],
+  "geometry": {"coordinates":[127.18358000000001,36.75226],"type":"Point"}
+}

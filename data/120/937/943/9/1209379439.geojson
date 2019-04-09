@@ -1,0 +1,65 @@
+{
+  "id": 1209379439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.43858,35.09699,128.43858,35.09699",
+    "geom:latitude":35.09699,
+    "geom:longitude":128.43858,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chongdal",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899452,
+    "gn:latitude":35.09699,
+    "gn:longitude":128.43858,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u014fngdal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc815\ub2ec",
+        "Ch\u014fngdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899452
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8a9b6107cf0b76a723f9da10a8c4adfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209379439
+        }
+    ],
+    "wof:id":1209379439,
+    "wof:lastmodified":1537658743,
+    "wof:name":"Chongdal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.43858,
+    35.09699000000001,
+    128.43858,
+    35.09699000000001
+],
+  "geometry": {"coordinates":[128.43858,35.09699000000001],"type":"Point"}
+}

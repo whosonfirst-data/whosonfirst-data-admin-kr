@@ -1,0 +1,74 @@
+{
+  "id": 1276863783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8124,37.90641,128.8124,37.90641",
+    "geom:latitude":37.90641,
+    "geom:longitude":128.8124,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Banggadong",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795863,
+    "gn:latitude":37.90641,
+    "gn:longitude":128.8124,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Banggadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uac00\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Pangga-dong",
+        "Banggadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795863
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"001801ace5ad13c0df1857f6c1511735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1276863783,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276863783,
+    "wof:lastmodified":1537657540,
+    "wof:name":"Banggadong",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8124,
+    37.90641,
+    128.8124,
+    37.90641
+],
+  "geometry": {"coordinates":[128.8124,37.90641],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293552735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1064,36.3458,127.1064,36.3458",
+    "geom:latitude":36.3458,
+    "geom:longitude":127.1064,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Pombugi",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6882884,
+    "gn:latitude":36.3458,
+    "gn:longitude":127.1064,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fmbugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc94\ubd81\uc774",
+        "P\u014fmbugi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6882884
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"112f17d8e488fa721b12c383918dd79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1293552735,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293552735,
+    "wof:lastmodified":1537658269,
+    "wof:name":"Pombugi",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1064,
+    36.3458,
+    127.1064,
+    36.3458
+],
+  "geometry": {"coordinates":[127.10639999999999,36.3458],"type":"Point"}
+}

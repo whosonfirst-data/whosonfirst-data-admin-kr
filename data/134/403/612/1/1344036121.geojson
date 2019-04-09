@@ -1,0 +1,70 @@
+{
+  "id": 1344036121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.93857,35.21645,128.93857,35.21645",
+    "geom:latitude":35.21645,
+    "geom:longitude":128.93857,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pyeongjin",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118041,
+    "gn:latitude":35.21645,
+    "gn:longitude":128.93857,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Pyeongjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc9c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118041
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6d0427f347c36bfc1999d7df9ed3de51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1344036121,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1344036121,
+    "wof:lastmodified":1537659168,
+    "wof:name":"Pyeongjin",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.93857,
+    35.21645,
+    128.93857,
+    35.21645
+],
+  "geometry": {"coordinates":[128.93857,35.21645],"type":"Point"}
+}

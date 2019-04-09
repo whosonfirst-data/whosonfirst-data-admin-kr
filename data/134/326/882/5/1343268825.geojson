@@ -1,0 +1,72 @@
+{
+  "id": 1343268825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.17915,35.5577,127.17915,35.5577",
+    "geom:latitude":35.5577,
+    "geom:longitude":127.17915,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taegangjin",
+    "gn:country_code":"KR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877187,
+    "gn:latitude":35.5577,
+    "gn:longitude":127.17915,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taegangjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\uac15\uc9c4",
+        "Taegangjin",
+        "Daegangjin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877187
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c7b18a91727be62ba0e2a8973c9aa132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474645,
+            "locality_id":1343268825,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1343268825,
+    "wof:lastmodified":1537658164,
+    "wof:name":"Taegangjin",
+    "wof:parent_id":890474645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.17915,
+    35.5577,
+    127.17915,
+    35.5577
+],
+  "geometry": {"coordinates":[127.17915000000001,35.5577],"type":"Point"}
+}

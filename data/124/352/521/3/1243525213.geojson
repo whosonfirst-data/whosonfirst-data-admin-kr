@@ -1,0 +1,70 @@
+{
+  "id": 1243525213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81398,35.70263,128.81398,35.70263",
+    "geom:latitude":35.70263,
+    "geom:longitude":128.81398,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gumi",
+    "gn:country_code":"KR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035897,
+    "gn:latitude":35.70263,
+    "gn:longitude":128.81398,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ubbf8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035897
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c4f817c1861c32c4d22125425e569b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1243525213,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243525213,
+    "wof:lastmodified":1537659115,
+    "wof:name":"Gumi",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81398000000002,
+    35.70263,
+    128.81398000000002,
+    35.70263
+],
+  "geometry": {"coordinates":[128.81398000000002,35.70263],"type":"Point"}
+}

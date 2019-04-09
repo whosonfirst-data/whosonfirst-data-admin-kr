@@ -1,0 +1,84 @@
+{
+  "id": 890472337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41093,36.28044,127.41093,36.28044",
+    "geom:latitude":36.28044,
+    "geom:longitude":127.41093,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Jung-gu"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\uad6c"
+    ],
+    "name:unk_x_variant":[
+        "Jung-gu"
+    ],
+    "qs:name":"\uc911\uad6c",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\ub300\uc804",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":556,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8419686,
+        "gp:id":28289231,
+        "qs:id":1202128,
+        "wd:id":"Q6616970",
+        "wk:page":"List of districts and counties of Incheon"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053895,
+    "wof:geomhash":"b662be9f45a7018a20bde41129fdab79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472337,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":890472337,
+    "wof:lastmodified":1527790279,
+    "wof:name":"\uc911\uad6c",
+    "wof:parent_id":85673207,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41093,
+    36.28044,
+    127.41093,
+    36.28044
+],
+  "geometry": {"coordinates":[127.41092999999999,36.28044],"type":"Point"}
+}

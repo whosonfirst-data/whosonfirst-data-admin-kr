@@ -1,0 +1,74 @@
+{
+  "id": 1327297703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32326,34.78778,127.32326,34.78778",
+    "geom:latitude":34.78778,
+    "geom:longitude":127.32326,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dusan",
+    "gn:country_code":"KR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684879,
+    "gn:latitude":34.78778,
+    "gn:longitude":127.32326,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Dusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Tusan",
+        "Dusan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684879
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee02ff409c77ccd489b5d96e5761d362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1327297703,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327297703,
+    "wof:lastmodified":1537657434,
+    "wof:name":"Dusan",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32326,
+    34.78778,
+    127.32326,
+    34.78778
+],
+  "geometry": {"coordinates":[127.32326,34.78778],"type":"Point"}
+}

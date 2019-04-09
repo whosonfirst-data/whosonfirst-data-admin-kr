@@ -1,0 +1,71 @@
+{
+  "id": 1243530641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7012,36.6388,126.7012,36.6388",
+    "geom:latitude":36.6388,
+    "geom:longitude":126.7012,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yongdu",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809447,
+    "gn:latitude":36.6388,
+    "gn:longitude":126.7012,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\ub450",
+        "Yongdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809447
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2b9f57531742c324c60be64b138f8101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472181,
+            "locality_id":1243530641,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243530641,
+    "wof:lastmodified":1537657874,
+    "wof:name":"Yongdu",
+    "wof:parent_id":890472181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7012,
+    36.6388,
+    126.7012,
+    36.6388
+],
+  "geometry": {"coordinates":[126.7012,36.6388],"type":"Point"}
+}

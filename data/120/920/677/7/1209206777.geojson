@@ -1,0 +1,64 @@
+{
+  "id": 1209206777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3532,37.2354,128.3532,37.2354",
+    "geom:latitude":37.2354,
+    "geom:longitude":128.3532,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koe-gol",
+    "gn:country_code":"KR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794564,
+    "gn:latitude":37.2354,
+    "gn:longitude":128.3532,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Koe-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad34\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794564
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be9602153e42dea59f12dbf42f73e416",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209206777
+        }
+    ],
+    "wof:id":1209206777,
+    "wof:lastmodified":1537657500,
+    "wof:name":"Koe-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3532,
+    37.2354,
+    128.3532,
+    37.2354
+],
+  "geometry": {"coordinates":[128.35319999999999,37.2354],"type":"Point"}
+}

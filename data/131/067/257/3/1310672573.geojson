@@ -1,0 +1,76 @@
+{
+  "id": 1310672573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62583,34.50917,126.62583,34.50917",
+    "geom:latitude":34.50917,
+    "geom:longitude":126.62583,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sallim",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838091,
+    "gn:latitude":34.50917,
+    "gn:longitude":126.62583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sallim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\ub9bc"
+    ],
+    "name:und_x_variant":[
+        "Sallim-dong",
+        "Sanrin-d\u014d",
+        "Sallim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838091,
+        "wk:page":"Sallim-dong"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8db505998dcc1c763712216d11c3abc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1310672573,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310672573,
+    "wof:lastmodified":1537656272,
+    "wof:name":"Sallim",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62583,
+    34.50917,
+    126.62583,
+    34.50917
+],
+  "geometry": {"coordinates":[126.62582999999999,34.50917],"type":"Point"}
+}

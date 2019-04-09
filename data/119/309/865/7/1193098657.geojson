@@ -1,0 +1,72 @@
+{
+  "id": 1193098657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.35122,35.57102,128.35122,35.57102",
+    "geom:latitude":35.57102,
+    "geom:longitude":128.35122,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sangjeokpo",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901841,
+    "gn:latitude":35.57102,
+    "gn:longitude":128.35122,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sangjeokpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uc801\ud3ec",
+        "Sangj\u014fkp\u2019o",
+        "Sangjeokpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901841
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a97ac439ee7523d2759e71c937854dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1193098657,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1193098657,
+    "wof:lastmodified":1537658802,
+    "wof:name":"Sangjeokpo",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.35121999999998,
+    35.57102000000001,
+    128.35121999999998,
+    35.57102000000001
+],
+  "geometry": {"coordinates":[128.35121999999998,35.57102000000001],"type":"Point"}
+}

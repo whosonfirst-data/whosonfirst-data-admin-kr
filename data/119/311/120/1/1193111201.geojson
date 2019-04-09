@@ -1,0 +1,70 @@
+{
+  "id": 1193111201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.38593,35.54352,129.38593,35.54352",
+    "geom:latitude":35.54352,
+    "geom:longitude":129.38593,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Chijeon",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11086578,
+    "gn:latitude":35.54352,
+    "gn:longitude":129.38593,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Chijeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uce58\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11086578
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a95c221d47bf429ca419c6435195345f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746399,
+            "locality_id":1193111201,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1193111201,
+    "wof:lastmodified":1537659144,
+    "wof:name":"Chijeon",
+    "wof:parent_id":1108746399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.38593,
+    35.54352,
+    129.38593,
+    35.54352
+],
+  "geometry": {"coordinates":[129.38593,35.54352],"type":"Point"}
+}

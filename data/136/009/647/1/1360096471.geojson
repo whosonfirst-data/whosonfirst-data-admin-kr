@@ -1,0 +1,71 @@
+{
+  "id": 1360096471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41148,35.60142,127.41148,35.60142",
+    "geom:latitude":35.60142,
+    "geom:longitude":127.41148,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sinhung",
+    "gn:country_code":"KR",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876539,
+    "gn:latitude":35.60142,
+    "gn:longitude":127.41148,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sinh\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\ud765",
+        "Sinh\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876539
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e5eb6e1bae235ce14d1c15f49f7a64dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1360096471,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1360096471,
+    "wof:lastmodified":1537658135,
+    "wof:name":"Sinhung",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41148,
+    35.60142000000001,
+    127.41148,
+    35.60142000000001
+],
+  "geometry": {"coordinates":[127.41148,35.60142000000001],"type":"Point"}
+}

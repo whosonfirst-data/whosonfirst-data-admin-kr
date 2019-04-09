@@ -1,0 +1,76 @@
+{
+  "id": 1259554715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.148,37.586,127.148,37.586",
+    "geom:latitude":37.586,
+    "geom:longitude":127.148,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pol-mal",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838446,
+    "gn:latitude":37.586,
+    "gn:longitude":127.148,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"P\u014fl-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc8c\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "P\u2019y\u014fngch\u2019on-ni",
+        "\ubc8c\ub9d0",
+        "P\u2019y\u014fngch\u2019on",
+        "P\u014fl-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838446
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"610201213b19a970bd3ff8e2b85d3681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474591,
+            "locality_id":1259554715,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259554715,
+    "wof:lastmodified":1537656293,
+    "wof:name":"Pol-mal",
+    "wof:parent_id":890474591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.148,
+    37.586,
+    127.148,
+    37.586
+],
+  "geometry": {"coordinates":[127.148,37.586],"type":"Point"}
+}

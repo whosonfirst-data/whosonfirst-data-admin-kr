@@ -1,0 +1,73 @@
+{
+  "id": 1226314677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90222,34.62167,126.90222,34.62167",
+    "geom:latitude":34.62167,
+    "geom:longitude":126.90222,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Eodong",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840049,
+    "gn:latitude":34.62167,
+    "gn:longitude":126.90222,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Eodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\u014edong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840049
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"71a992fcdde4e9caa4bba49d40b36fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1226314677,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226314677,
+    "wof:lastmodified":1537656376,
+    "wof:name":"Eodong",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90222,
+    34.62167,
+    126.90222,
+    34.62167
+],
+  "geometry": {"coordinates":[126.90222,34.62167],"type":"Point"}
+}

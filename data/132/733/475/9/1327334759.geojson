@@ -1,0 +1,71 @@
+{
+  "id": 1327334759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49203,35.55983,127.49203,35.55983",
+    "geom:latitude":35.55983,
+    "geom:longitude":127.49203,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Soenae",
+    "gn:country_code":"KR",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876677,
+    "gn:latitude":35.55983,
+    "gn:longitude":127.49203,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Soenae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1e0\ub0b4",
+        "Soenae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876677
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"309f3853b2031c9fd976270a9428f782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1327334759,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1327334759,
+    "wof:lastmodified":1537658142,
+    "wof:name":"Soenae",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49203,
+    35.55983,
+    127.49203,
+    35.55983
+],
+  "geometry": {"coordinates":[127.49203,35.55983],"type":"Point"}
+}

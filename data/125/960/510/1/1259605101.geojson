@@ -1,0 +1,70 @@
+{
+  "id": 1259605101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35386,38.19099,127.35386,38.19099",
+    "geom:latitude":38.19099,
+    "geom:longitude":127.35386,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nongol",
+    "gn:country_code":"KR",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866117,
+    "gn:latitude":38.19099,
+    "gn:longitude":127.35386,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Nongol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub17c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866117
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f4c2d505d9b62b117e47c94f5bfca34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1259605101,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259605101,
+    "wof:lastmodified":1537658956,
+    "wof:name":"Nongol",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35386,
+    38.19099,
+    127.35386,
+    38.19099
+],
+  "geometry": {"coordinates":[127.35386,38.19099],"type":"Point"}
+}

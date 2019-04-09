@@ -1,0 +1,77 @@
+{
+  "id": 1209789205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.38439,36.2378,129.38439,36.2378",
+    "geom:latitude":36.2378,
+    "geom:longitude":129.38439,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gwijin",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841722,
+    "gn:latitude":36.2378,
+    "gn:longitude":129.38439,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Gwijin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadc0\uc9c4"
+    ],
+    "name:und_x_variant":[
+        "Ijin-ni",
+        "Kujin",
+        "Kwijin-ni",
+        "Kwijin",
+        "Gwijin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841722
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a291f7a234a49937e8f9c9faeba3066e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1209789205,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209789205,
+    "wof:lastmodified":1537656458,
+    "wof:name":"Gwijin",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.38439,
+    36.2378,
+    129.38439,
+    36.2378
+],
+  "geometry": {"coordinates":[129.38439,36.2378],"type":"Point"}
+}

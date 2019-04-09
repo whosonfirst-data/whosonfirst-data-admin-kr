@@ -1,0 +1,70 @@
+{
+  "id": 1293707195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.88566,35.1456,128.88566,35.1456",
+    "geom:latitude":35.1456,
+    "geom:longitude":128.88566,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gaisa",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117455,
+    "gn:latitude":35.1456,
+    "gn:longitude":128.88566,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Gaisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc774\uc0ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117455
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9ba349c41f16d3de93299f3679f3f834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1293707195,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1293707195,
+    "wof:lastmodified":1537659166,
+    "wof:name":"Gaisa",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.88566,
+    35.1456,
+    128.88566,
+    35.1456
+],
+  "geometry": {"coordinates":[128.88566,35.1456],"type":"Point"}
+}

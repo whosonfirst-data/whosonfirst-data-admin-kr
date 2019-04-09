@@ -1,0 +1,70 @@
+{
+  "id": 1310387487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9663,35.33401,126.9663,35.33401",
+    "geom:latitude":35.33401,
+    "geom:longitude":126.9663,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hwabangchon",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170669,
+    "gn:latitude":35.33401,
+    "gn:longitude":126.9663,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Hwabangchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\ubc29\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170669
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"70a57dd1b41ecd1c9d8a5cceab990343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1310387487,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310387487,
+    "wof:lastmodified":1537659192,
+    "wof:name":"Hwabangchon",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9663,
+    35.33401,
+    126.9663,
+    35.33401
+],
+  "geometry": {"coordinates":[126.9663,35.33401],"type":"Point"}
+}

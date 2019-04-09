@@ -1,0 +1,71 @@
+{
+  "id": 1343841239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.24166,35.67698,128.24166,35.67698",
+    "geom:latitude":35.67698,
+    "geom:longitude":128.24166,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ssangnim",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904317,
+    "gn:latitude":35.67698,
+    "gn:longitude":128.24166,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ssangnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc30d\ub9bc",
+        "Ssangnim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904317
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb0c1724af6551fc8ae17cc42e4dc0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1343841239,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343841239,
+    "wof:lastmodified":1537658861,
+    "wof:name":"Ssangnim",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.24166,
+    35.67698,
+    128.24166,
+    35.67698
+],
+  "geometry": {"coordinates":[128.24166,35.67698],"type":"Point"}
+}

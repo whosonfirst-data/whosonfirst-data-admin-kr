@@ -1,0 +1,78 @@
+{
+  "id": 1242846197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81003,34.40753,126.81003,34.40753",
+    "geom:latitude":34.40753,
+    "geom:longitude":126.81003,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dongbaekdong",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834372,
+    "gn:latitude":34.40753,
+    "gn:longitude":126.81003,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Dongbaekdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ubc31"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ubc31\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Tongbaeng-ni",
+        "Tongbaek",
+        "Dongbaekdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834372
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f37ac3b650322e9e26538cd5ad6f21b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1242846197,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242846197,
+    "wof:lastmodified":1537656081,
+    "wof:name":"Dongbaekdong",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81003,
+    34.40753,
+    126.81003,
+    34.40753
+],
+  "geometry": {"coordinates":[126.81003,34.40753],"type":"Point"}
+}

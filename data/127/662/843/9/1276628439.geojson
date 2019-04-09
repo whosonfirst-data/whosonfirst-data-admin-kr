@@ -1,0 +1,71 @@
+{
+  "id": 1276628439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29093,35.69521,128.29093,35.69521",
+    "geom:latitude":35.69521,
+    "geom:longitude":128.29093,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sollyang",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901515,
+    "gn:latitude":35.69521,
+    "gn:longitude":128.29093,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fllyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc120\ub7c9",
+        "S\u014fllyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901515
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"133b23a9abb189ad7632107ab896abca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1276628439,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276628439,
+    "wof:lastmodified":1537658782,
+    "wof:name":"Sollyang",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29093,
+    35.69521,
+    128.29093,
+    35.69521
+],
+  "geometry": {"coordinates":[128.29093,35.69521],"type":"Point"}
+}

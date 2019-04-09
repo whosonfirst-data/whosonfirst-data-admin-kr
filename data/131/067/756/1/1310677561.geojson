@@ -1,0 +1,74 @@
+{
+  "id": 1310677561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.31936,37.7824,126.31936,37.7824",
+    "geom:latitude":37.7824,
+    "geom:longitude":126.31936,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Darumul",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948807,
+    "gn:latitude":37.7824,
+    "gn:longitude":126.31936,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Darumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2ec\uc6b0\ubb3c"
+    ],
+    "name:und_x_variant":[
+        "Tarumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948807
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e4d1e28c1f60a5df54f4fc949f8bbfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1310677561,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1310677561,
+    "wof:lastmodified":1537656963,
+    "wof:name":"Darumul",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.31936,
+    37.7824,
+    126.31936,
+    37.7824
+],
+  "geometry": {"coordinates":[126.31936,37.7824],"type":"Point"}
+}

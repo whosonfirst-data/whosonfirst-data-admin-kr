@@ -1,0 +1,78 @@
+{
+  "id": 1277159323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80944,34.64722,126.80944,34.64722",
+    "geom:latitude":34.64722,
+    "geom:longitude":126.80944,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Simok",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837308,
+    "gn:latitude":34.64722,
+    "gn:longitude":126.80944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Simok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub098\ucc9c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Nach\u2019\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "Rasen-ri",
+        "Nach\u2019\u014fn-ni",
+        "Nach\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837308
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a4f81e52268b80985af9d52cdc54e460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1277159323,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1277159323,
+    "wof:lastmodified":1537656230,
+    "wof:name":"Simok",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80944,
+    34.64722,
+    126.80944,
+    34.64722
+],
+  "geometry": {"coordinates":[126.80944,34.64722],"type":"Point"}
+}

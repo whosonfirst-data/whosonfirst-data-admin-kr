@@ -1,0 +1,71 @@
+{
+  "id": 1343933941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9664,36.8989,126.9664,36.8989",
+    "geom:latitude":36.8989,
+    "geom:longitude":126.9664,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kaech'oktan",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810801,
+    "gn:latitude":36.8989,
+    "gn:longitude":126.9664,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kaech\u2019\u014fktan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac1c\ucc99\ub2e8",
+        "Kaech\u2019\u014fktan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810801
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"971a6c1a8f3807aee7f77ab828008b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1343933941,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343933941,
+    "wof:lastmodified":1537657916,
+    "wof:name":"Kaech'oktan",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9664,
+    36.8989,
+    126.9664,
+    36.8989
+],
+  "geometry": {"coordinates":[126.96639999999999,36.8989],"type":"Point"}
+}

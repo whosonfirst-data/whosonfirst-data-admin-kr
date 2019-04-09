@@ -1,0 +1,67 @@
+{
+  "id": 1209479057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.59583,34.53806,126.59583,34.53806",
+    "geom:latitude":34.53806,
+    "geom:longitude":126.59583,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kumsan",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6396062,
+    "gn:latitude":34.53806,
+    "gn:longitude":126.59583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u016dmsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6396062
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6a65f480df206489a05842634eabb96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209479057
+        }
+    ],
+    "wof:id":1209479057,
+    "wof:lastmodified":1537657171,
+    "wof:name":"Kumsan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.59583,
+    34.53805999999999,
+    126.59583,
+    34.53805999999999
+],
+  "geometry": {"coordinates":[126.59583000000001,34.53805999999999],"type":"Point"}
+}

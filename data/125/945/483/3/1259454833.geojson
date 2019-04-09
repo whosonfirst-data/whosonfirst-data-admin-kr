@@ -1,0 +1,72 @@
+{
+  "id": 1259454833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45361,34.52583,126.45361,34.52583",
+    "geom:latitude":34.52583,
+    "geom:longitude":126.45361,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Senchi",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844914,
+    "gn:latitude":34.52583,
+    "gn:longitude":126.45361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Senchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fmji",
+        "Ch\u016dng\u016di",
+        "Ch\u016dng\u016di-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844914
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5517ff46d31ce388f1fb7a0d37ee6c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1259454833,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259454833,
+    "wof:lastmodified":1537656622,
+    "wof:name":"Senchi",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45361,
+    34.52583,
+    126.45361,
+    34.52583
+],
+  "geometry": {"coordinates":[126.45361,34.52583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344255779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7928,36.4695,127.7928,36.4695",
+    "geom:latitude":36.4695,
+    "geom:longitude":127.7928,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hagae-ri",
+    "gn:country_code":"KR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6885042,
+    "gn:latitude":36.4695,
+    "gn:longitude":127.7928,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hagae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uac1c\ub9ac",
+        "Hagae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6885042
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"21182daa82af3a4f8bbd0829b74a0d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472333,
+            "locality_id":1344255779,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1344255779,
+    "wof:lastmodified":1537658355,
+    "wof:name":"Hagae-ri",
+    "wof:parent_id":890472333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7928,
+    36.4695,
+    127.7928,
+    36.4695
+],
+  "geometry": {"coordinates":[127.7928,36.4695],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326927703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42361,38.49944,128.42361,38.49944",
+    "geom:latitude":38.49944,
+    "geom:longitude":128.42361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taejin",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835247,
+    "gn:latitude":38.49944,
+    "gn:longitude":128.42361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taejin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc9c4"
+    ],
+    "name:und_x_variant":[
+        "Daishin-ri",
+        "Taejin-ni",
+        "Daishin",
+        "Taijin",
+        "Taishin-ri",
+        "Taejil-li",
+        "Taejin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835247
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b08323d732809915ae63ea6e77362caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1326927703,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1326927703,
+    "wof:lastmodified":1537656130,
+    "wof:name":"Taejin",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42361,
+    38.49944,
+    128.42361,
+    38.49944
+],
+  "geometry": {"coordinates":[128.42361,38.49944],"type":"Point"}
+}

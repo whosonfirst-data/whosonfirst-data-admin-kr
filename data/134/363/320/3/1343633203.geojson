@@ -1,0 +1,73 @@
+{
+  "id": 1343633203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24908,34.6152,127.24908,34.6152",
+    "geom:latitude":34.6152,
+    "geom:longitude":127.24908,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hoso",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844153,
+    "gn:latitude":34.6152,
+    "gn:longitude":127.24908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hos\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud638\uc11c"
+    ],
+    "name:kor_x_variant":[
+        "Hos\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844153
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"77a0b84f2561e5b310fcc93446270bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1343633203,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343633203,
+    "wof:lastmodified":1537656580,
+    "wof:name":"Hoso",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24908,
+    34.6152,
+    127.24908,
+    34.6152
+],
+  "geometry": {"coordinates":[127.24908000000001,34.6152],"type":"Point"}
+}

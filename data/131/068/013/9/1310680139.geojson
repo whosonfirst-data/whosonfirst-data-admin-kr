@@ -1,0 +1,75 @@
+{
+  "id": 1310680139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55338,37.68556,126.55338,37.68556",
+    "geom:latitude":37.68556,
+    "geom:longitude":126.55338,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Neungdong",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840131,
+    "gn:latitude":37.68556,
+    "gn:longitude":126.55338,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Neungdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u016dng-dong",
+        "N\u016dng-kol",
+        "N\u016dng-gol",
+        "\ub2a5\ub3d9",
+        "Neungdong",
+        "N\u016dng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840131
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a465497fb7ac6c882e5c1e392b9b8da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472445,
+            "locality_id":1310680139,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310680139,
+    "wof:lastmodified":1537656380,
+    "wof:name":"Neungdong",
+    "wof:parent_id":890472445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55338,
+    37.68556,
+    126.55338,
+    37.68556
+],
+  "geometry": {"coordinates":[126.55338,37.68556],"type":"Point"}
+}

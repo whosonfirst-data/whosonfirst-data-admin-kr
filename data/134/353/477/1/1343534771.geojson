@@ -1,0 +1,67 @@
+{
+  "id": 1343534771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.77306,35.60778,128.77306,35.60778",
+    "geom:latitude":35.60778,
+    "geom:longitude":128.77306,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koyol-li",
+    "gn:country_code":"KR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893973,
+    "gn:latitude":35.60778,
+    "gn:longitude":128.77306,
+    "gn:modification_date":"1997-04-21",
+    "gn:name":"K\u014fy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893973
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ddef0b5a6cf6cfa63b69608206028445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1343534771,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343534771,
+    "wof:lastmodified":1536638002,
+    "wof:name":"Koyol-li",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.77306000000002,
+    35.60778,
+    128.77306000000002,
+    35.60778
+],
+  "geometry": {"coordinates":[128.77306000000002,35.60778],"type":"Point"}
+}

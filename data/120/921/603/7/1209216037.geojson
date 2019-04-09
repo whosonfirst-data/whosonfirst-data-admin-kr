@@ -1,0 +1,66 @@
+{
+  "id": 1209216037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39159,35.56551,127.39159,35.56551",
+    "geom:latitude":35.56551,
+    "geom:longitude":127.39159,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ch'ang-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876643,
+    "gn:latitude":35.56551,
+    "gn:longitude":127.39159,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019ang-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc3d\ucd0c",
+        "Ch\u2019ang-ch\u2019on",
+        "Changchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876643
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7679e43ad944dd14dd860ce711750e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209216037
+        }
+    ],
+    "wof:id":1209216037,
+    "wof:lastmodified":1537658140,
+    "wof:name":"Ch'ang-ch'on",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39159,
+    35.56551,
+    127.39159,
+    35.56551
+],
+  "geometry": {"coordinates":[127.39158999999999,35.56551],"type":"Point"}
+}

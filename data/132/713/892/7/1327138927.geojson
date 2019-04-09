@@ -1,0 +1,74 @@
+{
+  "id": 1327138927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3948,37.1197,128.3948,37.1197",
+    "geom:latitude":37.1197,
+    "geom:longitude":128.3948,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yongdong-gol",
+    "gn:country_code":"KR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832562,
+    "gn:latitude":37.1197,
+    "gn:longitude":128.3948,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yongdong-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ub3d9\uace8"
+    ],
+    "name:und_x_variant":[
+        "Yong-dong",
+        "Yongdong-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832562
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8ff5a21f03af11a1fd3a3891618c0fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1327138927,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1327138927,
+    "wof:lastmodified":1537655984,
+    "wof:name":"Yongdong-gol",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3948,
+    37.1197,
+    128.3948,
+    37.1197
+],
+  "geometry": {"coordinates":[128.3948,37.1197],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259569261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60861,37.37111,127.60861,37.37111",
+    "geom:latitude":37.37111,
+    "geom:longitude":127.60861,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Geugi",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576541,
+    "gn:latitude":37.37111,
+    "gn:longitude":127.60861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Geugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uadf8\uae30",
+        "Geugi",
+        "K\u016dgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576541
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e7ea9901ec9773b80f75d5f1f5d6a2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1259569261,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259569261,
+    "wof:lastmodified":1537657323,
+    "wof:name":"Geugi",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60861,
+    37.37111,
+    127.60861,
+    37.37111
+],
+  "geometry": {"coordinates":[127.60861,37.37111],"type":"Point"}
+}

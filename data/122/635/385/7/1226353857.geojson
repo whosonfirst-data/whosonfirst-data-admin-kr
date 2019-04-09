@@ -1,0 +1,71 @@
+{
+  "id": 1226353857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.50797,35.70961,127.50797,35.70961",
+    "geom:latitude":35.70961,
+    "geom:longitude":127.50797,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Naegi",
+    "gn:country_code":"KR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896367,
+    "gn:latitude":35.70961,
+    "gn:longitude":127.50797,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Naegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0b4\uae30",
+        "Naegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896367
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"06b2d4c2f7c6e937bdeb23b850de4dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1226353857,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1226353857,
+    "wof:lastmodified":1537658658,
+    "wof:name":"Naegi",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.50797,
+    35.70961,
+    127.50797,
+    35.70961
+],
+  "geometry": {"coordinates":[127.50797,35.70961],"type":"Point"}
+}

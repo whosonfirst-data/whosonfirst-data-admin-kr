@@ -1,0 +1,74 @@
+{
+  "id": 1343233927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93812,34.74602,126.93812,34.74602",
+    "geom:latitude":34.74602,
+    "geom:longitude":126.93812,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Goran",
+    "gn:country_code":"KR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394907,
+    "gn:latitude":34.74602,
+    "gn:longitude":126.93812,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Goran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace8\uc548"
+    ],
+    "name:und_x_variant":[
+        "Kolan",
+        "Goran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394907
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9de7dd2d7ef918eac0f9beee7d67bf85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1343233927,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343233927,
+    "wof:lastmodified":1537657145,
+    "wof:name":"Goran",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93812,
+    34.74602,
+    126.93812,
+    34.74602
+],
+  "geometry": {"coordinates":[126.93812,34.74602],"type":"Point"}
+}

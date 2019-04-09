@@ -1,0 +1,71 @@
+{
+  "id": 1276212853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16639,37.14111,127.16639,37.14111",
+    "geom:latitude":37.14111,
+    "geom:longitude":127.16639,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Namsan-dong",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896766,
+    "gn:latitude":37.14111,
+    "gn:longitude":127.16639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namsan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0a8\uc0b0\ub3d9",
+        "Namsan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896766
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e09c531ac859be5d7ac2409626f28a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1276212853,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276212853,
+    "wof:lastmodified":1537656911,
+    "wof:name":"Namsan-dong",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16639,
+    37.14111,
+    127.16639,
+    37.14111
+],
+  "geometry": {"coordinates":[127.16639000000001,37.14111],"type":"Point"}
+}

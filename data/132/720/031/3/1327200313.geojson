@@ -1,0 +1,70 @@
+{
+  "id": 1327200313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19187,36.17233,127.19187,36.17233",
+    "geom:latitude":36.17233,
+    "geom:longitude":127.19187,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maeori",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10911398,
+    "gn:latitude":36.17233,
+    "gn:longitude":127.19187,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Maeori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9e4\uc624\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10911398
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"16a245f6d4c385d0b554dad451427a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474443,
+            "locality_id":1327200313,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1327200313,
+    "wof:lastmodified":1537659082,
+    "wof:name":"Maeori",
+    "wof:parent_id":890474443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19187,
+    36.17233,
+    127.19187,
+    36.17233
+],
+  "geometry": {"coordinates":[127.19186999999999,36.17233],"type":"Point"}
+}

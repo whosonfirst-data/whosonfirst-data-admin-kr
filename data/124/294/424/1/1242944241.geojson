@@ -1,0 +1,78 @@
+{
+  "id": 1242944241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21408,37.17787,127.21408,37.17787",
+    "geom:latitude":37.17787,
+    "geom:longitude":127.21408,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Sambaeul",
+    "gn:country_code":"KR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398665,
+    "gn:latitude":37.17787,
+    "gn:longitude":127.21408,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Sambaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\ubc30\uc728"
+    ],
+    "name:kor_x_variant":[
+        "\uc0bc\ubc30\uc6b8"
+    ],
+    "name:und_x_variant":[
+        "Sambaeyul",
+        "Sambaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398665
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"677fd9d50710702020a1b71114a28300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1242944241,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242944241,
+    "wof:lastmodified":1537657183,
+    "wof:name":"Sambaeul",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21408,
+    37.17787,
+    127.21408,
+    37.17787
+],
+  "geometry": {"coordinates":[127.21408,37.17787],"type":"Point"}
+}

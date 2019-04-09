@@ -1,0 +1,73 @@
+{
+  "id": 1293776165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2314,37.4192,128.2314,37.4192",
+    "geom:latitude":37.4192,
+    "geom:longitude":128.2314,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hyonjo",
+    "gn:country_code":"KR",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794258,
+    "gn:latitude":37.4192,
+    "gn:longitude":128.2314,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hy\u014fnj\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud604\uc800"
+    ],
+    "name:kor_x_variant":[
+        "Hy\u014fnj\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794258
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f5e7234902b7534465724112eb0a24d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473623,
+            "locality_id":1293776165,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293776165,
+    "wof:lastmodified":1537657490,
+    "wof:name":"Hyonjo",
+    "wof:parent_id":890473623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2314,
+    37.4192,
+    128.2314,
+    37.4192
+],
+  "geometry": {"coordinates":[128.23140000000001,37.4192],"type":"Point"}
+}

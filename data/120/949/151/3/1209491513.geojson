@@ -1,0 +1,65 @@
+{
+  "id": 1209491513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.657,36.7569,126.657,36.7569",
+    "geom:latitude":36.7569,
+    "geom:longitude":126.657,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"T'an-dong",
+    "gn:country_code":"KR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808491,
+    "gn:latitude":36.7569,
+    "gn:longitude":126.657,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019an-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud0c4\ub3d9",
+        "T\u2019an-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808491
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f1d479d39d21b825b2a5980558c52ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209491513
+        }
+    ],
+    "wof:id":1209491513,
+    "wof:lastmodified":1537657834,
+    "wof:name":"T'an-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.657,
+    36.7569,
+    126.657,
+    36.7569
+],
+  "geometry": {"coordinates":[126.657,36.7569],"type":"Point"}
+}

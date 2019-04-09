@@ -1,0 +1,67 @@
+{
+  "id": 1293747539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63056,35.29333,126.63056,35.29333",
+    "geom:latitude":35.29333,
+    "geom:longitude":126.63056,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hwasal-li",
+    "gn:country_code":"KR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885531,
+    "gn:latitude":35.29333,
+    "gn:longitude":126.63056,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Hwasal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885531
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"01865b782990ea05b4b9de49807d56e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1293747539,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293747539,
+    "wof:lastmodified":1536909751,
+    "wof:name":"Hwasal-li",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63056,
+    35.29333,
+    126.63056,
+    35.29333
+],
+  "geometry": {"coordinates":[126.63056,35.29333],"type":"Point"}
+}

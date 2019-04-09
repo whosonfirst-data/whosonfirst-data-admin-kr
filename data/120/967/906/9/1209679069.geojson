@@ -1,0 +1,64 @@
+{
+  "id": 1209679069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26821,36.19556,127.26821,36.19556",
+    "geom:latitude":36.19556,
+    "geom:longitude":127.26821,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wondumun",
+    "gn:country_code":"KR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10916323,
+    "gn:latitude":36.19556,
+    "gn:longitude":127.26821,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Wondumun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ub450\ubb38"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10916323
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"085954c2ae31557d5b1c352cbfb1a30a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209679069
+        }
+    ],
+    "wof:id":1209679069,
+    "wof:lastmodified":1537659086,
+    "wof:name":"Wondumun",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26821,
+    36.19556,
+    127.26821,
+    36.19556
+],
+  "geometry": {"coordinates":[127.26821,36.19556],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193114735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42006,33.4899,126.42006,33.4899",
+    "geom:latitude":33.4899,
+    "geom:longitude":126.42006,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gwanjeondong",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10154707,
+    "gn:latitude":33.4899,
+    "gn:longitude":126.42006,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Gwanjeondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\uc804\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10154707
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a3c7e441403b2dab9033745df8f95231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1193114735,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1193114735,
+    "wof:lastmodified":1537658995,
+    "wof:name":"Gwanjeondong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42006,
+    33.4899,
+    126.42006,
+    33.4899
+],
+  "geometry": {"coordinates":[126.42006000000001,33.4899],"type":"Point"}
+}

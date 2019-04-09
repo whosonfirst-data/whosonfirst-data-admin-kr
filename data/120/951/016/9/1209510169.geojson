@@ -1,0 +1,64 @@
+{
+  "id": 1209510169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.26595,35.3342,129.26595,35.3342",
+    "geom:latitude":35.3342,
+    "geom:longitude":129.26595,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gugi",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097983,
+    "gn:latitude":35.3342,
+    "gn:longitude":129.26595,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Gugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uae30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097983
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8676f0adff3b53296e93f4b34ddc143e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209510169
+        }
+    ],
+    "wof:id":1209510169,
+    "wof:lastmodified":1537659155,
+    "wof:name":"Gugi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.26595,
+    35.3342,
+    129.26595,
+    35.3342
+],
+  "geometry": {"coordinates":[129.26595,35.3342],"type":"Point"}
+}

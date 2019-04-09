@@ -1,0 +1,71 @@
+{
+  "id": 1193251879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1634,36.3376,128.1634,36.3376",
+    "geom:latitude":36.3376,
+    "geom:longitude":128.1634,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wamok",
+    "gn:country_code":"KR",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889741,
+    "gn:latitude":36.3376,
+    "gn:longitude":128.1634,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wamok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc640\ubaa9",
+        "Wamok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889741
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4ea70ae9ad4d5b0e7a152e9fded2e5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1193251879,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193251879,
+    "wof:lastmodified":1537658460,
+    "wof:name":"Wamok",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1634,
+    36.3376,
+    128.1634,
+    36.3376
+],
+  "geometry": {"coordinates":[128.1634,36.3376],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225828565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.89642,36.76445,128.89642,36.76445",
+    "geom:latitude":36.76445,
+    "geom:longitude":128.89642,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gasari",
+    "gn:country_code":"KR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256562,
+    "gn:latitude":36.76445,
+    "gn:longitude":128.89642,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Gasari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc0ac\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256562
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3da3f7a21a37b4fe4d2fba4fcb235a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1225828565,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225828565,
+    "wof:lastmodified":1537659297,
+    "wof:name":"Gasari",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.89642,
+    36.76445,
+    128.89642,
+    36.76445
+],
+  "geometry": {"coordinates":[128.89642000000001,36.76445],"type":"Point"}
+}

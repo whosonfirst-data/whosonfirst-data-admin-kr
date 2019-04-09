@@ -1,0 +1,73 @@
+{
+  "id": 1193271283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.784,36.0235,127.784,36.0235",
+    "geom:latitude":36.0235,
+    "geom:longitude":127.784,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Talbat",
+    "gn:country_code":"KR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835001,
+    "gn:latitude":36.0235,
+    "gn:longitude":127.784,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Talbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u014flch\u014fn-ni",
+        "Talbat",
+        "\uc6d4\uc804\ub9ac",
+        "W\u014flch\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835001
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ef1a280bcd8966dde25e04ffa68de4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473559,
+            "locality_id":1193271283,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1193271283,
+    "wof:lastmodified":1537656119,
+    "wof:name":"Talbat",
+    "wof:parent_id":890473559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.784,
+    36.0235,
+    127.784,
+    36.0235
+],
+  "geometry": {"coordinates":[127.78400000000001,36.0235],"type":"Point"}
+}

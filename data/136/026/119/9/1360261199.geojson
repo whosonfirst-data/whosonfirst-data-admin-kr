@@ -1,0 +1,71 @@
+{
+  "id": 1360261199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8088,36.622,126.8088,36.622",
+    "geom:latitude":36.622,
+    "geom:longitude":126.8088,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sommusi",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810851,
+    "gn:latitude":36.622,
+    "gn:longitude":126.8088,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fmmusi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc12d\ubb34\uc2dc",
+        "S\u014fmmusi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810851
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d2a39a8574b817f8ea89e62bc6e39bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1360261199,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1360261199,
+    "wof:lastmodified":1537657918,
+    "wof:name":"Sommusi",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8088,
+    36.622,
+    126.8088,
+    36.622
+],
+  "geometry": {"coordinates":[126.80880000000001,36.622],"type":"Point"}
+}

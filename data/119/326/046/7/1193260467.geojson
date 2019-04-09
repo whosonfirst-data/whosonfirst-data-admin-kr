@@ -1,0 +1,77 @@
+{
+  "id": 1193260467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.70194,34.44583,126.70194,34.44583",
+    "geom:latitude":34.44583,
+    "geom:longitude":126.70194,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bangsan",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839277,
+    "gn:latitude":34.44583,
+    "gn:longitude":126.70194,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Bangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "H\u014dsan",
+        "Pangsan-ni",
+        "H\u014dsan-ri",
+        "Pangsan",
+        "Bangsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839277
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fdeaff06cdd3ecc4b080da7adf76d63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1193260467,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193260467,
+    "wof:lastmodified":1537656335,
+    "wof:name":"Bangsan",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.70194,
+    34.44583,
+    126.70194,
+    34.44583
+],
+  "geometry": {"coordinates":[126.70193999999999,34.44583],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344131201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.96681,35.82647,127.96681,35.82647",
+    "geom:latitude":35.82647,
+    "geom:longitude":127.96681,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Simbangso",
+    "gn:country_code":"KR",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894228,
+    "gn:latitude":35.82647,
+    "gn:longitude":127.96681,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Simbangso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shinbang",
+        "Sinbang",
+        "\uc2ec\ubc29\uc18c",
+        "Simbang",
+        "Simbangso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894228
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a86bb93fe174540c60eac2221da4fdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1344131201,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1344131201,
+    "wof:lastmodified":1537656846,
+    "wof:name":"Simbangso",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.96681,
+    35.82647,
+    127.96681,
+    35.82647
+],
+  "geometry": {"coordinates":[127.96681,35.82647],"type":"Point"}
+}

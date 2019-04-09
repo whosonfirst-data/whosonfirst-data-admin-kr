@@ -1,0 +1,73 @@
+{
+  "id": 1242848767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.01972,35.4425,129.01972,35.4425",
+    "geom:latitude":35.4425,
+    "geom:longitude":129.01972,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Naesok",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894575,
+    "gn:latitude":35.4425,
+    "gn:longitude":129.01972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naes\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naes\u014fng-ni",
+        "Naes\u014fk-ri",
+        "Naes\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894575
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cdc25bef15d1d6f06ed052c0e1a0620a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1242848767,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1242848767,
+    "wof:lastmodified":1537656858,
+    "wof:name":"Naesok",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.01972,
+    35.4425,
+    129.01972,
+    35.4425
+],
+  "geometry": {"coordinates":[129.01972000000001,35.4425],"type":"Point"}
+}

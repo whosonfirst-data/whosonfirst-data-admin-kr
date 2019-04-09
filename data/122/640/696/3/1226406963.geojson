@@ -1,0 +1,71 @@
+{
+  "id": 1226406963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40321,35.35049,128.40321,35.35049",
+    "geom:latitude":35.35049,
+    "geom:longitude":128.40321,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sindae",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898450,
+    "gn:latitude":35.35049,
+    "gn:longitude":128.40321,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sindae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\ub300",
+        "Sindae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898450
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb96bfb1ac23ad6a08c2550c9889d308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474513,
+            "locality_id":1226406963,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226406963,
+    "wof:lastmodified":1537658717,
+    "wof:name":"Sindae",
+    "wof:parent_id":890474513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40321,
+    35.35049,
+    128.40321,
+    35.35049
+],
+  "geometry": {"coordinates":[128.40321,35.35049],"type":"Point"}
+}

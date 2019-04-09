@@ -1,0 +1,77 @@
+{
+  "id": 1226628353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28056,34.86261,127.28056,34.86261",
+    "geom:latitude":34.86261,
+    "geom:longitude":127.28056,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gyegok",
+    "gn:country_code":"KR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684747,
+    "gn:latitude":34.86261,
+    "gn:longitude":127.28056,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Gyegok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\uace1"
+    ],
+    "name:kor_x_variant":[
+        "\uacc4\uace1"
+    ],
+    "name:und_x_variant":[
+        "Kaegok",
+        "Gyegok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684747
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2001099b298b6ba44de9a8c4ef3d6a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1226628353,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226628353,
+    "wof:lastmodified":1537657425,
+    "wof:name":"Gyegok",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28056,
+    34.86261,
+    127.28056,
+    34.86261
+],
+  "geometry": {"coordinates":[127.28055999999999,34.86261],"type":"Point"}
+}

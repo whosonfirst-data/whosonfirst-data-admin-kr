@@ -1,0 +1,74 @@
+{
+  "id": 1343640599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.84498,37.96956,126.84498,37.96956",
+    "geom:latitude":37.96956,
+    "geom:longitude":126.84498,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Chilsongjeong",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951791,
+    "gn:latitude":37.96956,
+    "gn:longitude":126.84498,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Chilsongjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uce60\uc1a1\uc815"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019ilsongj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951791
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7a769ec20da2fa5a4dd971df0a7aa05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1343640599,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343640599,
+    "wof:lastmodified":1537656983,
+    "wof:name":"Chilsongjeong",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.84498,
+    37.96956,
+    126.84498,
+    37.96956
+],
+  "geometry": {"coordinates":[126.84498000000001,37.96956],"type":"Point"}
+}

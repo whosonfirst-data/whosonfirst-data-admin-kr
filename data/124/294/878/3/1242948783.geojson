@@ -1,0 +1,70 @@
+{
+  "id": 1242948783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67736,35.10827,126.67736,35.10827",
+    "geom:latitude":35.10827,
+    "geom:longitude":126.67736,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Songgye",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171082,
+    "gn:latitude":35.10827,
+    "gn:longitude":126.67736,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Songgye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uacc4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171082
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aa456bd16ed8567a2264a39f4425b100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473197,
+            "locality_id":1242948783,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1242948783,
+    "wof:lastmodified":1537659198,
+    "wof:name":"Songgye",
+    "wof:parent_id":890473197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67736,
+    35.10827,
+    126.67736,
+    35.10827
+],
+  "geometry": {"coordinates":[126.67735999999999,35.10827],"type":"Point"}
+}

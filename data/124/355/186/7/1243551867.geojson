@@ -1,0 +1,73 @@
+{
+  "id": 1243551867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51975,37.61832,128.51975,37.61832",
+    "geom:latitude":37.61832,
+    "geom:longitude":128.51975,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangworogae-ri",
+    "gn:country_code":"KR",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6816930,
+    "gn:latitude":37.61832,
+    "gn:longitude":128.51975,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sangw\u014frogae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc6d4\uc624\uac1c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Sangw\u014frogae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816930
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52c61e63d92b8d55f4d94c95b0ace956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1243551867,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243551867,
+    "wof:lastmodified":1537658104,
+    "wof:name":"Sangworogae-ri",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51975,
+    37.61832,
+    128.51975,
+    37.61832
+],
+  "geometry": {"coordinates":[128.51974999999999,37.61832],"type":"Point"}
+}

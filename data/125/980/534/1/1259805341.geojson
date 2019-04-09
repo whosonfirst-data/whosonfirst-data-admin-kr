@@ -1,0 +1,72 @@
+{
+  "id": 1259805341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.62174,38.06124,128.62174,38.06124",
+    "geom:latitude":38.06124,
+    "geom:longitude":128.62174,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gonogol",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588450,
+    "gn:latitude":38.06124,
+    "gn:longitude":128.62174,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gonogol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konogol",
+        "\uace0\ub178\uace8",
+        "Gonogol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588450
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"354f8442aeb745d7af8d4551796c62f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1259805341,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259805341,
+    "wof:lastmodified":1537658887,
+    "wof:name":"Gonogol",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.62174,
+    38.06124000000001,
+    128.62174,
+    38.06124000000001
+],
+  "geometry": {"coordinates":[128.62173999999999,38.06124000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327312961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62969,37.25109,127.62969,37.25109",
+    "geom:latitude":37.25109,
+    "geom:longitude":127.62969,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Beondeure",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896940,
+    "gn:latitude":37.25109,
+    "gn:longitude":127.62969,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Beondeure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc88\ub4dc\ub798"
+    ],
+    "name:kor_x_variant":[
+        "P\u014fnd\u016drae",
+        "\ubc88\ub4dc\ub808"
+    ],
+    "name:und_x_variant":[
+        "Beondeurae",
+        "Beondeure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896940
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cb93f089f2c3b1bb270d18169d00b644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1327312961,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327312961,
+    "wof:lastmodified":1537656919,
+    "wof:name":"Beondeure",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62969,
+    37.25109000000001,
+    127.62969,
+    37.25109000000001
+],
+  "geometry": {"coordinates":[127.62969,37.25109000000001],"type":"Point"}
+}

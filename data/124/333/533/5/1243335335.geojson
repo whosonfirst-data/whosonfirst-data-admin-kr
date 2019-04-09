@@ -1,0 +1,73 @@
+{
+  "id": 1243335335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45403,34.90319,126.45403,34.90319",
+    "geom:latitude":34.90319,
+    "geom:longitude":126.45403,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sujeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835678,
+    "gn:latitude":34.90319,
+    "gn:longitude":126.45403,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sujeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc218\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Suj\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835678
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2feaf19238b6364e4a013d2e1af16b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1243335335,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243335335,
+    "wof:lastmodified":1537656151,
+    "wof:name":"Sujeongdong",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45403,
+    34.90319,
+    126.45403,
+    34.90319
+],
+  "geometry": {"coordinates":[126.45403,34.90319],"type":"Point"}
+}

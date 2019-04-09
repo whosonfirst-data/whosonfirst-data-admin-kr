@@ -1,0 +1,73 @@
+{
+  "id": 1327392601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2225,35.68924,129.2225,35.68924",
+    "geom:latitude":35.68924,
+    "geom:longitude":129.2225,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gummal",
+    "gn:country_code":"KR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900852,
+    "gn:latitude":35.68924,
+    "gn:longitude":129.2225,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Gummal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad7c\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Kummal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900852
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"11ea221a754feb8791fb50afb027d34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1327392601,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1327392601,
+    "wof:lastmodified":1537656944,
+    "wof:name":"Gummal",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2225,
+    35.68924000000001,
+    129.2225,
+    35.68924000000001
+],
+  "geometry": {"coordinates":[129.2225,35.68924000000001],"type":"Point"}
+}

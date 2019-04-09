@@ -1,0 +1,65 @@
+{
+  "id": 1209287919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3502,36.0122,128.3502,36.0122",
+    "geom:latitude":36.0122,
+    "geom:longitude":128.3502,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Paesogi",
+    "gn:country_code":"KR",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890891,
+    "gn:latitude":36.0122,
+    "gn:longitude":128.3502,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paes\u014fgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc30\uc11d\uc774",
+        "Paes\u014fgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890891
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"80c744834744386b024d17017158bf9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287919
+        }
+    ],
+    "wof:id":1209287919,
+    "wof:lastmodified":1537658498,
+    "wof:name":"Paesogi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3502,
+    36.0122,
+    128.3502,
+    36.0122
+],
+  "geometry": {"coordinates":[128.3502,36.0122],"type":"Point"}
+}

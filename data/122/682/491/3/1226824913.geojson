@@ -1,0 +1,70 @@
+{
+  "id": 1226824913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86588,35.2177,126.86588,35.2177",
+    "geom:latitude":35.2177,
+    "geom:longitude":126.86588,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bogyong",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11172530,
+    "gn:latitude":35.2177,
+    "gn:longitude":126.86588,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Bogyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf5\uc6a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172530
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"10182c9464445de854d6c97421135175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473321,
+            "locality_id":1226824913,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1226824913,
+    "wof:lastmodified":1537659208,
+    "wof:name":"Bogyong",
+    "wof:parent_id":890473321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86588,
+    35.2177,
+    126.86588,
+    35.2177
+],
+  "geometry": {"coordinates":[126.86588,35.2177],"type":"Point"}
+}

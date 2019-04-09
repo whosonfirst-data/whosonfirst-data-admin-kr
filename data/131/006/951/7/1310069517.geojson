@@ -1,0 +1,70 @@
+{
+  "id": 1310069517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64244,35.12993,126.64244,35.12993",
+    "geom:latitude":35.12993,
+    "geom:longitude":126.64244,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seongjaedong",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171039,
+    "gn:latitude":35.12993,
+    "gn:longitude":126.64244,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seongjaedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\uc7ac\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171039
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"97389de48dc233439fd24a7938bffcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1310069517,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310069517,
+    "wof:lastmodified":1537659197,
+    "wof:name":"Seongjaedong",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64244,
+    35.12993,
+    126.64244,
+    35.12993
+],
+  "geometry": {"coordinates":[126.64243999999999,35.12993],"type":"Point"}
+}

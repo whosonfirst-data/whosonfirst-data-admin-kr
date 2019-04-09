@@ -1,0 +1,77 @@
+{
+  "id": 1293560309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31775,37.94424,127.31775,37.94424",
+    "geom:latitude":37.94424,
+    "geom:longitude":127.31775,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Saemmal",
+    "gn:country_code":"KR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813748,
+    "gn:latitude":37.94424,
+    "gn:longitude":127.31775,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Saemmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0db\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "\uc0d8\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Saen-mal",
+        "Saemmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813748
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d32f84030d8b99d85e41c06ef823a2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1293560309,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293560309,
+    "wof:lastmodified":1537658023,
+    "wof:name":"Saemmal",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31775,
+    37.94424,
+    127.31775,
+    37.94424
+],
+  "geometry": {"coordinates":[127.31775,37.94424],"type":"Point"}
+}

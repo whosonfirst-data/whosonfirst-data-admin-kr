@@ -1,0 +1,66 @@
+{
+  "id": 1209686473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0,36.2,128.0,36.2",
+    "geom:latitude":36.2,
+    "geom:longitude":128.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taihei",
+    "gn:country_code":"KR",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835156,
+    "gn:latitude":36.2,
+    "gn:longitude":128.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taihei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019up\u2019ungny\u014fng-ni",
+        "Taihei",
+        "Taep\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835156
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6d2f43ec1095e2ed22751095f1979ad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209686473
+        }
+    ],
+    "wof:id":1209686473,
+    "wof:lastmodified":1537656126,
+    "wof:name":"Taihei",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0,
+    36.2,
+    128.0,
+    36.2
+],
+  "geometry": {"coordinates":[128.0,36.2],"type":"Point"}
+}

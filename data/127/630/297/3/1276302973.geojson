@@ -1,0 +1,75 @@
+{
+  "id": 1276302973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.19792,36.50897,128.19792,36.50897",
+    "geom:latitude":36.50897,
+    "geom:longitude":128.19792,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Moga-ri",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889805,
+    "gn:latitude":36.50897,
+    "gn:longitude":128.19792,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Moga-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\uac00\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\ubaa8\uac08",
+        "Mogal",
+        "Moga-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889805
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e6bfcfdc28586f4def3a189406691be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1276302973,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276302973,
+    "wof:lastmodified":1537658461,
+    "wof:name":"Moga-ri",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.19791999999998,
+    36.50897,
+    128.19791999999998,
+    36.50897
+],
+  "geometry": {"coordinates":[128.19791999999998,36.50897],"type":"Point"}
+}

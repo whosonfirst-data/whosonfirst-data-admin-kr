@@ -1,0 +1,77 @@
+{
+  "id": 1310476821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49279,36.33909,127.49279,36.33909",
+    "geom:latitude":36.33909,
+    "geom:longitude":127.49279,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Secheon",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837416,
+    "gn:latitude":36.33909,
+    "gn:longitude":127.49279,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Secheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc138\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Sech\u014fn-ni",
+        "Sech\u2019\u014fn",
+        "\uc138\ucc9c\ub3d9",
+        "Sech\u2019\u014fn-dong",
+        "Secheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837416
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4d9518765640382ab271d61bd484fe6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746447,
+            "locality_id":1310476821,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1310476821,
+    "wof:lastmodified":1537656236,
+    "wof:name":"Secheon",
+    "wof:parent_id":1108746447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49279,
+    36.33909,
+    127.49279,
+    36.33909
+],
+  "geometry": {"coordinates":[127.49279,36.33909],"type":"Point"}
+}

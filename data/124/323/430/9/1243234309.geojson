@@ -1,0 +1,71 @@
+{
+  "id": 1243234309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31586,36.48895,128.31586,36.48895",
+    "geom:latitude":36.48895,
+    "geom:longitude":128.31586,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Unma",
+    "gn:country_code":"KR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890164,
+    "gn:latitude":36.48895,
+    "gn:longitude":128.31586,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Unma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6c3\ub9c8",
+        "Unma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890164
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dd08d825cabc065e8964018f42b179d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1243234309,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243234309,
+    "wof:lastmodified":1537658476,
+    "wof:name":"Unma",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31586,
+    36.48895,
+    128.31586,
+    36.48895
+],
+  "geometry": {"coordinates":[128.31585999999999,36.48895],"type":"Point"}
+}

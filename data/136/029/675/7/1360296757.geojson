@@ -1,0 +1,74 @@
+{
+  "id": 1360296757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72556,35.39333,126.72556,35.39333",
+    "geom:latitude":35.39333,
+    "geom:longitude":126.72556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Surang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885737,
+    "gn:latitude":35.39333,
+    "gn:longitude":126.72556,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Surang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc218\ub7c9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Suryangdong",
+        "Surang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885737
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5bf08b71a2799afe03578f49d6bbab92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1360296757,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1360296757,
+    "wof:lastmodified":1537656781,
+    "wof:name":"Surang-dong",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72556000000002,
+    35.39333,
+    126.72556000000002,
+    35.39333
+],
+  "geometry": {"coordinates":[126.72556000000002,35.39333],"type":"Point"}
+}

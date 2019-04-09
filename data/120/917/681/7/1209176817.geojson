@@ -1,0 +1,67 @@
+{
+  "id": 1209176817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91528,35.24112,126.91528,35.24112",
+    "geom:latitude":35.24112,
+    "geom:longitude":126.91528,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hakdong",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844574,
+    "gn:latitude":35.24112,
+    "gn:longitude":126.91528,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Hakdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844574
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2dcce0d196f980c084cf290fb2b35b70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209176817
+        }
+    ],
+    "wof:id":1209176817,
+    "wof:lastmodified":1537656604,
+    "wof:name":"Hakdong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91528,
+    35.24112,
+    126.91528,
+    35.24112
+],
+  "geometry": {"coordinates":[126.91528,35.24112],"type":"Point"}
+}

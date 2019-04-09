@@ -1,0 +1,73 @@
+{
+  "id": 1243268513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7798,37.1447,127.7798,37.1447",
+    "geom:latitude":37.1447,
+    "geom:longitude":127.7798,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Neoreun",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813050,
+    "gn:latitude":37.1447,
+    "gn:longitude":127.7798,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Neoreun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub108\ub978"
+    ],
+    "name:kor_x_variant":[
+        "N\u014fr\u016dn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813050
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3766096e5c346a9b5b5b086232729cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1243268513,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243268513,
+    "wof:lastmodified":1537657999,
+    "wof:name":"Neoreun",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7798,
+    37.1447,
+    127.7798,
+    37.1447
+],
+  "geometry": {"coordinates":[127.77979999999999,37.1447],"type":"Point"}
+}

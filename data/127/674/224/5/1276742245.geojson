@@ -1,0 +1,74 @@
+{
+  "id": 1276742245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24802,37.23086,127.24802,37.23086",
+    "geom:latitude":37.23086,
+    "geom:longitude":127.24802,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Sinpyeong",
+    "gn:country_code":"KR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398648,
+    "gn:latitude":37.23086,
+    "gn:longitude":127.24802,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Sinpyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ud3c9"
+    ],
+    "name:kor_x_variant":[
+        "Sinp\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398648
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eae9dee4625ebc7f886d3331cf51e328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1276742245,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276742245,
+    "wof:lastmodified":1537657182,
+    "wof:name":"Sinpyeong",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24802,
+    37.23086,
+    127.24802,
+    37.23086
+],
+  "geometry": {"coordinates":[127.24802,37.23086],"type":"Point"}
+}

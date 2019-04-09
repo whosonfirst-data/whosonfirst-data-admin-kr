@@ -1,0 +1,67 @@
+{
+  "id": 1209303125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.92873,35.17623,128.92873,35.17623",
+    "geom:latitude":35.17623,
+    "geom:longitude":128.92873,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Seolman",
+    "gn:country_code":"KR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979031,
+    "gn:latitude":35.17623,
+    "gn:longitude":128.92873,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Seolman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc124\ub9cc"
+    ],
+    "name:und_x_variant":[
+        "S\u014flman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979031
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4fa2860a376bc81f220d8d9ada7a4c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209303125
+        }
+    ],
+    "wof:id":1209303125,
+    "wof:lastmodified":1537656985,
+    "wof:name":"Seolman",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.92873,
+    35.17623,
+    128.92873,
+    35.17623
+],
+  "geometry": {"coordinates":[128.92873,35.17623],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293476069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.56135,37.89947,127.56135,37.89947",
+    "geom:latitude":37.89947,
+    "geom:longitude":127.56135,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hanamjong",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802591,
+    "gn:latitude":37.89947,
+    "gn:longitude":127.56135,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Hanamjong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ub0a8\uc885",
+        "Hanamjong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802591
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7e9d66d18921a430a23e936448ac6614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1293476069,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293476069,
+    "wof:lastmodified":1537657747,
+    "wof:name":"Hanamjong",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.56135,
+    37.89947,
+    127.56135,
+    37.89947
+],
+  "geometry": {"coordinates":[127.56135,37.89947],"type":"Point"}
+}

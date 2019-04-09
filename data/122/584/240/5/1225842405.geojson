@@ -1,0 +1,73 @@
+{
+  "id": 1225842405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8235,37.6007,127.8235,37.6007",
+    "geom:latitude":37.6007,
+    "geom:longitude":127.8235,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tolbyoru",
+    "gn:country_code":"KR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816213,
+    "gn:latitude":37.6007,
+    "gn:longitude":127.8235,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tolby\u014fru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3cc\ubcbc\ub8e8"
+    ],
+    "name:kor_x_variant":[
+        "Tolby\u014fru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816213
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9d7c5142b2f24233903df0c7ea8cc72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1225842405,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1225842405,
+    "wof:lastmodified":1537658082,
+    "wof:name":"Tolbyoru",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8235,
+    37.6007,
+    127.8235,
+    37.6007
+],
+  "geometry": {"coordinates":[127.8235,37.6007],"type":"Point"}
+}

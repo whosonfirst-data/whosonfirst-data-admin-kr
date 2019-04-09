@@ -1,0 +1,74 @@
+{
+  "id": 1243553327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2865,37.0698,128.2865,37.0698",
+    "geom:latitude":37.0698,
+    "geom:longitude":128.2865,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sakdari",
+    "gn:country_code":"KR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796375,
+    "gn:latitude":37.0698,
+    "gn:longitude":128.2865,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Sakdari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ad\ub2e4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Saktari",
+        "Sakdari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796375
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"105c17a702c141820e8ac3b578bf2a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1243553327,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243553327,
+    "wof:lastmodified":1537657556,
+    "wof:name":"Sakdari",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2865,
+    37.0698,
+    128.2865,
+    37.0698
+],
+  "geometry": {"coordinates":[128.28649999999999,37.0698],"type":"Point"}
+}

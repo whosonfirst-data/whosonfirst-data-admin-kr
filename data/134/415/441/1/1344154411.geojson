@@ -1,0 +1,74 @@
+{
+  "id": 1344154411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85271,37.8133,127.85271,37.8133",
+    "geom:latitude":37.8133,
+    "geom:longitude":127.85271,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Meogugol",
+    "gn:country_code":"KR",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6814156,
+    "gn:latitude":37.8133,
+    "gn:longitude":127.85271,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Meogugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba38\uc6b0\uace8"
+    ],
+    "name:kor_x_variant":[
+        "M\u014fu-gol",
+        "\uba39\uc6b0\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6814156
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4ff79efe8b1193cea9fbe022d79c49f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1344154411,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1344154411,
+    "wof:lastmodified":1537658041,
+    "wof:name":"Meogugol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85271000000002,
+    37.8133,
+    127.85271000000002,
+    37.8133
+],
+  "geometry": {"coordinates":[127.85271000000002,37.8133],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193158781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36667,38.55,128.36667,38.55",
+    "geom:latitude":38.55,
+    "geom:longitude":128.36667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Komjang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842671,
+    "gn:latitude":38.55,
+    "gn:longitude":128.36667,
+    "gn:modification_date":"1995-04-19",
+    "gn:name":"K\u014fmjang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842671
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2e4def8e6191d23358f8087e31c9c4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1193158781,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1193158781,
+    "wof:lastmodified":1536370328,
+    "wof:name":"Komjang-ni",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36667,
+    38.55,
+    128.36667,
+    38.55
+],
+  "geometry": {"coordinates":[128.36667,38.55],"type":"Point"}
+}

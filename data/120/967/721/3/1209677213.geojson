@@ -1,0 +1,66 @@
+{
+  "id": 1209677213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13444,35.10778,128.13444,35.10778",
+    "geom:latitude":35.10778,
+    "geom:longitude":128.13444,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kwallyul",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894451,
+    "gn:latitude":35.10778,
+    "gn:longitude":128.13444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwallyul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwannyul",
+        "Kwallyul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894451
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"14a96b3423bc6dac4b4aea5172a825cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209677213
+        }
+    ],
+    "wof:id":1209677213,
+    "wof:lastmodified":1537656855,
+    "wof:name":"Kwallyul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13443999999998,
+    35.10778,
+    128.13443999999998,
+    35.10778
+],
+  "geometry": {"coordinates":[128.13443999999998,35.10778],"type":"Point"}
+}

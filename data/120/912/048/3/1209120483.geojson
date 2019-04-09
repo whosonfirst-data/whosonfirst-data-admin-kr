@@ -1,0 +1,65 @@
+{
+  "id": 1209120483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9,34.85,127.9,34.85",
+    "geom:latitude":34.85,
+    "geom:longitude":127.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ch'asan-ni",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846297,
+    "gn:latitude":34.85,
+    "gn:longitude":127.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u2019asan-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019a\u016dm-ni",
+        "Ch\u2019asan-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846297
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1ab38f3c38c3e37ff78cacfbe4a903a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209120483
+        }
+    ],
+    "wof:id":1209120483,
+    "wof:lastmodified":1537656693,
+    "wof:name":"Ch'asan-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9,
+    34.85,
+    127.9,
+    34.85
+],
+  "geometry": {"coordinates":[127.90000000000001,34.85],"type":"Point"}
+}

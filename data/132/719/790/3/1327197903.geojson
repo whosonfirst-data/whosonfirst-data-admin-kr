@@ -1,0 +1,78 @@
+{
+  "id": 1327197903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29715,34.87312,127.29715,34.87312",
+    "geom:latitude":34.87312,
+    "geom:longitude":127.29715,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Saedong",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837411,
+    "gn:latitude":34.87312,
+    "gn:longitude":127.29715,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Saedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc138\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uc0c8\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Sedong-ni",
+        "Sedong",
+        "Saedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837411
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5cea34f2e32a53f7b76b24ba71bf89eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1327197903,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327197903,
+    "wof:lastmodified":1537656235,
+    "wof:name":"Saedong",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29715,
+    34.87312,
+    127.29715,
+    34.87312
+],
+  "geometry": {"coordinates":[127.29715,34.87312],"type":"Point"}
+}

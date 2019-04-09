@@ -1,0 +1,70 @@
+{
+  "id": 1343225955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89614,34.93568,126.89614,34.93568",
+    "geom:latitude":34.93568,
+    "geom:longitude":126.89614,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gwondong",
+    "gn:country_code":"KR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193909,
+    "gn:latitude":34.93568,
+    "gn:longitude":126.89614,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gwondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad8c\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193909
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"35871d0882f0879efbb7e6f5022eb95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1343225955,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343225955,
+    "wof:lastmodified":1537659229,
+    "wof:name":"Gwondong",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89614,
+    34.93568,
+    126.89614,
+    34.93568
+],
+  "geometry": {"coordinates":[126.89614,34.93568],"type":"Point"}
+}

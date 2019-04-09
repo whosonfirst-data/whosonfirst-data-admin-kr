@@ -1,0 +1,71 @@
+{
+  "id": 1225811737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9412,36.2669,126.9412,36.2669",
+    "geom:latitude":36.2669,
+    "geom:longitude":126.9412,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kundol",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6882648,
+    "gn:latitude":36.2669,
+    "gn:longitude":126.9412,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kundol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad70\ub3cc",
+        "Kundol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6882648
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"753ba646992aef573da4f18ebacafa99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473525,
+            "locality_id":1225811737,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1225811737,
+    "wof:lastmodified":1537658257,
+    "wof:name":"Kundol",
+    "wof:parent_id":890473525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9412,
+    36.2669,
+    126.9412,
+    36.2669
+],
+  "geometry": {"coordinates":[126.94119999999999,36.2669],"type":"Point"}
+}

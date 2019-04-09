@@ -1,0 +1,67 @@
+{
+  "id": 1243453125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.795,36.97528,127.795,36.97528",
+    "geom:latitude":36.97528,
+    "geom:longitude":127.795,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sinyang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895231,
+    "gn:latitude":36.97528,
+    "gn:longitude":127.795,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Sinyang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895231
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eb1cecb11c83957df635011c0f9f00e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1243453125,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243453125,
+    "wof:lastmodified":1536796136,
+    "wof:name":"Sinyang-ni",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.795,
+    36.97528,
+    127.795,
+    36.97528
+],
+  "geometry": {"coordinates":[127.795,36.97528],"type":"Point"}
+}

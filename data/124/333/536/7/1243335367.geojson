@@ -1,0 +1,80 @@
+{
+  "id": 1243335367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35988,34.8835,127.35988,34.8835",
+    "geom:latitude":34.8835,
+    "geom:longitude":127.35988,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yongneung",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832355,
+    "gn:latitude":34.8835,
+    "gn:longitude":127.35988,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Yongneung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ub2a5\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Yongn\u016dng-ni",
+        "\uc6a9\ub2a5"
+    ],
+    "name:und_x_variant":[
+        "Chuyong-ni",
+        "Ch\u2019wiryong-ni",
+        "Yongn\u016dng",
+        "Yongneung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832355
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a7759fe4db8a808ca12d7781ad86e808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1243335367,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243335367,
+    "wof:lastmodified":1537655975,
+    "wof:name":"Yongneung",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35988,
+    34.8835,
+    127.35988,
+    34.8835
+],
+  "geometry": {"coordinates":[127.35988,34.8835],"type":"Point"}
+}

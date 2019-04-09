@@ -1,0 +1,72 @@
+{
+  "id": 1209892313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95,36.61667,126.95,36.61667",
+    "geom:latitude":36.61667,
+    "geom:longitude":126.95,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Paesil",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839439,
+    "gn:latitude":36.61667,
+    "gn:longitude":126.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paesil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igong-ni",
+        "Paesil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839439
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bfb84b8ee212b5007b5741dc3c4c24de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1209892313,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1209892313,
+    "wof:lastmodified":1537656346,
+    "wof:name":"Paesil",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95,
+    36.61667,
+    126.95,
+    36.61667
+],
+  "geometry": {"coordinates":[126.95,36.61667],"type":"Point"}
+}

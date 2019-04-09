@@ -1,0 +1,70 @@
+{
+  "id": 1226353861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69493,35.37268,126.69493,35.37268",
+    "geom:latitude":35.37268,
+    "geom:longitude":126.69493,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yangsaeng",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169309,
+    "gn:latitude":35.37268,
+    "gn:longitude":126.69493,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Yangsaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc0dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169309
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1168e9989bcd916d2e1fae83356a65ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1226353861,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1226353861,
+    "wof:lastmodified":1537659172,
+    "wof:name":"Yangsaeng",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69493,
+    35.37267999999999,
+    126.69493,
+    35.37267999999999
+],
+  "geometry": {"coordinates":[126.69493,35.37267999999999],"type":"Point"}
+}

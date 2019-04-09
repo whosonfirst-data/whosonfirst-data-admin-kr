@@ -1,0 +1,74 @@
+{
+  "id": 1193000361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98287,34.65787,126.98287,34.65787",
+    "geom:latitude":34.65787,
+    "geom:longitude":126.98287,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sangun",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837578,
+    "gn:latitude":34.65787,
+    "gn:longitude":126.98287,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sangun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc6b4"
+    ],
+    "name:und_x_variant":[
+        "Sangun-ni",
+        "Sangun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837578
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7b28e9cdf2950278e10305207eeab92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1193000361,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1193000361,
+    "wof:lastmodified":1537656244,
+    "wof:name":"Sangun",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98287,
+    34.65787,
+    126.98287,
+    34.65787
+],
+  "geometry": {"coordinates":[126.98287000000001,34.65787],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242660849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35166,36.27482,129.35166,36.27482",
+    "geom:latitude":36.27482,
+    "geom:longitude":129.35166,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Araemal",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246794,
+    "gn:latitude":36.27482,
+    "gn:longitude":129.35166,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Araemal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub798\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246794
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"551fc684447f7e63f2665e58b5ddfeff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1242660849,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242660849,
+    "wof:lastmodified":1537659248,
+    "wof:name":"Araemal",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35166,
+    36.27482,
+    129.35166,
+    36.27482
+],
+  "geometry": {"coordinates":[129.35166000000001,36.27482],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277148171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19278,37.49917,127.19278,37.49917",
+    "geom:latitude":37.49917,
+    "geom:longitude":127.19278,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Beophwa-gol",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573526,
+    "gn:latitude":37.49917,
+    "gn:longitude":127.19278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Beophwa-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc95\ud654\uace8"
+    ],
+    "name:und_x_variant":[
+        "\ubc95\ud654\uace8",
+        "Beophwa-gol",
+        "P\u014fphwa-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573526
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e4aa3a05722eada775b4b334179a552d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1277148171,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1277148171,
+    "wof:lastmodified":1537657230,
+    "wof:name":"Beophwa-gol",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19278,
+    37.49917,
+    127.19278,
+    37.49917
+],
+  "geometry": {"coordinates":[127.19278,37.49917],"type":"Point"}
+}

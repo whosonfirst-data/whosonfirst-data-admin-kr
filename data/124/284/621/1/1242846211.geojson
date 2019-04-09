@@ -1,0 +1,67 @@
+{
+  "id": 1242846211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.575,34.96472,126.575,34.96472",
+    "geom:latitude":34.96472,
+    "geom:longitude":126.575,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chungp'o-ri",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844956,
+    "gn:latitude":34.96472,
+    "gn:longitude":126.575,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Chungp\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844956
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0845783e93db54acfc4bafd2f9977ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1242846211,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242846211,
+    "wof:lastmodified":1536676851,
+    "wof:name":"Chungp'o-ri",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.575,
+    34.96472,
+    126.575,
+    34.96472
+],
+  "geometry": {"coordinates":[126.575,34.96472],"type":"Point"}
+}

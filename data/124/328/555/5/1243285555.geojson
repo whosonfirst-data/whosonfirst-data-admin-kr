@@ -1,0 +1,74 @@
+{
+  "id": 1243285555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8179,37.2273,128.8179,37.2273",
+    "geom:latitude":37.2273,
+    "geom:longitude":128.8179,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sabuk",
+    "gn:country_code":"KR",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838312,
+    "gn:latitude":37.2273,
+    "gn:longitude":128.8179,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sabuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ubd81"
+    ],
+    "name:und_x_variant":[
+        "Sabung-ni",
+        "Sabuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838312
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4f915d81c320503b0ed86323b71767f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1243285555,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243285555,
+    "wof:lastmodified":1537656286,
+    "wof:name":"Sabuk",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8179,
+    37.2273,
+    128.8179,
+    37.2273
+],
+  "geometry": {"coordinates":[128.81790000000001,37.2273],"type":"Point"}
+}

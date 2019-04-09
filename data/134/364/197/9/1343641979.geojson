@@ -1,0 +1,73 @@
+{
+  "id": 1343641979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96167,37.48083,126.96167,37.48083",
+    "geom:latitude":37.48083,
+    "geom:longitude":126.96167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Haengun-dong",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6572034,
+    "gn:latitude":37.48083,
+    "gn:longitude":126.96167,
+    "gn:modification_date":"2014-01-06",
+    "gn:name":"Haengun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Haengun-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ud589\uc6b4\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890472187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6572034
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"23cb66fab1c7b183256215befe410a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472187,
+            "locality_id":1343641979,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1343641979,
+    "wof:lastmodified":1537550282,
+    "wof:name":"Haengun-dong",
+    "wof:parent_id":890472187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96167,
+    37.48083,
+    126.96167,
+    37.48083
+],
+  "geometry": {"coordinates":[126.96167,37.48083],"type":"Point"}
+}

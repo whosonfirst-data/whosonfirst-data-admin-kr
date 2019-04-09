@@ -1,0 +1,73 @@
+{
+  "id": 1327496813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.34,36.49361,126.34,36.49361",
+    "geom:latitude":36.49361,
+    "geom:longitude":126.34,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sungol-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882142,
+    "gn:latitude":36.49361,
+    "gn:longitude":126.34,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u016dng\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fng\u014fn-ri",
+        "S\u014fng\u014fl-li",
+        "S\u016dng\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882142
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64674bf2f03f95bd6ab1b1e67d783cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1327496813,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1327496813,
+    "wof:lastmodified":1537656748,
+    "wof:name":"Sungol-li",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.34,
+    36.49361,
+    126.34,
+    36.49361
+],
+  "geometry": {"coordinates":[126.34,36.49361],"type":"Point"}
+}

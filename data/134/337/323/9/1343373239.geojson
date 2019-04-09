@@ -1,0 +1,73 @@
+{
+  "id": 1343373239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07839,35.0896,126.07839,35.0896",
+    "geom:latitude":35.0896,
+    "geom:longitude":126.07839,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hoesalli",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844227,
+    "gn:latitude":35.0896,
+    "gn:longitude":126.07839,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Hoesalli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud68c\uc0b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Hoesan-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844227
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4163faf70fc03ec7a050c361ee97715c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1343373239,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343373239,
+    "wof:lastmodified":1537656584,
+    "wof:name":"Hoesalli",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07838999999998,
+    35.0896,
+    126.07838999999998,
+    35.0896
+],
+  "geometry": {"coordinates":[126.07838999999998,35.0896],"type":"Point"}
+}

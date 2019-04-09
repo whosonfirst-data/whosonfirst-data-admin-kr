@@ -1,0 +1,75 @@
+{
+  "id": 1309969925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77356,35.34685,126.77356,35.34685",
+    "geom:latitude":35.34685,
+    "geom:longitude":126.77356,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yongamchon",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832657,
+    "gn:latitude":35.34685,
+    "gn:longitude":126.77356,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Yongamchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc554\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Yongam-ni",
+        "Yongam-ch\u2019on",
+        "Yongamchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832657
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"300d68b525cd85b6c6b1bf4dacbe7cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1309969925,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309969925,
+    "wof:lastmodified":1537655989,
+    "wof:name":"Yongamchon",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77356,
+    35.34685,
+    126.77356,
+    35.34685
+],
+  "geometry": {"coordinates":[126.77356,35.34685],"type":"Point"}
+}

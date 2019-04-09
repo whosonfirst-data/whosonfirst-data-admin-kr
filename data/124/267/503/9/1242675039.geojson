@@ -1,0 +1,74 @@
+{
+  "id": 1242675039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48409,38.26371,127.48409,38.26371",
+    "geom:latitude":38.26371,
+    "geom:longitude":127.48409,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Ch'\u014flw\u014fn-gun",
+    "gn:asciiname":"Punggol",
+    "gn:country_code":"KR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948555,
+    "gn:latitude":38.26371,
+    "gn:longitude":127.48409,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Punggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud48d\uace8"
+    ],
+    "name:und_x_variant":[
+        "P\u2019ung-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948555
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0b3034f5b4b7aa49cc417090d9ca5a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1242675039,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242675039,
+    "wof:lastmodified":1537656962,
+    "wof:name":"Punggol",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48409,
+    38.26371,
+    127.48409,
+    38.26371
+],
+  "geometry": {"coordinates":[127.48408999999999,38.26371],"type":"Point"}
+}

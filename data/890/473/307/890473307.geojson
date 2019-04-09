@@ -1,0 +1,73 @@
+{
+  "id": 890473307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5919,36.30363,127.5919,36.30363",
+    "geom:latitude":36.30363,
+    "geom:longitude":127.5919,
+    "gn:country":"KR",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okcheon-eup"
+    ],
+    "name:kor_x_preferred":[
+        "\uc625\ucc9c\uc74d"
+    ],
+    "name:unk_x_variant":[
+        "\uc625\ucc9c\uc74d"
+    ],
+    "qs:name":"Okch\u2019\u014fn-\u016dp",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6885320,
+        "qs:id":1039313
+    },
+    "wof:country":"KR",
+    "wof:created":1469053947,
+    "wof:geomhash":"78b49f09810a18bcc73e9c931c475416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "localadmin_id":890473307,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":890473307,
+    "wof:lastmodified":1505343716,
+    "wof:name":"Okch\u2019\u014fn-\u016dp",
+    "wof:parent_id":890475545,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5919,
+    36.30363,
+    127.5919,
+    36.30363
+],
+  "geometry": {"coordinates":[127.5919,36.30363],"type":"Point"}
+}

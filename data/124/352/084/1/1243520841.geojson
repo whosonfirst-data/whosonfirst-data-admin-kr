@@ -1,0 +1,70 @@
+{
+  "id": 1243520841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2652,36.26955,127.2652,36.26955",
+    "geom:latitude":36.26955,
+    "geom:longitude":127.2652,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gorateo",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10916315,
+    "gn:latitude":36.26955,
+    "gn:longitude":127.2652,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Gorateo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ub77c\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        890474599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10916315
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b23866623cb15f437e104021171e1836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474599,
+            "locality_id":1243520841,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1243520841,
+    "wof:lastmodified":1537659086,
+    "wof:name":"Gorateo",
+    "wof:parent_id":890474599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2652,
+    36.26955,
+    127.2652,
+    36.26955
+],
+  "geometry": {"coordinates":[127.26519999999999,36.26955],"type":"Point"}
+}

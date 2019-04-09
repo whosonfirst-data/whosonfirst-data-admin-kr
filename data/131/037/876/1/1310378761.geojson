@@ -1,0 +1,70 @@
+{
+  "id": 1310378761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.84323,36.66178,128.84323,36.66178",
+    "geom:latitude":36.66178,
+    "geom:longitude":128.84323,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nocheon",
+    "gn:country_code":"KR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256422,
+    "gn:latitude":36.66178,
+    "gn:longitude":128.84323,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Nocheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub178\ucc9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256422
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"690440892d910eeea71900ee3ceaa0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1310378761,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1310378761,
+    "wof:lastmodified":1537659295,
+    "wof:name":"Nocheon",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.84323,
+    36.66178,
+    128.84323,
+    36.66178
+],
+  "geometry": {"coordinates":[128.84323000000001,36.66178],"type":"Point"}
+}

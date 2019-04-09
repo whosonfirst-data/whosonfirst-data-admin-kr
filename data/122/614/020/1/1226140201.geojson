@@ -1,0 +1,78 @@
+{
+  "id": 1226140201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58021,37.6967,127.58021,37.6967",
+    "geom:latitude":37.6967,
+    "geom:longitude":127.58021,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Borigol",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799134,
+    "gn:latitude":37.6967,
+    "gn:longitude":127.58021,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Borigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ub9ac\uace8"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\ub9bf\uace8"
+    ],
+    "name:und_x_variant":[
+        "Porik-kol",
+        "Borigol",
+        "Boritgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799134
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"499a0a076dbfc204ad29b3d457477cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1226140201,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226140201,
+    "wof:lastmodified":1537657622,
+    "wof:name":"Borigol",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58021,
+    37.6967,
+    127.58021,
+    37.6967
+],
+  "geometry": {"coordinates":[127.58020999999999,37.6967],"type":"Point"}
+}

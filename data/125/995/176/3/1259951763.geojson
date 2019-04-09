@@ -1,0 +1,78 @@
+{
+  "id": 1259951763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53111,34.33278,126.53111,34.33278",
+    "geom:latitude":34.33278,
+    "geom:longitude":126.53111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Songjongni",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836149,
+    "gn:latitude":34.33278,
+    "gn:longitude":126.53111,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Songjongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uc815"
+    ],
+    "name:kor_x_variant":[
+        "\uc1a1\uc885\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Sh\u014ds\u014d",
+        "Songjongni",
+        "Songjong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836149
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"910af7e09068bfd29b747a3b5afe1145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1259951763,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259951763,
+    "wof:lastmodified":1537656172,
+    "wof:name":"Songjongni",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53111,
+    34.33278,
+    126.53111,
+    34.33278
+],
+  "geometry": {"coordinates":[126.53111,34.33278],"type":"Point"}
+}

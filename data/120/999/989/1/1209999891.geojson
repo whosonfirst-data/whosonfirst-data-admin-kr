@@ -1,0 +1,70 @@
+{
+  "id": 1209999891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.51476,35.8437,129.51476,35.8437",
+    "geom:latitude":35.8437,
+    "geom:longitude":129.51476,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jeokseongmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11249687,
+    "gn:latitude":35.8437,
+    "gn:longitude":129.51476,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Jeokseongmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc801\uc11d\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249687
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fcbe9676a16df918ad80ddd0e74c45c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1209999891,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209999891,
+    "wof:lastmodified":1537659255,
+    "wof:name":"Jeokseongmaeul",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.51476,
+    35.8437,
+    129.51476,
+    35.8437
+],
+  "geometry": {"coordinates":[129.51476,35.8437],"type":"Point"}
+}

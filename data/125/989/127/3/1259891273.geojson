@@ -1,0 +1,67 @@
+{
+  "id": 1259891273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.70972,35.71,126.70972,35.71",
+    "geom:latitude":35.71,
+    "geom:longitude":126.70972,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taech'o-ri",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885915,
+    "gn:latitude":35.71,
+    "gn:longitude":126.70972,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Taech\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885915
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c7837ed49c2bd969e0a684c578ad8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475783,
+            "locality_id":1259891273,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1259891273,
+    "wof:lastmodified":1536768327,
+    "wof:name":"Taech'o-ri",
+    "wof:parent_id":890475783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.70972,
+    35.71,
+    126.70972,
+    35.71
+],
+  "geometry": {"coordinates":[126.70972,35.71],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327207379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9721,36.68863,127.9721,36.68863",
+    "geom:latitude":36.68863,
+    "geom:longitude":127.9721,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Onnamugol",
+    "gn:country_code":"KR",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839737,
+    "gn:latitude":36.68863,
+    "gn:longitude":127.9721,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Onnamugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc63b\ub098\ubb34\uace8"
+    ],
+    "name:und_x_variant":[
+        "Chimok-tong",
+        "Simok-tong",
+        "Onnamu-kol",
+        "Onnamugol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839737
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"332401627174de8017fca0af823b0202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1327207379,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327207379,
+    "wof:lastmodified":1537656362,
+    "wof:name":"Onnamugol",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9721,
+    36.68863,
+    127.9721,
+    36.68863
+],
+  "geometry": {"coordinates":[127.9721,36.68863],"type":"Point"}
+}

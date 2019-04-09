@@ -1,0 +1,90 @@
+{
+  "id": 85925869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.049936,37.353593,127.049936,37.353593",
+    "geom:latitude":37.353593,
+    "geom:longitude":127.049936,
+    "gn:id":"",
+    "iso:country":"KR",
+    "lbl:latitude":37.353593,
+    "lbl:longitude":127.049936,
+    "mps:latitude":37.353977,
+    "mps:longitude":127.053296,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Dongcheon-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3d9\ucc9c\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uace0\uae30\ub3d9"
+    ],
+    "name:swe_x_preferred":[
+        "Dongcheon-dong"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673191,
+        102191569,
+        85632231,
+        1108746547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28807032,
+        "qs:id":1334695,
+        "qs_pg:id":1334695,
+        "wd:id":"Q16181763"
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1e5e035c2a1393d0044443a7173df556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746547,
+            "locality_id":-1,
+            "neighbourhood_id":85925869,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":85925869,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1553814981,
+    "wof:name":"\ub3d9\ucc9c\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.049936,
+    37.353593,
+    127.049936,
+    37.353593
+],
+  "geometry": {"coordinates":[127.049936,37.353593],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226721273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16414,37.00759,127.16414,37.00759",
+    "geom:latitude":37.00759,
+    "geom:longitude":127.16414,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sangyongdu",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575589,
+    "gn:latitude":37.00759,
+    "gn:longitude":127.16414,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sangyongdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc6a9\ub450"
+    ],
+    "name:kor_x_variant":[
+        "\uc6a9\ub450\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\uc6a9\ub450",
+        "Yongdu",
+        "Sangyongdu",
+        "Yongduri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575589
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4e39c21afcda979bc85cd8eda2ebaeb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1226721273,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226721273,
+    "wof:lastmodified":1537657280,
+    "wof:name":"Sangyongdu",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16414,
+    37.00759,
+    127.16414,
+    37.00759
+],
+  "geometry": {"coordinates":[127.16414,37.00759],"type":"Point"}
+}

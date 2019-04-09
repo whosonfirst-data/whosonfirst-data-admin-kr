@@ -1,0 +1,74 @@
+{
+  "id": 1293376945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4491,37.79708,126.4491,37.79708",
+    "geom:latitude":37.79708,
+    "geom:longitude":126.4491,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kanghwa-gun",
+    "gn:asciiname":"Keunyangori",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948858,
+    "gn:latitude":37.79708,
+    "gn:longitude":126.4491,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Keunyangori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\uc591\uc624\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "K\u2019\u016dnyangori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948858
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9826542eb264c03e2ac11723cf9a7795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1293376945,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1293376945,
+    "wof:lastmodified":1537656965,
+    "wof:name":"Keunyangori",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4491,
+    37.79708,
+    126.4491,
+    37.79708
+],
+  "geometry": {"coordinates":[126.4491,37.79708],"type":"Point"}
+}

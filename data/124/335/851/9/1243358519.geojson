@@ -1,0 +1,67 @@
+{
+  "id": 1243358519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.24,35.26,129.24,35.26",
+    "geom:latitude":35.26,
+    "geom:longitude":129.24,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ich'on",
+    "gn:country_code":"KR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843707,
+    "gn:latitude":35.26,
+    "gn:longitude":129.24,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ich\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ich\u2019\u014fn-ni",
+        "Ich\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843707
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5d793edec5797ff13b73fab760f5313e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243358519,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243358519,
+    "wof:lastmodified":1537656562,
+    "wof:name":"Ich'on",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.24,
+    35.26,
+    129.24,
+    35.26
+],
+  "geometry": {"coordinates":[129.24000000000001,35.26],"type":"Point"}
+}

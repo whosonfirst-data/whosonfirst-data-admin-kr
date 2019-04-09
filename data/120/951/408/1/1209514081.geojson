@@ -1,0 +1,71 @@
+{
+  "id": 1209514081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2885,37.0172,128.2885,37.0172",
+    "geom:latitude":37.0172,
+    "geom:longitude":128.2885,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gwanjuwon",
+    "gn:country_code":"KR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794923,
+    "gn:latitude":37.0172,
+    "gn:longitude":128.2885,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Gwanjuwon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\uc790"
+    ],
+    "name:kor_x_variant":[
+        "\uad00\uc8fc\uc6d0"
+    ],
+    "name:und_x_variant":[
+        "Kwanja",
+        "Gwanjuwon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794923
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0b83db5bfb7ee813548b30056d079fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209514081
+        }
+    ],
+    "wof:id":1209514081,
+    "wof:lastmodified":1537657513,
+    "wof:name":"Gwanjuwon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2885,
+    37.0172,
+    128.2885,
+    37.0172
+],
+  "geometry": {"coordinates":[128.2885,37.0172],"type":"Point"}
+}

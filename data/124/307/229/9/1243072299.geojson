@@ -1,0 +1,76 @@
+{
+  "id": 1243072299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48916,37.04017,127.48916,37.04017",
+    "geom:latitude":37.04017,
+    "geom:longitude":127.48916,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"\u016cms\u014fng-gun",
+    "gn:asciiname":"Dongni",
+    "gn:country_code":"KR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6399030,
+    "gn:latitude":37.04017,
+    "gn:longitude":127.48916,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Dongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Tong-ni",
+        "Dong-ri",
+        "Dongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6399030
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"01b988df3dac021f5c651e16715d10ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1243072299,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243072299,
+    "wof:lastmodified":1537657206,
+    "wof:name":"Dongni",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48916,
+    37.04017,
+    127.48916,
+    37.04017
+],
+  "geometry": {"coordinates":[127.48916,37.04017],"type":"Point"}
+}

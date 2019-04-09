@@ -1,0 +1,76 @@
+{
+  "id": 1192990219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72694,34.59194,126.72694,34.59194",
+    "geom:latitude":34.59194,
+    "geom:longitude":126.72694,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tokch'on",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834572,
+    "gn:latitude":34.59194,
+    "gn:longitude":126.72694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u014fkch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c5\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fkch\u2019on"
+    ],
+    "name:und_x_variant":[
+        "T\u014fkch\u2019on-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834572
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0c53802d2fdfcd1eb29694bb7d2ec8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1192990219,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1192990219,
+    "wof:lastmodified":1537656094,
+    "wof:name":"Tokch'on",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72693999999998,
+    34.59194,
+    126.72693999999998,
+    34.59194
+],
+  "geometry": {"coordinates":[126.72693999999998,34.59194],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209995023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.99,35.10333,128.99,35.10333",
+    "geom:latitude":35.10333,
+    "geom:longitude":128.99,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Koejong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979358,
+    "gn:latitude":35.10333,
+    "gn:longitude":128.99,
+    "gn:modification_date":"2004-05-26",
+    "gn:name":"Koej\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890474617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979358
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a75f56a609ab07f8bebb80a97aa2e6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474617,
+            "locality_id":1209995023,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1209995023,
+    "wof:lastmodified":1536384638,
+    "wof:name":"Koejong-dong",
+    "wof:parent_id":890474617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.99,
+    35.10333,
+    128.99,
+    35.10333
+],
+  "geometry": {"coordinates":[128.99000000000001,35.10333],"type":"Point"}
+}

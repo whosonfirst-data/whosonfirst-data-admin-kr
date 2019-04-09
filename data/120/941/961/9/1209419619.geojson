@@ -1,0 +1,66 @@
+{
+  "id": 1209419619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.65234,36.38411,127.65234,36.38411",
+    "geom:latitude":36.38411,
+    "geom:longitude":127.65234,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Geolpo",
+    "gn:country_code":"KR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884823,
+    "gn:latitude":36.38411,
+    "gn:longitude":127.65234,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Geolpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac78\ud3ec",
+        "K\u014flp\u2019o",
+        "Geolpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884823
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dfabe7da51cfc9bf977dd9c7fcfd7452",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209419619
+        }
+    ],
+    "wof:id":1209419619,
+    "wof:lastmodified":1537658342,
+    "wof:name":"Geolpo",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.65234,
+    36.38411,
+    127.65234,
+    36.38411
+],
+  "geometry": {"coordinates":[127.65234,36.38411],"type":"Point"}
+}

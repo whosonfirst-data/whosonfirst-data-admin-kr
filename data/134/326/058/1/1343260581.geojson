@@ -1,0 +1,73 @@
+{
+  "id": 1343260581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9541,37.1518,127.9541,37.1518",
+    "geom:latitude":37.1518,
+    "geom:longitude":127.9541,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kangsunggaengi",
+    "gn:country_code":"KR",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794454,
+    "gn:latitude":37.1518,
+    "gn:longitude":127.9541,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kangs\u016dnggaengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\uc2b9\uac31\uc774"
+    ],
+    "name:kor_x_variant":[
+        "Kangs\u016dnggaengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794454
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"54d3e904a540e09dc10a6d7a7fa6d78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1343260581,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1343260581,
+    "wof:lastmodified":1537657496,
+    "wof:name":"Kangsunggaengi",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9541,
+    37.1518,
+    127.9541,
+    37.1518
+],
+  "geometry": {"coordinates":[127.9541,37.1518],"type":"Point"}
+}

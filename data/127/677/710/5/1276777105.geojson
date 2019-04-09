@@ -1,0 +1,74 @@
+{
+  "id": 1276777105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77021,33.30341,126.77021,33.30341",
+    "geom:latitude":33.30341,
+    "geom:longitude":126.77021,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Namjeju-gun",
+    "gn:asciiname":"Bomaldong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1929385,
+    "gn:latitude":33.30341,
+    "gn:longitude":126.77021,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bomaldong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ub9d0\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Pomal-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890474633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1929385
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bf7ab7fce96845314213e3a19a08912a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474633,
+            "locality_id":1276777105,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1276777105,
+    "wof:lastmodified":1537656953,
+    "wof:name":"Bomaldong",
+    "wof:parent_id":890474633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77021,
+    33.30341,
+    126.77021,
+    33.30341
+],
+  "geometry": {"coordinates":[126.77021000000001,33.30341],"type":"Point"}
+}

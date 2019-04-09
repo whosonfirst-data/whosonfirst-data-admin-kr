@@ -1,0 +1,71 @@
+{
+  "id": 1243453099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6712,36.3081,127.6712,36.3081",
+    "geom:latitude":36.3081,
+    "geom:longitude":127.6712,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hagum",
+    "gn:country_code":"KR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884895,
+    "gn:latitude":36.3081,
+    "gn:longitude":127.6712,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hag\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\uae08",
+        "Hag\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884895
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b9166f119d19466148a603900e8c0a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1243453099,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243453099,
+    "wof:lastmodified":1537658347,
+    "wof:name":"Hagum",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6712,
+    36.3081,
+    127.6712,
+    36.3081
+],
+  "geometry": {"coordinates":[127.6712,36.3081],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243227629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07306,34.61361,126.07306,34.61361",
+    "geom:latitude":34.61361,
+    "geom:longitude":126.07306,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sangt'aeso-ri",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837582,
+    "gn:latitude":34.61361,
+    "gn:longitude":126.07306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sangt\u2019aes\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u014d-daisei-ri",
+        "Sangt\u2019aes\u014f",
+        "Sangdaes\u014f-ri",
+        "Sangt\u2019aes\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837582
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"71d76877f33051b0ab0ce87d33c131d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1243227629,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243227629,
+    "wof:lastmodified":1537656245,
+    "wof:name":"Sangt'aeso-ri",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07306,
+    34.61360999999999,
+    126.07306,
+    34.61360999999999
+],
+  "geometry": {"coordinates":[126.07306,34.61360999999999],"type":"Point"}
+}

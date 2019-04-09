@@ -1,0 +1,73 @@
+{
+  "id": 1193123445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82222,37.68472,126.82222,37.68472",
+    "geom:latitude":37.68472,
+    "geom:longitude":126.82222,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kyondal",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363694,
+    "gn:latitude":37.68472,
+    "gn:longitude":126.82222,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ky\u014fndal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacac\ub2ec"
+    ],
+    "name:kor_x_variant":[
+        "Ky\u014fndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363694
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"288fdd4524aaa8601b76fe703c190f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746465,
+            "locality_id":1193123445,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193123445,
+    "wof:lastmodified":1537657050,
+    "wof:name":"Kyondal",
+    "wof:parent_id":1108746465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82222,
+    37.68472,
+    126.82222,
+    37.68472
+],
+  "geometry": {"coordinates":[126.82222,37.68472],"type":"Point"}
+}

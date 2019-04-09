@@ -1,0 +1,74 @@
+{
+  "id": 1360086233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6075,35.37806,126.6075,35.37806",
+    "geom:latitude":35.37806,
+    "geom:longitude":126.6075,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885752,
+    "gn:latitude":35.37806,
+    "gn:longitude":126.6075,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Ch\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Jeongdong",
+        "Ch\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885752
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c865d1adcc97e316304a7f45c32fc098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1360086233,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1360086233,
+    "wof:lastmodified":1537656782,
+    "wof:name":"Chong-dong",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6075,
+    35.37806,
+    126.6075,
+    35.37806
+],
+  "geometry": {"coordinates":[126.6075,35.37806],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309870343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.92654,35.57256,127.92654,35.57256",
+    "geom:latitude":35.57256,
+    "geom:longitude":127.92654,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kwan-dong",
+    "gn:country_code":"KR",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901070,
+    "gn:latitude":35.57256,
+    "gn:longitude":127.92654,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad00\ub3d9",
+        "Kwan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901070
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c0a66d67a046ef6bfdcdcbc5b723f53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1309870343,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1309870343,
+    "wof:lastmodified":1537656948,
+    "wof:name":"Kwan-dong",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.92654,
+    35.57256,
+    127.92654,
+    35.57256
+],
+  "geometry": {"coordinates":[127.92654,35.57256],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209400995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69333,37.2525,126.69333,37.2525",
+    "geom:latitude":37.2525,
+    "geom:longitude":126.69333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Munji",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364749,
+    "gn:latitude":37.2525,
+    "gn:longitude":126.69333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Munji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364749
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"60d6bd18d1f5f15d5b11a4215bcef880",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209400995
+        }
+    ],
+    "wof:id":1209400995,
+    "wof:lastmodified":1537657096,
+    "wof:name":"Munji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69333,
+    37.2525,
+    126.69333,
+    37.2525
+],
+  "geometry": {"coordinates":[126.69333,37.2525],"type":"Point"}
+}

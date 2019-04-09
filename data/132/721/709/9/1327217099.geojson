@@ -1,0 +1,70 @@
+{
+  "id": 1327217099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.48966,36.64955,128.48966,36.64955",
+    "geom:latitude":36.64955,
+    "geom:longitude":128.48966,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Burusil",
+    "gn:country_code":"KR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254993,
+    "gn:latitude":36.64955,
+    "gn:longitude":128.48966,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Burusil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd88\uc6b0\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254993
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"865e7acbe8b30fdbc705cc37ced399b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1327217099,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1327217099,
+    "wof:lastmodified":1537659277,
+    "wof:name":"Burusil",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.48966,
+    36.64955,
+    128.48966,
+    36.64955
+],
+  "geometry": {"coordinates":[128.48965999999999,36.64955],"type":"Point"}
+}

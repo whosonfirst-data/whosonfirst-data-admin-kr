@@ -1,0 +1,65 @@
+{
+  "id": 1209398119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.1604,36.3575,129.1604,36.3575",
+    "geom:latitude":36.3575,
+    "geom:longitude":129.1604,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ijon",
+    "gn:country_code":"KR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880914,
+    "gn:latitude":36.3575,
+    "gn:longitude":129.1604,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ij\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ij\u014fn-dong",
+        "Ij\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880914
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"36482abf96d76e906e43b1d8319576ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209398119
+        }
+    ],
+    "wof:id":1209398119,
+    "wof:lastmodified":1537656738,
+    "wof:name":"Ijon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.1604,
+    36.3575,
+    129.1604,
+    36.3575
+],
+  "geometry": {"coordinates":[129.16040000000001,36.3575],"type":"Point"}
+}

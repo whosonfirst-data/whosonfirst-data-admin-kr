@@ -1,0 +1,76 @@
+{
+  "id": 1343553427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9407,37.762,128.9407,37.762",
+    "geom:latitude":37.762,
+    "geom:longitude":128.9407,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Byeongsan",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796218,
+    "gn:latitude":37.762,
+    "gn:longitude":128.9407,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Byeongsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcd1\uc0b0"
+    ],
+    "name:kor_x_variant":[
+        "Py\u014fngsan"
+    ],
+    "name:und_x_variant":[
+        "Py\u014fng-san"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796218
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a50f21fae556f8acd496347add3e6b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1343553427,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343553427,
+    "wof:lastmodified":1537657551,
+    "wof:name":"Byeongsan",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9407,
+    37.762,
+    128.9407,
+    37.762
+],
+  "geometry": {"coordinates":[128.94069999999999,37.762],"type":"Point"}
+}

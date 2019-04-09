@@ -1,0 +1,70 @@
+{
+  "id": 1226743103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37499,37.02555,128.37499,37.02555",
+    "geom:latitude":37.02555,
+    "geom:longitude":128.37499,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yeoune",
+    "gn:country_code":"KR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9130160,
+    "gn:latitude":37.02555,
+    "gn:longitude":128.37499,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Yeoune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ec\uc6b0\ub124"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9130160
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cfaf1ac9d1590829cc3697cdcce90d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1226743103,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226743103,
+    "wof:lastmodified":1537658926,
+    "wof:name":"Yeoune",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37499,
+    37.02555,
+    128.37499,
+    37.02555
+],
+  "geometry": {"coordinates":[128.37499,37.02555],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209598705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.82638,36.01118,128.82638,36.01118",
+    "geom:latitude":36.01118,
+    "geom:longitude":128.82638,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10941414,
+    "gn:latitude":36.01118,
+    "gn:longitude":128.82638,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Jeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10941414
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"983230618ff7393455cae8201a7c3f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209598705
+        }
+    ],
+    "wof:id":1209598705,
+    "wof:lastmodified":1537659096,
+    "wof:name":"Jeongdong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.82638,
+    36.01118,
+    128.82638,
+    36.01118
+],
+  "geometry": {"coordinates":[128.82638,36.01118],"type":"Point"}
+}

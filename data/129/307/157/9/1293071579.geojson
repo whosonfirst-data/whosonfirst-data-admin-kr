@@ -1,0 +1,70 @@
+{
+  "id": 1293071579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.93567,36.65089,128.93567,36.65089",
+    "geom:latitude":36.65089,
+    "geom:longitude":128.93567,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yagok",
+    "gn:country_code":"KR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256582,
+    "gn:latitude":36.65089,
+    "gn:longitude":128.93567,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Yagok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc57d\uc625"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256582
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5121f90bae6ce91a14174c6ba6c7fc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1293071579,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293071579,
+    "wof:lastmodified":1537659298,
+    "wof:name":"Yagok",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.93567,
+    36.65089,
+    128.93567,
+    36.65089
+],
+  "geometry": {"coordinates":[128.93566999999999,36.65089],"type":"Point"}
+}

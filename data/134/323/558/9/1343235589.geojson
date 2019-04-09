@@ -1,0 +1,72 @@
+{
+  "id": 1343235589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.86,37.51,130.86,37.51",
+    "geom:latitude":37.51,
+    "geom:longitude":130.86,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Albong",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847035,
+    "gn:latitude":37.51,
+    "gn:longitude":130.86,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Albong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanbong",
+        "Albong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847035
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b8c41bd3d287474efcf6f5d539b8f883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475357,
+            "locality_id":1343235589,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343235589,
+    "wof:lastmodified":1537656732,
+    "wof:name":"Albong",
+    "wof:parent_id":890475357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.86,
+    37.51,
+    130.86,
+    37.51
+],
+  "geometry": {"coordinates":[130.86000000000001,37.51],"type":"Point"}
+}

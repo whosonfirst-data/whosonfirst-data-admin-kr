@@ -1,0 +1,71 @@
+{
+  "id": 1309870365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.48185,35.2761,128.48185,35.2761",
+    "geom:latitude":35.2761,
+    "geom:longitude":128.48185,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"An-gol",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6898636,
+    "gn:latitude":35.2761,
+    "gn:longitude":128.48185,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"An-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\uace8",
+        "An-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6898636
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d5d85856f1325821b479456fd9884431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474513,
+            "locality_id":1309870365,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1309870365,
+    "wof:lastmodified":1537658726,
+    "wof:name":"An-gol",
+    "wof:parent_id":890474513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.48185,
+    35.2761,
+    128.48185,
+    35.2761
+],
+  "geometry": {"coordinates":[128.48185000000001,35.2761],"type":"Point"}
+}

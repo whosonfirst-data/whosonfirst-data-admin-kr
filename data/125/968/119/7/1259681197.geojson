@@ -1,0 +1,67 @@
+{
+  "id": 1259681197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.21583,37.82056,128.21583,37.82056",
+    "geom:latitude":37.82056,
+    "geom:longitude":128.21583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Migyo",
+    "gn:country_code":"KR",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888886,
+    "gn:latitude":37.82056,
+    "gn:longitude":128.21583,
+    "gn:modification_date":"1996-05-20",
+    "gn:name":"Migyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888886
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1e9a03d2b1f5e825c22b0dd9e848f539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1259681197,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259681197,
+    "wof:lastmodified":1537067399,
+    "wof:name":"Migyo",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.21583,
+    37.82056,
+    128.21583,
+    37.82056
+],
+  "geometry": {"coordinates":[128.21583000000001,37.82056],"type":"Point"}
+}

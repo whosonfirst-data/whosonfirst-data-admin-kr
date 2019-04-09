@@ -1,0 +1,64 @@
+{
+  "id": 1209607355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1695,37.5874,128.1695,37.5874",
+    "geom:latitude":37.5874,
+    "geom:longitude":128.1695,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Murang-gol",
+    "gn:country_code":"KR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815815,
+    "gn:latitude":37.5874,
+    "gn:longitude":128.1695,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Murang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb34\ub791\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815815
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"664096e681e501958f048cd284ddcf96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209607355
+        }
+    ],
+    "wof:id":1209607355,
+    "wof:lastmodified":1537658066,
+    "wof:name":"Murang-gol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1695,
+    37.5874,
+    128.1695,
+    37.5874
+],
+  "geometry": {"coordinates":[128.1695,37.5874],"type":"Point"}
+}

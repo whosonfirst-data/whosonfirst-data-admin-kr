@@ -1,0 +1,64 @@
+{
+  "id": 1209085343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.13028,38.02222,127.13028,38.02222",
+    "geom:latitude":38.02222,
+    "geom:longitude":127.13028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Paegang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839549,
+    "gn:latitude":38.02222,
+    "gn:longitude":127.13028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paegang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paeg\u016di-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839549
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7c59838bf398e1134af4725cc9cb09a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209085343
+        }
+    ],
+    "wof:id":1209085343,
+    "wof:lastmodified":1537656351,
+    "wof:name":"Paegang-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.13028,
+    38.02222,
+    127.13028,
+    38.02222
+],
+  "geometry": {"coordinates":[127.13028,38.02222],"type":"Point"}
+}

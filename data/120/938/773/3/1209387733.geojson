@@ -1,0 +1,66 @@
+{
+  "id": 1209387733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.46074,35.64922,128.46074,35.64922",
+    "geom:latitude":35.64922,
+    "geom:longitude":128.46074,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Wonsan",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901677,
+    "gn:latitude":35.64922,
+    "gn:longitude":128.46074,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Wonsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uc0b0",
+        "W\u014fnsan",
+        "Wonsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901677
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c6c0581042800e3b49cc271379b52aac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209387733
+        }
+    ],
+    "wof:id":1209387733,
+    "wof:lastmodified":1537658791,
+    "wof:name":"Wonsan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.46074,
+    35.64922,
+    128.46074,
+    35.64922
+],
+  "geometry": {"coordinates":[128.46073999999999,35.64922],"type":"Point"}
+}

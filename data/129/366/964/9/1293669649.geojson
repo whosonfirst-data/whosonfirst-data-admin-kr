@@ -1,0 +1,70 @@
+{
+  "id": 1293669649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79528,37.54926,126.79528,37.54926",
+    "geom:latitude":37.54926,
+    "geom:longitude":126.79528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Anmal",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364079,
+    "gn:latitude":37.54926,
+    "gn:longitude":126.79528,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Anmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        1108746457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364079
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5b906508797a04a0f656fe08090655ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746457,
+            "locality_id":1293669649,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1293669649,
+    "wof:lastmodified":1537657067,
+    "wof:name":"Anmal",
+    "wof:parent_id":1108746457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79528,
+    37.54926,
+    126.79528,
+    37.54926
+],
+  "geometry": {"coordinates":[126.79528000000001,37.54926],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360267369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.00929,34.6503,127.00929,34.6503",
+    "geom:latitude":34.6503,
+    "geom:longitude":127.00929,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jangsu",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846358,
+    "gn:latitude":34.6503,
+    "gn:longitude":127.00929,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Jangsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc218"
+    ],
+    "name:und_x_variant":[
+        "Changsu-ri",
+        "Changsu",
+        "Jangsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846358
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8e89e3e2cca35be10b123348bde726f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1360267369,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360267369,
+    "wof:lastmodified":1537656696,
+    "wof:name":"Jangsu",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.00929,
+    34.6503,
+    127.00929,
+    34.6503
+],
+  "geometry": {"coordinates":[127.00928999999999,34.6503],"type":"Point"}
+}

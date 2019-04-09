@@ -1,0 +1,77 @@
+{
+  "id": 1310297289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51252,37.91285,128.51252,37.91285",
+    "geom:latitude":37.91285,
+    "geom:longitude":128.51252,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Binjagol",
+    "gn:country_code":"KR",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817132,
+    "gn:latitude":37.91285,
+    "gn:longitude":128.51252,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Binjagol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ube48\uc9c0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\ube48\uc790\uace8"
+    ],
+    "name:und_x_variant":[
+        "Pinji-dong",
+        "Binjagol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817132
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"677388b17ee0ade784ef759224ded17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1310297289,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310297289,
+    "wof:lastmodified":1537658111,
+    "wof:name":"Binjagol",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51252,
+    37.91285,
+    128.51252,
+    37.91285
+],
+  "geometry": {"coordinates":[128.51251999999999,37.91285],"type":"Point"}
+}

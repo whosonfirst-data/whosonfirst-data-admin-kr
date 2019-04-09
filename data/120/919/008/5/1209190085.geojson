@@ -1,0 +1,64 @@
+{
+  "id": 1209190085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71697,35.1619,126.71697,35.1619",
+    "geom:latitude":35.1619,
+    "geom:longitude":126.71697,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sedong",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171264,
+    "gn:latitude":35.1619,
+    "gn:longitude":126.71697,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Sedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc138\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171264
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"545f31a0093d97b09444c07e6b7e4011",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209190085
+        }
+    ],
+    "wof:id":1209190085,
+    "wof:lastmodified":1537659203,
+    "wof:name":"Sedong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71697,
+    35.1619,
+    126.71697,
+    35.1619
+],
+  "geometry": {"coordinates":[126.71697,35.1619],"type":"Point"}
+}

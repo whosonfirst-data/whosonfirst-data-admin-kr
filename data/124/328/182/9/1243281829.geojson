@@ -1,0 +1,67 @@
+{
+  "id": 1243281829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33333,34.5,127.33333,34.5",
+    "geom:latitude":34.5,
+    "geom:longitude":127.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tanggon",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834900,
+    "gn:latitude":34.5,
+    "gn:longitude":127.33333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Tanggon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834900
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f2a85ee4c71a1e6520d8824e1df217c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473037,
+            "locality_id":1243281829,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243281829,
+    "wof:lastmodified":1537041111,
+    "wof:name":"Tanggon",
+    "wof:parent_id":890473037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33333,
+    34.5,
+    127.33333,
+    34.5
+],
+  "geometry": {"coordinates":[127.33333,34.5],"type":"Point"}
+}

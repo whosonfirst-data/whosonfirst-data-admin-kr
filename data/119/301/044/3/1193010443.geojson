@@ -1,0 +1,70 @@
+{
+  "id": 1193010443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29092,38.0075,128.29092,38.0075",
+    "geom:latitude":38.0075,
+    "geom:longitude":128.29092,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hadap",
+    "gn:country_code":"KR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988692,
+    "gn:latitude":38.0075,
+    "gn:longitude":128.29092,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Hadap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub2f5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988692
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0d717fa5a8a2ff5a8fe3d08701579bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1193010443,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1193010443,
+    "wof:lastmodified":1537656990,
+    "wof:name":"Hadap",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29092,
+    38.0075,
+    128.29092,
+    38.0075
+],
+  "geometry": {"coordinates":[128.29092,38.0075],"type":"Point"}
+}

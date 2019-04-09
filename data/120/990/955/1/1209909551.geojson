@@ -1,0 +1,71 @@
+{
+  "id": 1209909551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.957,36.1554,127.957,36.1554",
+    "geom:latitude":36.1554,
+    "geom:longitude":127.957,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"T'ungjom",
+    "gn:country_code":"KR",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6891782,
+    "gn:latitude":36.1554,
+    "gn:longitude":127.957,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019ungj\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud241\uc810",
+        "T\u2019ungj\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6891782
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"77098aa287dc04dcbf4b7145fd628658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473559,
+            "locality_id":1209909551,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1209909551,
+    "wof:lastmodified":1537658523,
+    "wof:name":"T'ungjom",
+    "wof:parent_id":890473559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.957,
+    36.1554,
+    127.957,
+    36.1554
+],
+  "geometry": {"coordinates":[127.95699999999999,36.1554],"type":"Point"}
+}

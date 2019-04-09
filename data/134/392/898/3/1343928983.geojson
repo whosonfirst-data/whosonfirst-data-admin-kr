@@ -1,0 +1,72 @@
+{
+  "id": 1343928983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36833,37.33111,127.36833,37.33111",
+    "geom:latitude":37.33111,
+    "geom:longitude":127.36833,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Myeongsin-chon",
+    "gn:country_code":"KR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577530,
+    "gn:latitude":37.33111,
+    "gn:longitude":127.36833,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Myeongsin-chon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba85\uc2e0\ucd0c",
+        "Myeongsin-chon",
+        "My\u014fngsin-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577530
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fe2045a09a083d44f79e8acc0b5052bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1343928983,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343928983,
+    "wof:lastmodified":1537657371,
+    "wof:name":"Myeongsin-chon",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36833,
+    37.33111,
+    127.36833,
+    37.33111
+],
+  "geometry": {"coordinates":[127.36833,37.33111],"type":"Point"}
+}

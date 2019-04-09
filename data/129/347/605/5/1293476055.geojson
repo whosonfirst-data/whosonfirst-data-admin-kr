@@ -1,0 +1,74 @@
+{
+  "id": 1293476055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22028,37.49611,127.22028,37.49611",
+    "geom:latitude":37.49611,
+    "geom:longitude":127.22028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Majangi",
+    "gn:country_code":"KR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577184,
+    "gn:latitude":37.49611,
+    "gn:longitude":127.22028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Majangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc7a5\uc774"
+    ],
+    "name:und_x_variant":[
+        "\ub9c8\uc7a5\uc774",
+        "Majangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890473295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577184
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6a7caaf7e90f74851fa58eae19ed7136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473295,
+            "locality_id":1293476055,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293476055,
+    "wof:lastmodified":1537657348,
+    "wof:name":"Majangi",
+    "wof:parent_id":890473295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22028,
+    37.49611,
+    127.22028,
+    37.49611
+],
+  "geometry": {"coordinates":[127.22028,37.49611],"type":"Point"}
+}

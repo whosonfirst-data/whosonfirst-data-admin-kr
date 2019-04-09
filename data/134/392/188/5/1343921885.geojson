@@ -1,0 +1,75 @@
+{
+  "id": 1343921885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91028,34.50556,126.91028,34.50556",
+    "geom:latitude":34.50556,
+    "geom:longitude":126.91028,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sanoe",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837508,
+    "gn:latitude":34.50556,
+    "gn:longitude":126.91028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ub1cc"
+    ],
+    "name:und_x_variant":[
+        "Sandong-ni",
+        "Sanoe-dong",
+        "Sanoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837508
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"47e458ae9a1aa43a18a19d4a1ee4a60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1343921885,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343921885,
+    "wof:lastmodified":1537656240,
+    "wof:name":"Sanoe",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91028,
+    34.50556,
+    126.91028,
+    34.50556
+],
+  "geometry": {"coordinates":[126.91028,34.50556],"type":"Point"}
+}

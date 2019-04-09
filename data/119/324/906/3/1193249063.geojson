@@ -1,0 +1,71 @@
+{
+  "id": 1193249063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2702,36.0388,128.2702,36.0388",
+    "geom:latitude":36.0388,
+    "geom:longitude":128.2702,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kwangsan",
+    "gn:country_code":"KR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6891546,
+    "gn:latitude":36.0388,
+    "gn:longitude":128.2702,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kwangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad11\uc0b0",
+        "Kwangsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6891546
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"95ac55216a7a049a6d9224346ad3491a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473191,
+            "locality_id":1193249063,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193249063,
+    "wof:lastmodified":1537658511,
+    "wof:name":"Kwangsan",
+    "wof:parent_id":890473191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2702,
+    36.0388,
+    128.2702,
+    36.0388
+],
+  "geometry": {"coordinates":[128.27019999999999,36.0388],"type":"Point"}
+}

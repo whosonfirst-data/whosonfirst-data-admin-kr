@@ -1,0 +1,75 @@
+{
+  "id": 1343232723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31095,36.71456,128.31095,36.71456",
+    "geom:latitude":36.71456,
+    "geom:longitude":128.31095,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dolmori",
+    "gn:country_code":"KR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834422,
+    "gn:latitude":36.71456,
+    "gn:longitude":128.31095,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Dolmori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3cc\ubaa8\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "S\u014fkp\u2019y\u014fng-ni",
+        "Tolm\u014f-ri",
+        "Dolmori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834422
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"57fa4a3a458da1053b84e9d1b9c6cbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1343232723,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343232723,
+    "wof:lastmodified":1537656084,
+    "wof:name":"Dolmori",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31095,
+    36.71456,
+    128.31095,
+    36.71456
+],
+  "geometry": {"coordinates":[128.31094999999999,36.71456],"type":"Point"}
+}

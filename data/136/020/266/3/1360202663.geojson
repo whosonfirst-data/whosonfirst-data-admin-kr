@@ -1,0 +1,75 @@
+{
+  "id": 1360202663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.60555,35.20799,126.60555,35.20799",
+    "geom:latitude":35.20799,
+    "geom:longitude":126.60555,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Banghwa",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839311,
+    "gn:latitude":35.20799,
+    "gn:longitude":126.60555,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Banghwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\ud654"
+    ],
+    "name:und_x_variant":[
+        "Pangha-ri",
+        "Pangha-dong",
+        "Banghwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890476213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839311
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"11251a078f6714c460ed6f1c8cd1a11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476213,
+            "locality_id":1360202663,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360202663,
+    "wof:lastmodified":1537656338,
+    "wof:name":"Banghwa",
+    "wof:parent_id":890476213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.60555,
+    35.20799,
+    126.60555,
+    35.20799
+],
+  "geometry": {"coordinates":[126.60554999999999,35.20799],"type":"Point"}
+}

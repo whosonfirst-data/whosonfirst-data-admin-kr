@@ -1,0 +1,75 @@
+{
+  "id": 1225905855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34331,35.57494,128.34331,35.57494",
+    "geom:latitude":35.57494,
+    "geom:longitude":128.34331,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Maljeong",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901840,
+    "gn:latitude":35.57494,
+    "gn:longitude":128.34331,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Maljeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9d0\uc815"
+    ],
+    "name:und_x_variant":[
+        "\ub9e1\uc815",
+        "Match\u014fng",
+        "Maljeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901840
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"82488c886d58fdb94ebb5a21f5d613e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1225905855,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1225905855,
+    "wof:lastmodified":1537658802,
+    "wof:name":"Maljeong",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34331,
+    35.57494000000001,
+    128.34331,
+    35.57494000000001
+],
+  "geometry": {"coordinates":[128.34331,35.57494000000001],"type":"Point"}
+}

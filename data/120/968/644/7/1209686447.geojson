@@ -1,0 +1,64 @@
+{
+  "id": 1209686447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.38453,36.63049,128.38453,36.63049",
+    "geom:latitude":36.63049,
+    "geom:longitude":128.38453,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gasan",
+    "gn:country_code":"KR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254429,
+    "gn:latitude":36.63049,
+    "gn:longitude":128.38453,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Gasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254429
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"630f9e596befed2cb1a061a2c1966dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209686447
+        }
+    ],
+    "wof:id":1209686447,
+    "wof:lastmodified":1537659271,
+    "wof:name":"Gasan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.38453,
+    36.63049,
+    128.38453,
+    36.63049
+],
+  "geometry": {"coordinates":[128.38453000000001,36.63049],"type":"Point"}
+}

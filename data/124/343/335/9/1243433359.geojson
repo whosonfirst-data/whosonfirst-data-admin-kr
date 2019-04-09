@@ -1,0 +1,73 @@
+{
+  "id": 1243433359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.51116,37.25083,127.51116,37.25083",
+    "geom:latitude":37.25083,
+    "geom:longitude":127.51116,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gasanri",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6812561,
+    "gn:latitude":37.25083,
+    "gn:longitude":127.51116,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gasanri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc0b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kasal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812561
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1106da09677ada854697dec8a8376a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1243433359,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243433359,
+    "wof:lastmodified":1537657971,
+    "wof:name":"Gasanri",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.51116,
+    37.25083,
+    127.51116,
+    37.25083
+],
+  "geometry": {"coordinates":[127.51116,37.25083],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243345523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64889,34.19194,126.64889,34.19194",
+    "geom:latitude":34.19194,
+    "geom:longitude":126.64889,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Worhang",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832998,
+    "gn:latitude":34.19194,
+    "gn:longitude":126.64889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u014frhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\ud56d"
+    ],
+    "name:kor_x_variant":[
+        "W\u014frhang"
+    ],
+    "name:und_x_variant":[
+        "W\u014frhang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832998
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d44e4d79c6e5eaea6b699a7dcea14b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1243345523,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243345523,
+    "wof:lastmodified":1537656005,
+    "wof:name":"Worhang",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64889,
+    34.19194,
+    126.64889,
+    34.19194
+],
+  "geometry": {"coordinates":[126.64888999999999,34.19194],"type":"Point"}
+}

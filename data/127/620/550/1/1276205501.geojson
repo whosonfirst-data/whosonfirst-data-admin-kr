@@ -1,0 +1,70 @@
+{
+  "id": 1276205501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04891,37.85546,127.04891,37.85546",
+    "geom:latitude":37.85546,
+    "geom:longitude":127.04891,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Oechon",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8613918,
+    "gn:latitude":37.85546,
+    "gn:longitude":127.04891,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Oechon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc678\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8613918
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"364c41270a791ed11c834e29f6fe94da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1276205501,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276205501,
+    "wof:lastmodified":1537658900,
+    "wof:name":"Oechon",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04891,
+    37.85546,
+    127.04891,
+    37.85546
+],
+  "geometry": {"coordinates":[127.04891000000001,37.85546],"type":"Point"}
+}

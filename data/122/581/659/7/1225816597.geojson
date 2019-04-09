@@ -1,0 +1,73 @@
+{
+  "id": 1225816597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81917,37.125,126.81917,37.125",
+    "geom:latitude":37.125,
+    "geom:longitude":126.81917,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gusul",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364465,
+    "gn:latitude":37.125,
+    "gn:longitude":126.81917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gus\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc2ac"
+    ],
+    "name:kor_x_variant":[
+        "Gus\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364465
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"720b17e1349357ded7d0cf239c8abb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1225816597,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1225816597,
+    "wof:lastmodified":1537657083,
+    "wof:name":"Gusul",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81917,
+    37.125,
+    126.81917,
+    37.125
+],
+  "geometry": {"coordinates":[126.81917,37.125],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343956693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.72389,36.62028,127.72389,36.62028",
+    "geom:latitude":36.62028,
+    "geom:longitude":127.72389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kumgwal-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842245,
+    "gn:latitude":36.62028,
+    "gn:longitude":127.72389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u016dmgwal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016dmgwan-ri",
+        "K\u016dmgwan-ni",
+        "K\u016dmgwal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842245
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5025f8c3b2cdd6bb0808077d4158456a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1343956693,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1343956693,
+    "wof:lastmodified":1537656486,
+    "wof:name":"Kumgwal-li",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.72389,
+    36.62028,
+    127.72389,
+    36.62028
+],
+  "geometry": {"coordinates":[127.72389,36.62028],"type":"Point"}
+}

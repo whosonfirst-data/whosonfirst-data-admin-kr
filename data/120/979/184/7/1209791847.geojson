@@ -1,0 +1,71 @@
+{
+  "id": 1209791847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9911,36.4947,126.9911,36.4947",
+    "geom:latitude":36.4947,
+    "geom:longitude":126.9911,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Osondae",
+    "gn:country_code":"KR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839626,
+    "gn:latitude":36.4947,
+    "gn:longitude":126.9911,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Os\u014fndae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\uc120\ub300",
+        "Os\u014fndae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839626
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"df6378bfa0ab45db67ae00b47dcc20d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1209791847,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1209791847,
+    "wof:lastmodified":1537656355,
+    "wof:name":"Osondae",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9911,
+    36.4947,
+    126.9911,
+    36.4947
+],
+  "geometry": {"coordinates":[126.9911,36.4947],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343333497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93631,35.30863,126.93631,35.30863",
+    "geom:latitude":35.30863,
+    "geom:longitude":126.93631,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seodang",
+    "gn:country_code":"KR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170616,
+    "gn:latitude":35.30863,
+    "gn:longitude":126.93631,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seodang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\ub2f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170616
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cd3eaf459d77c9da2e3b13da22416a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1343333497,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343333497,
+    "wof:lastmodified":1537659191,
+    "wof:name":"Seodang",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93631,
+    35.30863,
+    126.93631,
+    35.30863
+],
+  "geometry": {"coordinates":[126.93631000000001,35.30863],"type":"Point"}
+}

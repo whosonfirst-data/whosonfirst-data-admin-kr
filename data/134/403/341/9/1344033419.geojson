@@ -1,0 +1,70 @@
+{
+  "id": 1344033419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6876,35.14716,126.6876,35.14716",
+    "geom:latitude":35.14716,
+    "geom:longitude":126.6876,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gwangam",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171187,
+    "gn:latitude":35.14716,
+    "gn:longitude":126.6876,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gwangam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad11\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171187
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7b8861c98c744425093690d73b9dd857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473197,
+            "locality_id":1344033419,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1344033419,
+    "wof:lastmodified":1537659201,
+    "wof:name":"Gwangam",
+    "wof:parent_id":890473197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6876,
+    35.14716,
+    126.6876,
+    35.14716
+],
+  "geometry": {"coordinates":[126.6876,35.14716],"type":"Point"}
+}

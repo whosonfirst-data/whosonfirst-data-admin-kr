@@ -1,0 +1,70 @@
+{
+  "id": 1243437605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.69364,36.59445,128.69364,36.59445",
+    "geom:latitude":36.59445,
+    "geom:longitude":128.69364,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jikgok",
+    "gn:country_code":"KR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272240,
+    "gn:latitude":36.59445,
+    "gn:longitude":128.69364,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Jikgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c1\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272240
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"30d64f721b34edbbe75afb3e2201405e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1243437605,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243437605,
+    "wof:lastmodified":1537659317,
+    "wof:name":"Jikgok",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.69364,
+    36.59445,
+    128.69364,
+    36.59445
+],
+  "geometry": {"coordinates":[128.69363999999999,36.59445],"type":"Point"}
+}

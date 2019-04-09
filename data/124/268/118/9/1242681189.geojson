@@ -1,0 +1,67 @@
+{
+  "id": 1242681189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49083,33.51833,126.49083,33.51833",
+    "geom:latitude":33.51833,
+    "geom:longitude":126.49083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oyong",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194193,
+    "gn:latitude":33.51833,
+    "gn:longitude":126.49083,
+    "gn:modification_date":"2006-02-03",
+    "gn:name":"\u014ey\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194193
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5691d89907bc3b75549eaea6010fc4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1242681189,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1242681189,
+    "wof:lastmodified":1536915016,
+    "wof:name":"Oyong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49083,
+    33.51833,
+    126.49083,
+    33.51833
+],
+  "geometry": {"coordinates":[126.49083,33.51833],"type":"Point"}
+}

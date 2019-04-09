@@ -1,0 +1,70 @@
+{
+  "id": 1343939837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71023,35.01242,126.71023,35.01242",
+    "geom:latitude":35.01242,
+    "geom:longitude":126.71023,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Naengsan",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180259,
+    "gn:latitude":35.01242,
+    "gn:longitude":126.71023,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Naengsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0c9\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180259
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6ab1a33614acca380cf168b301a4afd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1343939837,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343939837,
+    "wof:lastmodified":1537659217,
+    "wof:name":"Naengsan",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71023,
+    35.01242,
+    126.71023,
+    35.01242
+],
+  "geometry": {"coordinates":[126.71023,35.01242],"type":"Point"}
+}

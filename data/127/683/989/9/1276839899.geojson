@@ -1,0 +1,75 @@
+{
+  "id": 1276839899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.35934,35.70061,128.35934,35.70061",
+    "geom:latitude":35.70061,
+    "geom:longitude":128.35934,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gaengbyeon",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901534,
+    "gn:latitude":35.70061,
+    "gn:longitude":128.35934,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Gaengbyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac31\ubcc0"
+    ],
+    "name:und_x_variant":[
+        "\uc717\uac15\ubcc0",
+        "Wikkangby\u014fn",
+        "Gaengbyeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901534
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9cabd661a7d86a8cf55fd52069133726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1276839899,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1276839899,
+    "wof:lastmodified":1537658783,
+    "wof:name":"Gaengbyeon",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.35934,
+    35.70061,
+    128.35934,
+    35.70061
+],
+  "geometry": {"coordinates":[128.35934,35.70061],"type":"Point"}
+}

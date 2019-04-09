@@ -1,0 +1,71 @@
+{
+  "id": 1293655687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9273,36.463,126.9273,36.463",
+    "geom:latitude":36.463,
+    "geom:longitude":126.9273,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"T'o-dong",
+    "gn:country_code":"KR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6882552,
+    "gn:latitude":36.463,
+    "gn:longitude":126.9273,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019o-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud1a0\ub3d9",
+        "T\u2019o-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6882552
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6e54b6e05bcad2e5bf2dfed78d586ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1293655687,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293655687,
+    "wof:lastmodified":1537658252,
+    "wof:name":"T'o-dong",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9273,
+    36.463,
+    126.9273,
+    36.463
+],
+  "geometry": {"coordinates":[126.9273,36.463],"type":"Point"}
+}

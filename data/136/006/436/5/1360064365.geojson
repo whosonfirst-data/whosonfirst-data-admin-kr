@@ -1,0 +1,74 @@
+{
+  "id": 1360064365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25889,37.22194,127.25889,37.22194",
+    "geom:latitude":37.22194,
+    "geom:longitude":127.25889,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Songmul-li",
+    "gn:country_code":"KR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6398650,
+    "gn:latitude":37.22194,
+    "gn:longitude":127.25889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songmul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\ubb38\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Songmun-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398650
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"34f06f0f344a610cbb8061eedd4c7a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1360064365,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1360064365,
+    "wof:lastmodified":1537657182,
+    "wof:name":"Songmul-li",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25889,
+    37.22194,
+    127.25889,
+    37.22194
+],
+  "geometry": {"coordinates":[127.25888999999999,37.22194],"type":"Point"}
+}

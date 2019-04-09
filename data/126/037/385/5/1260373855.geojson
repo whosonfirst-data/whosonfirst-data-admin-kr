@@ -1,0 +1,70 @@
+{
+  "id": 1260373855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.28989,36.64542,128.28989,36.64542",
+    "geom:latitude":36.64542,
+    "geom:longitude":128.28989,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hyeongcheon",
+    "gn:country_code":"KR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254073,
+    "gn:latitude":36.64542,
+    "gn:longitude":128.28989,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Hyeongcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud615\ucc9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254073
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"88af407e5bf99f7cd063fb48ee1fb1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1260373855,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260373855,
+    "wof:lastmodified":1537659267,
+    "wof:name":"Hyeongcheon",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.28989,
+    36.64542,
+    128.28989,
+    36.64542
+],
+  "geometry": {"coordinates":[128.28989000000001,36.64542],"type":"Point"}
+}

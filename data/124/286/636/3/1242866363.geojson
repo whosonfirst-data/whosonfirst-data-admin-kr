@@ -1,0 +1,73 @@
+{
+  "id": 1242866363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76143,37.94841,128.76143,37.94841",
+    "geom:latitude":37.94841,
+    "geom:longitude":128.76143,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"P'omae-ri",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6795998,
+    "gn:latitude":37.94841,
+    "gn:longitude":128.76143,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u2019omae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3ec\ub9e4\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019omae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795998
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c349430b46b1ca3d6bf5f7fb0857b125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475963,
+            "locality_id":1242866363,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242866363,
+    "wof:lastmodified":1537657544,
+    "wof:name":"P'omae-ri",
+    "wof:parent_id":890475963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76143000000002,
+    37.94841,
+    128.76143000000002,
+    37.94841
+],
+  "geometry": {"coordinates":[128.76143000000002,37.94841],"type":"Point"}
+}

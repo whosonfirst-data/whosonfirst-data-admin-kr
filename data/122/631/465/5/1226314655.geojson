@@ -1,0 +1,75 @@
+{
+  "id": 1226314655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5,34.78333,126.5,34.78333",
+    "geom:latitude":34.78333,
+    "geom:longitude":126.5,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Binochon",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839144,
+    "gn:latitude":34.78333,
+    "gn:longitude":126.5,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Binochon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ube44\ub178\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Pinoch\u2019on",
+        "Piroch\u2019on",
+        "Binochon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839144
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b31b9d4599d138e1623577c12ee3ac63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1226314655,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226314655,
+    "wof:lastmodified":1537656328,
+    "wof:name":"Binochon",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5,
+    34.78333,
+    126.5,
+    34.78333
+],
+  "geometry": {"coordinates":[126.5,34.78333],"type":"Point"}
+}

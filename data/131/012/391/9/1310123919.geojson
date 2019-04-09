@@ -1,0 +1,74 @@
+{
+  "id": 1310123919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.27475,35.13438,126.27475,35.13438",
+    "geom:latitude":35.13438,
+    "geom:longitude":126.27475,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sinsa",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836887,
+    "gn:latitude":35.13438,
+    "gn:longitude":126.27475,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Sinsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc0ac"
+    ],
+    "name:und_x_variant":[
+        "Sinsa-dong",
+        "Sinsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836887
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be1932491b85280c7e7e950e6f903594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1310123919,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310123919,
+    "wof:lastmodified":1537656208,
+    "wof:name":"Sinsa",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.27475,
+    35.13438,
+    126.27475,
+    35.13438
+],
+  "geometry": {"coordinates":[126.27475,35.13438],"type":"Point"}
+}

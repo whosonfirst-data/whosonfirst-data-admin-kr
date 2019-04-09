@@ -1,0 +1,75 @@
+{
+  "id": 1276733669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.10089,37.83325,127.10089,37.83325",
+    "geom:latitude":37.83325,
+    "geom:longitude":127.10089,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mojeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799776,
+    "gn:latitude":37.83325,
+    "gn:longitude":127.10089,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Mojeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa8\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\ubaa8\uc815",
+        "Moj\u014fng",
+        "Mojeongdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799776
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"119a57f46e081b09c2aa83fe6a8e7011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475429,
+            "locality_id":1276733669,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276733669,
+    "wof:lastmodified":1537657658,
+    "wof:name":"Mojeongdong",
+    "wof:parent_id":890475429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.10089,
+    37.83325,
+    127.10089,
+    37.83325
+],
+  "geometry": {"coordinates":[127.10089000000001,37.83325],"type":"Point"}
+}

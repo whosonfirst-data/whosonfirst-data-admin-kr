@@ -1,0 +1,71 @@
+{
+  "id": 1276617427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.005,36.3498,127.005,36.3498",
+    "geom:latitude":36.3498,
+    "geom:longitude":127.005,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Summit",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883152,
+    "gn:latitude":36.3498,
+    "gn:longitude":127.005,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Summit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc232\ubc11",
+        "Summit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883152
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96aebccb61208e96e43cc81428e9533e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1276617427,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1276617427,
+    "wof:lastmodified":1537658280,
+    "wof:name":"Summit",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.005,
+    36.3498,
+    127.005,
+    36.3498
+],
+  "geometry": {"coordinates":[127.005,36.3498],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260271677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.86278,35.12556,128.86278,35.12556",
+    "geom:latitude":35.12556,
+    "geom:longitude":128.86278,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kurang",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842001,
+    "gn:latitude":35.12556,
+    "gn:longitude":128.86278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kurang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurang-ni",
+        "Kurang-ri",
+        "Kurang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842001
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5329c0695933fb2e99e7b51bfe7b3bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1260271677,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1260271677,
+    "wof:lastmodified":1537656474,
+    "wof:name":"Kurang",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.86278,
+    35.12556,
+    128.86278,
+    35.12556
+],
+  "geometry": {"coordinates":[128.86277999999999,35.12556],"type":"Point"}
+}

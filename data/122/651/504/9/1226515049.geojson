@@ -1,0 +1,70 @@
+{
+  "id": 1226515049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6899,35.95571,128.6899,35.95571",
+    "geom:latitude":35.95571,
+    "geom:longitude":128.6899,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jangteo",
+    "gn:country_code":"KR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10987656,
+    "gn:latitude":35.95571,
+    "gn:longitude":128.6899,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Jangteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10987656
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d0ab61bd8377363ebccacbfd2b2c65e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1226515049,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1226515049,
+    "wof:lastmodified":1537659101,
+    "wof:name":"Jangteo",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6899,
+    35.95571,
+    128.6899,
+    35.95571
+],
+  "geometry": {"coordinates":[128.68989999999999,35.95571],"type":"Point"}
+}

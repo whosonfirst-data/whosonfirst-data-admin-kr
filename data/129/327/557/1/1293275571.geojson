@@ -1,0 +1,70 @@
+{
+  "id": 1293275571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36861,35.61758,128.36861,35.61758",
+    "geom:latitude":35.61758,
+    "geom:longitude":128.36861,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jeongteo",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11040250,
+    "gn:latitude":35.61758,
+    "gn:longitude":128.36861,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Jeongteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11040250
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"17f77b5a6723f421d4b86a7d9df59773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1293275571,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293275571,
+    "wof:lastmodified":1537659118,
+    "wof:name":"Jeongteo",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36861000000002,
+    35.61758,
+    128.36861000000002,
+    35.61758
+],
+  "geometry": {"coordinates":[128.36861000000002,35.61758],"type":"Point"}
+}

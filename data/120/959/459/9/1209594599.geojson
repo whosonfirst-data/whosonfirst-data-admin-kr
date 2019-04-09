@@ -1,0 +1,65 @@
+{
+  "id": 1209594599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22778,37.43667,127.22778,37.43667",
+    "geom:latitude":37.43667,
+    "geom:longitude":127.22778,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Saeogae",
+    "gn:country_code":"KR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577259,
+    "gn:latitude":37.43667,
+    "gn:longitude":127.22778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saeogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c8\uc624\uac1c",
+        "Saeogae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577259
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be28ce2bd958e67409fc0fc4f38ea45b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209594599
+        }
+    ],
+    "wof:id":1209594599,
+    "wof:lastmodified":1537657352,
+    "wof:name":"Saeogae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22778,
+    37.43667,
+    127.22778,
+    37.43667
+],
+  "geometry": {"coordinates":[127.22778,37.43667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343783789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04224,37.90795,128.04224,37.90795",
+    "geom:latitude":37.90795,
+    "geom:longitude":128.04224,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Eogumal",
+    "gn:country_code":"KR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839915,
+    "gn:latitude":37.90795,
+    "gn:longitude":128.04224,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Eogumal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\uad6c\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "\u014egu-mal"
+    ],
+    "name:und_x_variant":[
+        "\u014egumai",
+        "\u014eguch\u2019on",
+        "Ok\u014dson",
+        "Eogumal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839915
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc3083534a38e9fc6cc03e1c16d8bbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1343783789,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343783789,
+    "wof:lastmodified":1537656369,
+    "wof:name":"Eogumal",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04224,
+    37.90795,
+    128.04224,
+    37.90795
+],
+  "geometry": {"coordinates":[128.04223999999999,37.90795],"type":"Point"}
+}

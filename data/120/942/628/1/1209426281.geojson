@@ -1,0 +1,65 @@
+{
+  "id": 1209426281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15864,35.90495,127.15864,35.90495",
+    "geom:latitude":35.90495,
+    "geom:longitude":127.15864,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sin'gang",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877963,
+    "gn:latitude":35.90495,
+    "gn:longitude":127.15864,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sin\u2019gang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\uac15",
+        "Sin\u2019gang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877963
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee400e70fa96bd9e5c9d072dc5b3a7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209426281
+        }
+    ],
+    "wof:id":1209426281,
+    "wof:lastmodified":1537658180,
+    "wof:name":"Sin'gang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15864,
+    35.90495,
+    127.15864,
+    35.90495
+],
+  "geometry": {"coordinates":[127.15864000000001,35.90495],"type":"Point"}
+}

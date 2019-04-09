@@ -1,0 +1,73 @@
+{
+  "id": 1242846219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42968,34.85466,126.42968,34.85466",
+    "geom:latitude":34.85466,
+    "geom:longitude":126.42968,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seoksan",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836545,
+    "gn:latitude":34.85466,
+    "gn:longitude":126.42968,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Seoksan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "S\u014fkch\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836545
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1a26bbe8cebca367502a14454503f023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1242846219,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242846219,
+    "wof:lastmodified":1537656193,
+    "wof:name":"Seoksan",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42968,
+    34.85466,
+    126.42968,
+    34.85466
+],
+  "geometry": {"coordinates":[126.42968,34.85466],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343725953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73369,34.95667,126.73369,34.95667",
+    "geom:latitude":34.95667,
+    "geom:longitude":126.73369,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Buchi",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838718,
+    "gn:latitude":34.95667,
+    "gn:longitude":126.73369,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Buchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\uce58"
+    ],
+    "name:und_x_variant":[
+        "Puch\u2019i-ri",
+        "Puch\u2019i",
+        "Buchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838718
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"986a48080d76505169faa324b2b9fdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1343725953,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343725953,
+    "wof:lastmodified":1537656306,
+    "wof:name":"Buchi",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73369,
+    34.95667,
+    126.73369,
+    34.95667
+],
+  "geometry": {"coordinates":[126.73369,34.95667],"type":"Point"}
+}

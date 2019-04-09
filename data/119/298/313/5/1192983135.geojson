@@ -1,0 +1,71 @@
+{
+  "id": 1192983135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2657,35.6363,128.2657,35.6363",
+    "geom:latitude":35.6363,
+    "geom:longitude":128.2657,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pakkok",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901688,
+    "gn:latitude":35.6363,
+    "gn:longitude":128.2657,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pakkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc15\uace1",
+        "Pakkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901688
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5e7f8b141c11b6f7faee046df9fef7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1192983135,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1192983135,
+    "wof:lastmodified":1537658792,
+    "wof:name":"Pakkok",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2657,
+    35.6363,
+    128.2657,
+    35.6363
+],
+  "geometry": {"coordinates":[128.26570000000001,35.6363],"type":"Point"}
+}

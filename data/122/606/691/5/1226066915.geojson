@@ -1,0 +1,73 @@
+{
+  "id": 1226066915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0178,37.8461,128.0178,37.8461",
+    "geom:latitude":37.8461,
+    "geom:longitude":128.0178,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cheongam",
+    "gn:country_code":"KR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6815382,
+    "gn:latitude":37.8461,
+    "gn:longitude":128.0178,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Cheongam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc9c\uac10"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019\u014fn\u2019gam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6815382
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bdfb030302c6ec9e9792f3a8785c717d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1226066915,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226066915,
+    "wof:lastmodified":1537658051,
+    "wof:name":"Cheongam",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0178,
+    37.8461,
+    128.0178,
+    37.8461
+],
+  "geometry": {"coordinates":[128.01779999999999,37.8461],"type":"Point"}
+}

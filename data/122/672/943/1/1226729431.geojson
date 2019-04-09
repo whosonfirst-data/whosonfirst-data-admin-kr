@@ -1,0 +1,70 @@
+{
+  "id": 1226729431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42896,37.53191,126.42896,37.53191",
+    "geom:latitude":37.53191,
+    "geom:longitude":126.42896,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hadong",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227267,
+    "gn:latitude":37.53191,
+    "gn:longitude":126.42896,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Hadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890473555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227267
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8a3c68f7845c0c9ccbc15e1390a6d4f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473555,
+            "locality_id":1226729431,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1226729431,
+    "wof:lastmodified":1537659239,
+    "wof:name":"Hadong",
+    "wof:parent_id":890473555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42896,
+    37.53191,
+    126.42896,
+    37.53191
+],
+  "geometry": {"coordinates":[126.42896,37.53191],"type":"Point"}
+}

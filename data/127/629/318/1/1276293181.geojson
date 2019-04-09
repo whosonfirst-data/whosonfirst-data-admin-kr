@@ -1,0 +1,71 @@
+{
+  "id": 1276293181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30929,35.21221,128.30929,35.21221",
+    "geom:latitude":35.21221,
+    "geom:longitude":128.30929,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tokkwang",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899200,
+    "gn:latitude":35.21221,
+    "gn:longitude":128.30929,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u014fkkwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub355\uad11",
+        "T\u014fkkwang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899200
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1f3f5ce49754f3a47f5f9f114dba31a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475301,
+            "locality_id":1276293181,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276293181,
+    "wof:lastmodified":1537658731,
+    "wof:name":"Tokkwang",
+    "wof:parent_id":890475301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30929,
+    35.21221,
+    128.30929,
+    35.21221
+],
+  "geometry": {"coordinates":[128.30929,35.21221],"type":"Point"}
+}

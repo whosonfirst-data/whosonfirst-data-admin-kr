@@ -1,0 +1,71 @@
+{
+  "id": 1226018429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.24859,35.80086,128.24859,35.80086",
+    "geom:latitude":35.80086,
+    "geom:longitude":128.24859,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Popsan",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900702,
+    "gn:latitude":35.80086,
+    "gn:longitude":128.24859,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fpsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc95\uc0b0",
+        "P\u014fpsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900702
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c55153bdca3d0a6c16c0988f9bbb8107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473191,
+            "locality_id":1226018429,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226018429,
+    "wof:lastmodified":1537658774,
+    "wof:name":"Popsan",
+    "wof:parent_id":890473191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.24858999999998,
+    35.80086,
+    128.24858999999998,
+    35.80086
+],
+  "geometry": {"coordinates":[128.24858999999998,35.80086],"type":"Point"}
+}

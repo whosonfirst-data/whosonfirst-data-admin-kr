@@ -1,0 +1,64 @@
+{
+  "id": 1209077979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74056,34.32056,126.74056,34.32056",
+    "geom:latitude":34.32056,
+    "geom:longitude":126.74056,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kaep'o",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394978,
+    "gn:latitude":34.32056,
+    "gn:longitude":126.74056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaep\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Kaep\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394978
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fac74564647af1f43bd8cd904631144d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209077979
+        }
+    ],
+    "wof:id":1209077979,
+    "wof:lastmodified":1537657148,
+    "wof:name":"Kaep'o",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74056000000002,
+    34.32056,
+    126.74056000000002,
+    34.32056
+],
+  "geometry": {"coordinates":[126.74056000000002,34.32056],"type":"Point"}
+}

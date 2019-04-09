@@ -1,0 +1,73 @@
+{
+  "id": 1343754069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.03444,38.11278,128.03444,38.11278",
+    "geom:latitude":38.11278,
+    "geom:longitude":128.03444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Araetyongha-ri",
+    "gn:country_code":"KR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6365022,
+    "gn:latitude":38.11278,
+    "gn:longitude":128.03444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Araetyongha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub7ab\uc6a9\ud558\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Araet\u2019yongha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890474685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6365022
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a080bba75f7a9dab507589817af7f9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474685,
+            "locality_id":1343754069,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343754069,
+    "wof:lastmodified":1537657109,
+    "wof:name":"Araetyongha-ri",
+    "wof:parent_id":890474685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.03444,
+    38.11278,
+    128.03444,
+    38.11278
+],
+  "geometry": {"coordinates":[128.03443999999999,38.11278],"type":"Point"}
+}

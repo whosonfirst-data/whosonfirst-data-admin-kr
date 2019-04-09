@@ -1,0 +1,67 @@
+{
+  "id": 1276209817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.79389,36.54583,128.79389,36.54583",
+    "geom:latitude":36.54583,
+    "geom:longitude":128.79389,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Solmae",
+    "gn:country_code":"KR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895150,
+    "gn:latitude":36.54583,
+    "gn:longitude":128.79389,
+    "gn:modification_date":"1996-08-07",
+    "gn:name":"Solmae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895150
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8472dbbc696eb31179d040a17923d194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1276209817,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276209817,
+    "wof:lastmodified":1536945053,
+    "wof:name":"Solmae",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.79389,
+    36.54583,
+    128.79389,
+    36.54583
+],
+  "geometry": {"coordinates":[128.79389,36.54583],"type":"Point"}
+}

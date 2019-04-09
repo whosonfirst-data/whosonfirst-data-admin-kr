@@ -1,0 +1,71 @@
+{
+  "id": 1293660449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16785,37.83434,127.16785,37.83434",
+    "geom:latitude":37.83434,
+    "geom:longitude":127.16785,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Siugol",
+    "gn:country_code":"KR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799600,
+    "gn:latitude":37.83434,
+    "gn:longitude":127.16785,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Siugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2dc\uc6b0\uace8",
+        "Siugol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799600
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa85615854b104836b00cc7735b06469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1293660449,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293660449,
+    "wof:lastmodified":1537657646,
+    "wof:name":"Siugol",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16785,
+    37.83434000000001,
+    127.16785,
+    37.83434000000001
+],
+  "geometry": {"coordinates":[127.16785,37.83434000000001],"type":"Point"}
+}

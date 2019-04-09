@@ -1,0 +1,75 @@
+{
+  "id": 1344154407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.47004,38.32779,128.47004,38.32779",
+    "geom:latitude":38.32779,
+    "geom:longitude":128.47004,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Seoseongni",
+    "gn:country_code":"KR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7575114,
+    "gn:latitude":38.32779,
+    "gn:longitude":128.47004,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Seoseongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc131\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "S\u014fs\u014fng",
+        "\uc11c\uc131",
+        "Seoseongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7575114
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"122dc573b46d6265ba92e5b06255ee2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1344154407,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1344154407,
+    "wof:lastmodified":1537658881,
+    "wof:name":"Seoseongni",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.47003999999998,
+    38.32779,
+    128.47003999999998,
+    38.32779
+],
+  "geometry": {"coordinates":[128.47003999999998,38.32779],"type":"Point"}
+}

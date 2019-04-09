@@ -1,0 +1,75 @@
+{
+  "id": 1293698129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58614,35.5397,126.58614,35.5397",
+    "geom:latitude":35.5397,
+    "geom:longitude":126.58614,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yonggi",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885772,
+    "gn:latitude":35.5397,
+    "gn:longitude":126.58614,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Yonggi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uae30"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fn\u2019gi",
+        "Y\u014fn\u2019gi-dong",
+        "Yonggi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885772
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a532264293641351cffa9d43d3c8b3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1293698129,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1293698129,
+    "wof:lastmodified":1537656782,
+    "wof:name":"Yonggi",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58614,
+    35.5397,
+    126.58614,
+    35.5397
+],
+  "geometry": {"coordinates":[126.58614,35.5397],"type":"Point"}
+}

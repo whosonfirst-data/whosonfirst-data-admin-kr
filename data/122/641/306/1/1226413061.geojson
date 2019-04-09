@@ -1,0 +1,72 @@
+{
+  "id": 1226413061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.96306,35.835,128.96306,35.835",
+    "geom:latitude":35.835,
+    "geom:longitude":128.96306,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maenam",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893790,
+    "gn:latitude":35.835,
+    "gn:longitude":128.96306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maenam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maenam-ni",
+        "Maenam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893790
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d0cf9af7a972ab18de28eb49e9dc297c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1226413061,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226413061,
+    "wof:lastmodified":1537656838,
+    "wof:name":"Maenam",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.96306,
+    35.835,
+    128.96306,
+    35.835
+],
+  "geometry": {"coordinates":[128.96306000000001,35.835],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327419967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36833,37.13083,127.36833,37.13083",
+    "geom:latitude":37.13083,
+    "geom:longitude":127.36833,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Yongcheon-ri",
+    "gn:country_code":"KR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6398945,
+    "gn:latitude":37.13083,
+    "gn:longitude":127.36833,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongcheon-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ucc9c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Yongch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398945
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee11c569c9869fb90c0e3253c9db1f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1327419967,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327419967,
+    "wof:lastmodified":1537657200,
+    "wof:name":"Yongcheon-ri",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36833,
+    37.13083,
+    127.36833,
+    37.13083
+],
+  "geometry": {"coordinates":[127.36833,37.13083],"type":"Point"}
+}

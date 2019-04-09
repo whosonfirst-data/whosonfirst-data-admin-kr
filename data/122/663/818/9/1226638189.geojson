@@ -1,0 +1,73 @@
+{
+  "id": 1226638189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.81361,38.02972,127.81361,38.02972",
+    "geom:latitude":38.02972,
+    "geom:longitude":127.81361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gancheok-ri",
+    "gn:country_code":"KR",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843195,
+    "gn:latitude":38.02972,
+    "gn:longitude":127.81361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gancheok-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac04\ucc99\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kanch\u2019\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843195
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"99d40c228f6e5923d10f559c2d74e65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1226638189,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226638189,
+    "wof:lastmodified":1537656536,
+    "wof:name":"Gancheok-ri",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.81361,
+    38.02972000000001,
+    127.81361,
+    38.02972000000001
+],
+  "geometry": {"coordinates":[127.81361,38.02972000000001],"type":"Point"}
+}

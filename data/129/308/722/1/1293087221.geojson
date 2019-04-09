@@ -1,0 +1,73 @@
+{
+  "id": 1293087221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79361,37.02833,126.79361,37.02833",
+    "geom:latitude":37.02833,
+    "geom:longitude":126.79361,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nongjangmaul",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364339,
+    "gn:latitude":37.02833,
+    "gn:longitude":126.79361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nongjangma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub18d\uc7a5\ub9c8\uc744"
+    ],
+    "name:kor_x_variant":[
+        "Nongjangma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364339
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c1ea9cfb587277a1c36a4a00b9d75abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1293087221,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293087221,
+    "wof:lastmodified":1537657077,
+    "wof:name":"Nongjangmaul",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79361000000002,
+    37.02833,
+    126.79361000000002,
+    37.02833
+],
+  "geometry": {"coordinates":[126.79361000000002,37.02833],"type":"Point"}
+}

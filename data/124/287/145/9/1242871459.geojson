@@ -1,0 +1,79 @@
+{
+  "id": 1242871459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.14901,37.82219,128.14901,37.82219",
+    "geom:latitude":37.82219,
+    "geom:longitude":128.14901,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Garyeongdong",
+    "gn:country_code":"KR",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843041,
+    "gn:latitude":37.82219,
+    "gn:longitude":128.14901,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Garyeongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub839\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Kary\u014fng-dong"
+    ],
+    "name:und_x_variant":[
+        "Kaery\u014fng-koul",
+        "Kaery\u014fng-gol",
+        "Kaery\u014fng-dong",
+        "Garyeongdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843041
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"942a583b63d68eeb6c35153034837bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1242871459,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242871459,
+    "wof:lastmodified":1537656528,
+    "wof:name":"Garyeongdong",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.14901,
+    37.82219,
+    128.14901,
+    37.82219
+],
+  "geometry": {"coordinates":[128.14901,37.82219],"type":"Point"}
+}

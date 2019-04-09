@@ -1,0 +1,71 @@
+{
+  "id": 1343531981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.69427,35.63716,128.69427,35.63716",
+    "geom:latitude":35.63716,
+    "geom:longitude":128.69427,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hyangjuk",
+    "gn:country_code":"KR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903314,
+    "gn:latitude":35.63716,
+    "gn:longitude":128.69427,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hyangjuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud5a5\uc8fd",
+        "Hyangjuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903314
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6e370027bf2bcfac4f1e166ebde015be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475757,
+            "locality_id":1343531981,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343531981,
+    "wof:lastmodified":1537658844,
+    "wof:name":"Hyangjuk",
+    "wof:parent_id":890475757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.69427,
+    35.63715999999999,
+    128.69427,
+    35.63715999999999
+],
+  "geometry": {"coordinates":[128.69426999999999,35.63715999999999],"type":"Point"}
+}

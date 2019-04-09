@@ -1,0 +1,71 @@
+{
+  "id": 1242748627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.3126,36.9474,129.3126,36.9474",
+    "geom:latitude":36.9474,
+    "geom:longitude":129.3126,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ch'anmulmaegi",
+    "gn:country_code":"KR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879637,
+    "gn:latitude":36.9474,
+    "gn:longitude":129.3126,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019anmulmaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc2c\ubb3c\ub9e4\uae30",
+        "Ch\u2019anmulmaegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879637
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"90fcad5754859c49e60fbd180a36089c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474639,
+            "locality_id":1242748627,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242748627,
+    "wof:lastmodified":1537658230,
+    "wof:name":"Ch'anmulmaegi",
+    "wof:parent_id":890474639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.3126,
+    36.9474,
+    129.3126,
+    36.9474
+],
+  "geometry": {"coordinates":[129.3126,36.9474],"type":"Point"}
+}

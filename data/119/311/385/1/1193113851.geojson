@@ -1,0 +1,70 @@
+{
+  "id": 1193113851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65386,37.51907,126.65386,37.51907",
+    "geom:latitude":37.51907,
+    "geom:longitude":126.65386,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gaenmal",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229668,
+    "gn:latitude":37.51907,
+    "gn:longitude":126.65386,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Gaenmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac2f\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        1108746517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229668
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bbf2fba6db1c91d9fec063235f159af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746517,
+            "locality_id":1193113851,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1193113851,
+    "wof:lastmodified":1537659239,
+    "wof:name":"Gaenmal",
+    "wof:parent_id":1108746517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65386,
+    37.51907,
+    126.65386,
+    37.51907
+],
+  "geometry": {"coordinates":[126.65385999999999,37.51907],"type":"Point"}
+}

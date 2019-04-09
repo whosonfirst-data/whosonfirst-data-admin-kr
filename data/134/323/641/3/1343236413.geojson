@@ -1,0 +1,76 @@
+{
+  "id": 1343236413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.61028,34.73389,128.61028,34.73389",
+    "geom:latitude":34.73389,
+    "geom:longitude":128.61028,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tyokuri",
+    "gn:country_code":"KR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845882,
+    "gn:latitude":34.73389,
+    "gn:longitude":128.61028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tyokuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokkumi",
+        "Jeogu Ri",
+        "Tyokuri",
+        "Ch\u014dkyumi",
+        "Ch\u014fgumi",
+        "Ch\u014fgu",
+        "Ch\u014fgu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845882
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3e5f43b2f27fabaf015b875b722fad6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474515,
+            "locality_id":1343236413,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343236413,
+    "wof:lastmodified":1537656671,
+    "wof:name":"Tyokuri",
+    "wof:parent_id":890474515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.61028000000002,
+    34.73389,
+    128.61028000000002,
+    34.73389
+],
+  "geometry": {"coordinates":[128.61028000000002,34.73389],"type":"Point"}
+}

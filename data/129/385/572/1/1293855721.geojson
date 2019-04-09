@@ -1,0 +1,70 @@
+{
+  "id": 1293855721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67407,35.04282,126.67407,35.04282",
+    "geom:latitude":35.04282,
+    "geom:longitude":126.67407,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bodeok",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11179382,
+    "gn:latitude":35.04282,
+    "gn:longitude":126.67407,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Bodeok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ub355"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11179382
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0d061d966696d64ec90bc30796c025a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1293855721,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293855721,
+    "wof:lastmodified":1537659213,
+    "wof:name":"Bodeok",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67407,
+    35.04282,
+    126.67407,
+    35.04282
+],
+  "geometry": {"coordinates":[126.67407,35.04282],"type":"Point"}
+}

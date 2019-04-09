@@ -1,0 +1,75 @@
+{
+  "id": 1193004335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38028,37.20556,127.38028,37.20556",
+    "geom:latitude":37.20556,
+    "geom:longitude":127.38028,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Donsil",
+    "gn:country_code":"KR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398909,
+    "gn:latitude":37.20556,
+    "gn:longitude":127.38028,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Donsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c8\uc2e4"
+    ],
+    "name:und_x_variant":[
+        "Tonsil",
+        "Donsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398909
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bcd29d758154dd7830f4e4e016d492d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1193004335,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193004335,
+    "wof:lastmodified":1537657198,
+    "wof:name":"Donsil",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38028,
+    37.20556,
+    127.38028,
+    37.20556
+],
+  "geometry": {"coordinates":[127.38028,37.20556],"type":"Point"}
+}

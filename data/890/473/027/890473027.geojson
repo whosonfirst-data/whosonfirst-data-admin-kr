@@ -1,0 +1,79 @@
+{
+  "id": 890473027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.24727,38.09473,128.24727,38.09473",
+    "geom:latitude":38.09473,
+    "geom:longitude":128.24727,
+    "gn:country":"KR",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Inje-gun"
+    ],
+    "name:kor_x_preferred":[
+        "\uc778\uc81c\uad70"
+    ],
+    "name:kor_x_variant":[
+        "\uc778\uc81c"
+    ],
+    "name:unk_x_variant":[
+        "Inje"
+    ],
+    "qs:name":"Inje-gun",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":756,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843543,
+        "qs:id":275272,
+        "wd:id":"Q50318",
+        "wk:page":"Inje County"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053936,
+    "wof:geomhash":"d3237d8cddb8cad20e03494c3cfe9d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "localadmin_id":890473027,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":890473027,
+    "wof:lastmodified":1527792834,
+    "wof:name":"Inje-gun",
+    "wof:parent_id":890472377,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.24727,
+    38.09473,
+    128.24727,
+    38.09473
+],
+  "geometry": {"coordinates":[128.24726999999999,38.09473],"type":"Point"}
+}

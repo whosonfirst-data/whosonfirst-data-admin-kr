@@ -1,0 +1,71 @@
+{
+  "id": 1259559661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4968,36.9179,126.4968,36.9179",
+    "geom:latitude":36.9179,
+    "geom:longitude":126.4968,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Taehoji",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812051,
+    "gn:latitude":36.9179,
+    "gn:longitude":126.4968,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taehoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\ud638\uc9c0",
+        "Taehoji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812051
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6b18e019c0e8aae638766dd25159c09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1259559661,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1259559661,
+    "wof:lastmodified":1537657963,
+    "wof:name":"Taehoji",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4968,
+    36.9179,
+    126.4968,
+    36.9179
+],
+  "geometry": {"coordinates":[126.49679999999999,36.9179],"type":"Point"}
+}

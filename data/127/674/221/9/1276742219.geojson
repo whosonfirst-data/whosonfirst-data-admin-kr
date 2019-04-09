@@ -1,0 +1,72 @@
+{
+  "id": 1276742219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.12417,37.44639,127.12417,37.44639",
+    "geom:latitude":37.44639,
+    "geom:longitude":127.12417,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taepyeongil-dong",
+    "gn:country_code":"KR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6571540,
+    "gn:latitude":37.44639,
+    "gn:longitude":127.12417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taepyeongil-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud0dc\ud3c91\ub3d9",
+        "Taepyeongil-dong",
+        "T\u2019aep\u2019y\u014fngil-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6571540
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bdc0a42eaa0b361c9231488c5a6d2254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746523,
+            "locality_id":1276742219,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276742219,
+    "wof:lastmodified":1537657214,
+    "wof:name":"Taepyeongil-dong",
+    "wof:parent_id":1108746523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.12417,
+    37.44639,
+    127.12417,
+    37.44639
+],
+  "geometry": {"coordinates":[127.12417000000001,37.44639],"type":"Point"}
+}

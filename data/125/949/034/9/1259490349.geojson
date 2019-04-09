@@ -1,0 +1,71 @@
+{
+  "id": 1259490349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.30291,35.68635,127.30291,35.68635",
+    "geom:latitude":35.68635,
+    "geom:longitude":127.30291,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wonjwasan",
+    "gn:country_code":"KR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876396,
+    "gn:latitude":35.68635,
+    "gn:longitude":127.30291,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014fnjwasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uc88c\uc0b0",
+        "W\u014fnjwasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876396
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6e9a4fdcd2bceff6554560ba40c6d445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1259490349,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1259490349,
+    "wof:lastmodified":1537658129,
+    "wof:name":"Wonjwasan",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.30291,
+    35.68635,
+    127.30291,
+    35.68635
+],
+  "geometry": {"coordinates":[127.30291,35.68635],"type":"Point"}
+}

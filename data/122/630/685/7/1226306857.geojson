@@ -1,0 +1,76 @@
+{
+  "id": 1226306857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49,34.74271,126.49,34.74271",
+    "geom:latitude":34.74271,
+    "geom:longitude":126.49,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dongam",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834685,
+    "gn:latitude":34.74271,
+    "gn:longitude":126.49,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Dongam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc554"
+    ],
+    "name:und_x_variant":[
+        "Tongam",
+        "Tongam-ni",
+        "Togam",
+        "Dongam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834685
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e54697ae8653cc089480fb86b8e7333c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1226306857,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226306857,
+    "wof:lastmodified":1537656100,
+    "wof:name":"Dongam",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49,
+    34.74271,
+    126.49,
+    34.74271
+],
+  "geometry": {"coordinates":[126.48999999999999,34.74271],"type":"Point"}
+}

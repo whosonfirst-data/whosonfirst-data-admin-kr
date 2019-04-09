@@ -1,0 +1,75 @@
+{
+  "id": 1260159983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15483,37.82691,127.15483,37.82691",
+    "geom:latitude":37.82691,
+    "geom:longitude":127.15483,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Garwoldong",
+    "gn:country_code":"KR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799599,
+    "gn:latitude":37.82691,
+    "gn:longitude":127.15483,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Garwoldong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uc6d4\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uac08\uc6d4\ub9ac",
+        "Karw\u014fl-li",
+        "Garwoldong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799599
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7f55b1a5ced7b868443763a1075f8d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1260159983,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260159983,
+    "wof:lastmodified":1537657645,
+    "wof:name":"Garwoldong",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15483,
+    37.82691,
+    127.15483,
+    37.82691
+],
+  "geometry": {"coordinates":[127.15483,37.82691],"type":"Point"}
+}

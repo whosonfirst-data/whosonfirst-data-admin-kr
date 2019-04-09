@@ -1,0 +1,75 @@
+{
+  "id": 1225962267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.31588,35.09287,126.31588,35.09287",
+    "geom:latitude":35.09287,
+    "geom:longitude":126.31588,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Giryong",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842908,
+    "gn:latitude":35.09287,
+    "gn:longitude":126.31588,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Giryong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\ub8e1"
+    ],
+    "name:und_x_variant":[
+        "Kiryong-dong",
+        "Kiryong",
+        "Giryong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842908
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"13ed58597ebfe496100fdc44832f39a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1225962267,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225962267,
+    "wof:lastmodified":1537656520,
+    "wof:name":"Giryong",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.31588,
+    35.09287,
+    126.31588,
+    35.09287
+],
+  "geometry": {"coordinates":[126.31588000000001,35.09287],"type":"Point"}
+}

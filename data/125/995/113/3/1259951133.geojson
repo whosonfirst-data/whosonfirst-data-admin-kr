@@ -1,0 +1,72 @@
+{
+  "id": 1259951133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1,37.4225,127.1,37.4225",
+    "geom:latitude":37.4225,
+    "geom:longitude":127.1,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dongsan-maeul",
+    "gn:country_code":"KR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573468,
+    "gn:latitude":37.4225,
+    "gn:longitude":127.1,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dongsan-maeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\uc0b0\ub9c8\uc744",
+        "Dongsan-maeul",
+        "Tongsan-ma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573468
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"808661b0931b41e0dda09f4e9ca117d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746523,
+            "locality_id":1259951133,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259951133,
+    "wof:lastmodified":1537657227,
+    "wof:name":"Dongsan-maeul",
+    "wof:parent_id":1108746523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1,
+    37.4225,
+    127.1,
+    37.4225
+],
+  "geometry": {"coordinates":[127.09999999999999,37.4225],"type":"Point"}
+}

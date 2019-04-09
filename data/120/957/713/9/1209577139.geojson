@@ -1,0 +1,66 @@
+{
+  "id": 1209577139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.18333,34.7,128.18333,34.7",
+    "geom:latitude":34.7,
+    "geom:longitude":128.18333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Cholge",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845802,
+    "gn:latitude":34.7,
+    "gn:longitude":128.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u014flge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sap\u2019o",
+        "Ch\u014flge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845802
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"73cd2cbcdb20525c057e2a45d312ec38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209577139
+        }
+    ],
+    "wof:id":1209577139,
+    "wof:lastmodified":1537656667,
+    "wof:name":"Cholge",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.18333,
+    34.7,
+    128.18333,
+    34.7
+],
+  "geometry": {"coordinates":[128.18333000000001,34.7],"type":"Point"}
+}

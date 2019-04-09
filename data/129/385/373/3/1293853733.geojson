@@ -1,0 +1,75 @@
+{
+  "id": 1293853733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42248,35.66468,128.42248,35.66468",
+    "geom:latitude":35.66468,
+    "geom:longitude":128.42248,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beomangol",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901620,
+    "gn:latitude":35.66468,
+    "gn:longitude":128.42248,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Beomangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc94\uc548\uace8"
+    ],
+    "name:und_x_variant":[
+        "\ubc94\ud56d\uace8",
+        "P\u014fmhang-gol",
+        "Beomangol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901620
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e731ee72da9d6c9aa5c30d9b89e29e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1293853733,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1293853733,
+    "wof:lastmodified":1537658788,
+    "wof:name":"Beomangol",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42248,
+    35.66468,
+    128.42248,
+    35.66468
+],
+  "geometry": {"coordinates":[128.42248000000001,35.66468],"type":"Point"}
+}

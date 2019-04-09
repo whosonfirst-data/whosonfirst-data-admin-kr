@@ -1,0 +1,65 @@
+{
+  "id": 1209184765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.20771,35.68149,128.20771,35.68149",
+    "geom:latitude":35.68149,
+    "geom:longitude":128.20771,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sandang-ni",
+    "gn:country_code":"KR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904310,
+    "gn:latitude":35.68149,
+    "gn:longitude":128.20771,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sandang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0b0\ub2f9\ub9ac",
+        "Sandang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904310
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"232ee2faec6b6b802dddacdb271bc19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209184765
+        }
+    ],
+    "wof:id":1209184765,
+    "wof:lastmodified":1537658860,
+    "wof:name":"Sandang-ni",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.20771000000002,
+    35.68149000000001,
+    128.20771000000002,
+    35.68149000000001
+],
+  "geometry": {"coordinates":[128.20771000000002,35.68149000000001],"type":"Point"}
+}

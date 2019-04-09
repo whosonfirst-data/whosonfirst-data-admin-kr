@@ -1,0 +1,74 @@
+{
+  "id": 1293888225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3458,37.1429,128.3458,37.1429",
+    "geom:latitude":37.1429,
+    "geom:longitude":128.3458,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Samhwa-dong",
+    "gn:country_code":"KR",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837987,
+    "gn:latitude":37.1429,
+    "gn:longitude":128.3458,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samhwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\ud654\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Samhwa-gol",
+        "Samhwa-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837987
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"845a05529415ccd95cd2a3adcec25cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1293888225,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293888225,
+    "wof:lastmodified":1537656267,
+    "wof:name":"Samhwa-dong",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3458,
+    37.1429,
+    128.3458,
+    37.1429
+],
+  "geometry": {"coordinates":[128.3458,37.1429],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209725353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52613,35.46836,126.52613,35.46836",
+    "geom:latitude":35.46836,
+    "geom:longitude":126.52613,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ansan",
+    "gn:country_code":"KR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846919,
+    "gn:latitude":35.46836,
+    "gn:longitude":126.52613,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ansan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "Anzan",
+        "Ansan-ri",
+        "Ansan-ni",
+        "Ansan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846919
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c32a6253f6c33eaf0565e63236bceff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1209725353,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1209725353,
+    "wof:lastmodified":1537656727,
+    "wof:name":"Ansan",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52613,
+    35.46836,
+    126.52613,
+    35.46836
+],
+  "geometry": {"coordinates":[126.52612999999999,35.46836],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276449599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26278,35.5775,126.26278,35.5775",
+    "geom:latitude":35.5775,
+    "geom:longitude":126.26278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tae-ri",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835135,
+    "gn:latitude":35.5775,
+    "gn:longitude":126.26278,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Tae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835135
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e22906dbe222d366b16cb00f3818fc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475783,
+            "locality_id":1276449599,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1276449599,
+    "wof:lastmodified":1536620728,
+    "wof:name":"Tae-ri",
+    "wof:parent_id":890475783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26278,
+    35.5775,
+    126.26278,
+    35.5775
+],
+  "geometry": {"coordinates":[126.26278000000001,35.5775],"type":"Point"}
+}

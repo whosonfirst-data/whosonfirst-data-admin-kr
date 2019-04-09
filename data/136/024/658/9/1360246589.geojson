@@ -1,0 +1,67 @@
+{
+  "id": 1360246589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.98389,34.80639,127.98389,34.80639",
+    "geom:latitude":34.80639,
+    "geom:longitude":127.98389,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yongji-ri",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884207,
+    "gn:latitude":34.80639,
+    "gn:longitude":127.98389,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Y\u014fngji-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884207
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aa982d58c0b9933810c57bf0e328161a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475467,
+            "locality_id":1360246589,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1360246589,
+    "wof:lastmodified":1536713108,
+    "wof:name":"Yongji-ri",
+    "wof:parent_id":890475467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.98389,
+    34.80639,
+    127.98389,
+    34.80639
+],
+  "geometry": {"coordinates":[127.98389,34.80639],"type":"Point"}
+}

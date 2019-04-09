@@ -1,0 +1,75 @@
+{
+  "id": 1344024433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32736,36.50214,127.32736,36.50214",
+    "geom:latitude":36.50214,
+    "geom:longitude":127.32736,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Saraeul",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888737,
+    "gn:latitude":36.50214,
+    "gn:longitude":127.32736,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Saraeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ub798\uc6b8"
+    ],
+    "name:und_x_variant":[
+        "\uc0ac\ub824\uc6b8",
+        "Sary\u014ful",
+        "Saraeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888737
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4b73bcc398a4b14a4b4b3509b273f91d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1344024433,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1344024433,
+    "wof:lastmodified":1537658438,
+    "wof:name":"Saraeul",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32736,
+    36.50214,
+    127.32736,
+    36.50214
+],
+  "geometry": {"coordinates":[127.32736,36.50214],"type":"Point"}
+}

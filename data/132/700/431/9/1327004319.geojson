@@ -1,0 +1,70 @@
+{
+  "id": 1327004319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.14307,35.39244,129.14307,35.39244",
+    "geom:latitude":35.39244,
+    "geom:longitude":129.14307,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sangdong",
+    "gn:country_code":"KR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11090967,
+    "gn:latitude":35.39244,
+    "gn:longitude":129.14307,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Sangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11090967
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"71655cf721328c67aadc6d97c66eab13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474597,
+            "locality_id":1327004319,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1327004319,
+    "wof:lastmodified":1537659148,
+    "wof:name":"Sangdong",
+    "wof:parent_id":890474597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.14307,
+    35.39244,
+    129.14307,
+    35.39244
+],
+  "geometry": {"coordinates":[129.14306999999999,35.39244],"type":"Point"}
+}

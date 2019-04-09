@@ -1,0 +1,71 @@
+{
+  "id": 1343959249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39471,35.69257,127.39471,35.69257",
+    "geom:latitude":35.69257,
+    "geom:longitude":127.39471,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ponam",
+    "gn:country_code":"KR",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876418,
+    "gn:latitude":35.69257,
+    "gn:longitude":127.39471,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u014fnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc88\uc554",
+        "P\u014fnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876418
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c65c934382f368cd8de77e715303fce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1343959249,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1343959249,
+    "wof:lastmodified":1537658130,
+    "wof:name":"Ponam",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39471,
+    35.69257,
+    127.39471,
+    35.69257
+],
+  "geometry": {"coordinates":[127.39471,35.69257],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360251395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0569,36.911,127.0569,36.911",
+    "geom:latitude":36.911,
+    "geom:longitude":127.0569,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dokgol",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811475,
+    "gn:latitude":36.911,
+    "gn:longitude":127.0569,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dokgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c5\uace8",
+        "Tok-kol",
+        "Dokgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811475
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8aab5f5bb8b1cd184c3bac6897dbb04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1360251395,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1360251395,
+    "wof:lastmodified":1537657940,
+    "wof:name":"Dokgol",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0569,
+    36.911,
+    127.0569,
+    36.911
+],
+  "geometry": {"coordinates":[127.0569,36.911],"type":"Point"}
+}

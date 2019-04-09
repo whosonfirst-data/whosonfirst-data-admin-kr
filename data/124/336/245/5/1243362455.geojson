@@ -1,0 +1,73 @@
+{
+  "id": 1243362455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.96468,36.97478,127.96468,36.97478",
+    "geom:latitude":36.97478,
+    "geom:longitude":127.96468,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beomui",
+    "gn:country_code":"KR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895239,
+    "gn:latitude":36.97478,
+    "gn:longitude":127.96468,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Beomui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc94\uc758"
+    ],
+    "name:kor_x_variant":[
+        "P\u014fm\u016di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895239
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"19e165532e316e5bf7ecdb3e72739830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1243362455,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243362455,
+    "wof:lastmodified":1537656881,
+    "wof:name":"Beomui",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.96468,
+    36.97478,
+    127.96468,
+    36.97478
+],
+  "geometry": {"coordinates":[127.96468,36.97478],"type":"Point"}
+}

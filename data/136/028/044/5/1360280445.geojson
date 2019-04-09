@@ -1,0 +1,71 @@
+{
+  "id": 1360280445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.46748,38.3248,128.46748,38.3248",
+    "geom:latitude":38.3248,
+    "geom:longitude":128.46748,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sanit'o",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7575112,
+    "gn:latitude":38.3248,
+    "gn:longitude":128.46748,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sanit\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanit\u2019\u014f",
+        "\uc0b0\uc774\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7575112
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af529f561b8ef040ce1cad18ab8d20c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475465,
+            "locality_id":1360280445,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360280445,
+    "wof:lastmodified":1537658881,
+    "wof:name":"Sanit'o",
+    "wof:parent_id":890475465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.46748,
+    38.3248,
+    128.46748,
+    38.3248
+],
+  "geometry": {"coordinates":[128.46747999999999,38.3248],"type":"Point"}
+}

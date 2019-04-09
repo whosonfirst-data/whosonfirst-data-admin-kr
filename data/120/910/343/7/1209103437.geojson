@@ -1,0 +1,64 @@
+{
+  "id": 1209103437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5641,37.4263,128.5641,37.4263",
+    "geom:latitude":37.4263,
+    "geom:longitude":128.5641,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sanmak-tong",
+    "gn:country_code":"KR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796561,
+    "gn:latitude":37.4263,
+    "gn:longitude":128.5641,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanmak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\ub9c9\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796561
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8597199c99273ee594be7cad7c83d06d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209103437
+        }
+    ],
+    "wof:id":1209103437,
+    "wof:lastmodified":1537657562,
+    "wof:name":"Sanmak-tong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5641,
+    37.4263,
+    128.5641,
+    37.4263
+],
+  "geometry": {"coordinates":[128.5641,37.4263],"type":"Point"}
+}

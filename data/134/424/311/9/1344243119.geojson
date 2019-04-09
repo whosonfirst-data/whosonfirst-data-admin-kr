@@ -1,0 +1,72 @@
+{
+  "id": 1344243119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32194,37.28806,127.32194,37.28806",
+    "geom:latitude":37.28806,
+    "geom:longitude":127.32194,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kurumul",
+    "gn:country_code":"KR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577490,
+    "gn:latitude":37.28806,
+    "gn:longitude":127.32194,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kurumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad74\uc6b0\ubb3c",
+        "Gurumul",
+        "Kurumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577490
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"311de245faaff2ce22739661d837481b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1344243119,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344243119,
+    "wof:lastmodified":1537657368,
+    "wof:name":"Kurumul",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32193999999998,
+    37.28806,
+    127.32193999999998,
+    37.28806
+],
+  "geometry": {"coordinates":[127.32193999999998,37.28806],"type":"Point"}
+}

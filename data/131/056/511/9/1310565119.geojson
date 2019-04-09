@@ -1,0 +1,73 @@
+{
+  "id": 1310565119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.54917,34.56944,126.54917,34.56944",
+    "geom:latitude":34.56944,
+    "geom:longitude":126.54917,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pomdong-gol",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395828,
+    "gn:latitude":34.56944,
+    "gn:longitude":126.54917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u014fmdong-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "P\u014fmdong-gol"
+    ],
+    "name:und_x_variant":[
+        "\ubc94\ub3d9\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395828
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"85317879c36aa90ff86f581a9fe9db99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1310565119,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310565119,
+    "wof:lastmodified":1537657159,
+    "wof:name":"Pomdong-gol",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.54917,
+    34.56944,
+    126.54917,
+    34.56944
+],
+  "geometry": {"coordinates":[126.54917,34.56944],"type":"Point"}
+}

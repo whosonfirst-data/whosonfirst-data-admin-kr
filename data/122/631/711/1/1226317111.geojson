@@ -1,0 +1,71 @@
+{
+  "id": 1226317111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1244,35.72845,128.1244,35.72845",
+    "geom:latitude":35.72845,
+    "geom:longitude":128.1244,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ssukkok",
+    "gn:country_code":"KR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904196,
+    "gn:latitude":35.72845,
+    "gn:longitude":128.1244,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ssukkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc465\uace1",
+        "Ssukkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904196
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ebc7a3315dc0ee219f441c1d3ae25205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1226317111,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226317111,
+    "wof:lastmodified":1537658855,
+    "wof:name":"Ssukkok",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1244,
+    35.72845,
+    128.1244,
+    35.72845
+],
+  "geometry": {"coordinates":[128.12440000000001,35.72845],"type":"Point"}
+}

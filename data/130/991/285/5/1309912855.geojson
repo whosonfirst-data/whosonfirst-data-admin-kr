@@ -1,0 +1,75 @@
+{
+  "id": 1309912855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.07856,35.54584,127.07856,35.54584",
+    "geom:latitude":35.54584,
+    "geom:longitude":127.07856,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hwangt'o",
+    "gn:country_code":"KR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877173,
+    "gn:latitude":35.54584,
+    "gn:longitude":127.07856,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hwangt\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud669\ud1a0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\ud669\ud1a0",
+        "Hwangt\u2019o",
+        "Hwangtori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877173
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"908e5e7044bb26998c5cca4179a2e69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475951,
+            "locality_id":1309912855,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1309912855,
+    "wof:lastmodified":1537658163,
+    "wof:name":"Hwangt'o",
+    "wof:parent_id":890475951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.07856,
+    35.54584000000001,
+    127.07856,
+    35.54584000000001
+],
+  "geometry": {"coordinates":[127.07856,35.54584000000001],"type":"Point"}
+}

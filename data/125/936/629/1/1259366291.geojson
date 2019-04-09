@@ -1,0 +1,70 @@
+{
+  "id": 1259366291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.86154,36.73105,128.86154,36.73105",
+    "geom:latitude":36.73105,
+    "geom:longitude":128.86154,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hagye",
+    "gn:country_code":"KR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895398,
+    "gn:latitude":36.73105,
+    "gn:longitude":128.86154,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Hagye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uacc4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895398
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0e93ae444d9f11e2cebbd84055af0d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1259366291,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259366291,
+    "wof:lastmodified":1537656887,
+    "wof:name":"Hagye",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.86154,
+    36.73105,
+    128.86154,
+    36.73105
+],
+  "geometry": {"coordinates":[128.86153999999999,36.73105],"type":"Point"}
+}

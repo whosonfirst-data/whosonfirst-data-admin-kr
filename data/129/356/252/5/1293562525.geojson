@@ -1,0 +1,72 @@
+{
+  "id": 1293562525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.40699,35.81716,128.40699,35.81716",
+    "geom:latitude":35.81716,
+    "geom:longitude":128.40699,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Namchon",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900688,
+    "gn:latitude":35.81716,
+    "gn:longitude":128.40699,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Namchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0a8\ucd0c",
+        "Nam-ch\u2019on",
+        "Namchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900688
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b4ec7655c513de35374f52d21cd7f837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1293562525,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293562525,
+    "wof:lastmodified":1537658773,
+    "wof:name":"Namchon",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.40698999999998,
+    35.81716,
+    128.40698999999998,
+    35.81716
+],
+  "geometry": {"coordinates":[128.40698999999998,35.81716],"type":"Point"}
+}

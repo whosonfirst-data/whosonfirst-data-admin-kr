@@ -1,0 +1,64 @@
+{
+  "id": 1209686453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.78793,35.86306,128.78793,35.86306",
+    "geom:latitude":35.86306,
+    "geom:longitude":128.78793,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Inan",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10993792,
+    "gn:latitude":35.86306,
+    "gn:longitude":128.78793,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Inan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc778\uc548"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10993792
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e03be24f79a802a89040d097db5ba280",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209686453
+        }
+    ],
+    "wof:id":1209686453,
+    "wof:lastmodified":1537659105,
+    "wof:name":"Inan",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.78793000000002,
+    35.86306,
+    128.78793000000002,
+    35.86306
+],
+  "geometry": {"coordinates":[128.78793000000002,35.86306],"type":"Point"}
+}

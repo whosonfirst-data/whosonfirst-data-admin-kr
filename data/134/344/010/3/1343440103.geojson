@@ -1,0 +1,75 @@
+{
+  "id": 1343440103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.45583,37.49667,127.45583,37.49667",
+    "geom:latitude":37.49667,
+    "geom:longitude":127.45583,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bambeol",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6577683,
+    "gn:latitude":37.49667,
+    "gn:longitude":127.45583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bambeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc24\ubc8c"
+    ],
+    "name:und_x_variant":[
+        "\ubc24\ubc8c",
+        "Bambeol",
+        "Pamb\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577683
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9850568c67983194fe9d690158a1a90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1343440103,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343440103,
+    "wof:lastmodified":1537657381,
+    "wof:name":"Bambeol",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.45583,
+    37.49667,
+    127.45583,
+    37.49667
+],
+  "geometry": {"coordinates":[127.45583000000001,37.49667],"type":"Point"}
+}

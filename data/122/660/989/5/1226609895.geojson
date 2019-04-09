@@ -1,0 +1,71 @@
+{
+  "id": 1226609895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.19423,35.61497,128.19423,35.61497",
+    "geom:latitude":35.61497,
+    "geom:longitude":128.19423,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chung-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904450,
+    "gn:latitude":35.61497,
+    "gn:longitude":128.19423,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chung-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ucd0c",
+        "Chung-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904450
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae555c9bcb7b4b594af6e1e8eb37bbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1226609895,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226609895,
+    "wof:lastmodified":1537658866,
+    "wof:name":"Chung-ch'on",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.19423,
+    35.61497,
+    128.19423,
+    35.61497
+],
+  "geometry": {"coordinates":[128.19423,35.61497],"type":"Point"}
+}

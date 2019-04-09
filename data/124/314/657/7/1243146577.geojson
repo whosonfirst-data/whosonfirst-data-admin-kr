@@ -1,0 +1,72 @@
+{
+  "id": 1243146577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36809,35.14997,128.36809,35.14997",
+    "geom:latitude":35.14997,
+    "geom:longitude":128.36809,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Wolsan",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833050,
+    "gn:latitude":35.14997,
+    "gn:longitude":128.36809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u014flsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u014fnsan",
+        "\uc6d4\uc0b0",
+        "W\u014flsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833050
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9097e84d17091f8d0ffe717e074d42da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746491,
+            "locality_id":1243146577,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243146577,
+    "wof:lastmodified":1537656008,
+    "wof:name":"Wolsan",
+    "wof:parent_id":1108746491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36809,
+    35.14997,
+    128.36809,
+    35.14997
+],
+  "geometry": {"coordinates":[128.36809,35.14997],"type":"Point"}
+}

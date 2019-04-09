@@ -1,0 +1,70 @@
+{
+  "id": 1243145693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.72215,35.75469,128.72215,35.75469",
+    "geom:latitude":35.75469,
+    "geom:longitude":128.72215,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jiam",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11034258,
+    "gn:latitude":35.75469,
+    "gn:longitude":128.72215,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Jiam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034258
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a2b8559b8f9b70df6956ebbad2581b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476211,
+            "locality_id":1243145693,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243145693,
+    "wof:lastmodified":1537659113,
+    "wof:name":"Jiam",
+    "wof:parent_id":890476211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.72215,
+    35.75469000000001,
+    128.72215,
+    35.75469000000001
+],
+  "geometry": {"coordinates":[128.72215,35.75469000000001],"type":"Point"}
+}

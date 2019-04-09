@@ -1,0 +1,77 @@
+{
+  "id": 1293382147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.81651,37.93878,127.81651,37.93878",
+    "geom:latitude":37.93878,
+    "geom:longitude":127.81651,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gamakgol",
+    "gn:country_code":"KR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6814088,
+    "gn:latitude":37.93878,
+    "gn:longitude":127.81651,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Gamakgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub9c8\uace8"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\ub9c9\uace8"
+    ],
+    "name:und_x_variant":[
+        "Kama-gol",
+        "Gamakgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6814088
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7f41b5c8b07e40ab331a90c47b7a5738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1293382147,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293382147,
+    "wof:lastmodified":1537658039,
+    "wof:name":"Gamakgol",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.81651,
+    37.93878,
+    127.81651,
+    37.93878
+],
+  "geometry": {"coordinates":[127.81650999999999,37.93878],"type":"Point"}
+}

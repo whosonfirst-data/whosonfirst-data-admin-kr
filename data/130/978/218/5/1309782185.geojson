@@ -1,0 +1,72 @@
+{
+  "id": 1309782185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91605,36.76578,126.91605,36.76578",
+    "geom:latitude":36.76578,
+    "geom:longitude":126.91605,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Jisaeul",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6810652,
+    "gn:latitude":36.76578,
+    "gn:longitude":126.91605,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Jisaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c0\uc0c8\uc6b8",
+        "Chisaeul",
+        "Jisaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6810652
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de8812539554d4290ba183f900c62721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1309782185,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1309782185,
+    "wof:lastmodified":1537657911,
+    "wof:name":"Jisaeul",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91605,
+    36.76578,
+    126.91605,
+    36.76578
+],
+  "geometry": {"coordinates":[126.91605,36.76578],"type":"Point"}
+}

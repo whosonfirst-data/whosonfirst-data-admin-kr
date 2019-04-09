@@ -1,0 +1,71 @@
+{
+  "id": 1243051305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30339,35.76559,128.30339,35.76559",
+    "geom:latitude":35.76559,
+    "geom:longitude":128.30339,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kosung-gol",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900755,
+    "gn:latitude":35.76559,
+    "gn:longitude":128.30339,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kos\u016dng-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc2b9\uace8",
+        "Kos\u016dng-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900755
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"becc24e9ce10c8d3e432263d402309be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1243051305,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243051305,
+    "wof:lastmodified":1537658776,
+    "wof:name":"Kosung-gol",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30338999999998,
+    35.76559,
+    128.30338999999998,
+    35.76559
+],
+  "geometry": {"coordinates":[128.30338999999998,35.76559],"type":"Point"}
+}

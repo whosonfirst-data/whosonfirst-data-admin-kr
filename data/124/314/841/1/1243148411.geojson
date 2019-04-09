@@ -1,0 +1,71 @@
+{
+  "id": 1243148411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95395,36.75738,126.95395,36.75738",
+    "geom:latitude":36.75738,
+    "geom:longitude":126.95395,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Osanmal",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6811387,
+    "gn:latitude":36.75738,
+    "gn:longitude":126.95395,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Osanmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\uc0b0\ub9d0",
+        "Osanmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6811387
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af72e2b9132133b71d14a08558b27a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475539,
+            "locality_id":1243148411,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243148411,
+    "wof:lastmodified":1537657936,
+    "wof:name":"Osanmal",
+    "wof:parent_id":890475539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95395,
+    36.75738,
+    126.95395,
+    36.75738
+],
+  "geometry": {"coordinates":[126.95395000000001,36.75738],"type":"Point"}
+}

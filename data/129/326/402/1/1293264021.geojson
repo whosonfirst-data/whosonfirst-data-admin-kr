@@ -1,0 +1,70 @@
+{
+  "id": 1293264021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77482,35.35573,126.77482,35.35573",
+    "geom:latitude":35.35573,
+    "geom:longitude":126.77482,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yeoam",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169921,
+    "gn:latitude":35.35573,
+    "gn:longitude":126.77482,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Yeoam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ec\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169921
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9bae0ebb8b1c7cb63f098444c924b9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1293264021,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293264021,
+    "wof:lastmodified":1537659182,
+    "wof:name":"Yeoam",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77482,
+    35.35573,
+    126.77482,
+    35.35573
+],
+  "geometry": {"coordinates":[126.77482000000001,35.35573],"type":"Point"}
+}

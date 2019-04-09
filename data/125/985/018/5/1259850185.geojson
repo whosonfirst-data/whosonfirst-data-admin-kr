@@ -1,0 +1,75 @@
+{
+  "id": 1259850185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.56667,36.26667,128.56667,36.26667",
+    "geom:latitude":36.26667,
+    "geom:longitude":128.56667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taebuk",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835483,
+    "gn:latitude":36.26667,
+    "gn:longitude":128.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taebuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chungbuk",
+        "Taebug-dong",
+        "Ch\u016bhoku",
+        "Chungduck",
+        "Taebuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835483
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ec94785b9888f4494784f9dacba5827a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474969,
+            "locality_id":1259850185,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259850185,
+    "wof:lastmodified":1537656140,
+    "wof:name":"Taebuk",
+    "wof:parent_id":890474969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.56667,
+    36.26667,
+    128.56667,
+    36.26667
+],
+  "geometry": {"coordinates":[128.56666999999999,36.26667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225914799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.98273,35.92073,127.98273,35.92073",
+    "geom:latitude":35.92073,
+    "geom:longitude":127.98273,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Karaesil",
+    "gn:country_code":"KR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880007,
+    "gn:latitude":35.92073,
+    "gn:longitude":127.98273,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Karaesil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ub798\uc2e4",
+        "Karaesil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880007
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6ddb2d276da0fbb69d27d794238e2f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1225914799,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225914799,
+    "wof:lastmodified":1537658241,
+    "wof:name":"Karaesil",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.98273,
+    35.92073,
+    127.98273,
+    35.92073
+],
+  "geometry": {"coordinates":[127.98273,35.92073],"type":"Point"}
+}

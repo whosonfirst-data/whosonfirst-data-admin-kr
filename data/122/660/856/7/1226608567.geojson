@@ -1,0 +1,72 @@
+{
+  "id": 1226608567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3863,36.8151,126.3863,36.8151",
+    "geom:latitude":36.8151,
+    "geom:longitude":126.3863,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ch'uhak",
+    "gn:country_code":"KR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845279,
+    "gn:latitude":36.8151,
+    "gn:longitude":126.3863,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u2019uhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019uhang-ni",
+        "\ucd94\ud559",
+        "Ch\u2019uhak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845279
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3d2285df8c5cb5bb5d5cb328efac73af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1226608567,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226608567,
+    "wof:lastmodified":1537656642,
+    "wof:name":"Ch'uhak",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3863,
+    36.8151,
+    126.3863,
+    36.8151
+],
+  "geometry": {"coordinates":[126.38630000000001,36.8151],"type":"Point"}
+}

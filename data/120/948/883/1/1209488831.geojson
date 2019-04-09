@@ -1,0 +1,64 @@
+{
+  "id": 1209488831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.33895,36.20224,129.33895,36.20224",
+    "geom:latitude":36.20224,
+    "geom:longitude":129.33895,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gwandong",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246317,
+    "gn:latitude":36.20224,
+    "gn:longitude":129.33895,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Gwandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246317
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"55b1a44e0efbf68a364f54d636da3796",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209488831
+        }
+    ],
+    "wof:id":1209488831,
+    "wof:lastmodified":1537659247,
+    "wof:name":"Gwandong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.33895,
+    36.20224,
+    129.33895,
+    36.20224
+],
+  "geometry": {"coordinates":[129.33895000000001,36.20224],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209722545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.61694,35.49361,126.61694,35.49361",
+    "geom:latitude":35.49361,
+    "geom:longitude":126.61694,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Panam-ni",
+    "gn:country_code":"KR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1885765,
+    "gn:latitude":35.49361,
+    "gn:longitude":126.61694,
+    "gn:modification_date":"1996-05-01",
+    "gn:name":"Panam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885765
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"700cf19d7042bffb18e5a6b5fca94684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1209722545,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1209722545,
+    "wof:lastmodified":1536385718,
+    "wof:name":"Panam-ni",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.61694,
+    35.49361,
+    126.61694,
+    35.49361
+],
+  "geometry": {"coordinates":[126.61694,35.49361],"type":"Point"}
+}

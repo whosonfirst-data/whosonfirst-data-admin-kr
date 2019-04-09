@@ -1,0 +1,73 @@
+{
+  "id": 1343260543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36283,36.93805,127.36283,36.93805",
+    "geom:latitude":36.93805,
+    "geom:longitude":127.36283,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Daemyeong",
+    "gn:country_code":"KR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835182,
+    "gn:latitude":36.93805,
+    "gn:longitude":127.36283,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Daemyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uba85"
+    ],
+    "name:und_x_variant":[
+        "Taemy\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890476185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835182
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2620aae94088193a71fcf2eb105ab5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476185,
+            "locality_id":1343260543,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1343260543,
+    "wof:lastmodified":1537656127,
+    "wof:name":"Daemyeong",
+    "wof:parent_id":890476185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36283,
+    36.93805,
+    127.36283,
+    36.93805
+],
+  "geometry": {"coordinates":[127.36283,36.93805],"type":"Point"}
+}

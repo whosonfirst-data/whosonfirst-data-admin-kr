@@ -1,0 +1,70 @@
+{
+  "id": 1260245771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88473,35.27395,126.88473,35.27395",
+    "geom:latitude":35.27395,
+    "geom:longitude":126.88473,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Daechi",
+    "gn:country_code":"KR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170496,
+    "gn:latitude":35.27395,
+    "gn:longitude":126.88473,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Daechi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uce58"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170496
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"68e1994af33cfd1bd849064fd895819c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472425,
+            "locality_id":1260245771,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260245771,
+    "wof:lastmodified":1537659188,
+    "wof:name":"Daechi",
+    "wof:parent_id":890472425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88473,
+    35.27395,
+    126.88473,
+    35.27395
+],
+  "geometry": {"coordinates":[126.88473,35.27395],"type":"Point"}
+}

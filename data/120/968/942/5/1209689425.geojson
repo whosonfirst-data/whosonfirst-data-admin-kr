@@ -1,0 +1,64 @@
+{
+  "id": 1209689425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.44038,35.95191,129.44038,35.95191",
+    "geom:latitude":35.95191,
+    "geom:longitude":129.44038,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jangseungbaegi",
+    "gn:country_code":"KR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11252441,
+    "gn:latitude":35.95191,
+    "gn:longitude":129.44038,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Jangseungbaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc2b9\ubc31\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11252441
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1fa0c054d0e5c57c857d4eac2d64fe13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689425
+        }
+    ],
+    "wof:id":1209689425,
+    "wof:lastmodified":1537659264,
+    "wof:name":"Jangseungbaegi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.44038,
+    35.95191,
+    129.44038,
+    35.95191
+],
+  "geometry": {"coordinates":[129.44038,35.95191],"type":"Point"}
+}

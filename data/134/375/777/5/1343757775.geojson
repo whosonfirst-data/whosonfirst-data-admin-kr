@@ -1,0 +1,70 @@
+{
+  "id": 1343757775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.89906,35.16809,128.89906,35.16809",
+    "geom:latitude":35.16809,
+    "geom:longitude":128.89906,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Haepodong",
+    "gn:country_code":"KR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117777,
+    "gn:latitude":35.16809,
+    "gn:longitude":128.89906,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Haepodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\ud3ec\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117777
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5b7aa7d43b3b88e1132d4567f1b83039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1343757775,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1343757775,
+    "wof:lastmodified":1537659166,
+    "wof:name":"Haepodong",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.89906000000002,
+    35.16809,
+    128.89906000000002,
+    35.16809
+],
+  "geometry": {"coordinates":[128.89906000000002,35.16809],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243169443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9942,37.3327,127.9942,37.3327",
+    "geom:latitude":37.3327,
+    "geom:longitude":127.9942,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pongdae",
+    "gn:country_code":"KR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796029,
+    "gn:latitude":37.3327,
+    "gn:longitude":127.9942,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pongdae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\ub300"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796029
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"915775a3868849857f06e1eaae70e21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1243169443,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243169443,
+    "wof:lastmodified":1537657545,
+    "wof:name":"Pongdae",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9942,
+    37.3327,
+    127.9942,
+    37.3327
+],
+  "geometry": {"coordinates":[127.99420000000001,37.3327],"type":"Point"}
+}

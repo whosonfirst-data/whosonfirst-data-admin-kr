@@ -1,0 +1,74 @@
+{
+  "id": 1276525353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16221,37.56657,127.16221,37.56657",
+    "geom:latitude":37.56657,
+    "geom:longitude":127.16221,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kodogi-dong",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6800765,
+    "gn:latitude":37.56657,
+    "gn:longitude":127.16221,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kod\u014fgi-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ub3552\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\uace0\ub3552\ub3d9",
+        "Kod\u014fgi-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890473483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6800765
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc750cebb16c41877afda2bb39047e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473483,
+            "locality_id":1276525353,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1276525353,
+    "wof:lastmodified":1537657681,
+    "wof:name":"Kodogi-dong",
+    "wof:parent_id":890473483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16221000000002,
+    37.56657,
+    127.16221000000002,
+    37.56657
+],
+  "geometry": {"coordinates":[127.16221000000002,37.56657],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343741363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38038,37.11354,127.38038,37.11354",
+    "geom:latitude":37.11354,
+    "geom:longitude":127.38038,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Yongin-si",
+    "gn:asciiname":"Yakbangmaeul",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398956,
+    "gn:latitude":37.11354,
+    "gn:longitude":127.38038,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yakbangmaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc57d\ubc29\ub9c8\uc744"
+    ],
+    "name:kor_x_variant":[
+        "Yakpang-ma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398956
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1fac5afd99261c0f6a831cdea1f1bd88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746543,
+            "locality_id":1343741363,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343741363,
+    "wof:lastmodified":1537657201,
+    "wof:name":"Yakbangmaeul",
+    "wof:parent_id":1108746543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38038,
+    37.11354,
+    127.38038,
+    37.11354
+],
+  "geometry": {"coordinates":[127.38038,37.11354],"type":"Point"}
+}

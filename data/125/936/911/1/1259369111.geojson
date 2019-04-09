@@ -1,0 +1,74 @@
+{
+  "id": 1259369111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82042,37.69788,126.82042,37.69788",
+    "geom:latitude":37.69788,
+    "geom:longitude":126.82042,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pyeongjae",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364270,
+    "gn:latitude":37.69788,
+    "gn:longitude":126.82042,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Pyeongjae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc7ac\uc774"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019y\u014fngjaei",
+        "\ud3c9\uc7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364270
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7c70fdf3372af07cbc5efd852f3ba6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746465,
+            "locality_id":1259369111,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259369111,
+    "wof:lastmodified":1537657074,
+    "wof:name":"Pyeongjae",
+    "wof:parent_id":1108746465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82042,
+    37.69788,
+    126.82042,
+    37.69788
+],
+  "geometry": {"coordinates":[126.82042,37.69788],"type":"Point"}
+}

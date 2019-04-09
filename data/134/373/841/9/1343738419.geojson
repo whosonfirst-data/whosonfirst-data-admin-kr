@@ -1,0 +1,73 @@
+{
+  "id": 1343738419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49,36.1328,127.49,36.1328",
+    "geom:latitude":36.1328,
+    "geom:longitude":127.49,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Umjip'yon",
+    "gn:country_code":"KR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833728,
+    "gn:latitude":36.1328,
+    "gn:longitude":127.49,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u016cmjip\u2019y\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016cmj\u014fn-ni",
+        "\u016cmjibat\u2019t\u016dl",
+        "\u016cmjip\u2019y\u014fn",
+        "\uc74c\uc9c0\ud3b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833728
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9db025ad701e7b6f54f278cef5f75161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473345,
+            "locality_id":1343738419,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343738419,
+    "wof:lastmodified":1537656048,
+    "wof:name":"Umjip'yon",
+    "wof:parent_id":890473345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49,
+    36.1328,
+    127.49,
+    36.1328
+],
+  "geometry": {"coordinates":[127.48999999999999,36.1328],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343422509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76667,35.3,128.76667,35.3",
+    "geom:latitude":35.3,
+    "geom:longitude":128.76667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Solch'ang",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836449,
+    "gn:latitude":35.3,
+    "gn:longitude":128.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u014flch\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014flch\u2019ang-ni",
+        "S\u014flch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836449
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"99e2d307055ba771e20cdf7e20601184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475303,
+            "locality_id":1343422509,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343422509,
+    "wof:lastmodified":1537656188,
+    "wof:name":"Solch'ang",
+    "wof:parent_id":890475303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76667,
+    35.3,
+    128.76667,
+    35.3
+],
+  "geometry": {"coordinates":[128.76667,35.3],"type":"Point"}
+}

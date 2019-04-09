@@ -1,0 +1,65 @@
+{
+  "id": 1209290675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4998,36.1191,127.4998,36.1191",
+    "geom:latitude":36.1191,
+    "geom:longitude":127.4998,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Osumul",
+    "gn:country_code":"KR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6886042,
+    "gn:latitude":36.1191,
+    "gn:longitude":127.4998,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Osumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\uc218\ubb3c",
+        "Osumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6886042
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4e16de7d93dbbb555627bdf00d8caaf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209290675
+        }
+    ],
+    "wof:id":1209290675,
+    "wof:lastmodified":1537658362,
+    "wof:name":"Osumul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4998,
+    36.1191,
+    127.4998,
+    36.1191
+],
+  "geometry": {"coordinates":[127.49979999999999,36.1191],"type":"Point"}
+}

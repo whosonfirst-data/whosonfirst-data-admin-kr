@@ -1,0 +1,67 @@
+{
+  "id": 1243155481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.3925,35.74278,129.3925,35.74278",
+    "geom:latitude":35.74278,
+    "geom:longitude":129.3925,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hyojae",
+    "gn:country_code":"KR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1900819,
+    "gn:latitude":35.74278,
+    "gn:longitude":129.3925,
+    "gn:modification_date":"1997-07-21",
+    "gn:name":"Hyojae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1900819
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a2d4d755b8dfae16d7d589a0f8bca719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1243155481,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1243155481,
+    "wof:lastmodified":1536728452,
+    "wof:name":"Hyojae",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.3925,
+    35.74278,
+    129.3925,
+    35.74278
+],
+  "geometry": {"coordinates":[129.39250000000001,35.74278],"type":"Point"}
+}

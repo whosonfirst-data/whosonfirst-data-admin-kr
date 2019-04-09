@@ -1,0 +1,71 @@
+{
+  "id": 1309879137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.3744,36.6222,129.3744,36.6222",
+    "geom:latitude":36.6222,
+    "geom:longitude":129.3744,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pomhung",
+    "gn:country_code":"KR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838986,
+    "gn:latitude":36.6222,
+    "gn:longitude":129.3744,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u014fmh\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc94\ud765",
+        "P\u014fmh\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838986
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4722f92771e41c88b7c884ae2a711854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1309879137,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1309879137,
+    "wof:lastmodified":1537656318,
+    "wof:name":"Pomhung",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.3744,
+    36.6222,
+    129.3744,
+    36.6222
+],
+  "geometry": {"coordinates":[129.37440000000001,36.6222],"type":"Point"}
+}

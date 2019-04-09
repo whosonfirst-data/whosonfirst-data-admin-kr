@@ -1,0 +1,72 @@
+{
+  "id": 1242563865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.50664,37.84072,127.50664,37.84072",
+    "geom:latitude":37.84072,
+    "geom:longitude":127.50664,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gyeryangchon",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802120,
+    "gn:latitude":37.84072,
+    "gn:longitude":127.50664,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Gyeryangchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uacc4\ub7c9\ucd0c",
+        "Kyeryangch\u2019on",
+        "Gyeryangchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802120
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b2450139ca51ad03668fe0f9a20d5389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1242563865,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242563865,
+    "wof:lastmodified":1537657725,
+    "wof:name":"Gyeryangchon",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.50664,
+    37.84072000000001,
+    127.50664,
+    37.84072000000001
+],
+  "geometry": {"coordinates":[127.50664,37.84072000000001],"type":"Point"}
+}

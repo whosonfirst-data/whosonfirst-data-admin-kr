@@ -1,0 +1,70 @@
+{
+  "id": 1360258639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35375,35.97299,129.35375,35.97299",
+    "geom:latitude":35.97299,
+    "geom:longitude":129.35375,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Namseong",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250806,
+    "gn:latitude":35.97299,
+    "gn:longitude":129.35375,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Namseong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250806
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e89d002c68c1163183c87397b571f012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1360258639,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1360258639,
+    "wof:lastmodified":1537659260,
+    "wof:name":"Namseong",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35375,
+    35.97299,
+    129.35375,
+    35.97299
+],
+  "geometry": {"coordinates":[129.35374999999999,35.97299],"type":"Point"}
+}

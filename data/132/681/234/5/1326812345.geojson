@@ -1,0 +1,70 @@
+{
+  "id": 1326812345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79176,35.03209,126.79176,35.03209",
+    "geom:latitude":35.03209,
+    "geom:longitude":126.79176,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jeseong",
+    "gn:country_code":"KR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192311,
+    "gn:latitude":35.03209,
+    "gn:longitude":126.79176,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Jeseong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc81c\uc131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192311
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ced9ab91e3120e562fdc5a8cd8bb9e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1326812345,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1326812345,
+    "wof:lastmodified":1537659224,
+    "wof:name":"Jeseong",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79176,
+    35.03209,
+    126.79176,
+    35.03209
+],
+  "geometry": {"coordinates":[126.79176,35.03209],"type":"Point"}
+}

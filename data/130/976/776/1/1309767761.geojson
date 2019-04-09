@@ -1,0 +1,71 @@
+{
+  "id": 1309767761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.02127,35.68461,128.02127,35.68461",
+    "geom:latitude":35.68461,
+    "geom:longitude":128.02127,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yanggi",
+    "gn:country_code":"KR",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901031,
+    "gn:latitude":35.68461,
+    "gn:longitude":128.02127,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yanggi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc591\uae30",
+        "Yanggi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901031
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"518fdcaaf8f0cc930e42b2169f3467dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1309767761,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1309767761,
+    "wof:lastmodified":1537656947,
+    "wof:name":"Yanggi",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.02127,
+    35.68461,
+    128.02127,
+    35.68461
+],
+  "geometry": {"coordinates":[128.02126999999999,35.68461],"type":"Point"}
+}

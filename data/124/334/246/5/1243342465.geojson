@@ -1,0 +1,74 @@
+{
+  "id": 1243342465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2167,37.86615,127.2167,37.86615",
+    "geom:latitude":37.86615,
+    "geom:longitude":127.2167,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mogyokdong",
+    "gn:country_code":"KR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813841,
+    "gn:latitude":37.86615,
+    "gn:longitude":127.2167,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Mogyokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa9\uc695\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Mogyok-tong",
+        "Mogyokdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813841
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a833127a384e32b158977f0fe1c76fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1243342465,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243342465,
+    "wof:lastmodified":1537658027,
+    "wof:name":"Mogyokdong",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2167,
+    37.86615,
+    127.2167,
+    37.86615
+],
+  "geometry": {"coordinates":[127.2167,37.86615],"type":"Point"}
+}

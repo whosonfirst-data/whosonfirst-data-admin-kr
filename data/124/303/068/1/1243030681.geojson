@@ -1,0 +1,75 @@
+{
+  "id": 1243030681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71914,35.18124,126.71914,35.18124",
+    "geom:latitude":35.18124,
+    "geom:longitude":126.71914,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Jangdeung",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846627,
+    "gn:latitude":35.18124,
+    "gn:longitude":126.71914,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Jangdeung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\ub4f1"
+    ],
+    "name:und_x_variant":[
+        "Changd\u016dng-ni",
+        "Changd\u016dng",
+        "Jangdeung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890473197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846627
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6b277e9b59cfa0c3f05fa1231fe6e569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473197,
+            "locality_id":1243030681,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1243030681,
+    "wof:lastmodified":1537656710,
+    "wof:name":"Jangdeung",
+    "wof:parent_id":890473197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71914,
+    35.18124,
+    126.71914,
+    35.18124
+],
+  "geometry": {"coordinates":[126.71914,35.18124],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327305165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.035,37.20611,127.035,37.20611",
+    "geom:latitude":37.20611,
+    "geom:longitude":127.035,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Byeongjeom-ri",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896767,
+    "gn:latitude":37.20611,
+    "gn:longitude":127.035,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Byeongjeom-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcd1\uc810\ub9ac",
+        "Py\u014fngj\u014fm",
+        "Byeongjeom-ri",
+        "Py\u014fngj\u014fm-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896767
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fd0c6760c5eb1d218306bff826d22f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1327305165,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327305165,
+    "wof:lastmodified":1537656911,
+    "wof:name":"Byeongjeom-ri",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.035,
+    37.20611,
+    127.035,
+    37.20611
+],
+  "geometry": {"coordinates":[127.035,37.20611],"type":"Point"}
+}

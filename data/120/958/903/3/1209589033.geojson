@@ -1,0 +1,64 @@
+{
+  "id": 1209589033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.44183,36.62668,128.44183,36.62668",
+    "geom:latitude":36.62668,
+    "geom:longitude":128.44183,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Musimbawi",
+    "gn:country_code":"KR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254601,
+    "gn:latitude":36.62668,
+    "gn:longitude":128.44183,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Musimbawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb34\uc2ec\ubc14\uc704"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254601
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fb369dc622759a01444b90ed54669c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209589033
+        }
+    ],
+    "wof:id":1209589033,
+    "wof:lastmodified":1537659274,
+    "wof:name":"Musimbawi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.44183,
+    36.62668,
+    128.44183,
+    36.62668
+],
+  "geometry": {"coordinates":[128.44183000000001,36.62668],"type":"Point"}
+}

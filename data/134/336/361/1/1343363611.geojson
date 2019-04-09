@@ -1,0 +1,71 @@
+{
+  "id": 1343363611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8278,36.2827,127.8278,36.2827",
+    "geom:latitude":36.2827,
+    "geom:longitude":127.8278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kumdal-gol",
+    "gn:country_code":"KR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892266,
+    "gn:latitude":36.2827,
+    "gn:longitude":127.8278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016dmdal-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\ub2ec\uace8",
+        "K\u016dmdal-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892266
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6dcdbf0b63150f5d24e2ab2382416d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473559,
+            "locality_id":1343363611,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1343363611,
+    "wof:lastmodified":1537658537,
+    "wof:name":"Kumdal-gol",
+    "wof:parent_id":890473559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8278,
+    36.2827,
+    127.8278,
+    36.2827
+],
+  "geometry": {"coordinates":[127.8278,36.2827],"type":"Point"}
+}

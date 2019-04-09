@@ -1,0 +1,76 @@
+{
+  "id": 1226771551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2153,37.4435,128.2153,37.4435",
+    "geom:latitude":37.4435,
+    "geom:longitude":128.2153,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangt'o",
+    "gn:country_code":"KR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890114,
+    "gn:latitude":37.4435,
+    "gn:longitude":128.2153,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangt\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ud130"
+    ],
+    "name:kor_x_variant":[
+        "Sangt\u2019\u014f"
+    ],
+    "name:und_x_variant":[
+        "Ussangt\u2019\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890114
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"806be01d60d686b178d31482cf8f609b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473623,
+            "locality_id":1226771551,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226771551,
+    "wof:lastmodified":1537656815,
+    "wof:name":"Sangt'o",
+    "wof:parent_id":890473623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2153,
+    37.4435,
+    128.2153,
+    37.4435
+],
+  "geometry": {"coordinates":[128.21530000000001,37.4435],"type":"Point"}
+}

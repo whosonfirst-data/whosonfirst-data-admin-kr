@@ -1,0 +1,64 @@
+{
+  "id": 1209413725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29178,36.94888,128.29178,36.94888",
+    "geom:latitude":36.94888,
+    "geom:longitude":128.29178,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jangbeol",
+    "gn:country_code":"KR",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9187700,
+    "gn:latitude":36.94888,
+    "gn:longitude":128.29178,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Jangbeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\ubc8c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9187700
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb221b698e8ef3a8dcac6751cab9fe49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209413725
+        }
+    ],
+    "wof:id":1209413725,
+    "wof:lastmodified":1537658928,
+    "wof:name":"Jangbeol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29178000000002,
+    36.94888,
+    128.29178000000002,
+    36.94888
+],
+  "geometry": {"coordinates":[128.29178000000002,36.94888],"type":"Point"}
+}

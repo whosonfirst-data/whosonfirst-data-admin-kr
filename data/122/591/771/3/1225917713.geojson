@@ -1,0 +1,71 @@
+{
+  "id": 1225917713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2392,36.3555,128.2392,36.3555",
+    "geom:latitude":36.3555,
+    "geom:longitude":128.2392,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Manusil",
+    "gn:country_code":"KR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889968,
+    "gn:latitude":36.3555,
+    "gn:longitude":128.2392,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Man\u016dsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9c8\ub290\uc2e4",
+        "Man\u016dsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889968
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"afbd049ead25e185229c4bc4baea19f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1225917713,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1225917713,
+    "wof:lastmodified":1537658466,
+    "wof:name":"Manusil",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2392,
+    36.3555,
+    128.2392,
+    36.3555
+],
+  "geometry": {"coordinates":[128.23920000000001,36.3555],"type":"Point"}
+}

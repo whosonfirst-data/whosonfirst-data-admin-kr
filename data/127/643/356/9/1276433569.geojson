@@ -1,0 +1,76 @@
+{
+  "id": 1276433569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4925,37.163,128.4925,37.163",
+    "geom:latitude":37.163,
+    "geom:longitude":128.4925,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chongyang",
+    "gn:country_code":"KR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845491,
+    "gn:latitude":37.163,
+    "gn:longitude":128.4925,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u014fngyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\uc591"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u014fngyang"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fngyang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845491
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b038b69906bdd9e8c929206650dded82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1276433569,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1276433569,
+    "wof:lastmodified":1537656651,
+    "wof:name":"Chongyang",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4925,
+    37.163,
+    128.4925,
+    37.163
+],
+  "geometry": {"coordinates":[128.49250000000001,37.163],"type":"Point"}
+}

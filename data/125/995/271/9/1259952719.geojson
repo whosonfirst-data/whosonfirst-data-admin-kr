@@ -1,0 +1,75 @@
+{
+  "id": 1259952719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.47166,35.71306,128.47166,35.71306",
+    "geom:latitude":35.71306,
+    "geom:longitude":128.47166,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sangpusil",
+    "gn:country_code":"KR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901562,
+    "gn:latitude":35.71306,
+    "gn:longitude":128.47166,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sangpusil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ud478\uc2e4"
+    ],
+    "name:und_x_variant":[
+        "\uc0c1\ud480\uc2e4",
+        "Sangp\u2019ulsil",
+        "Sangpusil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901562
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a753d69bf0170920d7f70f2312de396f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1259952719,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1259952719,
+    "wof:lastmodified":1537658785,
+    "wof:name":"Sangpusil",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.47166,
+    35.71306,
+    128.47166,
+    35.71306
+],
+  "geometry": {"coordinates":[128.47166000000001,35.71306],"type":"Point"}
+}

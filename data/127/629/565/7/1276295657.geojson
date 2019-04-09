@@ -1,0 +1,73 @@
+{
+  "id": 1276295657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.54222,34.6,126.54222,34.6",
+    "geom:latitude":34.6,
+    "geom:longitude":126.54222,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sindok",
+    "gn:country_code":"KR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6397549,
+    "gn:latitude":34.6,
+    "gn:longitude":126.54222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sind\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub355"
+    ],
+    "name:kor_x_variant":[
+        "Sind\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6397549
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0b4aafd09f62f40874cb97743c9b3fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1276295657,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1276295657,
+    "wof:lastmodified":1537657181,
+    "wof:name":"Sindok",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.54222,
+    34.6,
+    126.54222,
+    34.6
+],
+  "geometry": {"coordinates":[126.54222,34.6],"type":"Point"}
+}

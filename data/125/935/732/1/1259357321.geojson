@@ -1,0 +1,71 @@
+{
+  "id": 1259357321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23806,34.635,128.23806,34.635",
+    "geom:latitude":34.635,
+    "geom:longitude":128.23806,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kunjage",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834441,
+    "gn:latitude":34.635,
+    "gn:longitude":128.23806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kunjage",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u014fk-dong",
+        "T\u014fk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890474581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834441
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ba5b3d6e4a79ee6ef0b1f57a0df3436c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474581,
+            "locality_id":1259357321,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259357321,
+    "wof:lastmodified":1537656086,
+    "wof:name":"Kunjage",
+    "wof:parent_id":890474581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23806000000002,
+    34.635,
+    128.23806000000002,
+    34.635
+],
+  "geometry": {"coordinates":[128.23806000000002,34.635],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226316759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.16234,35.66898,129.16234,35.66898",
+    "geom:latitude":35.66898,
+    "geom:longitude":129.16234,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Wolbu",
+    "gn:country_code":"KR",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079026,
+    "gn:latitude":35.66898,
+    "gn:longitude":129.16234,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Wolbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\ubd80"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079026
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"78af487d2a6f05ec4eab5bd4a5019843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1226316759,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1226316759,
+    "wof:lastmodified":1537659138,
+    "wof:name":"Wolbu",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.16234,
+    35.66898,
+    129.16234,
+    35.66898
+],
+  "geometry": {"coordinates":[129.16234,35.66898],"type":"Point"}
+}

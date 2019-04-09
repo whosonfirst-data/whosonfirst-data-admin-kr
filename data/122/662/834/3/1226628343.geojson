@@ -1,0 +1,67 @@
+{
+  "id": 1226628343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68167,34.47361,126.68167,34.47361",
+    "geom:latitude":34.47361,
+    "geom:longitude":126.68167,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Paeda-ri",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395055,
+    "gn:latitude":34.47361,
+    "gn:longitude":126.68167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paeda-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395055
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"de4df2e90aed6cc4b4b8c2d3f7cfb503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1226628343,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226628343,
+    "wof:lastmodified":1536884010,
+    "wof:name":"Paeda-ri",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68167,
+    34.47361,
+    126.68167,
+    34.47361
+],
+  "geometry": {"coordinates":[126.68167,34.47361],"type":"Point"}
+}

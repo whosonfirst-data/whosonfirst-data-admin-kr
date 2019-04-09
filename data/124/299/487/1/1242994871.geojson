@@ -1,0 +1,73 @@
+{
+  "id": 1242994871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8366,37.7326,128.8366,37.7326",
+    "geom:latitude":37.7326,
+    "geom:longitude":128.8366,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ohung-dong",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816781,
+    "gn:latitude":37.7326,
+    "gn:longitude":128.8366,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u014eh\u016dng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\ud765\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\u014eh\u016dng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816781
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee8676fdc45b7ae1524848cf829053a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1242994871,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242994871,
+    "wof:lastmodified":1537658100,
+    "wof:name":"Ohung-dong",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8366,
+    37.7326,
+    128.8366,
+    37.7326
+],
+  "geometry": {"coordinates":[128.8366,37.7326],"type":"Point"}
+}

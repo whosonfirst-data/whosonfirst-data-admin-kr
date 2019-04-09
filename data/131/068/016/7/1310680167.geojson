@@ -1,0 +1,78 @@
+{
+  "id": 1310680167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68851,37.81567,126.68851,37.81567",
+    "geom:latitude":37.81567,
+    "geom:longitude":126.68851,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Yangjidong",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951098,
+    "gn:latitude":37.81567,
+    "gn:longitude":126.68851,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Yangjidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Yangji-ma\u016dl"
+    ],
+    "name:kor_x_variant":[
+        "\uc591\uc9c0\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Yangji-ma\u016dl",
+        "Yangjidong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951098
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ca498123bb029eaa3c0ada517c2288f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1310680167,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310680167,
+    "wof:lastmodified":1537656969,
+    "wof:name":"Yangjidong",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68851,
+    37.81567,
+    126.68851,
+    37.81567
+],
+  "geometry": {"coordinates":[126.68850999999999,37.81567],"type":"Point"}
+}

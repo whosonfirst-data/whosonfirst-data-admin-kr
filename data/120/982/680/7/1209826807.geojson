@@ -1,0 +1,72 @@
+{
+  "id": 1209826807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28366,35.52403,127.28366,35.52403",
+    "geom:latitude":35.52403,
+    "geom:longitude":127.28366,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Umji",
+    "gn:country_code":"KR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876752,
+    "gn:latitude":35.52403,
+    "gn:longitude":127.28366,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u016cmji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc74c\uc9c0",
+        "\u016cmji",
+        "Eumji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890474645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876752
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"692c52be47e7f536f25f2af5ce422892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474645,
+            "locality_id":1209826807,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1209826807,
+    "wof:lastmodified":1537658147,
+    "wof:name":"Umji",
+    "wof:parent_id":890474645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28366,
+    35.52403,
+    127.28366,
+    35.52403
+],
+  "geometry": {"coordinates":[127.28366,35.52403],"type":"Point"}
+}

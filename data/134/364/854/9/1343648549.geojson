@@ -1,0 +1,72 @@
+{
+  "id": 1343648549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43528,37.63,126.43528,37.63",
+    "geom:latitude":37.63,
+    "geom:longitude":126.43528,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sam-chon",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274589,
+    "gn:latitude":37.63,
+    "gn:longitude":126.43528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sam-chon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\ucd0c",
+        "Sam-chon",
+        "Sam-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274589
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1ec4f30f0291922a77a1e7974963b0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1343648549,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1343648549,
+    "wof:lastmodified":1537657025,
+    "wof:name":"Sam-chon",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43528,
+    37.63,
+    126.43528,
+    37.63
+],
+  "geometry": {"coordinates":[126.43528000000001,37.63],"type":"Point"}
+}

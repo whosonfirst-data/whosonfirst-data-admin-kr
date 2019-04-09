@@ -1,0 +1,70 @@
+{
+  "id": 1243559127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.81135,36.93547,127.81135,36.93547",
+    "geom:latitude":36.93547,
+    "geom:longitude":127.81135,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Golmal",
+    "gn:country_code":"KR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290741,
+    "gn:latitude":36.93547,
+    "gn:longitude":127.81135,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Golmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace8\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290741
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"87edac15d37a502a2b021126692fb220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1243559127,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243559127,
+    "wof:lastmodified":1537658933,
+    "wof:name":"Golmal",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.81135,
+    36.93547,
+    127.81135,
+    36.93547
+],
+  "geometry": {"coordinates":[127.81135,36.93547],"type":"Point"}
+}

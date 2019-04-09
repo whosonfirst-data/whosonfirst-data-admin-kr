@@ -1,0 +1,73 @@
+{
+  "id": 1242699575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8479,37.4621,128.8479,37.4621",
+    "geom:latitude":37.4621,
+    "geom:longitude":128.8479,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hyolch'on",
+    "gn:country_code":"KR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794246,
+    "gn:latitude":37.4621,
+    "gn:longitude":128.8479,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hy\u014flch\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud608\ucc9c"
+    ],
+    "name:kor_x_variant":[
+        "Hy\u014flch\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794246
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c12a34ebd387f4a63b33e6609dcd4dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1242699575,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242699575,
+    "wof:lastmodified":1537657490,
+    "wof:name":"Hyolch'on",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8479,
+    37.4621,
+    128.8479,
+    37.4621
+],
+  "geometry": {"coordinates":[128.84790000000001,37.4621],"type":"Point"}
+}

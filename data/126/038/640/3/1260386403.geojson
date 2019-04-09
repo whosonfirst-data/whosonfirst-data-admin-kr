@@ -1,0 +1,73 @@
+{
+  "id": 1260386403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5706,37.3538,128.5706,37.3538",
+    "geom:latitude":37.3538,
+    "geom:longitude":128.5706,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Majon",
+    "gn:country_code":"KR",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6795064,
+    "gn:latitude":37.3538,
+    "gn:longitude":128.5706,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc804"
+    ],
+    "name:kor_x_variant":[
+        "Maj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6795064
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"126eba2de985cf7f172488970bb961c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1260386403,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1260386403,
+    "wof:lastmodified":1537657516,
+    "wof:name":"Majon",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5706,
+    37.3538,
+    128.5706,
+    37.3538
+],
+  "geometry": {"coordinates":[128.57060000000001,37.3538],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293747555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39143,34.91622,127.39143,34.91622",
+    "geom:latitude":34.91622,
+    "geom:longitude":127.39143,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Changnyeong",
+    "gn:country_code":"KR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846446,
+    "gn:latitude":34.91622,
+    "gn:longitude":127.39143,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Changnyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\ub155"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019angny\u014fng"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019angy\u014fng-ni",
+        "Ch\u2019angny\u014fng-ni",
+        "Changnyeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846446
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a6a1bd5a0656ed3d8770c81d456926eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1293747555,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293747555,
+    "wof:lastmodified":1537656700,
+    "wof:name":"Changnyeong",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39143,
+    34.91622,
+    127.39143,
+    34.91622
+],
+  "geometry": {"coordinates":[127.39143,34.91622],"type":"Point"}
+}

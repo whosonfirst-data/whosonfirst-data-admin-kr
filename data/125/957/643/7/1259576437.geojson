@@ -1,0 +1,77 @@
+{
+  "id": 1259576437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7718,37.1361,127.7718,37.1361",
+    "geom:latitude":37.1361,
+    "geom:longitude":127.7718,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wityangchon",
+    "gn:country_code":"KR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813043,
+    "gn:latitude":37.1361,
+    "gn:longitude":127.7718,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Wityangchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\uc591\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Widyang-ch\u2019on"
+    ],
+    "name:und_x_variant":[
+        "Wisyangchon",
+        "Wityangchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813043
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e49375fd89b31d9f0c22be65142b77fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1259576437,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259576437,
+    "wof:lastmodified":1537657999,
+    "wof:name":"Wityangchon",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7718,
+    37.1361,
+    127.7718,
+    37.1361
+],
+  "geometry": {"coordinates":[127.7718,37.1361],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293876869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52813,36.6906,127.52813,36.6906",
+    "geom:latitude":36.6906,
+    "geom:longitude":127.52813,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tapjeon",
+    "gn:country_code":"KR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308938,
+    "gn:latitude":36.6906,
+    "gn:longitude":127.52813,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Tapjeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0d1\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308938
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"02ecb1f4e731cf3c9a12512d1f83c589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1293876869,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293876869,
+    "wof:lastmodified":1537659017,
+    "wof:name":"Tapjeon",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52813,
+    36.6906,
+    127.52813,
+    36.6906
+],
+  "geometry": {"coordinates":[127.52813,36.6906],"type":"Point"}
+}

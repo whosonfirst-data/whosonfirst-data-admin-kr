@@ -1,0 +1,76 @@
+{
+  "id": 1360277619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33802,38.20206,127.33802,38.20206",
+    "geom:latitude":38.20206,
+    "geom:longitude":127.33802,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Garogae",
+    "gn:country_code":"KR",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843051,
+    "gn:latitude":38.20206,
+    "gn:longitude":127.33802,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Garogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub85c\uac1c"
+    ],
+    "name:und_x_variant":[
+        "Karhy\u014f-dong",
+        "Karugae",
+        "Karogae",
+        "Garogae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843051
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0cdf42b7a07ccfcbff3649b386b44f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1360277619,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1360277619,
+    "wof:lastmodified":1537656529,
+    "wof:name":"Garogae",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33802,
+    38.20206,
+    127.33802,
+    38.20206
+],
+  "geometry": {"coordinates":[127.33802,38.20206],"type":"Point"}
+}

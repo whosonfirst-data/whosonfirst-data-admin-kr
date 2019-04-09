@@ -1,0 +1,67 @@
+{
+  "id": 1293065719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.09194,35.40722,128.09194,35.40722",
+    "geom:latitude":35.40722,
+    "geom:longitude":128.09194,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nae-dong",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901080,
+    "gn:latitude":35.40722,
+    "gn:longitude":128.09194,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"Nae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901080
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a591184a8f0f2ec8e2c96fed72576914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1293065719,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293065719,
+    "wof:lastmodified":1536898236,
+    "wof:name":"Nae-dong",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.09194,
+    35.40722,
+    128.09194,
+    35.40722
+],
+  "geometry": {"coordinates":[128.09193999999999,35.40722],"type":"Point"}
+}

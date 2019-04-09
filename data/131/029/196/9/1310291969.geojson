@@ -1,0 +1,73 @@
+{
+  "id": 1310291969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37458,37.70437,126.37458,37.70437",
+    "geom:latitude":37.70437,
+    "geom:longitude":126.37458,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jeongpo",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845552,
+    "gn:latitude":37.70437,
+    "gn:longitude":126.37458,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Jeongpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seiho",
+        "\uc815\ud3ec",
+        "Jeongpo",
+        "Ch\u014fngp\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845552
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"11fc9fafdba8e867b0326da0741257de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1310291969,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1310291969,
+    "wof:lastmodified":1537656654,
+    "wof:name":"Jeongpo",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37458,
+    37.70437,
+    126.37458,
+    37.70437
+],
+  "geometry": {"coordinates":[126.37457999999999,37.70437],"type":"Point"}
+}

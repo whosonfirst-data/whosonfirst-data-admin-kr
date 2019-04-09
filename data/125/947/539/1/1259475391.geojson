@@ -1,0 +1,77 @@
+{
+  "id": 1259475391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60414,38.27316,127.60414,38.27316",
+    "geom:latitude":38.27316,
+    "geom:longitude":127.60414,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Daegongni",
+    "gn:country_code":"KR",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882272,
+    "gn:latitude":38.27316,
+    "gn:longitude":127.60414,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Daegongni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uace1\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Daegon Ri",
+        "Taekkok",
+        "Daegok-ri",
+        "Taegong-ni",
+        "Daegongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882272
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9e3d5bffe97878e8334cfba82cc70cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1259475391,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259475391,
+    "wof:lastmodified":1537656754,
+    "wof:name":"Daegongni",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60414,
+    38.27316,
+    127.60414,
+    38.27316
+],
+  "geometry": {"coordinates":[127.60414,38.27316],"type":"Point"}
+}

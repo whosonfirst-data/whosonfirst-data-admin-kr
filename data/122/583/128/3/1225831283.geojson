@@ -1,0 +1,70 @@
+{
+  "id": 1225831283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25375,37.80904,127.25375,37.80904",
+    "geom:latitude":37.80904,
+    "geom:longitude":127.25375,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sohag-ni",
+    "gn:country_code":"KR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6813870,
+    "gn:latitude":37.80904,
+    "gn:longitude":127.25375,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sohag-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\ud559\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813870
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d810027fb80ff8a085677dc0b88dcafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476053,
+            "locality_id":1225831283,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1225831283,
+    "wof:lastmodified":1537658029,
+    "wof:name":"Sohag-ni",
+    "wof:parent_id":890476053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25375,
+    37.80904,
+    127.25375,
+    37.80904
+],
+  "geometry": {"coordinates":[127.25375,37.80904],"type":"Point"}
+}

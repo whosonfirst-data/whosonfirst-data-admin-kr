@@ -1,0 +1,70 @@
+{
+  "id": 1243553329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2492,37.1065,128.2492,37.1065",
+    "geom:latitude":37.1065,
+    "geom:longitude":128.2492,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sojae",
+    "gn:country_code":"KR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796734,
+    "gn:latitude":37.1065,
+    "gn:longitude":128.2492,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sojae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uc7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796734
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d14c231d60e12c9c17fbd742d79f8e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475033,
+            "locality_id":1243553329,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1243553329,
+    "wof:lastmodified":1537657567,
+    "wof:name":"Sojae",
+    "wof:parent_id":890475033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2492,
+    37.1065,
+    128.2492,
+    37.1065
+],
+  "geometry": {"coordinates":[128.2492,37.1065],"type":"Point"}
+}

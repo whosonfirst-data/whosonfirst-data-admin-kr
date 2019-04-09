@@ -1,0 +1,77 @@
+{
+  "id": 1292982997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35793,34.8213,127.35793,34.8213",
+    "geom:latitude":34.8213,
+    "geom:longitude":127.35793,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dupyeong",
+    "gn:country_code":"KR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833886,
+    "gn:latitude":34.8213,
+    "gn:longitude":127.35793,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Dupyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ud3c9"
+    ],
+    "name:kor_x_variant":[
+        "Tup\u2019y\u014fng"
+    ],
+    "name:und_x_variant":[
+        "Tup\u2019y\u014fng-ni",
+        "Dupyeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833886
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5d90437b81738e779d716fb9db316e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1292982997,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1292982997,
+    "wof:lastmodified":1537656055,
+    "wof:name":"Dupyeong",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35793,
+    34.8213,
+    127.35793,
+    34.8213
+],
+  "geometry": {"coordinates":[127.35793,34.8213],"type":"Point"}
+}

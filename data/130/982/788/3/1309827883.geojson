@@ -1,0 +1,73 @@
+{
+  "id": 1309827883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.12333,37.51083,129.12333,37.51083",
+    "geom:latitude":37.51083,
+    "geom:longitude":129.12333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Tonghae-si",
+    "gn:asciiname":"Pongo-dong",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832391,
+    "gn:latitude":37.51083,
+    "gn:longitude":129.12333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pongo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongj\u014fng-ni",
+        "Ry\u016bsei-ri",
+        "Yongj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832391
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8c8b3d87b98b181cdf387f6d67832743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476243,
+            "locality_id":1309827883,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309827883,
+    "wof:lastmodified":1537655976,
+    "wof:name":"Pongo-dong",
+    "wof:parent_id":890476243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.12333,
+    37.51083,
+    129.12333,
+    37.51083
+],
+  "geometry": {"coordinates":[129.12333000000001,37.51083],"type":"Point"}
+}

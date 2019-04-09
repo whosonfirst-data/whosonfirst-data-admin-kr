@@ -1,0 +1,67 @@
+{
+  "id": 1327208293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.06667,34.96667,128.06667,34.96667",
+    "geom:latitude":34.96667,
+    "geom:longitude":128.06667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sonjon",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835980,
+    "gn:latitude":34.96667,
+    "gn:longitude":128.06667,
+    "gn:modification_date":"2001-07-30",
+    "gn:name":"S\u014fnj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835980
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1331e3994a502ba44e8e1f02018a95d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473489,
+            "locality_id":1327208293,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1327208293,
+    "wof:lastmodified":1537003750,
+    "wof:name":"Sonjon",
+    "wof:parent_id":890473489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.06667,
+    34.96667,
+    128.06667,
+    34.96667
+],
+  "geometry": {"coordinates":[128.06666999999999,34.96667],"type":"Point"}
+}

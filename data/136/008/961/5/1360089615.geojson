@@ -1,0 +1,75 @@
+{
+  "id": 1360089615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48506,37.02017,127.48506,37.02017",
+    "geom:latitude":37.02017,
+    "geom:longitude":127.48506,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deokdari",
+    "gn:country_code":"KR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834446,
+    "gn:latitude":37.02017,
+    "gn:longitude":127.48506,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Deokdari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ub2e4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "T\u014fkkyo-ri",
+        "T\u014fktari",
+        "Deokdari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834446
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2c54e6f1e3b0667962ea03a0e8a90272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1360089615,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1360089615,
+    "wof:lastmodified":1537656086,
+    "wof:name":"Deokdari",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48506,
+    37.02017,
+    127.48506,
+    37.02017
+],
+  "geometry": {"coordinates":[127.48506,37.02017],"type":"Point"}
+}

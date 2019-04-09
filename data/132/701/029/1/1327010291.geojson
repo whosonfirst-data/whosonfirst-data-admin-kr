@@ -1,0 +1,73 @@
+{
+  "id": 1327010291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90849,37.54717,126.90849,37.54717",
+    "geom:latitude":37.54717,
+    "geom:longitude":126.90849,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hapjeong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844412,
+    "gn:latitude":37.54717,
+    "gn:longitude":126.90849,
+    "gn:modification_date":"2014-01-06",
+    "gn:name":"Hapjeong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hapjeong-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ud569\uc815\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890473201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844412
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"99f9b14459e92266b80da3e28b85f9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473201,
+            "locality_id":1327010291,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1327010291,
+    "wof:lastmodified":1537550156,
+    "wof:name":"Hapjeong-dong",
+    "wof:parent_id":890473201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90849,
+    37.54717,
+    126.90849,
+    37.54717
+],
+  "geometry": {"coordinates":[126.90849,37.54717],"type":"Point"}
+}

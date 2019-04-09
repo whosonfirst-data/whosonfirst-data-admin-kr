@@ -1,0 +1,74 @@
+{
+  "id": 1242836011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.00639,34.9925,128.00639,34.9925",
+    "geom:latitude":34.9925,
+    "geom:longitude":128.00639,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chahye-ri",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846775,
+    "gn:latitude":34.9925,
+    "gn:longitude":128.00639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chahye-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jikei-ri",
+        "Chahe-ri",
+        "Chahae-ri",
+        "Chahye-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846775
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"699c0966d9db8bb3fe1e0686af653b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473489,
+            "locality_id":1242836011,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1242836011,
+    "wof:lastmodified":1537656719,
+    "wof:name":"Chahye-ri",
+    "wof:parent_id":890473489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.00638999999998,
+    34.9925,
+    128.00638999999998,
+    34.9925
+],
+  "geometry": {"coordinates":[128.00638999999998,34.9925],"type":"Point"}
+}

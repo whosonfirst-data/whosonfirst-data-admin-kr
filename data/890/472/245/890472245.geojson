@@ -1,0 +1,68 @@
+{
+  "id": 890472245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22028,37.58972,127.22028,37.58972",
+    "geom:latitude":37.58972,
+    "geom:longitude":127.22028,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":96775,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc640\ubd80"
+    ],
+    "qs:name":"Wabu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1912209,
+        "qs:id":137261
+    },
+    "wof:country":"KR",
+    "wof:created":1469053887,
+    "wof:geomhash":"2b9970d648d49dd48d6766da092936df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":890472245,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":890472245,
+    "wof:lastmodified":1505343714,
+    "wof:name":"Wabu",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:population":96775,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22028,
+    37.58972,
+    127.22028,
+    37.58972
+],
+  "geometry": {"coordinates":[127.22028,37.58972],"type":"Point"}
+}

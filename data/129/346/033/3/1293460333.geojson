@@ -1,0 +1,75 @@
+{
+  "id": 1293460333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.38611,35.9697,128.38611,35.9697",
+    "geom:latitude":35.9697,
+    "geom:longitude":128.38611,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nauchi",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6900423,
+    "gn:latitude":35.9697,
+    "gn:longitude":128.38611,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Nauchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub098\uc6b0\uce58"
+    ],
+    "name:und_x_variant":[
+        "\ub098\uc624\ud0dc",
+        "Naot\u2019ae",
+        "Nauchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6900423
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"52580ed2d63b91cceb2b5f3bf5b6ed4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1293460333,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293460333,
+    "wof:lastmodified":1537658756,
+    "wof:name":"Nauchi",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.38611,
+    35.9697,
+    128.38611,
+    35.9697
+],
+  "geometry": {"coordinates":[128.38611,35.9697],"type":"Point"}
+}

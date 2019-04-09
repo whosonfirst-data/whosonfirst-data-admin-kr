@@ -1,0 +1,73 @@
+{
+  "id": 1259780815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.80744,38.26662,127.80744,38.26662",
+    "geom:latitude":38.26662,
+    "geom:longitude":127.80744,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Geochilbi",
+    "gn:country_code":"KR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884022,
+    "gn:latitude":38.26662,
+    "gn:longitude":127.80744,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Geochilbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac70\uce60\ube44"
+    ],
+    "name:und_x_variant":[
+        "K\u014fch\u2019ilbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884022
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"88998a23a7bfcff28ac544c74650c994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1259780815,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259780815,
+    "wof:lastmodified":1537656770,
+    "wof:name":"Geochilbi",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.80744,
+    38.26662,
+    127.80744,
+    38.26662
+],
+  "geometry": {"coordinates":[127.80744,38.26662],"type":"Point"}
+}

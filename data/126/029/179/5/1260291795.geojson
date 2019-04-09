@@ -1,0 +1,71 @@
+{
+  "id": 1260291795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61249,35.70413,127.61249,35.70413",
+    "geom:latitude":35.70413,
+    "geom:longitude":127.61249,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hoegok",
+    "gn:country_code":"KR",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896393,
+    "gn:latitude":35.70413,
+    "gn:longitude":127.61249,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hoegok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud68c\uace1",
+        "Hoegok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896393
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e7cd5c675e2a481926aab7ff7b65dcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1260291795,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1260291795,
+    "wof:lastmodified":1537658659,
+    "wof:name":"Hoegok",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61249,
+    35.70413,
+    127.61249,
+    35.70413
+],
+  "geometry": {"coordinates":[127.61248999999999,35.70413],"type":"Point"}
+}

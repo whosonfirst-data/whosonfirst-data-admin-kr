@@ -1,0 +1,75 @@
+{
+  "id": 1259968249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.24244,35.31296,129.24244,35.31296",
+    "geom:latitude":35.31296,
+    "geom:longitude":129.24244,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jangan",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1846713,
+    "gn:latitude":35.31296,
+    "gn:longitude":129.24244,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Jangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc548"
+    ],
+    "name:und_x_variant":[
+        "Changal-li",
+        "Changan",
+        "Jangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846713
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"898c6cd9bd1546d61fe57ce67f6ef7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1259968249,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1259968249,
+    "wof:lastmodified":1537656715,
+    "wof:name":"Jangan",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.24244,
+    35.31296,
+    129.24244,
+    35.31296
+],
+  "geometry": {"coordinates":[129.24243999999999,35.31296],"type":"Point"}
+}

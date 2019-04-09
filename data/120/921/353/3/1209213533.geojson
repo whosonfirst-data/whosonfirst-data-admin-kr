@@ -1,0 +1,64 @@
+{
+  "id": 1209213533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.32089,36.64737,127.32089,36.64737",
+    "geom:latitude":36.64737,
+    "geom:longitude":127.32089,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yeochonmal",
+    "gn:country_code":"KR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349231,
+    "gn:latitude":36.64737,
+    "gn:longitude":127.32089,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Yeochonmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ec\ucd0c\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349231
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c314ba87a611e4715074524850f9c593",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209213533
+        }
+    ],
+    "wof:id":1209213533,
+    "wof:lastmodified":1537659023,
+    "wof:name":"Yeochonmal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.32089,
+    36.64737,
+    127.32089,
+    36.64737
+],
+  "geometry": {"coordinates":[127.32089000000001,36.64737],"type":"Point"}
+}

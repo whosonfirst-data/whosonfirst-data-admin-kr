@@ -1,0 +1,67 @@
+{
+  "id": 1226743081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41139,36.60583,127.41139,36.60583",
+    "geom:latitude":36.60583,
+    "geom:longitude":127.41139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karaeul",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1933093,
+    "gn:latitude":36.60583,
+    "gn:longitude":127.41139,
+    "gn:modification_date":"2004-01-20",
+    "gn:name":"Karaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1933093
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0305733a95312df57743c231067f5e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746435,
+            "locality_id":1226743081,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226743081,
+    "wof:lastmodified":1536719724,
+    "wof:name":"Karaeul",
+    "wof:parent_id":1108746435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41139,
+    36.60583,
+    127.41139,
+    36.60583
+],
+  "geometry": {"coordinates":[127.41139,36.60583],"type":"Point"}
+}

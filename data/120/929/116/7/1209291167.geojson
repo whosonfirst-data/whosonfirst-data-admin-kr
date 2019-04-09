@@ -1,0 +1,64 @@
+{
+  "id": 1209291167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.59889,37.71917,126.59889,37.71917",
+    "geom:latitude":37.71917,
+    "geom:longitude":126.59889,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kwiro",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363740,
+    "gn:latitude":37.71917,
+    "gn:longitude":126.59889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwiro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadc0\ub85c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363740
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"78062edc7e961ee3c2775efd86708b89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209291167
+        }
+    ],
+    "wof:id":1209291167,
+    "wof:lastmodified":1537657052,
+    "wof:name":"Kwiro",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.59889,
+    37.71917,
+    126.59889,
+    37.71917
+],
+  "geometry": {"coordinates":[126.59889,37.71917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343238765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38805,37.7073,126.38805,37.7073",
+    "geom:latitude":37.7073,
+    "geom:longitude":126.38805,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sogae",
+    "gn:country_code":"KR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274510,
+    "gn:latitude":37.7073,
+    "gn:longitude":126.38805,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Sogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\uac1c",
+        "Sogae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274510
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b15a977fe6ea1c6dd67c37e43fa011dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1343238765,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1343238765,
+    "wof:lastmodified":1537657020,
+    "wof:name":"Sogae",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38805,
+    37.7073,
+    126.38805,
+    37.7073
+],
+  "geometry": {"coordinates":[126.38805000000001,37.7073],"type":"Point"}
+}

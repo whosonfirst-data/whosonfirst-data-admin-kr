@@ -1,0 +1,65 @@
+{
+  "id": 1209508303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61402,36.33149,127.61402,36.33149",
+    "geom:latitude":36.33149,
+    "geom:longitude":127.61402,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oryu",
+    "gn:country_code":"KR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884721,
+    "gn:latitude":36.33149,
+    "gn:longitude":127.61402,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Oryu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\ub958",
+        "Oryu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884721
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4d0776db8f5db1c751ab69ed9e453eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209508303
+        }
+    ],
+    "wof:id":1209508303,
+    "wof:lastmodified":1537658337,
+    "wof:name":"Oryu",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61402,
+    36.33149,
+    127.61402,
+    36.33149
+],
+  "geometry": {"coordinates":[127.61402,36.33149],"type":"Point"}
+}

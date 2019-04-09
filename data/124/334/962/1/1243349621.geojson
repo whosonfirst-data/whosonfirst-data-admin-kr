@@ -1,0 +1,74 @@
+{
+  "id": 1243349621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.84169,37.67657,126.84169,37.67657",
+    "geom:latitude":37.67657,
+    "geom:longitude":126.84169,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wangneunggol",
+    "gn:country_code":"KR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364129,
+    "gn:latitude":37.67657,
+    "gn:longitude":126.84169,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Wangneunggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc655\ub989\uace8"
+    ],
+    "name:kor_x_variant":[
+        "Wangr\u016dng-gol",
+        "\uc655\ub2a5\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364129
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3c699b304658911e1bde1e7dd745c2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746463,
+            "locality_id":1243349621,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243349621,
+    "wof:lastmodified":1537657068,
+    "wof:name":"Wangneunggol",
+    "wof:parent_id":1108746463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.84169,
+    37.67657,
+    126.84169,
+    37.67657
+],
+  "geometry": {"coordinates":[126.84169,37.67657],"type":"Point"}
+}

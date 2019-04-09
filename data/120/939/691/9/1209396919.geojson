@@ -1,0 +1,64 @@
+{
+  "id": 1209396919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69153,35.01728,126.69153,35.01728",
+    "geom:latitude":35.01728,
+    "geom:longitude":126.69153,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tuju",
+    "gn:country_code":"KR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180248,
+    "gn:latitude":35.01728,
+    "gn:longitude":126.69153,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Tuju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud22c\uc8fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180248
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c85e411f00d775dd22546f8a189b5d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209396919
+        }
+    ],
+    "wof:id":1209396919,
+    "wof:lastmodified":1537659216,
+    "wof:name":"Tuju",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69153,
+    35.01728,
+    126.69153,
+    35.01728
+],
+  "geometry": {"coordinates":[126.69153,35.01728],"type":"Point"}
+}

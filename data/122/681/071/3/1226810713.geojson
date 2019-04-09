@@ -1,0 +1,71 @@
+{
+  "id": 1226810713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.68514,35.69264,127.68514,35.69264",
+    "geom:latitude":35.69264,
+    "geom:longitude":127.68514,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Maeng-dong",
+    "gn:country_code":"KR",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896430,
+    "gn:latitude":35.69264,
+    "gn:longitude":127.68514,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maeng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9f9\ub3d9",
+        "Maeng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896430
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"77a14ca9a9e48a0b8d0395e9d7c37613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472469,
+            "locality_id":1226810713,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226810713,
+    "wof:lastmodified":1537658661,
+    "wof:name":"Maeng-dong",
+    "wof:parent_id":890472469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.68514,
+    35.69264000000001,
+    127.68514,
+    35.69264000000001
+],
+  "geometry": {"coordinates":[127.68514,35.69264000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226312787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.53,35.84278,128.53,35.84278",
+    "geom:latitude":35.84278,
+    "geom:longitude":128.53,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Changgi-dong",
+    "gn:country_code":"KR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1846608,
+    "gn:latitude":35.84278,
+    "gn:longitude":128.53,
+    "gn:modification_date":"2003-12-29",
+    "gn:name":"Changgi-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890476025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846608
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bfea96fd3cc5d3876274f4e89715a50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476025,
+            "locality_id":1226312787,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1226312787,
+    "wof:lastmodified":1536836098,
+    "wof:name":"Changgi-dong",
+    "wof:parent_id":890476025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.53,
+    35.84278,
+    128.53,
+    35.84278
+],
+  "geometry": {"coordinates":[128.53,35.84278],"type":"Point"}
+}

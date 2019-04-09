@@ -1,0 +1,72 @@
+{
+  "id": 1226622791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51833,37.65744,126.51833,37.65744",
+    "geom:latitude":37.65744,
+    "geom:longitude":126.51833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bonggol",
+    "gn:country_code":"KR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274796,
+    "gn:latitude":37.65744,
+    "gn:longitude":126.51833,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Bonggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd09\uace8",
+        "Bonggol",
+        "Pong-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274796
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"09dab4ed3737287bcac2b15b469af89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1226622791,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1226622791,
+    "wof:lastmodified":1537657040,
+    "wof:name":"Bonggol",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51833,
+    37.65744,
+    126.51833,
+    37.65744
+],
+  "geometry": {"coordinates":[126.51833000000001,37.65744],"type":"Point"}
+}

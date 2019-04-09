@@ -1,0 +1,78 @@
+{
+  "id": 1277163487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4387,37.8536,127.4387,37.8536",
+    "geom:latitude":37.8536,
+    "geom:longitude":127.4387,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hoemokdong",
+    "gn:country_code":"KR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844259,
+    "gn:latitude":37.8536,
+    "gn:longitude":127.4387,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Hoemokdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud68c\ubaa9"
+    ],
+    "name:kor_x_variant":[
+        "\ud68c\ubaa9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hoemok-tong",
+        "Hoemok",
+        "Hoemokdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844259
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"83c7406bf75a9846b7dfba08f47018f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472417,
+            "locality_id":1277163487,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1277163487,
+    "wof:lastmodified":1537656585,
+    "wof:name":"Hoemokdong",
+    "wof:parent_id":890472417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4387,
+    37.8536,
+    127.4387,
+    37.8536
+],
+  "geometry": {"coordinates":[127.4387,37.8536],"type":"Point"}
+}

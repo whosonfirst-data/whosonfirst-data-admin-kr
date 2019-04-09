@@ -1,0 +1,70 @@
+{
+  "id": 1209814199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.71935,36.70522,127.71935,36.70522",
+    "geom:latitude":36.70522,
+    "geom:longitude":127.71935,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Seokduni",
+    "gn:country_code":"KR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10370603,
+    "gn:latitude":36.70522,
+    "gn:longitude":127.71935,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Seokduni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\ub454\uc774"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370603
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"35839cfe4f39487b98bdf04f613cd41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1209814199,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1209814199,
+    "wof:lastmodified":1537659048,
+    "wof:name":"Seokduni",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.71935,
+    36.70522,
+    127.71935,
+    36.70522
+],
+  "geometry": {"coordinates":[127.71935000000001,36.70522],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259465785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.70376,35.87807,128.70376,35.87807",
+    "geom:latitude":35.87807,
+    "geom:longitude":128.70376,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Guam",
+    "gn:country_code":"KR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10987763,
+    "gn:latitude":35.87807,
+    "gn:longitude":128.70376,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Guam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10987763
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bca63ecf2d03a84dc69c7f86e0af99a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1259465785,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1259465785,
+    "wof:lastmodified":1537659102,
+    "wof:name":"Guam",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.70376000000002,
+    35.87807,
+    128.70376000000002,
+    35.87807
+],
+  "geometry": {"coordinates":[128.70376000000002,35.87807],"type":"Point"}
+}

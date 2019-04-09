@@ -1,0 +1,77 @@
+{
+  "id": 1242871475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.82583,37.89139,128.82583,37.89139",
+    "geom:latitude":37.89139,
+    "geom:longitude":128.82583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jumunjin",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845142,
+    "gn:latitude":37.89139,
+    "gn:longitude":128.82583,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Jumunjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fc\ubb38\uc9c4"
+    ],
+    "name:und_x_variant":[
+        "Ch\u016bmonjin",
+        "Ch\u016bbunshin",
+        "Ch\u016bmonshin",
+        "Chumunjin",
+        "Jumunjin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845142
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4efdbe4e4204cb8e5797039532e3ad3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476169,
+            "locality_id":1242871475,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242871475,
+    "wof:lastmodified":1537656635,
+    "wof:name":"Jumunjin",
+    "wof:parent_id":890476169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.82583,
+    37.89139,
+    128.82583,
+    37.89139
+],
+  "geometry": {"coordinates":[128.82583,37.89139],"type":"Point"}
+}

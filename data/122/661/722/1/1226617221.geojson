@@ -1,0 +1,73 @@
+{
+  "id": 1226617221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73517,37.69338,126.73517,37.69338",
+    "geom:latitude":37.69338,
+    "geom:longitude":126.73517,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Deogwi",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363808,
+    "gn:latitude":37.69338,
+    "gn:longitude":126.73517,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Deogwi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc704"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fgwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363808
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"eb5e75cf0637b88a370cb94bbbc38a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746467,
+            "locality_id":1226617221,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226617221,
+    "wof:lastmodified":1537657055,
+    "wof:name":"Deogwi",
+    "wof:parent_id":1108746467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73517,
+    37.69338,
+    126.73517,
+    37.69338
+],
+  "geometry": {"coordinates":[126.73517,37.69338],"type":"Point"}
+}

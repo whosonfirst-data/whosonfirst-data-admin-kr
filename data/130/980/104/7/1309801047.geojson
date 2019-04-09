@@ -1,0 +1,74 @@
+{
+  "id": 1309801047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.00259,37.81192,128.00259,37.81192",
+    "geom:latitude":37.81192,
+    "geom:longitude":128.00259,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bonburak",
+    "gn:country_code":"KR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6814352,
+    "gn:latitude":37.81192,
+    "gn:longitude":128.00259,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Bonburak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucca0\uc815\ubcf8\ubd80\ub77d"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019\u014flch\u014fngbonburak",
+        "\ubcf8\ubd80\ub77d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6814352
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"53c162bc640e71c4ba8d483a817bb288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1309801047,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1309801047,
+    "wof:lastmodified":1537658049,
+    "wof:name":"Bonburak",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.00259,
+    37.81192,
+    128.00259,
+    37.81192
+],
+  "geometry": {"coordinates":[128.00259,37.81192],"type":"Point"}
+}

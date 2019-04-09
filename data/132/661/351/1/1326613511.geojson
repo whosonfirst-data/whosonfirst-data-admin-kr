@@ -1,0 +1,73 @@
+{
+  "id": 1326613511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.3682,36.5783,129.3682,36.5783",
+    "geom:latitude":36.5783,
+    "geom:longitude":129.3682,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Worui-dong",
+    "gn:country_code":"KR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832985,
+    "gn:latitude":36.5783,
+    "gn:longitude":129.3682,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u014fr\u016di-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u014fri-dong",
+        "\uc6d4\uc758\ub3d9",
+        "W\u014fr\u016di",
+        "W\u014fr\u016di-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832985
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7a68c506068ae2c4b0feb5d7ae78ce86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1326613511,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1326613511,
+    "wof:lastmodified":1537656004,
+    "wof:name":"Worui-dong",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.3682,
+    36.5783,
+    129.3682,
+    36.5783
+],
+  "geometry": {"coordinates":[129.3682,36.5783],"type":"Point"}
+}

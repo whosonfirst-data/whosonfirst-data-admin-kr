@@ -1,0 +1,70 @@
+{
+  "id": 1226330911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.10585,35.10581,129.10585,35.10581",
+    "geom:latitude":35.10581,
+    "geom:longitude":129.10585,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Baegunpo",
+    "gn:country_code":"KR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11124448,
+    "gn:latitude":35.10581,
+    "gn:longitude":129.10585,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Baegunpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc31\uc6b4\ud3ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        1108746497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11124448
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7a00dafa671fc1f912ec7cc25bcaa65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746497,
+            "locality_id":1226330911,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1226330911,
+    "wof:lastmodified":1537659169,
+    "wof:name":"Baegunpo",
+    "wof:parent_id":1108746497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.10585,
+    35.10581,
+    129.10585,
+    35.10581
+],
+  "geometry": {"coordinates":[129.10585,35.10581],"type":"Point"}
+}

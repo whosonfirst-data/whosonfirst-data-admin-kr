@@ -1,0 +1,75 @@
+{
+  "id": 1360067419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.57111,34.68861,126.57111,34.68861",
+    "geom:latitude":34.68861,
+    "geom:longitude":126.57111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Buam",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838726,
+    "gn:latitude":34.68861,
+    "gn:longitude":126.57111,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Buam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\uc554"
+    ],
+    "name:und_x_variant":[
+        "Puam-ni",
+        "Puam",
+        "Buam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838726
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7bffa196d8262cebc190aa3c6f20fc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474687,
+            "locality_id":1360067419,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360067419,
+    "wof:lastmodified":1537656307,
+    "wof:name":"Buam",
+    "wof:parent_id":890474687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.57111,
+    34.68861,
+    126.57111,
+    34.68861
+],
+  "geometry": {"coordinates":[126.57111,34.68861],"type":"Point"}
+}

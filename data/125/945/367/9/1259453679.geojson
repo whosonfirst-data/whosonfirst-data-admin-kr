@@ -1,0 +1,71 @@
+{
+  "id": 1259453679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1415,36.362,128.1415,36.362",
+    "geom:latitude":36.362,
+    "geom:longitude":128.1415,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yangsan-mal",
+    "gn:country_code":"KR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6889698,
+    "gn:latitude":36.362,
+    "gn:longitude":128.1415,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yangsan-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc591\uc0b0\ub9d0",
+        "Yangsan-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6889698
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f046adef912557c619a580f485559c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472345,
+            "locality_id":1259453679,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259453679,
+    "wof:lastmodified":1537658459,
+    "wof:name":"Yangsan-mal",
+    "wof:parent_id":890472345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1415,
+    36.362,
+    128.1415,
+    36.362
+],
+  "geometry": {"coordinates":[128.14150000000001,36.362],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243330051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1932,36.22549,127.1932,36.22549",
+    "geom:latitude":36.22549,
+    "geom:longitude":127.1932,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Pyojeong-ri",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1886607,
+    "gn:latitude":36.22549,
+    "gn:longitude":127.1932,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Pyojeong-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud45c\uc815\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "P\u2019yoj\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1886607
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"81bf66acb2c446d5f4231691dce8466a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474443,
+            "locality_id":1243330051,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243330051,
+    "wof:lastmodified":1537656787,
+    "wof:name":"Pyojeong-ri",
+    "wof:parent_id":890474443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1932,
+    36.22549,
+    127.1932,
+    36.22549
+],
+  "geometry": {"coordinates":[127.1932,36.22549],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 890476003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83333,37.66667,126.83333,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":126.83333,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Goyang-si"
+    ],
+    "name:eng_x_variant":[
+        "Goyang"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\uc591\uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uace0\uc591"
+    ],
+    "name:unk_x_variant":[
+        "Goyang-si"
+    ],
+    "qs:name":"\uace0\uc591\uc2dc",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uacbd\uae30\ub3c4",
+    "qs:photos":237,
+    "qs:photos_1k":48,
+    "qs:photos_9k":29,
+    "qs:photos_9r":14,
+    "qs:photos_all":6466,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842486,
+        "gp:id":28289179,
+        "qs:id":488327
+    },
+    "wof:country":"KR",
+    "wof:created":1469054058,
+    "wof:geomhash":"e3e2640df114c06eb01af77e2eec4064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476003,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":890476003,
+    "wof:lastmodified":1505343720,
+    "wof:name":"\uace0\uc591\uc2dc",
+    "wof:parent_id":85673191,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83333,
+    37.66667,
+    126.83333,
+    37.66667
+],
+  "geometry": {"coordinates":[126.83333,37.66667],"type":"Point"}
+}

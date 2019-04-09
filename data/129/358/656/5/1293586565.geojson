@@ -1,0 +1,75 @@
+{
+  "id": 1293586565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37042,37.83262,128.37042,37.83262",
+    "geom:latitude":37.83262,
+    "geom:longitude":128.37042,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saengdun",
+    "gn:country_code":"KR",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838205,
+    "gn:latitude":37.83262,
+    "gn:longitude":128.37042,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saengdun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0dd\ub454"
+    ],
+    "name:und_x_variant":[
+        "Saengdun-ni",
+        "Saltun-ni",
+        "Saengdun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838205
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d45c46cf6e05213bf07a90a5e4b5ab7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1293586565,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1293586565,
+    "wof:lastmodified":1537656279,
+    "wof:name":"Saengdun",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37042,
+    37.83262,
+    128.37042,
+    37.83262
+],
+  "geometry": {"coordinates":[128.37042,37.83262],"type":"Point"}
+}

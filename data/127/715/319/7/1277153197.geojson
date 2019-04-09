@@ -1,0 +1,72 @@
+{
+  "id": 1277153197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3788,36.7244,126.3788,36.7244",
+    "geom:latitude":36.7244,
+    "geom:longitude":126.3788,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kam-gol",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843222,
+    "gn:latitude":36.7244,
+    "gn:longitude":126.3788,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kam-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Si-dong",
+        "\uac10\uace8",
+        "Kam-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890475035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843222
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"98b64004da928aaa6470809f330995a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475035,
+            "locality_id":1277153197,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1277153197,
+    "wof:lastmodified":1537656537,
+    "wof:name":"Kam-gol",
+    "wof:parent_id":890475035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3788,
+    36.7244,
+    126.3788,
+    36.7244
+],
+  "geometry": {"coordinates":[126.3788,36.7244],"type":"Point"}
+}

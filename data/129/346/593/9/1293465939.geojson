@@ -1,0 +1,73 @@
+{
+  "id": 1293465939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6333,36.881,126.6333,36.881",
+    "geom:latitude":36.881,
+    "geom:longitude":126.6333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"T'ogok",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834665,
+    "gn:latitude":36.881,
+    "gn:longitude":126.6333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u2019ogok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019ogong-ni",
+        "T\u2019okol",
+        "\ud1a0\uace1",
+        "T\u2019ogok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834665
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"41f2d40779ef5621b8cfd4fea9913925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746439,
+            "locality_id":1293465939,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1293465939,
+    "wof:lastmodified":1537656099,
+    "wof:name":"T'ogok",
+    "wof:parent_id":1108746439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6333,
+    36.881,
+    126.6333,
+    36.881
+],
+  "geometry": {"coordinates":[126.63330000000001,36.881],"type":"Point"}
+}

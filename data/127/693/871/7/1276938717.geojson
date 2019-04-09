@@ -1,0 +1,71 @@
+{
+  "id": 1276938717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.61713,35.55799,128.61713,35.55799",
+    "geom:latitude":35.55799,
+    "geom:longitude":128.61713,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Igyon",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6903378,
+    "gn:latitude":35.55799,
+    "gn:longitude":128.61713,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Igy\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc774\uacac",
+        "Igy\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903378
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d44e2677905ddda38b8d08e9ff5395e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472405,
+            "locality_id":1276938717,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1276938717,
+    "wof:lastmodified":1537658847,
+    "wof:name":"Igyon",
+    "wof:parent_id":890472405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.61713,
+    35.55799000000001,
+    128.61713,
+    35.55799000000001
+],
+  "geometry": {"coordinates":[128.61713,35.55799000000001],"type":"Point"}
+}

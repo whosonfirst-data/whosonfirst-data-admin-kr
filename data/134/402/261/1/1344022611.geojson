@@ -1,0 +1,72 @@
+{
+  "id": 1344022611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.95736,35.58561,127.95736,35.58561",
+    "geom:latitude":35.58561,
+    "geom:longitude":127.95736,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yangji",
+    "gn:country_code":"KR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832881,
+    "gn:latitude":35.58561,
+    "gn:longitude":127.95736,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yangji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangji-ri",
+        "\uc591\uc9c0",
+        "Yangji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890476019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832881
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"833b3a7e256b9aee5f761a85853b0803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476019,
+            "locality_id":1344022611,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1344022611,
+    "wof:lastmodified":1537656000,
+    "wof:name":"Yangji",
+    "wof:parent_id":890476019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.95736,
+    35.58561,
+    127.95736,
+    35.58561
+],
+  "geometry": {"coordinates":[127.95735999999999,35.58561],"type":"Point"}
+}

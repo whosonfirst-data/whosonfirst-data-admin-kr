@@ -1,0 +1,73 @@
+{
+  "id": 1310693651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3697,37.4241,128.3697,37.4241",
+    "geom:latitude":37.4241,
+    "geom:longitude":128.3697,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Komun'gang",
+    "gn:country_code":"KR",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794640,
+    "gn:latitude":37.4241,
+    "gn:longitude":128.3697,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u014fm\u016dn\u2019gang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac80\uc740\uac15"
+    ],
+    "name:kor_x_variant":[
+        "K\u014fm\u016dn\u2019gang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794640
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3a941434113b2fc7b65d85d08d9b7ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1310693651,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1310693651,
+    "wof:lastmodified":1537657503,
+    "wof:name":"Komun'gang",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3697,
+    37.4241,
+    128.3697,
+    37.4241
+],
+  "geometry": {"coordinates":[128.36969999999999,37.4241],"type":"Point"}
+}

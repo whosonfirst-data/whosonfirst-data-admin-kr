@@ -1,0 +1,70 @@
+{
+  "id": 1242744421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28939,36.57925,127.28939,36.57925",
+    "geom:latitude":36.57925,
+    "geom:longitude":127.28939,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Garaeteo",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10804354,
+    "gn:latitude":36.57925,
+    "gn:longitude":127.28939,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Garaeteo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub798\ud130"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10804354
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"919fa3fe797310c7e263eae4ecef9177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1242744421,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1242744421,
+    "wof:lastmodified":1537659063,
+    "wof:name":"Garaeteo",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28939,
+    36.57925,
+    127.28939,
+    36.57925
+],
+  "geometry": {"coordinates":[127.28939,36.57925],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209418501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39256,33.46843,126.39256,33.46843",
+    "geom:latitude":33.46843,
+    "geom:longitude":126.39256,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bondong",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194268,
+    "gn:latitude":33.46843,
+    "gn:longitude":126.39256,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Bondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf8\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Pon-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194268
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5d8ecf6039d3bca52030e91d332425fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209418501
+        }
+    ],
+    "wof:id":1209418501,
+    "wof:lastmodified":1537657005,
+    "wof:name":"Bondong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39256,
+    33.46843,
+    126.39256,
+    33.46843
+],
+  "geometry": {"coordinates":[126.39256,33.46843],"type":"Point"}
+}

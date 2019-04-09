@@ -1,0 +1,64 @@
+{
+  "id": 1209079703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51601,35.93164,128.51601,35.93164",
+    "geom:latitude":35.93164,
+    "geom:longitude":128.51601,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Garagol",
+    "gn:country_code":"KR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8552806,
+    "gn:latitude":35.93164,
+    "gn:longitude":128.51601,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Garagol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub77c\uad58"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8552806
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dfbdc438ef56feed84b4b59e5a5b551c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209079703
+        }
+    ],
+    "wof:id":1209079703,
+    "wof:lastmodified":1537658891,
+    "wof:name":"Garagol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51601000000002,
+    35.93164,
+    128.51601000000002,
+    35.93164
+],
+  "geometry": {"coordinates":[128.51601000000002,35.93164],"type":"Point"}
+}

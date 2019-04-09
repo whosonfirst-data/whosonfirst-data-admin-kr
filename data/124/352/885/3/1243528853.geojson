@@ -1,0 +1,73 @@
+{
+  "id": 1243528853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.01667,34.85,128.01667,34.85",
+    "geom:latitude":34.85,
+    "geom:longitude":128.01667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Puyun-ni",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838501,
+    "gn:latitude":34.85,
+    "gn:longitude":128.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puyun-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puryun-ni",
+        "Punyun-ni",
+        "Puyun-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838501
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1c5bb51c70856679ed05211f7fe4cec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475467,
+            "locality_id":1243528853,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243528853,
+    "wof:lastmodified":1537656297,
+    "wof:name":"Puyun-ni",
+    "wof:parent_id":890475467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.01667,
+    34.85,
+    128.01667,
+    34.85
+],
+  "geometry": {"coordinates":[128.01667,34.85],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293274311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1,34.75,127.1,34.75",
+    "geom:latitude":34.75,
+    "geom:longitude":127.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kaeno-ri",
+    "gn:country_code":"KR",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843407,
+    "gn:latitude":34.75,
+    "gn:longitude":127.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaen\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\ub108\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kaen\u014f-ri"
+    ],
+    "name:und_x_variant":[
+        "T\u014fkch\u014fng-ni",
+        "Ken\u016d-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843407
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8faf7d44d5be0915f0707f22055e4dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473031,
+            "locality_id":1293274311,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293274311,
+    "wof:lastmodified":1537656548,
+    "wof:name":"Kaeno-ri",
+    "wof:parent_id":890473031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1,
+    34.75,
+    127.1,
+    34.75
+],
+  "geometry": {"coordinates":[127.09999999999999,34.75],"type":"Point"}
+}

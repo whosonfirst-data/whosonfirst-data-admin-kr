@@ -1,0 +1,74 @@
+{
+  "id": 1293361583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8522,37.80289,126.8522,37.80289",
+    "geom:latitude":37.80289,
+    "geom:longitude":126.8522,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Dumandong",
+    "gn:country_code":"KR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951280,
+    "gn:latitude":37.80289,
+    "gn:longitude":126.8522,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Dumandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ub9cc\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Tuman-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951280
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2fa6cbf238f7fac985408e2c4f72b7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1293361583,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1293361583,
+    "wof:lastmodified":1537656974,
+    "wof:name":"Dumandong",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8522,
+    37.80289000000001,
+    126.8522,
+    37.80289000000001
+],
+  "geometry": {"coordinates":[126.8522,37.80289000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344036705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68734,37.2446,126.68734,37.2446",
+    "geom:latitude":37.2446,
+    "geom:longitude":126.68734,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Keunmaegaegi",
+    "gn:country_code":"KR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364729,
+    "gn:latitude":37.2446,
+    "gn:longitude":126.68734,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Keunmaegaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\uac1c\ub9e4\uae30"
+    ],
+    "name:kor_x_variant":[
+        "K\u016dngaemaegi",
+        "\ud070\ub9e4\uac1c\uae30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364729
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0c78a46d485beb84614367e910b5fee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1344036705,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1344036705,
+    "wof:lastmodified":1537657095,
+    "wof:name":"Keunmaegaegi",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68734,
+    37.2446,
+    126.68734,
+    37.2446
+],
+  "geometry": {"coordinates":[126.68734000000001,37.2446],"type":"Point"}
+}

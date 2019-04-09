@@ -1,0 +1,88 @@
+{
+  "id": 890473387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97556,37.39167,126.97556,37.39167",
+    "geom:latitude":37.39167,
+    "geom:longitude":126.97556,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pyeongchon-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3c9\ucd0c\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "Pyeongchon-dong"
+    ],
+    "name:vie_x_preferred":[
+        "Pyeongchon-dong"
+    ],
+    "qs:name":"\ud3c9\ucd0c\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uacbd\uae30\ub3c4",
+    "qs:photos":66,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":66,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85673191,
+        102191569,
+        85632231,
+        102026501,
+        1108746411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6572084,
+        "gp:id":28806777,
+        "qs:id":32163,
+        "wd:id":"Q14000005"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053951,
+    "wof:geomhash":"acb9fed37b6dacd8846d49763f22566e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746411,
+            "locality_id":102026501,
+            "neighbourhood_id":890473387,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":890473387,
+    "wof:lastmodified":1553816409,
+    "wof:name":"\ud3c9\ucd0c\ub3d9",
+    "wof:parent_id":102026501,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97556,
+    37.39167,
+    126.97556,
+    37.39167
+],
+  "geometry": {"coordinates":[126.97556,37.39167],"type":"Point"}
+}

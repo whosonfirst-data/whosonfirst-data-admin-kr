@@ -1,0 +1,74 @@
+{
+  "id": 1310387459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86366,34.74652,126.86366,34.74652",
+    "geom:latitude":34.74652,
+    "geom:longitude":126.86366,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Obok",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394735,
+    "gn:latitude":34.74652,
+    "gn:longitude":126.86366,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Obok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ubcf5"
+    ],
+    "name:und_x_variant":[
+        "Obok-tong",
+        "Obok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394735
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fdb59bd3fb5cee72814d521748094bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1310387459,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310387459,
+    "wof:lastmodified":1537657139,
+    "wof:name":"Obok",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86366,
+    34.74652,
+    126.86366,
+    34.74652
+],
+  "geometry": {"coordinates":[126.86366,34.74652],"type":"Point"}
+}

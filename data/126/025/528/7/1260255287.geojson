@@ -1,0 +1,70 @@
+{
+  "id": 1260255287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.44347,35.93239,128.44347,35.93239",
+    "geom:latitude":35.93239,
+    "geom:longitude":128.44347,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Myogaewol",
+    "gn:country_code":"KR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10968245,
+    "gn:latitude":35.93239,
+    "gn:longitude":128.44347,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Myogaewol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb18\uac1c\uc6d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10968245
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"38fb4e8cd1e0df3ac57eead1d6730e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475279,
+            "locality_id":1260255287,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260255287,
+    "wof:lastmodified":1537659099,
+    "wof:name":"Myogaewol",
+    "wof:parent_id":890475279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.44347,
+    35.93239000000001,
+    128.44347,
+    35.93239000000001
+],
+  "geometry": {"coordinates":[128.44346999999999,35.93239000000001],"type":"Point"}
+}

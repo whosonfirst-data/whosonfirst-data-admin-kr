@@ -1,0 +1,64 @@
+{
+  "id": 1209206861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.395,38.50889,128.395,38.50889",
+    "geom:latitude":38.50889,
+    "geom:longitude":128.395,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Majik",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841427,
+    "gn:latitude":38.50889,
+    "gn:longitude":128.395,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Majik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc9c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841427
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ae9d6f486147235f48048d1b356aaad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209206861
+        }
+    ],
+    "wof:id":1209206861,
+    "wof:lastmodified":1537656444,
+    "wof:name":"Majik",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.395,
+    38.50889,
+    128.395,
+    38.50889
+],
+  "geometry": {"coordinates":[128.39500000000001,38.50889],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243349597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58576,37.74011,126.58576,37.74011",
+    "geom:latitude":37.74011,
+    "geom:longitude":126.58576,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seogwondong",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8606555,
+    "gn:latitude":37.74011,
+    "gn:longitude":126.58576,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Seogwondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uc6d0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8606555
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c2dc02fddc27da9cfc7f5cd870b15b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472445,
+            "locality_id":1243349597,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243349597,
+    "wof:lastmodified":1537658896,
+    "wof:name":"Seogwondong",
+    "wof:parent_id":890472445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58576,
+    37.74011,
+    126.58576,
+    37.74011
+],
+  "geometry": {"coordinates":[126.58575999999999,37.74011],"type":"Point"}
+}

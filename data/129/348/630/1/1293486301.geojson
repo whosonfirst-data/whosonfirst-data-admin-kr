@@ -1,0 +1,71 @@
+{
+  "id": 1293486301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7196,36.42761,127.7196,36.42761",
+    "geom:latitude":36.42761,
+    "geom:longitude":127.7196,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Son'gong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6884953,
+    "gn:latitude":36.42761,
+    "gn:longitude":127.7196,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fn\u2019gong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc120\uace1\ub9ac",
+        "S\u014fn\u2019gong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884953
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"da128901006c74d10560e2f7dc132e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472333,
+            "locality_id":1293486301,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293486301,
+    "wof:lastmodified":1537658350,
+    "wof:name":"Son'gong-ni",
+    "wof:parent_id":890472333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7196,
+    36.42761,
+    127.7196,
+    36.42761
+],
+  "geometry": {"coordinates":[127.7196,36.42761],"type":"Point"}
+}

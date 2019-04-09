@@ -1,0 +1,71 @@
+{
+  "id": 1343673285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53704,35.65226,127.53704,35.65226",
+    "geom:latitude":35.65226,
+    "geom:longitude":127.53704,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ha-ri",
+    "gn:country_code":"KR",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896482,
+    "gn:latitude":35.65226,
+    "gn:longitude":127.53704,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ub9ac",
+        "Ha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896482
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"727aea167920808ddbd55e09526d8b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475719,
+            "locality_id":1343673285,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1343673285,
+    "wof:lastmodified":1537658662,
+    "wof:name":"Ha-ri",
+    "wof:parent_id":890475719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53704,
+    35.65226,
+    127.53704,
+    35.65226
+],
+  "geometry": {"coordinates":[127.53704,35.65226],"type":"Point"}
+}

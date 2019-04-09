@@ -1,0 +1,73 @@
+{
+  "id": 1309775883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.58909,35.97011,128.58909,35.97011",
+    "geom:latitude":35.97011,
+    "geom:longitude":128.58909,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jeonggeol",
+    "gn:country_code":"KR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893750,
+    "gn:latitude":35.97011,
+    "gn:longitude":128.58909,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Jeonggeol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\uac78"
+    ],
+    "name:und_x_variant":[
+        "Chingg\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893750
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"03eb722b4d823e5263b06cafba1b754e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746395,
+            "locality_id":1309775883,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1309775883,
+    "wof:lastmodified":1537656837,
+    "wof:name":"Jeonggeol",
+    "wof:parent_id":1108746395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.58909,
+    35.97011,
+    128.58909,
+    35.97011
+],
+  "geometry": {"coordinates":[128.58909,35.97011],"type":"Point"}
+}

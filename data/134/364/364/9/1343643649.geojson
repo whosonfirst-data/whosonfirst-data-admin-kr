@@ -1,0 +1,70 @@
+{
+  "id": 1343643649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.30053,34.87741,126.30053,34.87741",
+    "geom:latitude":34.87741,
+    "geom:longitude":126.30053,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hoeryong",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844237,
+    "gn:latitude":34.87741,
+    "gn:longitude":126.30053,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Hoeryong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud68c\ub8e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844237
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"127fefba9b924d300c5427e20e7941a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475041,
+            "locality_id":1343643649,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343643649,
+    "wof:lastmodified":1537656584,
+    "wof:name":"Hoeryong",
+    "wof:parent_id":890475041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.30053,
+    34.87741,
+    126.30053,
+    34.87741
+],
+  "geometry": {"coordinates":[126.30052999999999,34.87741],"type":"Point"}
+}

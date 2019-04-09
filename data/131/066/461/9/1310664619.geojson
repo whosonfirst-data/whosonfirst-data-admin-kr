@@ -1,0 +1,70 @@
+{
+  "id": 1310664619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67522,35.20574,126.67522,35.20574",
+    "geom:latitude":35.20574,
+    "geom:longitude":126.67522,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seongnyeong",
+    "gn:country_code":"KR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171125,
+    "gn:latitude":35.20574,
+    "gn:longitude":126.67522,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seongnyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\ub839"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171125
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ba9e7fa40aac67e395d9e46cee675c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1310664619,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310664619,
+    "wof:lastmodified":1537659200,
+    "wof:name":"Seongnyeong",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67522,
+    35.20574000000001,
+    126.67522,
+    35.20574000000001
+],
+  "geometry": {"coordinates":[126.67522,35.20574000000001],"type":"Point"}
+}

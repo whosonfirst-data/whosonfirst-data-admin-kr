@@ -1,0 +1,73 @@
+{
+  "id": 1193010457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1633,37.2473,128.1633,37.2473",
+    "geom:latitude":37.2473,
+    "geom:longitude":128.1633,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yonbongjong",
+    "gn:country_code":"KR",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798002,
+    "gn:latitude":37.2473,
+    "gn:longitude":128.1633,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u014fnbongj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\ubd09\uc815"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fnbongj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798002
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f7a79778b8eb4644415d94ba5203c212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1193010457,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1193010457,
+    "wof:lastmodified":1537657611,
+    "wof:name":"Yonbongjong",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1633,
+    37.2473,
+    128.1633,
+    37.2473
+],
+  "geometry": {"coordinates":[128.16329999999999,37.2473],"type":"Point"}
+}

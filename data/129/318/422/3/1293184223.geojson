@@ -1,0 +1,73 @@
+{
+  "id": 1293184223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.41222,35.97046,129.41222,35.97046",
+    "geom:latitude":35.97046,
+    "geom:longitude":129.41222,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ocheon",
+    "gn:country_code":"KR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1893857,
+    "gn:latitude":35.97046,
+    "gn:longitude":129.41222,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ocheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Och\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893857
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e42654aab32e29e1cdfe856824cbd0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746501,
+            "locality_id":1293184223,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1293184223,
+    "wof:lastmodified":1537656839,
+    "wof:name":"Ocheon",
+    "wof:parent_id":1108746501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.41222,
+    35.97046,
+    129.41222,
+    35.97046
+],
+  "geometry": {"coordinates":[129.41221999999999,35.97046],"type":"Point"}
+}

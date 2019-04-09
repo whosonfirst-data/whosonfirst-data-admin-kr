@@ -1,0 +1,80 @@
+{
+  "id": 1209707857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.08751,37.65035,128.08751,37.65035",
+    "geom:latitude":37.65035,
+    "geom:longitude":128.08751,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yulmogi",
+    "gn:country_code":"KR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832067,
+    "gn:latitude":37.65035,
+    "gn:longitude":128.08751,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yulmogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b4\uc6b8\ubaa9"
+    ],
+    "name:kor_x_variant":[
+        "\u014eulmok"
+    ],
+    "name:und_x_variant":[
+        "Nyulmogi",
+        "N\u016drumong-ni",
+        "Nurumogi",
+        "Nulmong-ni",
+        "Yulmogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832067
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"291d272143162804f9e4de6510accc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473623,
+            "locality_id":1209707857,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1209707857,
+    "wof:lastmodified":1537655960,
+    "wof:name":"Yulmogi",
+    "wof:parent_id":890473623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.08751,
+    37.65035,
+    128.08751,
+    37.65035
+],
+  "geometry": {"coordinates":[128.08751000000001,37.65035],"type":"Point"}
+}

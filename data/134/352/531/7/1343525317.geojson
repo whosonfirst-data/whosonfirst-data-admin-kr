@@ -1,0 +1,78 @@
+{
+  "id": 1343525317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71438,34.65208,126.71438,34.65208",
+    "geom:latitude":34.65208,
+    "geom:longitude":126.71438,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seowon",
+    "gn:country_code":"KR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835836,
+    "gn:latitude":34.65208,
+    "gn:longitude":126.71438,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Seowon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc6b4"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fun",
+        "\uc11c\uc6d0"
+    ],
+    "name:und_x_variant":[
+        "W\u014fgok",
+        "Seowon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835836
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4ee48ca2644409dafc0b95ee7906b409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1343525317,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343525317,
+    "wof:lastmodified":1537656158,
+    "wof:name":"Seowon",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71438,
+    34.65208,
+    126.71438,
+    34.65208
+],
+  "geometry": {"coordinates":[126.71438000000001,34.65208],"type":"Point"}
+}

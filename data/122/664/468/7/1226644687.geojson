@@ -1,0 +1,76 @@
+{
+  "id": 1226644687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.75489,36.6398,127.75489,36.6398",
+    "geom:latitude":36.6398,
+    "geom:longitude":127.75489,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gwimani",
+    "gn:country_code":"KR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841720,
+    "gn:latitude":36.6398,
+    "gn:longitude":127.75489,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Gwimani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadc0\ub9cc\uc774"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fngun-ni",
+        "Hanch\u2019\u014fn-ni",
+        "Kwiman",
+        "Gwimani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841720
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3db4240676b72134f9be1a94252680a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1226644687,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1226644687,
+    "wof:lastmodified":1537656458,
+    "wof:name":"Gwimani",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.75489,
+    36.6398,
+    127.75489,
+    36.6398
+],
+  "geometry": {"coordinates":[127.75489,36.6398],"type":"Point"}
+}

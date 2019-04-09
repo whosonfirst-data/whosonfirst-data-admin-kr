@@ -1,0 +1,70 @@
+{
+  "id": 1327422441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.20325,35.21189,129.20325,35.21189",
+    "geom:latitude":35.21189,
+    "geom:longitude":129.20325,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Osin",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979213,
+    "gn:latitude":35.21189,
+    "gn:longitude":129.20325,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Osin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uc2e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979213
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e3da349c4cf5c4a8a36ee09530d6764a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1327422441,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1327422441,
+    "wof:lastmodified":1537656985,
+    "wof:name":"Osin",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.20325,
+    35.21189000000001,
+    129.20325,
+    35.21189000000001
+],
+  "geometry": {"coordinates":[129.20325,35.21189000000001],"type":"Point"}
+}

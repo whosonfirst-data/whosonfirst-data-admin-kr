@@ -1,0 +1,73 @@
+{
+  "id": 1242656601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.51848,37.16664,127.51848,37.16664",
+    "geom:latitude":37.16664,
+    "geom:longitude":127.51848,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hapalgye",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812656,
+    "gn:latitude":37.16664,
+    "gn:longitude":127.51848,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Hapalgye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ud314\uacc4"
+    ],
+    "name:kor_x_variant":[
+        "Hap\u2019algye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812656
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e45d7ec6de1d7def5737fe09f2169e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1242656601,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242656601,
+    "wof:lastmodified":1537657976,
+    "wof:name":"Hapalgye",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.51848,
+    37.16664,
+    127.51848,
+    37.16664
+],
+  "geometry": {"coordinates":[127.51848,37.16664],"type":"Point"}
+}

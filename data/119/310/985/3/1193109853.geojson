@@ -1,0 +1,70 @@
+{
+  "id": 1193109853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.64652,35.83119,128.64652,35.83119",
+    "geom:latitude":35.83119,
+    "geom:longitude":128.64652,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Joil",
+    "gn:country_code":"KR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11032732,
+    "gn:latitude":35.83119,
+    "gn:longitude":128.64652,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Joil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc870\uc77c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890473007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11032732
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6c6a9ba65f76f1a362ae527bf5f4f3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473007,
+            "locality_id":1193109853,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1193109853,
+    "wof:lastmodified":1537659110,
+    "wof:name":"Joil",
+    "wof:parent_id":890473007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.64652,
+    35.83119,
+    128.64652,
+    35.83119
+],
+  "geometry": {"coordinates":[128.64652000000001,35.83119],"type":"Point"}
+}

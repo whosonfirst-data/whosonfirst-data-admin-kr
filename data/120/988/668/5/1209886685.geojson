@@ -1,0 +1,74 @@
+{
+  "id": 1209886685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2109,36.5061,129.2109,36.5061",
+    "geom:latitude":36.5061,
+    "geom:longitude":129.2109,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Buzan",
+    "gn:country_code":"KR",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838748,
+    "gn:latitude":36.5061,
+    "gn:longitude":129.2109,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019osan-dong",
+        "Busan-d\u014d",
+        "P\u2019osal-li",
+        "\ud3ec\uc0b0",
+        "P\u2019osan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838748
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3f9c9b7ffb2a1ed59707d7422faa5840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473713,
+            "locality_id":1209886685,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1209886685,
+    "wof:lastmodified":1537656307,
+    "wof:name":"Buzan",
+    "wof:parent_id":890473713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2109,
+    36.5061,
+    129.2109,
+    36.5061
+],
+  "geometry": {"coordinates":[129.21090000000001,36.5061],"type":"Point"}
+}

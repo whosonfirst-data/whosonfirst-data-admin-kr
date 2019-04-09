@@ -1,0 +1,74 @@
+{
+  "id": 1343241303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3731,37.53,127.3731,37.53",
+    "geom:latitude":37.53,
+    "geom:longitude":127.3731,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Myogok",
+    "gn:country_code":"KR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6803287,
+    "gn:latitude":37.53,
+    "gn:longitude":127.3731,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Myogok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb18\uace1"
+    ],
+    "name:und_x_variant":[
+        "\ubb18\uace1",
+        "Myogok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6803287
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fb24e85620a55eec244b8f84018ce392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1343241303,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343241303,
+    "wof:lastmodified":1537657777,
+    "wof:name":"Myogok",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3731,
+    37.53,
+    127.3731,
+    37.53
+],
+  "geometry": {"coordinates":[127.37309999999999,37.53],"type":"Point"}
+}

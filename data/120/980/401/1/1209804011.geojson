@@ -1,0 +1,70 @@
+{
+  "id": 1209804011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.26154,35.31322,129.26154,35.31322",
+    "geom:latitude":35.31322,
+    "geom:longitude":129.26154,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gwanjindeum",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097978,
+    "gn:latitude":35.31322,
+    "gn:longitude":129.26154,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Gwanjindeum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\uc9c4\ub4ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097978
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b9cdb83c096a8187ca271349e545650f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472099,
+            "locality_id":1209804011,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1209804011,
+    "wof:lastmodified":1537659155,
+    "wof:name":"Gwanjindeum",
+    "wof:parent_id":890472099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.26154,
+    35.31322,
+    129.26154,
+    35.31322
+],
+  "geometry": {"coordinates":[129.26154,35.31322],"type":"Point"}
+}

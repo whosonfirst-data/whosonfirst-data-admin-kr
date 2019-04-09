@@ -1,0 +1,67 @@
+{
+  "id": 1276312001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05,38.11667,127.05,38.11667",
+    "geom:latitude":38.11667,
+    "geom:longitude":127.05,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"T'apko-ri",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834810,
+    "gn:latitude":38.11667,
+    "gn:longitude":127.05,
+    "gn:modification_date":"1995-04-24",
+    "gn:name":"T\u2019apk\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834810
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e4ddb63bb35f106ec5a204a2c3a661ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1276312001,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276312001,
+    "wof:lastmodified":1536807060,
+    "wof:name":"T'apko-ri",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05,
+    38.11667,
+    127.05,
+    38.11667
+],
+  "geometry": {"coordinates":[127.05,38.11667],"type":"Point"}
+}

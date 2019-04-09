@@ -1,0 +1,72 @@
+{
+  "id": 1276202343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88338,36.68141,126.88338,36.68141",
+    "geom:latitude":36.68141,
+    "geom:longitude":126.88338,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Jeonbul",
+    "gn:country_code":"KR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845748,
+    "gn:latitude":36.68141,
+    "gn:longitude":126.88338,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Jeonbul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc804\ubd88",
+        "Ch\u014fnbul",
+        "Jeonbul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845748
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1d0e2c29ee7f975aaf0c26050e52547a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474695,
+            "locality_id":1276202343,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1276202343,
+    "wof:lastmodified":1537656664,
+    "wof:name":"Jeonbul",
+    "wof:parent_id":890474695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88338,
+    36.68141,
+    126.88338,
+    36.68141
+],
+  "geometry": {"coordinates":[126.88338,36.68141],"type":"Point"}
+}

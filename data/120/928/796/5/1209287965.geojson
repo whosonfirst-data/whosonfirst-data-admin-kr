@@ -1,0 +1,64 @@
+{
+  "id": 1209287965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65574,36.68581,128.65574,36.68581",
+    "geom:latitude":36.68581,
+    "geom:longitude":128.65574,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dongseoma",
+    "gn:country_code":"KR",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255357,
+    "gn:latitude":36.68581,
+    "gn:longitude":128.65574,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Dongseoma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc11c\ub9c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255357
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5087bb69834bfdbdfd307f0e7e0279a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209287965
+        }
+    ],
+    "wof:id":1209287965,
+    "wof:lastmodified":1537659285,
+    "wof:name":"Dongseoma",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65573999999998,
+    36.68581,
+    128.65573999999998,
+    36.68581
+],
+  "geometry": {"coordinates":[128.65573999999998,36.68581],"type":"Point"}
+}

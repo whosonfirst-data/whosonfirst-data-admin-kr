@@ -1,0 +1,73 @@
+{
+  "id": 1309777833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.78941,34.63215,126.78941,34.63215",
+    "geom:latitude":34.63215,
+    "geom:longitude":126.78941,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sinhak",
+    "gn:country_code":"KR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394430,
+    "gn:latitude":34.63215,
+    "gn:longitude":126.78941,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sinhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ud559"
+    ],
+    "name:kor_x_variant":[
+        "W\u014fn-do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394430
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fe18c475edcb858494a2551f7bf7d7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1309777833,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1309777833,
+    "wof:lastmodified":1537657129,
+    "wof:name":"Sinhak",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.78941,
+    34.63215,
+    126.78941,
+    34.63215
+],
+  "geometry": {"coordinates":[126.78941,34.63215],"type":"Point"}
+}

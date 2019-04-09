@@ -1,0 +1,79 @@
+{
+  "id": 1226306831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69213,34.39062,126.69213,34.39062",
+    "geom:latitude":34.39062,
+    "geom:longitude":126.69213,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Eunseondong",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833580,
+    "gn:latitude":34.39062,
+    "gn:longitude":126.69213,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Eunseondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc740\uc120\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\u016cns\u014fn-dong"
+    ],
+    "name:und_x_variant":[
+        "\u016cns\u014fn-ni",
+        "\u016cnsan-ni",
+        "\u016cns\u014fng-dong",
+        "Eunseondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833580
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5f6456a382f0f46d07fa31d31de2aa1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1226306831,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226306831,
+    "wof:lastmodified":1537656041,
+    "wof:name":"Eunseondong",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69213,
+    34.39062,
+    126.69213,
+    34.39062
+],
+  "geometry": {"coordinates":[126.69213000000001,34.39062],"type":"Point"}
+}

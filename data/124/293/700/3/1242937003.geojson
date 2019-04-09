@@ -1,0 +1,67 @@
+{
+  "id": 1242937003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33389,34.92444,127.33389,34.92444",
+    "geom:latitude":34.92444,
+    "geom:longitude":127.33389,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nagan",
+    "gn:country_code":"KR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884174,
+    "gn:latitude":34.92444,
+    "gn:longitude":127.33389,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"Nagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884174
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ee32cf9c55d5626f46f6ab9f3eefda8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1242937003,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1242937003,
+    "wof:lastmodified":1537041428,
+    "wof:name":"Nagan",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33389,
+    34.92444,
+    127.33389,
+    34.92444
+],
+  "geometry": {"coordinates":[127.33389,34.92444],"type":"Point"}
+}

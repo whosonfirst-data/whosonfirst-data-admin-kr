@@ -1,0 +1,75 @@
+{
+  "id": 1209980435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06648,34.432,127.06648,34.432",
+    "geom:latitude":34.432,
+    "geom:longitude":127.06648,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chau",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846295,
+    "gn:latitude":34.432,
+    "gn:longitude":127.06648,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Chau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc28\uc6b0"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019au",
+        "Ch\u2019au-ri",
+        "Chau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846295
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dbec1ebd70e71adf9fd970f771e083b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1209980435,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209980435,
+    "wof:lastmodified":1537656693,
+    "wof:name":"Chau",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06648,
+    34.432,
+    127.06648,
+    34.432
+],
+  "geometry": {"coordinates":[127.06648,34.432],"type":"Point"}
+}

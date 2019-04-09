@@ -1,0 +1,76 @@
+{
+  "id": 1326703735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.45095,35.66215,129.45095,35.66215",
+    "geom:latitude":35.66215,
+    "geom:longitude":129.45095,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gwanseong",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841742,
+    "gn:latitude":35.66215,
+    "gn:longitude":129.45095,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Gwanseong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\uc131"
+    ],
+    "name:und_x_variant":[
+        "Kwans\u014fng-dong",
+        "Kwansong-bong",
+        "Kwans\u014fng",
+        "Gwanseong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841742
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0cfeeb5dcd08364b14dcb0566dfb5d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1326703735,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1326703735,
+    "wof:lastmodified":1537656459,
+    "wof:name":"Gwanseong",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.45095,
+    35.66215,
+    129.45095,
+    35.66215
+],
+  "geometry": {"coordinates":[129.45095000000001,35.66215],"type":"Point"}
+}

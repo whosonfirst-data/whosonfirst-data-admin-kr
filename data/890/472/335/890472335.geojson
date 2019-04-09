@@ -1,0 +1,88 @@
+{
+  "id": 890472335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65152,35.27534,128.65152,35.27534",
+    "geom:latitude":35.27534,
+    "geom:longitude":128.65152,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424868,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Changwon-si"
+    ],
+    "name:eng_x_variant":[
+        "Changwon"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc3d\uc6d0\uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucc3d\uc6d0",
+        "Ch\u2019angw\u014fn-si"
+    ],
+    "name:unk_x_variant":[
+        "Changwon-si"
+    ],
+    "qs:name":"\ucc3d\uc6d0\uc2dc",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uacbd\uc0c1\ub0a8\ub3c4",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":538,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846322,
+        "gp:id":28289127,
+        "qs:id":1202127
+    },
+    "wof:country":"KR",
+    "wof:created":1469053895,
+    "wof:geomhash":"a7da0e8b47adecd40f8c93b1334917b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472335,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":890472335,
+    "wof:lastmodified":1505343715,
+    "wof:name":"\ucc3d\uc6d0\uc2dc",
+    "wof:parent_id":85673215,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65152,
+    35.27534,
+    128.65152,
+    35.27534
+],
+  "geometry": {"coordinates":[128.65152,35.27534],"type":"Point"}
+}

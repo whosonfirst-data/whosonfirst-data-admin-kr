@@ -1,0 +1,71 @@
+{
+  "id": 1242937699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.10922,35.50609,128.10922,35.50609",
+    "geom:latitude":35.50609,
+    "geom:longitude":128.10922,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kumgok-tong",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904589,
+    "gn:latitude":35.50609,
+    "gn:longitude":128.10922,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016dmgok-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\uace1\ub3d9",
+        "K\u016dmgok-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904589
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a8987fcef5df003d7545cf17f22f3a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473177,
+            "locality_id":1242937699,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1242937699,
+    "wof:lastmodified":1537658873,
+    "wof:name":"Kumgok-tong",
+    "wof:parent_id":890473177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.10922,
+    35.50609,
+    128.10922,
+    35.50609
+],
+  "geometry": {"coordinates":[128.10921999999999,35.50609],"type":"Point"}
+}

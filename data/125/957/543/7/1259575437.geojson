@@ -1,0 +1,73 @@
+{
+  "id": 1259575437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1999,37.4759,128.1999,37.4759",
+    "geom:latitude":37.4759,
+    "geom:longitude":128.1999,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chujom-ch'on",
+    "gn:country_code":"KR",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6793807,
+    "gn:latitude":37.4759,
+    "gn:longitude":128.1999,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chuj\u014fm-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fc\uc810\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Chuj\u014fm-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6793807
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"21ecb8977e33eba69d0f2853a5469b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473623,
+            "locality_id":1259575437,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259575437,
+    "wof:lastmodified":1537657476,
+    "wof:name":"Chujom-ch'on",
+    "wof:parent_id":890473623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1999,
+    37.4759,
+    128.1999,
+    37.4759
+],
+  "geometry": {"coordinates":[128.19990000000001,37.4759],"type":"Point"}
+}

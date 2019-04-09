@@ -1,0 +1,67 @@
+{
+  "id": 1209782149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.08139,36.62778,127.08139,36.62778",
+    "geom:latitude":36.62778,
+    "geom:longitude":127.08139,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wolsal-li",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1886752,
+    "gn:latitude":36.62778,
+    "gn:longitude":127.08139,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"W\u014flsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1886752
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e47923f3bfd125a989a34287d597a62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1209782149,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1209782149,
+    "wof:lastmodified":1536372502,
+    "wof:name":"Wolsal-li",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.08138999999998,
+    36.62778,
+    127.08138999999998,
+    36.62778
+],
+  "geometry": {"coordinates":[127.08138999999998,36.62778],"type":"Point"}
+}

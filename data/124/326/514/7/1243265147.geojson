@@ -1,0 +1,71 @@
+{
+  "id": 1243265147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01845,35.88432,127.01845,35.88432",
+    "geom:latitude":35.88432,
+    "geom:longitude":127.01845,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Todo-dong",
+    "gn:country_code":"KR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6877981,
+    "gn:latitude":35.88432,
+    "gn:longitude":127.01845,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Todo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c4\ub3c4\ub3d9",
+        "Todo-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        1108746469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6877981
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d85edfc9e5db3316bdd7ec00cb0fde27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746469,
+            "locality_id":1243265147,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1243265147,
+    "wof:lastmodified":1537658180,
+    "wof:name":"Todo-dong",
+    "wof:parent_id":1108746469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01845,
+    35.88432,
+    127.01845,
+    35.88432
+],
+  "geometry": {"coordinates":[127.01845,35.88432],"type":"Point"}
+}

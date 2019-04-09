@@ -1,0 +1,64 @@
+{
+  "id": 1209077965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6693,35.20072,126.6693,35.20072",
+    "geom:latitude":35.20072,
+    "geom:longitude":126.6693,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nokseo",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171122,
+    "gn:latitude":35.20072,
+    "gn:longitude":126.6693,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Nokseo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub179\uc11c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171122
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"be6a2be1c1c583a7372f46ef01d1be34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209077965
+        }
+    ],
+    "wof:id":1209077965,
+    "wof:lastmodified":1537659199,
+    "wof:name":"Nokseo",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6693,
+    35.20072000000001,
+    126.6693,
+    35.20072000000001
+],
+  "geometry": {"coordinates":[126.66930000000001,35.20072000000001],"type":"Point"}
+}

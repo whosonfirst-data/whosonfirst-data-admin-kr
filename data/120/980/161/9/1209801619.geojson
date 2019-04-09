@@ -1,0 +1,72 @@
+{
+  "id": 1209801619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.90113,37.95009,126.90113,37.95009",
+    "geom:latitude":37.95009,
+    "geom:longitude":126.90113,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sikhyeon",
+    "gn:country_code":"KR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799295,
+    "gn:latitude":37.95009,
+    "gn:longitude":126.90113,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Sikhyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2dd\ud604",
+        "Sikhy\u014fn",
+        "Sikhyeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799295
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cd1fb396d2a84c2b046d2e20f3f33d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1209801619,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209801619,
+    "wof:lastmodified":1537657628,
+    "wof:name":"Sikhyeon",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.90113,
+    37.95009,
+    126.90113,
+    37.95009
+],
+  "geometry": {"coordinates":[126.90112999999999,37.95009],"type":"Point"}
+}

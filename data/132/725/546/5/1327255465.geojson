@@ -1,0 +1,67 @@
+{
+  "id": 1327255465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52722,38.27194,127.52722,38.27194",
+    "geom:latitude":38.27194,
+    "geom:longitude":127.52722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Idunji",
+    "gn:country_code":"KR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882562,
+    "gn:latitude":38.27194,
+    "gn:longitude":127.52722,
+    "gn:modification_date":"2000-06-07",
+    "gn:name":"Idunji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882562
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b35eeb6992deaf114131420336e258ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1327255465,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327255465,
+    "wof:lastmodified":1536937078,
+    "wof:name":"Idunji",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52722,
+    38.27194,
+    127.52722,
+    38.27194
+],
+  "geometry": {"coordinates":[127.52722,38.27194],"type":"Point"}
+}

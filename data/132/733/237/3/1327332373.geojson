@@ -1,0 +1,72 @@
+{
+  "id": 1327332373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58916,36.33985,127.58916,36.33985",
+    "geom:latitude":36.33985,
+    "geom:longitude":127.58916,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Neulchi",
+    "gn:country_code":"KR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884627,
+    "gn:latitude":36.33985,
+    "gn:longitude":127.58916,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Neulchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub298\uce58",
+        "N\u016dlch\u2019i",
+        "Neulchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884627
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"bb0134cd4d15bb2aadfcd33c88f6bf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1327332373,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1327332373,
+    "wof:lastmodified":1537658331,
+    "wof:name":"Neulchi",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58916,
+    36.33985,
+    127.58916,
+    36.33985
+],
+  "geometry": {"coordinates":[127.58916000000001,36.33985],"type":"Point"}
+}

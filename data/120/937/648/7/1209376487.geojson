@@ -1,0 +1,65 @@
+{
+  "id": 1209376487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.02921,35.71618,128.02921,35.71618",
+    "geom:latitude":35.71618,
+    "geom:longitude":128.02921,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sangsuwol",
+    "gn:country_code":"KR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6904230,
+    "gn:latitude":35.71618,
+    "gn:longitude":128.02921,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sangsuw\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uc218\uc6d4",
+        "Sangsuw\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904230
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"25948d18feca724254f99990da912216",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209376487
+        }
+    ],
+    "wof:id":1209376487,
+    "wof:lastmodified":1537658857,
+    "wof:name":"Sangsuwol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.02921,
+    35.71618,
+    128.02921,
+    35.71618
+],
+  "geometry": {"coordinates":[128.02921000000001,35.71618],"type":"Point"}
+}

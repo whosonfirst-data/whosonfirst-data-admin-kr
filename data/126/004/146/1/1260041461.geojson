@@ -1,0 +1,71 @@
+{
+  "id": 1260041461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.28116,35.22962,128.28116,35.22962",
+    "geom:latitude":35.22962,
+    "geom:longitude":128.28116,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ch'ongwon",
+    "gn:country_code":"KR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899124,
+    "gn:latitude":35.22962,
+    "gn:longitude":128.28116,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019\u014fngw\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uccad\uc6d0",
+        "Ch\u2019\u014fngw\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899124
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"45c722cda4fc77d67fa5dcbc4cb565d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475301,
+            "locality_id":1260041461,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1260041461,
+    "wof:lastmodified":1537658728,
+    "wof:name":"Ch'ongwon",
+    "wof:parent_id":890475301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.28116,
+    35.22962000000001,
+    128.28116,
+    35.22962000000001
+],
+  "geometry": {"coordinates":[128.28116,35.22962000000001],"type":"Point"}
+}

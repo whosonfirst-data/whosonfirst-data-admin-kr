@@ -1,0 +1,71 @@
+{
+  "id": 1343444289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.07413,36.14808,129.07413,36.14808",
+    "geom:latitude":36.14808,
+    "geom:longitude":129.07413,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Munbangu",
+    "gn:country_code":"KR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878640,
+    "gn:latitude":36.14808,
+    "gn:longitude":129.07413,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Munbangu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb38\ubc29\uc6b0",
+        "Munbangu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878640
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"16c2eac86f03ae2f94e6598f84ad653d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1343444289,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343444289,
+    "wof:lastmodified":1537658198,
+    "wof:name":"Munbangu",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.07413,
+    36.14808,
+    129.07413,
+    36.14808
+],
+  "geometry": {"coordinates":[129.07413,36.14808],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209311893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.60728,38.14969,128.60728,38.14969",
+    "geom:latitude":38.14969,
+    "geom:longitude":128.60728,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oegoji",
+    "gn:country_code":"KR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588428,
+    "gn:latitude":38.14969,
+    "gn:longitude":128.60728,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Oegoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc678\uace0\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588428
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"aba7d36c63bacf0b1686b5bb5bc49bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209311893
+        }
+    ],
+    "wof:id":1209311893,
+    "wof:lastmodified":1537658887,
+    "wof:name":"Oegoji",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.60728,
+    38.14969,
+    128.60728,
+    38.14969
+],
+  "geometry": {"coordinates":[128.60728,38.14969],"type":"Point"}
+}

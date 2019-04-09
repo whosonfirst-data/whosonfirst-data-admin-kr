@@ -1,0 +1,64 @@
+{
+  "id": 1209085369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86456,37.94083,126.86456,37.94083",
+    "geom:latitude":37.94083,
+    "geom:longitude":126.86456,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dojanggol",
+    "gn:country_code":"KR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11325880,
+    "gn:latitude":37.94083,
+    "gn:longitude":126.86456,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dojanggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\uc7a5\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11325880
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"132756719a2dce4fee4fdc937cd7cf2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209085369
+        }
+    ],
+    "wof:id":1209085369,
+    "wof:lastmodified":1537659326,
+    "wof:name":"Dojanggol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86456,
+    37.94083,
+    126.86456,
+    37.94083
+],
+  "geometry": {"coordinates":[126.86456,37.94083],"type":"Point"}
+}

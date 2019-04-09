@@ -1,0 +1,71 @@
+{
+  "id": 1343432125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.54278,37.27028,127.54278,37.27028",
+    "geom:latitude":37.27028,
+    "geom:longitude":127.54278,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Maehwaji",
+    "gn:country_code":"KR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6576386,
+    "gn:latitude":37.27028,
+    "gn:longitude":127.54278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maehwaji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9e4\ud654\uc9c0",
+        "Maehwaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6576386
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0a6348549cbb9006c21d9513d3c8c253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1343432125,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1343432125,
+    "wof:lastmodified":1537657312,
+    "wof:name":"Maehwaji",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.54278,
+    37.27028,
+    127.54278,
+    37.27028
+],
+  "geometry": {"coordinates":[127.54277999999999,37.27028],"type":"Point"}
+}

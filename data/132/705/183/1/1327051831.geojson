@@ -1,0 +1,74 @@
+{
+  "id": 1327051831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.21527,37.88649,128.21527,37.88649",
+    "geom:latitude":37.88649,
+    "geom:longitude":128.21527,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bongnamdae",
+    "gn:country_code":"KR",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888674,
+    "gn:latitude":37.88649,
+    "gn:longitude":128.21527,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bongnamdae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\ub0a8\ub300"
+    ],
+    "name:und_x_variant":[
+        "Pongnamdae",
+        "Bongnamdae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888674
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a36cc13b936b27fc3eb7c761bb8d7427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472377,
+            "locality_id":1327051831,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327051831,
+    "wof:lastmodified":1537656795,
+    "wof:name":"Bongnamdae",
+    "wof:parent_id":890472377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.21527,
+    37.88649,
+    128.21527,
+    37.88649
+],
+  "geometry": {"coordinates":[128.21527,37.88649],"type":"Point"}
+}

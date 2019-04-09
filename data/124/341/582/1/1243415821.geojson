@@ -1,0 +1,67 @@
+{
+  "id": 1243415821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65278,34.77417,128.65278,34.77417",
+    "geom:latitude":34.77417,
+    "geom:longitude":128.65278,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Susan",
+    "gn:country_code":"KR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1835577,
+    "gn:latitude":34.77417,
+    "gn:longitude":128.65278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Susan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Susan-ni",
+        "Susan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1835577
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8aa4c95606bef507961adfa1f6a4f487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243415821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243415821,
+    "wof:lastmodified":1537656145,
+    "wof:name":"Susan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65278,
+    34.77417,
+    128.65278,
+    34.77417
+],
+  "geometry": {"coordinates":[128.65278000000001,34.77417],"type":"Point"}
+}

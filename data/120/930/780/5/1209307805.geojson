@@ -1,0 +1,64 @@
+{
+  "id": 1209307805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23392,36.93981,128.23392,36.93981",
+    "geom:latitude":36.93981,
+    "geom:longitude":128.23392,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gusugul",
+    "gn:country_code":"KR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9184871,
+    "gn:latitude":36.93981,
+    "gn:longitude":128.23392,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Gusugul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc218\uad74"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9184871
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"63124bda8890de61ef262a9da86f0ef7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209307805
+        }
+    ],
+    "wof:id":1209307805,
+    "wof:lastmodified":1537658927,
+    "wof:name":"Gusugul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23391999999998,
+    36.93981,
+    128.23391999999998,
+    36.93981
+],
+  "geometry": {"coordinates":[128.23391999999998,36.93981],"type":"Point"}
+}

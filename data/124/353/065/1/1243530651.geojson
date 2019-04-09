@@ -1,0 +1,71 @@
+{
+  "id": 1243530651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.2283,36.7146,126.2283,36.7146",
+    "geom:latitude":36.7146,
+    "geom:longitude":126.2283,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kunhung",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807813,
+    "gn:latitude":36.7146,
+    "gn:longitude":126.2283,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016dnh\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uadfc\ud765",
+        "K\u016dnh\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807813
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"12c0ad7d3a25d1dbb72d6e288d90c58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1243530651,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243530651,
+    "wof:lastmodified":1537657802,
+    "wof:name":"Kunhung",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.2283,
+    36.7146,
+    126.2283,
+    36.7146
+],
+  "geometry": {"coordinates":[126.2283,36.7146],"type":"Point"}
+}

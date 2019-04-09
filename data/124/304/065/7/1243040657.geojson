@@ -1,0 +1,70 @@
+{
+  "id": 1243040657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.50222,35.78806,128.50222,35.78806",
+    "geom:latitude":35.78806,
+    "geom:longitude":128.50222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Homsil",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022862,
+    "gn:latitude":35.78806,
+    "gn:longitude":128.50222,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Homsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud648\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022862
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b62854a1fe65938fa949cd850a8e67bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1243040657,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1243040657,
+    "wof:lastmodified":1537659109,
+    "wof:name":"Homsil",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.50222,
+    35.78805999999999,
+    128.50222,
+    35.78805999999999
+],
+  "geometry": {"coordinates":[128.50221999999999,35.78805999999999],"type":"Point"}
+}

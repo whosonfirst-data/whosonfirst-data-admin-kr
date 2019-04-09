@@ -1,0 +1,65 @@
+{
+  "id": 1209311861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.04896,37.09431,129.04896,37.09431",
+    "geom:latitude":37.09431,
+    "geom:longitude":129.04896,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamattul",
+    "gn:country_code":"KR",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808105,
+    "gn:latitude":37.09431,
+    "gn:longitude":129.04896,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kamatt\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ub9c8\ub730",
+        "Kamatt\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808105
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"73e751940ca72498e0b4f7a4759b3cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209311861
+        }
+    ],
+    "wof:id":1209311861,
+    "wof:lastmodified":1537657816,
+    "wof:name":"Kamattul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.04896000000002,
+    37.09431,
+    129.04896000000002,
+    37.09431
+],
+  "geometry": {"coordinates":[129.04896000000002,37.09431],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243526377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95256,34.92823,126.95256,34.92823",
+    "geom:latitude":34.92823,
+    "geom:longitude":126.95256,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Galli",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197174,
+    "gn:latitude":34.92823,
+    "gn:longitude":126.95256,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Galli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac04\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197174
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a0a624eb147bf71f9670556624c9c9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1243526377,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1243526377,
+    "wof:lastmodified":1537659232,
+    "wof:name":"Galli",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95256,
+    34.92823,
+    126.95256,
+    34.92823
+],
+  "geometry": {"coordinates":[126.95256000000001,34.92823],"type":"Point"}
+}

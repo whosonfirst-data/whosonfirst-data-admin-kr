@@ -1,0 +1,67 @@
+{
+  "id": 1260365691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88694,35.09861,126.88694,35.09861",
+    "geom:latitude":35.09861,
+    "geom:longitude":126.88694,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"To-dong",
+    "gn:country_code":"KR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1981769,
+    "gn:latitude":35.09861,
+    "gn:longitude":126.88694,
+    "gn:modification_date":"2004-06-10",
+    "gn:name":"To-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1981769
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4fb4cbcd5615c7d12dcfd991adf6eeef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472185,
+            "locality_id":1260365691,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1260365691,
+    "wof:lastmodified":1537095526,
+    "wof:name":"To-dong",
+    "wof:parent_id":890472185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88694,
+    35.09861,
+    126.88694,
+    35.09861
+],
+  "geometry": {"coordinates":[126.88694,35.09861],"type":"Point"}
+}

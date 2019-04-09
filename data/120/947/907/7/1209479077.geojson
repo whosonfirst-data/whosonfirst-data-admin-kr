@@ -1,0 +1,64 @@
+{
+  "id": 1209479077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85624,35.05241,126.85624,35.05241",
+    "geom:latitude":35.05241,
+    "geom:longitude":126.85624,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sucheong",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193557,
+    "gn:latitude":35.05241,
+    "gn:longitude":126.85624,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Sucheong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc218\uccad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193557
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cfc57b134c960ed884e3df4ac5fc53f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209479077
+        }
+    ],
+    "wof:id":1209479077,
+    "wof:lastmodified":1537659228,
+    "wof:name":"Sucheong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85624,
+    35.05240999999999,
+    126.85624,
+    35.05240999999999
+],
+  "geometry": {"coordinates":[126.85624,35.05240999999999],"type":"Point"}
+}

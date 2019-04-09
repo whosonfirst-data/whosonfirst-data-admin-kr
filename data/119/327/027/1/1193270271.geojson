@@ -1,0 +1,73 @@
+{
+  "id": 1193270271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4125,37.8103,128.4125,37.8103",
+    "geom:latitude":37.8103,
+    "geom:longitude":128.4125,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sawolp'yong",
+    "gn:country_code":"KR",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6817101,
+    "gn:latitude":37.8103,
+    "gn:longitude":128.4125,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Saw\u014flp\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uc6d4\ud3c9"
+    ],
+    "name:kor_x_variant":[
+        "Saw\u014flp\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6817101
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"967818b328a51473d74bec3b3f314ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1193270271,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1193270271,
+    "wof:lastmodified":1537658110,
+    "wof:name":"Sawolp'yong",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4125,
+    37.8103,
+    128.4125,
+    37.8103
+],
+  "geometry": {"coordinates":[128.41249999999999,37.8103],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209293543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48173,37.69535,127.48173,37.69535",
+    "geom:latitude":37.69535,
+    "geom:longitude":127.48173,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yongmuncheon",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897103,
+    "gn:latitude":37.69535,
+    "gn:longitude":127.48173,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Yongmuncheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ubb38\ub798"
+    ],
+    "name:kor_x_variant":[
+        "\uc6a9\ubb38\ucc9c"
+    ],
+    "name:und_x_variant":[
+        "Yongmunnae",
+        "\uc6a9\ubb38\ub798",
+        "Yongmunch\u2019\u014fn",
+        "Yongmullae",
+        "Yongmuncheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897103
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2e754f416760c4d624f7d963a057c2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209293543
+        }
+    ],
+    "wof:id":1209293543,
+    "wof:lastmodified":1537656931,
+    "wof:name":"Yongmuncheon",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48173,
+    37.69535,
+    127.48173,
+    37.69535
+],
+  "geometry": {"coordinates":[127.48173,37.69535],"type":"Point"}
+}

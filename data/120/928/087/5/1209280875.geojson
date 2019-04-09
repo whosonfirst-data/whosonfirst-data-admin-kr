@@ -1,0 +1,65 @@
+{
+  "id": 1209280875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1034,36.3024,127.1034,36.3024",
+    "geom:latitude":36.3024,
+    "geom:longitude":127.1034,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Katchom",
+    "gn:country_code":"KR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883112,
+    "gn:latitude":36.3024,
+    "gn:longitude":127.1034,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Katch\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac13\uc810",
+        "Katch\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883112
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"08753b6565f2544d1dd16fa8aafb020e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209280875
+        }
+    ],
+    "wof:id":1209280875,
+    "wof:lastmodified":1537658278,
+    "wof:name":"Katchom",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1034,
+    36.3024,
+    127.1034,
+    36.3024
+],
+  "geometry": {"coordinates":[127.10339999999999,36.3024],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242640131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8785,35.09979,126.8785,35.09979",
+    "geom:latitude":35.09979,
+    "geom:longitude":126.8785,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Haengnim",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11172701,
+    "gn:latitude":35.09979,
+    "gn:longitude":126.8785,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Haengnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud589\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673199,
+        890472185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172701
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ab48ef8eda21aae76ea8c08f0ec85840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472185,
+            "locality_id":1242640131,
+            "region_id":85673199
+        }
+    ],
+    "wof:id":1242640131,
+    "wof:lastmodified":1537659208,
+    "wof:name":"Haengnim",
+    "wof:parent_id":890472185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8785,
+    35.09979000000001,
+    126.8785,
+    35.09979000000001
+],
+  "geometry": {"coordinates":[126.8785,35.09979000000001],"type":"Point"}
+}

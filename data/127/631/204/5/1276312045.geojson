@@ -1,0 +1,74 @@
+{
+  "id": 1276312045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79066,37.84627,126.79066,37.84627",
+    "geom:latitude":37.84627,
+    "geom:longitude":126.79066,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Bulgeunbat",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951577,
+    "gn:latitude":37.84627,
+    "gn:longitude":126.79066,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Bulgeunbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd89\uc740\ubc2d"
+    ],
+    "name:kor_x_variant":[
+        "Puk\u016dnbat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951577
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"534c2a8d266c8a6feccfdd328daf8972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1276312045,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1276312045,
+    "wof:lastmodified":1537656976,
+    "wof:name":"Bulgeunbat",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79066,
+    37.84627,
+    126.79066,
+    37.84627
+],
+  "geometry": {"coordinates":[126.79066,37.84627],"type":"Point"}
+}

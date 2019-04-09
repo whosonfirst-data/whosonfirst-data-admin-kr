@@ -1,0 +1,74 @@
+{
+  "id": 1310171825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1868,36.9218,127.1868,36.9218",
+    "geom:latitude":36.9218,
+    "geom:longitude":127.1868,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Jeokjeong",
+    "gn:country_code":"KR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845836,
+    "gn:latitude":36.9218,
+    "gn:longitude":127.1868,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Jeokjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u014fkch\u014fng-ni",
+        "Ch\u014fkch\u014fn-ni",
+        "\uc801\uc815",
+        "Ch\u014fkch\u014fng",
+        "Jeokjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845836
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1b2602f310901154bdce9f2a6f3f5ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746433,
+            "locality_id":1310171825,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1310171825,
+    "wof:lastmodified":1537656668,
+    "wof:name":"Jeokjeong",
+    "wof:parent_id":1108746433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1868,
+    36.9218,
+    127.1868,
+    36.9218
+],
+  "geometry": {"coordinates":[127.18680000000001,36.9218],"type":"Point"}
+}

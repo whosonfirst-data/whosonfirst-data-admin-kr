@@ -1,0 +1,65 @@
+{
+  "id": 1209311845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.74889,38.17778,127.74889,38.17778",
+    "geom:latitude":38.17778,
+    "geom:longitude":127.74889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haean-dong",
+    "gn:country_code":"KR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367575,
+    "gn:latitude":38.17778,
+    "gn:longitude":127.74889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haean-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud574\uc548\ub3d9",
+        "Haean-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367575
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3a04513d495b3de379bdbf0502c554de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209311845
+        }
+    ],
+    "wof:id":1209311845,
+    "wof:lastmodified":1537657112,
+    "wof:name":"Haean-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.74889,
+    38.17778,
+    127.74889,
+    38.17778
+],
+  "geometry": {"coordinates":[127.74889,38.17778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243360981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6393,37.2905,128.6393,37.2905",
+    "geom:latitude":37.2905,
+    "geom:longitude":128.6393,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"P'yongch'ang-maul",
+    "gn:country_code":"KR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796193,
+    "gn:latitude":37.2905,
+    "gn:longitude":128.6393,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u2019y\u014fngch\u2019ang-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\ucc3d\ub9c8\uc744"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019y\u014fngch\u2019ang-ma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796193
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"690b1204ee60dd17156d60e8aba2937d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473513,
+            "locality_id":1243360981,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243360981,
+    "wof:lastmodified":1537657550,
+    "wof:name":"P'yongch'ang-maul",
+    "wof:parent_id":890473513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6393,
+    37.2905,
+    128.6393,
+    37.2905
+],
+  "geometry": {"coordinates":[128.63929999999999,37.2905],"type":"Point"}
+}

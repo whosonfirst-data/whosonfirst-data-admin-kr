@@ -1,0 +1,68 @@
+{
+  "id": 1209103399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.64328,38.03154,128.64328,38.03154",
+    "geom:latitude":38.03154,
+    "geom:longitude":128.64328,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yeongtong",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1989139,
+    "gn:latitude":38.03154,
+    "gn:longitude":128.64328,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Yeongtong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc601\ud1b5"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fngt\u2019ong",
+        "Yeongtong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1989139
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a23b1b03ee6030887f354eed121872bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209103399
+        }
+    ],
+    "wof:id":1209103399,
+    "wof:lastmodified":1537656997,
+    "wof:name":"Yeongtong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.64328,
+    38.03154,
+    128.64328,
+    38.03154
+],
+  "geometry": {"coordinates":[128.64328,38.03154],"type":"Point"}
+}

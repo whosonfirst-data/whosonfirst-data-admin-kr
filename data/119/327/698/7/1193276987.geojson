@@ -1,0 +1,71 @@
+{
+  "id": 1193276987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48722,35.82448,127.48722,35.82448",
+    "geom:latitude":35.82448,
+    "geom:longitude":127.48722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hoesa",
+    "gn:country_code":"KR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6896165,
+    "gn:latitude":35.82448,
+    "gn:longitude":127.48722,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hoesa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud68c\uc0ac",
+        "Hoesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6896165
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4830257fdde0df0921f746ab3b36b0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472257,
+            "locality_id":1193276987,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1193276987,
+    "wof:lastmodified":1537658650,
+    "wof:name":"Hoesa",
+    "wof:parent_id":890472257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48722,
+    35.82448,
+    127.48722,
+    35.82448
+],
+  "geometry": {"coordinates":[127.48721999999999,35.82448],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242944213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.795,37.88,126.795,37.88",
+    "geom:latitude":37.88,
+    "geom:longitude":126.795,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
+    "gn:asciiname":"Imjil-li",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843606,
+    "gn:latitude":37.88,
+    "gn:longitude":126.795,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Imjil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imjin-ni",
+        "Imjil-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843606
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3030106abb09b38b09cb5ea880db2de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1242944213,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242944213,
+    "wof:lastmodified":1537656557,
+    "wof:name":"Imjil-li",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.795,
+    37.88,
+    126.795,
+    37.88
+],
+  "geometry": {"coordinates":[126.795,37.88],"type":"Point"}
+}

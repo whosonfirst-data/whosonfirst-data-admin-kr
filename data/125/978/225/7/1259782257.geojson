@@ -1,0 +1,77 @@
+{
+  "id": 1259782257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.27095,37.08063,128.27095,37.08063",
+    "geom:latitude":37.08063,
+    "geom:longitude":128.27095,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yongsudong",
+    "gn:country_code":"KR",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798090,
+    "gn:latitude":37.08063,
+    "gn:longitude":128.27095,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Yongsudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc218\uae68"
+    ],
+    "name:kor_x_variant":[
+        "\uc6a9\uc218\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Yongsukkae",
+        "Yongsudong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798090
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"42e8f9c67828b09426b50373435a09a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1259782257,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1259782257,
+    "wof:lastmodified":1537657613,
+    "wof:name":"Yongsudong",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.27095,
+    37.08063,
+    128.27095,
+    37.08063
+],
+  "geometry": {"coordinates":[128.27095,37.08063],"type":"Point"}
+}

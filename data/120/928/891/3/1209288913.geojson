@@ -1,0 +1,65 @@
+{
+  "id": 1209288913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.44876,35.09144,128.44876,35.09144",
+    "geom:latitude":35.09144,
+    "geom:longitude":128.44876,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chung-dong",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899454,
+    "gn:latitude":35.09144,
+    "gn:longitude":128.44876,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chung-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ub3d9",
+        "Chung-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899454
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"34711857e6813fd90b17b71d7bd8831a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209288913
+        }
+    ],
+    "wof:id":1209288913,
+    "wof:lastmodified":1537658743,
+    "wof:name":"Chung-dong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.44876000000002,
+    35.09144000000001,
+    128.44876000000002,
+    35.09144000000001
+],
+  "geometry": {"coordinates":[128.44876000000002,35.09144000000001],"type":"Point"}
+}

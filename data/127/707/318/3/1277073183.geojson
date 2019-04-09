@@ -1,0 +1,70 @@
+{
+  "id": 1277073183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.69859,36.67766,127.69859,36.67766",
+    "geom:latitude":36.67766,
+    "geom:longitude":127.69859,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hwanggol",
+    "gn:country_code":"KR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10370286,
+    "gn:latitude":36.67766,
+    "gn:longitude":127.69859,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hwanggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud669\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370286
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"046e799167b6f502fc2195826aac1bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1277073183,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1277073183,
+    "wof:lastmodified":1537659044,
+    "wof:name":"Hwanggol",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.69859,
+    36.67766,
+    127.69859,
+    36.67766
+],
+  "geometry": {"coordinates":[127.69859,36.67766],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327438381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63403,35.43905,126.63403,35.43905",
+    "geom:latitude":35.43905,
+    "geom:longitude":126.63403,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hagap",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1923041,
+    "gn:latitude":35.43905,
+    "gn:longitude":126.63403,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Hagap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uac11"
+    ],
+    "name:und_x_variant":[
+        "Hagam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1923041
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"25fe0273ad3320470105d8b0c5317337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1327438381,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1327438381,
+    "wof:lastmodified":1537656952,
+    "wof:name":"Hagap",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63403,
+    35.43905,
+    126.63403,
+    35.43905
+],
+  "geometry": {"coordinates":[126.63403,35.43905],"type":"Point"}
+}

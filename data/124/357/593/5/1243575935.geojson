@@ -1,0 +1,73 @@
+{
+  "id": 1243575935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4183,37.2163,128.4183,37.2163",
+    "geom:latitude":37.2163,
+    "geom:longitude":128.4183,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Munsanggae",
+    "gn:country_code":"KR",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890690,
+    "gn:latitude":37.2163,
+    "gn:longitude":128.4183,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Munsanggae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\uc131\uac1c"
+    ],
+    "name:kor_x_variant":[
+        "Muns\u014fnggae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890690
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5465c5e9c5feee95a6330d36a446cdb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1243575935,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243575935,
+    "wof:lastmodified":1537656822,
+    "wof:name":"Munsanggae",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4183,
+    37.2163,
+    128.4183,
+    37.2163
+],
+  "geometry": {"coordinates":[128.41829999999999,37.2163],"type":"Point"}
+}

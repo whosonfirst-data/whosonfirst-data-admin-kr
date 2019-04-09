@@ -1,0 +1,71 @@
+{
+  "id": 1260271003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96664,37.55081,126.96664,37.55081",
+    "geom:latitude":37.55081,
+    "geom:longitude":126.96664,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ch'ongp'ail-tong",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6800233,
+    "gn:latitude":37.55081,
+    "gn:longitude":126.96664,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019\u014fngp\u2019ail-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uccad\ud30c1\ub3d9",
+        "Ch\u2019\u014fngp\u2019ail-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890475295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6800233
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fa6a512070be98bdfbcd5e16013f9161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":1260271003,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1260271003,
+    "wof:lastmodified":1537657670,
+    "wof:name":"Ch'ongp'ail-tong",
+    "wof:parent_id":890475295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96663999999998,
+    37.55081,
+    126.96663999999998,
+    37.55081
+],
+  "geometry": {"coordinates":[126.96663999999998,37.55081],"type":"Point"}
+}

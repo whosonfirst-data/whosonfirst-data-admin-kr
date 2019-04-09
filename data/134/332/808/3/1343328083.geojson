@@ -1,0 +1,71 @@
+{
+  "id": 1343328083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5039,36.0592,127.5039,36.0592",
+    "geom:latitude":36.0592,
+    "geom:longitude":127.5039,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sang-dong",
+    "gn:country_code":"KR",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6886733,
+    "gn:latitude":36.0592,
+    "gn:longitude":127.5039,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\ub3d9",
+        "Sang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6886733
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"cf8b3b4a4b7c486238e27a684bb821fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473345,
+            "locality_id":1343328083,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1343328083,
+    "wof:lastmodified":1537658370,
+    "wof:name":"Sang-dong",
+    "wof:parent_id":890473345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5039,
+    36.0592,
+    127.5039,
+    36.0592
+],
+  "geometry": {"coordinates":[127.5039,36.0592],"type":"Point"}
+}

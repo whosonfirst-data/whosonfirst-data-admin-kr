@@ -1,0 +1,71 @@
+{
+  "id": 1309710905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.65,36.35,127.65,36.35",
+    "geom:latitude":36.35,
+    "geom:longitude":127.65,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"P'isil",
+    "gn:country_code":"KR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839134,
+    "gn:latitude":36.35,
+    "gn:longitude":127.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u2019isil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chikt\u2019an",
+        "P\u2019isil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890475545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839134
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"15f01edf82d179eb666924bfa132fb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475545,
+            "locality_id":1309710905,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1309710905,
+    "wof:lastmodified":1537656327,
+    "wof:name":"P'isil",
+    "wof:parent_id":890475545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.65,
+    36.35,
+    127.65,
+    36.35
+],
+  "geometry": {"coordinates":[127.65000000000001,36.35],"type":"Point"}
+}

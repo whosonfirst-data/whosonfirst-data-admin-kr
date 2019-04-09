@@ -1,0 +1,70 @@
+{
+  "id": 1343245443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.32023,35.8751,129.32023,35.8751",
+    "geom:latitude":35.8751,
+    "geom:longitude":129.32023,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wangsan",
+    "gn:country_code":"KR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250604,
+    "gn:latitude":35.8751,
+    "gn:longitude":129.32023,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Wangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc655\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250604
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"12c9f09580f6c077590d09ffdf41ce09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1343245443,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1343245443,
+    "wof:lastmodified":1537659259,
+    "wof:name":"Wangsan",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.32023,
+    35.8751,
+    129.32023,
+    35.8751
+],
+  "geometry": {"coordinates":[129.32023000000001,35.8751],"type":"Point"}
+}

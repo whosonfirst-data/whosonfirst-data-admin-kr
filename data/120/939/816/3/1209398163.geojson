@@ -1,0 +1,64 @@
+{
+  "id": 1209398163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81916,36.00081,128.81916,36.00081",
+    "geom:latitude":36.00081,
+    "geom:longitude":128.81916,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Daejae",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10994381,
+    "gn:latitude":36.00081,
+    "gn:longitude":128.81916,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Daejae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10994381
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f99c7c9b1f0bd5b9a6b0873e5bc3b03d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209398163
+        }
+    ],
+    "wof:id":1209398163,
+    "wof:lastmodified":1537659105,
+    "wof:name":"Daejae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81916,
+    36.00080999999999,
+    128.81916,
+    36.00080999999999
+],
+  "geometry": {"coordinates":[128.81916000000001,36.00080999999999],"type":"Point"}
+}

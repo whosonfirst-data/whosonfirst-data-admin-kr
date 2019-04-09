@@ -1,0 +1,74 @@
+{
+  "id": 1243042239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.88778,34.87111,127.88778,34.87111",
+    "geom:latitude":34.87111,
+    "geom:longitude":127.88778,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Toma-ri",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845090,
+    "gn:latitude":34.87111,
+    "gn:longitude":127.88778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toma-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chungdoma",
+        "Toba-ri",
+        "Toma",
+        "Toma-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845090
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7ae1e4c79deee5d26963176432ce19fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475467,
+            "locality_id":1243042239,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1243042239,
+    "wof:lastmodified":1537656633,
+    "wof:name":"Toma-ri",
+    "wof:parent_id":890475467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.88778,
+    34.87110999999999,
+    127.88778,
+    34.87110999999999
+],
+  "geometry": {"coordinates":[127.88778000000001,34.87110999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890472923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74083,33.36677,126.74083,33.36677",
+    "geom:latitude":33.36677,
+    "geom:longitude":126.74083,
+    "gn:country":"KR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Namjeju-gun",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840441,
+        "qs:id":356112,
+        "wd:id":"Q490828",
+        "wk:page":"Namjeju County"
+    },
+    "wof:country":"KR",
+    "wof:created":1469053931,
+    "wof:geomhash":"5523dca6047d605a278181d182d2413f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472923,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":890472923,
+    "wof:lastmodified":1527790281,
+    "wof:name":"Namjeju-gun",
+    "wof:parent_id":85673237,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74083,
+    33.36677,
+    126.74083,
+    33.36677
+],
+  "geometry": {"coordinates":[126.74083,33.36677],"type":"Point"}
+}

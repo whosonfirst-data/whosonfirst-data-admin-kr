@@ -1,0 +1,70 @@
+{
+  "id": 1209820035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61462,36.62056,127.61462,36.62056",
+    "geom:latitude":36.62056,
+    "geom:longitude":127.61462,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Josil",
+    "gn:country_code":"KR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352180,
+    "gn:latitude":36.62056,
+    "gn:longitude":127.61462,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Josil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc870\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352180
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"27ca507afd507efa9cddea9cc8bd22b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473385,
+            "locality_id":1209820035,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1209820035,
+    "wof:lastmodified":1537659036,
+    "wof:name":"Josil",
+    "wof:parent_id":890473385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61462,
+    36.62056,
+    127.61462,
+    36.62056
+],
+  "geometry": {"coordinates":[127.61462,36.62056],"type":"Point"}
+}

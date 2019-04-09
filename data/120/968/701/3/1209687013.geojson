@@ -1,0 +1,64 @@
+{
+  "id": 1209687013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6903,37.70399,126.6903,37.70399",
+    "geom:latitude":37.70399,
+    "geom:longitude":126.6903,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hwangmaru",
+    "gn:country_code":"KR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6364318,
+    "gn:latitude":37.70399,
+    "gn:longitude":126.6903,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Hwangmaru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud669\ub9c8\ub8e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6364318
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1528878560ad196afb9a6968e26c86cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209687013
+        }
+    ],
+    "wof:id":1209687013,
+    "wof:lastmodified":1537657076,
+    "wof:name":"Hwangmaru",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6903,
+    37.70399000000001,
+    126.6903,
+    37.70399000000001
+],
+  "geometry": {"coordinates":[126.69029999999999,37.70399000000001],"type":"Point"}
+}

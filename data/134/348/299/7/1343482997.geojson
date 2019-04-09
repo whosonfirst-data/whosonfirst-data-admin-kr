@@ -1,0 +1,72 @@
+{
+  "id": 1343482997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.73528,37.75495,127.73528,37.75495",
+    "geom:latitude":37.75495,
+    "geom:longitude":127.73528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jongjadong",
+    "gn:country_code":"KR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6802691,
+    "gn:latitude":37.75495,
+    "gn:longitude":127.73528,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Jongjadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc885\uc790\ub3d9",
+        "Chongja-dong",
+        "Jongjadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6802691
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0d66b176629cc38db3d2332c01011470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1343482997,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343482997,
+    "wof:lastmodified":1537657756,
+    "wof:name":"Jongjadong",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.73528,
+    37.75495,
+    127.73528,
+    37.75495
+],
+  "geometry": {"coordinates":[127.73528,37.75495],"type":"Point"}
+}

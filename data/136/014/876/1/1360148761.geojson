@@ -1,0 +1,70 @@
+{
+  "id": 1360148761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77894,35.23768,126.77894,35.23768",
+    "geom:latitude":35.23768,
+    "geom:longitude":126.77894,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sijeong",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11170012,
+    "gn:latitude":35.23768,
+    "gn:longitude":126.77894,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Sijeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dc\uc815"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11170012
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"10e8507b3a1b804343f9656842ecf964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1360148761,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360148761,
+    "wof:lastmodified":1537659184,
+    "wof:name":"Sijeong",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77894,
+    35.23768,
+    126.77894,
+    35.23768
+],
+  "geometry": {"coordinates":[126.77894000000001,35.23768],"type":"Point"}
+}

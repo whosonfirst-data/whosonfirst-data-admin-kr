@@ -1,0 +1,72 @@
+{
+  "id": 1243074671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.98667,36.12222,125.98667,36.12222",
+    "geom:latitude":36.12222,
+    "geom:longitude":125.98667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Och'ongdo-ri",
+    "gn:country_code":"KR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840075,
+    "gn:latitude":36.12222,
+    "gn:longitude":125.98667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u014ech\u2019\u014fngdo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014ech\u2019\u014fng",
+        "Oseit\u014d-ri",
+        "\u014ech\u2019\u014fngdo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840075
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1567457d18c34c820d49fbfb5f1a064c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "locality_id":1243074671,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1243074671,
+    "wof:lastmodified":1537656377,
+    "wof:name":"Och'ongdo-ri",
+    "wof:parent_id":890475397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.98667,
+    36.12222,
+    125.98667,
+    36.12222
+],
+  "geometry": {"coordinates":[125.98667,36.12222],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209373539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.28547,35.48808,129.28547,35.48808",
+    "geom:latitude":35.48808,
+    "geom:longitude":129.28547,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dongjimaeul",
+    "gn:country_code":"KR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11093541,
+    "gn:latitude":35.48808,
+    "gn:longitude":129.28547,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Dongjimaeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc9c0\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11093541
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2c9c00e7c11590dadf3370b5b3c11f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209373539
+        }
+    ],
+    "wof:id":1209373539,
+    "wof:lastmodified":1537659152,
+    "wof:name":"Dongjimaeul",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.28547,
+    35.48808,
+    129.28547,
+    35.48808
+],
+  "geometry": {"coordinates":[129.28547,35.48808],"type":"Point"}
+}

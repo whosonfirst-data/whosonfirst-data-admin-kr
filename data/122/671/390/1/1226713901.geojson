@@ -1,0 +1,67 @@
+{
+  "id": 1226713901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65861,34.96667,126.65861,34.96667",
+    "geom:latitude":34.96667,
+    "geom:longitude":126.65861,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Okkong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839855,
+    "gn:latitude":34.96667,
+    "gn:longitude":126.65861,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Okkong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839855
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"23a2d6f21cfa482c4829c876c6df5f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472323,
+            "locality_id":1226713901,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226713901,
+    "wof:lastmodified":1536761880,
+    "wof:name":"Okkong-ni",
+    "wof:parent_id":890472323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65861,
+    34.96667,
+    126.65861,
+    34.96667
+],
+  "geometry": {"coordinates":[126.65861,34.96667],"type":"Point"}
+}

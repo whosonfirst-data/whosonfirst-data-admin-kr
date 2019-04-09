@@ -1,0 +1,72 @@
+{
+  "id": 1243533549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.07111,37.38472,127.07111,37.38472",
+    "geom:latitude":37.38472,
+    "geom:longitude":127.07111,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tumil",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573483,
+    "gn:latitude":37.38472,
+    "gn:longitude":127.07111,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tumil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub450\ubc00",
+        "Dumil",
+        "Tumil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573483
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"468a10a8e818117c3a4db410ad4f4d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746519,
+            "locality_id":1243533549,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243533549,
+    "wof:lastmodified":1537657228,
+    "wof:name":"Tumil",
+    "wof:parent_id":1108746519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.07111,
+    37.38472,
+    127.07111,
+    37.38472
+],
+  "geometry": {"coordinates":[127.07111,37.38472],"type":"Point"}
+}

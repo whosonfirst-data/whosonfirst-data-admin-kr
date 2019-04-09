@@ -1,0 +1,72 @@
+{
+  "id": 1293795267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46111,35.43667,126.46111,35.43667",
+    "geom:latitude":35.43667,
+    "geom:longitude":126.46111,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Songnam-ni",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836098,
+    "gn:latitude":35.43667,
+    "gn:longitude":126.46111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u014fngnam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fngnam",
+        "S\u014fngnam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836098
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b0f3ec7a711573474af1c65bced492c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475485,
+            "locality_id":1293795267,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1293795267,
+    "wof:lastmodified":1537656170,
+    "wof:name":"Songnam-ni",
+    "wof:parent_id":890475485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46111,
+    35.43667,
+    126.46111,
+    35.43667
+],
+  "geometry": {"coordinates":[126.46111000000001,35.43667],"type":"Point"}
+}

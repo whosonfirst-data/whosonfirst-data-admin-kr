@@ -1,0 +1,80 @@
+{
+  "id": 1193013345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.88645,38.09279,127.88645,38.09279",
+    "geom:latitude":38.09279,
+    "geom:longitude":127.88645,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Seokjidong",
+    "gn:country_code":"KR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836556,
+    "gn:latitude":38.09279,
+    "gn:longitude":127.88645,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Seokjidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uc9c0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uc11d\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Tolmokkol",
+        "S\u014fkchi-dong",
+        "Seokjidong",
+        "S\u014fkch\u014fng-dong",
+        "Seokjeong-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836556
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d0fb1233089365600981913db26ae0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476187,
+            "locality_id":1193013345,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1193013345,
+    "wof:lastmodified":1537656193,
+    "wof:name":"Seokjidong",
+    "wof:parent_id":890476187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.88645,
+    38.09279,
+    127.88645,
+    38.09279
+],
+  "geometry": {"coordinates":[127.88645,38.09279],"type":"Point"}
+}

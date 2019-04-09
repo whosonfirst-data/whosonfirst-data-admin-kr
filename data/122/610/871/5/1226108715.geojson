@@ -1,0 +1,73 @@
+{
+  "id": 1226108715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25725,36.38693,127.25725,36.38693",
+    "geom:latitude":36.38693,
+    "geom:longitude":127.25725,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Oncheon",
+    "gn:country_code":"KR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1886684,
+    "gn:latitude":36.38693,
+    "gn:longitude":127.25725,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Oncheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onch\u2019\u014fn",
+        "\uc628\ucc9c",
+        "Onch\u2019\u014fl-li",
+        "Oncheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1886684
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3efec7ac11206023bc77bbffb38396dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472413,
+            "locality_id":1226108715,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1226108715,
+    "wof:lastmodified":1537656788,
+    "wof:name":"Oncheon",
+    "wof:parent_id":890472413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25725,
+    36.38693,
+    127.25725,
+    36.38693
+],
+  "geometry": {"coordinates":[127.25725,36.38693],"type":"Point"}
+}

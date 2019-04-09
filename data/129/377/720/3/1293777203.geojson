@@ -1,0 +1,67 @@
+{
+  "id": 1293777203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.45,36.78333,127.45,36.78333",
+    "geom:latitude":36.78333,
+    "geom:longitude":127.45,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oksan-ni",
+    "gn:country_code":"KR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839820,
+    "gn:latitude":36.78333,
+    "gn:longitude":127.45,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"Oksan-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890476185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839820
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f380a049033593048e1eb16818bcc102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476185,
+            "locality_id":1293777203,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1293777203,
+    "wof:lastmodified":1536865185,
+    "wof:name":"Oksan-ni",
+    "wof:parent_id":890476185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.45,
+    36.78333,
+    127.45,
+    36.78333
+],
+  "geometry": {"coordinates":[127.45,36.78333],"type":"Point"}
+}

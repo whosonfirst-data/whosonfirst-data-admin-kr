@@ -1,0 +1,76 @@
+{
+  "id": 1293089677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.08477,35.20159,129.08477,35.20159",
+    "geom:latitude":35.20159,
+    "geom:longitude":129.08477,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dongnae",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1834203,
+    "gn:latitude":35.20159,
+    "gn:longitude":129.08477,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Dongnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ub798"
+    ],
+    "name:und_x_variant":[
+        "T\u014drai",
+        "Tokunei",
+        "Tongnae",
+        "Dongnae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        1108746453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834203
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"854ff7ba1143d444628022847af8f4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746453,
+            "locality_id":1293089677,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1293089677,
+    "wof:lastmodified":1537656073,
+    "wof:name":"Dongnae",
+    "wof:parent_id":1108746453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.08477,
+    35.20159,
+    129.08477,
+    35.20159
+],
+  "geometry": {"coordinates":[129.08476999999999,35.20159],"type":"Point"}
+}

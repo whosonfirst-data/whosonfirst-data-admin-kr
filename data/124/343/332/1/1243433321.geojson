@@ -1,0 +1,75 @@
+{
+  "id": 1243433321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87398,36.95882,126.87398,36.95882",
+    "geom:latitude":36.95882,
+    "geom:longitude":126.87398,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Iljichon",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809868,
+    "gn:latitude":36.95882,
+    "gn:longitude":126.87398,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Iljichon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc77c\uc9c0\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "\uc77c\uc790\ucd0c",
+        "Ilcha-ch\u2019on",
+        "Iljichon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809868
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a76ead04c20bcff73b5682687f3c220f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1243433321,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243433321,
+    "wof:lastmodified":1537657889,
+    "wof:name":"Iljichon",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87398,
+    36.95882,
+    126.87398,
+    36.95882
+],
+  "geometry": {"coordinates":[126.87398,36.95882],"type":"Point"}
+}

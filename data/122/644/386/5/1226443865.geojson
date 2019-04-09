@@ -1,0 +1,71 @@
+{
+  "id": 1226443865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.83952,35.97127,127.83952,35.97127",
+    "geom:latitude":35.97127,
+    "geom:longitude":127.83952,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wonap",
+    "gn:country_code":"KR",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879934,
+    "gn:latitude":35.97127,
+    "gn:longitude":127.83952,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014fnap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d0\uc55e",
+        "W\u014fnap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879934
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c2791f89b2ad87c1d13b63f02c6011a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472985,
+            "locality_id":1226443865,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1226443865,
+    "wof:lastmodified":1537658237,
+    "wof:name":"Wonap",
+    "wof:parent_id":890472985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.83952,
+    35.97127000000001,
+    127.83952,
+    35.97127000000001
+],
+  "geometry": {"coordinates":[127.83951999999999,35.97127000000001],"type":"Point"}
+}

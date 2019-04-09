@@ -1,0 +1,64 @@
+{
+  "id": 1209485985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.56675,36.01936,129.56675,36.01936",
+    "geom:latitude":36.01936,
+    "geom:longitude":129.56675,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jaetdong",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11249366,
+    "gn:latitude":36.01936,
+    "gn:longitude":129.56675,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Jaetdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7bf\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249366
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a031b1aa33e66fe17d1ae0b4b6f54fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209485985
+        }
+    ],
+    "wof:id":1209485985,
+    "wof:lastmodified":1537659253,
+    "wof:name":"Jaetdong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.56675,
+    36.01936,
+    129.56675,
+    36.01936
+],
+  "geometry": {"coordinates":[129.56675000000001,36.01936],"type":"Point"}
+}

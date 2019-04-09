@@ -1,0 +1,74 @@
+{
+  "id": 1259766519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23333,36.15,128.23333,36.15",
+    "geom:latitude":36.15,
+    "geom:longitude":128.23333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chesong-ni",
+    "gn:country_code":"KR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846269,
+    "gn:latitude":36.15,
+    "gn:longitude":128.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ches\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaes\u014fk-tong",
+        "Ches\u014fk-tong",
+        "Chej\u014fk-tong",
+        "\uc81c\uc11d\ub9ac",
+        "Ches\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846269
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f9fb45010a97b2ec08e49f8c4b76e9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1259766519,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259766519,
+    "wof:lastmodified":1537656691,
+    "wof:name":"Chesong-ni",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23333,
+    36.15,
+    128.23333,
+    36.15
+],
+  "geometry": {"coordinates":[128.23333,36.15],"type":"Point"}
+}

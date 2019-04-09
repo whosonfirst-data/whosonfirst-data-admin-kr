@@ -1,0 +1,75 @@
+{
+  "id": 1225908141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.99511,35.10133,126.99511,35.10133",
+    "geom:latitude":35.10133,
+    "geom:longitude":126.99511,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jungji",
+    "gn:country_code":"KR",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845038,
+    "gn:latitude":35.10133,
+    "gn:longitude":126.99511,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Jungji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "Chungji-ri",
+        "Chungji",
+        "Jungji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845038
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"05d5f840df44b4614c7d9438999a8218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1225908141,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225908141,
+    "wof:lastmodified":1537656629,
+    "wof:name":"Jungji",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.99511,
+    35.10133,
+    126.99511,
+    35.10133
+],
+  "geometry": {"coordinates":[126.99511,35.10133],"type":"Point"}
+}

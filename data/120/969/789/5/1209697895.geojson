@@ -1,0 +1,73 @@
+{
+  "id": 1209697895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56778,34.325,126.56778,34.325",
+    "geom:latitude":34.325,
+    "geom:longitude":126.56778,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jungdaegol",
+    "gn:country_code":"KR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394509,
+    "gn:latitude":34.325,
+    "gn:longitude":126.56778,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Jungdaegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\ub300\uace8"
+    ],
+    "name:kor_x_variant":[
+        "W\u014fngyoch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394509
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2e3d53d12e86541fd3c5ad40f83ab3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1209697895,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1209697895,
+    "wof:lastmodified":1537657132,
+    "wof:name":"Jungdaegol",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56778,
+    34.325,
+    126.56778,
+    34.325
+],
+  "geometry": {"coordinates":[126.56778,34.325],"type":"Point"}
+}

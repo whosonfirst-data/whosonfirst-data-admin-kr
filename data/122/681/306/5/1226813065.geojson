@@ -1,0 +1,67 @@
+{
+  "id": 1226813065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5,34.93333,126.5,34.93333",
+    "geom:latitude":34.93333,
+    "geom:longitude":126.5,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Namch'on",
+    "gn:country_code":"KR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840492,
+    "gn:latitude":34.93333,
+    "gn:longitude":126.5,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Namch\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840492
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9b1c4b12a33be0da67e64646e243aca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1226813065,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1226813065,
+    "wof:lastmodified":1536616440,
+    "wof:name":"Namch'on",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5,
+    34.93333,
+    126.5,
+    34.93333
+],
+  "geometry": {"coordinates":[126.5,34.93333],"type":"Point"}
+}

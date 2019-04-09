@@ -1,0 +1,72 @@
+{
+  "id": 1310287071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51667,34.95,126.51667,34.95",
+    "geom:latitude":34.95,
+    "geom:longitude":126.51667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sanum",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837487,
+    "gn:latitude":34.95,
+    "gn:longitude":126.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San\u016dm-ni",
+        "San\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837487
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2f542929ad03c6070120b409caedce91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472363,
+            "locality_id":1310287071,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310287071,
+    "wof:lastmodified":1537656239,
+    "wof:name":"Sanum",
+    "wof:parent_id":890472363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51667,
+    34.95,
+    126.51667,
+    34.95
+],
+  "geometry": {"coordinates":[126.51667,34.95],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243059893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3461,37.57092,128.3461,37.57092",
+    "geom:latitude":37.57092,
+    "geom:longitude":128.3461,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Myonol-li",
+    "gn:country_code":"KR",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1840732,
+    "gn:latitude":37.57092,
+    "gn:longitude":128.3461,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"My\u014fnol-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba74\uc628\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "My\u014fnol-li"
+    ],
+    "name:und_x_variant":[
+        "My\u014fnon-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840732
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6751304a741b03e77c053cc63ffb5f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476059,
+            "locality_id":1243059893,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243059893,
+    "wof:lastmodified":1537656410,
+    "wof:name":"Myonol-li",
+    "wof:parent_id":890476059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3461,
+    37.57092,
+    128.3461,
+    37.57092
+],
+  "geometry": {"coordinates":[128.34610000000001,37.57092],"type":"Point"}
+}

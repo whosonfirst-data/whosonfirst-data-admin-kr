@@ -1,0 +1,73 @@
+{
+  "id": 1277073139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.50026,37.06034,128.50026,37.06034",
+    "geom:latitude":37.06034,
+    "geom:longitude":128.50026,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hanamcheon",
+    "gn:country_code":"KR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891270,
+    "gn:latitude":37.06034,
+    "gn:longitude":128.50026,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Hanamcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub0a8\ucc9c"
+    ],
+    "name:kor_x_variant":[
+        "Hanamch\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891270
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"dea84ef3152fc742000ee1cb15acba9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472599,
+            "locality_id":1277073139,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1277073139,
+    "wof:lastmodified":1537656830,
+    "wof:name":"Hanamcheon",
+    "wof:parent_id":890472599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.50026,
+    37.06034,
+    128.50026,
+    37.06034
+],
+  "geometry": {"coordinates":[128.50026,37.06034],"type":"Point"}
+}

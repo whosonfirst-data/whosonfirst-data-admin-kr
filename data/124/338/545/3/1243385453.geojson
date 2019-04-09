@@ -1,0 +1,74 @@
+{
+  "id": 1243385453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.80973,37.708,127.80973,37.708",
+    "geom:latitude":37.708,
+    "geom:longitude":127.80973,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mundeul",
+    "gn:country_code":"KR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816153,
+    "gn:latitude":37.708,
+    "gn:longitude":127.80973,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Mundeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\ud2c0"
+    ],
+    "name:kor_x_variant":[
+        "Munt\u2019\u016dl",
+        "\ubb38\ub4e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816153
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"39d0cb786615b8a0554694a9ead180a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1243385453,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243385453,
+    "wof:lastmodified":1537658080,
+    "wof:name":"Mundeul",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.80973,
+    37.708,
+    127.80973,
+    37.708
+],
+  "geometry": {"coordinates":[127.80973,37.708],"type":"Point"}
+}

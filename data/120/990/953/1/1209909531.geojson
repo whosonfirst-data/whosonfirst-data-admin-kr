@@ -1,0 +1,78 @@
+{
+  "id": 1209909531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.73177,37.10936,127.73177,37.10936",
+    "geom:latitude":37.10936,
+    "geom:longitude":127.73177,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dangpyeong",
+    "gn:country_code":"KR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834909,
+    "gn:latitude":37.10936,
+    "gn:longitude":127.73177,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Dangpyeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\ud3c9"
+    ],
+    "name:kor_x_variant":[
+        "Tangp\u2019y\u014fng"
+    ],
+    "name:und_x_variant":[
+        "Tangdol",
+        "Tangd\u016dl",
+        "Dangpyeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834909
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"186c8b1d6ea8c3566cb1b2c7c3bae769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1209909531,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1209909531,
+    "wof:lastmodified":1537656114,
+    "wof:name":"Dangpyeong",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.73177,
+    37.10936,
+    127.73177,
+    37.10936
+],
+  "geometry": {"coordinates":[127.73177,37.10936],"type":"Point"}
+}

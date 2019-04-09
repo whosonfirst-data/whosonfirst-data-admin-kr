@@ -1,0 +1,66 @@
+{
+  "id": 1209582085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.44799,36.16738,127.44799,36.16738",
+    "geom:latitude":36.16738,
+    "geom:longitude":127.44799,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Jangbawi",
+    "gn:country_code":"KR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888102,
+    "gn:latitude":36.16738,
+    "gn:longitude":127.44799,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Jangbawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7a5\ubc14\uc704",
+        "Changbawi",
+        "Jangbawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888102
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d854a0860956b1425aa18f2b00a759ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209582085
+        }
+    ],
+    "wof:id":1209582085,
+    "wof:lastmodified":1537658413,
+    "wof:name":"Jangbawi",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.44799,
+    36.16738,
+    127.44799,
+    36.16738
+],
+  "geometry": {"coordinates":[127.44799,36.16738],"type":"Point"}
+}

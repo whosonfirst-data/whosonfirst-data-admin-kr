@@ -1,0 +1,70 @@
+{
+  "id": 1277150441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.32088,35.76669,129.32088,35.76669",
+    "geom:latitude":35.76669,
+    "geom:longitude":129.32088,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bamgat",
+    "gn:country_code":"KR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077924,
+    "gn:latitude":35.76669,
+    "gn:longitude":129.32088,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Bamgat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc24\uac13"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077924
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"055ffd4b7df6713acba1e0d5f3e546e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1277150441,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1277150441,
+    "wof:lastmodified":1537659132,
+    "wof:name":"Bamgat",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.32088000000002,
+    35.76669000000001,
+    129.32088000000002,
+    35.76669000000001
+],
+  "geometry": {"coordinates":[129.32088000000002,35.76669000000001],"type":"Point"}
+}

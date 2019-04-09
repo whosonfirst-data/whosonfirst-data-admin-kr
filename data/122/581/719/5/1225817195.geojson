@@ -1,0 +1,75 @@
+{
+  "id": 1225817195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.33645,34.78855,126.33645,34.78855",
+    "geom:latitude":34.78855,
+    "geom:longitude":126.33645,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jangji",
+    "gn:country_code":"KR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846536,
+    "gn:latitude":34.78855,
+    "gn:longitude":126.33645,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jangji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "Changjwa",
+        "Changja",
+        "Jangji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846536
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a07fc8d1778ab83199225c64331244a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473315,
+            "locality_id":1225817195,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1225817195,
+    "wof:lastmodified":1537656706,
+    "wof:name":"Jangji",
+    "wof:parent_id":890473315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.33645,
+    34.78855,
+    126.33645,
+    34.78855
+],
+  "geometry": {"coordinates":[126.33645,34.78855],"type":"Point"}
+}

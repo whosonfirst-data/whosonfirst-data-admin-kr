@@ -1,0 +1,75 @@
+{
+  "id": 1259453699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.24545,36.76218,128.24545,36.76218",
+    "geom:latitude":36.76218,
+    "geom:longitude":128.24545,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Changgu",
+    "gn:country_code":"KR",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895318,
+    "gn:latitude":36.76218,
+    "gn:longitude":128.24545,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Changgu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\uad6c"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019anggu-ri",
+        "Ch\u2019anggu",
+        "Changgu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895318
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c3018b73fb190638bf1c0c657426cd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476201,
+            "locality_id":1259453699,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259453699,
+    "wof:lastmodified":1537656884,
+    "wof:name":"Changgu",
+    "wof:parent_id":890476201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.24545,
+    36.76218,
+    128.24545,
+    36.76218
+],
+  "geometry": {"coordinates":[128.24545000000001,36.76218],"type":"Point"}
+}

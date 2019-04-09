@@ -1,0 +1,73 @@
+{
+  "id": 1343850253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9036,37.2628,128.9036,37.2628",
+    "geom:latitude":37.2628,
+    "geom:longitude":128.9036,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangp'anmun",
+    "gn:country_code":"KR",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796519,
+    "gn:latitude":37.2628,
+    "gn:longitude":128.9036,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sangp\u2019anmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ud310\ubb38"
+    ],
+    "name:kor_x_variant":[
+        "Sangp\u2019anmun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796519
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"feeb15d86de24d18e88919e37afc7eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1343850253,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343850253,
+    "wof:lastmodified":1537657560,
+    "wof:name":"Sangp'anmun",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9036,
+    37.2628,
+    128.9036,
+    37.2628
+],
+  "geometry": {"coordinates":[128.90360000000001,37.2628],"type":"Point"}
+}

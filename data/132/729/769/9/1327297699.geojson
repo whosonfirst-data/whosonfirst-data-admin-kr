@@ -1,0 +1,75 @@
+{
+  "id": 1327297699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72206,35.32455,126.72206,35.32455",
+    "geom:latitude":35.32455,
+    "geom:longitude":126.72206,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Choji",
+    "gn:country_code":"KR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845938,
+    "gn:latitude":35.32455,
+    "gn:longitude":126.72206,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Choji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucd08\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019ojae",
+        "Ch\u2019och\u2019i",
+        "Choji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845938
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e112f60eebed0ad86d65ff02c4245f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473289,
+            "locality_id":1327297699,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1327297699,
+    "wof:lastmodified":1537656674,
+    "wof:name":"Choji",
+    "wof:parent_id":890473289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72206,
+    35.32455,
+    126.72206,
+    35.32455
+],
+  "geometry": {"coordinates":[126.72206,35.32455],"type":"Point"}
+}

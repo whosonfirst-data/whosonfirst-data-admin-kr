@@ -1,0 +1,78 @@
+{
+  "id": 1277163497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39613,37.21618,127.39613,37.21618",
+    "geom:latitude":37.21618,
+    "geom:longitude":127.39613,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ich'\u014fn-si",
+    "gn:asciiname":"Pyeongchon",
+    "gn:country_code":"KR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398900,
+    "gn:latitude":37.21618,
+    "gn:longitude":127.39613,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Pyeongchon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9e4\uace1\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Maegok-ri",
+        "\ud3c9\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Maegong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398900
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e763a3f1b912cff66986b68e011adaab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1277163497,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1277163497,
+    "wof:lastmodified":1537657198,
+    "wof:name":"Pyeongchon",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39613,
+    37.21618,
+    127.39613,
+    37.21618
+],
+  "geometry": {"coordinates":[127.39613,37.21618],"type":"Point"}
+}

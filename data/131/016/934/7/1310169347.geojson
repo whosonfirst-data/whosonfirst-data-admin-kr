@@ -1,0 +1,78 @@
+{
+  "id": 1310169347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.35306,34.44222,126.35306,34.44222",
+    "geom:latitude":34.44222,
+    "geom:longitude":126.35306,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"Chindo-gun",
+    "gn:asciiname":"Gagye",
+    "gn:country_code":"KR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843370,
+    "gn:latitude":34.44222,
+    "gn:longitude":126.35306,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Gagye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uacc4"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmgye-ri",
+        "Kinkai-ri",
+        "Kagye-ri",
+        "Kagye",
+        "Gagye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843370
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2992824c269f5199276482dc9a6a9611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472189,
+            "locality_id":1310169347,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310169347,
+    "wof:lastmodified":1537656546,
+    "wof:name":"Gagye",
+    "wof:parent_id":890472189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.35306,
+    34.44222,
+    126.35306,
+    34.44222
+],
+  "geometry": {"coordinates":[126.35306,34.44222],"type":"Point"}
+}

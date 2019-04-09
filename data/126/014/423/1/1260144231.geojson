@@ -1,0 +1,73 @@
+{
+  "id": 1260144231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48488,34.92355,127.48488,34.92355",
+    "geom:latitude":34.92355,
+    "geom:longitude":127.48488,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seonam",
+    "gn:country_code":"KR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6684854,
+    "gn:latitude":34.92355,
+    "gn:longitude":127.48488,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Seonam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc120\uc554"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890474635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6684854
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"add74b99cacd9335a4b8237e2a648b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474635,
+            "locality_id":1260144231,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1260144231,
+    "wof:lastmodified":1537657432,
+    "wof:name":"Seonam",
+    "wof:parent_id":890474635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48488,
+    34.92355,
+    127.48488,
+    34.92355
+],
+  "geometry": {"coordinates":[127.48488,34.92355],"type":"Point"}
+}

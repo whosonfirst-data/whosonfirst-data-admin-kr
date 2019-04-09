@@ -1,0 +1,71 @@
+{
+  "id": 1260146863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.2334,36.7199,126.2334,36.7199",
+    "geom:latitude":36.7199,
+    "geom:longitude":126.2334,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ch'onan-gol",
+    "gn:country_code":"KR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808075,
+    "gn:latitude":36.7199,
+    "gn:longitude":126.2334,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019\u014fnan-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc9c\uc548\uace8",
+        "Ch\u2019\u014fnan-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        1108746537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808075
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9119bb98f62f9b2d6d08e87d48017561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746537,
+            "locality_id":1260146863,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260146863,
+    "wof:lastmodified":1537657814,
+    "wof:name":"Ch'onan-gol",
+    "wof:parent_id":1108746537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.2334,
+    36.7199,
+    126.2334,
+    36.7199
+],
+  "geometry": {"coordinates":[126.2334,36.7199],"type":"Point"}
+}

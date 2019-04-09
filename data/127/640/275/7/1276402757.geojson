@@ -1,0 +1,73 @@
+{
+  "id": 1276402757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25,36.63333,127.25,36.63333",
+    "geom:latitude":36.63333,
+    "geom:longitude":127.25,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chungsong-gol",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1844922,
+    "gn:latitude":36.63333,
+    "gn:longitude":127.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chungsong-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chungsong-ni",
+        "Chungsong-dong",
+        "Chungsong-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673243,
+        1108746507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1844922
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"613ec8e65736c1ad2c83e55a64921218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746507,
+            "locality_id":1276402757,
+            "region_id":85673243
+        }
+    ],
+    "wof:id":1276402757,
+    "wof:lastmodified":1537656622,
+    "wof:name":"Chungsong-gol",
+    "wof:parent_id":1108746507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25,
+    36.63333,
+    127.25,
+    36.63333
+],
+  "geometry": {"coordinates":[127.25,36.63333],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259958857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5241,37.64866,126.5241,37.64866",
+    "geom:latitude":37.64866,
+    "geom:longitude":126.5241,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Deokjin",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834583,
+    "gn:latitude":37.64866,
+    "gn:longitude":126.5241,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Deokjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc9c4\uc9c4"
+    ],
+    "name:und_x_variant":[
+        "T\u014fkchin-dong",
+        "\ub355\uc9c4",
+        "Deokjin",
+        "T\u014fkchin",
+        "T\u014fkchinjin",
+        "Deokjinjin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673177,
+        890476309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834583
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c9662400cdb60ef5b40e1dd8a9d894e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476309,
+            "locality_id":1259958857,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":1259958857,
+    "wof:lastmodified":1537656094,
+    "wof:name":"Deokjin",
+    "wof:parent_id":890476309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5241,
+    37.64866,
+    126.5241,
+    37.64866
+],
+  "geometry": {"coordinates":[126.5241,37.64866],"type":"Point"}
+}

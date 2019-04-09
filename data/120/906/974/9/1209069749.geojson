@@ -1,0 +1,65 @@
+{
+  "id": 1209069749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7971,36.4367,126.7971,36.4367",
+    "geom:latitude":36.4367,
+    "geom:longitude":126.7971,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chebijae",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884063,
+    "gn:latitude":36.4367,
+    "gn:longitude":126.7971,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chebijae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc81c\ube44\uc7ac",
+        "Chebijae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884063
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9715d8ad5fd762ad65ef2ea620b63276",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209069749
+        }
+    ],
+    "wof:id":1209069749,
+    "wof:lastmodified":1537658309,
+    "wof:name":"Chebijae",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7971,
+    36.4367,
+    126.7971,
+    36.4367
+],
+  "geometry": {"coordinates":[126.7971,36.4367],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1192990223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6257,34.61941,126.6257,34.61941",
+    "geom:latitude":34.61941,
+    "geom:longitude":126.6257,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Songseok",
+    "gn:country_code":"KR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836021,
+    "gn:latitude":34.61941,
+    "gn:longitude":126.6257,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Songseok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uc11d"
+    ],
+    "name:und_x_variant":[
+        "Sh\u014dseki-ri",
+        "Songu-ri",
+        "Songs\u014fng-ni",
+        "Songs\u014fk",
+        "Songseok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836021
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5e7ec84f9b8bd5076809e308ee4b099f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1192990223,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1192990223,
+    "wof:lastmodified":1537656166,
+    "wof:name":"Songseok",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6257,
+    34.61940999999999,
+    126.6257,
+    34.61940999999999
+],
+  "geometry": {"coordinates":[126.62569999999999,34.61940999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326609049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05105,38.08233,127.05105,38.08233",
+    "geom:latitude":38.08233,
+    "geom:longitude":127.05105,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Buchigogae",
+    "gn:country_code":"KR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865805,
+    "gn:latitude":38.08233,
+    "gn:longitude":127.05105,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Buchigogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\uce58\uace0\uac1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865805
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"63eca5435be1f9714f29d3b839cd8951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475965,
+            "locality_id":1326609049,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1326609049,
+    "wof:lastmodified":1537658951,
+    "wof:name":"Buchigogae",
+    "wof:parent_id":890475965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05105,
+    38.08233,
+    127.05105,
+    38.08233
+],
+  "geometry": {"coordinates":[127.05105,38.08233],"type":"Point"}
+}

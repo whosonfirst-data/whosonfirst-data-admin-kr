@@ -1,0 +1,71 @@
+{
+  "id": 1243230233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22981,36.27661,127.22981,36.27661",
+    "geom:latitude":36.27661,
+    "geom:longitude":127.22981,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sorasil",
+    "gn:country_code":"KR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6888522,
+    "gn:latitude":36.27661,
+    "gn:longitude":127.22981,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sorasil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\ub77c\uc2e4",
+        "Sorasil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890472515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888522
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc850b13480ff1719071017e4babf3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472515,
+            "locality_id":1243230233,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1243230233,
+    "wof:lastmodified":1537658426,
+    "wof:name":"Sorasil",
+    "wof:parent_id":890472515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22981,
+    36.27661,
+    127.22981,
+    36.27661
+],
+  "geometry": {"coordinates":[127.22981,36.27661],"type":"Point"}
+}

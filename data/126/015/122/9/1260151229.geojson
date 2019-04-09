@@ -1,0 +1,70 @@
+{
+  "id": 1260151229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.61513,36.5132,128.61513,36.5132",
+    "geom:latitude":36.5132,
+    "geom:longitude":128.61513,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sangni",
+    "gn:country_code":"KR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272140,
+    "gn:latitude":36.5132,
+    "gn:longitude":128.61513,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Sangni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272140
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"898cbf0a2a5afa512594d8e7703c386c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1260151229,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260151229,
+    "wof:lastmodified":1537659315,
+    "wof:name":"Sangni",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.61513,
+    36.5132,
+    128.61513,
+    36.5132
+],
+  "geometry": {"coordinates":[128.61512999999999,36.5132],"type":"Point"}
+}

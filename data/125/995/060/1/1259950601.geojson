@@ -1,0 +1,74 @@
+{
+  "id": 1259950601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.9202,37.0416,128.9202,37.0416",
+    "geom:latitude":37.0416,
+    "geom:longitude":128.9202,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dohwadong",
+    "gn:country_code":"KR",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1834615,
+    "gn:latitude":37.0416,
+    "gn:longitude":128.9202,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Dohwadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ud654\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Tohwa-dong",
+        "Dohwadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1834615
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2220151ebd984d7018ee894f95686cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1259950601,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259950601,
+    "wof:lastmodified":1537656096,
+    "wof:name":"Dohwadong",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.9202,
+    37.0416,
+    128.9202,
+    37.0416
+],
+  "geometry": {"coordinates":[128.92019999999999,37.0416],"type":"Point"}
+}

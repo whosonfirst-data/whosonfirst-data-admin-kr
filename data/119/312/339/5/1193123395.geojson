@@ -1,0 +1,73 @@
+{
+  "id": 1193123395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62402,37.14103,127.62402,37.14103",
+    "geom:latitude":37.14103,
+    "geom:longitude":127.62402,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gaejawi",
+    "gn:country_code":"KR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812852,
+    "gn:latitude":37.14103,
+    "gn:longitude":127.62402,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Gaejawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac1c\uc790\uc704"
+    ],
+    "name:und_x_variant":[
+        "Kaejawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812852
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"82fc24756793d0e85a4a24e36380740a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475061,
+            "locality_id":1193123395,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1193123395,
+    "wof:lastmodified":1537657988,
+    "wof:name":"Gaejawi",
+    "wof:parent_id":890475061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62402,
+    37.14103,
+    127.62402,
+    37.14103
+],
+  "geometry": {"coordinates":[127.62402,37.14103],"type":"Point"}
+}

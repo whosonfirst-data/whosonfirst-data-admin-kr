@@ -1,0 +1,77 @@
+{
+  "id": 1242761035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6423,37.05182,128.6423,37.05182",
+    "geom:latitude":37.05182,
+    "geom:longitude":128.6423,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maeulcheon",
+    "gn:country_code":"KR",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891275,
+    "gn:latitude":37.05182,
+    "gn:longitude":128.6423,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Maeulcheon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc744\ucc9c"
+    ],
+    "name:kor_x_variant":[
+        "Ma\u016dlch\u2019\u014fn"
+    ],
+    "name:und_x_variant":[
+        "Mah\u016dlch\u2019\u014fn",
+        "Maeulcheon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890476183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891275
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"26ce439f3710c5e74d2d421fd21a6f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476183,
+            "locality_id":1242761035,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242761035,
+    "wof:lastmodified":1537656831,
+    "wof:name":"Maeulcheon",
+    "wof:parent_id":890476183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6423,
+    37.05182,
+    128.6423,
+    37.05182
+],
+  "geometry": {"coordinates":[128.64230000000001,37.05182],"type":"Point"}
+}

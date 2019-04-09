@@ -1,0 +1,73 @@
+{
+  "id": 1360049393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.91551,34.99388,126.91551,34.99388",
+    "geom:latitude":34.99388,
+    "geom:longitude":126.91551,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hyojachon",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843790,
+    "gn:latitude":34.99388,
+    "gn:longitude":126.91551,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Hyojachon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud6a8\uc790\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Hyojach\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843790
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2158d89a4b16f30e623ee8d432be5c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473237,
+            "locality_id":1360049393,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1360049393,
+    "wof:lastmodified":1537656566,
+    "wof:name":"Hyojachon",
+    "wof:parent_id":890473237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.91551,
+    34.99388,
+    126.91551,
+    34.99388
+],
+  "geometry": {"coordinates":[126.91551,34.99388],"type":"Point"}
+}

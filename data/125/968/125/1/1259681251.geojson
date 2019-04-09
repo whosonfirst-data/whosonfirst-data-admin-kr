@@ -1,0 +1,77 @@
+{
+  "id": 1259681251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8436,37.81816,127.8436,37.81816",
+    "geom:latitude":37.81816,
+    "geom:longitude":127.8436,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bakdalgwae",
+    "gn:country_code":"KR",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6814147,
+    "gn:latitude":37.81816,
+    "gn:longitude":127.8436,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Bakdalgwae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc15\ub2ec\uc7ac"
+    ],
+    "name:kor_x_variant":[
+        "\ubc15\ub2ec\uad18"
+    ],
+    "name:und_x_variant":[
+        "Paktalchae",
+        "Bakdalgwae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6814147
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96321d5891723913eee08e6492835348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1259681251,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1259681251,
+    "wof:lastmodified":1537658041,
+    "wof:name":"Bakdalgwae",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8436,
+    37.81816,
+    127.8436,
+    37.81816
+],
+  "geometry": {"coordinates":[127.8436,37.81816],"type":"Point"}
+}

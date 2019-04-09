@@ -1,0 +1,73 @@
+{
+  "id": 1293182945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.30111,34.70189,126.30111,34.70189",
+    "geom:latitude":34.70189,
+    "geom:longitude":126.30111,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gama",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1843238,
+    "gn:latitude":34.70189,
+    "gn:longitude":126.30111,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Gama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub9c8"
+    ],
+    "name:und_x_variant":[
+        "Kama-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890475077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1843238
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0782ffd779414143a9f2591f39383401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475077,
+            "locality_id":1293182945,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1293182945,
+    "wof:lastmodified":1537656538,
+    "wof:name":"Gama",
+    "wof:parent_id":890475077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.30111,
+    34.70189,
+    126.30111,
+    34.70189
+],
+  "geometry": {"coordinates":[126.30110999999999,34.70189],"type":"Point"}
+}

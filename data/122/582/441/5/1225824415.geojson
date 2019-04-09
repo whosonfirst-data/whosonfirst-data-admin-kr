@@ -1,0 +1,75 @@
+{
+  "id": 1225824415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.2982,37.5159,127.2982,37.5159",
+    "geom:latitude":37.5159,
+    "geom:longitude":127.2982,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mahyeon",
+    "gn:country_code":"KR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897012,
+    "gn:latitude":37.5159,
+    "gn:longitude":127.2982,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Mahyeon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\ud604"
+    ],
+    "name:und_x_variant":[
+        "\ub9c8\ud604",
+        "Mahy\u014fn",
+        "Mahyeon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897012
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d5e461315f7696fcfd28ea07b08faf6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1225824415,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1225824415,
+    "wof:lastmodified":1537656924,
+    "wof:name":"Mahyeon",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.2982,
+    37.5159,
+    127.2982,
+    37.5159
+],
+  "geometry": {"coordinates":[127.29819999999999,37.5159],"type":"Point"}
+}

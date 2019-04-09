@@ -1,0 +1,73 @@
+{
+  "id": 1327428961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.5406,37.1918,128.5406,37.1918",
+    "geom:latitude":37.1918,
+    "geom:longitude":128.5406,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kkoppanmo-ri",
+    "gn:country_code":"KR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6794528,
+    "gn:latitude":37.1918,
+    "gn:longitude":128.5406,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kkoppanm\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uaf43\ubc2d\uba38\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kkoppanm\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6794528
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"219e34d0e812c7d0b6d982683e1dc334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473363,
+            "locality_id":1327428961,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327428961,
+    "wof:lastmodified":1537657499,
+    "wof:name":"Kkoppanmo-ri",
+    "wof:parent_id":890473363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.5406,
+    37.1918,
+    128.5406,
+    37.1918
+],
+  "geometry": {"coordinates":[128.54060000000001,37.1918],"type":"Point"}
+}

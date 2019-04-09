@@ -1,0 +1,73 @@
+{
+  "id": 1243242661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59774,37.53664,127.59774,37.53664",
+    "geom:latitude":37.53664,
+    "geom:longitude":127.59774,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dokjeom",
+    "gn:country_code":"KR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6799243,
+    "gn:latitude":37.53664,
+    "gn:longitude":127.59774,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Dokjeom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c5\uc810"
+    ],
+    "name:kor_x_variant":[
+        "Tokch\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6799243
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"35102a6a45a46d10a1c011885ca525a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1243242661,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1243242661,
+    "wof:lastmodified":1537657625,
+    "wof:name":"Dokjeom",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59774,
+    37.53664000000001,
+    127.59774,
+    37.53664000000001
+],
+  "geometry": {"coordinates":[127.59774,37.53664000000001],"type":"Point"}
+}

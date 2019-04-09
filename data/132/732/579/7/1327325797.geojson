@@ -1,0 +1,75 @@
+{
+  "id": 1327325797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7565,37.9328,127.7565,37.9328",
+    "geom:latitude":37.9328,
+    "geom:longitude":127.7565,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Araenmunjeong",
+    "gn:country_code":"KR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1846868,
+    "gn:latitude":37.9328,
+    "gn:longitude":127.7565,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Araenmunjeong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamuny\u014fn-ni",
+        "Hamunj\u014fng-ni",
+        "\uc544\ub7ab\ubb38\uc815",
+        "Sinbuk",
+        "Araenmunj\u014fng",
+        "Araenmunjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890472419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1846868
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b7713c53820204694d041ee29d93b839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472419,
+            "locality_id":1327325797,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1327325797,
+    "wof:lastmodified":1537656724,
+    "wof:name":"Araenmunjeong",
+    "wof:parent_id":890472419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7565,
+    37.9328,
+    127.7565,
+    37.9328
+],
+  "geometry": {"coordinates":[127.7565,37.9328],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243527251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65671,35.82961,128.65671,35.82961",
+    "geom:latitude":35.82961,
+    "geom:longitude":128.65671,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gureum",
+    "gn:country_code":"KR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11033356,
+    "gn:latitude":35.82961,
+    "gn:longitude":128.65671,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gureum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub984"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890473007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11033356
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4e947d83e200dbd5287eb0ecd9135e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473007,
+            "locality_id":1243527251,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1243527251,
+    "wof:lastmodified":1537659112,
+    "wof:name":"Gureum",
+    "wof:parent_id":890473007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65671,
+    35.82960999999999,
+    128.65671,
+    35.82960999999999
+],
+  "geometry": {"coordinates":[128.65671,35.82960999999999],"type":"Point"}
+}

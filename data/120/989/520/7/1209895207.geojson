@@ -1,0 +1,75 @@
+{
+  "id": 1209895207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.18226,37.70536,127.18226,37.70536",
+    "geom:latitude":37.70536,
+    "geom:longitude":127.18226,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jungpo",
+    "gn:country_code":"KR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897128,
+    "gn:latitude":37.70536,
+    "gn:longitude":127.18226,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Jungpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\ud3ec"
+    ],
+    "name:und_x_variant":[
+        "\uc911\ud3ec",
+        "Chungp\u2019o",
+        "Jungpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897128
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8292e0a2905ac01d4c1fbfe2734a2885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474583,
+            "locality_id":1209895207,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1209895207,
+    "wof:lastmodified":1537656932,
+    "wof:name":"Jungpo",
+    "wof:parent_id":890474583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.18226,
+    37.70536,
+    127.18226,
+    37.70536
+],
+  "geometry": {"coordinates":[127.18226,37.70536],"type":"Point"}
+}

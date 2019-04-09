@@ -1,0 +1,65 @@
+{
+  "id": 1209407033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.297,37.283,129.297,37.283",
+    "geom:latitude":37.283,
+    "geom:longitude":129.297,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yongha",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6809507,
+    "gn:latitude":37.283,
+    "gn:longitude":129.297,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\ud558",
+        "Yongha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6809507
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"945b4265c8153cc57f856d48bf16f25f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209407033
+        }
+    ],
+    "wof:id":1209407033,
+    "wof:lastmodified":1537657877,
+    "wof:name":"Yongha",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.297,
+    37.283,
+    129.297,
+    37.283
+],
+  "geometry": {"coordinates":[129.297,37.283],"type":"Point"}
+}

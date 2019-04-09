@@ -1,0 +1,72 @@
+{
+  "id": 1209319161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.67395,37.06515,127.67395,37.06515",
+    "geom:latitude":37.06515,
+    "geom:longitude":127.67395,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Maeteomal",
+    "gn:country_code":"KR",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813129,
+    "gn:latitude":37.06515,
+    "gn:longitude":127.67395,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Maeteomal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba54\ud130"
+    ],
+    "name:kor_x_variant":[
+        "Met\u2019\u014f",
+        "\ub9e4\ud130\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Meteo",
+        "Maeteomal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813129
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c1d86bae13ae9d3421e0971e0af10cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209319161
+        }
+    ],
+    "wof:id":1209319161,
+    "wof:lastmodified":1537658004,
+    "wof:name":"Maeteomal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.67395,
+    37.06515,
+    127.67395,
+    37.06515
+],
+  "geometry": {"coordinates":[127.67395,37.06515],"type":"Point"}
+}

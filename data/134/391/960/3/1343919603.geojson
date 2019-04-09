@@ -1,0 +1,72 @@
+{
+  "id": 1343919603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42905,35.54499,128.42905,35.54499",
+    "geom:latitude":35.54499,
+    "geom:longitude":128.42905,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Taedae-ri",
+    "gn:country_code":"KR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1894339,
+    "gn:latitude":35.54499,
+    "gn:longitude":128.42905,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taedae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\ub300\ub9ac",
+        "Taedae",
+        "Taedae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890473621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1894339
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5f3d5607c05c9a6ce3693cd4d257cc7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473621,
+            "locality_id":1343919603,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1343919603,
+    "wof:lastmodified":1537656851,
+    "wof:name":"Taedae-ri",
+    "wof:parent_id":890473621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42905,
+    35.54499000000001,
+    128.42905,
+    35.54499000000001
+],
+  "geometry": {"coordinates":[128.42904999999999,35.54499000000001],"type":"Point"}
+}

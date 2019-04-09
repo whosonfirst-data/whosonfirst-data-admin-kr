@@ -1,0 +1,75 @@
+{
+  "id": 1260151903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41585,37.0768,127.41585,37.0768",
+    "geom:latitude":37.0768,
+    "geom:longitude":127.41585,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"Ans\u014fng-si",
+    "gn:asciiname":"Gyodong",
+    "gn:country_code":"KR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398978,
+    "gn:latitude":37.0768,
+    "gn:longitude":127.41585,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gyodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad50\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kyo-dong",
+        "Gyodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890474641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398978
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5327789d894bbaf971b6595ac25c55f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474641,
+            "locality_id":1260151903,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1260151903,
+    "wof:lastmodified":1537657203,
+    "wof:name":"Gyodong",
+    "wof:parent_id":890474641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41585,
+    37.0768,
+    127.41585,
+    37.0768
+],
+  "geometry": {"coordinates":[127.41585000000001,37.0768],"type":"Point"}
+}

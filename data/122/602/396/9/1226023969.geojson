@@ -1,0 +1,73 @@
+{
+  "id": 1226023969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.00556,37.1625,127.00556,37.1625",
+    "geom:latitude":37.1625,
+    "geom:longitude":127.00556,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koji-ri",
+    "gn:country_code":"KR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896717,
+    "gn:latitude":37.1625,
+    "gn:longitude":127.00556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Koji-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc9c0\ub9ac",
+        "Goji-ri",
+        "Kojumul",
+        "Koji-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896717
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"126b35471bedd6a7853dde3cccc7f5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476049,
+            "locality_id":1226023969,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226023969,
+    "wof:lastmodified":1537656909,
+    "wof:name":"Koji-ri",
+    "wof:parent_id":890476049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.00556,
+    37.1625,
+    127.00556,
+    37.1625
+],
+  "geometry": {"coordinates":[127.00556,37.1625],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277048365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6724,35.98736,128.6724,35.98736",
+    "geom:latitude":35.98736,
+    "geom:longitude":128.6724,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Guksal",
+    "gn:country_code":"KR",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893752,
+    "gn:latitude":35.98736,
+    "gn:longitude":128.6724,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Guksal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6d\uc0b4"
+    ],
+    "name:und_x_variant":[
+        "Kuksil",
+        "Kukshil",
+        "Kuksal",
+        "Guksal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        1108746445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893752
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"29e18048c14bd87a79bad990ef786717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746445,
+            "locality_id":1277048365,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1277048365,
+    "wof:lastmodified":1537656837,
+    "wof:name":"Guksal",
+    "wof:parent_id":1108746445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6724,
+    35.98735999999999,
+    128.6724,
+    35.98735999999999
+],
+  "geometry": {"coordinates":[128.67240000000001,35.98735999999999],"type":"Point"}
+}

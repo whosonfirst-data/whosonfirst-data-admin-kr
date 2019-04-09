@@ -1,0 +1,71 @@
+{
+  "id": 1259963077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0044,36.9574,129.0044,36.9574",
+    "geom:latitude":36.9574,
+    "geom:longitude":129.0044,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chandaemi",
+    "gn:country_code":"KR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6895602,
+    "gn:latitude":36.9574,
+    "gn:longitude":129.0044,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chandaemi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc794\ub300\ubbf8",
+        "Chandaemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6895602
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fc4e48f67069fa66aa18d5b463b40f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474479,
+            "locality_id":1259963077,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1259963077,
+    "wof:lastmodified":1537658631,
+    "wof:name":"Chandaemi",
+    "wof:parent_id":890474479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0044,
+    36.9574,
+    129.0044,
+    36.9574
+],
+  "geometry": {"coordinates":[129.0044,36.9574],"type":"Point"}
+}

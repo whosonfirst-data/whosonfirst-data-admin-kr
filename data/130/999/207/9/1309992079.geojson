@@ -1,0 +1,70 @@
+{
+  "id": 1309992079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85004,37.78055,126.85004,37.78055",
+    "geom:latitude":37.78055,
+    "geom:longitude":126.85004,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gwangtan",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8608410,
+    "gn:latitude":37.78055,
+    "gn:longitude":126.85004,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Gwangtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad11\ud0c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608410
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"49ed1a7fd1942a3bfe48480984254821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476051,
+            "locality_id":1309992079,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1309992079,
+    "wof:lastmodified":1537658897,
+    "wof:name":"Gwangtan",
+    "wof:parent_id":890476051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85004,
+    37.78055,
+    126.85004,
+    37.78055
+],
+  "geometry": {"coordinates":[126.85004000000001,37.78055],"type":"Point"}
+}

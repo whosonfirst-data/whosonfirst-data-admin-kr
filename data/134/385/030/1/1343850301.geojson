@@ -1,0 +1,77 @@
+{
+  "id": 1343850301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.18579,37.72405,128.18579,37.72405",
+    "geom:latitude":37.72405,
+    "geom:longitude":128.18579,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pungam-ri",
+    "gn:country_code":"KR",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838585,
+    "gn:latitude":37.72405,
+    "gn:longitude":128.18579,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Pungam-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud48d\uc554\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019ungam-ni"
+    ],
+    "name:und_x_variant":[
+        "H\u014dgan-ri",
+        "Pungam-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838585
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1f4e7a9c8bde06e979f437ef4909af2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1343850301,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1343850301,
+    "wof:lastmodified":1537656301,
+    "wof:name":"Pungam-ri",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.18579,
+    37.72405,
+    128.18579,
+    37.72405
+],
+  "geometry": {"coordinates":[128.18579,37.72405],"type":"Point"}
+}

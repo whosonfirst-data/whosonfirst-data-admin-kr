@@ -1,0 +1,65 @@
+{
+  "id": 1209297739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.2349,36.082,128.2349,36.082",
+    "geom:latitude":36.082,
+    "geom:longitude":128.2349,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ansolbang",
+    "gn:country_code":"KR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890822,
+    "gn:latitude":36.082,
+    "gn:longitude":128.2349,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ansolbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\uc194\ubc29",
+        "Ansolbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890822
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"511a4141d6c5804187d49273ac4fc655",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209297739
+        }
+    ],
+    "wof:id":1209297739,
+    "wof:lastmodified":1537658495,
+    "wof:name":"Ansolbang",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.2349,
+    36.082,
+    128.2349,
+    36.082
+],
+  "geometry": {"coordinates":[128.23490000000001,36.082],"type":"Point"}
+}

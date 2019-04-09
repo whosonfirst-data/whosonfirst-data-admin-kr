@@ -1,0 +1,71 @@
+{
+  "id": 1293858255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.307,35.00991,128.307,35.00991",
+    "geom:latitude":35.00991,
+    "geom:longitude":128.307,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chunggok",
+    "gn:country_code":"KR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6899579,
+    "gn:latitude":35.00991,
+    "gn:longitude":128.307,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chunggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uace1",
+        "Chunggok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6899579
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"322e75813926568228a53df9c9648327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746461,
+            "locality_id":1293858255,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1293858255,
+    "wof:lastmodified":1537658748,
+    "wof:name":"Chunggok",
+    "wof:parent_id":1108746461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30700000000002,
+    35.00991,
+    128.30700000000002,
+    35.00991
+],
+  "geometry": {"coordinates":[128.30700000000002,35.00991],"type":"Point"}
+}

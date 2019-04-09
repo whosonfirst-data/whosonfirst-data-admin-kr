@@ -1,0 +1,79 @@
+{
+  "id": 1226632319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.54736,37.20585,127.54736,37.20585",
+    "geom:latitude":37.20585,
+    "geom:longitude":127.54736,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seonbi",
+    "gn:country_code":"KR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1836416,
+    "gn:latitude":37.20585,
+    "gn:longitude":127.54736,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Seonbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc12c\ube44"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fmbi",
+        "\uc120\ube44"
+    ],
+    "name:und_x_variant":[
+        "S\u014fmbae-dong",
+        "Seombi",
+        "Seonbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1836416
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4c07010be595e88176a66455cf1400d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1226632319,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226632319,
+    "wof:lastmodified":1537656186,
+    "wof:name":"Seonbi",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.54736,
+    37.20585,
+    127.54736,
+    37.20585
+],
+  "geometry": {"coordinates":[127.54736,37.20585],"type":"Point"}
+}

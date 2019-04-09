@@ -1,0 +1,125 @@
+{
+  "id": 1108746489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001856,
+    "geom:area_square_m":18180698.047977,
+    "geom:bbox":"127.068992484,37.5712601353,127.120428358,37.6235981656",
+    "geom:latitude":37.598375,
+    "geom:longitude":127.093396,
+    "iso:country":"KR",
+    "lbl:latitude":37.596393,
+    "lbl:longitude":127.091309,
+    "meso:admin_1_en":"Seoul",
+    "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+    "meso:diss_me":"Jungnang-guSeoul",
+    "meso:gadm_admin":"Jungnang",
+    "meso:local_id":"11070",
+    "meso:mps_x":127.091309,
+    "meso:mps_y":37.596393,
+    "meso:name_en":"Jungnang-gu",
+    "meso:name_local":"\uc911\ub791\uad6c",
+    "meso:source":"AOTM",
+    "mps:latitude":37.596393,
+    "mps:longitude":127.091309,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e2d\u6d6a\u5340"
+    ],
+    "name:eng_x_preferred":[
+        "Jungnang District"
+    ],
+    "name:eng_x_variant":[
+        "Jungnang"
+    ],
+    "name:est_x_preferred":[
+        "Jungnangi linnarajoon"
+    ],
+    "name:fre_x_preferred":[
+        "Jungnang-gu"
+    ],
+    "name:ger_x_preferred":[
+        "Jungnang-gu"
+    ],
+    "name:hun_x_preferred":[
+        "Csungnang-ku"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Jungnang"
+    ],
+    "name:ita_x_preferred":[
+        "Jungnang-gu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e2d\u6d6a\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\ub791\uad6c"
+    ],
+    "name:may_x_preferred":[
+        "Daerah Jungnang"
+    ],
+    "name:sco_x_preferred":[
+        "Jungnang-gu"
+    ],
+    "name:spa_x_preferred":[
+        "Jungnang"
+    ],
+    "name:swe_x_preferred":[
+        "Jungnang-gu"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e0a\u0e38\u0e07\u0e19\u0e31\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Jungnang"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0646\u06af\u0646\u0627\u0646\u06af \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Jungnang-gu"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q50444"
+    },
+    "wof:country":"KR",
+    "wof:created":1479154717,
+    "wof:geomhash":"87e4c482404a54477cc34e04c4173847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746489,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1108746489,
+    "wof:lastmodified":1514469228,
+    "wof:name":"Jungnang-gu",
+    "wof:parent_id":85673185,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0689924844422,
+    37.57126013527124,
+    127.12042835757586,
+    37.62359816562095
+],
+  "geometry": {"coordinates":[[[127.10668951426975,37.62359816562095],[127.11716056063581,37.61997350363386],[127.12042835757586,37.61115109127932],[127.12036130917755,37.61089989888514],[127.11408658383048,37.60409572870525],[127.11333182575707,37.60158293954957],[127.11480239017226,37.59896854400808],[127.11606655662308,37.59103965737403],[127.11395986539803,37.58584791095702],[127.10314939210093,37.58330252681947],[127.10221731567586,37.57251158282084],[127.09059238036437,37.57138379985766],[127.09045835004844,37.57126013527124],[127.08077246962857,37.57308110486553],[127.07666858933038,37.58461281790711],[127.07432157083413,37.5849905547779],[127.07179347958001,37.58591338378751],[127.0698651008361,37.59040477194853],[127.07186164327946,37.60183268931186],[127.07132295064257,37.60534738699882],[127.06944081149099,37.60715402438129],[127.06899248444221,37.61224173624484],[127.07308920255439,37.61814439371794],[127.08088739947844,37.62046944042181],[127.08826071657953,37.61793655395524],[127.08892981842902,37.61693515901279],[127.09366930726478,37.61398465837755],[127.10337945397031,37.61825353200052],[127.10668951426975,37.62359816562095]]],"type":"Polygon"}
+}

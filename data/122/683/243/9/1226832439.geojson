@@ -1,0 +1,74 @@
+{
+  "id": 1226832439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.4078,36.5386,129.4078,36.5386",
+    "geom:latitude":36.5386,
+    "geom:longitude":129.4078,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yonhai",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832485,
+    "gn:latitude":36.5386,
+    "gn:longitude":129.4078,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yonhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neikai",
+        "Yonhai",
+        "\uc601\ud574",
+        "S\u014fngnae",
+        "Y\u014fnghae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832485
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"4675fc90796a20003144ecc3b877c28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1226832439,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226832439,
+    "wof:lastmodified":1537655981,
+    "wof:name":"Yonhai",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.4078,
+    36.5386,
+    129.4078,
+    36.5386
+],
+  "geometry": {"coordinates":[129.40780000000001,36.5386],"type":"Point"}
+}

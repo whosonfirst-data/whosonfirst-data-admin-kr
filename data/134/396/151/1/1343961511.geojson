@@ -1,0 +1,67 @@
+{
+  "id": 1343961511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5,33.5,126.5,33.5",
+    "geom:latitude":33.5,
+    "geom:longitude":126.5,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chongp'yong-dong",
+    "gn:country_code":"KR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1845545,
+    "gn:latitude":33.5,
+    "gn:longitude":126.5,
+    "gn:modification_date":"1995-04-20",
+    "gn:name":"Ch\u014fngp\u2019y\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1845545
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"8fc5ff48537387f6c769be444970f7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1343961511,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1343961511,
+    "wof:lastmodified":1537017695,
+    "wof:name":"Chongp'yong-dong",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5,
+    33.5,
+    126.5,
+    33.5
+],
+  "geometry": {"coordinates":[126.5,33.5],"type":"Point"}
+}

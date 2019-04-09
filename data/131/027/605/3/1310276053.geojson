@@ -1,0 +1,74 @@
+{
+  "id": 1310276053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53721,37.5144,127.53721,37.5144",
+    "geom:latitude":37.5144,
+    "geom:longitude":127.53721,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hak-gol",
+    "gn:country_code":"KR",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798868,
+    "gn:latitude":37.5144,
+    "gn:longitude":127.53721,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Hak-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\uace8"
+    ],
+    "name:und_x_variant":[
+        "Hak-kol",
+        "Hak-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798868
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"449c4f83b1989add0a00a1cbf3161538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475313,
+            "locality_id":1310276053,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1310276053,
+    "wof:lastmodified":1537657615,
+    "wof:name":"Hak-gol",
+    "wof:parent_id":890475313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53721000000002,
+    37.5144,
+    127.53721000000002,
+    37.5144
+],
+  "geometry": {"coordinates":[127.53721000000002,37.5144],"type":"Point"}
+}

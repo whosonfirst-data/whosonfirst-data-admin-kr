@@ -1,0 +1,70 @@
+{
+  "id": 1343448899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01215,37.65054,127.01215,37.65054",
+    "geom:latitude":37.65054,
+    "geom:longitude":127.01215,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gaori",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10353174,
+    "gn:latitude":37.65054,
+    "gn:longitude":127.01215,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Gaori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc624\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673185,
+        890473235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10353174
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"96c15cc2afc8ef804d3cb7a0e44727a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473235,
+            "locality_id":1343448899,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":1343448899,
+    "wof:lastmodified":1537659036,
+    "wof:name":"Gaori",
+    "wof:parent_id":890473235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01215,
+    37.65054,
+    127.01215,
+    37.65054
+],
+  "geometry": {"coordinates":[127.01215000000001,37.65054],"type":"Point"}
+}

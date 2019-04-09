@@ -1,0 +1,75 @@
+{
+  "id": 1292962781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5196,36.38661,127.5196,36.38661",
+    "geom:latitude":36.38661,
+    "geom:longitude":127.5196,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gyeongsu",
+    "gn:country_code":"KR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6884553,
+    "gn:latitude":36.38661,
+    "gn:longitude":127.5196,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Gyeongsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacbd\uc218"
+    ],
+    "name:und_x_variant":[
+        "\uc99d\uc218",
+        "Ch\u016dngsu",
+        "Gyeongsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673207,
+        1108746447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6884553
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"7a4475d0b91bd8f4bf1920ff7dacbc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746447,
+            "locality_id":1292962781,
+            "region_id":85673207
+        }
+    ],
+    "wof:id":1292962781,
+    "wof:lastmodified":1537658327,
+    "wof:name":"Gyeongsu",
+    "wof:parent_id":1108746447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5196,
+    36.38661,
+    127.5196,
+    36.38661
+],
+  "geometry": {"coordinates":[127.5196,36.38661],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360155377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.34032,36.27499,129.34032,36.27499",
+    "geom:latitude":36.27499,
+    "geom:longitude":129.34032,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yangjimal",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893105,
+    "gn:latitude":36.27499,
+    "gn:longitude":129.34032,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Yangjimal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc9c0\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893105
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"9f954f8adac9ba3e82e888d2099e87ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475307,
+            "locality_id":1360155377,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1360155377,
+    "wof:lastmodified":1537656832,
+    "wof:name":"Yangjimal",
+    "wof:parent_id":890475307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.34032,
+    36.27499,
+    129.34032,
+    36.27499
+],
+  "geometry": {"coordinates":[129.34031999999999,36.27499],"type":"Point"}
+}

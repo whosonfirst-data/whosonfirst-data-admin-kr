@@ -1,0 +1,77 @@
+{
+  "id": 1243261033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8602,37.7188,127.8602,37.7188",
+    "geom:latitude":37.7188,
+    "geom:longitude":127.8602,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Noelbeunae",
+    "gn:country_code":"KR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6816162,
+    "gn:latitude":37.7188,
+    "gn:longitude":127.8602,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Noelbeunae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub113\uc73c\ub0b4"
+    ],
+    "name:kor_x_variant":[
+        "N\u014flb\u016dnae",
+        "\ub108\ube0c\ub124"
+    ],
+    "name:und_x_variant":[
+        "Neobune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890475955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6816162
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"64178d1049fada8f5eb2bd43b56a44bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475955,
+            "locality_id":1243261033,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1243261033,
+    "wof:lastmodified":1537658080,
+    "wof:name":"Noelbeunae",
+    "wof:parent_id":890475955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8602,
+    37.7188,
+    127.8602,
+    37.7188
+],
+  "geometry": {"coordinates":[127.86020000000001,37.7188],"type":"Point"}
+}

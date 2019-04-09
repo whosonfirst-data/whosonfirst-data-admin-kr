@@ -1,0 +1,73 @@
+{
+  "id": 1343956681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.76912,37.15378,127.76912,37.15378",
+    "geom:latitude":37.15378,
+    "geom:longitude":127.76912,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Seokdonggeori",
+    "gn:country_code":"KR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6813216,
+    "gn:latitude":37.15378,
+    "gn:longitude":127.76912,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Seokdonggeori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\ub3d9\uac70\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fktongg\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890472255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6813216
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"3b86844d9d9de766835b6b66f5980a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472255,
+            "locality_id":1343956681,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1343956681,
+    "wof:lastmodified":1537658009,
+    "wof:name":"Seokdonggeori",
+    "wof:parent_id":890472255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.76912,
+    37.15378,
+    127.76912,
+    37.15378
+],
+  "geometry": {"coordinates":[127.76912,37.15378],"type":"Point"}
+}

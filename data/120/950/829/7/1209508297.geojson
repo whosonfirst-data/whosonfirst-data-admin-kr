@@ -1,0 +1,64 @@
+{
+  "id": 1209508297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55555,36.93534,127.55555,36.93534",
+    "geom:latitude":36.93534,
+    "geom:longitude":127.55555,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Banggasil",
+    "gn:country_code":"KR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9975311,
+    "gn:latitude":36.93534,
+    "gn:longitude":127.55555,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Banggasil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc29\uac00\uc2e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9975311
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b3e6474d0513db6f00f0ffb4d386ea00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209508297
+        }
+    ],
+    "wof:id":1209508297,
+    "wof:lastmodified":1537658967,
+    "wof:name":"Banggasil",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55555,
+    36.93534,
+    127.55555,
+    36.93534
+],
+  "geometry": {"coordinates":[127.55555,36.93534],"type":"Point"}
+}

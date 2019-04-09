@@ -1,0 +1,75 @@
+{
+  "id": 1226314063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01301,37.73707,127.01301,37.73707",
+    "geom:latitude":37.73707,
+    "geom:longitude":127.01301,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sangjikdong",
+    "gn:country_code":"KR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6801927,
+    "gn:latitude":37.73707,
+    "gn:longitude":127.01301,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Sangjikdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc9c1\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "\ubb35\uace8",
+        "Muk-kol",
+        "Sangjikdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890475299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6801927
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"93f4762d18610c542ce84cda9ef53664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475299,
+            "locality_id":1226314063,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1226314063,
+    "wof:lastmodified":1537657713,
+    "wof:name":"Sangjikdong",
+    "wof:parent_id":890475299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01301,
+    37.73707,
+    127.01301,
+    37.73707
+],
+  "geometry": {"coordinates":[127.01300999999999,37.73707],"type":"Point"}
+}

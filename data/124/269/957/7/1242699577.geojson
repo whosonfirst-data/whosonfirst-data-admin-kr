@@ -1,0 +1,77 @@
+{
+  "id": 1242699577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.8188,37.3113,127.8188,37.3113",
+    "geom:latitude":37.3113,
+    "geom:longitude":127.8188,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"32020",
+    "gn:asciiname":"Munmak",
+    "gn:country_code":"KR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840869,
+    "gn:latitude":37.3113,
+    "gn:longitude":127.8188,
+    "gn:modification_date":"2014-01-05",
+    "gn:name":"Munmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\ub9c9"
+    ],
+    "name:und_x_variant":[
+        "Bummaku-ri",
+        "Munmang-ni",
+        "Bunmakuri",
+        "Munmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840869
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6fc22255fce2851e482a367b0b8c619d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473183,
+            "locality_id":1242699577,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1242699577,
+    "wof:lastmodified":1537656416,
+    "wof:name":"Munmak",
+    "wof:parent_id":890473183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.8188,
+    37.3113,
+    127.8188,
+    37.3113
+],
+  "geometry": {"coordinates":[127.8188,37.3113],"type":"Point"}
+}

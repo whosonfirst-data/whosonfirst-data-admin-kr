@@ -1,0 +1,71 @@
+{
+  "id": 1225842385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2293,37.1519,129.2293,37.1519",
+    "geom:latitude":37.1519,
+    "geom:longitude":129.2293,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mojon",
+    "gn:country_code":"KR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6808857,
+    "gn:latitude":37.1519,
+    "gn:longitude":129.2293,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Moj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubaa8\uc804",
+        "Moj\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890476189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6808857
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fcdb25664d48913931cc03319902a631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476189,
+            "locality_id":1225842385,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1225842385,
+    "wof:lastmodified":1537657851,
+    "wof:name":"Mojon",
+    "wof:parent_id":890476189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2293,
+    37.1519,
+    129.2293,
+    37.1519
+],
+  "geometry": {"coordinates":[129.22929999999999,37.1519],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209689395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.79358,35.98033,128.79358,35.98033",
+    "geom:latitude":35.98033,
+    "geom:longitude":128.79358,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hangol",
+    "gn:country_code":"KR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10994280,
+    "gn:latitude":35.98033,
+    "gn:longitude":128.79358,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Hangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10994280
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2ad7eaf24cbacf17c47c5784628f19ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689395
+        }
+    ],
+    "wof:id":1209689395,
+    "wof:lastmodified":1537659105,
+    "wof:name":"Hangol",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.79358,
+    35.98033,
+    128.79358,
+    35.98033
+],
+  "geometry": {"coordinates":[128.79357999999999,35.98033],"type":"Point"}
+}

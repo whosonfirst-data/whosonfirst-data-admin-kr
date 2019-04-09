@@ -1,0 +1,65 @@
+{
+  "id": 1209689413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.04541,35.88249,128.04541,35.88249",
+    "geom:latitude":35.88249,
+    "geom:longitude":128.04541,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kugumgok",
+    "gn:country_code":"KR",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6902515,
+    "gn:latitude":35.88249,
+    "gn:longitude":128.04541,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kug\u016dmgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\uae08\uace1",
+        "Kug\u016dmgok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6902515
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2ffa929f101b379076e04ae03a988ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209689413
+        }
+    ],
+    "wof:id":1209689413,
+    "wof:lastmodified":1537658823,
+    "wof:name":"Kugumgok",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.04541,
+    35.88249000000001,
+    128.04541,
+    35.88249000000001
+],
+  "geometry": {"coordinates":[128.04541,35.88249000000001],"type":"Point"}
+}

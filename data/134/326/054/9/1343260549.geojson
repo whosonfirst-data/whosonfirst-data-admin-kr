@@ -1,0 +1,70 @@
+{
+  "id": 1343260549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.81394,36.72839,127.81394,36.72839",
+    "geom:latitude":36.72839,
+    "geom:longitude":127.81394,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gureumdari",
+    "gn:country_code":"KR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420003,
+    "gn:latitude":36.72839,
+    "gn:longitude":127.81394,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Gureumdari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub984\ub2e4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        890473945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420003
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b6d448f8d39d94dff058187d85edc9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473945,
+            "locality_id":1343260549,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1343260549,
+    "wof:lastmodified":1537659055,
+    "wof:name":"Gureumdari",
+    "wof:parent_id":890473945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.81394,
+    36.72839000000001,
+    127.81394,
+    36.72839000000001
+],
+  "geometry": {"coordinates":[127.81394,36.72839000000001],"type":"Point"}
+}

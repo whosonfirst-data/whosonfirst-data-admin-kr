@@ -1,0 +1,70 @@
+{
+  "id": 1242845601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5964,37.2261,127.5964,37.2261",
+    "geom:latitude":37.2261,
+    "geom:longitude":127.5964,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hanbat",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812584,
+    "gn:latitude":37.2261,
+    "gn:longitude":127.5964,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hanbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\ubc2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        1108746541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812584
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d11246059153c85b50682f192c8e78ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746541,
+            "locality_id":1242845601,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1242845601,
+    "wof:lastmodified":1537657972,
+    "wof:name":"Hanbat",
+    "wof:parent_id":1108746541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5964,
+    37.2261,
+    127.5964,
+    37.2261
+],
+  "geometry": {"coordinates":[127.5964,37.2261],"type":"Point"}
+}

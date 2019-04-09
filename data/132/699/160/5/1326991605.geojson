@@ -1,0 +1,73 @@
+{
+  "id": 1326991605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85292,35.65438,127.85292,35.65438",
+    "geom:latitude":35.65438,
+    "geom:longitude":127.85292,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pak-tong",
+    "gn:country_code":"KR",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1839407,
+    "gn:latitude":35.65438,
+    "gn:longitude":127.85292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hodong",
+        "Pak-dong",
+        "\ubc15\ub3d9",
+        "Pak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890472469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1839407
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"958cd8dd6a10934564306cddae9131f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472469,
+            "locality_id":1326991605,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1326991605,
+    "wof:lastmodified":1537656343,
+    "wof:name":"Pak-tong",
+    "wof:parent_id":890472469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85292,
+    35.65438,
+    127.85292,
+    35.65438
+],
+  "geometry": {"coordinates":[127.85292,35.65438],"type":"Point"}
+}

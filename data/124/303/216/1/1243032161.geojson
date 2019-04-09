@@ -1,0 +1,70 @@
+{
+  "id": 1243032161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.11536,35.68285,129.11536,35.68285",
+    "geom:latitude":35.68285,
+    "geom:longitude":129.11536,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tapgol",
+    "gn:country_code":"KR",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078665,
+    "gn:latitude":35.68285,
+    "gn:longitude":129.11536,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Tapgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0d1\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        890474681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078665
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e40473a24879b3a2e013efe2ad202d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474681,
+            "locality_id":1243032161,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1243032161,
+    "wof:lastmodified":1537659136,
+    "wof:name":"Tapgol",
+    "wof:parent_id":890474681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.11536,
+    35.68285,
+    129.11536,
+    35.68285
+],
+  "geometry": {"coordinates":[129.11536000000001,35.68285],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226213173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.27291,36.14213,129.27291,36.14213",
+    "geom:latitude":36.14213,
+    "geom:longitude":129.27291,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sami",
+    "gn:country_code":"KR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878443,
+    "gn:latitude":36.14213,
+    "gn:longitude":129.27291,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Sami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\ubbf8",
+        "Sami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878443
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e111d4d1f51e02c75580fd82177b23e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1226213173,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226213173,
+    "wof:lastmodified":1537658190,
+    "wof:name":"Sami",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.27291,
+    36.14213,
+    129.27291,
+    36.14213
+],
+  "geometry": {"coordinates":[129.27291,36.14213],"type":"Point"}
+}

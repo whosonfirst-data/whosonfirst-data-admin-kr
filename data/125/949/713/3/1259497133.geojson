@@ -1,0 +1,73 @@
+{
+  "id": 1259497133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39674,33.42959,126.39674,33.42959",
+    "geom:latitude":33.42959,
+    "geom:longitude":126.39674,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gomundeogi",
+    "gn:country_code":"KR",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194211,
+    "gn:latitude":33.42959,
+    "gn:longitude":126.39674,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Gomundeogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ubb38\ub355\uc774"
+    ],
+    "name:und_x_variant":[
+        "K\u014fmuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673237,
+        890473039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194211
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c4ad53d88e4a81499b58c43e35064827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473039,
+            "locality_id":1259497133,
+            "region_id":85673237
+        }
+    ],
+    "wof:id":1259497133,
+    "wof:lastmodified":1537657004,
+    "wof:name":"Gomundeogi",
+    "wof:parent_id":890473039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39674,
+    33.42959,
+    126.39674,
+    33.42959
+],
+  "geometry": {"coordinates":[126.39673999999999,33.42959],"type":"Point"}
+}

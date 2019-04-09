@@ -1,0 +1,71 @@
+{
+  "id": 1259744771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34628,34.95745,128.34628,34.95745",
+    "geom:latitude":34.95745,
+    "geom:longitude":128.34628,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Maesu-ri",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6897418,
+    "gn:latitude":34.95745,
+    "gn:longitude":128.34628,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maesu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9e4\uc218\ub9ac",
+        "Maesu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        1108746461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6897418
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fba470dcc02d137f943193a31d0cdfe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746461,
+            "locality_id":1259744771,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1259744771,
+    "wof:lastmodified":1537658689,
+    "wof:name":"Maesu-ri",
+    "wof:parent_id":1108746461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34628,
+    34.95745,
+    128.34628,
+    34.95745
+],
+  "geometry": {"coordinates":[128.34628000000001,34.95745],"type":"Point"}
+}

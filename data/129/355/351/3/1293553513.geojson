@@ -1,0 +1,84 @@
+{
+  "id": 1293553513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.37727,35.48975,129.37727,35.48975",
+    "geom:latitude":35.48975,
+    "geom:longitude":129.37727,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Yongjamdong",
+    "gn:country_code":"KR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1832423,
+    "gn:latitude":35.48975,
+    "gn:longitude":129.37727,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Yongjamdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc7a0\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ry\u016bshin-d\u014d",
+        "Yanjan",
+        "Ryurei-ri",
+        "Yongjamdong",
+        "Ryukinri",
+        "Yonggam-dong",
+        "Ry\u016bshin-ri",
+        "Yongjam-ni",
+        "Yongg\u016dm-ni",
+        "Yongjam",
+        "Yongg\u016dm-dong",
+        "Yongjammal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673231,
+        1108746505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1832423
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"c82262c3dca20fa01273f0e282ed0718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746505,
+            "locality_id":1293553513,
+            "region_id":85673231
+        }
+    ],
+    "wof:id":1293553513,
+    "wof:lastmodified":1537655978,
+    "wof:name":"Yongjamdong",
+    "wof:parent_id":1108746505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.37726999999998,
+    35.48975,
+    129.37726999999998,
+    35.48975
+],
+  "geometry": {"coordinates":[129.37726999999998,35.48975],"type":"Point"}
+}

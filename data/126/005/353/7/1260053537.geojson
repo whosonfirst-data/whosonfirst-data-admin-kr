@@ -1,0 +1,70 @@
+{
+  "id": 1260053537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.23058,35.72431,129.23058,35.72431",
+    "geom:latitude":35.72431,
+    "geom:longitude":129.23058,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gulseom",
+    "gn:country_code":"KR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078030,
+    "gn:latitude":35.72431,
+    "gn:longitude":129.23058,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Gulseom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad74\uc12c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890472443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078030
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2a6d0f84aeeda0554df4862c72ff46bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472443,
+            "locality_id":1260053537,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1260053537,
+    "wof:lastmodified":1537659134,
+    "wof:name":"Gulseom",
+    "wof:parent_id":890472443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.23058,
+    35.72431,
+    129.23058,
+    35.72431
+],
+  "geometry": {"coordinates":[129.23058,35.72431],"type":"Point"}
+}

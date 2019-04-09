@@ -1,0 +1,71 @@
+{
+  "id": 1260366181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9432,36.3354,126.9432,36.3354",
+    "geom:latitude":36.3354,
+    "geom:longitude":126.9432,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hoe-dong",
+    "gn:country_code":"KR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883040,
+    "gn:latitude":36.3354,
+    "gn:longitude":126.9432,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hoe-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud68c\ub3d9",
+        "Hoe-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890474649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883040
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"00ba41a5edfbfa0ad8a5e5bd1ab10bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474649,
+            "locality_id":1260366181,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1260366181,
+    "wof:lastmodified":1537658274,
+    "wof:name":"Hoe-dong",
+    "wof:parent_id":890474649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9432,
+    36.3354,
+    126.9432,
+    36.3354
+],
+  "geometry": {"coordinates":[126.9432,36.3354],"type":"Point"}
+}

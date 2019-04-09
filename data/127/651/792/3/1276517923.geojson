@@ -1,0 +1,77 @@
+{
+  "id": 1276517923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34458,35.71464,128.34458,35.71464",
+    "geom:latitude":35.71464,
+    "geom:longitude":128.34458,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Siryegol",
+    "gn:country_code":"KR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837445,
+    "gn:latitude":35.71464,
+    "gn:longitude":128.34458,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Siryegol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dc\ub840\uace8"
+    ],
+    "name:und_x_variant":[
+        "Saeri-kol",
+        "\uc0ac\ub840\uace8",
+        "Sarye",
+        "Sarye-gol",
+        "Siryegol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837445
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"62348a03cb3d9f83ec0afc1ae447b980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473175,
+            "locality_id":1276517923,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1276517923,
+    "wof:lastmodified":1537656237,
+    "wof:name":"Siryegol",
+    "wof:parent_id":890473175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34458,
+    35.71464,
+    128.34458,
+    35.71464
+],
+  "geometry": {"coordinates":[128.34458000000001,35.71464],"type":"Point"}
+}

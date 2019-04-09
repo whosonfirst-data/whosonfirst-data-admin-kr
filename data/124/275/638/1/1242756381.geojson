@@ -1,0 +1,70 @@
+{
+  "id": 1242756381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.90853,35.1497,128.90853,35.1497",
+    "geom:latitude":35.1497,
+    "geom:longitude":128.90853,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Songbaekdo",
+    "gn:country_code":"KR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117863,
+    "gn:latitude":35.1497,
+    "gn:longitude":128.90853,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Songbaekdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\ubc31\ub3c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673227,
+        890472093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117863
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fbe36bd578c649ee4f4bdcdd193d70f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472093,
+            "locality_id":1242756381,
+            "region_id":85673227
+        }
+    ],
+    "wof:id":1242756381,
+    "wof:lastmodified":1537659167,
+    "wof:name":"Songbaekdo",
+    "wof:parent_id":890472093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.90853,
+    35.1497,
+    128.90853,
+    35.1497
+],
+  "geometry": {"coordinates":[128.90853000000001,35.1497],"type":"Point"}
+}

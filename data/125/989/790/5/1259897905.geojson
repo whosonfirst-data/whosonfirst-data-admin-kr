@@ -1,0 +1,72 @@
+{
+  "id": 1259897905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05,34.43333,127.05,34.43333",
+    "geom:latitude":34.43333,
+    "geom:longitude":127.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Samsan-ni",
+    "gn:cc2":"KR",
+    "gn:country_code":"KR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1837929,
+    "gn:latitude":34.43333,
+    "gn:longitude":127.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samsan-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samsan",
+        "Samsan-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1837929
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ffb90c5c0044fefcdc14aeae8c6cc079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1259897905,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1259897905,
+    "wof:lastmodified":1537656264,
+    "wof:name":"Samsan-ni",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05,
+    34.43333,
+    127.05,
+    34.43333
+],
+  "geometry": {"coordinates":[127.05,34.43333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327113631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.37139,37.5025,127.37139,37.5025",
+    "geom:latitude":37.5025,
+    "geom:longitude":127.37139,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Keuncheongtan",
+    "gn:country_code":"KR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842103,
+    "gn:latitude":37.5025,
+    "gn:longitude":127.37139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Keuncheongtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\uccad\ud0c4"
+    ],
+    "name:und_x_variant":[
+        "Taech\u014fngt\u2019an",
+        "\ud070\uccad\ud0c4",
+        "Keuncheongtan",
+        "K\u2019\u016dnch\u2019\u014fngt\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890472253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842103
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"90aa73eb1586da68550117e5c94265c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472253,
+            "locality_id":1327113631,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1327113631,
+    "wof:lastmodified":1537656480,
+    "wof:name":"Keuncheongtan",
+    "wof:parent_id":890472253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.37139,
+    37.5025,
+    127.37139,
+    37.5025
+],
+  "geometry": {"coordinates":[127.37139000000001,37.5025],"type":"Point"}
+}

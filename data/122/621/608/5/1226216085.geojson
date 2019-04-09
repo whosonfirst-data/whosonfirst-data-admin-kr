@@ -1,0 +1,71 @@
+{
+  "id": 1226216085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.08913,36.17064,129.08913,36.17064",
+    "geom:latitude":36.17064,
+    "geom:longitude":129.08913,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Myongmi",
+    "gn:country_code":"KR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6878633,
+    "gn:latitude":36.17064,
+    "gn:longitude":129.08913,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"My\u014fngmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba85\ubbf8",
+        "My\u014fngmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        1108746427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6878633
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"af49af7fb876c244e920eaf34aba056e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746427,
+            "locality_id":1226216085,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1226216085,
+    "wof:lastmodified":1537658198,
+    "wof:name":"Myongmi",
+    "wof:parent_id":1108746427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.08913,
+    36.17064,
+    129.08913,
+    36.17064
+],
+  "geometry": {"coordinates":[129.08913000000001,36.17064],"type":"Point"}
+}

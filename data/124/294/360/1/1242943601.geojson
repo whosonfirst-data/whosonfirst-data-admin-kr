@@ -1,0 +1,72 @@
+{
+  "id": 1242943601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37341,35.65939,128.37341,35.65939",
+    "geom:latitude":35.65939,
+    "geom:longitude":128.37341,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gwansol",
+    "gn:country_code":"KR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6901656,
+    "gn:latitude":35.65939,
+    "gn:longitude":128.37341,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Gwansol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad00\uc194",
+        "Kwansol",
+        "Gwansol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673213,
+        890475961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6901656
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"b724f7396e5e248b4da2076070f1d3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475961,
+            "locality_id":1242943601,
+            "region_id":85673213
+        }
+    ],
+    "wof:id":1242943601,
+    "wof:lastmodified":1537658790,
+    "wof:name":"Gwansol",
+    "wof:parent_id":890475961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37341,
+    35.65939,
+    128.37341,
+    35.65939
+],
+  "geometry": {"coordinates":[128.37341000000001,35.65939],"type":"Point"}
+}

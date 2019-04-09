@@ -1,0 +1,71 @@
+{
+  "id": 1193110599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1899,36.2048,128.1899,36.2048",
+    "geom:latitude":36.2048,
+    "geom:longitude":128.1899,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taeyang",
+    "gn:country_code":"KR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6890695,
+    "gn:latitude":36.2048,
+    "gn:longitude":128.1899,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taeyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\uc591",
+        "Taeyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6890695
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"6191c79740b3f0d66d0157add294cd41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473179,
+            "locality_id":1193110599,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1193110599,
+    "wof:lastmodified":1537658489,
+    "wof:name":"Taeyang",
+    "wof:parent_id":890473179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1899,
+    36.2048,
+    128.1899,
+    36.2048
+],
+  "geometry": {"coordinates":[128.18989999999999,36.2048],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343921889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73444,34.47306,126.73444,34.47306",
+    "geom:latitude":34.47306,
+    "geom:longitude":126.73444,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sach'o-ri",
+    "gn:country_code":"KR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1838275,
+    "gn:latitude":34.47306,
+    "gn:longitude":126.73444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sach\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ucd08\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Sach\u2019o-ri"
+    ],
+    "name:und_x_variant":[
+        "Sach\u2019o",
+        "Sas\u014d",
+        "Sas\u014d-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1838275
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"a474e7ab28ae9d0dc1523e07a9e08c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473661,
+            "locality_id":1343921889,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1343921889,
+    "wof:lastmodified":1537656284,
+    "wof:name":"Sach'o-ri",
+    "wof:parent_id":890473661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73444,
+    34.47306,
+    126.73444,
+    34.47306
+],
+  "geometry": {"coordinates":[126.73444000000001,34.47306],"type":"Point"}
+}

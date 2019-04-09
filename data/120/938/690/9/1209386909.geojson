@@ -1,0 +1,64 @@
+{
+  "id": 1209386909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67019,35.32393,126.67019,35.32393",
+    "geom:latitude":35.32393,
+    "geom:longitude":126.67019,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hansadong",
+    "gn:country_code":"KR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169377,
+    "gn:latitude":35.32393,
+    "gn:longitude":126.67019,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Hansadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\uc0ac\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169377
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2f373d3a0c6b2fe28eb31a8698db67f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209386909
+        }
+    ],
+    "wof:id":1209386909,
+    "wof:lastmodified":1537659174,
+    "wof:name":"Hansadong",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67019,
+    35.32393,
+    126.67019,
+    35.32393
+],
+  "geometry": {"coordinates":[126.67019000000001,35.32393],"type":"Point"}
+}

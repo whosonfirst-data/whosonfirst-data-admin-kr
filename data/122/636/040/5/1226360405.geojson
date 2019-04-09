@@ -1,0 +1,67 @@
+{
+  "id": 1226360405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.96667,34.8,127.96667,34.8",
+    "geom:latitude":34.8,
+    "geom:longitude":127.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nanyang",
+    "gn:country_code":"KR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1840343,
+    "gn:latitude":34.8,
+    "gn:longitude":127.96667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Nanyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673215,
+        890475467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1840343
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"5f76bd0abbc5d6932f1d17e0ae40095d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475467,
+            "locality_id":1226360405,
+            "region_id":85673215
+        }
+    ],
+    "wof:id":1226360405,
+    "wof:lastmodified":1536768884,
+    "wof:name":"Nanyang",
+    "wof:parent_id":890475467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.96667,
+    34.8,
+    127.96667,
+    34.8
+],
+  "geometry": {"coordinates":[127.96666999999999,34.8],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310369251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.89763,34.36106,126.89763,34.36106",
+    "geom:latitude":34.36106,
+    "geom:longitude":126.89763,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Deugam",
+    "gn:country_code":"KR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1833990,
+    "gn:latitude":34.36106,
+    "gn:longitude":126.89763,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Deugam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub4dd\uc554\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "T\u016dgam-ni",
+        "\ub4dd\uc554"
+    ],
+    "name:und_x_variant":[
+        "Hadok",
+        "Had\u016dk",
+        "Deugam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890472259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1833990
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d04371f5990a80806cdf66541b5b890d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472259,
+            "locality_id":1310369251,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1310369251,
+    "wof:lastmodified":1537656062,
+    "wof:name":"Deugam",
+    "wof:parent_id":890472259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.89763,
+    34.36105999999999,
+    126.89763,
+    34.36105999999999
+],
+  "geometry": {"coordinates":[126.89763000000001,34.36105999999999],"type":"Point"}
+}

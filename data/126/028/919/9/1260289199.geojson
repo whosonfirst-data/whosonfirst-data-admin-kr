@@ -1,0 +1,78 @@
+{
+  "id": 1260289199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.66396,37.05491,127.66396,37.05491",
+    "geom:latitude":37.05491,
+    "geom:longitude":127.66396,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Winmal",
+    "gn:country_code":"KR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812825,
+    "gn:latitude":37.05491,
+    "gn:longitude":127.66396,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Winmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc717\ubb34\uc218"
+    ],
+    "name:kor_x_variant":[
+        "\uc717\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Witmusu",
+        "Winmusu",
+        "Winmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673173,
+        1108746455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812825
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"d398cdbb1869fc1baed02aea368160aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746455,
+            "locality_id":1260289199,
+            "region_id":85673173
+        }
+    ],
+    "wof:id":1260289199,
+    "wof:lastmodified":1537657987,
+    "wof:name":"Winmal",
+    "wof:parent_id":1108746455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.66396,
+    37.05491,
+    127.66396,
+    37.05491
+],
+  "geometry": {"coordinates":[127.66396,37.05491],"type":"Point"}
+}

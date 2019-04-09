@@ -1,0 +1,71 @@
+{
+  "id": 1193017281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.86208,35.9119,127.86208,35.9119",
+    "geom:latitude":35.9119,
+    "geom:longitude":127.86208,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Toma",
+    "gn:country_code":"KR",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880017,
+    "gn:latitude":35.9119,
+    "gn:longitude":127.86208,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Toma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c4\ub9c8",
+        "Toma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890472985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880017
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"0abfddc59212c3613c1d73ffe2979e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890472985,
+            "locality_id":1193017281,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":1193017281,
+    "wof:lastmodified":1537658242,
+    "wof:name":"Toma",
+    "wof:parent_id":890472985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.86208,
+    35.9119,
+    127.86208,
+    35.9119
+],
+  "geometry": {"coordinates":[127.86208000000001,35.9119],"type":"Point"}
+}

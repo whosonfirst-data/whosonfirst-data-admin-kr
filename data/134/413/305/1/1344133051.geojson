@@ -1,0 +1,71 @@
+{
+  "id": 1344133051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.735,36.3691,126.735,36.3691",
+    "geom:latitude":36.3691,
+    "geom:longitude":126.735,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Okkasil",
+    "gn:country_code":"KR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6883996,
+    "gn:latitude":36.3691,
+    "gn:longitude":126.735,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Okkasil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc625\uac00\uc2e4",
+        "Okkasil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673203,
+        890473525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6883996
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"1651500102b94593878dc2eacf7a6f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473525,
+            "locality_id":1344133051,
+            "region_id":85673203
+        }
+    ],
+    "wof:id":1344133051,
+    "wof:lastmodified":1537658305,
+    "wof:name":"Okkasil",
+    "wof:parent_id":890473525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.735,
+    36.3691,
+    126.735,
+    36.3691
+],
+  "geometry": {"coordinates":[126.735,36.3691],"type":"Point"}
+}

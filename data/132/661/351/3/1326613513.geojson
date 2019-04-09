@@ -1,0 +1,74 @@
+{
+  "id": 1326613513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.86221,36.51942,128.86221,36.51942",
+    "geom:latitude":36.51942,
+    "geom:longitude":128.86221,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Imha",
+    "gn:country_code":"KR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895148,
+    "gn:latitude":36.51942,
+    "gn:longitude":128.86221,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Imha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc784\ud558"
+    ],
+    "name:und_x_variant":[
+        "Imha-dong",
+        "Imha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890473215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895148
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"11c2616eabd9b7ab7e704765102d25a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473215,
+            "locality_id":1326613513,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1326613513,
+    "wof:lastmodified":1537656878,
+    "wof:name":"Imha",
+    "wof:parent_id":890473215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.86221,
+    36.51942,
+    128.86221,
+    36.51942
+],
+  "geometry": {"coordinates":[128.86221,36.51942],"type":"Point"}
+}

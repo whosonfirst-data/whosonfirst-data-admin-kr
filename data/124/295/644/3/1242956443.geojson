@@ -1,0 +1,70 @@
+{
+  "id": 1242956443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42721,36.57082,128.42721,36.57082",
+    "geom:latitude":36.57082,
+    "geom:longitude":128.42721,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Saema",
+    "gn:country_code":"KR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11269571,
+    "gn:latitude":36.57082,
+    "gn:longitude":128.42721,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Saema",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ub9c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890475315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11269571
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"e5f7965059ab465a95f2dc95626d30b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475315,
+            "locality_id":1242956443,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242956443,
+    "wof:lastmodified":1537659307,
+    "wof:name":"Saema",
+    "wof:parent_id":890475315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42721,
+    36.57082,
+    128.42721,
+    36.57082
+],
+  "geometry": {"coordinates":[128.42721,36.57082],"type":"Point"}
+}

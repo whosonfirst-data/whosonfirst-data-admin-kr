@@ -1,0 +1,77 @@
+{
+  "id": 1326802253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9275,34.61083,126.9275,34.61083",
+    "geom:latitude":34.61083,
+    "geom:longitude":126.9275,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kwanji",
+    "gn:country_code":"KR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1841765,
+    "gn:latitude":34.61083,
+    "gn:longitude":126.9275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwanji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\uc9c0"
+    ],
+    "name:und_x_variant":[
+        "Hakchi-ri",
+        "Kakuchiri",
+        "Kwanji-ri",
+        "Kanchi-ri",
+        "Kwanji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1841765
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"f62c30b2a793c72c60fa1c9e6578a317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473547,
+            "locality_id":1326802253,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":1326802253,
+    "wof:lastmodified":1537656461,
+    "wof:name":"Kwanji",
+    "wof:parent_id":890473547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9275,
+    34.61083,
+    126.9275,
+    34.61083
+],
+  "geometry": {"coordinates":[126.92749999999999,34.61083],"type":"Point"}
+}

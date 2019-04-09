@@ -1,0 +1,64 @@
+{
+  "id": 1209185941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73829,35.06783,126.73829,35.06783",
+    "geom:latitude":35.06783,
+    "geom:longitude":126.73829,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jangnim",
+    "gn:country_code":"KR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180349,
+    "gn:latitude":35.06783,
+    "gn:longitude":126.73829,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jangnim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\ub9bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180349
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"ed44b52bed15019f26794e566a3b254f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209185941
+        }
+    ],
+    "wof:id":1209185941,
+    "wof:lastmodified":1537659218,
+    "wof:name":"Jangnim",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73829,
+    35.06783,
+    126.73829,
+    35.06783
+],
+  "geometry": {"coordinates":[126.73829000000001,35.06783],"type":"Point"}
+}

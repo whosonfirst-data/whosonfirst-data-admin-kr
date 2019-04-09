@@ -1,0 +1,71 @@
+{
+  "id": 1242847941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.865,36.2838,128.865,36.2838",
+    "geom:latitude":36.2838,
+    "geom:longitude":128.865,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samhak",
+    "gn:country_code":"KR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6892928,
+    "gn:latitude":36.2838,
+    "gn:longitude":128.865,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Samhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\ud559",
+        "Samhak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673233,
+        890474631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6892928
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"2618a193fedf135b01b8bcee5e564c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890474631,
+            "locality_id":1242847941,
+            "region_id":85673233
+        }
+    ],
+    "wof:id":1242847941,
+    "wof:lastmodified":1537658563,
+    "wof:name":"Samhak",
+    "wof:parent_id":890474631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.865,
+    36.2838,
+    128.865,
+    36.2838
+],
+  "geometry": {"coordinates":[128.86500000000001,36.2838],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209193437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05111,37.31861,127.05111,37.31861",
+    "geom:latitude":37.31861,
+    "geom:longitude":127.05111,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Un-mal",
+    "gn:country_code":"KR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6573939,
+    "gn:latitude":37.31861,
+    "gn:longitude":127.05111,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Un-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6c3\ub9d0",
+        "Ut-mal",
+        "Un-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6573939
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"066d8b17901e226509cbff564e79a48e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632231,
+            "locality_id":1209193437
+        }
+    ],
+    "wof:id":1209193437,
+    "wof:lastmodified":1537657251,
+    "wof:name":"Un-mal",
+    "wof:parent_id":85632231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05111,
+    37.31861,
+    127.05111,
+    37.31861
+],
+  "geometry": {"coordinates":[127.05110999999999,37.31861],"type":"Point"}
+}

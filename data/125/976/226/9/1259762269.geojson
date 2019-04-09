@@ -1,0 +1,74 @@
+{
+  "id": 1259762269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.94289,36.93151,126.94289,36.93151",
+    "geom:latitude":36.93151,
+    "geom:longitude":126.94289,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gujin",
+    "gn:country_code":"KR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1842385,
+    "gn:latitude":36.93151,
+    "gn:longitude":126.94289,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gujin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Seoul",
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ijinp\u2019o",
+        "Kujinp\u2019o",
+        "\uad6c\uc9c4",
+        "Kujin",
+        "Gujin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673191,
+        890476061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1842385
+    },
+    "wof:country":"KR",
+    "wof:geomhash":"fbff34d7997271aca471bffb5169f51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890476061,
+            "locality_id":1259762269,
+            "region_id":85673191
+        }
+    ],
+    "wof:id":1259762269,
+    "wof:lastmodified":1537656493,
+    "wof:name":"Gujin",
+    "wof:parent_id":890476061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.94289,
+    36.93151,
+    126.94289,
+    36.93151
+],
+  "geometry": {"coordinates":[126.94289000000001,36.93151],"type":"Point"}
+}
