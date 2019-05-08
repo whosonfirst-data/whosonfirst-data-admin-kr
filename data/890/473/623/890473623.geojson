@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101871,
-    "geom:area_square_m":999208512.077777,
+    "geom:area_square_m":999208512.077916,
     "geom:bbox":"127.761523187,37.3030830106,128.304988226,37.6814054198",
     "geom:latitude":37.510429,
     "geom:longitude":128.078336,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Hoengseong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":37.539671,
     "lbl:longitude":128.141735,
     "meso:admin_1_en":"Gangwon-do",
@@ -37,9 +49,10 @@
         "Hoengseong"
     ],
     "name:eng_x_preferred":[
-        "Hoengseong County"
+        "Hoengseong"
     ],
     "name:eng_x_variant":[
+        "Hoengseong",
         "Hoengseong"
     ],
     "name:fre_x_preferred":[
@@ -124,10 +137,11 @@
         }
     ],
     "wof:id":890473623,
-    "wof:lastmodified":1527792834,
-    "wof:name":"Hoengseong-gun",
+    "wof:lastmodified":1555047476,
+    "wof:name":"Hoengseong",
     "wof:parent_id":85673181,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

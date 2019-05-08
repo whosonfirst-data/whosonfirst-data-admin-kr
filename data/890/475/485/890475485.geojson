@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059458,
-    "geom:area_square_m":598924126.301991,
+    "geom:area_square_m":598924126.301973,
     "geom:bbox":"126.425392151,35.3024682595,126.774447311,35.5769874981",
     "geom:latitude":35.448705,
     "geom:longitude":126.616946,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Gochang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.428256,
     "lbl:longitude":126.617111,
     "meso:admin_1_en":"Jeollabuk-do",
@@ -34,9 +46,10 @@
         "Gochang"
     ],
     "name:eng_x_preferred":[
-        "Gochang County"
+        "Gochang"
     ],
     "name:eng_x_variant":[
+        "Gochang",
         "Gochang"
     ],
     "name:fre_x_preferred":[
@@ -121,10 +134,11 @@
         }
     ],
     "wof:id":890475485,
-    "wof:lastmodified":1527787091,
-    "wof:name":"Gochang-gun",
+    "wof:lastmodified":1555047480,
+    "wof:name":"Gochang",
     "wof:parent_id":85673195,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

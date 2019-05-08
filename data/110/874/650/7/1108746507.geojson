@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047148,
-    "geom:area_square_m":468271012.258872,
+    "geom:area_square_m":468271012.258834,
     "geom:bbox":"127.132585621,36.407688032,127.411560165,36.7345233095",
     "geom:latitude":36.561954,
     "geom:longitude":127.259662,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Sejong City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "si"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uc2dc"
+    ],
     "lbl:latitude":36.509833,
     "lbl:longitude":127.273392,
     "meso:admin_1_en":"Sejongsi",
@@ -33,10 +45,12 @@
         "Yeongi County"
     ],
     "name:eng_x_preferred":[
-        "Yeongi County"
+        "Sejong"
     ],
     "name:eng_x_variant":[
-        "Yeongi"
+        "Yeongi",
+        "Sejongsi",
+        "Sejong"
     ],
     "name:fre_x_preferred":[
         "District de Yeongi"
@@ -85,8 +99,8 @@
         }
     ],
     "wof:id":1108746507,
-    "wof:lastmodified":1514469280,
-    "wof:name":"Sejongsi",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Sejong",
     "wof:parent_id":85673243,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

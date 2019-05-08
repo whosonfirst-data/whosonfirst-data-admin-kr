@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001856,
-    "geom:area_square_m":18180698.047977,
+    "geom:area_square_m":18180698.047983,
     "geom:bbox":"127.068992484,37.5712601353,127.120428358,37.6235981656",
     "geom:latitude":37.598375,
     "geom:longitude":127.093396,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jungnang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.596393,
     "lbl:longitude":127.091309,
     "meso:admin_1_en":"Seoul",
@@ -30,9 +42,11 @@
         "\u4e2d\u6d6a\u5340"
     ],
     "name:eng_x_preferred":[
-        "Jungnang District"
+        "Jungnang"
     ],
     "name:eng_x_variant":[
+        "Jungnang",
+        "Jungnang-gu",
         "Jungnang"
     ],
     "name:est_x_preferred":[
@@ -106,8 +120,8 @@
         }
     ],
     "wof:id":1108746489,
-    "wof:lastmodified":1514469228,
-    "wof:name":"Jungnang-gu",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Jungnang",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

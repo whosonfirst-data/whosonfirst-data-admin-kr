@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086635,
-    "geom:area_square_m":846236448.112683,
+    "geom:area_square_m":846236448.112699,
     "geom:bbox":"127.268027023,37.5717090528,127.619607648,38.0494027298",
     "geom:latitude":37.819692,
     "geom:longitude":127.45168,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Gapyeong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":37.822488,
     "lbl:longitude":127.419739,
     "meso:admin_1_en":"Gyeonggi-do",
@@ -37,9 +49,10 @@
         "Gapyeong"
     ],
     "name:eng_x_preferred":[
-        "Gapyeong County"
+        "Gapyeong"
     ],
     "name:eng_x_variant":[
+        "Gapyeong",
         "Gapyeong"
     ],
     "name:fre_x_preferred":[
@@ -133,10 +146,11 @@
         }
     ],
     "wof:id":890472417,
-    "wof:lastmodified":1527790282,
-    "wof:name":"Gapyeong-gun",
+    "wof:lastmodified":1555047473,
+    "wof:name":"Gapyeong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

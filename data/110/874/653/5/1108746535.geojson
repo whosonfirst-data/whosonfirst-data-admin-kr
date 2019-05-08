@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00285,
-    "geom:area_square_m":28045028.339485,
+    "geom:area_square_m":28045028.339502,
     "geom:bbox":"127.032711706,37.2319513212,127.088391931,37.3202669348",
     "geom:latitude":37.276479,
     "geom:longitude":127.05824,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yeongtong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.281646,
     "lbl:longitude":127.058662,
     "meso:admin_1_en":"Gyeonggi-do",
@@ -26,8 +38,12 @@
     "mps:longitude":127.058662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yeongtong"
+    ],
     "name:eng_x_variant":[
-        "Suwon"
+        "Suwon",
+        "Suwonsiyeongtonggu"
     ],
     "name:kor_x_preferred":[
         "\uc218\uc6d0\uc2dc\uc601\ud1b5\uad6c"
@@ -53,8 +69,8 @@
         }
     ],
     "wof:id":1108746535,
-    "wof:lastmodified":1512517023,
-    "wof:name":"Suwonsiyeongtonggu",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Yeongtong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120545,
-    "geom:area_square_m":1186046964.918886,
+    "geom:area_square_m":1186046964.918852,
     "geom:bbox":"128.846646395,37.0405586043,129.365769151,37.4800233364",
     "geom:latitude":37.278069,
     "geom:longitude":129.12361,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Samcheok City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "si"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uc2dc"
+    ],
     "lbl:latitude":37.283891,
     "lbl:longitude":129.149002,
     "meso:admin_1_en":"Gangwon-do",
@@ -27,6 +39,9 @@
     "mps:longitude":129.149002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Samcheok"
+    ],
     "name:eng_x_variant":[
         "Samcheok"
     ],
@@ -70,10 +85,11 @@
         }
     ],
     "wof:id":890476189,
-    "wof:lastmodified":1512517896,
-    "wof:name":"Samcheok-si",
+    "wof:lastmodified":1555047481,
+    "wof:name":"Samcheok",
     "wof:parent_id":85673181,
     "wof:placetype":"county",
+    "wof:placetype_local":"city",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

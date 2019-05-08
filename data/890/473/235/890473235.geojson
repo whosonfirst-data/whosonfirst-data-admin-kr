@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00259,
-    "geom:area_square_m":25362472.306928,
+    "geom:area_square_m":25362472.306924,
     "geom:bbox":"126.980451947,37.6086652897,127.049367838,37.6856196988",
     "geom:latitude":37.643683,
     "geom:longitude":127.01193,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Gangbuk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.645077,
     "lbl:longitude":127.000442,
     "meso:admin_1_en":"Seoul",
@@ -36,11 +48,12 @@
         "Gangbuk District"
     ],
     "name:eng_x_preferred":[
-        "Gangbuk-gu"
+        "Gangbuk"
     ],
     "name:eng_x_variant":[
         "Gangbuk",
-        "Gangbuk District"
+        "Gangbuk District",
+        "Gangbuk-gu"
     ],
     "name:est_x_preferred":[
         "Gangbuki linnarajoon"
@@ -134,8 +147,8 @@
         }
     ],
     "wof:id":890473235,
-    "wof:lastmodified":1527792832,
-    "wof:name":"Gangbuk-gu",
+    "wof:lastmodified":1555047475,
+    "wof:name":"Gangbuk",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
     "wof:population":0,

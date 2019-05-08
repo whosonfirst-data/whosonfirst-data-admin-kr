@@ -5,13 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001313,
-    "geom:area_square_m":13285895.683807,
+    "geom:area_square_m":13285895.683813,
     "geom:bbox":"129.032663231,35.037082672,129.0970764,35.10122301",
     "geom:latitude":35.078416,
     "geom:longitude":129.065788,
     "gn:country":"KR",
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yeongdo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":35.084062,
     "lbl:longitude":129.060044,
     "meso:admin_1_en":"Busan",
@@ -28,6 +40,9 @@
     "mps:longitude":129.060044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yeongdo"
+    ],
     "name:eng_x_variant":[
         "Yeongdo"
     ],
@@ -74,10 +89,11 @@
         }
     ],
     "wof:id":890475321,
-    "wof:lastmodified":1527790278,
-    "wof:name":"Yeongdo-gu",
+    "wof:lastmodified":1555047479,
+    "wof:name":"Yeongdo",
     "wof:parent_id":85673227,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

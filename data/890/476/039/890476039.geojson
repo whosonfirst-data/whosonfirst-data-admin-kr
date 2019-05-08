@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003637,
-    "geom:area_square_m":36766313.172014,
+    "geom:area_square_m":36766313.171996,
     "geom:bbox":"128.960889503,35.1154263617,129.025155316,35.1972082246",
     "geom:latitude":35.159904,
     "geom:longitude":128.98942,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Sasang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":35.159786,
     "lbl:longitude":128.990023,
     "meso:admin_1_en":"Busan",
@@ -36,11 +48,12 @@
         "Sasang-gu"
     ],
     "name:eng_x_preferred":[
-        "Sasang-gu"
+        "Sasang"
     ],
     "name:eng_x_variant":[
         "Sasang",
-        "Sasang District"
+        "Sasang District",
+        "Sasang-gu"
     ],
     "name:est_x_preferred":[
         "Sasangi linnarajoon"
@@ -120,8 +133,8 @@
         }
     ],
     "wof:id":890476039,
-    "wof:lastmodified":1527727149,
-    "wof:name":"Sasang-gu",
+    "wof:lastmodified":1555047480,
+    "wof:name":"Sasang",
     "wof:parent_id":85673227,
     "wof:placetype":"county",
     "wof:population":0,

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037718,
-    "geom:area_square_m":381517297.369347,
+    "geom:area_square_m":381517297.369331,
     "geom:bbox":"126.37039176,34.9742908208,126.671560192,35.2390693641",
     "geom:latitude":35.111827,
     "geom:longitude":126.53909,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Hampyeong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.112447,
     "lbl:longitude":126.53697,
     "meso:admin_1_en":"Jeollanam-do",
@@ -34,9 +46,10 @@
         "Hampyeong"
     ],
     "name:eng_x_preferred":[
-        "Hampyeong County"
+        "Hampyeong"
     ],
     "name:eng_x_variant":[
+        "Hampyeong",
         "Hampyeong"
     ],
     "name:fre_x_preferred":[
@@ -118,10 +131,11 @@
         }
     ],
     "wof:id":890476213,
-    "wof:lastmodified":1527727152,
-    "wof:name":"Hampyeong-gun",
+    "wof:lastmodified":1555047481,
+    "wof:name":"Hampyeong",
     "wof:parent_id":85673219,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

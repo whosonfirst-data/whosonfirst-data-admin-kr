@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057989,
-    "geom:area_square_m":579210224.391291,
+    "geom:area_square_m":579210224.391115,
     "geom:bbox":"127.315707502,35.9796108564,127.638610121,36.2733955064",
     "geom:latitude":36.120591,
     "geom:longitude":127.479496,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Geumsan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.108964,
     "lbl:longitude":127.476526,
     "meso:admin_1_en":"Chungcheongnam-do",
@@ -37,9 +49,10 @@
         "Geumsan"
     ],
     "name:eng_x_preferred":[
-        "Geumsan County"
+        "Geumsan"
     ],
     "name:eng_x_variant":[
+        "Geumsan",
         "Geumsan"
     ],
     "name:fre_x_preferred":[
@@ -124,10 +137,11 @@
         }
     ],
     "wof:id":890473345,
-    "wof:lastmodified":1527792835,
-    "wof:name":"Geumsan-gun",
+    "wof:lastmodified":1555047475,
+    "wof:name":"Geumsan",
     "wof:parent_id":85673203,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

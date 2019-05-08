@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01012,
-    "geom:area_square_m":98720107.61085,
+    "geom:area_square_m":98720107.61088,
     "geom:bbox":"127.004230945,37.8628285397,127.15681392,37.9854993053",
     "geom:latitude":37.917469,
     "geom:longitude":127.079561,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Dongducheon City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "si"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uc2dc"
+    ],
     "lbl:latitude":37.916901,
     "lbl:longitude":127.074355,
     "meso:admin_1_en":"Gyeonggi-do",
@@ -31,9 +43,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Dongducheon-si"
+        "Dongducheon"
     ],
     "name:eng_x_variant":[
+        "Dongducheon",
         "Dongducheon"
     ],
     "name:kor_x_preferred":[
@@ -86,10 +99,11 @@
         }
     ],
     "wof:id":890476241,
-    "wof:lastmodified":1512517896,
-    "wof:name":"Dongducheon-si",
+    "wof:lastmodified":1555047481,
+    "wof:name":"Dongducheon",
     "wof:parent_id":85673191,
     "wof:placetype":"county",
+    "wof:placetype_local":"city",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

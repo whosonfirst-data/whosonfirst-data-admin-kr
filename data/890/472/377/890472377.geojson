@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167727,
-    "geom:area_square_m":1632799135.766516,
+    "geom:area_square_m":1632799135.766739,
     "geom:bbox":"127.980367036,37.8129445594,128.516005709,38.3837435693",
     "geom:latitude":38.067943,
     "geom:longitude":128.264538,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Inje County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":38.067554,
     "lbl:longitude":128.264734,
     "meso:admin_1_en":"Gangwon-do",
@@ -37,9 +49,10 @@
         "Inje"
     ],
     "name:eng_x_preferred":[
-        "Inje County"
+        "Inje"
     ],
     "name:eng_x_variant":[
+        "Inje",
         "Inje"
     ],
     "name:fre_x_preferred":[
@@ -121,10 +134,11 @@
         }
     ],
     "wof:id":890472377,
-    "wof:lastmodified":1527790281,
-    "wof:name":"Inje-gun",
+    "wof:lastmodified":1555047473,
+    "wof:name":"Inje",
     "wof:parent_id":85673181,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

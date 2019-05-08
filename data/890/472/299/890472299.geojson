@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001621,
-    "geom:area_square_m":15895926.037436,
+    "geom:area_square_m":15895926.037432,
     "geom:bbox":"126.822697395,37.5055993463,126.892754451,37.5507167245",
     "geom:latitude":37.526131,
     "geom:longitude":126.858771,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yangcheon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.519828,
     "lbl:longitude":126.865139,
     "meso:admin_1_en":"Seoul",
@@ -36,11 +48,12 @@
         "Yangcheon District"
     ],
     "name:eng_x_preferred":[
-        "Yangcheon-gu"
+        "Yangcheon"
     ],
     "name:eng_x_variant":[
         "Yangcheon",
-        "Yangcheon District"
+        "Yangcheon District",
+        "Yangcheon-gu"
     ],
     "name:est_x_preferred":[
         "Yangcheoni linnarajoon"
@@ -131,8 +144,8 @@
         }
     ],
     "wof:id":890472299,
-    "wof:lastmodified":1527790283,
-    "wof:name":"Yangcheon-gu",
+    "wof:lastmodified":1555047473,
+    "wof:name":"Yangcheon",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
     "wof:population":0,

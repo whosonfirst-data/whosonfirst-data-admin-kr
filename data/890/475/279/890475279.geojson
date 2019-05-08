@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045115,
-    "geom:area_square_m":451217124.19223,
+    "geom:area_square_m":451217124.192375,
     "geom:bbox":"128.287558434,35.88865084,128.642096525,36.1228439519",
     "geom:latitude":36.017134,
     "geom:longitude":128.464935,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Chilgok County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.007795,
     "lbl:longitude":128.464956,
     "meso:admin_1_en":"Gyeongsangbuk-do",
@@ -31,9 +43,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Chilgok-gun"
+        "Chilgok"
     ],
     "name:eng_x_variant":[
+        "Chilgok",
         "Chilgok"
     ],
     "name:kor_x_preferred":[
@@ -90,10 +103,11 @@
         }
     ],
     "wof:id":890475279,
-    "wof:lastmodified":1527790277,
-    "wof:name":"Chilgok-gun",
+    "wof:lastmodified":1555047479,
+    "wof:name":"Chilgok",
     "wof:parent_id":85673233,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

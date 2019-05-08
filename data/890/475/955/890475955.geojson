@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185259,
-    "geom:area_square_m":1811385824.943506,
+    "geom:area_square_m":1811385824.943541,
     "geom:bbox":"127.53789292,37.5530743482,128.591684497,37.9484581961",
     "geom:latitude":37.745745,
     "geom:longitude":128.075996,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Hongcheon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":37.779129,
     "lbl:longitude":128.076082,
     "meso:admin_1_en":"Gangwon-do",
@@ -37,9 +49,10 @@
         "Hongcheon"
     ],
     "name:eng_x_preferred":[
-        "Hongcheon County"
+        "Hongcheon"
     ],
     "name:eng_x_variant":[
+        "Hongcheon",
         "Hongcheon"
     ],
     "name:fre_x_preferred":[
@@ -116,10 +129,11 @@
         }
     ],
     "wof:id":890475955,
-    "wof:lastmodified":1514469193,
-    "wof:name":"Hongcheon-gun",
+    "wof:lastmodified":1555047480,
+    "wof:name":"Hongcheon",
     "wof:parent_id":85673181,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

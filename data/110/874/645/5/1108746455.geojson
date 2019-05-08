@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052256,
-    "geom:area_square_m":516192484.365989,
+    "geom:area_square_m":516192484.365936,
     "geom:bbox":"127.445861057,36.8358272653,127.795378328,37.1558891253",
     "geom:latitude":36.977342,
     "geom:longitude":127.614703,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Eumseong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.978089,
     "lbl:longitude":127.582946,
     "meso:admin_1_en":"Chungcheongbuk-do",
@@ -45,9 +57,11 @@
         "Eumseong"
     ],
     "name:eng_x_preferred":[
-        "Eumseong County"
+        "Eumseong"
     ],
     "name:eng_x_variant":[
+        "Eumseong",
+        "Eumseong-gun",
         "Eumseong"
     ],
     "name:fre_x_preferred":[
@@ -127,8 +141,8 @@
         }
     ],
     "wof:id":1108746455,
-    "wof:lastmodified":1514469159,
-    "wof:name":"Eumseong-gun",
+    "wof:lastmodified":1555047482,
+    "wof:name":"Eumseong",
     "wof:parent_id":85673173,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

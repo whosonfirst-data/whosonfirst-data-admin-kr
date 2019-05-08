@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071764,
-    "geom:area_square_m":721953402.374907,
+    "geom:area_square_m":721953402.375045,
     "geom:bbox":"127.586131912,35.3155085436,127.880414147,35.7770846989",
     "geom:latitude":35.551948,
     "geom:longitude":127.722866,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Hamyang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.571135,
     "lbl:longitude":127.725094,
     "meso:admin_1_en":"Gyeongsangnam-do",
@@ -40,11 +52,12 @@
         "Hamyang"
     ],
     "name:eng_x_preferred":[
-        "Hamyang-gun"
+        "Hamyang"
     ],
     "name:eng_x_variant":[
         "Hamyang",
-        "Hamyang County"
+        "Hamyang County",
+        "Hamyang"
     ],
     "name:fre_x_preferred":[
         "District de Hamyang"
@@ -129,10 +142,11 @@
         }
     ],
     "wof:id":890472469,
-    "wof:lastmodified":1527790282,
-    "wof:name":"Hamyang-gun",
+    "wof:lastmodified":1555047473,
+    "wof:name":"Hamyang",
     "wof:parent_id":85673215,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

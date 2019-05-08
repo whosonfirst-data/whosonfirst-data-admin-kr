@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001876,
-    "geom:area_square_m":18380099.259245,
+    "geom:area_square_m":18380099.259243,
     "geom:bbox":"126.903897003,37.5507191038,126.96880275,37.6080457779",
     "geom:latitude":37.577893,
     "geom:longitude":126.940904,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Seodaemun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.576202,
     "lbl:longitude":126.943114,
     "meso:admin_1_en":"Seoul",
@@ -34,9 +46,10 @@
         "Seodaemun District"
     ],
     "name:eng_x_preferred":[
-        "Seodaemun District"
+        "Seodaemun"
     ],
     "name:eng_x_variant":[
+        "Seodaemun",
         "Seodaemun"
     ],
     "name:est_x_preferred":[
@@ -130,10 +143,11 @@
         }
     ],
     "wof:id":890472895,
-    "wof:lastmodified":1527790280,
-    "wof:name":"Seodaemun-gu",
+    "wof:lastmodified":1555047474,
+    "wof:name":"Seodaemun",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

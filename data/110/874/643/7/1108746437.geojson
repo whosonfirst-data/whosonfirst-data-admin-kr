@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006974,
-    "geom:area_square_m":69180517.704551,
+    "geom:area_square_m":69180517.704519,
     "geom:bbox":"127.448285254,36.588977329,127.562105883,36.72264649",
     "geom:latitude":36.652773,
     "geom:longitude":127.507403,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Sangdang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":36.637446,
     "lbl:longitude":127.520754,
     "meso:admin_1_en":"Chungcheongbuk-do",
@@ -33,10 +45,12 @@
         "Cheongwon"
     ],
     "name:eng_x_preferred":[
-        "Cheongwon County"
+        "Sangdang"
     ],
     "name:eng_x_variant":[
-        "Cheongwon"
+        "Cheongwon",
+        "Cheongjusisangdanggu",
+        "Sangdang"
     ],
     "name:fre_x_preferred":[
         "District de Cheongwon"
@@ -112,8 +126,8 @@
         }
     ],
     "wof:id":1108746437,
-    "wof:lastmodified":1514469146,
-    "wof:name":"Cheongjusisangdanggu",
+    "wof:lastmodified":1555047482,
+    "wof:name":"Sangdang",
     "wof:parent_id":85673173,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

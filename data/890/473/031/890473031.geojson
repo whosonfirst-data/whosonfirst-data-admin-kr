@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065499,
-    "geom:area_square_m":664935670.348359,
+    "geom:area_square_m":664935670.348514,
     "geom:bbox":"126.97447358,34.6360856122,127.476280212,34.9887457837",
     "geom:latitude":34.815087,
     "geom:longitude":127.164643,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Boseong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":34.819154,
     "lbl:longitude":127.159322,
     "meso:admin_1_en":"Jeollanam-do",
@@ -36,11 +48,12 @@
         "Boseong"
     ],
     "name:eng_x_preferred":[
-        "Boseong-gun"
+        "Boseong"
     ],
     "name:eng_x_variant":[
         "Boseong",
-        "Boseong County"
+        "Boseong County",
+        "Boseong-gun"
     ],
     "name:fre_x_preferred":[
         "District de Boseong"
@@ -133,8 +146,8 @@
         }
     ],
     "wof:id":890473031,
-    "wof:lastmodified":1527792832,
-    "wof:name":"Boseong-gun",
+    "wof:lastmodified":1555047474,
+    "wof:name":"Boseong",
     "wof:parent_id":85673219,
     "wof:placetype":"county",
     "wof:population":0,

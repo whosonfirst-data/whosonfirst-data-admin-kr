@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00755,
-    "geom:area_square_m":76290075.433828,
+    "geom:area_square_m":76290075.433825,
     "geom:bbox":"128.59120188,35.1539970716,128.753725322,35.2380276525",
     "geom:latitude":35.195163,
     "geom:longitude":128.676066,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Seongsan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":35.201301,
     "lbl:longitude":128.674868,
     "meso:admin_1_en":"Gyeongsangnam-do",
@@ -30,10 +42,12 @@
         "\u57ce\u5c71\u5340"
     ],
     "name:eng_x_preferred":[
-        "Seongsan-gu"
+        "Seongsan"
     ],
     "name:eng_x_variant":[
-        "Changwon"
+        "Changwon",
+        "Seongsangu",
+        "Seongsan"
     ],
     "name:jpn_x_preferred":[
         "\u57ce\u5c71\u533a"
@@ -79,8 +93,8 @@
         }
     ],
     "wof:id":1108746525,
-    "wof:lastmodified":1514469284,
-    "wof:name":"Seongsangu",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Seongsan",
     "wof:parent_id":85673215,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

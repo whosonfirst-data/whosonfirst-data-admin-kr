@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04809,
-    "geom:area_square_m":489329487.066842,
+    "geom:area_square_m":489329487.066967,
     "geom:bbox":"126.659831846,34.4407488128,126.883969618,34.7870538022",
     "geom:latitude":34.623531,
     "geom:longitude":126.77427,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Gangjin County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":34.692513,
     "lbl:longitude":126.775956,
     "meso:admin_1_en":"Jeollanam-do",
@@ -34,9 +46,10 @@
         "Gangjin"
     ],
     "name:eng_x_preferred":[
-        "Gangjin County"
+        "Gangjin"
     ],
     "name:eng_x_variant":[
+        "Gangjin",
         "Gangjin"
     ],
     "name:fre_x_preferred":[
@@ -127,10 +140,11 @@
         }
     ],
     "wof:id":890473661,
-    "wof:lastmodified":1527792832,
-    "wof:name":"Gangjin-gun",
+    "wof:lastmodified":1555047476,
+    "wof:name":"Gangjin",
     "wof:parent_id":85673219,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

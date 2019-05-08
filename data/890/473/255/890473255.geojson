@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003543,
-    "geom:area_square_m":34757192.290148,
+    "geom:area_square_m":34757192.290156,
     "geom:bbox":"127.06662368,37.4661842018,127.165728035,37.5462742393",
     "geom:latitude":37.505821,
     "geom:longitude":127.116212,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Songpa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.505759,
     "lbl:longitude":127.121093,
     "meso:admin_1_en":"Seoul",
@@ -36,11 +48,13 @@
         "Songpa District"
     ],
     "name:eng_x_preferred":[
-        "Songpa-gu"
+        "Songpa"
     ],
     "name:eng_x_variant":[
         "Gwang-jin",
-        "Songpa District"
+        "Songpa District",
+        "Songpa-gu",
+        "Songpa"
     ],
     "name:est_x_preferred":[
         "Songpa linnarajoon"
@@ -128,8 +142,8 @@
         }
     ],
     "wof:id":890473255,
-    "wof:lastmodified":1527792835,
-    "wof:name":"Songpa-gu",
+    "wof:lastmodified":1555047475,
+    "wof:name":"Songpa",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
     "wof:population":0,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085184,
-    "geom:area_square_m":850411566.382354,
+    "geom:area_square_m":850411566.382361,
     "geom:bbox":"127.589867097,36.012872654,128.056015802,36.3143353604",
     "geom:latitude":36.160755,
     "geom:longitude":127.816348,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yeongdong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.155152,
     "lbl:longitude":127.792935,
     "meso:admin_1_en":"Chungcheongbuk-do",
@@ -31,9 +43,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Yeongdong-gun"
+        "Yeongdong"
     ],
     "name:eng_x_variant":[
+        "Yeongdong",
         "Yeongdong"
     ],
     "name:kor_x_preferred":[
@@ -90,10 +103,11 @@
         }
     ],
     "wof:id":890473559,
-    "wof:lastmodified":1527792830,
-    "wof:name":"Yeongdong-gun",
+    "wof:lastmodified":1555047476,
+    "wof:name":"Yeongdong",
     "wof:parent_id":85673173,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041114,
-    "geom:area_square_m":406693130.657017,
+    "geom:area_square_m":406693130.656821,
     "geom:bbox":"127.292629166,36.7499346717,127.585471561,37.0113364419",
     "geom:latitude":36.871926,
     "geom:longitude":127.44188,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jincheon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.867365,
     "lbl:longitude":127.444091,
     "meso:admin_1_en":"Chungcheongbuk-do",
@@ -37,9 +49,10 @@
         "Jincheon"
     ],
     "name:eng_x_preferred":[
-        "Jincheon County"
+        "Jincheon"
     ],
     "name:eng_x_variant":[
+        "Jincheon",
         "Jincheon"
     ],
     "name:fre_x_preferred":[
@@ -127,10 +140,11 @@
         }
     ],
     "wof:id":890476185,
-    "wof:lastmodified":1527727154,
-    "wof:name":"Jincheon-gun",
+    "wof:lastmodified":1555047481,
+    "wof:name":"Jincheon",
     "wof:parent_id":85673173,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

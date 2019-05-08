@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002219,
-    "geom:area_square_m":21760836.038298,
+    "geom:area_square_m":21760836.038305,
     "geom:bbox":"126.75932679,37.5032616064,126.830720651,37.5547056264",
     "geom:latitude":37.529066,
     "geom:longitude":126.794803,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Ojeong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.526345,
     "lbl:longitude":126.804832,
     "meso:admin_1_en":"Gyeonggi-do",
@@ -33,10 +45,12 @@
         "Gangseo District"
     ],
     "name:eng_x_preferred":[
-        "Gangseo District"
+        "Ojeong"
     ],
     "name:eng_x_variant":[
-        "Gangseo"
+        "Gangseo",
+        "Bucheonsiojeonggu",
+        "Ojeong"
     ],
     "name:est_x_preferred":[
         "Gangseo linnarajoon"
@@ -106,8 +120,8 @@
         }
     ],
     "wof:id":1108746385,
-    "wof:lastmodified":1514469130,
-    "wof:name":"Bucheonsiojeonggu",
+    "wof:lastmodified":1555047481,
+    "wof:name":"Ojeong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

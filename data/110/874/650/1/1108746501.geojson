@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0392,
-    "geom:area_square_m":392352738.248684,
+    "geom:area_square_m":392352738.248698,
     "geom:bbox":"129.276899656,35.8399592035,129.58377084,36.08625033",
     "geom:latitude":35.958564,
     "geom:longitude":129.439977,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Nam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":35.935592,
     "lbl:longitude":129.455009,
     "meso:admin_1_en":"Gyeongsangbuk-do",
@@ -33,10 +45,12 @@
         "Nam-gu"
     ],
     "name:eng_x_preferred":[
-        "Nam-gu"
+        "Nam"
     ],
     "name:eng_x_variant":[
-        "Pohang"
+        "Pohang",
+        "Nam-gu",
+        "Nam"
     ],
     "name:jpn_x_preferred":[
         "\u5357\u533a"
@@ -79,8 +93,8 @@
         }
     ],
     "wof:id":1108746501,
-    "wof:lastmodified":1514469248,
-    "wof:name":"Nam-gu",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Nam",
     "wof:parent_id":85673233,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

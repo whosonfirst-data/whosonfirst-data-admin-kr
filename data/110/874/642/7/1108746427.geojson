@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073649,
-    "geom:area_square_m":735205495.44863,
+    "geom:area_square_m":735205495.448713,
     "geom:bbox":"128.98904758,36.0162719214,129.43205244,36.3332878767",
     "geom:latitude":36.166435,
     "geom:longitude":129.235167,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Buk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":36.165787,
     "lbl:longitude":129.238689,
     "meso:admin_1_en":"Gyeongsangbuk-do",
@@ -26,8 +38,12 @@
     "mps:longitude":129.238689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Buk"
+    ],
     "name:eng_x_variant":[
-        "Pohang"
+        "Pohang",
+        "Buk-gu"
     ],
     "name:kor_x_preferred":[
         "\ubd81\uad6c"
@@ -53,8 +69,8 @@
         }
     ],
     "wof:id":1108746427,
-    "wof:lastmodified":1509387509,
-    "wof:name":"Buk-gu",
+    "wof:lastmodified":1555047482,
+    "wof:name":"Buk",
     "wof:parent_id":85673233,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

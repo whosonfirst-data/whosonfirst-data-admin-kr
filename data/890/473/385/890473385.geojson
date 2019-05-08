@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079214,
-    "geom:area_square_m":786090011.766612,
+    "geom:area_square_m":786090011.7668,
     "geom:bbox":"127.278570416,36.4061075923,127.771135413,36.7822798939",
     "geom:latitude":36.626052,
     "geom:longitude":127.506882,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Cheongwon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.528844,
     "lbl:longitude":127.483364,
     "meso:admin_1_en":"Chungcheongbuk-do",
@@ -34,9 +46,10 @@
         "Cheongwon"
     ],
     "name:eng_x_preferred":[
-        "Cheongwon County"
+        "Cheongwon"
     ],
     "name:eng_x_variant":[
+        "Cheongwon",
         "Cheongwon"
     ],
     "name:fre_x_preferred":[
@@ -130,10 +143,11 @@
         }
     ],
     "wof:id":890473385,
-    "wof:lastmodified":1527792833,
-    "wof:name":"Cheongwon-gun",
+    "wof:lastmodified":1555047476,
+    "wof:name":"Cheongwon",
     "wof:parent_id":85673173,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

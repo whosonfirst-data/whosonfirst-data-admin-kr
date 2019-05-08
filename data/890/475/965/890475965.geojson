@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069658,
-    "geom:area_square_m":677837069.743613,
+    "geom:area_square_m":677837069.743941,
     "geom:bbox":"126.797426621,37.9286396733,127.193712165,38.2951811604",
     "geom:latitude":38.097477,
     "geom:longitude":127.028957,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yeoncheon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":38.142144,
     "lbl:longitude":127.062072,
     "meso:admin_1_en":"Gyeonggi-do",
@@ -37,9 +49,10 @@
         "Yeoncheon County"
     ],
     "name:eng_x_preferred":[
-        "Yeoncheon County"
+        "Yeoncheon"
     ],
     "name:eng_x_variant":[
+        "Yeoncheon",
         "Yeoncheon"
     ],
     "name:fre_x_preferred":[
@@ -129,10 +142,11 @@
         }
     ],
     "wof:id":890475965,
-    "wof:lastmodified":1527787090,
-    "wof:name":"Yeoncheon-gun",
+    "wof:lastmodified":1555047480,
+    "wof:name":"Yeoncheon",
     "wof:parent_id":85673191,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

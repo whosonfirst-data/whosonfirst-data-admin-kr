@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011705,
-    "geom:area_square_m":118363775.386039,
+    "geom:area_square_m":118363775.386072,
     "geom:bbox":"128.607086182,35.060417175,128.845149744,35.1812463039",
     "geom:latitude":35.133482,
     "geom:longitude":128.734002,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jinhae District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":35.130932,
     "lbl:longitude":128.754086,
     "meso:admin_1_en":"Gyeongsangnam-do",
@@ -37,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Jinhae"
+    ],
+    "name:eng_x_variant":[
+        "Jinhaegu"
     ],
     "name:fre_x_preferred":[
         "Jinhae"
@@ -100,8 +115,8 @@
         }
     ],
     "wof:id":1108746475,
-    "wof:lastmodified":1514469227,
-    "wof:name":"Jinhaegu",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Jinhae",
     "wof:parent_id":85673215,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

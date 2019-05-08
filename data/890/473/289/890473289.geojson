@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05184,
-    "geom:area_square_m":522962900.748165,
+    "geom:area_square_m":522962900.748209,
     "geom:bbox":"126.584476354,35.1906463959,126.927480758,35.4895358904",
     "geom:latitude":35.330023,
     "geom:longitude":126.769574,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jangseong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.323252,
     "lbl:longitude":126.786479,
     "meso:admin_1_en":"Jeollanam-do",
@@ -30,10 +42,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Jangseong-gun"
+        "Jangseong"
     ],
     "name:eng_x_variant":[
-        "Gochang"
+        "Gochang",
+        "Jangseong-gun",
+        "Jangseong"
     ],
     "name:kor_x_preferred":[
         "\uc7a5\uc131\uad70"
@@ -82,8 +96,8 @@
         }
     ],
     "wof:id":890473289,
-    "wof:lastmodified":1527792831,
-    "wof:name":"Jangseong-gun",
+    "wof:lastmodified":1555047475,
+    "wof:name":"Jangseong",
     "wof:parent_id":85673219,
     "wof:placetype":"county",
     "wof:population":0,

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075235,
-    "geom:area_square_m":747976121.206268,
+    "geom:area_square_m":747976121.206116,
     "geom:bbox":"129.149977305,36.2653502856,129.4529112,36.6764739168",
     "geom:latitude":36.483979,
     "geom:longitude":129.318468,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yeongdeok County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.457536,
     "lbl:longitude":129.330637,
     "meso:admin_1_en":"Gyeongsangbuk-do",
@@ -37,9 +49,10 @@
         "Yeongdeok County"
     ],
     "name:eng_x_preferred":[
-        "Yeongdeok County"
+        "Yeongdeok"
     ],
     "name:eng_x_variant":[
+        "Yeongdeok",
         "Yeongdeok"
     ],
     "name:fre_x_preferred":[
@@ -118,10 +131,11 @@
         }
     ],
     "wof:id":890475307,
-    "wof:lastmodified":1527787090,
-    "wof:name":"Yeongdeok-gun",
+    "wof:lastmodified":1555047479,
+    "wof:name":"Yeongdeok",
     "wof:parent_id":85673233,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

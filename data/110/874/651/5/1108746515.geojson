@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009774,
-    "geom:area_square_m":97425151.906708,
+    "geom:area_square_m":97425151.906771,
     "geom:bbox":"127.281490184,36.19,127.405027385,36.381342145",
     "geom:latitude":36.281092,
     "geom:longitude":127.346488,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Seo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":36.250487,
     "lbl:longitude":127.330096,
     "meso:admin_1_en":"Daejeon",
@@ -26,8 +38,12 @@
     "mps:longitude":127.330096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Seo"
+    ],
     "name:eng_x_variant":[
-        "Jung"
+        "Jung",
+        "Seo-gu"
     ],
     "name:kor_x_preferred":[
         "\uc11c\uad6c"
@@ -53,8 +69,8 @@
         }
     ],
     "wof:id":1108746515,
-    "wof:lastmodified":1512517023,
-    "wof:name":"Seo-gu",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Seo",
     "wof:parent_id":85673207,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

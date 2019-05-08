@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061269,
-    "geom:area_square_m":611584784.701696,
+    "geom:area_square_m":611584784.70159,
     "geom:bbox":"128.412324123,36.0017682824,128.900199831,36.3275288776",
     "geom:latitude":36.170554,
     "geom:longitude":128.650269,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Gunwi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.138174,
     "lbl:longitude":128.667013,
     "meso:admin_1_en":"Gyeongsangbuk-do",
@@ -37,9 +49,10 @@
         "Gunwi"
     ],
     "name:eng_x_preferred":[
-        "Gunwi County"
+        "Gunwi"
     ],
     "name:eng_x_variant":[
+        "Gunwi",
         "Gunwi"
     ],
     "name:fre_x_preferred":[
@@ -115,10 +128,11 @@
         }
     ],
     "wof:id":890474969,
-    "wof:lastmodified":1527792838,
-    "wof:name":"Gunwi-gun",
+    "wof:lastmodified":1555047478,
+    "wof:name":"Gunwi",
     "wof:parent_id":85673233,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

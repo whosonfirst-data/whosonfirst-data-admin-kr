@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074232,
-    "geom:area_square_m":747988223.359423,
+    "geom:area_square_m":747988223.359599,
     "geom:bbox":"127.179359602,35.3031242114,127.671888519,35.5615256758",
     "geom:latitude":35.422796,
     "geom:longitude":127.442363,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Namwon City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "si"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uc2dc"
+    ],
     "lbl:latitude":35.451224,
     "lbl:longitude":127.425628,
     "meso:admin_1_en":"Jeollabuk-do",
@@ -31,9 +43,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Namwon-si"
+        "Namwon"
     ],
     "name:eng_x_variant":[
+        "Namwon",
         "Namwon"
     ],
     "name:kor_x_preferred":[
@@ -87,10 +100,11 @@
         }
     ],
     "wof:id":890475797,
-    "wof:lastmodified":1512517895,
-    "wof:name":"Namwon-si",
+    "wof:lastmodified":1555047480,
+    "wof:name":"Namwon",
     "wof:parent_id":85673195,
     "wof:placetype":"county",
+    "wof:placetype_local":"city",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

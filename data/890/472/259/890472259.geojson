@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043196,
-    "geom:area_square_m":441271947.205596,
+    "geom:area_square_m":441271947.2057,
     "geom:bbox":"126.330883028,33.918693542,127.180419922,34.461223602",
     "geom:latitude":34.293498,
     "geom:longitude":126.779144,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Wando County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":34.361775,
     "lbl:longitude":126.688016,
     "meso:admin_1_en":"Jeollanam-do",
@@ -36,11 +48,12 @@
         "Wando"
     ],
     "name:eng_x_preferred":[
-        "Wando-gun"
+        "Wando"
     ],
     "name:eng_x_variant":[
         "Wando",
-        "Wando County"
+        "Wando County",
+        "Wando-gun"
     ],
     "name:fre_x_preferred":[
         "District de Wando"
@@ -123,8 +136,8 @@
         }
     ],
     "wof:id":890472259,
-    "wof:lastmodified":1527790280,
-    "wof:name":"Wando-gun",
+    "wof:lastmodified":1555047472,
+    "wof:name":"Wando",
     "wof:parent_id":85673219,
     "wof:placetype":"county",
     "wof:population":0,

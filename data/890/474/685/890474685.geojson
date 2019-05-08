@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072553,
-    "geom:area_square_m":705144174.217642,
+    "geom:area_square_m":705144174.217644,
     "geom:bbox":"127.833977326,37.9985136321,128.165870855,38.33686827",
     "geom:latitude":38.186679,
     "geom:longitude":127.996565,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yanggu County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":38.197531,
     "lbl:longitude":127.993352,
     "meso:admin_1_en":"Gangwon-do",
@@ -37,9 +49,10 @@
         "Yanggu County"
     ],
     "name:eng_x_preferred":[
-        "Yanggu County"
+        "Yanggu"
     ],
     "name:eng_x_variant":[
+        "Yanggu",
         "Yanggu"
     ],
     "name:fre_x_preferred":[
@@ -118,10 +131,11 @@
         }
     ],
     "wof:id":890474685,
-    "wof:lastmodified":1527792839,
-    "wof:name":"Yanggu-gun",
+    "wof:lastmodified":1555047478,
+    "wof:name":"Yanggu",
     "wof:parent_id":85673181,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

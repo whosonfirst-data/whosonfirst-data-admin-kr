@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022213,
-    "geom:area_square_m":224537486.705169,
+    "geom:area_square_m":224537486.705137,
     "geom:bbox":"126.651538826,35.0690619725,126.864362291,35.2597467668",
     "geom:latitude":35.164863,
     "geom:longitude":126.755098,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Gwangsan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":35.168266,
     "lbl:longitude":126.762346,
     "meso:admin_1_en":"Gwangju",
@@ -36,11 +48,12 @@
         "Gwangsan District"
     ],
     "name:eng_x_preferred":[
-        "Gwangsan-gu"
+        "Gwangsan"
     ],
     "name:eng_x_variant":[
         "Gwangsan",
-        "Gwangsan District"
+        "Gwangsan District",
+        "Gwangsan-gu"
     ],
     "name:ind_x_preferred":[
         "Distrik Gwangsan"
@@ -98,8 +111,8 @@
         }
     ],
     "wof:id":890473197,
-    "wof:lastmodified":1527792833,
-    "wof:name":"Gwangsan-gu",
+    "wof:lastmodified":1555047474,
+    "wof:name":"Gwangsan",
     "wof:parent_id":85673199,
     "wof:placetype":"county",
     "wof:population":0,

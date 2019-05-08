@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042804,
-    "geom:area_square_m":425097475.820479,
+    "geom:area_square_m":425097475.820481,
     "geom:bbox":"126.426223755,36.4577705309,126.773263982,36.672780747",
     "geom:latitude":36.567751,
     "geom:longitude":126.631764,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Hongseong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.551126,
     "lbl:longitude":126.661097,
     "meso:admin_1_en":"Chungcheongnam-do",
@@ -42,9 +54,11 @@
         "Hongseong"
     ],
     "name:eng_x_preferred":[
-        "Hongseong County"
+        "Hongseong"
     ],
     "name:eng_x_variant":[
+        "Hongseong",
+        "Hongseong-gun",
         "Hongseong"
     ],
     "name:fre_x_preferred":[
@@ -130,8 +144,8 @@
         }
     ],
     "wof:id":890472181,
-    "wof:lastmodified":1527790282,
-    "wof:name":"Hongseong-gun",
+    "wof:lastmodified":1555047472,
+    "wof:name":"Hongseong",
     "wof:parent_id":85673203,
     "wof:placetype":"county",
     "wof:population":0,

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078889,
-    "geom:area_square_m":790886681.159112,
+    "geom:area_square_m":790886681.159442,
     "geom:bbox":"127.264945833,35.6168406949,127.625711938,36.0299228336",
     "geom:latitude":35.829174,
     "geom:longitude":127.430677,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jinan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.84415,
     "lbl:longitude":127.427883,
     "meso:admin_1_en":"Jeollabuk-do",
@@ -34,9 +46,10 @@
         "Jinan County"
     ],
     "name:eng_x_preferred":[
-        "Jinan County"
+        "Jinan"
     ],
     "name:eng_x_variant":[
+        "Jinan",
         "Jinan"
     ],
     "name:fre_x_preferred":[
@@ -121,10 +134,11 @@
         }
     ],
     "wof:id":890472257,
-    "wof:lastmodified":1527790280,
-    "wof:name":"Jinan-gun",
+    "wof:lastmodified":1555047472,
+    "wof:name":"Jinan",
     "wof:parent_id":85673195,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

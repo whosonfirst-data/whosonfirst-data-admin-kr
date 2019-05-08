@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002167,
-    "geom:area_square_m":21250585.850382,
+    "geom:area_square_m":21250585.850376,
     "geom:bbox":"126.9449407,37.5118522273,127.018773743,37.5587195116",
     "geom:latitude":37.534122,
     "geom:longitude":126.981132,
@@ -14,6 +14,18 @@
     "gn:pop":227400,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yongsan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.533873,
     "lbl:longitude":126.981132,
     "meso:admin_1_en":"Seoul",
@@ -37,11 +49,12 @@
         "Yongsan District"
     ],
     "name:eng_x_preferred":[
-        "Yongsan-gu"
+        "Yongsan"
     ],
     "name:eng_x_variant":[
         "Yongsan",
-        "Yongsan District"
+        "Yongsan District",
+        "Yongsan"
     ],
     "name:est_x_preferred":[
         "Yongsani linnarajoon"
@@ -151,10 +164,11 @@
         }
     ],
     "wof:id":890475295,
-    "wof:lastmodified":1527790275,
-    "wof:name":"Yongsan-gu",
+    "wof:lastmodified":1555047479,
+    "wof:name":"Yongsan",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":227400,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-kr",

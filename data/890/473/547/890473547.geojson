@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060054,
-    "geom:area_square_m":610670217.790876,
+    "geom:area_square_m":610670217.790591,
     "geom:bbox":"126.794446626,34.4230067168,127.048632836,34.8779794447",
     "geom:latitude":34.678064,
     "geom:longitude":126.923641,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jangheung County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":34.754415,
     "lbl:longitude":126.91473,
     "meso:admin_1_en":"Jeollanam-do",
@@ -34,9 +46,10 @@
         "Jangheung"
     ],
     "name:eng_x_preferred":[
-        "Jangheung County"
+        "Jangheung"
     ],
     "name:eng_x_variant":[
+        "Jangheung",
         "Jangheung"
     ],
     "name:fre_x_preferred":[
@@ -115,10 +128,11 @@
         }
     ],
     "wof:id":890473547,
-    "wof:lastmodified":1527792835,
-    "wof:name":"Jangheung-gun",
+    "wof:lastmodified":1555047476,
+    "wof:name":"Jangheung",
     "wof:parent_id":85673219,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

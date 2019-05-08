@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14917,
-    "geom:area_square_m":1462217162.709695,
+    "geom:area_square_m":1462217162.709729,
     "geom:bbox":"128.243168122,37.2728769111,128.767289003,37.8207086354",
     "geom:latitude":37.557962,
     "geom:longitude":128.484323,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Pyeongchang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":37.564651,
     "lbl:longitude":128.436817,
     "meso:admin_1_en":"Gangwon-do",
@@ -31,9 +43,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Pyeongchang-gun"
+        "Pyeongchang"
     ],
     "name:eng_x_variant":[
+        "Pyeongchang",
         "Pyeongchang"
     ],
     "name:kor_x_preferred":[
@@ -85,10 +98,11 @@
         }
     ],
     "wof:id":890476059,
-    "wof:lastmodified":1527727152,
-    "wof:name":"Pyeongchang-gun",
+    "wof:lastmodified":1555047481,
+    "wof:name":"Pyeongchang",
     "wof:parent_id":85673181,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

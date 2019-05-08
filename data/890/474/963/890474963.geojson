@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084661,
-    "geom:area_square_m":843059273.452285,
+    "geom:area_square_m":843059273.452202,
     "geom:bbox":"128.853364784,36.1610891608,129.262670167,36.5935580618",
     "geom:latitude":36.358133,
     "geom:longitude":129.058788,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Cheongsong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.376077,
     "lbl:longitude":129.078958,
     "meso:admin_1_en":"Gyeongsangbuk-do",
@@ -40,9 +52,10 @@
         "Cheongsong"
     ],
     "name:eng_x_preferred":[
-        "Cheongsong County"
+        "Cheongsong"
     ],
     "name:eng_x_variant":[
+        "Cheongsong",
         "Cheongsong"
     ],
     "name:fre_x_preferred":[
@@ -121,10 +134,11 @@
         }
     ],
     "wof:id":890474963,
-    "wof:lastmodified":1527792836,
-    "wof:name":"Cheongsong-gun",
+    "wof:lastmodified":1555047478,
+    "wof:name":"Cheongsong",
     "wof:parent_id":85673233,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

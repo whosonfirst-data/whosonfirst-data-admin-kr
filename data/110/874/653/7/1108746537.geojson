@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048809,
-    "geom:area_square_m":483831798.829249,
+    "geom:area_square_m":483831798.829349,
     "geom:bbox":"125.537940979,36.395362854,126.436279297,36.97955703",
     "geom:latitude":36.709572,
     "geom:longitude":126.272011,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Taean County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.762949,
     "lbl:longitude":126.248109,
     "meso:admin_1_en":"Chungcheongnam-do",
@@ -36,9 +48,11 @@
         "Taean County"
     ],
     "name:eng_x_preferred":[
-        "Taean County"
+        "Taean"
     ],
     "name:eng_x_variant":[
+        "Taean",
+        "Taean-gun",
         "Taean"
     ],
     "name:fre_x_preferred":[
@@ -109,8 +123,8 @@
         }
     ],
     "wof:id":1108746537,
-    "wof:lastmodified":1514469351,
-    "wof:name":"Taean-gun",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Taean",
     "wof:parent_id":85673203,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

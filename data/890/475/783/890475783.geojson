@@ -5,13 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04423,
-    "geom:area_square_m":444304623.669545,
+    "geom:area_square_m":444304623.6696,
     "geom:bbox":"126.071220398,35.5650074604,126.839960367,35.889583588",
     "geom:latitude":35.669364,
     "geom:longitude":126.635784,
     "gn:country":"KR",
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Buan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.669249,
     "lbl:longitude":126.652487,
     "meso:admin_1_en":"Jeollabuk-do",
@@ -35,9 +47,10 @@
         "Buan"
     ],
     "name:eng_x_preferred":[
-        "Buan County"
+        "Buan"
     ],
     "name:eng_x_variant":[
+        "Buan",
         "Buan"
     ],
     "name:fre_x_preferred":[
@@ -125,10 +138,11 @@
         }
     ],
     "wof:id":890475783,
-    "wof:lastmodified":1527790276,
-    "wof:name":"Buan-gun",
+    "wof:lastmodified":1555047480,
+    "wof:name":"Buan",
     "wof:parent_id":85673195,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

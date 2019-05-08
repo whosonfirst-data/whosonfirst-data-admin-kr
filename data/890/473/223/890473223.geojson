@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002274,
-    "geom:area_square_m":22275315.376067,
+    "geom:area_square_m":22275315.376059,
     "geom:bbox":"126.951039573,37.5662307162,127.017853294,37.6325844827",
     "geom:latitude":37.595887,
     "geom:longitude":126.978934,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jongno District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.610105,
     "lbl:longitude":126.970073,
     "meso:admin_1_en":"Seoul",
@@ -43,11 +55,12 @@
         "Jongno-gu"
     ],
     "name:eng_x_preferred":[
-        "Jongno-gu"
+        "Jongno"
     ],
     "name:eng_x_variant":[
         "Jongro",
-        "Jongno District"
+        "Jongno District",
+        "Jongno"
     ],
     "name:est_x_preferred":[
         "Jongno linnarajoon"
@@ -156,10 +169,11 @@
         }
     ],
     "wof:id":890473223,
-    "wof:lastmodified":1514469228,
-    "wof:name":"Jongno-gu",
+    "wof:lastmodified":1555047475,
+    "wof:name":"Jongno",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

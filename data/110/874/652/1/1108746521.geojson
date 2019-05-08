@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002797,
-    "geom:area_square_m":27465195.951025,
+    "geom:area_square_m":27465195.950996,
     "geom:bbox":"127.117300118,37.4050218117,127.198712586,37.4712876505",
     "geom:latitude":37.433491,
     "geom:longitude":127.165041,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jungwon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.429551,
     "lbl:longitude":127.16844,
     "meso:admin_1_en":"Gyeonggi-do",
@@ -26,8 +38,12 @@
     "mps:longitude":127.16844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jungwon"
+    ],
     "name:eng_x_variant":[
-        "Seongnam"
+        "Seongnam",
+        "Seongnamsijungwongu"
     ],
     "name:kor_x_preferred":[
         "\uc131\ub0a8\uc2dc\uc911\uc6d0\uad6c"
@@ -53,8 +69,8 @@
         }
     ],
     "wof:id":1108746521,
-    "wof:lastmodified":1512517023,
-    "wof:name":"Seongnamsijungwongu",
+    "wof:lastmodified":1555047483,
+    "wof:name":"Jungwon",
     "wof:parent_id":85673191,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

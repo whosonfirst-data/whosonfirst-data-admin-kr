@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075315,
-    "geom:area_square_m":757717699.327171,
+    "geom:area_square_m":757717699.327403,
     "geom:bbox":"128.972000994,35.32958217,129.36952224,35.7260151002",
     "geom:latitude":35.547815,
     "geom:longitude":129.18703,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Ulju County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.584674,
     "lbl:longitude":129.154128,
     "meso:admin_1_en":"Ulsan",
@@ -34,9 +46,10 @@
         "Ulju County"
     ],
     "name:eng_x_preferred":[
-        "Ulju County"
+        "Ulju"
     ],
     "name:eng_x_variant":[
+        "Ulju",
         "Ulju"
     ],
     "name:est_x_preferred":[
@@ -112,10 +125,11 @@
         }
     ],
     "wof:id":890474681,
-    "wof:lastmodified":1527792837,
-    "wof:name":"Ulju-gun",
+    "wof:lastmodified":1555047478,
+    "wof:name":"Ulju",
     "wof:parent_id":85673231,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

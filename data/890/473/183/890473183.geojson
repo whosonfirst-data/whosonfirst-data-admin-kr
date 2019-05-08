@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088816,
-    "geom:area_square_m":873504788.722562,
+    "geom:area_square_m":873504788.722638,
     "geom:bbox":"127.742978154,37.1442243144,128.222345363,37.5077019483",
     "geom:latitude":37.309284,
     "geom:longitude":127.932249,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Wonju City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "si"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uc2dc"
+    ],
     "lbl:latitude":37.332698,
     "lbl:longitude":127.916034,
     "meso:admin_1_en":"Gangwon-do",
@@ -27,6 +39,9 @@
     "mps:longitude":127.916034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wonju"
+    ],
     "name:eng_x_variant":[
         "Wonju"
     ],
@@ -70,10 +85,11 @@
         }
     ],
     "wof:id":890473183,
-    "wof:lastmodified":1512517890,
-    "wof:name":"Wonju-si",
+    "wof:lastmodified":1555047474,
+    "wof:name":"Wonju",
     "wof:parent_id":85673181,
     "wof:placetype":"county",
+    "wof:placetype_local":"city",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

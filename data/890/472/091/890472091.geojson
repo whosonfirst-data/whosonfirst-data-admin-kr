@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005306,
-    "geom:area_square_m":53615698.339657,
+    "geom:area_square_m":53615698.339685,
     "geom:bbox":"129.109705481,35.15288922,129.211667304,35.2505482945",
     "geom:latitude":35.196087,
     "geom:longitude":129.156565,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Haeundae District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":35.189193,
     "lbl:longitude":129.147171,
     "meso:admin_1_en":"Busan",
@@ -30,10 +42,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Haeundae-gu"
+        "Haeundae"
     ],
     "name:eng_x_variant":[
-        "Haeundae"
+        "Haeundae",
+        "Haeundae-gu"
     ],
     "name:kor_x_preferred":[
         "\ud574\uc6b4\ub300\uad6c"
@@ -76,8 +89,8 @@
         }
     ],
     "wof:id":890472091,
-    "wof:lastmodified":1527790280,
-    "wof:name":"Haeundae-gu",
+    "wof:lastmodified":1555047472,
+    "wof:name":"Haeundae",
     "wof:parent_id":85673227,
     "wof:placetype":"county",
     "wof:population":0,

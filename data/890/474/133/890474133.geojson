@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006934,
-    "geom:area_square_m":69001101.486596,
+    "geom:area_square_m":69001101.486601,
     "geom:bbox":"127.392518323,36.3445196665,127.502581794,36.4787480906",
     "geom:latitude":36.412784,
     "geom:longitude":127.440197,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Daedeok District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":36.424826,
     "lbl:longitude":127.443948,
     "meso:admin_1_en":"Daejeon",
@@ -31,9 +43,10 @@
         "\u5927\u5fb7\u5340"
     ],
     "name:eng_x_preferred":[
-        "Daedeok District"
+        "Daedeok"
     ],
     "name:eng_x_variant":[
+        "Daedeok",
         "Daedeok"
     ],
     "name:ind_x_preferred":[
@@ -94,10 +107,11 @@
         }
     ],
     "wof:id":890474133,
-    "wof:lastmodified":1527792836,
-    "wof:name":"Daedeok-gu",
+    "wof:lastmodified":1555047476,
+    "wof:name":"Daedeok",
     "wof:parent_id":85673207,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

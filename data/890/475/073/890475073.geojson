@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065957,
-    "geom:area_square_m":666934454.826996,
+    "geom:area_square_m":666934454.827244,
     "geom:bbox":"127.576244181,34.923721313,127.940744277,35.3338366895",
     "geom:latitude":35.13938,
     "geom:longitude":127.781283,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Hadong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.139037,
     "lbl:longitude":127.793408,
     "meso:admin_1_en":"Gyeongsangnam-do",
@@ -37,9 +49,10 @@
         "Hadong"
     ],
     "name:eng_x_preferred":[
-        "Hadong County"
+        "Hadong"
     ],
     "name:eng_x_variant":[
+        "Hadong",
         "Hadong"
     ],
     "name:fre_x_preferred":[
@@ -121,10 +134,11 @@
         }
     ],
     "wof:id":890475073,
-    "wof:lastmodified":1527790277,
-    "wof:name":"Hadong-gun",
+    "wof:lastmodified":1555047479,
+    "wof:name":"Hadong",
     "wof:parent_id":85673215,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

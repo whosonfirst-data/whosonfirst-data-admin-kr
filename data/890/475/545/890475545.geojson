@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054579,
-    "geom:area_square_m":543755266.059461,
+    "geom:area_square_m":543755266.059396,
     "geom:bbox":"127.488180792,36.171604768,127.892477706,36.4459483497",
     "geom:latitude":36.321777,
     "geom:longitude":127.658339,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Okcheon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":36.334023,
     "lbl:longitude":127.658373,
     "meso:admin_1_en":"Chungcheongbuk-do",
@@ -40,11 +52,12 @@
         "Okcheon"
     ],
     "name:eng_x_preferred":[
-        "Okcheon-gun"
+        "Okcheon"
     ],
     "name:eng_x_variant":[
         "Okcheon",
-        "Okcheon County"
+        "Okcheon County",
+        "Okcheon"
     ],
     "name:fre_x_preferred":[
         "District de Okcheon"
@@ -142,10 +155,11 @@
         }
     ],
     "wof:id":890475545,
-    "wof:lastmodified":1527790276,
-    "wof:name":"Okcheon-gun",
+    "wof:lastmodified":1555047480,
+    "wof:name":"Okcheon",
     "wof:parent_id":85673173,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

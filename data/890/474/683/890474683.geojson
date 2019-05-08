@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08165,
-    "geom:area_square_m":817618630.699918,
+    "geom:area_square_m":817618630.699903,
     "geom:bbox":"126.99585565,35.6188445862,127.379670697,36.1313410825",
     "geom:latitude":35.92047,
     "geom:longitude":127.216951,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Wanju County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.962479,
     "lbl:longitude":127.236198,
     "meso:admin_1_en":"Jeollabuk-do",
@@ -34,9 +46,10 @@
         "Wanju"
     ],
     "name:eng_x_preferred":[
-        "Wanju County"
+        "Wanju"
     ],
     "name:eng_x_variant":[
+        "Wanju",
         "Wanju"
     ],
     "name:fre_x_preferred":[
@@ -121,10 +134,11 @@
         }
     ],
     "wof:id":890474683,
-    "wof:lastmodified":1527792839,
-    "wof:name":"Wanju-gun",
+    "wof:lastmodified":1555047478,
+    "wof:name":"Wanju",
     "wof:parent_id":85673195,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

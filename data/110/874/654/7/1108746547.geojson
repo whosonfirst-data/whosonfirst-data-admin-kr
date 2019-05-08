@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004144,
-    "geom:area_square_m":40741282.783391,
+    "geom:area_square_m":40741282.783402,
     "geom:bbox":"127.01214932,37.2920766701,127.123663066,37.3792090257",
     "geom:latitude":37.336424,
     "geom:longitude":127.06558,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Suji District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.338485,
     "lbl:longitude":127.061755,
     "meso:admin_1_en":"Gyeonggi-do",
@@ -26,8 +38,12 @@
     "mps:longitude":127.061755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Suji"
+    ],
     "name:eng_x_variant":[
-        "Seongnam"
+        "Seongnam",
+        "Yonginsisujigu"
     ],
     "name:kor_x_preferred":[
         "\uc6a9\uc778\uc2dc\uc218\uc9c0\uad6c"
@@ -53,8 +69,8 @@
         }
     ],
     "wof:id":1108746547,
-    "wof:lastmodified":1512517023,
-    "wof:name":"Yonginsisujigu",
+    "wof:lastmodified":1555047484,
+    "wof:name":"Suji",
     "wof:parent_id":85673191,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

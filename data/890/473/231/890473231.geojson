@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002405,
-    "geom:area_square_m":23586002.161792,
+    "geom:area_square_m":23586002.1618,
     "geom:bbox":"126.876926639,37.4840364248,126.950921111,37.5489532568",
     "geom:latitude":37.519858,
     "geom:longitude":126.910826,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Yeongdeungpo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.522484,
     "lbl:longitude":126.908304,
     "meso:admin_1_en":"Seoul",
@@ -36,11 +48,12 @@
         "Yeongdeungpo District"
     ],
     "name:eng_x_preferred":[
-        "Yeongdeungpo-gu"
+        "Yeongdeungpo"
     ],
     "name:eng_x_variant":[
         "Yeongdeungpo",
-        "Yeongdeungpo District"
+        "Yeongdeungpo District",
+        "Yeongdeungpo-gu"
     ],
     "name:est_x_preferred":[
         "Yeongdeungpo linnarajoon"
@@ -125,8 +138,8 @@
         }
     ],
     "wof:id":890473231,
-    "wof:lastmodified":1527792834,
-    "wof:name":"Yeongdeungpo-gu",
+    "wof:lastmodified":1555047475,
+    "wof:name":"Yeongdeungpo",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
     "wof:population":0,

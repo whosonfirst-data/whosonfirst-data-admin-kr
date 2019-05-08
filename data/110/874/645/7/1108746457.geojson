@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003711,
-    "geom:area_square_m":36379940.868825,
+    "geom:area_square_m":36379940.868846,
     "geom:bbox":"126.769814867,37.5264000813,126.886730697,37.6021957112",
     "geom:latitude":37.559813,
     "geom:longitude":126.823003,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Gangseo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.564134,
     "lbl:longitude":126.822119,
     "meso:admin_1_en":"Seoul",
@@ -33,9 +45,11 @@
         "Gangseo District"
     ],
     "name:eng_x_preferred":[
-        "Gangseo District"
+        "Gangseo"
     ],
     "name:eng_x_variant":[
+        "Gangseo",
+        "Gangseo-gu",
         "Gangseo"
     ],
     "name:est_x_preferred":[
@@ -106,8 +120,8 @@
         }
     ],
     "wof:id":1108746457,
-    "wof:lastmodified":1514469163,
-    "wof:name":"Gangseo-gu",
+    "wof:lastmodified":1555047482,
+    "wof:name":"Gangseo",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kr",

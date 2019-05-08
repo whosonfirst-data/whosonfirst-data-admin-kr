@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003971,
-    "geom:area_square_m":38952506.156208,
+    "geom:area_square_m":38952506.156219,
     "geom:bbox":"127.014615309,37.4577857911,127.126301668,37.546686516",
     "geom:latitude":37.498869,
     "geom:longitude":127.062491,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Gangnam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.49892,
     "lbl:longitude":127.054005,
     "meso:admin_1_en":"Seoul",
@@ -55,11 +67,12 @@
         "Gangnam-gu"
     ],
     "name:eng_x_preferred":[
-        "Gangnam-gu"
+        "Gangnam"
     ],
     "name:eng_x_variant":[
         "Gangnam",
-        "Gangnam District"
+        "Gangnam District",
+        "Gangnam"
     ],
     "name:est_x_preferred":[
         "Gangnami linnarajoon"
@@ -194,10 +207,11 @@
         }
     ],
     "wof:id":890474447,
-    "wof:lastmodified":1527792837,
-    "wof:name":"Gangnam-gu",
+    "wof:lastmodified":1555047476,
+    "wof:name":"Gangnam",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

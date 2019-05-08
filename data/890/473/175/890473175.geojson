@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0384,
-    "geom:area_square_m":385414239.231201,
+    "geom:area_square_m":385414239.231063,
     "geom:bbox":"128.159269987,35.6056825868,128.4831448,35.8538028759",
     "geom:latitude":35.736763,
     "geom:longitude":128.308409,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Goryeong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":35.724262,
     "lbl:longitude":128.283882,
     "meso:admin_1_en":"Gyeongsangbuk-do",
@@ -40,11 +52,12 @@
         "Goryeong"
     ],
     "name:eng_x_preferred":[
-        "Goryeong-gun"
+        "Goryeong"
     ],
     "name:eng_x_variant":[
         "Goryeong",
-        "Goryeong County"
+        "Goryeong County",
+        "Goryeong"
     ],
     "name:fre_x_preferred":[
         "District de Goryeong"
@@ -130,10 +143,11 @@
         }
     ],
     "wof:id":890473175,
-    "wof:lastmodified":1527792833,
-    "wof:name":"Goryeong-gun",
+    "wof:lastmodified":1555047474,
+    "wof:name":"Goryeong",
     "wof:parent_id":85673233,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

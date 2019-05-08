@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070698,
-    "geom:area_square_m":714286980.68348,
+    "geom:area_square_m":714286980.683522,
     "geom:bbox":"127.88815882,35.0456518857,128.37002206,35.3554597336",
     "geom:latitude":35.206063,
     "geom:longitude":128.131723,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jinju City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "si"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uc2dc"
+    ],
     "lbl:latitude":35.222624,
     "lbl:longitude":128.108086,
     "meso:admin_1_en":"Gyeongsangnam-do",
@@ -27,6 +39,9 @@
     "mps:longitude":128.108086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jinju"
+    ],
     "name:eng_x_variant":[
         "Jinju"
     ],
@@ -70,10 +85,11 @@
         }
     ],
     "wof:id":890475301,
-    "wof:lastmodified":1512517894,
-    "wof:name":"Jinju-si",
+    "wof:lastmodified":1555047479,
+    "wof:name":"Jinju",
     "wof:parent_id":85673215,
     "wof:placetype":"county",
+    "wof:placetype_local":"city",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

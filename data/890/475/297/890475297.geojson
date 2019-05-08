@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
-    "geom:area_square_m":10721341.392799,
+    "geom:area_square_m":10721341.392794,
     "geom:bbox":"126.968074837,37.5466288059,127.02964845,37.5756757277",
     "geom:latitude":37.562258,
     "geom:longitude":127.000486,
@@ -14,6 +14,18 @@
     "gn:pop":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Jung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gu"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad6c"
+    ],
     "lbl:latitude":37.562137,
     "lbl:longitude":126.996821,
     "meso:admin_1_en":"Seoul",
@@ -31,10 +43,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Jung-gu"
+        "Jung"
     ],
     "name:eng_x_variant":[
-        "Jongro"
+        "Jongro",
+        "Jung"
     ],
     "name:kor_x_preferred":[
         "\uc911\uad6c"
@@ -85,10 +98,11 @@
         }
     ],
     "wof:id":890475297,
-    "wof:lastmodified":1527790278,
-    "wof:name":"Jung-gu",
+    "wof:lastmodified":1555047479,
+    "wof:name":"Jung",
     "wof:parent_id":85673185,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],

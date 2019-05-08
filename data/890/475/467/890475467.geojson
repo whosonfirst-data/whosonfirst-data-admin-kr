@@ -5,13 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036734,
-    "geom:area_square_m":372898707.551826,
+    "geom:area_square_m":372898707.551585,
     "geom:bbox":"127.807052612,34.678749084,128.088745117,34.946220398",
     "geom:latitude":34.817954,
     "geom:longitude":127.943206,
     "gn:country":"KR",
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "label:eng_x_preferred_longname":[
+        "Namhae County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:kor_latn_x_preferred_placetype":[
+        "gun"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uad70"
+    ],
     "lbl:latitude":34.80336,
     "lbl:longitude":127.909082,
     "meso:admin_1_en":"Gyeongsangnam-do",
@@ -41,9 +53,10 @@
         "Namhae"
     ],
     "name:eng_x_preferred":[
-        "Namhae County"
+        "Namhae"
     ],
     "name:eng_x_variant":[
+        "Namhae",
         "Namhae"
     ],
     "name:fre_x_preferred":[
@@ -131,10 +144,11 @@
         }
     ],
     "wof:id":890475467,
-    "wof:lastmodified":1527790277,
-    "wof:name":"Namhae-gun",
+    "wof:lastmodified":1555047480,
+    "wof:name":"Namhae",
     "wof:parent_id":85673215,
     "wof:placetype":"county",
+    "wof:placetype_local":"county",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
