@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014678,
-    "geom:area_square_m":143688228.100414,
+    "geom:area_square_m":143688228.100526,
     "geom:bbox":"127.093867955,37.557341851,127.282449753,37.7601812354",
     "geom:latitude":37.658324,
     "geom:longitude":127.195715,
@@ -28,17 +28,17 @@
     "name:cat_x_preferred":[
         "Namyangju"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u694a\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Namjangd\u017eu"
     ],
     "name:dan_x_preferred":[
         "Namyangju"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Namyangju"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bc\u03b3\u03b9\u03b1\u03bd\u03ba\u03b6\u03bf\u03cd"
     ],
     "name:eng_x_colloquial":[
         "Namyangju-si"
@@ -57,14 +57,8 @@
     "name:fin_x_preferred":[
         "Namyangju"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Namyangju"
-    ],
-    "name:ger_x_preferred":[
-        "Namyangju"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03bc\u03b3\u03b9\u03b1\u03bd\u03ba\u03b6\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aae\u0aaf\u0abe\u0a82\u0a97\u0acd\u0a9c\u0ac1"
@@ -108,23 +102,23 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u092e\u092f\u093e\u0902\u0917\u091c\u0941"
     ],
-    "name:may_x_preferred":[
-        "Namyangju"
-    ],
     "name:mon_x_preferred":[
         "\u041d\u0430\u043c\u044a\u044f\u043d\u0436\u04af \u0445\u043e\u0442"
     ],
+    "name:msa_x_preferred":[
+        "Namyangju"
+    ],
     "name:nan_x_preferred":[
         "Namyangju Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Namyangju"
     ],
     "name:nob_x_preferred":[
         "Namyangju"
     ],
     "name:oci_x_preferred":[
         "Namyangju"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0645\u06cc\u0627\u0646\u06af\u062c\u0648"
     ],
     "name:pol_x_preferred":[
         "Namyangju"
@@ -144,7 +138,7 @@
     "name:sin_x_preferred":[
         "\u0db1\u0db8\u0dca\u0dba\u0db1\u0dca\u0d9c\u0dca\u0da2\u0dd4"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Namjangd\u017eu"
     ],
     "name:spa_x_preferred":[
@@ -229,7 +223,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514469372,
+    "wof:lastmodified":1561826699,
     "wof:name":"Yanggok",
     "wof:parent_id":890474583,
     "wof:placetype":"locality",

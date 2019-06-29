@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":2221790.78543,
+    "geom:area_square_m":2221790.785432,
     "geom:bbox":"126.872556389,37.4085881447,126.892089844,37.4277387732",
     "geom:latitude":37.418163,
     "geom:longitude":126.881107,
@@ -18,34 +18,25 @@
     "mps:longitude":126.881107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u057e\u0561\u0576\u0574\u0565\u0575\u0576"
-    ],
     "name:cat_x_preferred":[
         "Gwangmyeong"
     ],
-    "name:chi_x_preferred":[
-        "\u5149\u660e\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kwangmjong"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gwangmyeong"
     ],
     "name:eng_x_preferred":[
         "Gwangmyeong"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0627\u0646\u06af\u200c\u0645\u06cc\u0648\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Gwangmyeong"
     ],
-    "name:fre_x_preferred":[
-        "Gwangmyeong"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d5\u10d0\u10dc\u10db\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gwangmyeong"
     ],
     "name:hak_x_preferred":[
@@ -53,6 +44,9 @@
     ],
     "name:hun_x_preferred":[
         "Kvangmjong"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u057e\u0561\u0576\u0574\u0565\u0575\u0576"
     ],
     "name:ind_x_preferred":[
         "Gwangmyeong"
@@ -63,6 +57,9 @@
     "name:jpn_x_preferred":[
         "\u5149\u660e\u5e02"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d5\u10d0\u10dc\u10db\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uad11\uba85"
     ],
@@ -72,19 +69,19 @@
     "name:nan_x_preferred":[
         "Gwangmyeong Chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Gwangmyeong"
+    ],
     "name:nob_x_preferred":[
         "Gwangmyeong"
     ],
     "name:oci_x_preferred":[
         "Gwangmyeong"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0627\u0646\u06af\u200c\u0645\u06cc\u0648\u0646\u06af"
-    ],
     "name:pol_x_preferred":[
         "Gwangmyeong"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gwangmyeong"
     ],
     "name:rus_x_preferred":[
@@ -116,6 +113,9 @@
     ],
     "name:war_x_preferred":[
         "Gwangmyeong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5149\u660e\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":102026551,
-    "wof:lastmodified":1514469385,
+    "wof:lastmodified":1561826694,
     "wof:name":"\uad11\uba85",
     "wof:parent_id":890472589,
     "wof:placetype":"locality",

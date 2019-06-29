@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002171,
-    "geom:area_square_m":21345668.01555,
+    "geom:area_square_m":21345668.015557,
     "geom:bbox":"127.916264226,37.3131077664,127.974541779,37.3748036327",
     "geom:latitude":37.340937,
     "geom:longitude":127.941926,
@@ -32,20 +32,14 @@
     "name:ces_x_preferred":[
         "Wond\u017eu"
     ],
-    "name:chi_x_preferred":[
-        "\u539f\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Wond\u017eu"
-    ],
     "name:dan_x_preferred":[
         "Wonju"
     ],
     "name:deu_x_preferred":[
         "Wonju"
     ],
-    "name:dut_x_preferred":[
-        "Wonju"
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03cc\u03bd\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Wonju"
@@ -61,18 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Wonju"
-    ],
-    "name:fre_x_preferred":[
-        "Wonju"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10dd\u10dc\u10ef\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Wonju"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03cc\u03bd\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0acb\u0aa8\u0acd\u0a9c\u0ac1"
@@ -116,11 +98,11 @@
     "name:mar_x_preferred":[
         "\u0935\u0941\u0928\u094d\u091c\u0942"
     ],
-    "name:may_x_preferred":[
-        "Wonju"
-    ],
     "name:mon_x_preferred":[
         "\u0412\u043e\u043d\u044c\u0436\u04af"
+    ],
+    "name:msa_x_preferred":[
+        "Wonju"
     ],
     "name:nan_x_preferred":[
         "Wonju Chh\u012b"
@@ -137,9 +119,6 @@
     "name:oci_x_preferred":[
         "Wonju"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0646\u062c\u0648"
-    ],
     "name:pol_x_preferred":[
         "Wonju"
     ],
@@ -153,9 +132,6 @@
         "\u0dc0\u0ddc\u0db1\u0dca\u0da2\u0dd4"
     ],
     "name:slk_x_preferred":[
-        "Wond\u017eu"
-    ],
-    "name:slo_x_preferred":[
         "Wond\u017eu"
     ],
     "name:spa_x_preferred":[
@@ -339,7 +315,7 @@
         }
     ],
     "wof:id":102026285,
-    "wof:lastmodified":1527637812,
+    "wof:lastmodified":1561826698,
     "wof:name":"W\u014fnju",
     "wof:parent_id":890473183,
     "wof:placetype":"locality",

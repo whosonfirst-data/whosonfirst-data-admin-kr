@@ -38,9 +38,6 @@
     "mps:longitude":128.674868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57ce\u5c71\u5340"
-    ],
     "name:eng_x_preferred":[
         "Seongsan"
     ],
@@ -49,14 +46,14 @@
         "Seongsangu",
         "Seongsan"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0626\u0648\u0646\u06af\u0633\u0627\u0646-\u06af\u0648"
+    ],
     "name:jpn_x_preferred":[
         "\u57ce\u5c71\u533a"
     ],
     "name:kor_x_preferred":[
         "\ucc3d\uc6d0\uc2dc\uc131\uc0b0\uad6c"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0626\u0648\u0646\u06af\u0633\u0627\u0646-\u06af\u0648"
     ],
     "name:spa_x_preferred":[
         "Seongsan"
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Seongsan-gu"
+    ],
+    "name:zho_x_preferred":[
+        "\u57ce\u5c71\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1108746525,
-    "wof:lastmodified":1555047483,
+    "wof:lastmodified":1561826855,
     "wof:name":"Seongsan",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

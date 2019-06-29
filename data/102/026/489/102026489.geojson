@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022794,
-    "geom:area_square_m":235134037.611754,
+    "geom:area_square_m":235134037.611638,
     "geom:bbox":"126.293572983,33.3536385069,126.644663429,33.5458277509",
     "geom:latitude":33.463796,
     "geom:longitude":126.476337,
@@ -23,25 +23,16 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u062c\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054b\u0565\u057b\u0578\u0582"
-    ],
     "name:ces_x_preferred":[
-        "\u010ced\u017eu"
-    ],
-    "name:chi_x_preferred":[
-        "\u6d4e\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
         "\u010ced\u017eu"
     ],
     "name:deu_x_preferred":[
         "Jeju"
     ],
-    "name:dsb_x_preferred":[
-        "Jeju"
+    "name:deu_x_variant":[
+        "Jeju-si"
     ],
-    "name:dut_x_preferred":[
+    "name:dsb_x_preferred":[
         "Jeju"
     ],
     "name:ell_x_preferred":[
@@ -64,17 +55,14 @@
     "name:fas_x_preferred":[
         "\u0686\u062c\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u062c\u062c\u0648"
+    ],
     "name:fin_x_preferred":[
         "Jeju"
     ],
     "name:fra_x_preferred":[
         "Jeju"
-    ],
-    "name:fre_x_preferred":[
-        "Jeju"
-    ],
-    "name:ger_x_preferred":[
-        "Jeju-si"
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05d2'\u05d5"
@@ -125,9 +113,6 @@
     "name:nob_x_preferred":[
         "Jeju by"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u062c\u0648"
-    ],
     "name:pol_x_preferred":[
         "Czed\u017cu"
     ],
@@ -172,6 +157,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6fdf\u5dde"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d4e\u5dde\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Korea",
@@ -316,7 +304,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527637813,
+    "wof:lastmodified":1561826698,
     "wof:name":"Jeju",
     "wof:parent_id":890473039,
     "wof:placetype":"locality",

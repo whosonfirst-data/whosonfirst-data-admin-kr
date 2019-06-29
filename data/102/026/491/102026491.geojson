@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005679,
-    "geom:area_square_m":55969149.079956,
+    "geom:area_square_m":55969149.079951,
     "geom:bbox":"128.149749957,37.0943705984,128.282139043,37.1934036738",
     "geom:latitude":37.150872,
     "geom:longitude":128.209419,
@@ -30,17 +30,17 @@
     "name:cat_x_preferred":[
         "Jecheon"
     ],
-    "name:chi_x_preferred":[
-        "\u5824\u5ddd\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010ce\u010dchon"
     ],
     "name:dan_x_preferred":[
         "Jecheon"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jecheon"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ad\u03c4\u03c3\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Jecheon-Si"
@@ -52,20 +52,14 @@
     "name:est_x_preferred":[
         "Jecheon"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0686\u0626\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Jecheon"
     ],
     "name:fra_x_preferred":[
         "Jecheon"
-    ],
-    "name:fre_x_preferred":[
-        "Jecheon"
-    ],
-    "name:ger_x_preferred":[
-        "Jecheon"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ad\u03c4\u03c3\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0a9a\u0aa8"
@@ -107,20 +101,20 @@
     "name:mar_x_preferred":[
         "\u091c\u0947\u0938\u0940\u0928"
     ],
-    "name:may_x_preferred":[
-        "Jecheon"
-    ],
     "name:mon_x_preferred":[
         "\u0427\u044d\u0447\u043e\u043d\u044c"
+    ],
+    "name:msa_x_preferred":[
+        "Jecheon"
+    ],
+    "name:nld_x_preferred":[
+        "Jecheon"
     ],
     "name:nob_x_preferred":[
         "Jecheon"
     ],
     "name:oci_x_preferred":[
         "Jecheon"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0686\u0626\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Chech'\u014fn"
@@ -167,6 +161,9 @@
     "name:war_x_preferred":[
         "Jecheon"
     ],
+    "name:zho_x_preferred":[
+        "\u5824\u5ddd\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"South Korea",
@@ -209,7 +206,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514469354,
+    "wof:lastmodified":1561826696,
     "wof:name":"Teisen",
     "wof:parent_id":890475033,
     "wof:placetype":"locality",

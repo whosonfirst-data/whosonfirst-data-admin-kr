@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001833,
-    "geom:area_square_m":17957028.819563,
+    "geom:area_square_m":17957028.819573,
     "geom:bbox":"126.721932632,37.5834646538,126.793212891,37.6449912033",
     "geom:latitude":37.608294,
     "geom:longitude":126.757642,
@@ -21,13 +21,10 @@
     "name:cat_x_preferred":[
         "Gimpo"
     ],
-    "name:chi_x_preferred":[
-        "\u91d1\u6d66\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kimpcho"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gimpo"
     ],
     "name:eng_x_preferred":[
@@ -39,13 +36,13 @@
     "name:epo_x_preferred":[
         "Gimpo"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0645\u067e\u0648"
+    ],
     "name:fin_x_preferred":[
         "Gimpo"
     ],
-    "name:fre_x_preferred":[
-        "Gimpo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gimpo"
     ],
     "name:hak_x_preferred":[
@@ -66,23 +63,23 @@
     "name:kor_x_variant":[
         "\uae40\ud3ec"
     ],
-    "name:may_x_preferred":[
-        "Gimpo"
-    ],
     "name:mon_x_preferred":[
         "\u041a\u0438\u043c\u043f\u0443"
     ],
+    "name:msa_x_preferred":[
+        "Gimpo"
+    ],
     "name:nan_x_preferred":[
         "Gimpo Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Gimpo"
     ],
     "name:nob_x_preferred":[
         "Gimpo"
     ],
     "name:oci_x_preferred":[
         "Gimpo"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u06cc\u0645\u067e\u0648"
     ],
     "name:pol_x_preferred":[
         "Gimpo"
@@ -94,9 +91,6 @@
         "Gimpo"
     ],
     "name:slk_x_preferred":[
-        "Kimpcho"
-    ],
-    "name:slo_x_preferred":[
         "Kimpcho"
     ],
     "name:spa_x_preferred":[
@@ -128,6 +122,9 @@
     ],
     "name:war_x_preferred":[
         "Gimpo"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u6d66\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -166,7 +163,7 @@
         }
     ],
     "wof:id":102026425,
-    "wof:lastmodified":1514469234,
+    "wof:lastmodified":1561826696,
     "wof:name":"Kinho",
     "wof:parent_id":890472445,
     "wof:placetype":"locality",

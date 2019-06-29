@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000947,
-    "geom:area_square_m":9358669.446879,
+    "geom:area_square_m":9358669.446883,
     "geom:bbox":"126.545773272,36.8837938008,126.733016163,37.0422607193",
     "geom:latitude":36.980636,
     "geom:longitude":126.622872,
@@ -31,32 +31,23 @@
     "name:ces_x_preferred":[
         "Tangd\u017ein"
     ],
-    "name:chi_x_preferred":[
-        "\u5510\u6d25\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Tangd\u017ein"
-    ],
     "name:dan_x_preferred":[
         "Dangjin"
     ],
-    "name:dut_x_preferred":[
-        "Dangjin"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ac\u03bd\u03b3\u03ba\u03b6\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dangjin"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0646\u06af\u062c\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Dangjin"
     ],
     "name:fra_x_preferred":[
         "Dangjin"
-    ],
-    "name:fre_x_preferred":[
-        "Dangjin"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ac\u03bd\u03b3\u03ba\u03b6\u03b9\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0a9c\u0abf\u0aa8"
@@ -91,11 +82,11 @@
     "name:mar_x_preferred":[
         "\u0921\u093e\u0902\u0917\u094d\u091c\u093f\u0928"
     ],
-    "name:may_x_preferred":[
-        "Dangjin"
-    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u043d\u0436\u0438\u043d\u044c"
+    ],
+    "name:msa_x_preferred":[
+        "Dangjin"
     ],
     "name:nan_x_preferred":[
         "Dangjin Chh\u012b"
@@ -111,9 +102,6 @@
     ],
     "name:oci_x_preferred":[
         "Dangjin"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u0646\u06af\u062c\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Dangjin"
@@ -206,7 +194,7 @@
         }
     ],
     "wof:id":102026309,
-    "wof:lastmodified":1527637805,
+    "wof:lastmodified":1561826694,
     "wof:name":"Tangjin",
     "wof:parent_id":1108746439,
     "wof:placetype":"locality",

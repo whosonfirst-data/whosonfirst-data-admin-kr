@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0028,
-    "geom:area_square_m":27212483.380633,
+    "geom:area_square_m":27212483.38065,
     "geom:bbox":"128.523125437,38.1730564752,128.6118858,38.2256162387",
     "geom:latitude":38.196611,
     "geom:longitude":128.574137,
@@ -31,20 +31,14 @@
     "name:ces_x_preferred":[
         "Sok\u010dcho"
     ],
-    "name:chi_x_preferred":[
-        "\u675f\u8349\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Sok\u010dcho"
-    ],
     "name:dan_x_preferred":[
         "Sokcho"
     ],
     "name:deu_x_preferred":[
         "Sokcho"
     ],
-    "name:dut_x_preferred":[
-        "Sokcho"
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03ba\u03c4\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Sokcho"
@@ -57,15 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Sokcho"
-    ],
-    "name:fre_x_preferred":[
-        "Sokcho"
-    ],
-    "name:ger_x_preferred":[
-        "Sokcho"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03ba\u03c4\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0a95\u0acb"
@@ -109,11 +94,11 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0915\u094b"
     ],
-    "name:may_x_preferred":[
-        "Sokcho"
-    ],
     "name:mon_x_preferred":[
         "\u0421\u0443\u043a\u0447\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Sokcho"
     ],
     "name:nld_x_preferred":[
         "Sokcho"
@@ -223,7 +208,7 @@
         }
     ],
     "wof:id":102026335,
-    "wof:lastmodified":1527637811,
+    "wof:lastmodified":1561826697,
     "wof:name":"Sogcho",
     "wof:parent_id":890476055,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000638,
-    "geom:area_square_m":6244990.259914,
+    "geom:area_square_m":6244990.259912,
     "geom:bbox":"128.61102805,37.1469243258,128.996247369,38.1306056539",
     "geom:latitude":37.641844,
     "geom:longitude":128.802555,
@@ -31,20 +31,14 @@
     "name:ces_x_preferred":[
         "Tchebek"
     ],
-    "name:chi_x_preferred":[
-        "\u592a\u767d\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Tchebek"
-    ],
     "name:dan_x_preferred":[
         "Taebaek"
     ],
     "name:deu_x_preferred":[
         "Taebaek"
     ],
-    "name:dut_x_preferred":[
-        "Taebaek"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bc\u03c0\u03ad\u03ba"
     ],
     "name:eng_x_preferred":[
         "Taebaek"
@@ -52,20 +46,14 @@
     "name:est_x_preferred":[
         "Taebaek"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0628\u0627\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Taebaek"
     ],
     "name:fra_x_preferred":[
         "Taebaek"
-    ],
-    "name:fre_x_preferred":[
-        "Taebaek"
-    ],
-    "name:ger_x_preferred":[
-        "Taebaek"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bc\u03c0\u03ad\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac8\u0aac\u0ac0\u0a95"
@@ -110,11 +98,11 @@
     "name:mar_x_preferred":[
         "\u0924\u092f\u0947\u092c\u093e\u0907\u0915"
     ],
-    "name:may_x_preferred":[
-        "Taebaek"
-    ],
     "name:mon_x_preferred":[
         "\u0422\u044d\u0431\u044d\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Taebaek"
     ],
     "name:nan_x_preferred":[
         "Taebaek Chh\u012b"
@@ -131,9 +119,6 @@
     "name:oci_x_preferred":[
         "Taebaek"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0628\u0627\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Taebaek"
     ],
@@ -143,9 +128,6 @@
     "name:ron_x_preferred":[
         "Taebaek"
     ],
-    "name:rum_x_preferred":[
-        "Taebaek"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0445\u044d\u0431\u044d\u043a"
     ],
@@ -153,9 +135,6 @@
         "\u0da7\u0dba\u0dd2\u0db6\u0dba\u0dd2\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Tch\u00e4b\u00e4k"
-    ],
-    "name:slo_x_preferred":[
         "Tch\u00e4b\u00e4k"
     ],
     "name:spa_x_preferred":[
@@ -240,7 +219,7 @@
         }
     ],
     "wof:id":102026319,
-    "wof:lastmodified":1527637815,
+    "wof:lastmodified":1561826699,
     "wof:name":"T\u2019aebaek",
     "wof:parent_id":890475963,
     "wof:placetype":"locality",
