@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2347921.338512,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.158508,37.411617,127.158508,37.411617",
     "geom:latitude":37.411617,
     "geom:longitude":127.158508,
@@ -25,9 +25,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:chi_x_preferred":[
-        "\u845b\u5cf4\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Galhyeon-dong"
     ],
@@ -40,7 +37,7 @@
         "\uc5ec\uc218\ub3d9",
         "\ud558\ub300\uc6d0"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Galhyeon-dong"
     ],
     "name:unk_x_variant":[
@@ -50,6 +47,9 @@
     "name:vie_x_preferred":[
         "Galhyeon-dong"
     ],
+    "name:zho_x_preferred":[
+        "\u845b\u5cf4\u6d1e"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -57,10 +57,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746521,
-        85673191
+        1108746521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +86,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938758,
+    "wof:lastmodified":1561826747,
     "wof:name":"\ud558\ub300\uc6d0\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

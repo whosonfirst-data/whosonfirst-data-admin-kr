@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00472,
-    "geom:area_square_m":46427286.730525,
+    "geom:area_square_m":46427286.7305,
     "geom:bbox":"127.06237793,37.2519287473,127.172530652,37.3486005776",
     "geom:latitude":37.304645,
     "geom:longitude":127.114849,
@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0646\u063a\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0545\u0578\u0576\u056b\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u0982\u0987\u09a8"
     ],
@@ -31,19 +28,10 @@
     "name:ces_x_preferred":[
         "Jongin"
     ],
-    "name:chi_x_preferred":[
-        "\u9f99\u4ec1\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Jongin"
-    ],
     "name:dan_x_preferred":[
         "Yongin"
     ],
     "name:deu_x_preferred":[
-        "Yongin"
-    ],
-    "name:dut_x_preferred":[
         "Yongin"
     ],
     "name:ell_x_preferred":[
@@ -64,18 +52,6 @@
     "name:fra_x_preferred":[
         "Yongin"
     ],
-    "name:fre_x_preferred":[
-        "Yongin"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dd\u10dc\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Yongin"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03cc\u03bd\u03b3\u03b9\u03bd"
-    ],
     "name:guj_x_preferred":[
         "\u0aaf\u0acb\u0a82\u0a97\u0abf\u0aa8"
     ],
@@ -90,6 +66,9 @@
     ],
     "name:hun_x_preferred":[
         "Jongin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0578\u0576\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Yongin"
@@ -118,9 +97,6 @@
     "name:mar_x_preferred":[
         "\u092f\u094b\u0902\u0917\u0940\u0928"
     ],
-    "name:may_x_preferred":[
-        "Yongin"
-    ],
     "name:mon_x_preferred":[
         "\u042e\u043d\u044a\u0438\u043d\u044c"
     ],
@@ -139,9 +115,6 @@
     "name:oci_x_preferred":[
         "Yongin"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0648\u0646\u06af\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Yongin"
     ],
@@ -157,7 +130,7 @@
     "name:sin_x_preferred":[
         "\u0dba\u0ddd\u0db1\u0dca\u0da2\u0dd2\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Jongin"
     ],
     "name:spa_x_preferred":[
@@ -198,6 +171,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9f8d\u4ec1\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u9f99\u4ec1\u5e02"
     ],
     "qs:a0":"\ud55c\uad6d",
     "qs:a1":"*\uacbd\uae30\ub3c4",
@@ -249,7 +225,7 @@
         }
     ],
     "wof:id":102026263,
-    "wof:lastmodified":1527637814,
+    "wof:lastmodified":1561826698,
     "wof:name":"Yongin",
     "wof:parent_id":1108746545,
     "wof:placetype":"locality",

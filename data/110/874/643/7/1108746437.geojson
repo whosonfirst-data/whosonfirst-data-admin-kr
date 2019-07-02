@@ -38,10 +38,7 @@
     "mps:longitude":127.520754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6e05\u539f\u90e1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cheongwon"
     ],
     "name:eng_x_preferred":[
@@ -52,11 +49,11 @@
         "Cheongjusisangdanggu",
         "Sangdang"
     ],
-    "name:fre_x_preferred":[
-        "District de Cheongwon"
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u0626\u0648\u0646\u06af\u0648\u0648\u0646"
     ],
-    "name:ger_x_preferred":[
-        "Cheongwon"
+    "name:fra_x_preferred":[
+        "District de Cheongwon"
     ],
     "name:hak_x_preferred":[
         "Chh\u00een-ngi\u00e8n-khi\u00f9n"
@@ -79,11 +76,11 @@
     "name:mon_x_preferred":[
         "\u0427\u043e\u043d\u0432\u043e\u043d\u044c-\u0433\u04af\u043d\u044c"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Cheongwon"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u0626\u0648\u0646\u06af\u0648\u0648\u0646"
+    "name:nob_x_preferred":[
+        "Cheongwon"
     ],
     "name:pol_x_preferred":[
         "Cheongwon"
@@ -102,6 +99,9 @@
     ],
     "name:vie_x_preferred":[
         "Cheongwon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e05\u539f\u90e1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108746437,
-    "wof:lastmodified":1555047482,
+    "wof:lastmodified":1561826854,
     "wof:name":"Sangdang",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001378,
-    "geom:area_square_m":13789342.20806,
+    "geom:area_square_m":13789342.208052,
     "geom:bbox":"126.941430125,35.9378721826,127.029513964,35.9825708321",
     "geom:latitude":35.956756,
     "geom:longitude":126.982334,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0643\u0633\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u056f\u057d\u0561\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u0995\u09b8\u09be\u09a8"
     ],
@@ -35,20 +32,14 @@
     "name:ces_x_preferred":[
         "Iksan"
     ],
-    "name:chi_x_preferred":[
-        "\u76ca\u5c71\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Iksan"
-    ],
     "name:dan_x_preferred":[
         "Iksan"
     ],
     "name:deu_x_preferred":[
         "Iksan"
     ],
-    "name:dut_x_preferred":[
-        "Iksan"
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Iksan"
@@ -65,18 +56,6 @@
     "name:fra_x_preferred":[
         "Iksan"
     ],
-    "name:fre_x_preferred":[
-        "Iksan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e5\u10e1\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Iksan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03ba\u03c3\u03ac\u03bd"
-    ],
     "name:guj_x_preferred":[
         "\u0a87\u0a95\u0acd\u0ab8\u0abe\u0aa8"
     ],
@@ -85,6 +64,9 @@
     ],
     "name:hun_x_preferred":[
         "Ikszan"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u056f\u057d\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Iksan"
@@ -119,11 +101,11 @@
     "name:mar_x_preferred":[
         "\u0907\u0915\u094d\u0938\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Iksan"
-    ],
     "name:mon_x_preferred":[
         "\u0418\u043a\u0441\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Iksan"
     ],
     "name:nan_x_preferred":[
         "Iksan Chh\u012b"
@@ -139,9 +121,6 @@
     ],
     "name:oci_x_preferred":[
         "Iksan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u06a9\u0633\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Iksan"
@@ -334,7 +313,7 @@
         }
     ],
     "wof:id":102026443,
-    "wof:lastmodified":1527637812,
+    "wof:lastmodified":1561826697,
     "wof:name":"Iksan",
     "wof:parent_id":890476057,
     "wof:placetype":"locality",

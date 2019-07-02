@@ -41,12 +41,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0622\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u5b89\u90e1"
-    ],
-    "name:dut_x_preferred":[
-        "Taean County"
-    ],
     "name:eng_x_preferred":[
         "Taean"
     ],
@@ -55,7 +49,10 @@
         "Taean-gun",
         "Taean"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "District de Taean"
     ],
     "name:hak_x_preferred":[
@@ -76,16 +73,16 @@
     "name:mon_x_preferred":[
         "\u0422\u044d\u0430\u043d\u044c-\u0433\u04af\u043d\u044c"
     ],
+    "name:nld_x_preferred":[
+        "Taean County"
+    ],
     "name:nob_x_preferred":[
         "Taean"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u0627\u0646"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0445\u044d\u0430\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tch\u00e4an"
     ],
     "name:spa_x_preferred":[
@@ -99,6 +96,9 @@
     ],
     "name:vie_x_preferred":[
         "Taean"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u5b89\u90e1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1108746537,
-    "wof:lastmodified":1555047483,
+    "wof:lastmodified":1561826856,
     "wof:name":"Taean",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

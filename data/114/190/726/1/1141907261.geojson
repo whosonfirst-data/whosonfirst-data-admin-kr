@@ -23,17 +23,17 @@
     "name:cat_x_preferred":[
         "Sokcho"
     ],
-    "name:chi_x_preferred":[
-        "\u675f\u8349\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sok\u010dcho"
     ],
     "name:dan_x_preferred":[
         "Sokcho"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sokcho"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03ba\u03c4\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Sokcho"
@@ -44,14 +44,8 @@
     "name:fin_x_preferred":[
         "Sokcho"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sokcho"
-    ],
-    "name:ger_x_preferred":[
-        "Sokcho"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03ba\u03c4\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0a95\u0acb"
@@ -92,11 +86,14 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0915\u094b"
     ],
-    "name:may_x_preferred":[
-        "Sokcho"
-    ],
     "name:mon_x_preferred":[
         "\u0421\u0443\u043a\u0447\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Sokcho"
+    ],
+    "name:nld_x_preferred":[
+        "Sokcho"
     ],
     "name:nob_x_preferred":[
         "Sokcho"
@@ -145,6 +142,9 @@
     ],
     "name:war_x_preferred":[
         "Sokcho"
+    ],
+    "name:zho_x_preferred":[
+        "\u675f\u8349\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Korea",
@@ -265,7 +265,7 @@
         }
     ],
     "wof:id":1141907261,
-    "wof:lastmodified":1514469303,
+    "wof:lastmodified":1561826991,
     "wof:name":"Sokcho",
     "wof:parent_id":890476055,
     "wof:placetype":"locality",

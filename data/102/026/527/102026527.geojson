@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002196,
-    "geom:area_square_m":21443139.479306,
+    "geom:area_square_m":21443139.479317,
     "geom:bbox":"127.138919267,37.7573637549,127.337428234,37.9662012183",
     "geom:latitude":37.828559,
     "geom:longitude":127.230147,
@@ -27,17 +27,14 @@
     "name:cat_x_preferred":[
         "Pocheon"
     ],
-    "name:chi_x_preferred":[
-        "\u62b1\u5ddd\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pcho\u010dchon"
     ],
     "name:dan_x_preferred":[
         "Pocheon"
     ],
-    "name:dut_x_preferred":[
-        "Pocheon"
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03c4\u03c3\u03b5\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Pocheon-si"
@@ -45,14 +42,14 @@
     "name:eng_x_variant":[
         "Pocheon"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0686\u0626\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Pocheon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pocheon"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03c4\u03c3\u03b5\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0a9a\u0abf\u0a93\u0aa8"
@@ -90,23 +87,23 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u091a\u0947\u0911\u0928"
     ],
-    "name:may_x_preferred":[
-        "Pocheon"
-    ],
     "name:mon_x_preferred":[
         "\u041f\u0443\u0447\u043e\u043d\u044c"
     ],
+    "name:msa_x_preferred":[
+        "Pocheon"
+    ],
     "name:nan_x_preferred":[
         "Pocheon Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Pocheon"
     ],
     "name:nob_x_preferred":[
         "Pocheon"
     ],
     "name:oci_x_preferred":[
         "Pocheon"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0686\u0626\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Pocheon"
@@ -153,6 +150,9 @@
     "name:war_x_preferred":[
         "Pocheon"
     ],
+    "name:zho_x_preferred":[
+        "\u62b1\u5ddd\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"South Korea",
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":102026527,
-    "wof:lastmodified":1514469277,
+    "wof:lastmodified":1561826696,
     "wof:name":"P\u2019och\u2019\u014fn",
     "wof:parent_id":890476053,
     "wof:placetype":"locality",

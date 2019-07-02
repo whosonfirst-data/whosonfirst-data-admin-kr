@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":3123170.981456,
+    "geom:area_square_m":3123170.98146,
     "geom:bbox":"128.512387854,36.5315212148,128.53473131,36.5495508449",
     "geom:latitude":36.540536,
     "geom:longitude":128.52356,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0622\u0646\u062f\u0648\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u0564\u0578\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09a1\u0982"
     ],
@@ -35,20 +32,14 @@
     "name:ces_x_preferred":[
         "Andong"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u4e1c\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Andong"
-    ],
     "name:dan_x_preferred":[
         "Andong"
     ],
     "name:deu_x_preferred":[
         "Andong"
     ],
-    "name:dut_x_preferred":[
-        "Andong"
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c4\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Andong"
@@ -65,18 +56,6 @@
     "name:fra_x_preferred":[
         "Andong"
     ],
-    "name:fre_x_preferred":[
-        "Andong"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d3\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Andong"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bd\u03c4\u03bf\u03bd\u03b3\u03ba"
-    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0aa1\u0acb\u0a82\u0a97"
     ],
@@ -88,6 +67,9 @@
     ],
     "name:hun_x_preferred":[
         "Andong"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0564\u0578\u0576"
     ],
     "name:ind_x_preferred":[
         "Andong"
@@ -125,9 +107,6 @@
     "name:mar_x_preferred":[
         "\u0905\u0928\u0921\u093e\u0901\u0917"
     ],
-    "name:may_x_preferred":[
-        "Andong"
-    ],
     "name:mon_x_preferred":[
         "\u0410\u043d\u044c\u0434\u0443\u043d"
     ],
@@ -149,9 +128,6 @@
     "name:oci_x_preferred":[
         "Andong"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0646\u062f\u0648\u0646\u06af"
-    ],
     "name:pol_x_preferred":[
         "Andong"
     ],
@@ -159,9 +135,6 @@
         "Andong"
     ],
     "name:ron_x_preferred":[
-        "Andong"
-    ],
-    "name:rum_x_preferred":[
         "Andong"
     ],
     "name:rus_x_preferred":[
@@ -361,7 +334,7 @@
         }
     ],
     "wof:id":102026507,
-    "wof:lastmodified":1553815721,
+    "wof:lastmodified":1561826697,
     "wof:name":"Andong",
     "wof:parent_id":890473215,
     "wof:placetype":"locality",

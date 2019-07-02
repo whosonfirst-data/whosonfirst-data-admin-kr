@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000408,
-    "geom:area_square_m":4109494.704317,
+    "geom:area_square_m":4109494.704319,
     "geom:bbox":"129.037148402,35.3598784491,129.064658234,35.3779122254",
     "geom:latitude":35.368895,
     "geom:longitude":129.050903,
@@ -21,44 +21,41 @@
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u062c\u0633\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0545\u0561\u0576\u0563\u057d\u0561\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u0982\u09b8\u09be\u09a8"
     ],
     "name:cat_x_preferred":[
         "Yangsan"
     ],
-    "name:chi_x_preferred":[
-        "\u6881\u5c71\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jangsan"
     ],
     "name:dan_x_preferred":[
         "Yangsan"
     ],
-    "name:dut_x_preferred":[
-        "Yangsan"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03bd\u03b3\u03ba\u03c3\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Yangsan"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u06af\u200c\u0633\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Yangsan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yangsan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03ac\u03bd\u03b3\u03ba\u03c3\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0a82\u0a97\u0ab8\u0aa8"
     ],
     "name:hin_x_preferred":[
         "\u092f\u093e\u0902\u0917\u0938\u093e\u0902"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0576\u0563\u057d\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Yangsan"
@@ -87,20 +84,20 @@
     "name:mar_x_preferred":[
         "\u092f\u093e\u0902\u0917\u094d\u0938\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yangsan"
     ],
     "name:nan_x_preferred":[
         "Yangsan Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Yangsan"
     ],
     "name:nob_x_preferred":[
         "Yangsan"
     ],
     "name:oci_x_preferred":[
         "Yangsan"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u06af\u200c\u0633\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Yangsan"
@@ -114,7 +111,7 @@
     "name:sin_x_preferred":[
         "\u0dba\u0dd0\u0db1\u0dca\u0d9c\u0dca\u0dc3\u0dcf\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Jangsan"
     ],
     "name:spa_x_preferred":[
@@ -152,6 +149,9 @@
     ],
     "name:war_x_preferred":[
         "Yangsan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6881\u5c71\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":102026587,
-    "wof:lastmodified":1527637810,
+    "wof:lastmodified":1561826697,
     "wof:name":"Yangsan",
     "wof:parent_id":890474597,
     "wof:placetype":"locality",

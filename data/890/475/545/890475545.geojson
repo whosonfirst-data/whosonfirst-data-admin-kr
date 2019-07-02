@@ -45,12 +45,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0643\u062a\u0634\u0648\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u6c83\u5ddd\u90e1"
-    ],
-    "name:dut_x_preferred":[
-        "Okcheon"
-    ],
     "name:eng_x_preferred":[
         "Okcheon"
     ],
@@ -59,7 +53,10 @@
         "Okcheon County",
         "Okcheon"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0648\u06a9\u0686\u0626\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
         "District de Okcheon"
     ],
     "name:hak_x_preferred":[
@@ -85,11 +82,11 @@
     "name:mon_x_preferred":[
         "\u0423\u0433\u0447\u043e\u043d\u044c-\u0433\u04af\u043d\u044c"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Okcheon"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0648\u06a9\u0686\u0626\u0648\u0646"
+    "name:nob_x_preferred":[
+        "Okcheon"
     ],
     "name:pol_x_preferred":[
         "Okcheon"
@@ -111,6 +108,9 @@
     ],
     "name:vie_x_preferred":[
         "Okcheon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u5ddd\u90e1"
     ],
     "qs:name":"\uc625\ucc9c\uad70",
     "qs:name_adm0":"\ud55c\uad6d",
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":890475545,
-    "wof:lastmodified":1555047480,
+    "wof:lastmodified":1561826902,
     "wof:name":"Okcheon",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

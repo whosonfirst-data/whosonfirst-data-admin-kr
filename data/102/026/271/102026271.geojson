@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001807,
-    "geom:area_square_m":17787235.778555,
+    "geom:area_square_m":17787235.77856,
     "geom:bbox":"127.589435088,37.2344367558,127.688888264,37.3049168607",
     "geom:latitude":37.261824,
     "geom:longitude":127.639471,
@@ -25,17 +25,17 @@
     "name:ben_x_preferred":[
         "\u0987\u0993\u099c\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6a\u5dde\u90e1"
-    ],
     "name:dan_x_preferred":[
         "Yeoju"
     ],
-    "name:dut_x_preferred":[
-        "Yeoju"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ad\u03bf\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Yeoju"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0626\u0648\u062c\u0648"
     ],
     "name:fin_x_preferred":[
         "Yeoju"
@@ -43,14 +43,8 @@
     "name:fra_x_preferred":[
         "Yeoju"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Yeoju"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dd\u10ef\u10e3"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03ad\u03bf\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ac7\u0a93\u0a9c\u0ac1"
@@ -94,11 +88,11 @@
     "name:mar_x_preferred":[
         "\u092f\u0947\u0913\u091c\u0941"
     ],
-    "name:may_x_preferred":[
-        "Yeoju"
-    ],
     "name:mon_x_preferred":[
         "\u0401\u0436\u04af"
+    ],
+    "name:msa_x_preferred":[
+        "Yeoju"
     ],
     "name:nan_x_preferred":[
         "Yeoju Chh\u012b"
@@ -111,9 +105,6 @@
     ],
     "name:nor_x_preferred":[
         "Yeoju"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0626\u0648\u062c\u0648"
     ],
     "name:pol_x_preferred":[
         "Yeoju"
@@ -130,7 +121,7 @@
     "name:sin_x_preferred":[
         "\u0dba\u0ddd\u0da2\u0dd4"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Jod\u017eu"
     ],
     "name:spa_x_preferred":[
@@ -165,6 +156,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9a6a\u5dde\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6a\u5dde\u90e1"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -212,7 +206,7 @@
         }
     ],
     "wof:id":102026271,
-    "wof:lastmodified":1527637812,
+    "wof:lastmodified":1561826698,
     "wof:name":"Yeoju",
     "wof:parent_id":1108746541,
     "wof:placetype":"locality",
