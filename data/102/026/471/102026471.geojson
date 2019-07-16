@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008585,
-    "geom:area_square_m":86069408.681274,
+    "geom:area_square_m":86069408.681302,
     "geom:bbox":"127.062299993,35.7687027997,127.194296304,35.8847090932",
     "geom:latitude":35.828678,
     "geom:longitude":127.128257,
@@ -23,17 +23,35 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0646\u062c\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u043d\u0434\u0436\u0443"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u0993\u09a8\u099c\u09c1"
+    ],
+    "name:bos_x_preferred":[
+        "Jeonju"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u043e\u043d\u0434\u0436\u0443"
     ],
     "name:cat_x_preferred":[
         "Jeonju"
     ],
+    "name:ceb_x_preferred":[
+        "Jeonju"
+    ],
     "name:ces_x_preferred":[
         "\u010cond\u017eu"
     ],
+    "name:dan_x_preferred":[
+        "Jeonju"
+    ],
     "name:deu_x_preferred":[
         "Jeonju"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03bd\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Jeonju-Si"
@@ -57,6 +75,24 @@
     "name:frr_x_preferred":[
         "Jeonju"
     ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0acb\u0aa8\u0acd\u0a9c\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d0\u05d5\u05e0\u05d2'\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0947\u0913\u0928\u091c\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Csondzsu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0574\u057b\u0578\u0582"
+    ],
+    "name:ile_x_preferred":[
+        "Jeonju"
+    ],
     "name:ind_x_preferred":[
         "Jeonju"
     ],
@@ -69,11 +105,17 @@
     "name:jpn_x_variant":[
         "\u30c1\u30e7\u30f3\u30b8\u30e5\u3057"
     ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cc0\u0ca8\u0ccd\u0c9c\u0cc1"
+    ],
     "name:kor_x_preferred":[
         "\uc804\uc8fc\uc2dc"
     ],
     "name:kor_x_variant":[
         "\uc804\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cond\u017eu"
     ],
     "name:lit_x_preferred":[
         "D\u017eond\u017eu"
@@ -81,8 +123,14 @@
     "name:lmo_x_preferred":[
         "Jeonju"
     ],
+    "name:ltz_x_preferred":[
+        "Jeonju"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u0949\u0928\u094d\u091c\u0942"
+    ],
+    "name:mar_x_variant":[
+        "\u091c\u0949\u0928\u094d\u091c\u0941"
     ],
     "name:mon_x_preferred":[
         "\u0427\u043e\u043d\u044c\u0436\u04af"
@@ -90,10 +138,19 @@
     "name:msa_x_preferred":[
         "Jeonju"
     ],
+    "name:nan_x_preferred":[
+        "Jeonju Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Jeonju"
     ],
+    "name:nob_x_preferred":[
+        "Jeonju"
+    ],
     "name:nor_x_preferred":[
+        "Jeonju"
+    ],
+    "name:oci_x_preferred":[
         "Jeonju"
     ],
     "name:pol_x_preferred":[
@@ -111,14 +168,32 @@
     "name:sco_x_preferred":[
         "Jeonju"
     ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd2\u0dba\u0ddd\u0db1\u0dca\u0da2\u0dd4"
+    ],
     "name:spa_x_preferred":[
         "Jeonju"
     ],
     "name:swe_x_preferred":[
         "Jeonju"
     ],
+    "name:szl_x_preferred":[
+        "Jeonju"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbf\u0baf\u0bbe\u0b9e\u0bcd\u0b9a\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u043e\u04a3\u0497\u0443"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c47\u0c2f\u0c4b\u0c28\u0c4d\u0c1c\u0c41"
+    ],
     "name:tgl_x_preferred":[
         "Jeonju"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e2d\u0e19\u0e08\u0e39"
     ],
     "name:tur_x_preferred":[
         "Jeonju"
@@ -131,6 +206,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0626\u0648\u0646\u062c\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u06cc\u0648\u0646 \u062c\u0648"
     ],
     "name:uzb_x_preferred":[
         "Chonju"
@@ -296,7 +374,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527637806,
+    "wof:lastmodified":1563290031,
     "wof:name":"Jeonju",
     "wof:parent_id":1108746469,
     "wof:placetype":"locality",

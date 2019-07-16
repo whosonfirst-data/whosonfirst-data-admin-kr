@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00093,
-    "geom:area_square_m":9305298.74557,
+    "geom:area_square_m":9305298.745563,
     "geom:bbox":"128.391616416,35.9734357285,128.424791131,36.0092449002",
     "geom:latitude":35.98987,
     "geom:longitude":128.408886,
@@ -19,20 +19,44 @@
     "mps:longitude":128.405253,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Waegwan-\u016dp"
+    ],
     "name:deu_x_preferred":[
         "Waegwan"
     ],
     "name:eng_x_preferred":[
         "Chilgok"
     ],
+    "name:eng_x_variant":[
+        "Waegwan"
+    ],
+    "name:fra_x_preferred":[
+        "Waegwan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d0\u05d2\u05d5\u05d5\u05d0\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u502d\u9928\u9091"
+    ],
     "name:kor_x_preferred":[
         "\uc65c\uad00\uc74d"
+    ],
+    "name:nld_x_preferred":[
+        "Waegwan"
     ],
     "name:rus_x_preferred":[
         "\u0412\u044d\u0433\u0432\u0430\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Waegwan-\u016dp"
+    ],
     "name:unk_x_variant":[
         "Oegwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u502d\u9928\u9091"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -78,7 +102,7 @@
         }
     ],
     "wof:id":102026289,
-    "wof:lastmodified":1527637807,
+    "wof:lastmodified":1563290034,
     "wof:name":"Waegwan",
     "wof:parent_id":890475279,
     "wof:placetype":"locality",

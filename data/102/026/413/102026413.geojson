@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000308,
-    "geom:area_square_m":3124112.953471,
+    "geom:area_square_m":3124112.953472,
     "geom:bbox":"128.292883718,34.9264649931,128.314782331,34.9444987331",
     "geom:latitude":34.935482,
     "geom:longitude":128.303833,
@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0648\u0633\u0648\u0646\u063a"
     ],
+    "name:ceb_x_preferred":[
+        "Goseong"
+    ],
+    "name:eng_x_preferred":[
+        "Goseong County"
+    ],
     "name:fra_x_preferred":[
         "District de Goseong"
     ],
@@ -37,6 +43,15 @@
     "name:mon_x_preferred":[
         "\u041a\u0451\u043d\u0441\u0430\u043d\u0433\u0438\u0439\u043d \u041a\u0443\u0441\u043e\u043d-\u0433\u04af\u043d\u044c"
     ],
+    "name:nan_x_preferred":[
+        "Goseong K\u016bn"
+    ],
+    "name:nld_x_preferred":[
+        "Goseong"
+    ],
+    "name:nob_x_preferred":[
+        "Goseong"
+    ],
     "name:nor_x_preferred":[
         "Goseong"
     ],
@@ -46,6 +61,9 @@
     "name:spa_x_preferred":[
         "Goseong-gun"
     ],
+    "name:spa_x_variant":[
+        "Goseong"
+    ],
     "name:swe_x_preferred":[
         "Goseong"
     ],
@@ -54,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0633\u0626\u0648\u0646\u06af \u06a9\u0627\u0624\u0646\u0679\u06cc\u060c \u062c\u0646\u0648\u0628\u06cc \u06af\u06cc\u0626\u0648\u0646\u06af\u0633\u0627\u0646\u06af"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u0648\u0633\u0626\u0648\u0646\u06af \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
     "name:vie_x_preferred":[
         "Goseong"
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":102026413,
-    "wof:lastmodified":1527637807,
+    "wof:lastmodified":1563290034,
     "wof:name":"Goseong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

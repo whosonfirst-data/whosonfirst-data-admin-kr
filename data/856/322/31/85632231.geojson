@@ -66,6 +66,9 @@
     "name:azb_x_preferred":[
         "\u06af\u0648\u0646\u0626\u06cc \u06a9\u0648\u0631\u0647"
     ],
+    "name:azb_x_variant":[
+        "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u0647"
+    ],
     "name:aze_x_preferred":[
         "C\u0259nubi Koreya"
     ],
@@ -97,6 +100,9 @@
     "name:ben_x_variant":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u0995\u09cb\u09b0\u09bf\u09df\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0926\u0915\u094d\u0916\u093f\u0928 \u0915\u094b\u0930\u093f\u092f\u093e"
+    ],
     "name:bis_x_preferred":[
         "Saot Koria"
     ],
@@ -119,6 +125,9 @@
     "name:bre_x_variant":[
         "Korea ar Su"
     ],
+    "name:brh_x_preferred":[
+        "Soel\u00ed Kor\u00ed\u00e1"
+    ],
     "name:bug_x_preferred":[
         "Korea Selatan"
     ],
@@ -131,11 +140,17 @@
     "name:bxr_x_preferred":[
         "\u0423\u0440\u0434\u0430 \u0421\u043e\u043b\u043e\u043d\u0433\u043e\u0441"
     ],
+    "name:bxr_x_variant":[
+        "\u04e8\u043c\u043d\u04e9\u0434 \u0421\u043e\u043b\u043e\u043d\u0433\u043e\u0441"
+    ],
     "name:cat_x_preferred":[
         "Corea del Sud"
     ],
     "name:cdo_x_preferred":[
         "D\u00e2i-h\u00e0ng M\u00ecng-gu\u00f3k"
+    ],
+    "name:cdo_x_variant":[
+        "H\u00e0ng-gu\u00f3k"
     ],
     "name:ceb_x_preferred":[
         "Habagatang Korea"
@@ -146,11 +161,17 @@
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430 \u041a\u043e\u0440\u0435\u0439"
     ],
+    "name:che_x_variant":[
+        "\u041a\u044a\u0438\u043b\u0431\u0435\u0440\u0430 \u041a\u043e\u0440\u0435\u0439"
+    ],
     "name:chr_x_preferred":[
         "\u13e7\u13a6\u13be\u13ee \u13aa\u13b5\u13a0"
     ],
     "name:chr_x_variant":[
         "\u13a4\u13a6\u13be\u13ed \u13a2\u13d7\u13b5 \u13aa\u13b4\u13a0"
+    ],
+    "name:chu_x_preferred":[
+        "\u041a\u043e\u0440\u0454\ua657 \u0414\u0438\u043c\u043e\u043a\u0440\u0430\u0442\u0457\ua657"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u06c6\u0631\u06cc\u0627\u06cc \u0628\u0627\u0634\u0648\u0648\u0631"
@@ -189,11 +210,17 @@
     "name:diq_x_preferred":[
         "Koryay Veroci"
     ],
+    "name:diq_x_variant":[
+        "Korya Veroci"
+    ],
     "name:div_x_preferred":[
         "\u078b\u07ac\u0786\u07aa\u0782\u07aa \u0786\u07ae\u0783\u07ac\u0787\u07a7"
     ],
     "name:dsb_x_preferred":[
         "P\u00f3dpo\u0142dnjowa Koreja"
+    ],
+    "name:dty_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u094b\u0930\u093f\u092f\u093e"
     ],
     "name:dzo_x_preferred":[
         "\u0f63\u0fb7\u0f7c\u0f0b\u0f40\u0f7c\u0f0b\u0f62\u0f72\u0f0b\u0f61\u0f0b"
@@ -252,6 +279,9 @@
     "name:ext_x_preferred":[
         "Corea del Sul"
     ],
+    "name:ext_x_variant":[
+        "Corea el Sul"
+    ],
     "name:fao_x_preferred":[
         "Su\u00f0urkorea"
     ],
@@ -294,6 +324,9 @@
     "name:fry_x_preferred":[
         "S\u00fad-Kore\u00e4"
     ],
+    "name:fry_x_variant":[
+        "S\u00fad-Korea"
+    ],
     "name:ful_x_preferred":[
         "Koree Worgo"
     ],
@@ -321,11 +354,17 @@
     "name:grn_x_preferred":[
         "Yvykorea"
     ],
+    "name:gsw_x_preferred":[
+        "S\u00fcdkorea"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0a95\u0acb\u0ab0\u0abf\u0aaf\u0abe"
     ],
     "name:hak_x_preferred":[
         "Thai-h\u00f2n M\u00ecn-koet"
+    ],
+    "name:hak_x_variant":[
+        "Thai-h\u00f4n M\u00ecn-koet"
     ],
     "name:hat_x_preferred":[
         "Kore disid"
@@ -335,6 +374,9 @@
     ],
     "name:hau_x_variant":[
         "Koreya Ta Kudu"
+    ],
+    "name:haw_x_preferred":[
+        "K\u014dlea Hema"
     ],
     "name:hbs_x_preferred":[
         "Ju\u017ena Koreja"
@@ -386,6 +428,12 @@
     ],
     "name:ind_x_preferred":[
         "Korea Selatan"
+    ],
+    "name:inh_x_preferred":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0438\u043b\u043b\u043e\u0439\u0447\u0435"
+    ],
+    "name:ipk_x_preferred":[
+        "Natiq Korea"
     ],
     "name:isl_x_preferred":[
         "Su\u00f0ur-K\u00f3rea"
@@ -444,6 +492,9 @@
     "name:kbd_x_preferred":[
         "\u041a\u04c0\u044d\u0440\u0435\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d"
     ],
+    "name:kbp_x_preferred":[
+        "Kooree Had\u025b Ki\u014b"
+    ],
     "name:khm_x_preferred":[
         "\u1780\u17bc\u179a\u17c9\u17c1\u1781\u17b6\u1784\u178f\u17d2\u1794\u17bc\u1784"
     ],
@@ -464,6 +515,9 @@
     "name:kir_x_preferred":[
         "\u0422\u04af\u0448\u0442\u04af\u043a \u041a\u043e\u0440\u0435\u044f"
     ],
+    "name:kir_x_variant":[
+        "\u041a\u043e\u0440\u0435\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
+    ],
     "name:kom_x_preferred":[
         "\u041a\u043e\u0440\u0435\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
@@ -476,7 +530,6 @@
     ],
     "name:kor_x_variant":[
         "\u5927\u97d3\u6c11\u56fd",
-        "\ub300\ud55c\ubbfc\uad6d",
         "Taehan-min\u2019guk",
         "\ub0a8\ud55c",
         "\ub0a8\uc870\uc120"
@@ -503,13 +556,17 @@
         "Res publica Coreana"
     ],
     "name:lat_x_variant":[
-        "Respublica Coreae"
+        "Respublica Coreae",
+        "Respublica Coreana"
     ],
     "name:lav_x_preferred":[
         "Dienvidkoreja"
     ],
     "name:lez_x_preferred":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f"
+    ],
+    "name:lfn_x_preferred":[
+        "Tehan"
     ],
     "name:lij_x_preferred":[
         "Corea do Sud"
@@ -521,7 +578,8 @@
         "Kor\u00e9 ya S\u00fadi"
     ],
     "name:lin_x_variant":[
-        "Kor\u025b ya s\u00fadi"
+        "Kor\u025b ya s\u00fadi",
+        "Kore ya Sidi"
     ],
     "name:lit_x_preferred":[
         "Piet\u0173 Kor\u0117ja"
@@ -532,14 +590,26 @@
     "name:lrc_x_preferred":[
         "\u06a9\u0648\u0631\u06d5 \u06be\u0627\u0631\u06af\u06d5"
     ],
+    "name:lrc_x_variant":[
+        "\u06a9\u0631\u0647 \u0647\u0627\u0631\u06af\u0647"
+    ],
     "name:ltz_x_preferred":[
         "Republik Korea"
+    ],
+    "name:ltz_x_variant":[
+        "S\u00fcdkorea"
     ],
     "name:lub_x_preferred":[
         "Kore wa mwinshi"
     ],
     "name:lug_x_preferred":[
         "Koreya ey'omumaserengeta"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5927\u97d3\u6c11\u570b"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u094b\u0930\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d26\u0d15\u0d4d\u0d37\u0d3f\u0d23 \u0d15\u0d4a\u0d31\u0d3f\u0d2f"
@@ -574,6 +644,9 @@
     "name:mon_x_preferred":[
         "\u04e8\u043c\u043d\u04e9 \u0421\u043e\u043b\u043e\u043d\u0433\u043e\u0441"
     ],
+    "name:mon_x_variant":[
+        "\u04e8\u043c\u043d\u04e9\u0434 \u0421\u043e\u043b\u043e\u043d\u0433\u043e\u0441"
+    ],
     "name:mri_x_preferred":[
         "K\u014drea-ki-te-tonga"
     ],
@@ -588,6 +661,15 @@
     ],
     "name:mya_x_variant":[
         "\u1010\u1031\u102c\u1004\u103a\u1000\u102d\u102f\u101b\u102e\u1038\u101a\u102c\u1038"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u0647"
+    ],
+    "name:nah_x_preferred":[
+        "Corea Huitztl\u0101mpa"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00e2n-kok"
     ],
     "name:nap_x_preferred":[
         "Corea d''o Sud"
@@ -649,6 +731,9 @@
     ],
     "name:oci_x_preferred":[
         "Cor\u00e8a del Sud"
+    ],
+    "name:olo_x_preferred":[
+        "Suvi Korea"
     ],
     "name:ori_x_preferred":[
         "\u0b26\u0b15\u0b4d\u0b37\u0b3f\u0b23 \u0b15\u0b4b\u0b30\u0b3f\u0b06"
@@ -738,14 +823,26 @@
     "name:sah_x_preferred":[
         "\u041a\u044d\u0440\u0438\u044d\u0439\u044d \u04e8\u0440\u04e9\u0441\u043f\u04af\u04af\u0431\u04af\u043b\u04af\u043a\u044d\u0442\u044d"
     ],
+    "name:sah_x_variant":[
+        "\u0421\u043e\u0495\u0443\u0440\u0443\u0443 \u041a\u044d\u0440\u0438\u044d\u0439\u044d"
+    ],
     "name:san_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923\u0915\u094b\u0930\u093f\u092f\u093e"
+    ],
+    "name:san_x_variant":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u094b\u0930\u093f\u092f\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5a\u1c67\u1c6e \u1c60\u1c73\u1c68\u1c64\u1c6d\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Corea d\u00fb Sud"
     ],
     "name:sco_x_preferred":[
         "Sooth Korea"
+    ],
+    "name:sgs_x_preferred":[
+        "P\u0117it\u016b Kuoriej\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0"
@@ -774,6 +871,9 @@
     ],
     "name:sna_x_variant":[
         "Korea, South"
+    ],
+    "name:snd_x_preferred":[
+        "\u068f\u06a9\u06bb \u06aa\u0648\u0631\u064a\u0627"
     ],
     "name:som_x_preferred":[
         "Koonfur Kuuriya"
@@ -831,11 +931,17 @@
     "name:tat_x_preferred":[
         "\u041a\u04e9\u043d\u044c\u044f\u043a \u041a\u043e\u0440\u0435\u044f"
     ],
+    "name:tat_x_variant":[
+        "\u041a\u04d9\u0440\u0438\u044f \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c15\u0c4a\u0c30\u0c3f\u0c2f\u0c3e"
     ],
     "name:tet_x_preferred":[
         "Koreia S\u00fal"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u041a\u043e\u0440\u0435\u044f"
     ],
     "name:tgl_x_preferred":[
         "Timog Korea"
@@ -848,6 +954,9 @@
     ],
     "name:tir_x_preferred":[
         "\u12f0\u1261\u1265 \u12ae\u122a\u12eb"
+    ],
+    "name:tir_x_variant":[
+        "\u12f0\u1261\u1265 \u12ae\u122d\u12eb"
     ],
     "name:ton_x_preferred":[
         "K\u014dlea Tonga"
@@ -935,6 +1044,9 @@
     "name:vol_x_preferred":[
         "Sul\u00fcda-Korey\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "L\u00f5un\u00f5-Korea"
+    ],
     "name:war_x_preferred":[
         "Salatan nga Korea"
     ],
@@ -958,6 +1070,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Ariwa K\u1ecdria"
+    ],
+    "name:yue_x_preferred":[
+        "\u5927\u97d3\u6c11\u570b"
     ],
     "name:zea_x_preferred":[
         "Zuud-Korea"
@@ -1130,7 +1245,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1561826749,
+    "wof:lastmodified":1563290918,
     "wof:name":"South Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

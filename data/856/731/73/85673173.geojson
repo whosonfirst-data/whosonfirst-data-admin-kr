@@ -29,8 +29,17 @@
     "name:ace_x_preferred":[
         "Chungcheongbuk"
     ],
+    "name:ace_x_variant":[
+        "Chungcheongbuk-do"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0634\u0646\u063a\u062a\u0634\u0648\u0646\u063a \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0445\u0443\u043d\u0447\u0445\u043e\u043d-\u041f\u0443\u043a\u0442\u043e"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09a4\u09cd\u09a4\u09b0 \u099a\u09c1\u0982\u099a\u09c7\u09af\u09bc\u0982"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0445\u0443\u043d\u0447\u0445\u044a\u043d-\u041f\u0443\u043a\u0442\u043e"
@@ -41,11 +50,17 @@
     "name:cdo_x_preferred":[
         "Chungcheong B\u00e1e\u0324k-d\u00f4\u0324"
     ],
+    "name:ceb_x_preferred":[
+        "Chungcheongbuk-do"
+    ],
     "name:ces_x_preferred":[
         "Severn\u00ed \u010cchung\u010dchong"
     ],
     "name:cym_x_preferred":[
         "Chungcheongbuk-do"
+    ],
+    "name:dan_x_preferred":[
+        "Norra Chungcheong"
     ],
     "name:deu_x_preferred":[
         "Chungcheongbuk-do"
@@ -63,10 +78,20 @@
         "Chungcheongbuk",
         "Chungcheongbukdo",
         "Chungcheongbuk-do",
-        "North Chungcheong"
+        "North Chungcheong",
+        "North Chungcheong Province"
+    ],
+    "name:epo_x_preferred":[
+        "Norda \u0108ung\u0109ongo"
     ],
     "name:est_x_preferred":[
         "P\u00f5hja-Chungcheongi provints"
+    ],
+    "name:est_x_variant":[
+        "P\u00f5hja-Ch'ungch'\u014fngi provints"
+    ],
+    "name:eus_x_preferred":[
+        "Ipar Chungcheong"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0648\u0646\u06af\u0686\u06cc\u0648\u0646\u0628\u0648\u06a9-\u062f\u0648"
@@ -74,11 +99,26 @@
     "name:fin_x_preferred":[
         "Pohjois-Chungcheong"
     ],
+    "name:fin_x_variant":[
+        "Pohjois-Chungcheon"
+    ],
     "name:fra_x_preferred":[
         "Chungcheong du Nord"
     ],
+    "name:frr_x_preferred":[
+        "Chungcheongbuk-do"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0a9a\u0ac1\u0a82\u0a97\u0a9a\u0ac7\u0a93\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
     "name:hak_x_preferred":[
         "Ch\u00fbng-chh\u00een Pet-tho"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05e4\u05d5\u05df \u05e6'\u05d5\u05e0\u05d2\u05e6'\u05d0\u05d5\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930 \u091a\u0941\u0902\u0917\u091a\u0947\u0913\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hun_x_preferred":[
         "\u00c9szak-Cshungcshong"
@@ -92,6 +132,9 @@
     "name:ita_x_preferred":[
         "Chungcheong Settentrionale"
     ],
+    "name:ita_x_variant":[
+        "Nord Chungcheong"
+    ],
     "name:jav_x_preferred":[
         "Chungcheong Utara"
     ],
@@ -99,8 +142,8 @@
         "\u30c1\u30e5\u30f3\u30c1\u30e7\u30f3\u30d6\u30af\u30c9",
         "\u5fe0\u6e05\u5317\u9053"
     ],
-    "name:jpn_x_variant":[
-        "\u5fe0\u6e05\u5317\u9053"
+    "name:kan_x_preferred":[
+        "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0c9a\u0cc1\u0c82\u0c97\u0ccd\u0c9a\u0cc6\u0c82\u0c97\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
     "name:kor_x_preferred":[
         "\ucda9\uccad\ubd81\ub3c4"
@@ -114,11 +157,17 @@
         "Ch\u2019ungch\u2019\u014fng-bukto",
         "Ch\u2019ungbuk"
     ],
+    "name:lav_x_preferred":[
+        "\u010chun\u010dhonpukto province"
+    ],
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s \u010cung\u010dongo provincija"
     ],
     "name:lmo_x_preferred":[
         "Chungcheongbuk-do"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5fe0\u6e05\u5317\u9053"
     ],
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u091a\u0941\u0902\u0917\u091a\u093e\u0901\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -129,8 +178,14 @@
     "name:msa_x_preferred":[
         "Chungcheong Utara"
     ],
+    "name:nan_x_preferred":[
+        "Chungcheong Pak-t\u014d"
+    ],
     "name:nld_x_preferred":[
         "Chungcheongbuk-do"
+    ],
+    "name:nob_x_preferred":[
+        "Nord-Chungcheong"
     ],
     "name:nor_x_preferred":[
         "Chungbuk",
@@ -142,6 +197,9 @@
     "name:pol_x_preferred":[
         "Chungcheong P\u00f3\u0142nocny"
     ],
+    "name:pol_x_variant":[
+        "Ch'ungch'\u014fng P\u00f3\u0142nocny"
+    ],
     "name:por_x_preferred":[
         "Chungcheong do Norte"
     ],
@@ -150,6 +208,15 @@
     ],
     "name:sco_x_preferred":[
         "North Chungcheong Province"
+    ],
+    "name:sco_x_variant":[
+        "Chungcheongbuk-do"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0da0\u0db1\u0dca\u0d9c\u0dca\u0da0\u0dd2\u0dba\u0ddc\u0db1\u0dca\u0d9c\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slk_x_preferred":[
+        "Severn\u00fd \u010cchung\u010dchong"
     ],
     "name:spa_x_preferred":[
         "Chungcheong del Norte"
@@ -161,6 +228,12 @@
         "Nordchungcheong",
         "Norra Chungcheong"
     ],
+    "name:tel_x_preferred":[
+        "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c1a\u0c02\u0c17\u0c4d\u200c\u0c1a\u0c3f\u0c2f\u0c3e\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0427\u0445\u0443\u043d\u0447\u0445\u043e\u043d-\u041f\u0443\u043a\u0442\u043e"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e38\u0e07\u0e0a\u0e47\u0e2d\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
     ],
@@ -169,6 +242,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0427\u0445\u0443\u043d\u0447\u0445\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0427\u0445\u0443\u043d\u0447\u0445\u043e\u043d"
     ],
     "name:unk_x_variant":[
         "Chungcheongbuk-do"
@@ -179,13 +255,13 @@
     "name:vie_x_preferred":[
         "Chungcheong B\u1eafc"
     ],
+    "name:yue_x_preferred":[
+        "\u5fe0\u6e05\u5317\u9053"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tiong-chheng-pak-t\u014d"
     ],
     "name:zho_x_preferred":[
-        "\u5fe0\u6e05\u5317\u9053"
-    ],
-    "name:zho_x_variant":[
         "\u5fe0\u6e05\u5317\u9053"
     ],
     "name:zho_yue_x_preferred":[
@@ -313,7 +389,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1553550395,
+    "wof:lastmodified":1563290906,
     "wof:name":"North Chungcheong",
     "wof:parent_id":85632231,
     "wof:placetype":"region",

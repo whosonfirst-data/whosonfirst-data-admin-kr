@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009049,
-    "geom:area_square_m":89575455.153954,
+    "geom:area_square_m":89575455.154103,
     "geom:bbox":"127.095116468,36.7606820178,127.197184383,36.8842362822",
     "geom:latitude":36.820812,
     "geom:longitude":127.144988,
@@ -22,11 +22,29 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0646\u0627\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c7\u0993\u09a8\u09be\u09a8"
+    ],
+    "name:bre_x_preferred":[
+        "Cheonan"
+    ],
+    "name:cat_x_preferred":[
+        "Cheonan"
+    ],
+    "name:ceb_x_preferred":[
+        "Cheonan"
+    ],
     "name:ces_x_preferred":[
         "\u010cchonan"
     ],
+    "name:dan_x_preferred":[
+        "Cheonan"
+    ],
     "name:deu_x_preferred":[
         "Cheonan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03bf\u03bd\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Cheonan-Si"
@@ -34,6 +52,9 @@
     "name:eng_x_variant":[
         "Cheonan",
         "Cheonansi"
+    ],
+    "name:epo_x_preferred":[
+        "\u0108onano"
     ],
     "name:est_x_preferred":[
         "Ch'\u014fnan"
@@ -47,11 +68,26 @@
     "name:fra_x_preferred":[
         "Cheonan"
     ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0ac7\u0a93\u0aa8\u0abe\u0aa8"
+    ],
     "name:hak_x_preferred":[
         "Thi\u00ean-\u00f4n-s\u1e73"
     ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0928\u093e\u0923"
+    ],
+    "name:ind_x_preferred":[
+        "Cheonan"
+    ],
+    "name:ita_x_preferred":[
+        "Cheonan"
+    ],
     "name:jpn_x_preferred":[
         "\u5929\u5b89\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cbf\u0caf\u0ccb\u0ca8\u0cbe\u0ca8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ucc9c\uc548\uc2dc"
@@ -59,13 +95,67 @@
     "name:kor_x_variant":[
         "\ucc9c\uc548"
     ],
+    "name:lav_x_preferred":[
+        "\u010ceonana"
+    ],
+    "name:lit_x_preferred":[
+        "\u010ceonanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u0947\u0913\u0928\u093e\u0928"
+    ],
     "name:mon_x_preferred":[
         "\u0427\u043e\u043d\u0430\u043d\u044c"
+    ],
+    "name:mon_x_variant":[
+        "\u0427\u043e\u043d\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Cheonan"
+    ],
+    "name:nan_x_preferred":[
+        "Cheonan Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Cheonan"
+    ],
+    "name:nob_x_preferred":[
+        "Cheonan"
+    ],
+    "name:oci_x_preferred":[
+        "Cheonan"
+    ],
+    "name:pol_x_preferred":[
+        "Cheonan"
+    ],
+    "name:por_x_preferred":[
+        "Cheonan"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0445\u043e\u043d\u0430\u043d"
     ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dd2\u0dba\u0ddd\u0db1\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Cheonan"
+    ],
     "name:swe_x_preferred":[
+        "Cheonan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0ba8\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c47\u0c2f\u0c28\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Cheonan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e0a\u0e19\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
         "Cheonan"
     ],
     "name:ukr_x_preferred":[
@@ -76,6 +166,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0648\u0646\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Cheonan"
+    ],
+    "name:war_x_preferred":[
+        "Cheonan"
     ],
     "name:zho_x_preferred":[
         "\u5929\u5b89\u5e02"
@@ -128,7 +224,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1505338991,
+    "wof:lastmodified":1563290036,
     "wof:name":"Tenan",
     "wof:parent_id":1108746433,
     "wof:placetype":"locality",

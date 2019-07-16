@@ -42,23 +42,91 @@
     "mps:longitude":128.716772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0648\u0646\u063a\u0633\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Jeongseon-gun"
+    ],
+    "name:ces_x_preferred":[
+        "\u010congson"
+    ],
+    "name:deu_x_preferred":[
+        "Jeongseon"
+    ],
     "name:eng_x_preferred":[
         "Jeongseon"
     ],
     "name:eng_x_variant":[
         "Jeongseon",
+        "Jeongseon County"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062c\u0626\u0648\u0646\u06af\u0633\u0626\u0648\u0646"
+    ],
+    "name:hak_x_preferred":[
+        "Tsin-san-khi\u00f9n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d2'\u05d5\u05e0\u05d2\u05e1\u05d5\u05df"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0578\u0576\u0563\u057d\u0578\u0576"
+    ],
+    "name:ind_x_preferred":[
         "Jeongseon"
+    ],
+    "name:ita_x_preferred":[
+        "Jeongseon"
+    ],
+    "name:jav_x_preferred":[
+        "Jeongseon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65cc\u5584\u90e1"
     ],
     "name:kor_x_preferred":[
         "\uc815\uc120\uad70"
     ],
     "name:kor_x_variant":[
         "Ch\u014fngs\u014fn-gun",
-        "\uc815\uc120",
-        "\uc815\uc120\uad70"
+        "\uc815\uc120"
+    ],
+    "name:mon_x_preferred":[
+        "\u0427\u043e\u043d\u0441\u043e\u043d\u044c-\u0433\u04af\u043d\u044c"
+    ],
+    "name:nan_x_preferred":[
+        "Jeongseon K\u016bn"
+    ],
+    "name:nld_x_preferred":[
+        "Jeongseon"
+    ],
+    "name:nob_x_preferred":[
+        "Jeongseon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043d\u0441\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Joengseon"
+    ],
+    "name:swe_x_preferred":[
+        "Jeongseon-gun"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e47\u0e2d\u0e07\u0e0b\u0e47\u0e2d\u0e19"
     ],
     "name:unk_x_variant":[
         "Seizen-gun"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06cc\u0648\u0646\u06af\u0633\u0626\u0648\u0646 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Jeongseon"
+    ],
+    "name:zho_x_preferred":[
+        "\u65cc\u5584\u90e1"
     ],
     "qs:name":"\uc815\uc120\uad70",
     "qs:name_adm0":"\ud55c\uad6d",
@@ -103,7 +171,7 @@
         }
     ],
     "wof:id":890473513,
-    "wof:lastmodified":1555047476,
+    "wof:lastmodified":1563295058,
     "wof:name":"Jeongseon",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

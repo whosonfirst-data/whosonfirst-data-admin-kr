@@ -50,7 +50,16 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043c\u0433\u0443"
     ],
+    "name:cat_x_preferred":[
+        "Gangnam"
+    ],
+    "name:ceb_x_preferred":[
+        "Gangnam-gu"
+    ],
     "name:ces_x_preferred":[
+        "Gangnam"
+    ],
+    "name:dan_x_preferred":[
         "Gangnam"
     ],
     "name:deu_x_preferred":[
@@ -65,7 +74,7 @@
     "name:eng_x_variant":[
         "Gangnam",
         "Seongnamsisujeonggu",
-        "Sujeong"
+        "Gangnam District"
     ],
     "name:est_x_preferred":[
         "Gangnami linnarajoon"
@@ -79,8 +88,14 @@
     "name:fra_x_preferred":[
         "Gangnam-gu"
     ],
+    "name:fra_x_variant":[
+        "Gangnam"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d0\u05d5\u05dc/\u05d2\u05e0\u05d2\u05e0\u05dd \u05d5\u05e1\u05d0\u05d5\u05e6'\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0902\u0917\u0928\u092e \u091c\u093f\u0932\u093e"
     ],
     "name:hun_x_preferred":[
         "Kangnam"
@@ -106,11 +121,17 @@
     "name:kor_x_preferred":[
         "\uc131\ub0a8\uc2dc\uc218\uc815\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uac15\ub0a8\uad6c"
+    ],
     "name:lat_x_preferred":[
         "Gangnam"
     ],
     "name:lit_x_preferred":[
         "Gangnam-gu"
+    ],
+    "name:ltz_x_preferred":[
+        "Gangnam"
     ],
     "name:lzh_x_preferred":[
         "\u6c5f\u5357\u5340"
@@ -120,6 +141,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Gangnam"
+    ],
+    "name:nan_x_preferred":[
+        "Gangnam Khu"
     ],
     "name:nld_x_preferred":[
         "Gangnam-gu"
@@ -157,6 +181,12 @@
     "name:vie_x_preferred":[
         "Gangnam-gu"
     ],
+    "name:wuu_x_preferred":[
+        "\u6c5f\u5357\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c5f\u5357\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u6c5f\u5357\u5340"
     ],
@@ -183,7 +213,7 @@
         }
     ],
     "wof:id":1108746523,
-    "wof:lastmodified":1561826855,
+    "wof:lastmodified":1563293709,
     "wof:name":"Sujeong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

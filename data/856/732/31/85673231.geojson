@@ -35,6 +35,15 @@
     "name:ara_x_preferred":[
         "\u0623\u0644\u0633\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0644\u0633\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Ulsan"
+    ],
+    "name:aze_x_preferred":[
+        "Ulsan"
+    ],
     "name:ben_x_preferred":[
         "\u0989\u09b2\u09b8\u09be\u09a8"
     ],
@@ -48,6 +57,9 @@
         "Ulsan"
     ],
     "name:cdo_x_preferred":[
+        "Ulsan"
+    ],
+    "name:ceb_x_preferred":[
         "Ulsan"
     ],
     "name:ces_x_preferred":[
@@ -104,6 +116,9 @@
     "name:guj_x_preferred":[
         "\u0a89\u0ab2\u0acd\u0ab8\u0aa8"
     ],
+    "name:hak_x_preferred":[
+        "Ulsan"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05dc\u05e1\u05df"
     ],
@@ -146,16 +161,17 @@
         "\uc6b8\uc0b0\uad11\uc5ed\uc2dc"
     ],
     "name:kor_x_variant":[
-        "\uc6b8\uc0b0",
         "\uc6b8\uc0b0 \uc2dc",
         "\uc6b8\uc0b0\uad11\uc5ed",
-        "\uc6b8\uc0b0\uad11\uc5ed\uc2dc",
         "\u851a\u5c71",
         "\u851a\u5c71\u5ee3\u57df\u5e02",
         "Ulsan-gwangy\u014fksi"
     ],
     "name:lav_x_preferred":[
         "Ulsana"
+    ],
+    "name:lfn_x_preferred":[
+        "Ulsan"
     ],
     "name:lit_x_preferred":[
         "Ulsanas"
@@ -178,6 +194,9 @@
     "name:msa_x_preferred":[
         "Ulsan"
     ],
+    "name:mya_x_preferred":[
+        "\u1021\u1031\u102c\u101c\u103a\u1006\u1014\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nan_x_preferred":[
         "Ulsan K\u00f3ng-he\u030dk-chh\u012b"
     ],
@@ -192,6 +211,9 @@
     ],
     "name:oci_x_preferred":[
         "Ulsan"
+    ],
+    "name:oss_x_preferred":[
+        "\u0423\u043b\u044c\u0441\u0430\u043d"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0646"
@@ -400,7 +422,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1561826753,
+    "wof:lastmodified":1563290932,
     "wof:name":"Ulsan",
     "wof:parent_id":85632231,
     "wof:placetype":"region",

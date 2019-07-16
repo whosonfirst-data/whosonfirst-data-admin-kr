@@ -39,6 +39,9 @@
     "mps:longitude":127.700734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Wando-gun"
+    ],
     "name:deu_x_preferred":[
         "Wando"
     ],
@@ -47,7 +50,7 @@
     ],
     "name:eng_x_variant":[
         "Wando",
-        "Yeosu"
+        "Wando County"
     ],
     "name:fra_x_preferred":[
         "District de Wando"
@@ -61,8 +64,14 @@
     "name:kor_x_preferred":[
         "\uc5ec\uc218\uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc644\ub3c4\uad70"
+    ],
     "name:mon_x_preferred":[
         "\u0412\u0430\u043d\u044c\u0434\u0443-\u0433\u04af\u043d\u044c"
+    ],
+    "name:nan_x_preferred":[
+        "Wando K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Wando"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":890473219,
-    "wof:lastmodified":1561826907,
+    "wof:lastmodified":1563294994,
     "wof:name":"Yeosu",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

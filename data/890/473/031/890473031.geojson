@@ -41,6 +41,9 @@
     "mps:longitude":127.159322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Boseong-gun"
+    ],
     "name:deu_x_preferred":[
         "Boseong"
     ],
@@ -48,9 +51,11 @@
         "Boseong"
     ],
     "name:eng_x_variant":[
-        "Boseong",
         "Boseong County",
         "Boseong-gun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0648\u0633\u0626\u0648\u0646\u06af"
     ],
     "name:fra_x_preferred":[
         "District de Boseong"
@@ -67,16 +72,21 @@
     "name:jpn_x_preferred":[
         "H\u014dj\u014d"
     ],
+    "name:jpn_x_variant":[
+        "\u5b9d\u57ce\u90e1"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\uc131\uad70"
     ],
     "name:kor_x_variant":[
         "Pos\u014fng-gun",
-        "\ubcf4\uc131",
-        "\ubcf4\uc131\uad70"
+        "\ubcf4\uc131"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0443\u0441\u043e\u043d-\u0433\u04af\u043d\u044c"
+    ],
+    "name:nan_x_preferred":[
+        "Boseong K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Boseong"
@@ -146,7 +156,7 @@
         }
     ],
     "wof:id":890473031,
-    "wof:lastmodified":1561826908,
+    "wof:lastmodified":1563295003,
     "wof:name":"Boseong",
     "wof:parent_id":85673219,
     "wof:placetype":"county",
