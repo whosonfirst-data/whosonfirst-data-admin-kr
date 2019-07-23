@@ -38,6 +38,12 @@
     "mps:longitude":126.804832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Gangseo"
+    ],
+    "name:ceb_x_preferred":[
+        "Gangseo-gu"
+    ],
     "name:deu_x_preferred":[
         "Gangseo-gu"
     ],
@@ -47,7 +53,7 @@
     "name:eng_x_variant":[
         "Gangseo",
         "Bucheonsiojeonggu",
-        "Ojeong"
+        "Gangseo District"
     ],
     "name:est_x_preferred":[
         "Gangseo linnarajoon"
@@ -70,8 +76,14 @@
     "name:kor_x_preferred":[
         "\ubd80\ucc9c\uc2dc\uc624\uc815\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uac15\uc11c\uad6c"
+    ],
     "name:msa_x_preferred":[
         "Daerah Gangseo"
+    ],
+    "name:nan_x_preferred":[
+        "Gangseo Khu"
     ],
     "name:nld_x_preferred":[
         "Gangseo District"
@@ -85,11 +97,20 @@
     "name:spa_x_preferred":[
         "Gangseo"
     ],
+    "name:swe_x_preferred":[
+        "Gangseo-gu"
+    ],
     "name:tur_x_preferred":[
         "Gangseo"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0441\u043e\u0433\u0443"
+    ],
     "name:urd_x_preferred":[
         "\u06af\u0627\u0646\u06af\u0633\u06cc\u0648 \u0636\u0644\u0639\u060c \u0633\u0624\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u0627\u0646\u06af\u0633\u06cc\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Gangseo-gu"
@@ -120,7 +141,7 @@
         }
     ],
     "wof:id":1108746385,
-    "wof:lastmodified":1561826856,
+    "wof:lastmodified":1563293713,
     "wof:name":"Ojeong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

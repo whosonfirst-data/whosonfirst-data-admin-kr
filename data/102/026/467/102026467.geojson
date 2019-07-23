@@ -23,10 +23,19 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0646\u062a\u0634\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0648\u0646\u0634\u064a\u0648\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0445\u0443\u043d\u0447\u0445\u043e\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09c1\u09a8\u099a\u09c7\u0993\u09a8"
     ],
     "name:cat_x_preferred":[
+        "Chuncheon"
+    ],
+    "name:ceb_x_preferred":[
         "Chuncheon"
     ],
     "name:ces_x_preferred":[
@@ -81,6 +90,9 @@
     "name:hin_x_preferred":[
         "\u091a\u0941\u0902\u091a\u0940\u0913\u0902"
     ],
+    "name:hun_x_preferred":[
+        "Cshuncshon"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u0578\u0582\u0576\u0579\u0578\u0576"
     ],
@@ -88,6 +100,9 @@
         "Chuncheon"
     ],
     "name:ita_x_preferred":[
+        "Chuncheon"
+    ],
+    "name:jav_x_preferred":[
         "Chuncheon"
     ],
     "name:jpn_x_preferred":[
@@ -122,6 +137,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0427\u04af\u043d\u044c\u0447\u043e\u043d\u044c"
+    ],
+    "name:mon_x_variant":[
+        "\u0427\u04af\u043d\u0447\u043e\u043d \u0445\u043e\u0442"
     ],
     "name:msa_x_preferred":[
         "Chuncheon"
@@ -168,6 +186,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0ba9\u0bcd\u0b9a\u0bc0\u0baf\u0bcb\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0443\u043d\u0447\u043e\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c41\u0c02\u0c1a\u0c3f\u0c2f\u0c4b\u0c28\u0c4d"
     ],
@@ -188,6 +209,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u0648\u0646\u0686\u06cc\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0686\u0648\u0646 \u0686\u06cc\u0648\u0646"
     ],
     "name:vie_x_preferred":[
         "Chuncheon"
@@ -346,7 +370,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561826698,
+    "wof:lastmodified":1563290079,
     "wof:name":"Chuncheon",
     "wof:parent_id":890472419,
     "wof:placetype":"locality",

@@ -24,8 +24,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Dongcheon-dong"
+    ],
     "name:eng_x_preferred":[
         "Dongcheon-dong"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u0686\u0626\u0648\u0646-\u062f\u0648\u0646\u06af"
     ],
     "name:kor_x_preferred":[
         "\ub3d9\ucc9c\ub3d9"
@@ -35,6 +41,9 @@
     ],
     "name:swe_x_preferred":[
         "Dongcheon-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5ddd\u6d1e"
     ],
     "src:geom":"mz",
     "src:geom_alt":[
@@ -71,7 +80,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1553814981,
+    "wof:lastmodified":1563290898,
     "wof:name":"\ub3d9\ucc9c\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

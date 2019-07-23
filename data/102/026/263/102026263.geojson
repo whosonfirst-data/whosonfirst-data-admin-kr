@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Yongin"
     ],
+    "name:ceb_x_preferred":[
+        "Yongin-si"
+    ],
     "name:ces_x_preferred":[
         "Jongin"
     ],
@@ -100,8 +103,14 @@
     "name:mon_x_preferred":[
         "\u042e\u043d\u044a\u0438\u043d\u044c"
     ],
+    "name:mon_x_variant":[
+        "\u042e\u043d-\u0418\u043d\u044c"
+    ],
     "name:msa_x_preferred":[
         "Yongin"
+    ],
+    "name:nan_x_preferred":[
+        "Yongin Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Yongin"
@@ -225,7 +234,7 @@
         }
     ],
     "wof:id":102026263,
-    "wof:lastmodified":1561826698,
+    "wof:lastmodified":1563290085,
     "wof:name":"Yongin",
     "wof:parent_id":1108746545,
     "wof:placetype":"locality",
