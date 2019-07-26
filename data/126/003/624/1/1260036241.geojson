@@ -26,6 +26,18 @@
     "iso:country":"KR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bis_x_preferred":[
+        "Sejong"
+    ],
+    "name:ceb_x_preferred":[
+        "Sejong-si"
+    ],
+    "name:ces_x_preferred":[
+        "Sed\u017eong"
+    ],
+    "name:deu_x_preferred":[
+        "Sejong"
+    ],
     "name:eng_x_historical":[
         "Yeongi"
     ],
@@ -36,14 +48,90 @@
         "Sejong Special Self-Governing City",
         "Yeongi"
     ],
+    "name:epo_x_preferred":[
+        "Se\u011don"
+    ],
+    "name:eus_x_preferred":[
+        "Sejong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062c\u0648\u0646\u06af \u0633\u06cc\u062a\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Sejong"
+    ],
+    "name:fra_x_preferred":[
+        "Sejong"
+    ],
+    "name:hun_x_preferred":[
+        "Szedzsong"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u057b\u0578\u0576\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Sejong"
+    ],
+    "name:ita_x_preferred":[
+        "Sejong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e16\u5b97\u7279\u5225\u81ea\u6cbb\u5e02"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u0434\u0436\u043e\u04a3"
+    ],
     "name:kor_x_preferred":[
         "\uc138\uc885"
     ],
     "name:kor_x_variant":[
-        "\u4e16\u5b97"
+        "\u4e16\u5b97",
+        "\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Sed\u017eongas"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u044d\u0436\u0443\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Sejong"
+    ],
+    "name:nld_x_preferred":[
+        "Sejong"
+    ],
+    "name:nor_x_preferred":[
+        "Sejong by"
     ],
     "name:pol_x_preferred":[
         "Sed\u017cong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0434\u0436\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Sejong Ceety"
+    ],
+    "name:spa_x_preferred":[
+        "Sejong"
+    ],
+    "name:swe_x_preferred":[
+        "Sejong City"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e04\u0e23\u0e40\u0e0b\u0e08\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Sejong"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0434\u0436\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062c\u0648\u0646\u06af \u0634\u06c1\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e16\u5b97\u7279\u5225\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -70,7 +158,7 @@
         }
     ],
     "wof:id":1260036241,
-    "wof:lastmodified":1537659329,
+    "wof:lastmodified":1564127164,
     "wof:name":"Sejong",
     "wof:parent_id":1108746507,
     "wof:placetype":"locality",
