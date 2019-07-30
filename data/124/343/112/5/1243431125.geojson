@@ -25,11 +25,21 @@
     "iso:country":"KR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yeongsan-myeon"
+    ],
+    "name:fra_x_preferred":[
+        "Yongsan"
+    ],
     "name:kor_x_preferred":[
         "\uc601\uc0b0"
     ],
     "name:kor_x_variant":[
-        "Y\u014fngsan"
+        "Y\u014fngsan",
+        "\uc601\uc0b0\uba74"
+    ],
+    "name:swe_x_preferred":[
+        "Yeongsan-myeon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1243431125,
-    "wof:lastmodified":1537656953,
+    "wof:lastmodified":1564129518,
     "wof:name":"Yeongsan",
     "wof:parent_id":890476309,
     "wof:placetype":"locality",

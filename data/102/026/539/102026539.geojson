@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003263,
-    "geom:area_square_m":33096849.450566,
+    "geom:area_square_m":33096849.450593,
     "geom:bbox":"125.425494448,34.6739011016,126.326240965,35.0704833708",
     "geom:latitude":34.885035,
     "geom:longitude":126.040397,
@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u0627\u0646"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u043d\u0430\u043d \u043f\u0430\u0448\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Sinan"
+    ],
     "name:deu_x_preferred":[
         "Sinan"
     ],
     "name:fra_x_preferred":[
         "Sinan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e0\u05d0\u05df"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30ca\u30f3"
@@ -39,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0430\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Sinan"
     ],
     "name:stq_x_preferred":[
         "Sinan"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":102026539,
-    "wof:lastmodified":1527637810,
+    "wof:lastmodified":1564123311,
     "wof:name":"Sinan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
