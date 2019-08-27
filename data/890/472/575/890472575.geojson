@@ -11,11 +11,14 @@
     "geom:longitude":127.14333,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.13833,37.36417,127.14833,37.37417",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Bundang-dong"
     ],
@@ -24,9 +27,6 @@
     ],
     "name:kor_x_preferred":[
         "\ubd84\ub2f9\ub3d9"
-    ],
-    "name:unk_x_variant":[
-        "Bundang-dong"
     ],
     "name:zho_x_preferred":[
         "\u76c6\u5510\u6d1e"
@@ -54,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1838588,
         "gp:id":28806723,
-        "qs:id":1205980,
+        "qs_pg:id":1205980,
         "wd:id":"Q4997501"
     },
     "wof:country":"KR",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":890472575,
-    "wof:lastmodified":1561826905,
+    "wof:lastmodified":1566589712,
     "wof:name":"\ubd84\ub2f9\ub3d9",
     "wof:parent_id":102026389,
     "wof:placetype":"neighbourhood",

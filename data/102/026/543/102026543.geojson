@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000804,
-    "geom:area_square_m":8143409.323581,
+    "geom:area_square_m":8143409.323585,
     "geom:bbox":"126.282375577,34.9804947252,126.491050477,35.1064468841",
     "geom:latitude":35.03366,
     "geom:longitude":126.408499,
@@ -14,11 +14,14 @@
     "iso:country":"KR",
     "lbl:latitude":34.994004,
     "lbl:longitude":126.480103,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.994004,
     "mps:longitude":126.480103,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\ubb34\uc548"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102026543,
-    "wof:lastmodified":1501273021,
+    "wof:lastmodified":1566586185,
     "wof:name":"Muan",
     "wof:parent_id":890472363,
     "wof:placetype":"locality",

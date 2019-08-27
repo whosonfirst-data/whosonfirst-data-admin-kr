@@ -11,19 +11,19 @@
     "geom:longitude":126.97556,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"126.97056,37.38667,126.98056,37.39667",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Pyeongchon-dong"
     ],
     "name:kor_x_preferred":[
         "\ud3c9\ucd0c\ub3d9"
-    ],
-    "name:unk_x_variant":[
-        "Pyeongchon-dong"
     ],
     "name:vie_x_preferred":[
         "Pyeongchon-dong"
@@ -51,7 +51,7 @@
     "wof:concordances":{
         "gn:id":6572084,
         "gp:id":28806777,
-        "qs:id":32163,
+        "qs_pg:id":32163,
         "wd:id":"Q14000005"
     },
     "wof:country":"KR",
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":890473387,
-    "wof:lastmodified":1553816409,
+    "wof:lastmodified":1566589774,
     "wof:name":"\ud3c9\ucd0c\ub3d9",
     "wof:parent_id":102026501,
     "wof:placetype":"neighbourhood",

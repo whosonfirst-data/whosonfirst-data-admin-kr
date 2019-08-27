@@ -11,7 +11,7 @@
     "geom:longitude":126.956663,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.503783,
     "lbl:longitude":126.959407,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Seoul",
     "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
     "meso:diss_me":"Dongjak-guSeoul",
@@ -42,6 +44,7 @@
     "mps:longitude":126.959407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dongjak-gu"
     ],
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":484,
     "wof:belongsto":[
@@ -151,7 +154,7 @@
     "wof:concordances":{
         "gn:id":1834245,
         "gp:id":28289155,
-        "qs:id":237840,
+        "qs_pg:id":237840,
         "wd:id":"Q50385",
         "wk:page":"Dongjak District"
     },
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":890476313,
-    "wof:lastmodified":1563294789,
+    "wof:lastmodified":1566589638,
     "wof:name":"Dongjak",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

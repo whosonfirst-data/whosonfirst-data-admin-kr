@@ -11,7 +11,7 @@
     "geom:longitude":126.946832,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Gwanak District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":37.470285,
     "lbl:longitude":126.946831,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Seoul",
     "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
     "meso:diss_me":"Gwanak-guSeoul",
@@ -41,6 +43,7 @@
     "mps:longitude":126.946831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gwanak-gu"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":641,
     "wof:belongsto":[
@@ -134,7 +137,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1841893,
-        "qs:id":275267,
+        "qs_pg:id":275267,
         "wd:id":"Q50353",
         "wk:page":"Gwanak District"
     },
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":890472187,
-    "wof:lastmodified":1563294926,
+    "wof:lastmodified":1566589710,
     "wof:name":"Gwanak",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

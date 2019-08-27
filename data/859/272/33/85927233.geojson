@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6756889.349455,
+    "geom:area_square_m":0.0,
     "geom:bbox":"129.06205,35.269365,129.06205,35.269365",
     "geom:latitude":35.269365,
     "geom:longitude":129.06205,
     "iso:country":"KR",
+    "lbl:bbox":"129.05705,35.264365,129.06705,35.274365",
     "lbl:latitude":35.269365,
     "lbl:longitude":129.06205,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.260728,
     "mps:longitude":129.06177,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:kor_x_preferred":[
-        "\ub0a8\uc0b0\ub3d9"
-    ],
-    "name:unk_x_variant":[
         "\ub0a8\uc0b0\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -56,12 +55,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673227,
         102191569,
         85632231,
-        890472097,
-        85673227
+        890472097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +82,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938922,
+    "wof:lastmodified":1566586822,
     "wof:name":"\ub0a8\uc0b0\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

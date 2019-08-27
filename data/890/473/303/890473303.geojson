@@ -11,10 +11,14 @@
     "geom:longitude":128.40093,
     "gn:country":"KR",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
+    "lbl:bbox":"128.30093,37.25873,128.50093,37.45873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pyeongchang-eup"
     ],
@@ -24,9 +28,6 @@
     "name:kor_x_variant":[
         "P\u2019y\u014fngch\u2019ang-\u016dp",
         "\u5e73\u660c\u9091"
-    ],
-    "name:unk_x_variant":[
-        "Pyeongchang-eup"
     ],
     "qs:name":"P\u2019y\u014fngch\u2019ang-\u016dp",
     "qs:photos_9r":0,
@@ -42,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6796196,
-        "qs:id":1039058
+        "qs_pg:id":1039058
     },
     "wof:country":"KR",
     "wof:created":1469053947,
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":890473303,
-    "wof:lastmodified":1505343716,
+    "wof:lastmodified":1566589759,
     "wof:name":"P\u2019y\u014fngch\u2019ang-\u016dp",
     "wof:parent_id":890476059,
     "wof:placetype":"localadmin",

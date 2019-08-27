@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.23306,
     "lbl:longitude":129.117422,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
     "mps:latitude":35.188675,
     "mps:longitude":129.067435,
@@ -367,7 +368,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0441\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Busan-gwangyeoksi"
     ],
     "name:urd_x_preferred":[
@@ -470,9 +471,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"760",
     "statoids:area_mi":"293",
     "statoids:as_of_date":"2010-11-01",
@@ -497,7 +498,7 @@
         "hasc:id":"KR.PU",
         "iso:id":"KR-26",
         "loc:id":"n80013546",
-        "qs:id":1168672,
+        "qs_pg:id":1168672,
         "wd:id":"Q16520",
         "wk:page":"Busan"
     },
@@ -517,11 +518,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725516,
+    "wof:lastmodified":1566586839,
     "wof:name":"Busan",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"metropolitan city",
     "wof:population":3393191,
     "wof:population_rank":12,

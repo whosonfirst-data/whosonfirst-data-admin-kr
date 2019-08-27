@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.911298,
     "lbl:longitude":128.413696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.911298,
     "mps:longitude":128.413696,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0648\u0631\u064a\u0648\u0646\u063a"
     ],
@@ -60,7 +63,7 @@
     "name:swe_x_preferred":[
         "Goryeong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u014drei"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +87,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102026415,
-    "wof:lastmodified":1563290037,
+    "wof:lastmodified":1566586179,
     "wof:name":"Kory\u014fng",
     "wof:parent_id":890475279,
     "wof:placetype":"locality",

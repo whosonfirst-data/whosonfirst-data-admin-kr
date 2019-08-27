@@ -11,11 +11,14 @@
     "geom:longitude":127.10139,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.09639,37.48056,127.10639,37.49056",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Suseo-dong"
     ],
@@ -41,9 +44,6 @@
         "Suseo-dong"
     ],
     "name:swe_x_preferred":[
-        "Suseo-dong"
-    ],
-    "name:unk_x_variant":[
         "Suseo-dong"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +75,7 @@
     "wof:concordances":{
         "gn:id":6571521,
         "gp:id":28995065,
-        "qs:id":1197897,
+        "qs_pg:id":1197897,
         "wd:id":"Q2647402"
     },
     "wof:country":"KR",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":890472355,
-    "wof:lastmodified":1563294902,
+    "wof:lastmodified":1566589700,
     "wof:name":"\uc218\uc11c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,14 @@
     "geom:longitude":129.13583,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"129.13083,35.17944,129.14083,35.18944",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Dong-gu"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Dong-gu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jaesongdong"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":1979194,
         "gp:id":28995273,
-        "qs:id":989575,
+        "qs_pg:id":989575,
         "wd:id":"Q50379",
         "wk:page":"Dong District, Ulsan"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890473717,
-    "wof:lastmodified":1563295059,
+    "wof:lastmodified":1566589774,
     "wof:name":"\ub300\uc1a1\ub3d9",
     "wof:parent_id":102026353,
     "wof:placetype":"neighbourhood",

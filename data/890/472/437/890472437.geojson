@@ -11,11 +11,15 @@
     "geom:longitude":126.7175,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":42459,
+    "gn:population":42459,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"126.6975,35.00833,126.7375,35.04833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u062c\u0648"
     ],
@@ -148,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rash\u016b"
     ],
     "name:urd_x_preferred":[
@@ -185,7 +189,7 @@
     "wof:concordances":{
         "gn:id":1840536,
         "gp:id":1132529,
-        "qs:id":232228,
+        "qs_pg:id":232228,
         "wd:id":"Q42083"
     },
     "wof:country":"KR",
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":890472437,
-    "wof:lastmodified":1563294917,
+    "wof:lastmodified":1566589706,
     "wof:name":"\ub098\uc8fc\uc2dc",
     "wof:parent_id":890472323,
     "wof:placetype":"locality",

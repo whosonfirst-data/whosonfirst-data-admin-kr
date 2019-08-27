@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.427732,
     "lbl:longitude":127.099791,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"SeongnamsisujeongguGyeonggi-do",
@@ -38,6 +40,7 @@
     "mps:longitude":127.099791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062d\u064a \u0643\u0627\u0646\u063a\u0646\u0627\u0645"
     ],
@@ -191,7 +194,7 @@
         "\u6c5f\u5357\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":1108746523,
-    "wof:lastmodified":1563293709,
+    "wof:lastmodified":1566588961,
     "wof:name":"Sujeong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

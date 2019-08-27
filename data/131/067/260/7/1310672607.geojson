@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.89981,34.69579,126.93981,34.73579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dojang"
     ],
@@ -44,8 +48,7 @@
         "Dojang"
     ],
     "name:und_x_variant":[
-        "Tojang-gol",
-        "Dojang"
+        "Tojang-gol"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1310672607,
-    "wof:lastmodified":1564127781,
+    "wof:lastmodified":1566589313,
     "wof:name":"Dojang",
     "wof:parent_id":890473547,
     "wof:placetype":"locality",

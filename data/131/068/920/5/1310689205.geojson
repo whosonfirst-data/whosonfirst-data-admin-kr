@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.00755,37.56685,127.04755,37.60685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Anam-dong"
     ],
@@ -38,10 +42,6 @@
         "Anam-dong"
     ],
     "name:swe_x_preferred":[
-        "Anam-dong"
-    ],
-    "name:und_x_variant":[
-        "\uc548\uc554\ub3d9",
         "Anam-dong"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1310689205,
-    "wof:lastmodified":1564127738,
+    "wof:lastmodified":1566589288,
     "wof:name":"Anam-dong",
     "wof:parent_id":890472297,
     "wof:placetype":"locality",

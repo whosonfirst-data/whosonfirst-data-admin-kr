@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.429551,
     "lbl:longitude":127.16844,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"SeongnamsijungwonguGyeonggi-do",
@@ -38,6 +40,7 @@
     "mps:longitude":127.16844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jungwon"
     ],
@@ -49,7 +52,7 @@
         "\uc131\ub0a8\uc2dc\uc911\uc6d0\uad6c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108746521,
-    "wof:lastmodified":1555047483,
+    "wof:lastmodified":1566588961,
     "wof:name":"Jungwon",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

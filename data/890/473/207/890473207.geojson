@@ -11,12 +11,15 @@
     "geom:longitude":127.12333,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.11833,37.37028,127.12833,37.38028",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Sunaei-dong"
     ],
     "qs:name":"\uc218\ub0b42\ub3d9",
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":6572733,
         "gp:id":28806725,
-        "qs:id":358489
+        "qs_pg:id":358489
     },
     "wof:country":"KR",
     "wof:created":1469053943,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890473207,
-    "wof:lastmodified":1505343716,
+    "wof:lastmodified":1566589768,
     "wof:name":"\uc218\ub0b42\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

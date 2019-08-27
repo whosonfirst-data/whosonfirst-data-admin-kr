@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.91129,34.92816,126.95129,34.96816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Danyang"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Tanyang-ni",
-        "Tanyang",
-        "Danyang"
+        "Tanyang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259446953,
-    "wof:lastmodified":1564130051,
+    "wof:lastmodified":1566590563,
     "wof:name":"Danyang",
     "wof:parent_id":890473237,
     "wof:placetype":"locality",

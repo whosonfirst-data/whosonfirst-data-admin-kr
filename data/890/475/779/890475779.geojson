@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":35.167687,
     "lbl:longitude":129.043695,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Busan",
     "meso:admin_1_lo":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Busanjin-guBusan",
@@ -39,6 +41,7 @@
     "mps:longitude":129.043695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Busanjin-gu"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":258,
     "wof:belongsto":[
         102191569,
@@ -123,7 +126,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289124,
-        "qs:id":1209104,
+        "qs_pg:id":1209104,
         "wd:id":"Q50390",
         "wk:page":"Busanjin District"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":890475779,
-    "wof:lastmodified":1563294852,
+    "wof:lastmodified":1566589673,
     "wof:name":"Busanjin",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

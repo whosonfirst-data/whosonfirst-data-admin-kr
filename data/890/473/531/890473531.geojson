@@ -11,7 +11,7 @@
     "geom:longitude":126.910968,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":35.834415,
     "lbl:longitude":126.914131,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollabuk-do",
     "meso:admin_1_lo":"\uc804\ub77c\ubd81\ub3c4",
     "meso:diss_me":"Gimje-siJeollabuk-do",
@@ -42,6 +44,7 @@
     "mps:longitude":126.914131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Gimje"
     ],
@@ -112,7 +115,7 @@
     "name:tur_x_preferred":[
         "Gimje"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u016dmje-gun"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -153,7 +156,7 @@
     "wof:concordances":{
         "gn:id":1842211,
         "gp:id":28289238,
-        "qs:id":488323
+        "qs_pg:id":488323
     },
     "wof:country":"KR",
     "wof:created":1469053956,
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":890473531,
-    "wof:lastmodified":1564128556,
+    "wof:lastmodified":1566589760,
     "wof:name":"Gimje",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

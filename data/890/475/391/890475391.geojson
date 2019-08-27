@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":35.219939,
     "lbl:longitude":127.284743,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Gokseong-gunJeollanam-do",
@@ -39,6 +41,7 @@
     "mps:longitude":127.284743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gokseong-gun"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":175,
     "wof:belongsto":[
         102191569,
@@ -115,7 +118,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289174,
-        "qs:id":965383,
+        "qs_pg:id":965383,
         "wd:id":"Q50212",
         "wk:page":"Gokseong County"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":890475391,
-    "wof:lastmodified":1563294816,
+    "wof:lastmodified":1566589650,
     "wof:name":"Gokseong",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

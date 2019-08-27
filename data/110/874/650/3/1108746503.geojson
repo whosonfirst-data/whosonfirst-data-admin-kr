@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.454201,
     "lbl:longitude":126.663333,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Incheon",
     "meso:admin_1_lo":"\uc778\ucc9c\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Nam-guIncheon",
@@ -38,6 +40,7 @@
     "mps:longitude":126.663333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nam"
     ],
@@ -55,7 +58,7 @@
         "Nam"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108746503,
-    "wof:lastmodified":1564127226,
+    "wof:lastmodified":1566588957,
     "wof:name":"Nam",
     "wof:parent_id":85673177,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.41997,37.00613,127.45997,37.04613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646\u063a\u062c\u064a\u0646"
     ],
@@ -92,8 +96,7 @@
     ],
     "name:und_x_variant":[
         "Tangjin-dong",
-        "Dangjin-dong",
-        "Dangjin"
+        "Dangjin-dong"
     ],
     "name:urd_x_preferred":[
         "\u0688\u0627\u0646\u06af\u062c\u0646"
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1309884895,
-    "wof:lastmodified":1564128341,
+    "wof:lastmodified":1566589615,
     "wof:name":"Dangjin",
     "wof:parent_id":890474641,
     "wof:placetype":"locality",

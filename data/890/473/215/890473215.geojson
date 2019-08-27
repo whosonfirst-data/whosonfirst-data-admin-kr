@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":36.605403,
     "lbl:longitude":128.828677,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangbuk-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ubd81\ub3c4",
     "meso:diss_me":"Andong-siGyeongsangbuk-do",
@@ -39,6 +41,7 @@
     "mps:longitude":128.828677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0622\u0646\u062f\u0648\u0646\u063a"
     ],
@@ -173,7 +176,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -182,7 +185,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289107,
-        "qs:id":369322
+        "qs_pg:id":369322
     },
     "wof:country":"KR",
     "wof:created":1469053944,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":890473215,
-    "wof:lastmodified":1564128563,
+    "wof:lastmodified":1566589763,
     "wof:name":"Andong",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

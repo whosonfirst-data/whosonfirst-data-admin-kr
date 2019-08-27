@@ -11,11 +11,15 @@
     "geom:longitude":127.48889,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":25243,
+    "gn:population":25243,
     "iso:country":"KR",
+    "lbl:bbox":"127.46889,36.08306,127.50889,36.12306",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Kinsan"
     ],
     "qs:name":"Kinzan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1842153,
-        "qs:id":89635
+        "qs_pg:id":89635
     },
     "wof:country":"KR",
     "wof:created":1469053884,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890472167,
-    "wof:lastmodified":1505343714,
+    "wof:lastmodified":1566589700,
     "wof:name":"Kinzan",
     "wof:parent_id":890473345,
     "wof:placetype":"locality",

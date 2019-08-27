@@ -15,6 +15,8 @@
     "iso:country":"KR",
     "lbl:latitude":35.548151,
     "lbl:longitude":129.317835,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":35.548151,
     "mps:longitude":129.317835,
     "mz:hierarchy_label":1,
@@ -216,7 +218,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043b\u044c\u0441\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Urusan"
     ],
     "name:urd_x_preferred":[
@@ -349,7 +351,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -361,7 +363,9 @@
     "wof:concordances":{
         "gn:id":6903198,
         "gp:id":1132578,
-        "qs:id":808909,
+        "qs_pg:id":808909
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1111153
     },
     "wof:country":"KR",
@@ -376,7 +380,7 @@
         }
     ],
     "wof:id":102026291,
-    "wof:lastmodified":1564123315,
+    "wof:lastmodified":1566586193,
     "wof:megacity":1,
     "wof:name":"Ulsan",
     "wof:parent_id":1108746505,

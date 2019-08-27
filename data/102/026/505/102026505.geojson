@@ -15,6 +15,8 @@
     "iso:country":"KR",
     "lbl:latitude":37.316149,
     "lbl:longitude":126.832242,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":37.316149,
     "mps:longitude":126.832242,
     "mz:hierarchy_label":1,
@@ -329,7 +331,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3136,
     "wof:belongsto":[
@@ -344,10 +346,12 @@
         "gn:id":1846918,
         "gp:id":1132444,
         "loc:id":"n85137297",
-        "qs:id":274078,
-        "qs_pg:id":1220408,
+        "qs_pg:id":274078,
         "wd:id":"Q42117",
         "wk:page":"Ansan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1220408
     },
     "wof:country":"KR",
     "wof:geomhash":"e1f1053b18f70ea9e19e7e9afed468b4",
@@ -364,7 +368,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290021,
+    "wof:lastmodified":1566586173,
     "wof:name":"Ansan",
     "wof:parent_id":1108746407,
     "wof:placetype":"locality",

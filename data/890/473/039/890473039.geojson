@@ -11,7 +11,7 @@
     "geom:longitude":126.528237,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Jeju City"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":33.439306,
     "lbl:longitude":126.522291,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeju-do",
     "meso:admin_1_lo":"\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4",
     "meso:diss_me":"Jeju-siJeju-do",
@@ -41,6 +43,7 @@
     "mps:longitude":126.522291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Jeju"
     ],
@@ -102,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saishu-y\u016b"
     ],
     "qs:name":"Jeju-si",
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -123,7 +126,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1846261,
-        "qs:id":276648
+        "qs_pg:id":276648
     },
     "wof:country":"KR",
     "wof:created":1469053936,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":890473039,
-    "wof:lastmodified":1564128543,
+    "wof:lastmodified":1566589752,
     "wof:name":"Jeju",
     "wof:parent_id":85673237,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.82874,35.81135,127.86874,35.85135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0648\u06cc\u0648-\u062f\u0648\u0646\u06af"
     ],
@@ -36,10 +40,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e02\u0e27\u0e07\u0e0b\u0e39\u0e22\u0e39"
-    ],
-    "name:und_x_variant":[
-        "\uc218\uc720\ub3d9",
-        "Suyu-dong"
     ],
     "name:vie_x_preferred":[
         "Suyu-dong"
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1226019277,
-    "wof:lastmodified":1564130822,
+    "wof:lastmodified":1566590975,
     "wof:name":"Suyu-dong",
     "wof:parent_id":890476019,
     "wof:placetype":"locality",

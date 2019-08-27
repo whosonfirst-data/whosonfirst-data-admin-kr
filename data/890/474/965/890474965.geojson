@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":37.500859,
     "lbl:longitude":126.852711,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Seoul",
     "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
     "meso:diss_me":"Guro-guSeoul",
@@ -39,6 +41,7 @@
     "mps:longitude":126.852711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Guro-gu"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2771,
     "wof:belongsto":[
         102191569,
@@ -133,7 +136,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289185,
-        "qs:id":1112260,
+        "qs_pg:id":1112260,
         "wd:id":"Q50356",
         "wk:page":"Guro District, Seoul"
     },
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890474965,
-    "wof:lastmodified":1563295070,
+    "wof:lastmodified":1566589779,
     "wof:name":"Guro",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

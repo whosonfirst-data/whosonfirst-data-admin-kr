@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":34.520136,
     "lbl:longitude":126.600952,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":34.520136,
     "mps:longitude":126.600952,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Haenam-gun"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Haenam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kainan"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":1844751,
         "gp:id":28808167,
-        "qs:id":137040,
         "qs_pg:id":137040,
         "wd:id":"Q50342",
         "wk:page":"Haenam County"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":102026463,
-    "wof:lastmodified":1563290040,
+    "wof:lastmodified":1566586180,
     "wof:name":"Haenam",
     "wof:parent_id":890475077,
     "wof:placetype":"locality",

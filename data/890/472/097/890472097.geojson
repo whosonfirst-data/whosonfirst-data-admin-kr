@@ -11,7 +11,7 @@
     "geom:longitude":129.093682,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Geumjeong District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.25944,
     "lbl:longitude":129.087459,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Busan",
     "meso:admin_1_lo":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Geumjeong-guBusan",
@@ -41,6 +43,7 @@
     "mps:longitude":129.087459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Geumjeong-gu"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":369,
     "wof:belongsto":[
@@ -118,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462814,
-        "qs:id":209116,
+        "qs_pg:id":209116,
         "wd:id":"Q50358",
         "wk:page":"Geumjeong District"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890472097,
-    "wof:lastmodified":1563294923,
+    "wof:lastmodified":1566589708,
     "wof:name":"Geumjeong",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

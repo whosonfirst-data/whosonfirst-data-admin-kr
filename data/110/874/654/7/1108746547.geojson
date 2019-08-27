@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.338485,
     "lbl:longitude":127.061755,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"YonginsisujiguGyeonggi-do",
@@ -38,6 +40,7 @@
     "mps:longitude":127.061755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Suji"
     ],
@@ -55,7 +58,7 @@
         "Suji"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108746547,
-    "wof:lastmodified":1564127233,
+    "wof:lastmodified":1566588964,
     "wof:name":"Suji",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

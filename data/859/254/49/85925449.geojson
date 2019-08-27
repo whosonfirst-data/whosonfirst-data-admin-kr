@@ -12,8 +12,10 @@
     "gn:latitude":37.42139,
     "gn:longitude":127.15639,
     "iso:country":"KR",
+    "lbl:bbox":"127.153508,37.406617,127.163508,37.416617",
     "lbl:latitude":37.411617,
     "lbl:longitude":127.158508,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.410349,
     "mps:longitude":127.159966,
     "mz:hierarchy_label":0,
@@ -40,9 +42,8 @@
     "name:msa_x_preferred":[
         "Galhyeon-dong"
     ],
-    "name:unk_x_variant":[
-        "Hadaewon-dong",
-        "\ud558\ub300\uc6d0\ub3d9"
+    "name:und_x_variant":[
+        "Hadaewon-dong"
     ],
     "name:vie_x_preferred":[
         "Galhyeon-dong"
@@ -55,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673191,
         102191569,
@@ -66,7 +67,6 @@
     "wof:concordances":{
         "gn:id":6571553,
         "gp:id":28806722,
-        "qs:id":1103992,
         "qs_pg:id":1103992,
         "wd:id":"Q2647272"
     },
@@ -86,7 +86,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561826747,
+    "wof:lastmodified":1566586828,
     "wof:name":"\ud558\ub300\uc6d0\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":128.598655,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.873901,
     "lbl:longitude":128.556479,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangbuk-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ubd81\ub3c4",
     "meso:diss_me":"Yeongju-siGyeongsangbuk-do",
@@ -42,6 +44,7 @@
     "mps:longitude":128.556479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0646\u063a\u062c\u0648"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u043d\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eishu-gunsee"
     ],
     "name:urd_x_preferred":[
@@ -146,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -157,7 +160,7 @@
     "wof:concordances":{
         "gn:id":1844834,
         "gp:id":28289328,
-        "qs:id":217550
+        "qs_pg:id":217550
     },
     "wof:country":"KR",
     "wof:created":1469054066,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":890476183,
-    "wof:lastmodified":1564128395,
+    "wof:lastmodified":1566589647,
     "wof:name":"Yeongju",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

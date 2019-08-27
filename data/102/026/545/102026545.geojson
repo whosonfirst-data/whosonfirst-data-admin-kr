@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":33.234093,
     "lbl:longitude":126.293335,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":33.234093,
     "mps:longitude":126.293335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ace_x_preferred":[
         "Seogwipo"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1263,
     "wof:belongsto":[
@@ -164,7 +167,6 @@
     "wof:concordances":{
         "gn:id":6621166,
         "gp:id":1128226,
-        "qs:id":160945,
         "qs_pg:id":160945,
         "wd:id":"Q42103"
     },
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":102026545,
-    "wof:lastmodified":1563290057,
+    "wof:lastmodified":1566586186,
     "wof:name":"Seogwipo",
     "wof:parent_id":890474633,
     "wof:placetype":"locality",

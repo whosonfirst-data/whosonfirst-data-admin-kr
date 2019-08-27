@@ -15,6 +15,8 @@
     "iso:country":"KR",
     "lbl:latitude":37.276296,
     "lbl:longitude":127.023293,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":37.276296,
     "mps:longitude":127.023293,
     "mz:categories":[],
@@ -234,9 +236,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0432\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Suwon"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0648\u0648\u0646"
     ],
@@ -368,7 +367,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -382,10 +381,12 @@
         "gn:id":1835553,
         "gp:id":1132567,
         "loc:id":"n80046823",
-        "qs:id":351250,
-        "qs_pg:id":900323,
+        "qs_pg:id":351250,
         "wd:id":"Q20714",
         "wk:page":"Suwon"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":900323
     },
     "wof:country":"KR",
     "wof:geomhash":"f649c474545a9ac1a2a435a82dd79399",
@@ -402,7 +403,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290052,
+    "wof:lastmodified":1566586184,
     "wof:megacity":1,
     "wof:name":"Suigen",
     "wof:parent_id":85673191,

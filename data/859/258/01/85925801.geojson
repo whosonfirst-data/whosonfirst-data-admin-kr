@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21291324.269027,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.32054,37.133007,127.32054,37.133007",
     "geom:latitude":37.133007,
     "geom:longitude":127.32054,
     "gn:id":"",
     "iso:country":"KR",
+    "lbl:bbox":"127.31554,37.128007,127.32554,37.138007",
     "lbl:latitude":37.133007,
     "lbl:longitude":127.32054,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.174708,
     "mps:longitude":127.294611,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Wonsam-Myeon"
     ],
     "name:kor_x_preferred":[
-        "\uc6d0\uc0bc\uba74"
-    ],
-    "name:unk_x_variant":[
         "\uc6d0\uc0bc\uba74"
     ],
     "qs:gn_id":0,
@@ -64,17 +63,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746543,
-        85673191
+        1108746543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28807011,
-        "qs:id":1287138,
         "qs_pg:id":1287138
     },
     "wof:country":"KR",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938814,
+    "wof:lastmodified":1566586826,
     "wof:name":"\uc6d0\uc0bc\uba74",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":126.631764,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Hongseong County"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":36.551126,
     "lbl:longitude":126.661097,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Chungcheongnam-do",
     "meso:admin_1_lo":"\ucda9\uccad\ub0a8\ub3c4",
     "meso:diss_me":"Hongseong-gunChungcheongnam-do",
@@ -41,6 +43,7 @@
     "mps:longitude":126.661097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0646\u063a\u0633\u0648\u0646\u063a"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":779,
     "wof:belongsto":[
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gn:id":8393539,
         "gp:id":28289203,
-        "qs:id":1246254,
+        "qs_pg:id":1246254,
         "wd:id":"Q50343",
         "wk:page":"Hongseong County"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890472181,
-    "wof:lastmodified":1563294934,
+    "wof:lastmodified":1566589714,
     "wof:name":"Hongseong",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

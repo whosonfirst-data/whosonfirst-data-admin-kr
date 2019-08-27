@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.835054,
     "lbl:longitude":128.510046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.835054,
     "mps:longitude":128.510046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Daegu"
     ],
@@ -283,7 +286,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0433\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daeguri"
     ],
     "name:urd_x_preferred":[
@@ -321,7 +324,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -353,7 +356,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290060,
+    "wof:lastmodified":1566586187,
     "wof:name":"T\u014fksan",
     "wof:parent_id":890476025,
     "wof:placetype":"locality",

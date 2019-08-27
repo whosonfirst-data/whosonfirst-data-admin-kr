@@ -11,7 +11,7 @@
     "geom:longitude":126.455298,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Yeonggwang County"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.251764,
     "lbl:longitude":126.489461,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Yeonggwang-gunJeollanam-do",
@@ -41,6 +43,7 @@
     "mps:longitude":126.489461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yeonggwang-gun"
     ],
@@ -92,7 +95,7 @@
     "name:tur_x_preferred":[
         "Yeonggwang \u0130l\u00e7esi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reik\u014d-gun"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":232,
     "wof:belongsto":[
@@ -124,7 +127,7 @@
     "wof:concordances":{
         "gn:id":1832500,
         "gp:id":28289329,
-        "qs:id":372344,
+        "qs_pg:id":372344,
         "wd:id":"Q50259",
         "wk:page":"Yeonggwang County"
     },
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":890473229,
-    "wof:lastmodified":1563294987,
+    "wof:lastmodified":1566589741,
     "wof:name":"Yeonggwang",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":126.755098,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Gwangsan District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.168266,
     "lbl:longitude":126.762346,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gwangju",
     "meso:admin_1_lo":"\uad11\uc8fc\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Gwangsan-guGwangju",
@@ -41,6 +43,7 @@
     "mps:longitude":126.762346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gwangsan-gu"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":101,
     "wof:belongsto":[
@@ -106,7 +109,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1841791,
-        "qs:id":356113,
+        "qs_pg:id":356113,
         "wd:id":"Q50354",
         "wk:page":"Gwangsan District"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":890473197,
-    "wof:lastmodified":1563295026,
+    "wof:lastmodified":1566589760,
     "wof:name":"Gwangsan",
     "wof:parent_id":85673199,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.6822,36.5206,126.7222,36.5606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Munsan-eup"
     ],
@@ -35,8 +39,7 @@
         "\ubb38\uc0b0\uc74d"
     ],
     "name:und_x_variant":[
-        "\ubb38\uc0b0",
-        "Munsan"
+        "\ubb38\uc0b0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1360148203,
-    "wof:lastmodified":1564127856,
+    "wof:lastmodified":1566589358,
     "wof:name":"Munsan",
     "wof:parent_id":890472181,
     "wof:placetype":"locality",

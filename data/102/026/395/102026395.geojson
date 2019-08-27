@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.589476,
     "lbl:longitude":127.130068,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":37.589476,
     "mps:longitude":127.130068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0631\u064a"
     ],
@@ -195,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.594722,
     "wd:longitude":127.142778,
@@ -209,7 +212,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1841988,
-        "qs:id":137028,
         "qs_pg:id":137028,
         "wd:id":"Q42071",
         "wk:page":"Guri"
@@ -226,7 +228,7 @@
         }
     ],
     "wof:id":102026395,
-    "wof:lastmodified":1563290060,
+    "wof:lastmodified":1566586187,
     "wof:name":"Kuri",
     "wof:parent_id":890474591,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":126.72739,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.436847,
     "lbl:longitude":126.732784,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Incheon",
     "meso:admin_1_lo":"\uc778\ucc9c\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Namdong-guIncheon",
@@ -42,6 +44,7 @@
     "mps:longitude":126.732784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Namdong"
     ],
@@ -55,9 +58,6 @@
     "name:kor_x_variant":[
         "\ub0a8\ub3d9",
         "\ub0a8\ub3d9\uad6c"
-    ],
-    "name:unk_x_variant":[
-        "Namdong"
     ],
     "qs:name":"\ub0a8\ub3d9\uad6c",
     "qs:name_adm0":"\ud55c\uad6d",
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -86,7 +86,7 @@
     "wof:concordances":{
         "gn:id":8417651,
         "gp:id":28289256,
-        "qs:id":239608,
+        "qs_pg:id":239608,
         "wd:id":"Q6616970",
         "wk:page":"List of districts and counties of Incheon"
     },
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":890472449,
-    "wof:lastmodified":1555047473,
+    "wof:lastmodified":1566589702,
     "wof:name":"Namdong",
     "wof:parent_id":85673177,
     "wof:placetype":"county",

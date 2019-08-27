@@ -11,11 +11,14 @@
     "geom:longitude":128.49693,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"128.49193,35.85484,128.50193,35.86484",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Sindang-dong"
     ],
@@ -30,9 +33,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e02\u0e27\u0e07\u0e0a\u0e34\u0e19\u0e14\u0e31\u0e07"
-    ],
-    "name:unk_x_variant":[
-        "Sindang-dong"
     ],
     "name:vie_x_preferred":[
         "Sindang-dong"
@@ -63,7 +63,7 @@
     "wof:concordances":{
         "gn:id":6900644,
         "gp:id":28995139,
-        "qs:id":1104007,
+        "qs_pg:id":1104007,
         "wd:id":"Q492299"
     },
     "wof:country":"KR",
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":890474663,
-    "wof:lastmodified":1563295127,
+    "wof:lastmodified":1566589806,
     "wof:name":"\uc2e0\ub2f9\ub3d9",
     "wof:parent_id":102026537,
     "wof:placetype":"neighbourhood",

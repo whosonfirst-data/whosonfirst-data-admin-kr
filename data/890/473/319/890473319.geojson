@@ -11,7 +11,7 @@
     "geom:longitude":127.034557,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Seocho District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":37.477136,
     "lbl:longitude":127.019659,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Seoul",
     "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
     "meso:diss_me":"Seocho-guSeoul",
@@ -41,6 +43,7 @@
     "mps:longitude":127.019659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Seocho-gu"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":707,
     "wof:belongsto":[
@@ -131,7 +134,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8349535,
-        "qs:id":1042695,
+        "qs_pg:id":1042695,
         "wd:id":"Q20395",
         "wk:page":"Seocho District"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":890473319,
-    "wof:lastmodified":1563295063,
+    "wof:lastmodified":1566589775,
     "wof:name":"Seocho",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

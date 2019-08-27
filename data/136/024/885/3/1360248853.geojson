@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.88611,34.68528,126.92611,34.72528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandu"
     ],
@@ -59,8 +63,7 @@
         "\u0421\u0430\u043d\u0434\u0443"
     ],
     "name:und_x_variant":[
-        "Mae-bong",
-        "Sandu"
+        "Mae-bong"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1360248853,
-    "wof:lastmodified":1564127829,
+    "wof:lastmodified":1566589343,
     "wof:name":"Sandu",
     "wof:parent_id":890473547,
     "wof:placetype":"locality",

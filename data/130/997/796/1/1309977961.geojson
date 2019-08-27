@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.00035,34.70759,127.04035,34.74759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Guam"
     ],
@@ -371,8 +375,7 @@
         "\u0413\u0443\u0430\u043c"
     ],
     "name:und_x_variant":[
-        "Kuam",
-        "Guam"
+        "Kuam"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0627\u0645"
@@ -418,7 +421,7 @@
         }
     ],
     "wof:id":1309977961,
-    "wof:lastmodified":1564128098,
+    "wof:lastmodified":1566589475,
     "wof:name":"Guam",
     "wof:parent_id":890473031,
     "wof:placetype":"locality",

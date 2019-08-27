@@ -11,12 +11,15 @@
     "geom:longitude":127.051,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.046,36.2951,127.056,36.3051",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Hyo-dong"
     ],
     "qs:name":"\ud6a8\ub3d9",
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":6883107,
         "gp:id":28995210,
-        "qs:id":908173
+        "qs_pg:id":908173
     },
     "wof:country":"KR",
     "wof:created":1469054061,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890476073,
-    "wof:lastmodified":1505343720,
+    "wof:lastmodified":1566589641,
     "wof:name":"\ud6a8\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

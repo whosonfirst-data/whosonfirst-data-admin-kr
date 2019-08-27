@@ -11,10 +11,14 @@
     "geom:longitude":128.74889,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":53103,
+    "gn:population":53103,
     "iso:country":"KR",
+    "lbl:bbox":"128.72889,35.47333,128.76889,35.51333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:cat_x_preferred":[
         "Miryang"
     ],
@@ -105,7 +109,7 @@
     "name:tur_x_preferred":[
         "Miryang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mitsuy\u014d"
     ],
     "name:urd_x_preferred":[
@@ -138,7 +142,7 @@
     "wof:concordances":{
         "gn:id":1841149,
         "gp:id":28808760,
-        "qs:id":89633,
+        "qs_pg:id":89633,
         "wd:id":"Q42096",
         "wk:page":"Miryang"
     },
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":890472163,
-    "wof:lastmodified":1563294942,
+    "wof:lastmodified":1566589719,
     "wof:name":"Miryang",
     "wof:parent_id":890472405,
     "wof:placetype":"locality",

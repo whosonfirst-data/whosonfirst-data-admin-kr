@@ -11,10 +11,14 @@
     "geom:longitude":126.73194,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":22267,
+    "gn:population":22267,
     "iso:country":"KR",
+    "lbl:bbox":"126.71194,35.70806,126.75194,35.74806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Puan"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Puan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fuan"
     ],
     "qs:name":"Puan",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1838722,
         "gp:id":28807955,
-        "qs:id":89617,
+        "qs_pg:id":89617,
         "wk:page":"Puan"
     },
     "wof:country":"KR",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890476503,
-    "wof:lastmodified":1564128366,
+    "wof:lastmodified":1566589629,
     "wof:name":"Puan",
     "wof:parent_id":890475783,
     "wof:placetype":"locality",

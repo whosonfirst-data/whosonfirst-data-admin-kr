@@ -11,7 +11,7 @@
     "geom:longitude":126.929113,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Buk District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.209377,
     "lbl:longitude":126.907711,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gwangju",
     "meso:admin_1_lo":"\uad11\uc8fc\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Buk-guGwangju",
@@ -41,6 +43,7 @@
     "mps:longitude":126.907711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Buk-gu"
     ],
@@ -253,7 +256,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":39,
     "wof:belongsto":[
@@ -264,7 +267,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462136,
-        "qs:id":1042739,
+        "qs_pg:id":1042739,
         "wd:id":"Q6497681",
         "wk:page":"Buk-gu"
     },
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":890473321,
-    "wof:lastmodified":1563295063,
+    "wof:lastmodified":1566589776,
     "wof:name":"Buk",
     "wof:parent_id":85673199,
     "wof:placetype":"county",

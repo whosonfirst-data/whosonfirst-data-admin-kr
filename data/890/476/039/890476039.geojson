@@ -11,7 +11,7 @@
     "geom:longitude":128.98942,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Sasang District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.159786,
     "lbl:longitude":128.990023,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Busan",
     "meso:admin_1_lo":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Sasang-guBusan",
@@ -41,6 +43,7 @@
     "mps:longitude":128.990023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sasang"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Sasang-gu"
     ],
-    "name:unk_x_variant":[
-        "Sasang"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0633\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -117,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462803,
-        "qs:id":209104,
+        "qs_pg:id":209104,
         "wd:id":"Q50398",
         "wk:page":"Sasang District"
     },
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":890476039,
-    "wof:lastmodified":1561826899,
+    "wof:lastmodified":1566589636,
     "wof:name":"Sasang",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

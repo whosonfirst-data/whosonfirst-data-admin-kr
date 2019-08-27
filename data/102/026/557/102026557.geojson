@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":3122465.208355,
+    "geom:area_square_m":3122465.208364,
     "geom:bbox":"128.698987938,37.6617639488,128.721666373,37.6797905284",
     "geom:latitude":37.670777,
     "geom:longitude":128.710327,
@@ -14,10 +14,14 @@
     "iso:country":"KR",
     "lbl:latitude":37.670777,
     "lbl:longitude":128.710327,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.670777,
     "mps:longitude":128.710327,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\uc6a9\ud3c9"
     ],
     "qs:a1":"*",
@@ -32,7 +36,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":102026557,
-    "wof:lastmodified":1501273110,
+    "wof:lastmodified":1566586174,
     "wof:name":"Yongp\u2019y\u014fng",
     "wof:parent_id":890476059,
     "wof:placetype":"locality",

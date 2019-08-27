@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.368896,
     "lbl:longitude":129.050903,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.368896,
     "mps:longitude":129.050903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u062c\u0633\u0627\u0646"
     ],
@@ -144,7 +147,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0441\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\uc591\uc0b0"
     ],
     "name:urd_x_preferred":[
@@ -171,7 +174,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":35.338611,
     "wd:longitude":129.038611,
     "wd:wordcount":234,
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":102026587,
-    "wof:lastmodified":1563290057,
+    "wof:lastmodified":1566586186,
     "wof:name":"Yangsan",
     "wof:parent_id":890474597,
     "wof:placetype":"locality",

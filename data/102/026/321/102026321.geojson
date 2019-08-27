@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":36.760891,
     "lbl:longitude":126.326294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.760891,
     "mps:longitude":126.326294,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0622\u0646"
     ],
@@ -69,7 +72,7 @@
     "name:swe_x_preferred":[
         "Taean"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019aean"
     ],
     "name:urd_x_preferred":[
@@ -93,7 +96,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102026321,
-    "wof:lastmodified":1563290095,
+    "wof:lastmodified":1566586198,
     "wof:name":"Taian",
     "wof:parent_id":1108746537,
     "wof:placetype":"locality",

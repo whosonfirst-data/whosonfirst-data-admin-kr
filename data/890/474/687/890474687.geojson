@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":34.835036,
     "lbl:longitude":126.733402,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Yeongam-gunJeollanam-do",
@@ -39,6 +41,7 @@
     "mps:longitude":126.733402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Yeongam"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":231,
     "wof:belongsto":[
         102191569,
@@ -136,7 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289322,
-        "qs:id":32692,
+        "qs_pg:id":32692,
         "wd:id":"Q50262",
         "wk:page":"Yeongam County"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890474687,
-    "wof:lastmodified":1563295084,
+    "wof:lastmodified":1566589785,
     "wof:name":"Yeongam",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

@@ -11,17 +11,21 @@
     "geom:longitude":127.34293,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":19842,
+    "gn:population":19842,
     "iso:country":"KR",
+    "lbl:bbox":"127.32293,34.82494,127.36293,34.86494",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:kor_x_preferred":[
         "P\u014flgyo"
     ],
     "name:kor_x_variant":[
         "\ubc8c\uad50"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bakky\u014d-ri"
     ],
     "qs:name":"Beolgyo",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1839011,
         "gp:id":28808121,
-        "qs:id":89618
+        "qs_pg:id":89618
     },
     "wof:country":"KR",
     "wof:created":1469054077,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890476505,
-    "wof:lastmodified":1505343721,
+    "wof:lastmodified":1566589628,
     "wof:name":"Beolgyo",
     "wof:parent_id":890473031,
     "wof:placetype":"locality",

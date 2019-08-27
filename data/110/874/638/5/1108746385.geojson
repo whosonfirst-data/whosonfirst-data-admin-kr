@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.526345,
     "lbl:longitude":126.804832,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"BucheonsiojeongguGyeonggi-do",
@@ -38,6 +40,7 @@
     "mps:longitude":126.804832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Gangseo"
     ],
@@ -119,7 +122,7 @@
         "\u6c5f\u897f\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1108746385,
-    "wof:lastmodified":1563293713,
+    "wof:lastmodified":1566588965,
     "wof:name":"Ojeong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

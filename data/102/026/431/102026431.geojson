@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":36.128567,
     "lbl:longitude":128.096451,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":36.128567,
     "mps:longitude":128.096451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Gimcheon"
     ],
@@ -110,7 +113,7 @@
     "name:tur_x_preferred":[
         "Gimcheon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u016dmch'\u014fn-si"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":36.119167,
     "wd:longitude":128.115278,
@@ -157,7 +160,6 @@
     "wof:concordances":{
         "gn:id":1842944,
         "gp:id":28808339,
-        "qs:id":1027784,
         "qs_pg:id":1027784,
         "wd:id":"Q42078",
         "wk:page":"Gimcheon"
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":102026431,
-    "wof:lastmodified":1563290044,
+    "wof:lastmodified":1566586181,
     "wof:name":"Gimcheon",
     "wof:parent_id":890473179,
     "wof:placetype":"locality",

@@ -11,12 +11,15 @@
     "geom:longitude":127.16778,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.16278,37.44472,127.17278,37.45472",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Geumgwangi-dong"
     ],
     "qs:name":"\uae08\uad112\ub3d9",
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":6571539,
         "gp:id":28806716,
-        "qs:id":401659
+        "qs_pg:id":401659
     },
     "wof:country":"KR",
     "wof:created":1469054057,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890475979,
-    "wof:lastmodified":1505343720,
+    "wof:lastmodified":1566589668,
     "wof:name":"\uae08\uad112\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

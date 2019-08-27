@@ -15,6 +15,8 @@
     "iso:country":"KR",
     "lbl:latitude":37.393565,
     "lbl:longitude":127.110205,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":37.393565,
     "mps:longitude":127.110205,
     "mz:hierarchy_label":1,
@@ -340,7 +342,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.438611,
     "wd:longitude":127.137778,
@@ -355,7 +357,6 @@
     "wof:concordances":{
         "gn:id":1897000,
         "gp:id":1132559,
-        "qs:id":6997,
         "qs_pg:id":6997,
         "wd:id":"Q42108"
     },
@@ -371,7 +372,7 @@
         }
     ],
     "wof:id":102026521,
-    "wof:lastmodified":1563290050,
+    "wof:lastmodified":1566586184,
     "wof:megacity":1,
     "wof:name":"Seongnam",
     "wof:parent_id":1108746519,

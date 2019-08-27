@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"128.33957,35.46099,128.37957,35.50099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oso"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Oso-dong",
-        "\uc624\uc18c",
-        "Oso"
+        "\uc624\uc18c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1243042261,
-    "wof:lastmodified":1564129130,
+    "wof:lastmodified":1566590079,
     "wof:name":"Oso",
     "wof:parent_id":890474629,
     "wof:placetype":"locality",

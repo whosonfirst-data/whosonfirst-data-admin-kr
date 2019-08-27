@@ -11,8 +11,11 @@
     "geom:longitude":126.784166,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"126.779166,37.480781,126.789166,37.490781",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\uc2ec\uace11\ub3d9",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uacbd\uae30\ub3c4",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
         102026355,
-        1108746419,
-        85673191
+        1108746419
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28806786,
-        "qs:id":1293191
+        "qs_pg:id":1293191
     },
     "wof:country":"KR",
     "wof:created":1469053930,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890472901,
-    "wof:lastmodified":1500028577,
+    "wof:lastmodified":1566589697,
     "wof:name":"\uc2ec\uace11\ub3d9",
     "wof:parent_id":102026355,
     "wof:placetype":"neighbourhood",

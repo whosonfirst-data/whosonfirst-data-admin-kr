@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"128.7979,37.2073,128.8379,37.2473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0628\u0648\u06a9"
     ],
@@ -35,8 +39,7 @@
         "Sabuk"
     ],
     "name:und_x_variant":[
-        "Sabung-ni",
-        "Sabuk"
+        "Sabung-ni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243285555,
-    "wof:lastmodified":1564129471,
+    "wof:lastmodified":1566590251,
     "wof:name":"Sabuk",
     "wof:parent_id":890473513,
     "wof:placetype":"locality",

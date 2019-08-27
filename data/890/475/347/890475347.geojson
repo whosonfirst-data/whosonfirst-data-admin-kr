@@ -11,11 +11,15 @@
     "geom:longitude":126.31833,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":23717,
+    "gn:population":23717,
     "iso:country":"KR",
+    "lbl:bbox":"126.29833,33.44444,126.33833,33.48444",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Aew\u014fl"
     ],
     "qs:name":"Gaigeturi",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1847050,
         "gp:id":1132454,
-        "qs:id":89665
+        "qs_pg:id":89665
     },
     "wof:country":"KR",
     "wof:created":1469054030,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890475347,
-    "wof:lastmodified":1505343719,
+    "wof:lastmodified":1566589672,
     "wof:name":"Gaigeturi",
     "wof:parent_id":890473039,
     "wof:placetype":"locality",

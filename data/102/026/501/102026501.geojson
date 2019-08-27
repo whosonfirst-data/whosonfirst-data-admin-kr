@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.402139,
     "lbl:longitude":126.944154,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":37.402139,
     "mps:longitude":126.944154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Anyang"
     ],
@@ -182,7 +185,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1375,
     "wof:belongsto":[
@@ -196,7 +199,6 @@
         "fct:id":"146ffe3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1846898,
         "gp:id":1132443,
-        "qs:id":351281,
         "qs_pg:id":351281
     },
     "wof:country":"KR",
@@ -214,7 +216,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1564123312,
+    "wof:lastmodified":1566586188,
     "wof:name":"Anyang",
     "wof:parent_id":1108746411,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":36.4964,
     "gn:longitude":126.7269,
     "iso:country":"KR",
+    "lbl:bbox":"126.598507,37.223566,126.608507,37.233566",
     "lbl:latitude":37.228566,
     "lbl:longitude":126.603507,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.286725,
     "mps:longitude":126.574928,
     "mz:hierarchy_label":0,
@@ -44,9 +46,8 @@
     "name:swe_x_preferred":[
         "Daebu-dong"
     ],
-    "name:unk_x_variant":[
-        "Taebu-dong",
-        "\ub300\ubd80\ub3d9"
+    "name:und_x_variant":[
+        "Taebu-dong"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -75,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569
     ],
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":6883768,
         "gp:id":28806893,
-        "qs:id":1086459,
+        "qs_pg:id":1086459,
         "wd:id":"Q17453794"
     },
     "wof:country":"KR",
@@ -101,7 +102,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290900,
+    "wof:lastmodified":1566586827,
     "wof:name":"\ub300\ubd80\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

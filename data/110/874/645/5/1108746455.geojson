@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.978089,
     "lbl:longitude":127.582946,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Chungcheongbuk-do",
     "meso:admin_1_lo":"\ucda9\uccad\ubd81\ub3c4",
     "meso:diss_me":"Eumseong-gunChungcheongbuk-do",
@@ -38,6 +40,7 @@
     "mps:longitude":127.582946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0633\u0648\u0646\u063a"
     ],
@@ -127,7 +130,7 @@
         "\u9670\u57ce\u90e1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1108746455,
-    "wof:lastmodified":1563293700,
+    "wof:lastmodified":1566588955,
     "wof:name":"Eumseong",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

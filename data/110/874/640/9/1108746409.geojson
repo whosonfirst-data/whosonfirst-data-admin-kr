@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.299327,
     "lbl:longitude":126.866782,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"AnsansisangnokguGyeonggi-do",
@@ -38,6 +40,7 @@
     "mps:longitude":126.866782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sangnok"
     ],
@@ -49,7 +52,7 @@
         "\uc548\uc0b0\uc2dc\uc0c1\ub85d\uad6c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108746409,
-    "wof:lastmodified":1555047482,
+    "wof:lastmodified":1566588958,
     "wof:name":"Sangnok",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":36.669964,
     "lbl:longitude":126.819425,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Chungcheongnam-do",
     "meso:admin_1_lo":"\ucda9\uccad\ub0a8\ub3c4",
     "meso:diss_me":"Yesan-gunChungcheongnam-do",
@@ -39,6 +41,7 @@
     "mps:longitude":126.819425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0633\u0627\u0646"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":157,
     "wof:belongsto":[
         102191569,
@@ -133,7 +136,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289336,
-        "qs:id":1110374,
+        "qs_pg:id":1110374,
         "wd:id":"Q50307",
         "wk:page":"Yesan County"
     },
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890474695,
-    "wof:lastmodified":1563295095,
+    "wof:lastmodified":1566589791,
     "wof:name":"Yesan",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

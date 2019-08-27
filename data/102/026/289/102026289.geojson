@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.986065,
     "lbl:longitude":128.405253,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.986065,
     "mps:longitude":128.405253,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Waegwan-\u016dp"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Waegwan-\u016dp"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oegwan"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.983333,
     "wd:longitude":128.4,
@@ -86,7 +89,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1833514,
-        "qs:id":356065,
         "qs_pg:id":356065,
         "wd:id":"Q485201"
     },
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":102026289,
-    "wof:lastmodified":1563290034,
+    "wof:lastmodified":1566586178,
     "wof:name":"Waegwan",
     "wof:parent_id":890475279,
     "wof:placetype":"locality",

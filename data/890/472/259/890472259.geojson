@@ -11,7 +11,7 @@
     "geom:longitude":126.779144,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Wando County"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":34.361775,
     "lbl:longitude":126.688016,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Wando-gunJeollanam-do",
@@ -41,6 +43,7 @@
     "mps:longitude":126.688016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Wando"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "Wando \u0130l\u00e7esi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kant\u014d-gun"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":227,
     "wof:belongsto":[
@@ -120,7 +123,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1833493,
-        "qs:id":356074,
+        "qs_pg:id":356074,
         "wd:id":"Q50311",
         "wk:page":"Wando County"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":890472259,
-    "wof:lastmodified":1561826904,
+    "wof:lastmodified":1566589705,
     "wof:name":"Wando",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

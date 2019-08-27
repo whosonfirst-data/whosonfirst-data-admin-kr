@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.0516,36.2674,127.0916,36.3074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u043e"
     ],
@@ -44,8 +48,7 @@
         "Kuro"
     ],
     "name:und_x_variant":[
-        "\uad6c\ub85c",
-        "Kuro"
+        "\uad6c\ub85c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1276191647,
-    "wof:lastmodified":1564125156,
+    "wof:lastmodified":1566587531,
     "wof:name":"Kuro",
     "wof:parent_id":890474443,
     "wof:placetype":"locality",

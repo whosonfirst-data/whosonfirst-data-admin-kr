@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.903385,
     "lbl:longitude":127.155118,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Chungcheongnam-do",
     "meso:admin_1_lo":"\ucda9\uccad\ub0a8\ub3c4",
     "meso:diss_me":"CheonansiseobukguChungcheongnam-do",
@@ -38,6 +40,7 @@
     "mps:longitude":127.155118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Seobuk"
     ],
@@ -49,7 +52,7 @@
         "\ucc9c\uc548\uc2dc\uc11c\ubd81\uad6c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108746433,
-    "wof:lastmodified":1555047482,
+    "wof:lastmodified":1566588953,
     "wof:name":"Seobuk",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

@@ -11,12 +11,15 @@
     "geom:longitude":128.71389,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"128.70889,35.86417,128.71889,35.87417",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Anshim-dong"
     ],
     "qs:name":"\uc548\uc2ec\ub3d9",
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1893758,
         "gp:id":28835235,
-        "qs:id":1071855
+        "qs_pg:id":1071855
     },
     "wof:country":"KR",
     "wof:created":1469053995,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890474577,
-    "wof:lastmodified":1505343718,
+    "wof:lastmodified":1566589814,
     "wof:name":"\uc548\uc2ec\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":34.7879,
     "lbl:longitude":127.700734,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Yeosu-siJeollanam-do",
@@ -39,6 +41,7 @@
     "mps:longitude":127.700734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Wando-gun"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -123,7 +126,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289335,
-        "qs:id":369326,
+        "qs_pg:id":369326,
         "wd:id":"Q50311"
     },
     "wof:country":"KR",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":890473219,
-    "wof:lastmodified":1563294994,
+    "wof:lastmodified":1566589745,
     "wof:name":"Yeosu",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

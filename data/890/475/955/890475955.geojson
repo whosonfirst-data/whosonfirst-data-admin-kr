@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":37.779129,
     "lbl:longitude":128.076082,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gangwon-do",
     "meso:admin_1_lo":"\uac15\uc6d0\ub3c4",
     "meso:diss_me":"Hongcheon-gunGangwon-do",
@@ -39,6 +41,7 @@
     "mps:longitude":128.076082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0646\u063a\u062a\u0634\u0648\u0646"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -123,7 +126,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289204,
-        "qs:id":362817,
+        "qs_pg:id":362817,
         "wd:id":"Q50344"
     },
     "wof:country":"KR",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":890475955,
-    "wof:lastmodified":1563294824,
+    "wof:lastmodified":1566589655,
     "wof:name":"Hongcheon",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

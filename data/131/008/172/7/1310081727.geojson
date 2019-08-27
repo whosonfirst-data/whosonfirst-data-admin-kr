@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.0986,36.828,127.1386,36.868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0629"
     ],
@@ -100,10 +104,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "\uc0ac\ub77c",
-        "Sara"
-    ],
     "name:war_x_preferred":[
         "Sara"
     ],
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1310081727,
-    "wof:lastmodified":1564127442,
+    "wof:lastmodified":1566589106,
     "wof:name":"Sara",
     "wof:parent_id":1108746433,
     "wof:placetype":"locality",

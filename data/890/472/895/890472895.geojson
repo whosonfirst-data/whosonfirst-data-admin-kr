@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":37.576202,
     "lbl:longitude":126.943114,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Seoul",
     "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
     "meso:diss_me":"Seodaemun-guSeoul",
@@ -39,6 +41,7 @@
     "mps:longitude":126.943114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0434\u044d\u043c\u0443\u043d\u0433\u0443"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1366,
     "wof:belongsto":[
         102191569,
@@ -136,7 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289283,
-        "qs:id":1292747,
+        "qs_pg:id":1292747,
         "wd:id":"Q50408",
         "wk:page":"Seodaemun District"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890472895,
-    "wof:lastmodified":1563294916,
+    "wof:lastmodified":1566589705,
     "wof:name":"Seodaemun",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

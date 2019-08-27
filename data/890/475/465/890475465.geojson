@@ -11,7 +11,7 @@
     "geom:longitude":128.398651,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.382704,
     "lbl:longitude":128.383144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gangwon-do",
     "meso:admin_1_lo":"\uac15\uc6d0\ub3c4",
     "meso:diss_me":"Goseong-gunGangwon-do",
@@ -42,6 +44,7 @@
     "mps:longitude":128.383144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0648\u0633\u0648\u0646\u063a"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Goseong-gun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koj\u014d-gun"
     ],
     "name:urd_x_preferred":[
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gn:id":1842515,
         "gp:id":28289177,
-        "qs:id":335697,
+        "qs_pg:id":335697,
         "wd:id":"Q50209",
         "wk:page":"Goseong County, Gangwon"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":890475465,
-    "wof:lastmodified":1563294842,
+    "wof:lastmodified":1566589667,
     "wof:name":"Goseong",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

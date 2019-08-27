@@ -11,7 +11,7 @@
     "geom:longitude":127.830461,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.778754,
     "lbl:longitude":127.826781,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Chungcheongbuk-do",
     "meso:admin_1_lo":"\ucda9\uccad\ubd81\ub3c4",
     "meso:diss_me":"Goesan-gunChungcheongbuk-do",
@@ -42,6 +44,7 @@
     "mps:longitude":127.826781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u064a\u0633\u0627\u0646"
     ],
@@ -103,7 +106,7 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e40\u0e27\u0e0b\u0e31\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koesan-gun"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -142,7 +145,7 @@
     "wof:concordances":{
         "gn:id":1842799,
         "gp:id":28289172,
-        "qs:id":1001642,
+        "qs_pg:id":1001642,
         "wd:id":"Q50213",
         "wk:page":"Goesan County"
     },
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":890473945,
-    "wof:lastmodified":1563295061,
+    "wof:lastmodified":1566589774,
     "wof:name":"Goesan",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

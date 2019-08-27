@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000348,
-    "geom:area_square_m":3517583.696072,
+    "geom:area_square_m":3517583.696062,
     "geom:bbox":"126.853637695,35.178297732,126.875610352,35.1962884267",
     "geom:latitude":35.186741,
     "geom:longitude":126.86515,
@@ -14,9 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.187269,
     "lbl:longitude":126.865147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.187269,
     "mps:longitude":126.865147,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\ud55c\uad6d",
     "qs:a1":"*\ucda9\uccad\ubd81\ub3c4",
     "qs:a1r":"*",
@@ -34,7 +38,7 @@
     "qs:type":"Suburb",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -46,7 +50,7 @@
         "gn:id":6797693
     },
     "wof:country":"KR",
-    "wof:geomhash":"9ee130f39d92f9e98e5fcca769caebcd",
+    "wof:geomhash":"f8f062b304c18eb5f0c2ce4ccc5ac629",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":102026549,
-    "wof:lastmodified":1479834254,
+    "wof:lastmodified":1566586195,
     "wof:name":"Unam-dong",
     "wof:parent_id":890473321,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":126.854716,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.456534,
     "lbl:longitude":126.825187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Chungcheongnam-do",
     "meso:admin_1_lo":"\ucda9\uccad\ub0a8\ub3c4",
     "meso:diss_me":"Cheongyang-gunChungcheongnam-do",
@@ -42,6 +44,7 @@
     "mps:longitude":126.825187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0646\u063a\u064a\u0627\u0646\u063a"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Cheongyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seiy\u014d-gun"
     ],
     "name:urd_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":122,
     "wof:belongsto":[
@@ -135,7 +138,7 @@
     "wof:concordances":{
         "gn:id":1845490,
         "gp:id":28289135,
-        "qs:id":30462,
+        "qs_pg:id":30462,
         "wd:id":"Q50332",
         "wk:page":"Cheongyang County"
     },
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":890474649,
-    "wof:lastmodified":1563295117,
+    "wof:lastmodified":1566589801,
     "wof:name":"Cheongyang",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

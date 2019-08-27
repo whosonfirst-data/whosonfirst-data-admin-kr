@@ -11,8 +11,12 @@
     "geom:longitude":127.123982,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.023982,35.639841,127.223982,35.839841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"\uad6c\uc774\uba74",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uc804\ub77c\ubd81\ub3c4",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28807885,
-        "qs:id":288513
+        "qs_pg:id":288513
     },
     "wof:country":"KR",
     "wof:created":1469053940,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890473129,
-    "wof:lastmodified":1500028613,
+    "wof:lastmodified":1566589754,
     "wof:name":"\uad6c\uc774\uba74",
     "wof:parent_id":890474683,
     "wof:placetype":"localadmin",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4280959.650826,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.172241,37.239075,127.172241,37.239075",
     "geom:latitude":37.239075,
     "geom:longitude":127.172241,
     "gn:latitude":37.24083,
     "gn:longitude":127.17583,
     "iso:country":"KR",
+    "lbl:bbox":"127.167241,37.234075,127.177241,37.244075",
     "lbl:latitude":37.239075,
     "lbl:longitude":127.172241,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.23914,
     "mps:longitude":127.172455,
     "mz:hierarchy_label":0,
@@ -32,9 +34,8 @@
         "\uc0bc\uac00\ub3d9",
         "\uc5ed\ubd81\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Yeoksam-dong",
-        "\uc5ed\uc0bc\ub3d9"
+    "name:und_x_variant":[
+        "Yeoksam-dong"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -64,18 +65,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746543,
-        85673191
+        1108746543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6575890,
         "gp:id":28807015,
-        "qs:id":1191632,
         "qs_pg:id":1191632
     },
     "wof:country":"KR",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938815,
+    "wof:lastmodified":1566586826,
     "wof:name":"\uc5ed\uc0bc\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

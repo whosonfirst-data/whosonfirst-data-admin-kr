@@ -11,7 +11,7 @@
     "geom:longitude":128.357248,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.20601,
     "lbl:longitude":128.357328,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangbuk-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ubd81\ub3c4",
     "meso:diss_me":"Gumi-siGyeongsangbuk-do",
@@ -42,6 +44,7 @@
     "mps:longitude":128.357328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gumi"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kumi-si"
     ],
     "qs:name":"\uad6c\ubbf8\uc2dc",
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1842218,
         "gp:id":28289180,
-        "qs:id":355254
+        "qs_pg:id":355254
     },
     "wof:country":"KR",
     "wof:created":1469053887,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890472251,
-    "wof:lastmodified":1564128479,
+    "wof:lastmodified":1566589708,
     "wof:name":"Gumi",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

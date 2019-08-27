@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.22469,35.96969,127.26469,36.00969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Annam"
     ],
@@ -45,10 +49,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u043d\u0430\u043c"
-    ],
-    "name:und_x_variant":[
-        "\uc548\ub0a8",
-        "Annam"
     ],
     "name:vie_x_preferred":[
         "An Nam"
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1327344999,
-    "wof:lastmodified":1564122925,
+    "wof:lastmodified":1566585907,
     "wof:name":"Annam",
     "wof:parent_id":890474683,
     "wof:placetype":"locality",

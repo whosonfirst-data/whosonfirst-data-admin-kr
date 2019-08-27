@@ -9,14 +9,15 @@
     "geom:bbox":"127.161579631,37.5411101283,127.228933106,37.5915891403",
     "geom:latitude":37.568784,
     "geom:longitude":127.193103,
-    "gn:gn_country":"KR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
     "gn:latitude":37.56301,
     "gn:longitude":127.17253,
+    "gn:population":0,
     "iso:country":"KR",
     "lbl:latitude":37.567029,
     "lbl:longitude":127.187955,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.574314,
     "mps:longitude":127.193126,
     "mz:hierarchy_label":1,
@@ -52,9 +53,8 @@
     "name:swe_x_preferred":[
         "Gangil-dong"
     ],
-    "name:unk_x_variant":[
-        "Kangil-dong",
-        "\uac15\uc77c\ub3d9"
+    "name:und_x_variant":[
+        "Kangil-dong"
     ],
     "name:vie_x_preferred":[
         "Gangil-dong"
@@ -84,7 +84,7 @@
     "qs_pg:woe_id":28995073,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85673191,
@@ -95,7 +95,6 @@
     "wof:concordances":{
         "gn:id":6800710,
         "gp:id":28995073,
-        "qs:id":985749,
         "qs_pg:id":985749,
         "wd:id":"Q2647667"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290901,
+    "wof:lastmodified":1566586827,
     "wof:name":"\uac15\uc77c\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

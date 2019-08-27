@@ -11,7 +11,7 @@
     "geom:longitude":127.334024,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.380498,
     "lbl:longitude":127.32106,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Daejeon",
     "meso:admin_1_lo":"\ub300\uc804\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Yuseong-guDaejeon",
@@ -42,6 +44,7 @@
     "mps:longitude":127.32106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yuseong-gu"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":406,
     "wof:belongsto":[
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":8419684,
         "gp:id":28289339,
-        "qs:id":1078809,
+        "qs_pg:id":1078809,
         "wd:id":"Q50431",
         "wk:page":"Yuseong District"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":890474599,
-    "wof:lastmodified":1563295108,
+    "wof:lastmodified":1566589797,
     "wof:name":"Yuseong",
     "wof:parent_id":85673207,
     "wof:placetype":"county",

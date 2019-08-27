@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.562689,
     "lbl:longitude":126.680666,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Incheon",
     "meso:admin_1_lo":"\uc778\ucc9c\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Seo-guIncheon",
@@ -38,6 +40,7 @@
     "mps:longitude":126.680666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Seo"
     ],
@@ -70,7 +73,7 @@
         "SEO"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108746517,
-    "wof:lastmodified":1564127224,
+    "wof:lastmodified":1566588956,
     "wof:name":"Seo",
     "wof:parent_id":85673177,
     "wof:placetype":"county",

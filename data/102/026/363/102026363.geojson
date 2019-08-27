@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":36.310696,
     "lbl:longitude":127.568774,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.310696,
     "mps:longitude":127.568774,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u062a\u0634\u0648\u0646"
     ],
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Okcheon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kumgu-ri"
     ],
     "name:urd_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":1839873,
         "gp:id":28807459,
-        "qs:id":276633,
         "qs_pg:id":276633,
         "wd:id":"Q50309",
         "wk:page":"Okcheon County"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":102026363,
-    "wof:lastmodified":1563290027,
+    "wof:lastmodified":1566586175,
     "wof:name":"\uc625\ucc9c\uad70",
     "wof:parent_id":890475545,
     "wof:placetype":"locality",

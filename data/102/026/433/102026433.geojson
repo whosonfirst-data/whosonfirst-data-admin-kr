@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005598,
-    "geom:area_square_m":54700321.39047,
+    "geom:area_square_m":54700321.390484,
     "geom:bbox":"127.402596197,37.7139250578,127.535169874,37.879527182",
     "geom:latitude":37.793436,
     "geom:longitude":127.482455,
@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.822166,
     "lbl:longitude":127.519144,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":37.822166,
     "mps:longitude":127.519144,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Gapyeong County"
     ],
@@ -34,7 +37,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043f\u0445\u0451\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gapyeong-gun"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -65,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1843082,
-        "qs:id":1027785,
         "qs_pg:id":1027785
     },
     "wof:country":"KR",
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":102026433,
-    "wof:lastmodified":1505338991,
+    "wof:lastmodified":1566586194,
     "wof:name":"Gapyeong",
     "wof:parent_id":890472417,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"128.35139,36.85417,128.39139,36.89417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mino"
     ],
@@ -60,8 +64,7 @@
         "\u041c\u0456\u043d\u043e"
     ],
     "name:und_x_variant":[
-        "Mino-ri",
-        "Mino"
+        "Mino-ri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1326729081,
-    "wof:lastmodified":1564122566,
+    "wof:lastmodified":1566585656,
     "wof:name":"Mino",
     "wof:parent_id":890472599,
     "wof:placetype":"locality",

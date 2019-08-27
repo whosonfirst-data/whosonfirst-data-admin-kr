@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000634,
-    "geom:area_square_m":6245360.839298,
+    "geom:area_square_m":6245360.839295,
     "geom:bbox":"128.4024049,37.0768436399,128.611715244,37.3660725579",
     "geom:latitude":37.221696,
     "geom:longitude":128.506917,
@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.357059,
     "lbl:longitude":128.413696,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":37.357059,
     "mps:longitude":128.413696,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:kor_x_preferred":[
         "Y\u014fngw\u014fl"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,6 @@
     "wof:concordances":{
         "gn:id":1832257,
         "gp:id":28807314,
-        "qs:id":137011,
         "qs_pg:id":137011
     },
     "wof:country":"KR",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":102026261,
-    "wof:lastmodified":1505338989,
+    "wof:lastmodified":1566586180,
     "wof:name":"Neietsu",
     "wof:parent_id":890476059,
     "wof:placetype":"locality",

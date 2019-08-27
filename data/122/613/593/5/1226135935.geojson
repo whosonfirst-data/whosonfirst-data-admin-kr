@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.6448,36.0593,127.6848,36.0993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Muga"
     ],
@@ -41,8 +45,7 @@
         "Muga"
     ],
     "name:und_x_variant":[
-        "\ubb34\uac00",
-        "Muga"
+        "\ubb34\uac00"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226135935,
-    "wof:lastmodified":1564130590,
+    "wof:lastmodified":1566590845,
     "wof:name":"Muga",
     "wof:parent_id":890473559,
     "wof:placetype":"locality",

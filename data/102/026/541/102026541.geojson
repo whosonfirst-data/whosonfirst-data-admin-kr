@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002266,
-    "geom:area_square_m":23021981.823872,
+    "geom:area_square_m":23021981.823865,
     "geom:bbox":"127.65570153,34.7100240655,127.76543555,34.7731942466",
     "geom:latitude":34.742225,
     "geom:longitude":127.70515,
@@ -14,10 +14,14 @@
     "iso:country":"KR",
     "lbl:latitude":34.761148,
     "lbl:longitude":127.668907,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.761148,
     "mps:longitude":127.668907,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\uc5ec\uc218"
     ],
     "qs:a1":"*",
@@ -32,7 +36,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":102026541,
-    "wof:lastmodified":1501272923,
+    "wof:lastmodified":1566586198,
     "wof:name":"Yongsu",
     "wof:parent_id":890473219,
     "wof:placetype":"locality",

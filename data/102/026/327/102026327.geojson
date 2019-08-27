@@ -15,6 +15,8 @@
     "iso:country":"KR",
     "lbl:latitude":37.539619,
     "lbl:longitude":127.009676,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":2.5,
     "mps:latitude":37.539619,
     "mps:longitude":127.009676,
     "mz:hierarchy_label":1,
@@ -613,9 +615,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0443\u043b"
     ],
-    "name:unk_x_variant":[
-        "S\u014ful"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0648\u0644"
     ],
@@ -777,7 +776,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -795,7 +794,6 @@
         "gp:id":1132599,
         "loc:id":"n79066627",
         "nyt:id":"57074030312950130901",
-        "qs:id":1073966,
         "qs_pg:id":1073966,
         "wd:id":"Q8684"
     },
@@ -817,7 +815,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290088,
+    "wof:lastmodified":1566586196,
     "wof:megacity":1,
     "wof:name":"Seoul",
     "wof:parent_id":890475295,

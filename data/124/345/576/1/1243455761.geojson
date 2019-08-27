@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.18901,35.95504,127.22901,35.99504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kosan"
     ],
@@ -33,8 +37,7 @@
     ],
     "name:und_x_variant":[
         "Kozan",
-        "\uace0\uc0b0",
-        "Kosan"
+        "\uace0\uc0b0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1243455761,
-    "wof:lastmodified":1564129462,
+    "wof:lastmodified":1566590247,
     "wof:name":"Kosan",
     "wof:parent_id":890474683,
     "wof:placetype":"locality",

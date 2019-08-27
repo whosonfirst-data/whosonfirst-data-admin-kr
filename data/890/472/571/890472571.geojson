@@ -11,11 +11,14 @@
     "geom:longitude":126.77722,
     "gn:country":"KR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"126.77222,37.51611,126.78222,37.52611",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\uc2ec\uace12\ub3d9",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uacbd\uae30\ub3c4",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":6364153,
         "gp:id":28806787,
-        "qs:id":1205978
+        "qs_pg:id":1205978
     },
     "wof:country":"KR",
     "wof:created":1469053909,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890472571,
-    "wof:lastmodified":1505343715,
+    "wof:lastmodified":1566589730,
     "wof:name":"\uc2ec\uace12\ub3d9",
     "wof:parent_id":102026355,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":127.079561,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.916901,
     "lbl:longitude":127.074355,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"Dongducheon-siGyeonggi-do",
@@ -42,6 +44,7 @@
     "mps:longitude":127.074355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u063a\u062f\u0627\u062a\u0634\u064a\u0648\u0646"
     ],
@@ -127,7 +130,7 @@
     "name:tur_x_preferred":[
         "Dongducheon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tongduch\u2019\u014fn-si"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -168,7 +171,7 @@
     "wof:concordances":{
         "gn:id":1834308,
         "gp:id":28289153,
-        "qs:id":231144
+        "qs_pg:id":231144
     },
     "wof:country":"KR",
     "wof:created":1469054068,
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":890476241,
-    "wof:lastmodified":1564128385,
+    "wof:lastmodified":1566589641,
     "wof:name":"Dongducheon",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

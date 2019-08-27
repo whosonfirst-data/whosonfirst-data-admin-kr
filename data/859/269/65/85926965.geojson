@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
-    "geom:area_square_m":2333433.366444,
+    "geom:area_square_m":2333433.366445,
     "geom:bbox":"126.947021484,37.6316344375,126.966247559,37.6495514319",
     "geom:latitude":37.639654,
     "geom:longitude":126.95538,
@@ -14,6 +14,7 @@
     "iso:country":"KR",
     "lbl:latitude":37.639031,
     "lbl:longitude":126.95636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.639339,
     "mps:longitude":126.954235,
     "mz:hierarchy_label":1,
@@ -31,9 +32,8 @@
     "name:kor_x_variant":[
         "\uc9c4\uad00\ub0b4"
     ],
-    "name:unk_x_variant":[
-        "Chin\u2019gwannae-dong",
-        "\uc9c4\uad00\ub0b4\ub3d9"
+    "name:und_x_variant":[
+        "Chin\u2019gwannae-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -61,7 +61,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85673191,
@@ -73,7 +73,7 @@
     "wof:concordances":{
         "gn:id":6801519,
         "gp:id":28995032,
-        "qs:id":1086492
+        "qs_pg:id":1086492
     },
     "wof:country":"KR",
     "wof:geomhash":"c0671c3b59a188cacc45c741415a1915",
@@ -97,7 +97,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1507660174,
+    "wof:lastmodified":1566586827,
     "wof:name":"\uc9c4\uad00\ub0b4\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

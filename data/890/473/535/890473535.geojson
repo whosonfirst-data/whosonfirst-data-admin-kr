@@ -11,8 +11,11 @@
     "geom:longitude":127.73778,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":341994,
+    "gn:population":341994,
     "iso:country":"KR",
+    "lbl:bbox":"127.71778,34.72417,127.75778,34.76417",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u0441\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rasui"
     ],
     "name:urd_x_preferred":[
@@ -279,7 +282,7 @@
     "wof:concordances":{
         "gn:id":1832157,
         "gp:id":28807999,
-        "qs:id":564351,
+        "qs_pg:id":564351,
         "wd:id":"Q42125"
     },
     "wof:country":"KR",
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":890473535,
-    "wof:lastmodified":1563294986,
+    "wof:lastmodified":1566589741,
     "wof:name":"Reisui",
     "wof:parent_id":890473219,
     "wof:placetype":"locality",

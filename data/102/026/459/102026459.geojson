@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.646783,
     "lbl:longitude":127.684119,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":37.646783,
     "mps:longitude":127.684119,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0646\u063a\u062a\u0634\u0648\u0646"
     ],
@@ -68,7 +71,7 @@
     "name:swe_x_preferred":[
         "Hongcheon-gun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u014dsen"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":1844191,
         "gp:id":28807293,
-        "qs:id":372364,
         "qs_pg:id":372364,
         "wd:id":"Q50344",
         "wk:page":"Hongcheon County"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":102026459,
-    "wof:lastmodified":1563290083,
+    "wof:lastmodified":1566586194,
     "wof:name":"Hongch\u2019\u014fn",
     "wof:parent_id":890475955,
     "wof:placetype":"locality",

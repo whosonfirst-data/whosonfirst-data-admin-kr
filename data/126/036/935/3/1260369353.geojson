@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.3048,37.5237,127.3448,37.5637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Param"
     ],
@@ -35,10 +39,6 @@
         "Param"
     ],
     "name:swe_x_preferred":[
-        "Param"
-    ],
-    "name:und_x_variant":[
-        "\ud314\uc554",
         "Param"
     ],
     "src:geom":"geonames",
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1260369353,
-    "wof:lastmodified":1564127037,
+    "wof:lastmodified":1566588831,
     "wof:name":"Param",
     "wof:parent_id":890475313,
     "wof:placetype":"locality",

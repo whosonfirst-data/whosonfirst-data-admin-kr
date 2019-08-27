@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":34.89649,
     "lbl:longitude":126.317144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Sinan-gunJeollanam-do",
@@ -39,6 +41,7 @@
     "mps:longitude":126.317144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u0456\u043d\u0430\u043d"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":280,
     "wof:belongsto":[
         102191569,
@@ -132,7 +135,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289291,
-        "qs:id":1115827,
+        "qs_pg:id":1115827,
         "wd:id":"Q50252",
         "wk:page":"Sinan County, South Jeolla"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":890475041,
-    "wof:lastmodified":1563294827,
+    "wof:lastmodified":1566589657,
     "wof:name":"Sinan",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

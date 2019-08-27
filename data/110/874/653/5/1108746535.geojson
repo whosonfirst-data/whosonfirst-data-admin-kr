@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.281646,
     "lbl:longitude":127.058662,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"SuwonsiyeongtongguGyeonggi-do",
@@ -38,6 +40,7 @@
     "mps:longitude":127.058662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Yeongtong"
     ],
@@ -49,7 +52,7 @@
         "\uc218\uc6d0\uc2dc\uc601\ud1b5\uad6c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108746535,
-    "wof:lastmodified":1555047483,
+    "wof:lastmodified":1566588964,
     "wof:name":"Yeongtong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

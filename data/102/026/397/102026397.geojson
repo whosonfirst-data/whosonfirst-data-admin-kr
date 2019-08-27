@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001877,
-    "geom:area_square_m":18741015.589553,
+    "geom:area_square_m":18741015.58957,
     "geom:bbox":"128.56736235,36.0267581105,128.831305762,36.2665780297",
     "geom:latitude":36.149742,
     "geom:longitude":128.648047,
@@ -15,17 +15,20 @@
     "iso:country":"KR",
     "lbl:latitude":36.257563,
     "lbl:longitude":128.600464,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":36.257563,
     "mps:longitude":128.600464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:kor_x_preferred":[
         "\uad70\uc704"
     ],
     "name:kor_x_variant":[
         "\uad70\uc704\uad70"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guni"
     ],
     "qs:a1":"*",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":1842016,
         "gp:id":28808481,
-        "qs:id":276641,
         "qs_pg:id":276641
     },
     "wof:country":"KR",
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":102026397,
-    "wof:lastmodified":1505338990,
+    "wof:lastmodified":1566586175,
     "wof:name":"Kunwi",
     "wof:parent_id":890474969,
     "wof:placetype":"locality",

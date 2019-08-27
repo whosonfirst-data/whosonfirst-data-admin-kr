@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.80074,34.90529,126.84074,34.94529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gangjeong"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Kangj\u014fng-ni",
-        "Kangj\u014fng",
-        "Gangjeong"
+        "Kangj\u014fng"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293765719,
-    "wof:lastmodified":1564124529,
+    "wof:lastmodified":1566587081,
     "wof:name":"Gangjeong",
     "wof:parent_id":890472323,
     "wof:placetype":"locality",

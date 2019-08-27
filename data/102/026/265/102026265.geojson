@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":3122632.412932,
+    "geom:area_square_m":3122632.412928,
     "geom:bbox":"127.76537144,36.168777336,127.787607138,36.1868045655",
     "geom:latitude":36.177791,
     "geom:longitude":127.776489,
@@ -15,14 +15,17 @@
     "iso:country":"KR",
     "lbl:latitude":36.177791,
     "lbl:longitude":127.776489,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":36.177791,
     "mps:longitude":127.776489,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Yeongdong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eid\u014d"
     ],
     "qs:a1":"*",
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1832566,
-        "qs:id":137014,
         "qs_pg:id":137014
     },
     "wof:country":"KR",
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":102026265,
-    "wof:lastmodified":1505338989,
+    "wof:lastmodified":1566586194,
     "wof:name":"Y\u014fng-dong",
     "wof:parent_id":890473559,
     "wof:placetype":"locality",

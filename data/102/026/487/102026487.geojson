@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001215,
-    "geom:area_square_m":12189403.976391,
+    "geom:area_square_m":12189403.976394,
     "geom:bbox":"127.411119704,35.7664730471,127.457959787,35.8045512487",
     "geom:latitude":35.782988,
     "geom:longitude":127.433109,
@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.780076,
     "lbl:longitude":127.425638,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.780076,
     "mps:longitude":127.425638,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Jinan-gun"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,6 @@
     "wof:concordances":{
         "gn:id":1846114,
         "gp:id":28807892,
-        "qs:id":1031702,
         "qs_pg:id":1031702
     },
     "wof:country":"KR",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":102026487,
-    "wof:lastmodified":1505338991,
+    "wof:lastmodified":1566586192,
     "wof:name":"\uc9c4\uc548\uad70",
     "wof:parent_id":890472257,
     "wof:placetype":"locality",
