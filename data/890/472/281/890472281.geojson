@@ -11,17 +11,18 @@
     "geom:longitude":127.13929,
     "gn:country":"KR",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
+    "lbl:bbox":"127.03929,35.85015,127.23929,36.05015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bongdong-eup"
     ],
     "name:kor_x_preferred":[
-        "\ubd09\ub3d9\uc74d"
-    ],
-    "name:unk_x_variant":[
         "\ubd09\ub3d9\uc74d"
     ],
     "qs:name":"Pongdong-\u016dp",
@@ -38,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6877715,
-        "qs:id":1153802
+        "qs_pg:id":1153802
     },
     "wof:country":"KR",
     "wof:created":1469053889,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":890472281,
-    "wof:lastmodified":1505343714,
+    "wof:lastmodified":1566589704,
     "wof:name":"Pongdong-\u016dp",
     "wof:parent_id":890474683,
     "wof:placetype":"localadmin",

@@ -11,7 +11,7 @@
     "geom:longitude":127.90519,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":35.768077,
     "lbl:longitude":127.887867,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangnam-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ub0a8\ub3c4",
     "meso:diss_me":"Geochang-gunGyeongsangnam-do",
@@ -42,6 +44,7 @@
     "mps:longitude":127.887867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0648\u062a\u0634\u0627\u0646\u063a"
     ],
@@ -89,7 +92,7 @@
     "name:swe_x_preferred":[
         "Geochang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kyosh\u014d-gun"
     ],
     "name:urd_x_preferred":[
@@ -116,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":99,
     "wof:belongsto":[
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":1842853,
         "gp:id":28289233,
-        "qs:id":772246,
+        "qs_pg:id":772246,
         "wd:id":"Q50206",
         "wk:page":"Geochang County"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":890476019,
-    "wof:lastmodified":1563294798,
+    "wof:lastmodified":1566589643,
     "wof:name":"Geochang",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

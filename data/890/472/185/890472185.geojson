@@ -11,7 +11,7 @@
     "geom:longitude":126.857263,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Nam District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.093909,
     "lbl:longitude":126.857198,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gwangju",
     "meso:admin_1_lo":"\uad11\uc8fc\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Nam-guGwangju",
@@ -41,6 +43,7 @@
     "mps:longitude":126.857198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Nam-gu"
     ],
@@ -254,7 +257,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":39,
     "wof:belongsto":[
@@ -265,7 +268,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462135,
-        "qs:id":1246292,
+        "qs_pg:id":1246292,
         "wd:id":"Q400172",
         "wk:page":"Nam-gu"
     },
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":890472185,
-    "wof:lastmodified":1563294975,
+    "wof:lastmodified":1566589735,
     "wof:name":"Nam",
     "wof:parent_id":85673199,
     "wof:placetype":"county",

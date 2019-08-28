@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":35323249.309645,
+    "geom:area_square_m":0.0,
     "geom:bbox":"129.086238,35.056024,129.086238,35.056024",
     "geom:latitude":35.056024,
     "geom:longitude":129.086238,
-    "gn:gn_country":"KR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
     "gn:latitude":35.06889,
     "gn:longitude":129.07194,
+    "gn:population":0,
     "iso:country":"KR",
+    "lbl:bbox":"129.081238,35.051024,129.091238,35.061024",
     "lbl:latitude":35.056024,
     "lbl:longitude":129.086238,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.063368,
     "mps:longitude":129.077929,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:kor_x_preferred":[
-        "\ub3d9\uc0bc\ub3d9"
-    ],
-    "name:unk_x_variant":[
         "\ub3d9\uc0bc\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673227,
         102191569,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":1979400,
         "gp:id":28835181,
-        "qs:id":224152,
         "qs_pg:id":224152
     },
     "wof:country":"KR",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1534379375,
+    "wof:lastmodified":1566586828,
     "wof:name":"\ub3d9\uc0bc\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

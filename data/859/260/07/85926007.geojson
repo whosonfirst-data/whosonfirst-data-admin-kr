@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17303608.446205,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.282631,37.783666,126.282631,37.783666",
     "geom:latitude":37.783666,
     "geom:longitude":126.282631,
     "gn:id":"",
     "iso:country":"KR",
+    "lbl:bbox":"126.277631,37.778666,126.287631,37.788666",
     "lbl:latitude":37.783666,
     "lbl:longitude":126.282631,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.772897,
     "mps:longitude":126.24054,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Gyodong-Myeon"
     ],
     "name:kor_x_preferred":[
-        "\uad50\ub3d9\uba74"
-    ],
-    "name:unk_x_variant":[
         "\uad50\ub3d9\uba74"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673177,
         102191569,
         85632231,
-        890476309,
-        85673177
+        890476309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835020,
-        "qs:id":427073,
         "qs_pg:id":427073
     },
     "wof:country":"KR",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938847,
+    "wof:lastmodified":1566586825,
     "wof:name":"\uad50\ub3d9\uba74",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

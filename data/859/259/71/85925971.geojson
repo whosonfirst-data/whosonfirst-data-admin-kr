@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":29844087.655078,
+    "geom:area_square_m":0.0,
     "geom:bbox":"129.235941,35.27322,129.235941,35.27322",
     "geom:latitude":35.27322,
     "geom:longitude":129.235941,
     "gn:id":"",
     "iso:country":"KR",
+    "lbl:bbox":"129.230941,35.26822,129.240941,35.27822",
     "lbl:latitude":35.27322,
     "lbl:longitude":129.235941,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.28203,
     "mps:longitude":129.231232,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Ilgwang-Myeon"
     ],
     "name:kor_x_preferred":[
-        "\uc77c\uad11\uba74"
-    ],
-    "name:unk_x_variant":[
         "\uc77c\uad11\uba74"
     ],
     "qs:gn_id":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673227,
         102191569,
         85632231,
-        890472099,
-        85673227
+        890472099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28834998,
-        "qs:id":1328427,
         "qs_pg:id":1328427
     },
     "wof:country":"KR",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938840,
+    "wof:lastmodified":1566586824,
     "wof:name":"\uc77c\uad11\uba74",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.059561,
     "lbl:longitude":129.424438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.059561,
     "mps:longitude":129.424438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Uljin-eup"
     ],
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "Uljin-eup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wijin"
     ],
     "qs:a1":"*",
@@ -51,7 +54,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102026293,
-    "wof:lastmodified":1563290044,
+    "wof:lastmodified":1566586181,
     "wof:name":"Ulchin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

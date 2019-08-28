@@ -15,6 +15,8 @@
     "iso:country":"KR",
     "lbl:latitude":35.889078,
     "lbl:longitude":128.610003,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":35.889078,
     "mps:longitude":128.610003,
     "mz:hierarchy_label":1,
@@ -294,7 +296,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0433\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daiky\u016b"
     ],
     "name:urd_x_preferred":[
@@ -433,7 +435,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:area":883.56,
     "wd:latitude":35.866667,
@@ -448,7 +450,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1835329,
-        "qs:id":351249,
         "qs_pg:id":351249,
         "wd:id":"Q20927"
     },
@@ -464,7 +465,7 @@
         }
     ],
     "wof:id":102026315,
-    "wof:lastmodified":1563290054,
+    "wof:lastmodified":1566586185,
     "wof:megacity":1,
     "wof:name":"Daegu",
     "wof:parent_id":1108746395,

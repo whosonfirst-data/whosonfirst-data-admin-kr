@@ -11,11 +11,15 @@
     "geom:longitude":128.63083,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":84625,
+    "gn:population":84625,
     "iso:country":"KR",
+    "lbl:bbox":"128.61083,36.80167,128.65083,36.84167",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Eish\u016b"
     ],
     "qs:name":"Eisen",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1832384,
         "gp:id":28808408,
-        "qs:id":137012,
+        "qs_pg:id":137012,
         "wk:page":"Eisen"
     },
     "wof:country":"KR",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890476487,
-    "wof:lastmodified":1527727152,
+    "wof:lastmodified":1566589642,
     "wof:name":"Eisen",
     "wof:parent_id":890476183,
     "wof:placetype":"locality",

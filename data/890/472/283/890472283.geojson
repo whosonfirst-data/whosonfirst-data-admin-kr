@@ -11,17 +11,18 @@
     "geom:longitude":127.08174,
     "gn:country":"KR",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
+    "lbl:bbox":"126.98174,35.81557,127.18174,36.01557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Samnye-eup"
     ],
     "name:kor_x_preferred":[
-        "\uc0bc\ub840\uc74d"
-    ],
-    "name:unk_x_variant":[
         "\uc0bc\ub840\uc74d"
     ],
     "qs:name":"Samnye-\u016dp",
@@ -38,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6877716,
-        "qs:id":1153803
+        "qs_pg:id":1153803
     },
     "wof:country":"KR",
     "wof:created":1469053889,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":890472283,
-    "wof:lastmodified":1505343714,
+    "wof:lastmodified":1566589722,
     "wof:name":"Samnye-\u016dp",
     "wof:parent_id":890474683,
     "wof:placetype":"localadmin",

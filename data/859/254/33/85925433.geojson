@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7927238.251149,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.149354,37.42242,127.149354,37.42242",
     "geom:latitude":37.42242,
     "geom:longitude":127.149354,
     "gn:latitude":37.43111,
     "gn:longitude":127.13306,
     "iso:country":"KR",
+    "lbl:bbox":"127.144354,37.41742,127.154354,37.42742",
     "lbl:latitude":37.42242,
     "lbl:longitude":127.149354,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.424289,
     "mps:longitude":127.146568,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:kor_x_preferred":[
         "\uc131\ub0a8\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Seongnam-dong",
-        "\uc131\ub0a8\ub3d9"
+    "name:und_x_variant":[
+        "Seongnam-dong"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -59,12 +60,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746521,
-        85673191
+        1108746521
     ],
     "wof:breaches":[
         85925489
@@ -72,7 +73,7 @@
     "wof:concordances":{
         "gn:id":6571552,
         "gp:id":28806713,
-        "qs:id":32104
+        "qs_pg:id":32104
     },
     "wof:country":"KR",
     "wof:geomhash":"ce2d06325e6ec7518643b9f040487195",
@@ -90,7 +91,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938755,
+    "wof:lastmodified":1566586828,
     "wof:name":"\uc131\ub0a8\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

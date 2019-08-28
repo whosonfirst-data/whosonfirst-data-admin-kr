@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.787172,
     "lbl:longitude":127.260708,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Chungcheongnam-do",
     "meso:admin_1_lo":"\ucda9\uccad\ub0a8\ub3c4",
     "meso:diss_me":"CheonansidongnamguChungcheongnam-do",
@@ -38,6 +40,7 @@
     "mps:longitude":127.260708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dongnam"
     ],
@@ -49,7 +52,7 @@
         "\ucc9c\uc548\uc2dc\ub3d9\ub0a8\uad6c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108746431,
-    "wof:lastmodified":1555047482,
+    "wof:lastmodified":1566588953,
     "wof:name":"Dongnam",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

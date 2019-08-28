@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.82393,35.06951,126.86393,35.10951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Wonsan"
     ],
@@ -164,9 +168,7 @@
         "\u0412\u043e\u043d\u0441\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "W\u014fnsan-ni",
-        "W\u014fnsan",
-        "Wonsan"
+        "W\u014fnsan-ni"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0646\u0633\u0627\u0646"
@@ -203,7 +205,7 @@
         }
     ],
     "wof:id":1309771733,
-    "wof:lastmodified":1564128147,
+    "wof:lastmodified":1566589504,
     "wof:name":"Wonsan",
     "wof:parent_id":890472185,
     "wof:placetype":"locality",

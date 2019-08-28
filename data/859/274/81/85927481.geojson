@@ -9,14 +9,16 @@
     "geom:bbox":"127.296999,36.296894,127.296999,36.296894",
     "geom:latitude":36.296894,
     "geom:longitude":127.296999,
-    "gn:gn_country":"KR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"KR",
+    "gn:fcode":"PPL",
     "gn:latitude":36.30502,
     "gn:longitude":127.29331,
+    "gn:population":0,
     "iso:country":"KR",
+    "lbl:bbox":"127.291999,36.291894,127.301999,36.301894",
     "lbl:latitude":36.296894,
     "lbl:longitude":127.296999,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.321764,
     "mps:longitude":127.301054,
     "mz:hierarchy_label":0,
@@ -40,8 +42,7 @@
     "name:swe_x_preferred":[
         "Saunik Island"
     ],
-    "name:unk_x_variant":[
-        "\uc9c4\uc7a0\ub3d9",
+    "name:und_x_variant":[
         "Chinjam-dong"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -92,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673207,
         102191569,
@@ -103,7 +104,6 @@
     "wof:concordances":{
         "gn:id":6889084,
         "gp:id":28995244,
-        "qs:id":1198048,
         "qs_pg:id":1198048,
         "wk:page":"Saunik Island"
     },
@@ -123,7 +123,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1564124197,
+    "wof:lastmodified":1566586821,
     "wof:name":"\uc9c4\uc7a0\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

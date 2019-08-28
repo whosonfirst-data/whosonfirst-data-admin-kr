@@ -11,7 +11,7 @@
     "geom:longitude":128.914738,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":41452,
+    "gn:population":41452,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.9242,
     "lbl:longitude":128.914869,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangbuk-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ubd81\ub3c4",
     "meso:diss_me":"Bonghwa-gunGyeongsangbuk-do",
@@ -42,6 +44,7 @@
     "mps:longitude":128.914869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0646\u063a\u0647\u0648\u0627"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":561,
     "wof:belongsto":[
@@ -131,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1838893,
         "gp:id":28289113,
-        "qs:id":1056853,
+        "qs_pg:id":1056853,
         "wd:id":"Q50245",
         "wk:page":"Bonghwa County"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":890474479,
-    "wof:lastmodified":1563295083,
+    "wof:lastmodified":1566589785,
     "wof:name":"Bonghwa",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

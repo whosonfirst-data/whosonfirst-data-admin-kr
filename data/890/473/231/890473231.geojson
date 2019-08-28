@@ -11,7 +11,7 @@
     "geom:longitude":126.910826,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Yeongdeungpo District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":37.522484,
     "lbl:longitude":126.908304,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Seoul",
     "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
     "meso:diss_me":"Yeongdeungpo-guSeoul",
@@ -41,6 +43,7 @@
     "mps:longitude":126.908304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yeongdeungpo-gu"
     ],
@@ -116,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1053,
     "wof:belongsto":[
@@ -127,7 +130,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1832536,
-        "qs:id":372345,
+        "qs_pg:id":372345,
         "wd:id":"Q50190",
         "wk:page":"Yeongdeungpo District"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890473231,
-    "wof:lastmodified":1563295042,
+    "wof:lastmodified":1566589766,
     "wof:name":"Yeongdeungpo",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

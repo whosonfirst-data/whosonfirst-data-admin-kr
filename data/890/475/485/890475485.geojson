@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":35.428256,
     "lbl:longitude":126.617111,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollabuk-do",
     "meso:admin_1_lo":"\uc804\ub77c\ubd81\ub3c4",
     "meso:diss_me":"Gochang-gunJeollabuk-do",
@@ -39,6 +41,7 @@
     "mps:longitude":126.617111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gochang-gun"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":124,
     "wof:belongsto":[
         102191569,
@@ -124,7 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289171,
-        "qs:id":400704,
+        "qs_pg:id":400704,
         "wd:id":"Q50210",
         "wk:page":"Gochang County"
     },
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":890475485,
-    "wof:lastmodified":1563294826,
+    "wof:lastmodified":1566589656,
     "wof:name":"Gochang",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

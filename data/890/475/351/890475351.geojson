@@ -11,11 +11,14 @@
     "geom:longitude":127.162,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.157,37.5477,127.167,37.5577",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Gangdong-gu"
     ],
@@ -76,9 +79,6 @@
     "name:tur_x_preferred":[
         "Gangdong"
     ],
-    "name:unk_x_variant":[
-        "\uc0c11\ub3d9"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u0627\u0646\u06af\u062f\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -115,7 +115,7 @@
     "wof:concordances":{
         "gn:id":6800304,
         "gp:id":28995074,
-        "qs:id":1182438,
+        "qs_pg:id":1182438,
         "wd:id":"Q50348",
         "wk:page":"Gangdong District"
     },
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":890475351,
-    "wof:lastmodified":1563294860,
+    "wof:lastmodified":1566589676,
     "wof:name":"\uc0c1\uc77c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

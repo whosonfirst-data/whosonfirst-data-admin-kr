@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.130796,
     "lbl:longitude":128.20502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.130796,
     "mps:longitude":128.20502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a\u0634\u0648\u0646"
     ],
@@ -164,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0447\u0445\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jeisen"
     ],
     "name:urd_x_preferred":[
@@ -191,7 +194,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -221,7 +224,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290046,
+    "wof:lastmodified":1566586182,
     "wof:name":"Teisen",
     "wof:parent_id":890475033,
     "wof:placetype":"locality",

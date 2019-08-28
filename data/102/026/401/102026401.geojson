@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.356022,
     "lbl:longitude":126.926851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.356022,
     "mps:longitude":126.926851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0646\u0628\u0648"
     ],
@@ -159,7 +162,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u043f\u0445\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\uad70\ud3ec"
     ],
     "name:urd_x_preferred":[
@@ -186,7 +189,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":102026401,
-    "wof:lastmodified":1563290039,
+    "wof:lastmodified":1566586179,
     "wof:name":"Tang-ni",
     "wof:parent_id":890474585,
     "wof:placetype":"locality",

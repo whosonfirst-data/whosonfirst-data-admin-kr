@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.156985,
     "lbl:longitude":126.852723,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\uad11\uc8fc\uad11\uc5ed\uc2dc",
     "mps:latitude":35.203706,
     "mps:longitude":126.920914,
@@ -299,7 +300,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0432\u0430\u043d\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gwangju-gwangyeoksi"
     ],
     "name:urd_x_preferred":[
@@ -400,9 +401,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"11,987",
     "statoids:area_mi":"4,628",
     "statoids:as_of_date":"2010-11-01",
@@ -427,7 +428,7 @@
         "gp:id":2345974,
         "hasc:id":"KR.CN",
         "iso:id":"KR-46",
-        "qs:id":191374,
+        "qs_pg:id":191374,
         "wd:id":"Q41283"
     },
     "wof:country":"KR",
@@ -446,11 +447,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725512,
+    "wof:lastmodified":1566586831,
     "wof:name":"Gwangju",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1728749,
     "wof:population_rank":12,

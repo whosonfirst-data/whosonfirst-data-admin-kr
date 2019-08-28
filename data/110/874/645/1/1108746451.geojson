@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":35.529419,
     "lbl:longitude":129.422986,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Ulsan",
     "meso:admin_1_lo":"\uc6b8\uc0b0\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Dong-guUlsan",
@@ -38,6 +40,7 @@
     "mps:longitude":129.422986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dong"
     ],
@@ -100,7 +103,7 @@
         "Dong"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108746451,
-    "wof:lastmodified":1564127223,
+    "wof:lastmodified":1566588955,
     "wof:name":"Dong",
     "wof:parent_id":85673231,
     "wof:placetype":"county",

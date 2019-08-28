@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.33166,34.86167,127.37166,34.90167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Noam"
     ],
@@ -50,8 +54,7 @@
         "Noam"
     ],
     "name:und_x_variant":[
-        "Noam-ni",
-        "Noam"
+        "Noam-ni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1309988161,
-    "wof:lastmodified":1564128062,
+    "wof:lastmodified":1566589456,
     "wof:name":"Noam",
     "wof:parent_id":890474635,
     "wof:placetype":"locality",

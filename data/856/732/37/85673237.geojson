@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.380955,
     "lbl:longitude":126.553433,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4",
     "mps:latitude":33.380327,
     "mps:longitude":126.549394,
@@ -358,9 +359,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"1,846",
     "statoids:area_mi":"713",
     "statoids:as_of_date":"2010-11-01",
@@ -384,7 +385,7 @@
         "gp:id":2345963,
         "hasc:id":"KR.CJ",
         "iso:id":"KR-49",
-        "qs:id":1075585,
+        "qs_pg:id":1075585,
         "wd:id":"Q41164",
         "wk:page":"Jeju Province"
     },
@@ -404,11 +405,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725517,
+    "wof:lastmodified":1566586844,
     "wof:name":"Jeju",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"special autonomous province",
     "wof:population":528411,
     "wof:population_rank":11,

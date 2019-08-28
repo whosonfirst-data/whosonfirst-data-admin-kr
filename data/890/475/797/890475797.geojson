@@ -11,7 +11,7 @@
     "geom:longitude":127.442363,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":35.451224,
     "lbl:longitude":127.425628,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollabuk-do",
     "meso:admin_1_lo":"\uc804\ub77c\ubd81\ub3c4",
     "meso:diss_me":"Namwon-siJeollabuk-do",
@@ -42,6 +44,7 @@
     "mps:longitude":127.425628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0645\u0648\u0646"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "Namwon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nangen-gun"
     ],
     "name:urd_x_preferred":[
@@ -143,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -154,7 +157,7 @@
     "wof:concordances":{
         "gn:id":1840378,
         "gp:id":28289258,
-        "qs:id":1285250
+        "qs_pg:id":1285250
     },
     "wof:country":"KR",
     "wof:created":1469054050,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":890475797,
-    "wof:lastmodified":1564128397,
+    "wof:lastmodified":1566589649,
     "wof:name":"Namwon",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

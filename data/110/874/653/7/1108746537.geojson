@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.762949,
     "lbl:longitude":126.248109,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Chungcheongnam-do",
     "meso:admin_1_lo":"\ucda9\uccad\ub0a8\ub3c4",
     "meso:diss_me":"Taean-gunChungcheongnam-do",
@@ -38,6 +40,7 @@
     "mps:longitude":126.248109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0622\u0646"
     ],
@@ -109,7 +112,7 @@
         "\u6cf0\u5b89\u90e1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1108746537,
-    "wof:lastmodified":1563293711,
+    "wof:lastmodified":1566588963,
     "wof:name":"Taean",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13724898.385998,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.472715,37.704899,126.472715,37.704899",
     "geom:latitude":37.704899,
     "geom:longitude":126.472715,
     "gn:id":"",
     "iso:country":"KR",
+    "lbl:bbox":"126.467715,37.699899,126.477715,37.709899",
     "lbl:latitude":37.704899,
     "lbl:longitude":126.472715,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.703183,
     "mps:longitude":126.438935,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Seonwon-Myeon"
     ],
     "name:kor_x_preferred":[
-        "\uc120\uc6d0\uba74"
-    ],
-    "name:unk_x_variant":[
         "\uc120\uc6d0\uba74"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673177,
         102191569,
         85632231,
-        890476309,
-        85673177
+        890476309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835011,
-        "qs:id":1064739,
         "qs_pg:id":1064739
     },
     "wof:country":"KR",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938843,
+    "wof:lastmodified":1566586823,
     "wof:name":"\uc120\uc6d0\uba74",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

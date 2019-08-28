@@ -11,7 +11,7 @@
     "geom:longitude":127.053,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.160548,
     "lbl:longitude":127.052201,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"Osan-siGyeonggi-do",
@@ -42,6 +44,7 @@
     "mps:longitude":127.052201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u0633\u0627\u0646"
     ],
@@ -163,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -174,7 +177,7 @@
     "wof:concordances":{
         "gn:id":8393795,
         "gp:id":28289264,
-        "qs:id":1077140
+        "qs_pg:id":1077140
     },
     "wof:country":"KR",
     "wof:created":1469053949,
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":890473335,
-    "wof:lastmodified":1564128555,
+    "wof:lastmodified":1566589759,
     "wof:name":"Osan",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

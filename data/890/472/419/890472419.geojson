@@ -11,7 +11,7 @@
     "geom:longitude":127.741703,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.890031,
     "lbl:longitude":127.724098,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gangwon-do",
     "meso:admin_1_lo":"\uac15\uc6d0\ub3c4",
     "meso:diss_me":"Chuncheon-siGangwon-do",
@@ -42,6 +44,7 @@
     "mps:longitude":127.724098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0646\u062a\u0634\u0648\u0646"
     ],
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -180,7 +183,7 @@
     "wof:concordances":{
         "gn:id":1845134,
         "gp:id":28289137,
-        "qs:id":213551
+        "qs_pg:id":213551
     },
     "wof:country":"KR",
     "wof:created":1469053899,
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":890472419,
-    "wof:lastmodified":1564128496,
+    "wof:lastmodified":1566589722,
     "wof:name":"Chuncheon",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

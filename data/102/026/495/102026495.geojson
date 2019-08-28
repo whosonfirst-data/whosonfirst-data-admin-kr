@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.227671,
     "lbl:longitude":128.680384,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":35.227671,
     "mps:longitude":128.680384,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Changwon"
     ],
@@ -212,7 +215,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0445\u0430\u043d\u0432\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sh\u014dgen"
     ],
     "name:urd_x_preferred":[
@@ -250,7 +253,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3686,
     "wof:belongsto":[
@@ -264,7 +267,6 @@
         "fct:id":"146ffe9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1846326,
         "gp:id":1132449,
-        "qs:id":137044,
         "qs_pg:id":137044,
         "wd:id":"Q243327",
         "wk:page":"Changwon"
@@ -284,7 +286,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290082,
+    "wof:lastmodified":1566586194,
     "wof:name":"Changwon",
     "wof:parent_id":1108746539,
     "wof:placetype":"locality",

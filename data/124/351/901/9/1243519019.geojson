@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"128.03528,35.46389,128.07528,35.50389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandu"
     ],
@@ -57,8 +61,7 @@
         "\u0421\u0430\u043d\u0434\u0443"
     ],
     "name:und_x_variant":[
-        "Sandu-ri",
-        "Sandu"
+        "Sandu-ri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1243519019,
-    "wof:lastmodified":1564129171,
+    "wof:lastmodified":1566590101,
     "wof:name":"Sandu",
     "wof:parent_id":890473177,
     "wof:placetype":"locality",

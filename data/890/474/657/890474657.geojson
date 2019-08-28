@@ -11,12 +11,15 @@
     "geom:longitude":127.404,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.399,36.3045,127.409,36.3145",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Munhwadong"
     ],
     "qs:name":"\ubb38\ud654\ub3d9",
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":6888856,
         "gp:id":28835312,
-        "qs:id":1103997
+        "qs_pg:id":1103997
     },
     "wof:country":"KR",
     "wof:created":1469053999,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890474657,
-    "wof:lastmodified":1505343718,
+    "wof:lastmodified":1566589791,
     "wof:name":"\ubb38\ud654\ub3d9",
     "wof:parent_id":102026311,
     "wof:placetype":"neighbourhood",

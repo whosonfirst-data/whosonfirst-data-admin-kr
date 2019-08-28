@@ -11,14 +11,18 @@
     "geom:longitude":127.3841,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":10000,
+    "gn:population":10000,
     "iso:country":"KR",
+    "lbl:bbox":"127.3641,36.4111,127.4041,36.4511",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:rus_x_preferred":[
         "\u0421\u0443\u043d\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\uc1a1\uac15\ub3d9"
     ],
     "qs:name":"Songgang-dong",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6888788,
-        "qs:id":652623
+        "qs_pg:id":652623
     },
     "wof:country":"KR",
     "wof:created":1469053944,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890473211,
-    "wof:lastmodified":1505343716,
+    "wof:lastmodified":1566589741,
     "wof:name":"Songgang-dong",
     "wof:parent_id":890474599,
     "wof:placetype":"locality",

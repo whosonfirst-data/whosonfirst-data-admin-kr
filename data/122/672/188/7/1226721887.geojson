@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.56841,34.41032,126.60841,34.45032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gusan"
     ],
@@ -35,8 +39,7 @@
         "Gusan"
     ],
     "name:und_x_variant":[
-        "Kusan",
-        "Gusan"
+        "Kusan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226721887,
-    "wof:lastmodified":1564130155,
+    "wof:lastmodified":1566590622,
     "wof:name":"Gusan",
     "wof:parent_id":890475077,
     "wof:placetype":"locality",

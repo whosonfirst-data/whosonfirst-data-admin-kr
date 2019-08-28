@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2841879.878826,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.168657,37.457987,127.168657,37.457987",
     "geom:latitude":37.457987,
     "geom:longitude":127.168657,
     "gn:latitude":37.46306,
     "gn:longitude":127.1675,
     "iso:country":"KR",
+    "lbl:bbox":"127.163657,37.452987,127.173657,37.462987",
     "lbl:latitude":37.457987,
     "lbl:longitude":127.168657,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.451219,
     "mps:longitude":127.175698,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:kor_x_preferred":[
         "\uc591\uc9c0\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Yangji-dong",
-        "\uc591\uc9c0\ub3d9"
+    "name:und_x_variant":[
+        "Yangji-dong"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -60,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
         102026521,
-        1108746519,
-        85673191
+        1108746519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6571532,
         "gp:id":28806708,
-        "qs:id":204119,
         "qs_pg:id":204119
     },
     "wof:country":"KR",
@@ -91,7 +91,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938751,
+    "wof:lastmodified":1566586828,
     "wof:name":"\uc591\uc9c0\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

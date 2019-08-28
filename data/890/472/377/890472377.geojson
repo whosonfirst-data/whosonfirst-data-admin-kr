@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":38.067554,
     "lbl:longitude":128.264734,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gangwon-do",
     "meso:admin_1_lo":"\uac15\uc6d0\ub3c4",
     "meso:diss_me":"Inje-gunGangwon-do",
@@ -39,6 +41,7 @@
     "mps:longitude":128.264734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0625\u0646\u062c\u064a"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":756,
     "wof:belongsto":[
         102191569,
@@ -130,7 +133,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289212,
-        "qs:id":237314,
+        "qs_pg:id":237314,
         "wd:id":"Q50318",
         "wk:page":"Inje County"
     },
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":890472377,
-    "wof:lastmodified":1563294928,
+    "wof:lastmodified":1566589711,
     "wof:name":"Inje",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

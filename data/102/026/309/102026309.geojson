@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.033254,
     "lbl:longitude":126.557007,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":37.033254,
     "mps:longitude":126.557007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646\u063a\u062c\u064a\u0646"
     ],
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043d\u0434\u0436\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u014dshin"
     ],
     "name:urd_x_preferred":[
@@ -174,7 +177,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":36.894444,
     "wd:longitude":126.629722,
@@ -189,7 +192,6 @@
     "wof:concordances":{
         "gn:id":1834885,
         "gp:id":28807716,
-        "qs:id":356088,
         "qs_pg:id":356088,
         "wd:id":"Q42089",
         "wk:page":"Dangjin"
@@ -206,7 +208,7 @@
         }
     ],
     "wof:id":102026309,
-    "wof:lastmodified":1563290016,
+    "wof:lastmodified":1566586172,
     "wof:name":"Tangjin",
     "wof:parent_id":1108746439,
     "wof:placetype":"locality",

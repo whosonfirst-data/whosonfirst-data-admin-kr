@@ -11,7 +11,7 @@
     "geom:longitude":127.002849,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.829245,
     "lbl:longitude":127.001207,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"YangjusiGyeonggi-do",
@@ -42,6 +44,7 @@
     "mps:longitude":127.001207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u063a\u062c\u0648"
     ],
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -159,7 +162,7 @@
     "wof:concordances":{
         "gn:id":8393804,
         "gp:id":28289313,
-        "qs:id":25583
+        "qs_pg:id":25583
     },
     "wof:country":"KR",
     "wof:created":1469054033,
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":890475429,
-    "wof:lastmodified":1564128442,
+    "wof:lastmodified":1566589682,
     "wof:name":"Yangju",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

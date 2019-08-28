@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.759886,
     "lbl:longitude":127.029419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.759886,
     "mps:longitude":127.029419,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gimje"
     ],
@@ -147,7 +150,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043c\u0434\u0436\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u016dmch\u2019i"
     ],
     "name:urd_x_preferred":[
@@ -174,7 +177,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":389,
     "wof:belongsto":[
         102191569,
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":102026407,
-    "wof:lastmodified":1563290045,
+    "wof:lastmodified":1566586182,
     "wof:name":"Kimje",
     "wof:parent_id":890473531,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":35.935592,
     "lbl:longitude":129.455009,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangbuk-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ubd81\ub3c4",
     "meso:diss_me":"Nam-guGyeongsangbuk-do",
@@ -38,6 +40,7 @@
     "mps:longitude":129.455009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nam-gu"
     ],
@@ -82,7 +85,7 @@
         "\u5357\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108746501,
-    "wof:lastmodified":1563293703,
+    "wof:lastmodified":1566588957,
     "wof:name":"Nam",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

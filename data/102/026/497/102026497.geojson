@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.643905,
     "lbl:longitude":127.512817,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.643905,
     "mps:longitude":127.512817,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Jangsu-gun"
     ],
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Jangsu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u014dsui-ri"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -101,7 +104,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1846355,
-        "qs:id":137045,
         "qs_pg:id":137045,
         "wd:id":"Q50321",
         "wk:page":"Jangsu County"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":102026497,
-    "wof:lastmodified":1563290041,
+    "wof:lastmodified":1566586180,
     "wof:name":"Changsu",
     "wof:parent_id":890475719,
     "wof:placetype":"locality",

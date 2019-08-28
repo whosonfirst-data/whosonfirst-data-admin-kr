@@ -11,8 +11,11 @@
     "geom:longitude":129.28333,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"129.27833,35.46167,129.28833,35.47167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Jung-gu"
     ],
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28995264,
-        "qs:id":1019001,
+        "qs_pg:id":1019001,
         "wd:id":"Q50442",
         "wk:page":"Jung District, Ulsan"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890474347,
-    "wof:lastmodified":1563295102,
+    "wof:lastmodified":1566589795,
     "wof:name":"\uc57d\uc0ac\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

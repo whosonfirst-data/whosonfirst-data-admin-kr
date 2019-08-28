@@ -11,7 +11,7 @@
     "geom:longitude":128.142793,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":35.544908,
     "lbl:longitude":128.104688,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangnam-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ub0a8\ub3c4",
     "meso:diss_me":"Hapcheon-gunGyeongsangnam-do",
@@ -42,6 +44,7 @@
     "mps:longitude":128.104688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0627\u0628\u062a\u0634\u0648\u0646"
     ],
@@ -92,7 +95,7 @@
     "name:swe_x_preferred":[
         "Hapcheon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hy\u014fch\u2019\u014fn-gun"
     ],
     "name:urd_x_preferred":[
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":414,
     "wof:belongsto":[
@@ -131,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1844410,
         "gp:id":28289202,
-        "qs:id":335706,
+        "qs_pg:id":335706,
         "wd:id":"Q50341",
         "wk:page":"Hapcheon County"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":890473177,
-    "wof:lastmodified":1563295056,
+    "wof:lastmodified":1566589773,
     "wof:name":"Hapcheon",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

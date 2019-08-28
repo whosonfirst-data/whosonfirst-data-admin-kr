@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":35.210606,
     "lbl:longitude":129.085395,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Busan",
     "meso:admin_1_lo":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Dongnae-guBusan",
@@ -38,6 +40,7 @@
     "mps:longitude":129.085395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dongnae"
     ],
@@ -49,7 +52,7 @@
         "\ub3d9\ub798\uad6c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108746453,
-    "wof:lastmodified":1555047482,
+    "wof:lastmodified":1566588955,
     "wof:name":"Dongnae",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

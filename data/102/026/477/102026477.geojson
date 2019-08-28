@@ -15,6 +15,8 @@
     "iso:country":"KR",
     "lbl:latitude":36.980969,
     "lbl:longitude":127.929091,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":36.980969,
     "mps:longitude":127.929091,
     "mz:hierarchy_label":1,
@@ -310,7 +312,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":39.0,
     "wd:latitude":36.637222,
@@ -328,7 +330,6 @@
         "fct:id":"147003da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1845604,
         "gp:id":1132464,
-        "qs:id":274077,
         "qs_pg:id":274077,
         "wd:id":"Q42147",
         "wk:page":"Cheongju"
@@ -348,7 +349,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290035,
+    "wof:lastmodified":1566586178,
     "wof:name":"Cheongju",
     "wof:parent_id":890472255,
     "wof:placetype":"locality",

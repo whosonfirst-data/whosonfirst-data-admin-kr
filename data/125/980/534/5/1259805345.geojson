@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.7365,37.8944,127.7765,37.9344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hael"
     ],
@@ -281,8 +285,7 @@
         "\u0413\u0440\u0430\u0434"
     ],
     "name:und_x_variant":[
-        "\ud558\uc77c",
-        "Hail"
+        "\ud558\uc77c"
     ],
     "name:urd_x_preferred":[
         "\u0698\u0627\u0644\u06c1 \u0628\u0627\u0631\u06cc"
@@ -325,7 +328,7 @@
         }
     ],
     "wof:id":1259805345,
-    "wof:lastmodified":1564130011,
+    "wof:lastmodified":1566590541,
     "wof:name":"Hail",
     "wof:parent_id":890472419,
     "wof:placetype":"locality",

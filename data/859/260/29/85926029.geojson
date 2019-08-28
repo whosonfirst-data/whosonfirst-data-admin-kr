@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23977306.861387,
+    "geom:area_square_m":0.0,
     "geom:bbox":"129.350032,35.371206,129.350032,35.371206",
     "geom:latitude":35.371206,
     "geom:longitude":129.350032,
     "gn:id":"",
     "iso:country":"KR",
+    "lbl:bbox":"129.345032,35.366206,129.355032,35.376206",
     "lbl:latitude":35.371206,
     "lbl:longitude":129.350032,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.38681,
     "mps:longitude":129.344617,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Seosaeng-Myeon"
     ],
     "name:kor_x_preferred":[
-        "\uc11c\uc0dd\uba74"
-    ],
-    "name:unk_x_variant":[
         "\uc11c\uc0dd\uba74"
     ],
     "qs:gn_id":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673231,
         102191569,
         85632231,
-        890474681,
-        85673231
+        890474681
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835034,
-        "qs:id":427077,
         "qs_pg:id":427077
     },
     "wof:country":"KR",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938852,
+    "wof:lastmodified":1566586825,
     "wof:name":"\uc11c\uc0dd\uba74",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

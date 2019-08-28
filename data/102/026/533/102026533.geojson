@@ -14,10 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":37.615732,
     "lbl:longitude":126.722291,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.615732,
     "mps:longitude":126.722291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gimpo"
     ],
@@ -144,7 +147,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":102026533,
-    "wof:lastmodified":1563290018,
+    "wof:lastmodified":1566586173,
     "wof:name":"Kimp\u2019o-si",
     "wof:parent_id":890472445,
     "wof:placetype":"locality",

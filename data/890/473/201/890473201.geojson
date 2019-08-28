@@ -11,7 +11,7 @@
     "geom:longitude":126.911649,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Mapo District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":37.557258,
     "lbl:longitude":126.916867,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Seoul",
     "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
     "meso:diss_me":"Mapo-guSeoul",
@@ -41,6 +43,7 @@
     "mps:longitude":126.916867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mapo-gu"
     ],
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":573,
     "wof:belongsto":[
@@ -146,7 +149,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1841277,
-        "qs:id":356123,
+        "qs_pg:id":356123,
         "wd:id":"Q50388",
         "wk:page":"Mapo District"
     },
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890473201,
-    "wof:lastmodified":1563295048,
+    "wof:lastmodified":1566589769,
     "wof:name":"Mapo",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

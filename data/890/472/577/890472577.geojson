@@ -11,18 +11,18 @@
     "geom:longitude":127.06,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.055,37.37361,127.065,37.38361",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Unjung-dong"
     ],
     "name:kor_x_preferred":[
-        "\uc6b4\uc911\ub3d9"
-    ],
-    "name:unk_x_variant":[
         "\uc6b4\uc911\ub3d9"
     ],
     "qs:name":"\uc9111\ub3d9",
@@ -47,7 +47,7 @@
     "wof:concordances":{
         "gn:id":6571559,
         "gp:id":28806798,
-        "qs:id":1205981,
+        "qs_pg:id":1205981,
         "wd:id":"Q7896937"
     },
     "wof:country":"KR",
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":890472577,
-    "wof:lastmodified":1514469387,
+    "wof:lastmodified":1566589733,
     "wof:name":"\uc9111\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

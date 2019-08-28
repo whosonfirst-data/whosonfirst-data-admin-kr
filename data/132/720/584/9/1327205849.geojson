@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.64694,34.12694,126.68694,34.16694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mira"
     ],
@@ -166,8 +170,7 @@
     ],
     "name:und_x_variant":[
         "Bira-ri",
-        "Mira-ri",
-        "Mira"
+        "Mira-ri"
     ],
     "name:uzb_x_preferred":[
         "Mira"
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":1327205849,
-    "wof:lastmodified":1564123300,
+    "wof:lastmodified":1566586169,
     "wof:name":"Mira",
     "wof:parent_id":890472259,
     "wof:placetype":"locality",

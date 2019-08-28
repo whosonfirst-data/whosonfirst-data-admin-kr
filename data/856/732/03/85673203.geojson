@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.480304,
     "lbl:longitude":126.86729,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\ucda9\uccad\ub0a8\ub3c4",
     "mps:latitude":36.538045,
     "mps:longitude":126.859594,
@@ -228,7 +229,7 @@
         "S\u00f6dra Chungcheong"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb5\u0bcd\u0b99\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb5\u0bcd\u0b99\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c1a\u0c02\u0c17\u0c4d\u200c\u0c1a\u0c3f\u0c2f\u0c3e\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -241,9 +242,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0427\u0445\u0443\u043d\u0447\u0445\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Chungcheongnam-do"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u0686\u0648\u0646\u06af\u0686\u06cc\u0648\u0646\u06af \u0635\u0648\u0628\u06c1"
@@ -335,9 +333,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"8,586",
     "statoids:area_mi":"3,315",
     "statoids:as_of_date":"2010-11-01",
@@ -362,7 +360,7 @@
         "gp:id":2345973,
         "hasc:id":"KR.HN",
         "iso:id":"KR-44",
-        "qs:id":9199,
+        "qs_pg:id":9199,
         "wd:id":"Q41070",
         "wk:page":"South Chungcheong Province"
     },
@@ -382,11 +380,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725515,
+    "wof:lastmodified":1566586838,
     "wof:name":"South Chungcheong",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2000473,
     "wof:population_rank":12,

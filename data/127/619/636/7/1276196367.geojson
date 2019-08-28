@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"128.7764,36.3486,128.8164,36.3886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hagam"
     ],
@@ -41,8 +45,7 @@
         "Hagam"
     ],
     "name:und_x_variant":[
-        "\ud558\uac10",
-        "Hagam"
+        "\ud558\uac10"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276196367,
-    "wof:lastmodified":1564125161,
+    "wof:lastmodified":1566587535,
     "wof:name":"Hagam",
     "wof:parent_id":890474631,
     "wof:placetype":"locality",

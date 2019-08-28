@@ -11,7 +11,7 @@
     "geom:longitude":127.320098,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Goheung County"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":34.659328,
     "lbl:longitude":127.369179,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Goheung-gunJeollanam-do",
@@ -41,6 +43,7 @@
     "mps:longitude":127.369179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Goheung"
     ],
@@ -87,7 +90,7 @@
     "name:swe_x_preferred":[
         "Goheung"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u014dk\u014d-gun"
     ],
     "name:urd_x_preferred":[
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":294,
     "wof:belongsto":[
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":1842780,
         "gp:id":28289173,
-        "qs:id":276643,
+        "qs_pg:id":276643,
         "wd:id":"Q50211",
         "wk:page":"Goheung County"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":890473037,
-    "wof:lastmodified":1561826908,
+    "wof:lastmodified":1566589751,
     "wof:name":"Goheung",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":128.49967,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":35.753344,
     "lbl:longitude":128.484367,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Daegu",
     "meso:admin_1_lo":"\ub300\uad6c\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Dalseong-gunDaegu",
@@ -42,6 +44,7 @@
     "mps:longitude":128.484367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dalseong"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1834970,
         "gp:id":28289141,
-        "qs:id":392697,
+        "qs_pg:id":392697,
         "wd:id":"Q6616966",
         "wk:page":"List of districts and county of Daegu"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890475961,
-    "wof:lastmodified":1555047480,
+    "wof:lastmodified":1566589674,
     "wof:name":"Dalseong",
     "wof:parent_id":85673213,
     "wof:placetype":"county",

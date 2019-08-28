@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":36.509833,
     "lbl:longitude":127.273392,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc",
     "mps:latitude":36.55291,
     "mps:longitude":127.147421,
@@ -139,8 +140,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"2010-11-01",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2010-11-01",
@@ -183,11 +184,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725517,
+    "wof:lastmodified":1566586843,
     "wof:name":"Sejong",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"special autonomous city",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:shortcode":"SJ",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":35.869556,
     "lbl:longitude":127.125621,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollabuk-do",
     "meso:admin_1_lo":"\uc804\ub77c\ubd81\ub3c4",
     "meso:diss_me":"JeonjusideokjinguJeollabuk-do",
@@ -38,6 +40,7 @@
     "mps:longitude":127.125621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Deokjin"
     ],
@@ -49,7 +52,7 @@
         "\uc804\uc8fc\uc2dc\ub355\uc9c4\uad6c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108746469,
-    "wof:lastmodified":1555047482,
+    "wof:lastmodified":1566588959,
     "wof:name":"Deokjin",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

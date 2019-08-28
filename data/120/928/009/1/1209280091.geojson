@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.89083,35.09917,126.93083,35.13917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632231
@@ -34,7 +38,7 @@
         "gn:id":1981790
     },
     "wof:country":"KR",
-    "wof:geomhash":"ad63c006f04a978710bcfa6c6c6f8a9d",
+    "wof:geomhash":"89e7874d43410cc3b79ea020d5a27047",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209280091,
-    "wof:lastmodified":1536292053,
+    "wof:lastmodified":1566588504,
     "wof:name":"Pullo",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     126.91083,
-    35.119170000000004,
+    35.11917,
     126.91083,
-    35.119170000000004
+    35.11917
 ],
   "geometry": {"coordinates":[126.91083,35.11917],"type":"Point"}
 }

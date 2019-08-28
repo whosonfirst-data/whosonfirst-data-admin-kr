@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":36.457536,
     "lbl:longitude":129.330637,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangbuk-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ubd81\ub3c4",
     "meso:diss_me":"Yeongdeok-gunGyeongsangbuk-do",
@@ -39,6 +41,7 @@
     "mps:longitude":129.330637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0648\u0646\u063a\u062f\u0648\u0643"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191569,
@@ -124,7 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289324,
-        "qs:id":1154683,
+        "qs_pg:id":1154683,
         "wd:id":"Q50260",
         "wk:page":"Yeongdeok County"
     },
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":890475307,
-    "wof:lastmodified":1563294814,
+    "wof:lastmodified":1566589649,
     "wof:name":"Yeongdeok",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

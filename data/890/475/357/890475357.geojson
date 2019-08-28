@@ -11,7 +11,7 @@
     "geom:longitude":130.871524,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.491823,
     "lbl:longitude":130.87113,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeongsangbuk-do",
     "meso:admin_1_lo":"\uacbd\uc0c1\ubd81\ub3c4",
     "meso:diss_me":"Ulleung-gunGyeongsangbuk-do",
@@ -42,6 +44,7 @@
     "mps:longitude":130.87113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0644\u0646\u063a"
     ],
@@ -101,7 +104,7 @@
     "name:tur_x_preferred":[
         "Ulleung"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Utsury\u014d-t\u014d"
     ],
     "name:urd_x_preferred":[
@@ -128,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":603,
     "wof:belongsto":[
@@ -140,7 +143,7 @@
     "wof:concordances":{
         "gn:id":1833753,
         "gp:id":28289340,
-        "qs:id":1184292,
+        "qs_pg:id":1184292,
         "wd:id":"Q485570",
         "wk:page":"Ulleung County"
     },
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":890475357,
-    "wof:lastmodified":1563294856,
+    "wof:lastmodified":1566589674,
     "wof:name":"Ulleung",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

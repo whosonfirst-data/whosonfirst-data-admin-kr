@@ -11,7 +11,7 @@
     "geom:longitude":126.769574,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Jangseong County"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.323252,
     "lbl:longitude":126.786479,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Jangseong-gunJeollanam-do",
@@ -41,6 +43,7 @@
     "mps:longitude":126.786479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Jangseong"
     ],
@@ -95,7 +98,7 @@
     "name:tgl_x_preferred":[
         "Jangseong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u014dj\u014d-gun"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":189,
     "wof:belongsto":[
@@ -127,7 +130,7 @@
     "wof:concordances":{
         "gn:id":1846368,
         "gp:id":28289214,
-        "qs:id":1031703,
+        "qs_pg:id":1031703,
         "wd:id":"Q50320",
         "wk:page":"Jangseong County"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890473289,
-    "wof:lastmodified":1563294992,
+    "wof:lastmodified":1566589744,
     "wof:name":"Jangseong",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

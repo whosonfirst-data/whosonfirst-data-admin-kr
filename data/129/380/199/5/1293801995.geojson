@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.26348,35.07588,126.30348,35.11588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Balsan"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Palsan-ni",
-        "Palsan",
-        "Balsan"
+        "Palsan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1293801995,
-    "wof:lastmodified":1564124906,
+    "wof:lastmodified":1566587349,
     "wof:name":"Balsan",
     "wof:parent_id":890472363,
     "wof:placetype":"locality",

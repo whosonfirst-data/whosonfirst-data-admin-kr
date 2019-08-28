@@ -11,12 +11,15 @@
     "geom:longitude":126.85,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"126.845,35.845,126.855,35.855",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Taedong-ni"
     ],
     "qs:name":"\ub300\ub3d9",
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1835397,
         "gp:id":28995214,
-        "qs:id":55635
+        "qs_pg:id":55635
     },
     "wof:country":"KR",
     "wof:created":1469054067,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890476229,
-    "wof:lastmodified":1505343721,
+    "wof:lastmodified":1566589630,
     "wof:name":"\ub300\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.398765,
     "lbl:longitude":126.906752,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gyeonggi-do",
     "meso:admin_1_lo":"\uacbd\uae30\ub3c4",
     "meso:diss_me":"AnyangsimananguGyeonggi-do",
@@ -38,6 +40,7 @@
     "mps:longitude":126.906752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Manan"
     ],
@@ -52,7 +55,7 @@
         "Manan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108746383,
-    "wof:lastmodified":1564127234,
+    "wof:lastmodified":1566588965,
     "wof:name":"Manan",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

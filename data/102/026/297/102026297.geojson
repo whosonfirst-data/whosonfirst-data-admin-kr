@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
-    "geom:area_square_m":3123809.685648,
+    "geom:area_square_m":3123809.685643,
     "geom:bbox":"128.248886676,35.3128320822,128.270888751,35.3308644965",
     "geom:latitude":35.321848,
     "geom:longitude":128.259888,
@@ -14,10 +14,14 @@
     "iso:country":"KR",
     "lbl:latitude":35.321848,
     "lbl:longitude":128.259887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.321848,
     "mps:longitude":128.259887,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\u016ciny\u014fng"
     ],
     "qs:a1":"*",
@@ -32,7 +36,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":102026297,
-    "wof:lastmodified":1501222521,
+    "wof:lastmodified":1566586195,
     "wof:name":"Ginei",
     "wof:parent_id":890474629,
     "wof:placetype":"locality",

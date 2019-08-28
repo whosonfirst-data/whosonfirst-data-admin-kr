@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000309,
-    "geom:area_square_m":3122087.039162,
+    "geom:area_square_m":3122087.039161,
     "geom:bbox":"127.172237236,35.2680037175,127.194217932,35.2860286824",
     "geom:latitude":35.277016,
     "geom:longitude":127.183228,
@@ -14,9 +14,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.277016,
     "lbl:longitude":127.183228,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.277016,
     "mps:longitude":127.183228,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc0b0\uc815\ub9ac"
     ],
@@ -35,7 +39,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102026337,
-    "wof:lastmodified":1501222763,
+    "wof:lastmodified":1566586174,
     "wof:name":"Santei-ri",
     "wof:parent_id":890475391,
     "wof:placetype":"locality",

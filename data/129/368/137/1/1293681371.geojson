@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.63958,37.78921,127.67958,37.82921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc0ac\uae38"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "\uac01\uae38",
-        "Kakkil",
-        "Sagil"
+        "Kakkil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293681371,
-    "wof:lastmodified":1564124621,
+    "wof:lastmodified":1566587147,
     "wof:name":"Sagil",
     "wof:parent_id":890472419,
     "wof:placetype":"locality",

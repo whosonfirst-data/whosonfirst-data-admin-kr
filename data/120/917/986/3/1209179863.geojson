@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.92028,35.10139,126.96028,35.14139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632231
@@ -34,7 +38,7 @@
         "gn:id":1981784
     },
     "wof:country":"KR",
-    "wof:geomhash":"7b2d9c2b69a24c83d32f33955b5bf2dd",
+    "wof:geomhash":"a63192cb2e885a2133bc9b0bec74b25e",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209179863,
-    "wof:lastmodified":1536295295,
+    "wof:lastmodified":1566588497,
     "wof:name":"Sot'ae",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     126.94028,
-    35.121390000000005,
+    35.12139000000001,
     126.94028,
-    35.121390000000005
+    35.12139000000001
 ],
   "geometry": {"coordinates":[126.94028,35.12139000000001],"type":"Point"}
 }

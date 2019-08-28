@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":36.186589,
     "lbl:longitude":127.103654,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":36.186589,
     "mps:longitude":127.103654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0646\u0633\u0627\u0646"
     ],
@@ -158,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u043d\u0441\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ronsan"
     ],
     "name:urd_x_preferred":[
@@ -190,7 +193,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":36.203889,
     "wd:longitude":127.084722,
@@ -206,7 +209,6 @@
         "fct:id":"147007f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1840211,
         "gp:id":1132532,
-        "qs:id":137026,
         "qs_pg:id":137026,
         "wd:id":"Q42088",
         "wk:page":"Nonsan"
@@ -226,7 +228,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290065,
+    "wof:lastmodified":1566586188,
     "wof:name":"Nonsan",
     "wof:parent_id":890474443,
     "wof:placetype":"locality",

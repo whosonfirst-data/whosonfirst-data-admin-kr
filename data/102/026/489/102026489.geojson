@@ -15,6 +15,8 @@
     "iso:country":"KR",
     "lbl:latitude":33.495589,
     "lbl:longitude":126.493274,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.495589,
     "mps:longitude":126.493274,
     "mz:hierarchy_label":1,
@@ -164,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tse-tsiu"
     ],
     "name:urd_x_preferred":[
@@ -295,7 +297,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -309,9 +311,11 @@
         "fct:id":"1470016e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1846266,
         "gp:id":1132454,
-        "qs:id":351279,
-        "qs_pg:id":1121126,
+        "qs_pg:id":351279,
         "wd:id":"Q42142"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1121126
     },
     "wof:country":"KR",
     "wof:geomhash":"cc216c79ae1adfd429b82ee074f2c205",
@@ -328,7 +332,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563290077,
+    "wof:lastmodified":1566586192,
     "wof:name":"Jeju",
     "wof:parent_id":890473039,
     "wof:placetype":"locality",

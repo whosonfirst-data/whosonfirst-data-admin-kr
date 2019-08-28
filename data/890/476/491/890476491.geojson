@@ -11,11 +11,15 @@
     "geom:longitude":128.62667,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":82560,
+    "gn:population":82560,
     "iso:country":"KR",
+    "lbl:bbox":"128.60667,34.8625,128.64667,34.9025",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Sinhy\u014fn"
     ],
     "qs:name":"Sinhyeon",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1882056,
-        "qs:id":566813
+        "qs_pg:id":566813
     },
     "wof:country":"KR",
     "wof:created":1469054077,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890476491,
-    "wof:lastmodified":1505343721,
+    "wof:lastmodified":1566589636,
     "wof:name":"Sinhyeon",
     "wof:parent_id":890474515,
     "wof:placetype":"locality",

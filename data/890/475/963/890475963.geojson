@@ -11,7 +11,7 @@
     "geom:longitude":128.596573,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.990264,
     "lbl:longitude":128.613385,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gangwon-do",
     "meso:admin_1_lo":"\uac15\uc6d0\ub3c4",
     "meso:diss_me":"Yangyang-gunGangwon-do",
@@ -42,6 +44,7 @@
     "mps:longitude":128.613385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0627\u0646\u063a\u064a\u0627\u0646\u063a"
     ],
@@ -97,7 +100,7 @@
     "name:swe_x_preferred":[
         "Yangyang-gun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "J\u014dy\u014d-gun"
     ],
     "name:urd_x_preferred":[
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":333,
     "wof:belongsto":[
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gn:id":1832808,
         "gp:id":28289316,
-        "qs:id":392722,
+        "qs_pg:id":392722,
         "wd:id":"Q50254",
         "wk:page":"Yangyang County"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890475963,
-    "wof:lastmodified":1563294821,
+    "wof:lastmodified":1566589653,
     "wof:name":"Yangyang",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

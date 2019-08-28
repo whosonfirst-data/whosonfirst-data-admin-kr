@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.86333,35.93,126.90333,35.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chusan"
     ],
     "name:und_x_variant":[
         "Sulsan-ni",
-        "Chusan-ni",
-        "Chusan"
+        "Chusan-ni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259701701,
-    "wof:lastmodified":1564129717,
+    "wof:lastmodified":1566590385,
     "wof:name":"Chusan",
     "wof:parent_id":890475397,
     "wof:placetype":"locality",

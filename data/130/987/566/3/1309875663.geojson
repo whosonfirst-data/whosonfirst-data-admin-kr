@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"128.46581,35.79476,128.50581,35.83476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0443\u0440\u0430"
     ],
@@ -57,8 +61,7 @@
     ],
     "name:und_x_variant":[
         "\uad6c\ub77c",
-        "Kura",
-        "Gura"
+        "Kura"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1309875663,
-    "wof:lastmodified":1564128276,
+    "wof:lastmodified":1566589581,
     "wof:name":"Gura",
     "wof:parent_id":890475961,
     "wof:placetype":"locality",

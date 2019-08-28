@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"127.7447,36.4272,127.7847,36.4672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nabi"
     ],
@@ -53,9 +57,7 @@
         "Nabi"
     ],
     "name:und_x_variant":[
-        "Nabu-ri",
-        "Nabi",
-        "\ub098\ube44"
+        "Nabu-ri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1259587833,
-    "wof:lastmodified":1564129920,
+    "wof:lastmodified":1566590491,
     "wof:name":"Nabi",
     "wof:parent_id":890472333,
     "wof:placetype":"locality",

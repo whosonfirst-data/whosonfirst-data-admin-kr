@@ -11,7 +11,7 @@
     "geom:longitude":129.082981,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Yeonje District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.188083,
     "lbl:longitude":129.081071,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Busan",
     "meso:admin_1_lo":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Yeonje-guBusan",
@@ -41,6 +43,7 @@
     "mps:longitude":129.081071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yeonje-gu"
     ],
@@ -90,9 +93,6 @@
     "name:swe_x_preferred":[
         "Yeonje-gu"
     ],
-    "name:unk_x_variant":[
-        "Yeonje"
-    ],
     "name:vie_x_preferred":[
         "Yeonje"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":140,
     "wof:belongsto":[
@@ -121,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462807,
-        "qs:id":209105,
+        "qs_pg:id":209105,
         "wd:id":"Q50422",
         "wk:page":"Yeonje District"
     },
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":890472085,
-    "wof:lastmodified":1563294913,
+    "wof:lastmodified":1566589704,
     "wof:name":"Yeonje",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

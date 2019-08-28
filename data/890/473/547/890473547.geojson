@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":34.754415,
     "lbl:longitude":126.91473,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Jeollanam-do",
     "meso:admin_1_lo":"\uc804\ub77c\ub0a8\ub3c4",
     "meso:diss_me":"Jangheung-gunJeollanam-do",
@@ -39,6 +41,7 @@
     "mps:longitude":126.91473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Jangheung-gun"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":271,
     "wof:belongsto":[
         102191569,
@@ -118,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289213,
-        "qs:id":506254,
+        "qs_pg:id":506254,
         "wd:id":"Q50322",
         "wk:page":"Jangheung County"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890473547,
-    "wof:lastmodified":1563295055,
+    "wof:lastmodified":1566589772,
     "wof:name":"Jangheung",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

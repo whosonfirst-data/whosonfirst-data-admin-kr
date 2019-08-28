@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"126.98075,34.68224,127.02075,34.72224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09ae\u09a8"
     ],
@@ -62,8 +66,7 @@
         "Daman"
     ],
     "name:und_x_variant":[
-        "Taman",
-        "Daman"
+        "Taman"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1343840003,
-    "wof:lastmodified":1564123649,
+    "wof:lastmodified":1566586436,
     "wof:name":"Daman",
     "wof:parent_id":890473031,
     "wof:placetype":"locality",

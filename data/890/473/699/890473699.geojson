@@ -11,11 +11,14 @@
     "geom:longitude":127.09056,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.08556,37.49667,127.09556,37.50667",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Samjeon-dong"
     ],
@@ -32,9 +35,6 @@
         "Samjeon-dong"
     ],
     "name:swe_x_preferred":[
-        "Samjeon-dong"
-    ],
-    "name:unk_x_variant":[
         "Samjeon-dong"
     ],
     "name:vie_x_preferred":[
@@ -66,7 +66,7 @@
     "wof:concordances":{
         "gn:id":6571507,
         "gp:id":28995069,
-        "qs:id":985748,
+        "qs_pg:id":985748,
         "wd:id":"Q7409598"
     },
     "wof:country":"KR",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":890473699,
-    "wof:lastmodified":1563295043,
+    "wof:lastmodified":1566589767,
     "wof:name":"\uc0bc\uc804\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

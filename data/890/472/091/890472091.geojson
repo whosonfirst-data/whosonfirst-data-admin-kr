@@ -11,7 +11,7 @@
     "geom:longitude":129.156565,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Haeundae District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.189193,
     "lbl:longitude":129.147171,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Busan",
     "meso:admin_1_lo":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Haeundae-guBusan",
@@ -41,6 +43,7 @@
     "mps:longitude":129.147171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0425\u044d\u0443\u043d\u0434\u044d\u0433\u0443"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1370,
     "wof:belongsto":[
@@ -133,7 +136,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462808,
-        "qs:id":209113,
+        "qs_pg:id":209113,
         "wd:id":"Q50449",
         "wk:page":"Haeundae District"
     },
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890472091,
-    "wof:lastmodified":1563294915,
+    "wof:lastmodified":1566589705,
     "wof:name":"Haeundae",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

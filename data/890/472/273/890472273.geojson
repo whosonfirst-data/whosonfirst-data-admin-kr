@@ -11,7 +11,7 @@
     "geom:longitude":126.852254,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Seo District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.140009,
     "lbl:longitude":126.859439,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gwangju",
     "meso:admin_1_lo":"\uad11\uc8fc\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Seo-guGwangju",
@@ -41,6 +43,7 @@
     "mps:longitude":126.859439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Seo-gu"
     ],
@@ -254,7 +257,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":36,
     "wof:belongsto":[
@@ -266,7 +269,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462134,
-        "qs:id":381740,
+        "qs_pg:id":381740,
         "wd:id":"Q418825",
         "wk:page":"Seo-gu"
     },
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":890472273,
-    "wof:lastmodified":1563294907,
+    "wof:lastmodified":1566589702,
     "wof:name":"Seo",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":127.148104,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.550354,
     "lbl:longitude":127.142375,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Seoul",
     "meso:admin_1_lo":"\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
     "meso:diss_me":"Gangdong-guSeoul",
@@ -42,6 +44,7 @@
     "mps:longitude":127.142375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gangdong-gu"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":292,
     "wof:belongsto":[
@@ -139,7 +142,7 @@
     "wof:concordances":{
         "gn:id":1843175,
         "gp:id":28289160,
-        "qs:id":492061,
+        "qs_pg:id":492061,
         "wd:id":"Q50348",
         "wk:page":"Gangdong District"
     },
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":890473483,
-    "wof:lastmodified":1563294993,
+    "wof:lastmodified":1566589744,
     "wof:name":"Gangdong",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

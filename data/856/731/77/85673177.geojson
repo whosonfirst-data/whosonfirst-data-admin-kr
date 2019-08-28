@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":37.532056,
     "lbl:longitude":126.704113,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\uc778\ucc9c\uad11\uc5ed\uc2dc",
     "mps:latitude":37.455199,
     "mps:longitude":126.697421,
@@ -441,9 +442,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"965",
     "statoids:area_mi":"373",
     "statoids:as_of_date":"2010-11-01",
@@ -468,7 +469,7 @@
         "gp:id":20069922,
         "hasc:id":"KR.IN",
         "iso:id":"KR-28",
-        "qs:id":1076914,
+        "qs_pg:id":1076914,
         "wd:id":"Q20934",
         "wk:page":"Incheon"
     },
@@ -488,11 +489,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725512,
+    "wof:lastmodified":1566586831,
     "wof:name":"Incheon",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"metropolitan city",
     "wof:population":2632035,
     "wof:population_rank":12,

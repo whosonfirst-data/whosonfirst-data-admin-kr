@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"128.72389,35.66972,128.76389,35.70972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0938\u093f\u0928\u093e\u092e"
     ],
@@ -52,7 +56,6 @@
     ],
     "name:und_x_variant":[
         "Shinam",
-        "Sinam",
         "\uc2e0\uc554"
     ],
     "src:geom":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1327105181,
-    "wof:lastmodified":1564123223,
+    "wof:lastmodified":1566586114,
     "wof:name":"Sinam",
     "wof:parent_id":890475757,
     "wof:placetype":"locality",

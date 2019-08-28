@@ -12,10 +12,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.75097,
     "lbl:longitude":128.754273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.75097,
     "mps:longitude":128.754273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0648\u0646\u063a\u0633\u0627\u0646"
     ],
@@ -169,7 +172,7 @@
     "qs:source":"Rquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":35.816667,
     "wd:longitude":128.733333,
     "wd:wordcount":277,
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":102026515,
-    "wof:lastmodified":1563290097,
+    "wof:lastmodified":1566586199,
     "wof:name":"Ky\u014fngsan",
     "wof:parent_id":890476211,
     "wof:placetype":"locality",

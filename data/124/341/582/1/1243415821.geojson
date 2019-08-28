@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Seoul",
     "iso:country":"KR",
+    "lbl:bbox":"128.63278,34.75417,128.67278,34.79417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Susan"
     ],
@@ -56,8 +60,7 @@
         "\u0421\u044c\u044e\u0437\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Susan-ni",
-        "Susan"
+        "Susan-ni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1243415821,
-    "wof:lastmodified":1564128964,
+    "wof:lastmodified":1566589992,
     "wof:name":"Susan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

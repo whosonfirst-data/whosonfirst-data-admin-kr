@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":38.197531,
     "lbl:longitude":127.993352,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Gangwon-do",
     "meso:admin_1_lo":"\uac15\uc6d0\ub3c4",
     "meso:diss_me":"Yanggu-gunGangwon-do",
@@ -39,6 +41,7 @@
     "mps:longitude":127.993352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0627\u0646\u063a\u0648"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         102191569,
@@ -127,7 +130,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289312,
-        "qs:id":32691,
+        "qs_pg:id":32691,
         "wd:id":"Q50253",
         "wk:page":"Yanggu County, Gangwon"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890474685,
-    "wof:lastmodified":1563295118,
+    "wof:lastmodified":1566589802,
     "wof:name":"Yanggu",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

@@ -11,15 +11,18 @@
     "geom:longitude":126.71556,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"126.71056,34.67778,126.72056,34.68778",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:kor_x_preferred":[
         "\ub0ad\ub3d9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nang-dong"
     ],
     "qs:name":"\uc911\uc559\ub3d9",
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":6397486,
         "gp:id":28995186,
-        "qs:id":358886
+        "qs_pg:id":358886
     },
     "wof:country":"KR",
     "wof:created":1469053954,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890473487,
-    "wof:lastmodified":1505343717,
+    "wof:lastmodified":1566589765,
     "wof:name":"\uc911\uc559\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

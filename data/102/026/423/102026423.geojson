@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":35.438295,
     "lbl:longitude":126.705322,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":35.438295,
     "mps:longitude":126.705322,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Gochang-gun"
     ],
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "Gochang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u014dsh\u014d"
     ],
     "name:urd_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":1842859,
         "gp:id":28807939,
-        "qs:id":276644,
         "qs_pg:id":276644,
         "wd:id":"Q50210",
         "wk:page":"Gochang County"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":102026423,
-    "wof:lastmodified":1563290037,
+    "wof:lastmodified":1566586179,
     "wof:name":"Koch'ang",
     "wof:parent_id":890475485,
     "wof:placetype":"locality",

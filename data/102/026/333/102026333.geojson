@@ -15,10 +15,13 @@
     "iso:country":"KR",
     "lbl:latitude":36.275282,
     "lbl:longitude":128.251032,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":36.275282,
     "mps:longitude":128.251032,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Jenzan"
     ],
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Jenzan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u014fnsan"
     ],
     "qs:a1":"*",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":1835967,
         "gp:id":28808371,
-        "qs:id":372372,
         "qs_pg:id":372372,
         "wd:id":"Q7451617",
         "wk:page":"Seonsan"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":102026333,
-    "wof:lastmodified":1563290068,
+    "wof:lastmodified":1566586189,
     "wof:name":"Jenzan",
     "wof:parent_id":890472251,
     "wof:placetype":"locality",

@@ -11,15 +11,18 @@
     "geom:longitude":127.21459,
     "gn:country":"KR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424868,
     "iso:country":"KR",
+    "lbl:bbox":"127.20959,34.78,127.21959,34.79",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:kor_x_preferred":[
         "\uc2e0\ub3d9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sindong"
     ],
     "qs:name":"\uc2e0\uac00\ub3d9",
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":6684459,
         "gp:id":28995201,
-        "qs:id":55634
+        "qs_pg:id":55634
     },
     "wof:country":"KR",
     "wof:created":1469054067,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890476225,
-    "wof:lastmodified":1505343721,
+    "wof:lastmodified":1566589642,
     "wof:name":"\uc2e0\uac00\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

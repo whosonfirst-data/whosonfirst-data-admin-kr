@@ -11,7 +11,7 @@
     "geom:longitude":128.895878,
     "gn:country":"KR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
         "Gangseo District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":35.162488,
     "lbl:longitude":128.922569,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1_en":"Busan",
     "meso:admin_1_lo":"\ubd80\uc0b0\uad11\uc5ed\uc2dc",
     "meso:diss_me":"Gangseo-guBusan",
@@ -41,6 +43,7 @@
     "mps:longitude":128.922569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gangseo-gu"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -103,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462812,
-        "qs:id":209114,
+        "qs_pg:id":209114,
         "wd:id":"Q439427",
         "wk:page":"Gangseo-gu"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890472093,
-    "wof:lastmodified":1563294964,
+    "wof:lastmodified":1566589730,
     "wof:name":"Gangseo",
     "wof:parent_id":85673227,
     "wof:placetype":"county",
