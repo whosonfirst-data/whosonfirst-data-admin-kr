@@ -1,0 +1,98 @@
+{
+  "id": 85927003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":1286930.549253,
+    "geom:bbox":"126.92421,37.535866,126.941528,37.547844",
+    "geom:latitude":37.541394,
+    "geom:longitude":126.934108,
+    "gn:latitude":37.28833,
+    "gn:longitude":127.45222,
+    "iso:country":"KR",
+    "lbl:latitude":37.54289,
+    "lbl:longitude":126.934517,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":37.540865,
+    "mps:longitude":126.934809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Changjeon-dong"
+    ],
+    "name:eng_x_preferred":[
+        "Changjeon-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc3d\uc804\ub3d9"
+    ],
+    "name:swe_x_preferred":[
+        "Changjeon-dong"
+    ],
+    "name:vie_x_preferred":[
+        "Changjeon-dong"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        890475295,
+        102026327,
+        85673185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6577845,
+        "gp:id":28995040,
+        "qs_pg:id":424429,
+        "wd:id":"Q5072055"
+    },
+    "wof:country":"KR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"adef58f0d12b566309c5d9b47eaff382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85927003,
+            "region_id":85673185
+        }
+    ],
+    "wof:id":85927003,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1593729004,
+    "wof:name":"\ucc3d\uc804\ub3d9",
+    "wof:parent_id":102026327,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92421,
+    37.535866,
+    126.941528,
+    37.547844
+],
+  "geometry": {"coordinates":[[[126.936035,37.546755],[126.936898,37.545666],[126.937359,37.545666],[126.93822299999999,37.544577],[126.938782,37.544577],[126.938782,37.543872],[126.938782,37.5424],[126.94152800000001,37.5424],[126.94152800000001,37.540222],[126.94152800000001,37.535866],[126.94041,37.535866],[126.94041,37.535866],[126.936035,37.535866],[126.93165999999999,37.535866],[126.93165999999999,37.535866],[126.930542,37.535866],[126.930542,37.540222],[126.927795,37.540222],[126.927795,37.5424],[126.92450599999999,37.5424],[126.92421,37.543519],[126.925049,37.544577],[126.927795,37.544577],[126.927795,37.546755],[126.930542,37.546755],[126.933289,37.546755],[126.934152,37.547844],[126.93517199999999,37.547844],[126.936035,37.546755]]],"type":"Polygon"}
+}

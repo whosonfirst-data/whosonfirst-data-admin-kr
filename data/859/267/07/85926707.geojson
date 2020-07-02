@@ -1,0 +1,107 @@
+{
+  "id": 85926707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.649232,37.386463,126.649232,37.386463",
+    "geom:latitude":37.386463,
+    "geom:longitude":126.649232,
+    "gn:id":"",
+    "iso:country":"KR",
+    "lbl:bbox":"126.644232,37.381463,126.654232,37.391463",
+    "lbl:latitude":37.386463,
+    "lbl:longitude":126.649232,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":37.388672,
+    "mps:longitude":126.646798,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:kor_x_preferred":[
+        "\ub3d9\ucd98\ub3d9"
+    ],
+    "qs:gn_adm0_cc":"KR",
+    "qs:gn_id":0,
+    "qs:gn_local":1843564,
+    "qs:local_max":2394,
+    "qs:local_sum":10431,
+    "qs:localhoods":47,
+    "qs:name":"\ub3d9\ucd98\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uc778\ucc9c",
+    "qs:name_adm2":"\uc5f0\uc218\uad6c",
+    "qs:name_local":"\uc778\ucc9c",
+    "qs:photo_max":60,
+    "qs:photo_sum":577,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":63,
+    "qs:woe_adm0":23424868,
+    "qs:woe_adm1":20069922,
+    "qs:woe_adm2":28289334,
+    "qs:woe_lau":0,
+    "qs:woe_local":1132496,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        1108746503,
+        102026447,
+        85673177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28835267,
+        "qs_pg:id":1294635
+    },
+    "wof:country":"KR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"7e2611e82c8d6309d481d0e25597e3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746503,
+            "locality_id":102026447,
+            "neighbourhood_id":85926707,
+            "region_id":85673177
+        }
+    ],
+    "wof:id":85926707,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1593729000,
+    "wof:name":"\ub3d9\ucd98\ub3d9",
+    "wof:parent_id":102026447,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.649232,
+    37.386463,
+    126.649232,
+    37.386463
+],
+  "geometry": {"coordinates":[126.649232,37.386463],"type":"Point"}
+}

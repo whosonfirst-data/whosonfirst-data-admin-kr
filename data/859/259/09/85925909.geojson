@@ -1,0 +1,128 @@
+{
+  "id": 85925909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.143021,35.815288,127.143021,35.815288",
+    "geom:latitude":35.815288,
+    "geom:longitude":127.143021,
+    "gn:latitude":35.60844,
+    "gn:longitude":127.77855,
+    "iso:country":"KR",
+    "lbl:bbox":"127.138021,35.810288,127.148021,35.820288",
+    "lbl:latitude":35.815288,
+    "lbl:longitude":127.143021,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":35.810343,
+    "mps:longitude":127.139271,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Carwitzer See"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\uc559\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uace0\uc0ac\ub3d9",
+        "\ub2e4\uac00\ub3d9",
+        "\ub2e4\uac00\ub3d91\uac00",
+        "\ub2e4\uac00\ub3d92\uac00",
+        "\ub2e4\uac00\ub3d93\uac00",
+        "\ub2e4\uac00\ub3d94\uac00",
+        "\uc911\uc559\ub3d94\uac00"
+    ],
+    "name:spa_x_preferred":[
+        "Lago Carwitzer"
+    ],
+    "name:und_x_variant":[
+        "\uc911\ubc29\ub3d9"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"20",
+    "qs:gn_name":"Chungbang-dong",
+    "qs:local_max":614,
+    "qs:local_sum":1379,
+    "qs:localhoods":5,
+    "qs:name":"\uc911\uc559\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uc804\ub77c\ubd81\ub3c4",
+    "qs:name_adm2":"\uc804\uc8fc\uc2dc",
+    "qs:name_lau":"\uc644\uc0b0\uad6c",
+    "qs:name_local":"\uc644\uc0b0\uad6c",
+    "qs:photo_max":80,
+    "qs:photo_sum":349,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424868,
+    "qs:woe_adm1":2345964,
+    "qs:woe_adm2":28289219,
+    "qs:woe_lau":28997217,
+    "qs:woe_local":28997217,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        1108746469,
+        102026471,
+        85673195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6894327,
+        "gp:id":28807725,
+        "qs_pg:id":230189,
+        "wk:page":"Carwitzer See"
+    },
+    "wof:country":"KR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"20efdae542109f8fcf24567f99f71e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746469,
+            "locality_id":102026471,
+            "neighbourhood_id":85925909,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":85925909,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1593728997,
+    "wof:name":"\uc911\uc559\ub3d9",
+    "wof:parent_id":102026471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.143021,
+    35.815288,
+    127.143021,
+    35.815288
+],
+  "geometry": {"coordinates":[127.143021,35.815288],"type":"Point"}
+}
