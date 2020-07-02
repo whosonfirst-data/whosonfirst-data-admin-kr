@@ -1,0 +1,129 @@
+{
+  "id": 85925953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.135736,35.855747,127.135736,35.855747",
+    "geom:latitude":35.855747,
+    "geom:longitude":127.135736,
+    "gn:latitude":36.364,
+    "gn:longitude":127.4382,
+    "iso:country":"KR",
+    "lbl:bbox":"127.130736,35.850747,127.140736,35.860747",
+    "lbl:latitude":35.855747,
+    "lbl:longitude":127.135736,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":35.863903,
+    "mps:longitude":127.13145,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:jpn_x_preferred":[
+        "\u98db\u9a28\u7d30\u6c5f\u99c5"
+    ],
+    "name:kor_x_preferred":[
+        "\uc1a1\ucc9c1\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uc1a1\ucc9c1",
+        "\uc1a1\ucc9c\ub3d9",
+        "\ud788\ub2e4\ud638\uc18c\uc5d0 \uc5ed"
+    ],
+    "name:mya_x_preferred":[
+        "\u101f\u102d\u1012\u2212 \u101f\u102d\u102f\u1006\u102d\u102f\u1021\u1032\u1018\u1030\u1010\u102c"
+    ],
+    "name:und_x_variant":[
+        "\uc1a1\ucd0c\ub3d9"
+    ],
+    "name:zho_x_preferred":[
+        "\u98db\u9a52\u7d30\u6c5f\u7ad9"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"19",
+    "qs:gn_name":"Songch\u2019on-dong",
+    "qs:local_max":1112,
+    "qs:local_sum":1824,
+    "qs:localhoods":7,
+    "qs:name":"\uc1a1\ucc9c1\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uc804\ub77c\ubd81\ub3c4",
+    "qs:name_adm2":"\uc804\uc8fc\uc2dc",
+    "qs:name_lau":"\ub355\uc9c4\uad6c",
+    "qs:name_local":"\ub355\uc9c4\uad6c",
+    "qs:photo_max":15,
+    "qs:photo_sum":51,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424868,
+    "qs:woe_adm1":2345964,
+    "qs:woe_adm2":28289219,
+    "qs:woe_lau":28997218,
+    "qs:woe_local":28997218,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        1108746469,
+        102026471,
+        85673195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6888961,
+        "gp:id":28807754,
+        "qs_pg:id":772300,
+        "wk:page":"Hida-Hosoe Station"
+    },
+    "wof:country":"KR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"9b062ded3e78bae63d2680ef0e4445e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746469,
+            "locality_id":102026471,
+            "neighbourhood_id":85925953,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":85925953,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1593728997,
+    "wof:name":"\uc1a1\ucc9c1\ub3d9",
+    "wof:parent_id":102026471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.135736,
+    35.855747,
+    127.135736,
+    35.855747
+],
+  "geometry": {"coordinates":[127.13573599999999,35.855747],"type":"Point"}
+}
