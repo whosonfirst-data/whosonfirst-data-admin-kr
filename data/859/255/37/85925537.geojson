@@ -26,11 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Seoksu 2(i)-dong"
+    ],
     "name:kor_x_preferred":[
         "\uc11d\uc2182\ub3d9"
     ],
     "name:kor_x_variant":[
-        "\uc11d\uc2182"
+        "\uc11d\uc2182",
+        "\uc11d\uc2182\ub3d9"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -62,11 +66,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746411,
         102026501,
-        85673191
+        1108746411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,8 +97,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729013,
-    "wof:name":"\uc11d\uc2182\ub3d9",
+    "wof:lastmodified":1601068467,
+    "wof:name":"Seoksu 2(i)-dong",
     "wof:parent_id":102026501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

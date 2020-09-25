@@ -24,7 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Munjeong-dong"
+    ],
     "name:kor_x_preferred":[
+        "\ubb38\uc815\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\ubb38\uc815\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -53,11 +59,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673185,
         102191569,
         85632231,
-        890475295,
         102026327,
-        85673185
+        890475295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,8 +85,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729012,
-    "wof:name":"\ubb38\uc815\ub3d9",
+    "wof:lastmodified":1601068459,
+    "wof:name":"Munjeong-dong",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

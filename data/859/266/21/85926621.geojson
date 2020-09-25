@@ -26,7 +26,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Sincheon-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uc2e0\ucc9c\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uc2e0\ucc9c\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -57,11 +63,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673213,
         102191569,
         85632231,
-        1108746395,
         102026315,
-        85673213
+        1108746395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +94,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593728996,
-    "wof:name":"\uc2e0\ucc9c\ub3d9",
+    "wof:lastmodified":1601068472,
+    "wof:name":"Sincheon-dong",
     "wof:parent_id":102026315,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

@@ -26,13 +26,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Pungdeokcheon 1(il)-dong"
+    ],
     "name:kor_x_preferred":[
         "\ud48d\ub355\ucc9c1\ub3d9"
     ],
     "name:kor_x_variant":[
         "\ud48d\ub355\ucc9c",
         "\ud48d\ub355\ucc9c1",
-        "\ud48d\ub355\ucc9c\ub3d9"
+        "\ud48d\ub355\ucc9c\ub3d9",
+        "\ud48d\ub355\ucc9c1\ub3d9"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -62,11 +66,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746545,
         102026263,
-        85673191
+        1108746545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,8 +97,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729001,
-    "wof:name":"\ud48d\ub355\ucc9c1\ub3d9",
+    "wof:lastmodified":1601068492,
+    "wof:name":"Pungdeokcheon 1(il)-dong",
     "wof:parent_id":102026263,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

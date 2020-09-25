@@ -27,7 +27,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Goseong-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uace0\uc131\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uace0\uc131\ub3d9"
     ],
     "name:und_x_variant":[
@@ -64,11 +70,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673213,
         102191569,
         85632231,
-        1108746395,
         102026315,
-        85673213
+        1108746395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,8 +102,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593728992,
-    "wof:name":"\uace0\uc131\ub3d9",
+    "wof:lastmodified":1601068446,
+    "wof:name":"Goseong-dong",
     "wof:parent_id":102026315,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

@@ -26,7 +26,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Mandeok-dong"
+    ],
     "name:kor_x_preferred":[
+        "\ub9cc\ub355\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\ub9cc\ub355\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -57,10 +63,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673227,
         102191569,
         85632231,
-        1108746393,
-        85673227
+        1108746393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,8 +93,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729009,
-    "wof:name":"\ub9cc\ub355\ub3d9",
+    "wof:lastmodified":1601068457,
+    "wof:name":"Mandeok-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

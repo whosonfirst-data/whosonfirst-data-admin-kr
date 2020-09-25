@@ -25,7 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Unam-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uc6b4\uc554\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uc6b4\uc554\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -58,11 +64,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673199,
         102191569,
         85632231,
-        890472273,
         102026391,
-        85673199,
+        890472273,
         85673219
     ],
     "wof:breaches":[],
@@ -96,8 +102,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729000,
-    "wof:name":"\uc6b4\uc554\ub3d9",
+    "wof:lastmodified":1601068478,
+    "wof:name":"Unam-dong",
     "wof:parent_id":102026391,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

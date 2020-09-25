@@ -27,7 +27,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Siksa-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uc2dd\uc0ac\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uc2dd\uc0ac\ub3d9"
     ],
     "name:und_x_variant":[
@@ -63,11 +69,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746465,
         102026411,
-        85673191
+        1108746465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,8 +101,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593728994,
-    "wof:name":"\uc2dd\uc0ac\ub3d9",
+    "wof:lastmodified":1601068471,
+    "wof:name":"Siksa-dong",
     "wof:parent_id":102026411,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

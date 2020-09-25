@@ -26,7 +26,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Oncheon-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uc628\ucc9c\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uc628\ucc9c\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -57,11 +63,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673207,
         102191569,
         85632231,
-        1108746515,
         102026311,
-        85673207
+        1108746515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +94,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729000,
-    "wof:name":"\uc628\ucc9c\ub3d9",
+    "wof:lastmodified":1601068477,
+    "wof:name":"Oncheon-dong",
     "wof:parent_id":102026311,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

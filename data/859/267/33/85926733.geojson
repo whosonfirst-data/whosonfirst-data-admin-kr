@@ -26,7 +26,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Bugae-dong"
+    ],
     "name:kor_x_preferred":[
+        "\ubd80\uac1c\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\ubd80\uac1c\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -57,11 +63,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746419,
         102026355,
-        85673191
+        1108746419
     ],
     "wof:breaches":[
         85925621
@@ -90,8 +96,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729000,
-    "wof:name":"\ubd80\uac1c\ub3d9",
+    "wof:lastmodified":1601068461,
+    "wof:name":"Bugae-dong",
     "wof:parent_id":102026355,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

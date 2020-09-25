@@ -27,13 +27,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Hyoja 4(sa)-dong"
+    ],
     "name:kor_x_preferred":[
         "\ud6a8\uc7904\ub3d9"
     ],
     "name:kor_x_variant":[
         "\uc0c1\ub9bc\ub3d9",
         "\uc911\ub3d9",
-        "\ud6a8\uc7904"
+        "\ud6a8\uc7904",
+        "\ud6a8\uc7904\ub3d9"
     ],
     "name:und_x_variant":[
         "\ud6a8\uc790\ub3d9"
@@ -68,11 +72,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673195,
         102191569,
         85632231,
-        1108746469,
         102026471,
-        85673195
+        1108746469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,8 +104,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593728997,
-    "wof:name":"\ud6a8\uc7904\ub3d9",
+    "wof:lastmodified":1601068496,
+    "wof:name":"Hyoja 4(sa)-dong",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

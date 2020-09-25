@@ -27,11 +27,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Yatap 3(sam)-dong"
+    ],
     "name:kor_x_preferred":[
         "\uc57c\ud0d13\ub3d9"
     ],
     "name:kor_x_variant":[
-        "\uc57c\ud0d13"
+        "\uc57c\ud0d13",
+        "\uc57c\ud0d13\ub3d9"
     ],
     "name:und_x_variant":[
         "\uc57c\ud0d12\ub3d9"
@@ -100,8 +104,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1582331606,
-    "wof:name":"\uc57c\ud0d13\ub3d9",
+    "wof:lastmodified":1601068474,
+    "wof:name":"Yatap 3(sam)-dong",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

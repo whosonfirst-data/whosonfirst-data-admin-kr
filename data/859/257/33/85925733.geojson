@@ -27,13 +27,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Daedeok-dong"
+    ],
     "name:kor_x_preferred":[
         "\ub300\ub355\ub3d9"
     ],
     "name:kor_x_variant":[
         "\ud604\ucc9c\ub3d9",
         "\ud654\uc804\ub3d9",
-        "\ub300\uc815\ub3d9"
+        "\ub300\uc815\ub3d9",
+        "\ub300\ub355\ub3d9"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -65,11 +69,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673185,
         102191569,
         85632231,
-        890475295,
         102026327,
-        85673185
+        890475295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,8 +101,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593728994,
-    "wof:name":"\ub300\ub355\ub3d9",
+    "wof:lastmodified":1601068453,
+    "wof:name":"Daedeok-dong",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

@@ -27,7 +27,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Soje-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uc18c\uc81c\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uc18c\uc81c\ub3d9"
     ],
     "name:und_x_variant":[
@@ -64,11 +70,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673207,
         102191569,
         85632231,
-        1108746515,
         102026311,
-        85673207
+        1108746515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,8 +102,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593728989,
-    "wof:name":"\uc18c\uc81c\ub3d9",
+    "wof:lastmodified":1601068469,
+    "wof:name":"Soje-dong",
     "wof:parent_id":102026311,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

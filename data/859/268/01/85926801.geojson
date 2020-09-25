@@ -26,7 +26,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Sinjeong-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uc2e0\uc815\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uc2e0\uc815\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -59,11 +65,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673231,
         102191569,
         85632231,
-        1108746505,
         102026291,
-        85673231
+        1108746505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,8 +96,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593728995,
-    "wof:name":"\uc2e0\uc815\ub3d9",
+    "wof:lastmodified":1601068472,
+    "wof:name":"Sinjeong-dong",
     "wof:parent_id":102026291,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

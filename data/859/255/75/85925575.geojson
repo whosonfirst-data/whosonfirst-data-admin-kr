@@ -27,12 +27,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Hogye 1(il)-dong"
+    ],
     "name:kor_x_preferred":[
         "\ud638\uacc41\ub3d9"
     ],
     "name:kor_x_variant":[
         "\ud638\uacc41",
-        "\ud638\uacc4\ub3d9"
+        "\ud638\uacc4\ub3d9",
+        "\ud638\uacc41\ub3d9"
     ],
     "name:und_x_variant":[
         "\ud638\uacc42\ub3d9"
@@ -67,11 +71,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746411,
         102026501,
-        85673191
+        1108746411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,8 +103,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729013,
-    "wof:name":"\ud638\uacc41\ub3d9",
+    "wof:lastmodified":1601068494,
+    "wof:name":"Hogye 1(il)-dong",
     "wof:parent_id":102026501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

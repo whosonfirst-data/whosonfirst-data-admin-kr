@@ -26,7 +26,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Bon-dong"
+    ],
     "name:kor_x_preferred":[
+        "\ubcf8\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\ubcf8\ub3d9"
     ],
     "name:und_x_variant":[
@@ -62,11 +68,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673185,
         102191569,
         85632231,
-        890475295,
         102026327,
-        85673185
+        890475295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,8 +99,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729004,
-    "wof:name":"\ubcf8\ub3d9",
+    "wof:lastmodified":1601068461,
+    "wof:name":"Bon-dong",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

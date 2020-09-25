@@ -27,12 +27,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Jeongja 1(il)-dong"
+    ],
     "name:kor_x_preferred":[
         "\uc815\uc7901\ub3d9"
     ],
     "name:kor_x_variant":[
         "\uc815\uc7901",
-        "\uc815\uc790\ub3d9"
+        "\uc815\uc790\ub3d9",
+        "\uc815\uc7901\ub3d9"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -64,11 +68,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746519,
         102026521,
-        85673191
+        1108746519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,8 +100,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729007,
-    "wof:name":"\uc815\uc7901\ub3d9",
+    "wof:lastmodified":1601068484,
+    "wof:name":"Jeongja 1(il)-dong",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

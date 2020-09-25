@@ -27,7 +27,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Sang 1(il)-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uc0c11\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uc0c11\ub3d9"
     ],
     "name:und_x_variant":[
@@ -63,11 +69,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746419,
         102026355,
-        85673191
+        1108746419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,8 +101,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729003,
-    "wof:name":"\uc0c11\ub3d9",
+    "wof:lastmodified":1601068465,
+    "wof:name":"Sang 1(il)-dong",
     "wof:parent_id":102026355,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

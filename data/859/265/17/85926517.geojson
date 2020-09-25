@@ -25,11 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Sajik-dong"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uc9c1\ub3d9"
     ],
     "name:kor_x_variant":[
-        "\uc0ac\uc9c1"
+        "\uc0ac\uc9c1",
+        "\uc0ac\uc9c1\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_id":0,
@@ -60,11 +64,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673227,
         102191569,
         85632231,
-        890474617,
         102026353,
-        85673227
+        890474617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,8 +96,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729009,
-    "wof:name":"\uc0ac\uc9c1\ub3d9",
+    "wof:lastmodified":1601068464,
+    "wof:name":"Sajik-dong",
     "wof:parent_id":102026353,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

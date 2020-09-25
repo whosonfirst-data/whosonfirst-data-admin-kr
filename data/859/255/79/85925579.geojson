@@ -26,11 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Hogye 3(sam)-dong"
+    ],
     "name:kor_x_preferred":[
         "\ud638\uacc43\ub3d9"
     ],
     "name:kor_x_variant":[
-        "\ud638\uacc43"
+        "\ud638\uacc43",
+        "\ud638\uacc43\ub3d9"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -92,8 +96,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1582331606,
-    "wof:name":"\ud638\uacc43\ub3d9",
+    "wof:lastmodified":1601068494,
+    "wof:name":"Hogye 3(sam)-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",
