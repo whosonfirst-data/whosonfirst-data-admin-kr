@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.912603,35.2655895,128.912603,35.2655895",
+    "geom:bbox":"128.912603,35.265589,128.912603,35.265589",
     "geom:latitude":35.265589,
     "geom:longitude":128.912603,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890475303
+        890475303,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053948,
-    "wof:geomhash":"63501136cfafcad9156a753d4548a960",
+    "wof:geomhash":"308dde143b3d8aaa3523f59d1cfd2635",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890473325,
-    "wof:lastmodified":1601068465,
+    "wof:lastmodified":1601423124,
     "wof:name":"Saman-dong",
     "wof:parent_id":890475303,
     "wof:placetype":"localadmin",
@@ -69,9 +69,9 @@
 },
   "bbox": [
     128.912603,
-    35.2655895,
+    35.265589,
     128.912603,
-    35.2655895
+    35.265589
 ],
-  "geometry": {"coordinates":[128.91260299999999,35.2655895],"type":"Point"}
+  "geometry": {"coordinates":[128.91260299999999,35.265589],"type":"Point"}
 }

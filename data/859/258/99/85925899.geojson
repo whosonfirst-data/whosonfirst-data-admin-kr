@@ -32,11 +32,6 @@
     "name:kor_x_preferred":[
         "\uc218\uace11\ub3d9"
     ],
-    "name:kor_x_variant":[
-        "\uc218\uace11",
-        "\uc218\uace1\ub3d9",
-        "\uc218\uace11\ub3d9"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":39,
@@ -65,10 +60,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85673173,
         102191569,
         85632231,
-        1108746435
+        1108746435,
+        85673173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +90,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1601068470,
+    "wof:lastmodified":1601423130,
     "wof:name":"Sugok 1(il)-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

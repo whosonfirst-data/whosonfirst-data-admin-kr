@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"129.0612025,35.413256,129.0612025,35.413256",
+    "geom:bbox":"129.061203,35.413256,129.061203,35.413256",
     "geom:latitude":35.413256,
     "geom:longitude":129.061203,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890474597
+        890474597,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054010,
-    "wof:geomhash":"25604e9184d82acf2dc5cf235ff29afd",
+    "wof:geomhash":"242dc73be55fb3a8f94ef5e50f26b463",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890474925,
-    "wof:lastmodified":1601068465,
+    "wof:lastmodified":1601423124,
     "wof:name":"Samseong-dong",
     "wof:parent_id":890474597,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.0612025,
+    129.061203,
     35.413256,
-    129.0612025,
+    129.061203,
     35.413256
 ],
-  "geometry": {"coordinates":[129.06120250000001,35.413256],"type":"Point"}
+  "geometry": {"coordinates":[129.06120300000001,35.413256],"type":"Point"}
 }

@@ -33,9 +33,6 @@
     "name:kor_x_preferred":[
         "\ud574\uc548\ub3d9"
     ],
-    "name:kor_x_variant":[
-        "\ud574\uc548\ub3d9"
-    ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":1835329,
@@ -66,10 +63,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85673213,
         102191569,
         85632231,
-        1108746445
+        1108746445,
+        85673213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +93,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1601068493,
+    "wof:lastmodified":1601423109,
     "wof:name":"Haean-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

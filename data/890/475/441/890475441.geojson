@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.4255755,34.811548,128.4255755,34.811548",
+    "geom:bbox":"128.425575,34.811548,128.425575,34.811548",
     "geom:latitude":34.811548,
     "geom:longitude":128.425575,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890474581
+        890474581,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054034,
-    "wof:geomhash":"523eb869f66ef34ec63efaa2fb4a2dfd",
+    "wof:geomhash":"f672818eabd3bc035c7cb4bfb16b8de2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890475441,
-    "wof:lastmodified":1601068461,
+    "wof:lastmodified":1601423096,
     "wof:name":"Bongpyeong-dong",
     "wof:parent_id":890474581,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.42557549999998,
+    128.425575,
     34.811548,
-    128.42557549999998,
+    128.425575,
     34.811548
 ],
-  "geometry": {"coordinates":[128.42557549999998,34.811548],"type":"Point"}
+  "geometry": {"coordinates":[128.42557500000001,34.811548],"type":"Point"}
 }

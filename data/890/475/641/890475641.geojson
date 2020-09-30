@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.906427,34.7714895,126.906427,34.7714895",
+    "geom:bbox":"126.906427,34.77149,126.906427,34.77149",
     "geom:latitude":34.77149,
     "geom:longitude":126.906427,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890473547
+        890473547,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054044,
-    "wof:geomhash":"c9a3b08443fb94c89f07060cd94d02d8",
+    "wof:geomhash":"064077963126d7191ce254b67794e0af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890475641,
-    "wof:lastmodified":1601068482,
+    "wof:lastmodified":1601423114,
     "wof:name":"Jangdong-myeon",
     "wof:parent_id":890473547,
     "wof:placetype":"localadmin",
@@ -69,9 +69,9 @@
 },
   "bbox": [
     126.906427,
-    34.7714895,
+    34.77149,
     126.906427,
-    34.7714895
+    34.77149
 ],
-  "geometry": {"coordinates":[126.90642699999999,34.7714895],"type":"Point"}
+  "geometry": {"coordinates":[126.90642699999999,34.77149],"type":"Point"}
 }

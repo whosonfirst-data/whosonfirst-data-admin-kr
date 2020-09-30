@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.256599,33.3890925,126.256599,33.3890925",
+    "geom:bbox":"126.256599,33.389092,126.256599,33.389092",
     "geom:latitude":33.389092,
     "geom:longitude":126.256599,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673237,
-        890473039
+        890473039,
+        85673237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053939,
-    "wof:geomhash":"4c76b2758b202aba1fd2694e8827085f",
+    "wof:geomhash":"a57cdf4539b6ca3ae79cb84654281abd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890473107,
-    "wof:lastmodified":1601068493,
+    "wof:lastmodified":1601423110,
     "wof:name":"Hallim-eup",
     "wof:parent_id":890473039,
     "wof:placetype":"localadmin",
@@ -69,9 +69,9 @@
 },
   "bbox": [
     126.256599,
-    33.3890925,
+    33.389092,
     126.256599,
-    33.3890925
+    33.389092
 ],
-  "geometry": {"coordinates":[126.25659899999999,33.3890925],"type":"Point"}
+  "geometry": {"coordinates":[126.25659899999999,33.389092],"type":"Point"}
 }

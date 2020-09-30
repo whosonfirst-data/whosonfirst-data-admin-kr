@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"127.0558115,37.9266345,127.0558115,37.9266345",
+    "geom:bbox":"127.055812,37.926634,127.055812,37.926634",
     "geom:latitude":37.926634,
     "geom:longitude":127.055812,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673191,
-        890476241
+        890476241,
+        85673191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054033,
-    "wof:geomhash":"05e6db364e9ef2e743f1972765c8b8f4",
+    "wof:geomhash":"3aa74ab0dfe74eaf746eb08abffc6529",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890475433,
-    "wof:lastmodified":1601068469,
+    "wof:lastmodified":1601423130,
     "wof:name":"Soyo-dong",
     "wof:parent_id":890476241,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.0558115,
-    37.9266345,
-    127.0558115,
-    37.9266345
+    127.055812,
+    37.926634,
+    127.055812,
+    37.926634
 ],
-  "geometry": {"coordinates":[127.0558115,37.9266345],"type":"Point"}
+  "geometry": {"coordinates":[127.055812,37.926634],"type":"Point"}
 }

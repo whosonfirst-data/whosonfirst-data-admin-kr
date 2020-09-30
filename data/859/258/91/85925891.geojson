@@ -32,13 +32,6 @@
     "name:kor_x_preferred":[
         "\uc6a9\ub2f4.\uba85\uc554.\uc0b0\uc131\ub3d9"
     ],
-    "name:kor_x_variant":[
-        "\uba85\uc554\ub3d9",
-        "\uc0b0\uc131\ub3d9",
-        "\uc6a9\ub2f4.\uba85\uc554.\uc0b0\uc131",
-        "\uc6a9\ub2f4\ub3d9",
-        "\uc6a9\ub2f4.\uba85\uc554.\uc0b0\uc131\ub3d9"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":237,
@@ -67,10 +60,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85673173,
         102191569,
         85632231,
-        1108746437
+        1108746437,
+        85673173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +90,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1601068477,
+    "wof:lastmodified":1601423135,
     "wof:name":"Yongdam.Myeongam.Sanseong-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

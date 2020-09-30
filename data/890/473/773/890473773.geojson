@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.518666,36.5401395,128.518666,36.5401395",
+    "geom:bbox":"128.518666,36.54014,128.518666,36.54014",
     "geom:latitude":36.54014,
     "geom:longitude":128.518666,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890473215
+        890473215,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053965,
-    "wof:geomhash":"004b1e76e2660881581b363847cf8725",
+    "wof:geomhash":"d1b3321a461a7d221a50d23a3b436336",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890473773,
-    "wof:lastmodified":1601068492,
+    "wof:lastmodified":1601423123,
     "wof:name":"Pungcheon-myeon",
     "wof:parent_id":890473215,
     "wof:placetype":"localadmin",
@@ -69,9 +69,9 @@
 },
   "bbox": [
     128.518666,
-    36.5401395,
+    36.54014,
     128.518666,
-    36.5401395
+    36.54014
 ],
-  "geometry": {"coordinates":[128.518666,36.5401395],"type":"Point"}
+  "geometry": {"coordinates":[128.518666,36.54014],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.9393605,37.772817,128.9393605,37.772817",
+    "geom:bbox":"128.93936,37.772817,128.93936,37.772817",
     "geom:latitude":37.772817,
     "geom:longitude":128.93936,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890476169
+        890476169,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053934,
-    "wof:geomhash":"b9a0a75ff75030ae6935e8bbc0e6c9db",
+    "wof:geomhash":"44c8a4d554bafbc765e32b1834376017",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890472989,
-    "wof:lastmodified":1601068470,
+    "wof:lastmodified":1601423130,
     "wof:name":"Songjeong-dong",
     "wof:parent_id":890476169,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.9393605,
+    128.93936,
     37.772817,
-    128.9393605,
+    128.93936,
     37.772817
 ],
-  "geometry": {"coordinates":[128.93936049999999,37.772817],"type":"Point"}
+  "geometry": {"coordinates":[128.93935999999999,37.772817],"type":"Point"}
 }

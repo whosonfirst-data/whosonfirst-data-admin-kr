@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"127.7480385,37.853984,127.7480385,37.853984",
+    "geom:bbox":"127.748039,37.853984,127.748039,37.853984",
     "geom:latitude":37.853984,
     "geom:longitude":127.748039,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890472419
+        890472419,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054076,
-    "wof:geomhash":"a98d454a23b0d60da8cb95c328c9e044",
+    "wof:geomhash":"b90fa147b19dc021c5e7c8ff2e1eec01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890476451,
-    "wof:lastmodified":1601068467,
+    "wof:lastmodified":1601423127,
     "wof:name":"Seoksa-dong",
     "wof:parent_id":890472419,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.7480385,
+    127.748039,
     37.853984,
-    127.7480385,
+    127.748039,
     37.853984
 ],
-  "geometry": {"coordinates":[127.74803850000001,37.853984],"type":"Point"}
+  "geometry": {"coordinates":[127.74803900000001,37.853984],"type":"Point"}
 }

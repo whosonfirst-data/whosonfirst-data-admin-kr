@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.8664635,35.232733,128.8664635,35.232733",
+    "geom:bbox":"128.866464,35.232733,128.866464,35.232733",
     "geom:latitude":35.232733,
     "geom:longitude":128.866464,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890475303
+        890475303,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054075,
-    "wof:geomhash":"e6992cab9157f77b0d981a7565a12551",
+    "wof:geomhash":"6ec76264faac5737f3cc93dc41a17ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890476417,
-    "wof:lastmodified":1601068452,
+    "wof:lastmodified":1601423120,
     "wof:name":"Naeoe-dong",
     "wof:parent_id":890475303,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.8664635,
+    128.866464,
     35.232733,
-    128.8664635,
+    128.866464,
     35.232733
 ],
-  "geometry": {"coordinates":[128.86646350000001,35.232733],"type":"Point"}
+  "geometry": {"coordinates":[128.86646400000001,35.232733],"type":"Point"}
 }

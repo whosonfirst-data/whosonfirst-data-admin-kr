@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.4193505,35.312517,128.4193505,35.312517",
+    "geom:bbox":"128.419351,35.312517,128.419351,35.312517",
     "geom:latitude":35.312517,
     "geom:longitude":128.419351,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890474513
+        890474513,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053970,
-    "wof:geomhash":"02ae022acdd9ab1d1367ace03de24d33",
+    "wof:geomhash":"5f8f4a0278085b42f106542ba1f412b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890473891,
-    "wof:lastmodified":1601068490,
+    "wof:lastmodified":1601423099,
     "wof:name":"Chilwon-myeon",
     "wof:parent_id":890474513,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.4193505,
+    128.419351,
     35.312517,
-    128.4193505,
+    128.419351,
     35.312517
 ],
-  "geometry": {"coordinates":[128.41935050000001,35.312517],"type":"Point"}
+  "geometry": {"coordinates":[128.41935100000001,35.312517],"type":"Point"}
 }

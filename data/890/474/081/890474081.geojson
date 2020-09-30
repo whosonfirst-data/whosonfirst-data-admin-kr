@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.61145,35.2444795,128.61145,35.2444795",
+    "geom:bbox":"128.61145,35.244479,128.61145,35.244479",
     "geom:latitude":35.244479,
     "geom:longitude":128.61145,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        1108746539
+        1108746539,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053976,
-    "wof:geomhash":"7ca698b5cc5bc8a8474fad91a6cce89a",
+    "wof:geomhash":"e6e365b0a64f84e73837d5a3186123e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890474081,
-    "wof:lastmodified":1601068456,
+    "wof:lastmodified":1601423102,
     "wof:name":"Dong-eup",
     "wof:parent_id":1108746539,
     "wof:placetype":"localadmin",
@@ -69,9 +69,9 @@
 },
   "bbox": [
     128.61145,
-    35.2444795,
+    35.244479,
     128.61145,
-    35.2444795
+    35.244479
 ],
-  "geometry": {"coordinates":[128.61144999999999,35.2444795],"type":"Point"}
+  "geometry": {"coordinates":[128.61144999999999,35.244479],"type":"Point"}
 }

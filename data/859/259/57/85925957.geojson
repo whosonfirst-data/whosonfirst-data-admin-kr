@@ -32,18 +32,6 @@
     "name:kor_x_preferred":[
         "\uc870\ucd0c\ub3d9"
     ],
-    "name:kor_x_variant":[
-        "\uac15\ud765\ub3d9",
-        "\ub0a8\uc815\ub3d9",
-        "\ub3c4\ub355\ub3d9",
-        "\ub3c4\ub3c4\ub3d9",
-        "\ubc18\uc6d4\ub3d9",
-        "\uc131\ub355\ub3d9",
-        "\uc6a9\uc815\ub3d9",
-        "\uc6d0\ub3d9",
-        "\ud654\uc804\ub3d9",
-        "\uc870\ucd0c\ub3d9"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":1112,
@@ -72,10 +60,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85673195,
         102191569,
         85632231,
-        1108746469
+        1108746469,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +90,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1601068484,
+    "wof:lastmodified":1601423116,
     "wof:name":"Jochon-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

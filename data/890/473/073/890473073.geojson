@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.6827925,37.1023495,128.6827925,37.1023495",
+    "geom:bbox":"128.682792,37.10235,128.682792,37.10235",
     "geom:latitude":37.10235,
     "geom:longitude":128.682792,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890473363
+        890473363,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053937,
-    "wof:geomhash":"291a337bbddb6ddd7b224fdd7e65fd05",
+    "wof:geomhash":"54d57c69dedd908da54d3a10316a23de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890473073,
-    "wof:lastmodified":1601068492,
+    "wof:lastmodified":1601423109,
     "wof:name":"Hadong-myeon",
     "wof:parent_id":890473363,
     "wof:placetype":"localadmin",
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.68279249999998,
-    37.1023495,
-    128.68279249999998,
-    37.1023495
+    128.682792,
+    37.10235,
+    128.682792,
+    37.10235
 ],
-  "geometry": {"coordinates":[128.68279249999998,37.1023495],"type":"Point"}
+  "geometry": {"coordinates":[128.68279200000001,37.10235],"type":"Point"}
 }

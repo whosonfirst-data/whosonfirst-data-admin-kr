@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.626349,35.5310855,126.626349,35.5310855",
+    "geom:bbox":"126.626349,35.531086,126.626349,35.531086",
     "geom:latitude":35.531086,
     "geom:longitude":126.626349,
     "gp:adm0":23424868,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890475485
+        890475485,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054016,
-    "wof:geomhash":"e04d52ff09c590c861de98f940c282a8",
+    "wof:geomhash":"e6d43c7b235c6b4279eb7e1e6421e8d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":890475027,
-    "wof:lastmodified":1601068462,
+    "wof:lastmodified":1601423097,
     "wof:name":"Buan-myeon",
     "wof:parent_id":890475485,
     "wof:placetype":"localadmin",
@@ -69,9 +69,9 @@
 },
   "bbox": [
     126.626349,
-    35.5310855,
+    35.531086,
     126.626349,
-    35.5310855
+    35.531086
 ],
-  "geometry": {"coordinates":[126.626349,35.5310855],"type":"Point"}
+  "geometry": {"coordinates":[126.626349,35.531086],"type":"Point"}
 }
