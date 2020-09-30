@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.8714685,34.9480635,126.8714685,34.9480635",
+    "geom:bbox":"126.871469,34.948064,126.871469,34.948064",
     "geom:latitude":34.948064,
     "geom:longitude":126.871469,
     "gp:adm0":23424868,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Geumnam-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uae08\ub0a8\ub3d9"
+    ],
     "qs:name":"\uae08\ub0a8\ub3d9",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uc804\ub77c\ub0a8\ub3c4",
@@ -31,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890472323
+        890472323,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053969,
-    "wof:geomhash":"a925f19417b0aacebd00be933fc70b66",
+    "wof:geomhash":"5d7f7d47b81cb5f4cfb93a27d14f6235",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":890473875,
-    "wof:lastmodified":1566589746,
-    "wof:name":"\uae08\ub0a8\ub3d9",
+    "wof:lastmodified":1601423106,
+    "wof:name":"Geumnam-dong",
     "wof:parent_id":890472323,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.8714685,
-    34.9480635,
-    126.8714685,
-    34.9480635
+    126.871469,
+    34.948064,
+    126.871469,
+    34.948064
 ],
-  "geometry": {"coordinates":[126.87146850000001,34.9480635],"type":"Point"}
+  "geometry": {"coordinates":[126.871469,34.948064],"type":"Point"}
 }

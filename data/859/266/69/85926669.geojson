@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Gosan-dong"
+    ],
     "name:kor_x_preferred":[
         "\uace0\uc0b0\ub3d9"
     ],
@@ -56,10 +59,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85673213,
         102191569,
         85632231,
-        890473007
+        890473007,
+        85673213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,8 +87,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1582331605,
-    "wof:name":"\uace0\uc0b0\ub3d9",
+    "wof:lastmodified":1601423107,
+    "wof:name":"Gosan-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

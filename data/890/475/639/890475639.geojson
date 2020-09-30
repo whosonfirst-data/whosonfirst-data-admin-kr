@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.906427,34.7714895,126.906427,34.7714895",
+    "geom:bbox":"126.906427,34.77149,126.906427,34.77149",
     "geom:latitude":34.77149,
     "geom:longitude":126.906427,
     "gp:adm0":23424868,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Gwansan-eup"
+    ],
+    "name:kor_x_preferred":[
+        "\uad00\uc0b0\uc74d"
+    ],
     "qs:name":"\uad00\uc0b0\uc74d",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uc804\ub77c\ub0a8\ub3c4",
@@ -31,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890473547
+        890473547,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054044,
-    "wof:geomhash":"c9a3b08443fb94c89f07060cd94d02d8",
+    "wof:geomhash":"064077963126d7191ce254b67794e0af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":890475639,
-    "wof:lastmodified":1566589687,
-    "wof:name":"\uad00\uc0b0\uc74d",
+    "wof:lastmodified":1601423108,
+    "wof:name":"Gwansan-eup",
     "wof:parent_id":890473547,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     126.906427,
-    34.7714895,
+    34.77149,
     126.906427,
-    34.7714895
+    34.77149
 ],
-  "geometry": {"coordinates":[126.90642699999999,34.7714895],"type":"Point"}
+  "geometry": {"coordinates":[126.90642699999999,34.77149],"type":"Point"}
 }

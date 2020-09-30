@@ -21,6 +21,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Yangjae-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uc591\uc7ac\ub3d9"
+    ],
     "qs_pg:aaroncc":"KR",
     "qs_pg:gn_country":"KR",
     "qs_pg:gn_fcode":"PPL",
@@ -48,11 +54,11 @@
     "woe:name_adm1":"\uc11c\uc6b8",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85673185,
         102191569,
         85632231,
+        890475295,
         102026327,
-        890475295
+        85673185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +80,8 @@
         }
     ],
     "wof:id":1126097789,
-    "wof:lastmodified":1566589817,
-    "wof:name":"\uc591\uc7ac\ub3d9",
+    "wof:lastmodified":1601423133,
+    "wof:name":"Yangjae-dong",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

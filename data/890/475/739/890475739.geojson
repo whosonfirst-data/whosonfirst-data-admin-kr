@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.70024,35.9651655,126.70024,35.9651655",
+    "geom:bbox":"126.70024,35.965165,126.70024,35.965165",
     "geom:latitude":35.965165,
     "geom:longitude":126.70024,
     "gp:adm0":23424868,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Naun 1(il)-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\uc6b41\ub3d9"
+    ],
     "qs:name":"\ub098\uc6b41\ub3d9",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uc804\ub77c\ubd81\ub3c4",
@@ -31,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890475397
+        890475397,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054048,
-    "wof:geomhash":"e5cece6c5f0ec4cc3f76ff3aa87fbeba",
+    "wof:geomhash":"1b0d7c153f8078fdef8cdc487de8c2a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":890475739,
-    "wof:lastmodified":1566589651,
-    "wof:name":"\ub098\uc6b41\ub3d9",
+    "wof:lastmodified":1601423121,
+    "wof:name":"Naun 1(il)-dong",
     "wof:parent_id":890475397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     126.70024,
-    35.9651655,
+    35.965165,
     126.70024,
-    35.9651655
+    35.965165
 ],
-  "geometry": {"coordinates":[126.70023999999999,35.9651655],"type":"Point"}
+  "geometry": {"coordinates":[126.70023999999999,35.965165],"type":"Point"}
 }

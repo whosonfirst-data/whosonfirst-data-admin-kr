@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.3001985,34.5723545,126.3001985,34.5723545",
+    "geom:bbox":"126.300198,34.572355,126.300198,34.572355",
     "geom:latitude":34.572355,
     "geom:longitude":126.300198,
     "gp:adm0":23424868,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Munnae-myeon"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb38\ub0b4\uba74"
+    ],
     "qs:name":"\ubb38\ub0b4\uba74",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uc804\ub77c\ub0a8\ub3c4",
@@ -31,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890472189
+        890472189,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053982,
-    "wof:geomhash":"9a6c8033be89c3564f0f847c334d521b",
+    "wof:geomhash":"085ed8d8acee740dbaadc51d0f6f22b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":890474267,
-    "wof:lastmodified":1566589789,
-    "wof:name":"\ubb38\ub0b4\uba74",
+    "wof:lastmodified":1601423119,
+    "wof:name":"Munnae-myeon",
     "wof:parent_id":890472189,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.30019849999998,
-    34.5723545,
-    126.30019849999998,
-    34.5723545
+    126.300198,
+    34.572355,
+    126.300198,
+    34.572355
 ],
-  "geometry": {"coordinates":[126.30019849999998,34.5723545],"type":"Point"}
+  "geometry": {"coordinates":[126.30019799999999,34.572355],"type":"Point"}
 }

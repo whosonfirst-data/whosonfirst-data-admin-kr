@@ -27,6 +27,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Hadan-dong"
+    ],
     "name:kor_x_preferred":[
         "\ud558\ub2e8\ub3d9"
     ],
@@ -59,10 +62,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85673227,
         102191569,
         85632231,
-        890474617
+        890474617,
+        85673227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,8 +92,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1582331606,
-    "wof:name":"\ud558\ub2e8\ub3d9",
+    "wof:lastmodified":1601423109,
+    "wof:name":"Hadan-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

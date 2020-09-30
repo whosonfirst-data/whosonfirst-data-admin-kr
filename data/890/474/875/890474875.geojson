@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.6970135,36.075742,128.6970135,36.075742",
+    "geom:bbox":"128.697013,36.075742,128.697013,36.075742",
     "geom:latitude":36.075742,
     "geom:longitude":128.697013,
     "gp:adm0":23424868,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sanseong-myeon"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uc131\uba74"
+    ],
     "qs:name":"\uc0b0\uc131\uba74",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uacbd\uc0c1\ubd81\ub3c4",
@@ -31,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890474969
+        890474969,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054008,
-    "wof:geomhash":"34782287c359e32528d6cfd933e3706c",
+    "wof:geomhash":"192e644a3394fb131f3a70d37ebbbf03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":890474875,
-    "wof:lastmodified":1566589786,
-    "wof:name":"\uc0b0\uc131\uba74",
+    "wof:lastmodified":1601423126,
+    "wof:name":"Sanseong-myeon",
     "wof:parent_id":890474969,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.6970135,
+    128.697013,
     36.075742,
-    128.6970135,
+    128.697013,
     36.075742
 ],
-  "geometry": {"coordinates":[128.6970135,36.075742],"type":"Point"}
+  "geometry": {"coordinates":[128.697013,36.075742],"type":"Point"}
 }

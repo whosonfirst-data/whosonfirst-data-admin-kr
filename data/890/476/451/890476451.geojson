@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"127.7480385,37.853984,127.7480385,37.853984",
+    "geom:bbox":"127.748039,37.853984,127.748039,37.853984",
     "geom:latitude":37.853984,
     "geom:longitude":127.748039,
     "gp:adm0":23424868,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Seoksa-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uc11d\uc0ac\ub3d9"
+    ],
     "qs:name":"\uc11d\uc0ac\ub3d9",
     "qs:name_adm0":"\ud55c\uad6d",
     "qs:name_adm1":"\uac15\uc6d0\ub3c4",
@@ -31,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890472419
+        890472419,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +47,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469054076,
-    "wof:geomhash":"a98d454a23b0d60da8cb95c328c9e044",
+    "wof:geomhash":"b90fa147b19dc021c5e7c8ff2e1eec01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":890476451,
-    "wof:lastmodified":1566589644,
-    "wof:name":"\uc11d\uc0ac\ub3d9",
+    "wof:lastmodified":1601423127,
+    "wof:name":"Seoksa-dong",
     "wof:parent_id":890472419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.7480385,
+    127.748039,
     37.853984,
-    127.7480385,
+    127.748039,
     37.853984
 ],
-  "geometry": {"coordinates":[127.74803850000001,37.853984],"type":"Point"}
+  "geometry": {"coordinates":[127.74803900000001,37.853984],"type":"Point"}
 }

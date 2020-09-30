@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Jung-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\ub3d9"
+    ],
     "name:und_x_variant":[
         "\uad81\ub3d9"
     ],
@@ -36,9 +42,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
-        85673215,
         85632231,
-        890473177
+        890473177,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":890476221,
-    "wof:lastmodified":1566589632,
-    "wof:name":"\uc911\ub3d9",
+    "wof:lastmodified":1601423117,
+    "wof:name":"Jung-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:population":0,

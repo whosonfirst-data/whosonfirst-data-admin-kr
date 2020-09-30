@@ -30,6 +30,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Dongsam-dong"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\uc0bc\ub3d9"
     ],
@@ -82,10 +85,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85673227,
         102191569,
         85632231,
-        890475321
+        890475321,
+        85673227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,8 +115,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1582331606,
-    "wof:name":"\ub3d9\uc0bc\ub3d9",
+    "wof:lastmodified":1601423103,
+    "wof:name":"Dongsam-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",

@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Gangil-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uac15\uc77c\ub3d9"
+    ],
     "qs_pg:aaroncc":"KR",
     "qs_pg:gn_country":"KR",
     "qs_pg:gn_fcode":"PPL",
@@ -47,11 +53,11 @@
     "woe:name_adm1":"\uc11c\uc6b8",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85673185,
         102191569,
         85632231,
+        890475295,
         102026327,
-        890475295
+        85673185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,8 +79,8 @@
         }
     ],
     "wof:id":1126069653,
-    "wof:lastmodified":1534379374,
-    "wof:name":"\uac15\uc77c\ub3d9",
+    "wof:lastmodified":1601423105,
+    "wof:name":"Gangil-dong",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",
