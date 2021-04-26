@@ -12,13 +12,22 @@
     "gn:population":10349312,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
-        "Seoul Capital Metropolitan City"
+        "Seoul"
     ],
     "label:eng_x_preferred_placetype":[
-        "capital metropolitan city"
+        "special city"
     ],
     "label:eng_x_preferred_shortcode":[
         "SO"
+    ],
+    "label:eng_x_variant_longname":[
+        "Seoul Special City"
+    ],
+    "label:kor_x_preferred_longname":[
+        "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\ubcc4\uc2dc"
     ],
     "lbl:latitude":37.548901,
     "lbl:longitude":126.996157,
@@ -681,8 +690,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-11-01",
+    "src:population":"wk",
+    "src:population_date":"2017-01-01",
     "statoids:area_km":"606",
     "statoids:area_mi":"234",
     "statoids:as_of_date":"2010-11-01",
@@ -734,12 +743,12 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1614894967,
+    "wof:lastmodified":1619481381,
     "wof:name":"Seoul",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
     "wof:placetype_local":"capital metropolitan city",
-    "wof:population":9631482,
+    "wof:population":9741381,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:shortcode":"SO",
