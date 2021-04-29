@@ -11,13 +11,22 @@
     "geom:longitude":127.259662,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
-        "Sejong Special Autonomous City"
+        "Sejong"
     ],
     "label:eng_x_preferred_placetype":[
-        "special autonomous city"
+        "special self-governing city"
     ],
     "label:eng_x_preferred_shortcode":[
         "SJ"
+    ],
+    "label:eng_x_variant_longname":[
+        "Sejong Metropolitan City"
+    ],
+    "label:kor_x_preferred_longname":[
+        "\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\uc790\uce58\uc2dc"
     ],
     "lbl:latitude":36.509833,
     "lbl:longitude":127.273392,
@@ -141,7 +150,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population_date":"2010-11-01",
+    "src:population":"wk",
+    "src:population_date":"2017-01-01",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2010-11-01",
@@ -187,11 +197,13 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1614894968,
+    "wof:lastmodified":1619481383,
     "wof:name":"Sejong",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
     "wof:placetype_local":"special autonomous city",
+    "wof:population":356278,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:shortcode":"SJ",
     "wof:subdivision":"KR-50",

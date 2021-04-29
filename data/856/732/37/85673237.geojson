@@ -12,13 +12,22 @@
     "gn:population":604771,
     "iso:country":"KR",
     "label:eng_x_preferred_longname":[
-        "Jeju Special Autonomous Province"
+        "Jeju Special Self-Governing Province"
     ],
     "label:eng_x_preferred_placetype":[
-        "special autonomous province"
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "CJ"
+    ],
+    "label:eng_x_variant_longname":[
+        "Jeju Special Autonomous Province"
+    ],
+    "label:kor_x_preferred_longname":[
+        "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4"
+    ],
+    "label:kor_x_preferred_placetype":[
+        "\ub3c4"
     ],
     "lbl:latitude":33.380955,
     "lbl:longitude":126.553433,
@@ -360,8 +369,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-11-01",
+    "src:population":"wk",
+    "src:population_date":"2011-01-01",
     "statoids:area_km":"1,846",
     "statoids:area_mi":"713",
     "statoids:as_of_date":"2010-11-01",
@@ -408,12 +417,12 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1614894968,
+    "wof:lastmodified":1619481383,
     "wof:name":"Jeju",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
     "wof:placetype_local":"special autonomous province",
-    "wof:population":528411,
+    "wof:population":583284,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:shortcode":"CJ",
