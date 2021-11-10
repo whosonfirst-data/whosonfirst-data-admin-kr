@@ -45,10 +45,19 @@
         "Kumul prefektura"
     ],
     "name:fas_x_preferred":[
+        "\u062d\u0627\u0645\u06cc"
+    ],
+    "name:fas_x_variant":[
         "\u0647\u0627\u0645\u06cc"
     ],
     "name:fin_x_preferred":[
         "Hami"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d0\u05de\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u093e\u092e\u0940"
     ],
     "name:hun_x_preferred":[
         "H\u00e1mi"
@@ -122,7 +131,7 @@
         "gn:id":6879929
     },
     "wof:country":"KR",
-    "wof:geomhash":"0071973554e77b0220a81efe7d6b292a",
+    "wof:geomhash":"e7bd5751571e0326cd8ab8aa9b5be3fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":1310508425,
-    "wof:lastmodified":1566589263,
+    "wof:lastmodified":1636497469,
     "wof:name":"Hami",
     "wof:parent_id":890472985,
     "wof:placetype":"locality",
@@ -144,9 +153,9 @@
 },
   "bbox": [
     127.83998,
-    36.00210999999999,
+    36.00211,
     127.83998,
-    36.00210999999999
+    36.00211
 ],
-  "geometry": {"coordinates":[127.83998,36.00210999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.83998,36.00211],"type":"Point"}
 }

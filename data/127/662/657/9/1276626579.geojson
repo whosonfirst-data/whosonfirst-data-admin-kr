@@ -30,10 +30,46 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
+        "\ucd08\uc0b0"
+    ],
+    "name:kor_x_variant":[
         "Ch\u014fsan"
+    ],
+    "name:nld_x_preferred":[
+        "Chosan"
+    ],
+    "name:pol_x_preferred":[
+        "Ch'osan"
+    ],
+    "name:por_x_preferred":[
+        "Ch'osan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0441\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Chosan"
+    ],
+    "name:tur_x_preferred":[
+        "Chosan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0445\u043e\u0441\u0430\u043d"
     ],
     "name:und_x_variant":[
         "\uc800\uc0b0"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u0633\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Chosan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u957f\u5c71"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u695a\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +83,7 @@
         "gn:id":6395837
     },
     "wof:country":"KR",
-    "wof:geomhash":"211da17d0e21821e09d052e5051721e9",
+    "wof:geomhash":"5339a2e7dfa16413405ee3083f1e672c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":1276626579,
-    "wof:lastmodified":1566587925,
+    "wof:lastmodified":1636497463,
     "wof:name":"Chosan",
     "wof:parent_id":890475077,
     "wof:placetype":"locality",
@@ -69,9 +105,9 @@
 },
   "bbox": [
     126.57083,
-    34.53805999999999,
+    34.53806,
     126.57083,
-    34.53805999999999
+    34.53806
 ],
-  "geometry": {"coordinates":[126.57083,34.53805999999999],"type":"Point"}
+  "geometry": {"coordinates":[126.57083,34.53806],"type":"Point"}
 }

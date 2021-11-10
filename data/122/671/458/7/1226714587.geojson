@@ -32,17 +32,26 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u044f"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09df\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Kaya"
     ],
     "name:deu_x_preferred":[
         "Kaya"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Kaya"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u092f\u093e"
     ],
     "name:hun_x_preferred":[
         "Kaya"
@@ -92,6 +101,9 @@
     "name:und_x_variant":[
         "\uac00\uc57c"
     ],
+    "name:vie_x_preferred":[
+        "Kaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -104,7 +116,7 @@
         "gn:id":6902685
     },
     "wof:country":"KR",
-    "wof:geomhash":"23532087d4611c4c80ac9e7554a7f0a0",
+    "wof:geomhash":"5737892d1b23c27b881e3947d8106536",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1226714587,
-    "wof:lastmodified":1566590875,
+    "wof:lastmodified":1636497480,
     "wof:name":"Kaya",
     "wof:parent_id":890473177,
     "wof:placetype":"locality",
@@ -125,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.13988999999998,
+    128.13989,
     35.75779,
-    128.13988999999998,
+    128.13989,
     35.75779
 ],
-  "geometry": {"coordinates":[128.13988999999998,35.75779],"type":"Point"}
+  "geometry": {"coordinates":[128.13989000000001,35.75779],"type":"Point"}
 }

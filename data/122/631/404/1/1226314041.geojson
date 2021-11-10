@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Gasa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05e1\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Gasa"
     ],
@@ -60,7 +63,7 @@
         "gn:id":6575522
     },
     "wof:country":"KR",
-    "wof:geomhash":"a791ba10acf4c7edd6e85c1bac7d9cb7",
+    "wof:geomhash":"4c6b5ee2822826d6700655345adaa9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1226314041,
-    "wof:lastmodified":1566591022,
+    "wof:lastmodified":1636497481,
     "wof:name":"Gasa",
     "wof:parent_id":890476061,
     "wof:placetype":"locality",
@@ -82,9 +85,9 @@
 },
   "bbox": [
     126.91668,
-    37.03149000000001,
+    37.03149,
     126.91668,
-    37.03149000000001
+    37.03149
 ],
-  "geometry": {"coordinates":[126.91668,37.03149000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.91668,37.03149],"type":"Point"}
 }

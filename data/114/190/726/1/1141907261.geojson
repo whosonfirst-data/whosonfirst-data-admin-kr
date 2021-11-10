@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.591158406,38.2087129914,128.591158406,38.2087129914",
+    "geom:bbox":"128.591158,38.208713,128.591158,38.208713",
     "geom:latitude":38.208713,
     "geom:longitude":128.591158,
     "iso:country":"KR",
@@ -54,6 +54,9 @@
     "name:est_x_preferred":[
         "Sokch'o"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0686\u0648"
+    ],
     "name:fin_x_preferred":[
         "Sokcho"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:hak_x_preferred":[
         "Suk-chh\u00f3-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e7\u05e6'\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0938\u094b\u0915\u094d\u091a\u094b"
@@ -118,6 +124,9 @@
         "Sokcho"
     ],
     "name:pol_x_preferred":[
+        "Sokcho"
+    ],
+    "name:por_x_preferred":[
         "Sokcho"
     ],
     "name:rus_x_preferred":[
@@ -270,7 +279,7 @@
     },
     "wof:country":"KR",
     "wof:created":1499130702,
-    "wof:geomhash":"80b50dde606b52e331afaaab579153bd",
+    "wof:geomhash":"f9cd4825f76b08aa469fcde3f647fbb9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -281,7 +290,7 @@
         }
     ],
     "wof:id":1141907261,
-    "wof:lastmodified":1566591049,
+    "wof:lastmodified":1636497482,
     "wof:name":"Sokcho",
     "wof:parent_id":890476055,
     "wof:placetype":"locality",
@@ -291,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.5911584056753,
-    38.2087129913802,
-    128.5911584056753,
-    38.2087129913802
+    128.591158,
+    38.208713,
+    128.591158,
+    38.208713
 ],
-  "geometry": {"coordinates":[128.59115840567529,38.2087129913802],"type":"Point"}
+  "geometry": {"coordinates":[128.59115800000001,38.208713],"type":"Point"}
 }

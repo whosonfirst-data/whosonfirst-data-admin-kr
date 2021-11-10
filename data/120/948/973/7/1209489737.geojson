@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "Nampxo"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09ae\u09aa\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c\u043f\u0445\u043e"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d0\u05de\u05e4\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0948\u092e\u094d\u092a\u094b"
     ],
     "name:hun_x_preferred":[
         "Nampho"
@@ -182,7 +188,7 @@
         "gn:id":11117085
     },
     "wof:country":"KR",
-    "wof:geomhash":"b0d4c614f2f4af596c6996c1e2e362f5",
+    "wof:geomhash":"d663e73dbb652b4268913e9fdbf12d2e",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -190,7 +196,7 @@
         }
     ],
     "wof:id":1209489737,
-    "wof:lastmodified":1566588167,
+    "wof:lastmodified":1636497464,
     "wof:name":"Nampo",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
@@ -200,10 +206,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.86726000000002,
-    35.18924000000001,
-    128.86726000000002,
-    35.18924000000001
+    128.86726,
+    35.18924,
+    128.86726,
+    35.18924
 ],
-  "geometry": {"coordinates":[128.86726000000002,35.18924000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.86725999999999,35.18924],"type":"Point"}
 }

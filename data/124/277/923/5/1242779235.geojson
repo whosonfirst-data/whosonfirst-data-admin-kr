@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u0629"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u09b0\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u0430"
@@ -47,7 +53,19 @@
     "name:deu_x_preferred":[
         "Tura"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Tura"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0941\u0930\u093e"
+    ],
+    "name:ind_x_preferred":[
         "Tura"
     ],
     "name:ita_x_preferred":[
@@ -80,8 +98,14 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc\u0648\u0631\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Tura"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Tura"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -106,7 +130,7 @@
         }
     ],
     "wof:id":1242779235,
-    "wof:lastmodified":1566590163,
+    "wof:lastmodified":1636497477,
     "wof:name":"Tura",
     "wof:parent_id":890476057,
     "wof:placetype":"locality",

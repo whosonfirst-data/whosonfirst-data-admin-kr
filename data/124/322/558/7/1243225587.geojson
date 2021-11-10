@@ -29,10 +29,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0643\u062f\u0648\u0646\u062c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u0995\u09a6\u09cb\u0982"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03ba\u03bd\u03c4\u03bf\u03bd\u03b3\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06a9\u062f\u0648\u0646\u06af"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05e7\u05d5\u05df \u05e0\u05d0\u05d9\u05d5\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0915\u0921\u094b\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Nakdong"
+    ],
     "name:und_x_variant":[
         "\ub099\ub3d9",
         "Nak-tong",
         "Nakdong"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u06a9\u0627\u0688\u0648\u0646\u06af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1243225587,
-    "wof:lastmodified":1566590054,
+    "wof:lastmodified":1636497476,
     "wof:name":"Nakdong",
     "wof:parent_id":1108746483,
     "wof:placetype":"locality",
