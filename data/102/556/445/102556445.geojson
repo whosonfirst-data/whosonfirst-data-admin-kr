@@ -1,0 +1,169 @@
+{
+  "id": 102556445,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1958-01-27",
+    "date:inception_upper": "1958-01-27",
+    "edtf:cessation": "..",
+    "edtf:inception": "1958-01-27",
+    "geom:area": 0.00008948863550002521,
+    "geom:area_square_m": 877151.93659,
+    "geom:bbox": "126.790558,37.556362,126.806618,37.567684",
+    "geom:latitude": 37.56197728005867,
+    "geom:longitude": 126.7995533323911,
+    "iso:country": "",
+    "lbl:latitude": 37.563058,
+    "lbl:longitude": 126.800769,
+    "mps:latitude": 37.563058,
+    "mps:longitude": 126.800769,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار غيمبو الدولي"
+    ],
+    "name:ces_x_preferred": [
+      "mezinárodní letiště Kimpcho"
+    ],
+    "name:deu_x_preferred": [
+      "Flughafen Gimpo"
+    ],
+    "name:eng_x_preferred": [
+      "Gimpo International Airport"
+    ],
+    "name:eng_x_variant": [
+      "GMP",
+      "RKSS"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی گیمپو"
+    ],
+    "name:fin_x_preferred": [
+      "Gimpon kansainvälinen lentoasema"
+    ],
+    "name:fra_x_preferred": [
+      "aéroport international de Gimpo"
+    ],
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Gimpo"
+    ],
+    "name:ita_x_preferred": [
+      "Aeroporto Internazionale Gimpo"
+    ],
+    "name:jpn_x_preferred": [
+      "金浦国際空港"
+    ],
+    "name:kor_x_preferred": [
+      "김포국제공항"
+    ],
+    "name:mar_x_preferred": [
+      "गिम्पो आंतरराष्ट्रीय विमानतळ"
+    ],
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Antarabangsa Gimpo"
+    ],
+    "name:mya_x_preferred": [
+      "ဂျင်ပို အပြည်ပြည်ဆိုင်ရာလေဆိပ်"
+    ],
+    "name:nld_x_preferred": [
+      "Gimpo International Airport"
+    ],
+    "name:nob_x_preferred": [
+      "Gimpo internasjonale lufthavn"
+    ],
+    "name:pol_x_preferred": [
+      "Port lotniczy Seul-Gimpo"
+    ],
+    "name:por_x_preferred": [
+      "Aeroporto Internacional de Gimpo"
+    ],
+    "name:rus_x_preferred": [
+      "Международный аэропорит Джимпо"
+    ],
+    "name:sco_x_preferred": [
+      "Gimpo Internaitional Airport"
+    ],
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional de Gimpo"
+    ],
+    "name:swe_x_preferred": [
+      "Gimpo Airport"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи Байн‌алмиллалии Гимпо"
+    ],
+    "name:tha_x_preferred": [
+      "ท่าอากาศยานนานาชาติคิมโพ"
+    ],
+    "name:tur_x_preferred": [
+      "Gimpo Uluslararası Havalimanı"
+    ],
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Gimpo"
+    ],
+    "name:zho_x_preferred": [
+      "金浦国际机场"
+    ],
+    "oa:elevation_ft": "58",
+    "oa:type": "large_airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424868,
+      "county_id": 28289165,
+      "localadmin_id": 28805744,
+      "planet_id": 1,
+      "state_id": 20069923
+    },
+    "wof:belongsto": [
+      85927029,
+      102191569,
+      85632231,
+      102026327,
+      890475295,
+      85673185
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 23388324,
+      "iata:code": "GMP",
+      "icao:code": "RKSS",
+      "oa:id": "5656",
+      "wd:id": "Q482493",
+      "wk:page": "Gimpo_International_Airport"
+    },
+    "wof:country": "",
+    "wof:created": 1651701435,
+    "wof:geomhash": "5dea1692f1fe0de5c90ce875be3af8b5",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102556445,
+        "continent_id": 102191569,
+        "country_id": 85632231,
+        "county_id": 890475295,
+        "locality_id": 102026327,
+        "neighbourhood_id": 85927029,
+        "region_id": 85673185
+      }
+    ],
+    "wof:id": 102556445,
+    "wof:lastmodified": 1651701435,
+    "wof:name": "Gimpo International Airport ",
+    "wof:parent_id": 85927029,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-kr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    126.790558,
+    37.556362,
+    126.806618,
+    37.567684
+  ],
+  "geometry": {"coordinates":[[[[126.801414,37.567616],[126.801483,37.567665],[126.801514,37.567684],[126.80233,37.567165],[126.803314,37.565834],[126.806618,37.562016],[126.804886,37.556362],[126.800598,37.559971],[126.797684,37.559643],[126.792526,37.558186],[126.790558,37.558334],[126.791885,37.55965],[126.793083,37.563663],[126.793724,37.564243],[126.796646,37.564991],[126.798019,37.564854],[126.801399,37.567516],[126.801414,37.567616]]]],"type":"MultiPolygon"}
+}
