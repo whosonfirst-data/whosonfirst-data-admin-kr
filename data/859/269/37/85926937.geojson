@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Bomun-dong"
     ],
+    "name:jpn_x_preferred":[
+        "\u666e\u9580\u6d1e"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\ubb38\ub3d9"
     ],
@@ -47,17 +50,20 @@
     "name:vie_x_preferred":[
         "Bomun-dong"
     ],
+    "name:zho_x_preferred":[
+        "\u666e\u9580\u6d1e"
+    ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673185,
         102191569,
         85632231,
-        890475295,
         102026327,
-        85673185
+        890475295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +91,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729003,
+    "wof:lastmodified":1690938277,
     "wof:name":"\ubcf4\ubb38\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

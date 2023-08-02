@@ -48,6 +48,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u0401\u043d\u0433\u0441\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Yongsan"
+    ],
+    "name:ceb_x_preferred":[
+        "Yongsan-gu"
+    ],
     "name:deu_x_preferred":[
         "Yongsan-gu"
     ],
@@ -55,9 +64,7 @@
         "Yongsan"
     ],
     "name:eng_x_variant":[
-        "Yongsan",
-        "Yongsan District",
-        "Yongsan"
+        "Yongsan District"
     ],
     "name:est_x_preferred":[
         "Yongsani linnarajoon"
@@ -65,11 +72,20 @@
     "name:fra_x_preferred":[
         "Yongsan-gu"
     ],
+    "name:frr_x_preferred":[
+        "Yongsan"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d0\u05d5\u05dc/\u05d9\u05d5\u05e0\u05d2\u05e1\u05d0\u05df"
     ],
     "name:hun_x_preferred":[
         "Jongszan-ku"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0578\u0576\u057d\u0561\u0576\u0563 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Yongsan-gu"
     ],
     "name:ind_x_preferred":[
         "Distrik Yongsan"
@@ -80,18 +96,23 @@
     "name:jpn_x_preferred":[
         "\u9f8d\u5c71\u533a"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dd\u10dc\u10e1\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc6a9\uc0b0\uad6c"
     ],
     "name:kor_x_variant":[
-        "\uc6a9\uc0b0",
-        "\uc6a9\uc0b0\uad6c"
+        "\uc6a9\uc0b0"
     ],
     "name:lit_x_preferred":[
         "Jongsan-gu"
     ],
     "name:msa_x_preferred":[
         "Daerah Yongsan"
+    ],
+    "name:nan_x_preferred":[
+        "Yongsan Khu"
     ],
     "name:nld_x_preferred":[
         "Yongsan District"
@@ -114,6 +135,9 @@
     "name:swe_x_preferred":[
         "Yongsan-gu"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e22\u0e07\u0e0b\u0e31\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Yongsan"
     ],
@@ -122,6 +146,9 @@
     ],
     "name:vie_x_preferred":[
         "Yongsan-gu"
+    ],
+    "name:yue_x_preferred":[
+        "\u9f8d\u5c71\u5340"
     ],
     "name:zho_x_preferred":[
         "\u9f8d\u5c71\u5340"
@@ -170,7 +197,7 @@
         }
     ],
     "wof:id":890475295,
-    "wof:lastmodified":1619481391,
+    "wof:lastmodified":1690938319,
     "wof:name":"Yongsan",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

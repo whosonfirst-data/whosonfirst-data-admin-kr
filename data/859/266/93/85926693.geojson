@@ -25,11 +25,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Dohwa-dong"
+    ],
     "name:eng_x_preferred":[
         "Dohwa-dong"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0647\u0648\u0627-\u062f\u0648\u0646\u06af"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6843\u82b1\u6d1e"
     ],
     "name:kor_x_preferred":[
         "\ub3c4\ud654\ub3d9"
@@ -37,8 +43,14 @@
     "name:msa_x_preferred":[
         "Dohwa-dong"
     ],
+    "name:swe_x_preferred":[
+        "Dohwa-dong"
+    ],
     "name:vie_x_preferred":[
         "Dohwa-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6843\u82b1\u6d1e"
     ],
     "qs:gn_id":0,
     "qs:id":0,
@@ -66,11 +78,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673177,
         102191569,
         85632231,
-        1108746503,
         102026447,
-        85673177
+        1108746503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +108,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593728996,
+    "wof:lastmodified":1690938272,
     "wof:name":"\ub3c4\ud654\ub3d9",
     "wof:parent_id":102026447,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:cat_x_preferred":[
+        "Amsa-dong"
+    ],
     "name:eng_x_preferred":[
         "Amsa-dong"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e0\u30b5\u30c9\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u5ca9\u5bfa\u6d1e"
     ],
     "name:kor_x_preferred":[
         "\uc554\uc0ac\ub3d9"
@@ -51,6 +57,9 @@
         "Amsa-dong"
     ],
     "name:spa_x_preferred":[
+        "Amsa-dong"
+    ],
+    "name:swe_x_preferred":[
         "Amsa-dong"
     ],
     "name:und_x_variant":[
@@ -101,7 +110,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1617129921,
+    "wof:lastmodified":1690938283,
     "wof:name":"\uc554\uc0ac\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

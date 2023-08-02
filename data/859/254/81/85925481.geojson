@@ -30,12 +30,18 @@
     "name:eng_x_preferred":[
         "Imae-dong"
     ],
+    "name:jpn_x_preferred":[
+        "\u4e8c\u6885\u6d1e"
+    ],
     "name:kor_x_preferred":[
         "\uc774\ub9e42\ub3d9"
     ],
     "name:kor_x_variant":[
         "\uc774\ub9e42",
         "\uc774\ub9e4\ub3d9"
+    ],
+    "name:swe_x_preferred":[
+        "Imae-dong"
     ],
     "name:zho_x_preferred":[
         "\u4e8c\u6885\u6d1e"
@@ -70,11 +76,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746519,
         102026521,
-        85673191
+        1108746519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +109,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729007,
+    "wof:lastmodified":1690938281,
     "wof:name":"\uc774\ub9e42\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

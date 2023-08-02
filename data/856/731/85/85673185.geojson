@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:abk_x_preferred":[
+        "\u0421\u0435\u0443\u043b"
+    ],
     "name:ace_x_preferred":[
         "Seoul"
     ],
@@ -48,11 +51,17 @@
     "name:amh_x_preferred":[
         "\u1236\u120d"
     ],
+    "name:anp_x_preferred":[
+        "\u0938\u093f\u092f\u094b\u0932"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644"
     ],
     "name:arg_x_preferred":[
         "Se\u00fal"
+    ],
+    "name:ary_x_preferred":[
+        "\u0633\u064a\u0648\u0644"
     ],
     "name:arz_x_preferred":[
         "\u0633\u0648\u0644"
@@ -72,6 +81,9 @@
     "name:bak_x_preferred":[
         "\u0421\u0435\u0443\u043b"
     ],
+    "name:ban_x_preferred":[
+        "Seoul"
+    ],
     "name:bcl_x_preferred":[
         "Seoul"
     ],
@@ -81,6 +93,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0993\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09bf\u0989\u09b2"
+    ],
     "name:bho_x_preferred":[
         "\u0938\u093f\u092f\u094b\u0932"
     ],
@@ -89,6 +104,9 @@
     ],
     "name:bjn_x_preferred":[
         "Soul"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u101e\u102d\u102f\u1038"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f7a\u0f0b\u0f68\u0f74\u0f63\u0f0d"
@@ -126,8 +144,14 @@
     "name:ckb_x_preferred":[
         "\u0633\u06c6\u0644"
     ],
+    "name:ckb_x_variant":[
+        "\u0633\u06ce\u0626\u0648\u0644"
+    ],
     "name:cor_x_preferred":[
         "Seoul"
+    ],
+    "name:cos_x_preferred":[
+        "Seul"
     ],
     "name:crh_x_preferred":[
         "Seul"
@@ -171,6 +195,9 @@
     "name:est_x_preferred":[
         "S\u014ful"
     ],
+    "name:est_x_variant":[
+        "Soul"
+    ],
     "name:eus_x_preferred":[
         "Seul"
     ],
@@ -207,8 +234,17 @@
     "name:gle_x_preferred":[
         "Seoul"
     ],
+    "name:gle_x_variant":[
+        "S\u00fal"
+    ],
     "name:glg_x_preferred":[
         "Se\u00fal"
+    ],
+    "name:gpe_x_preferred":[
+        "Seoul"
+    ],
+    "name:grc_x_preferred":[
+        "\u03a3\u03b5\u03bf\u03cd\u03bb\u03b7"
     ],
     "name:grn_x_preferred":[
         "Se\u00fal"
@@ -226,6 +262,9 @@
         "Seoul"
     ],
     "name:hau_x_preferred":[
+        "Seoul"
+    ],
+    "name:haw_x_preferred":[
         "Seoul"
     ],
     "name:heb_x_preferred":[
@@ -308,6 +347,9 @@
     "name:kbp_x_preferred":[
         "Sewuuli"
     ],
+    "name:kcg_x_preferred":[
+        "Sa\u0331ul"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17c1\u17a2\u17ca\u17bc\u179b"
     ],
@@ -330,6 +372,9 @@
     ],
     "name:lad_x_preferred":[
         "Seul"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec2\u0e8a\u0ea5"
     ],
     "name:lat_x_preferred":[
         "Seulum"
@@ -373,17 +418,29 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0932"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u044d\u0443\u043b"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u0435\u0443\u043b"
     ],
+    "name:min_x_preferred":[
+        "Seoul"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0443\u043b"
+    ],
+    "name:mlt_x_preferred":[
+        "Seoul"
     ],
     "name:mon_x_preferred":[
         "\u0421\u04e9\u04af\u043b"
     ],
     "name:mri_x_preferred":[
         "Seoul"
+    ],
+    "name:mri_x_variant":[
+        "Houra"
     ],
     "name:msa_x_preferred":[
         "Seoul"
@@ -393,6 +450,12 @@
     ],
     "name:mya_x_preferred":[
         "\u1006\u102d\u102f\u1038\u101c\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u0435\u0443\u043b \u043e\u0448"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0626\u0648\u0644"
     ],
     "name:nah_x_preferred":[
         "Seul"
@@ -490,6 +553,9 @@
     "name:sah_x_preferred":[
         "\u0421\u0435\u0443\u043b"
     ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c64\u1c63\u1c69\u1c5e"
+    ],
     "name:scn_x_preferred":[
         "Seoul"
     ],
@@ -519,6 +585,9 @@
     ],
     "name:sqi_x_preferred":[
         "Seoul"
+    ],
+    "name:srd_x_preferred":[
+        "Seul"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0443\u043b"
@@ -565,6 +634,9 @@
     "name:tur_x_preferred":[
         "Seul"
     ],
+    "name:udm_x_preferred":[
+        "\u0421\u0435\u0443\u043b"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0443\u043b"
     ],
@@ -582,6 +654,9 @@
     ],
     "name:vie_x_preferred":[
         "Seoul"
+    ],
+    "name:vls_x_preferred":[
+        "Seoel"
     ],
     "name:vol_x_preferred":[
         "S\u00f6ul"
@@ -743,7 +818,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1619481381,
+    "wof:lastmodified":1690938287,
     "wof:name":"Seoul",
     "wof:parent_id":85632231,
     "wof:placetype":"region",

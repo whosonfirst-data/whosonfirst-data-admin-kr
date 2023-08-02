@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0628\u0648"
     ],
+    "name:aze_x_preferred":[
+        "Mokpxo"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u0995\u09aa\u09cb"
     ],
@@ -68,6 +71,9 @@
         "Mokpo"
     ],
     "name:fra_x_preferred":[
+        "Mokpo"
+    ],
+    "name:gle_x_preferred":[
         "Mokpo"
     ],
     "name:guj_x_preferred":[
@@ -160,6 +166,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bcb\u0b95\u0bcd\u0baa\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u043a\u043f\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4b\u0c15\u0c4d\u0c2a\u0c4b"
     ],
@@ -168,6 +177,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e47\u0e2d\u0e01\u0e42\u0e1b\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e01\u0e42\u0e1e"
     ],
     "name:tur_x_preferred":[
         "Mokpo"
@@ -181,11 +193,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u06a9\u067e\u0648"
     ],
+    "name:vec_x_preferred":[
+        "Mokpo"
+    ],
     "name:vie_x_preferred":[
         "Mokpo"
     ],
     "name:war_x_preferred":[
         "Mokpo"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10dd\u10e5\u10e4\u10dd"
     ],
     "name:zho_x_preferred":[
         "\u6728\u6d66\u5e02"
@@ -306,8 +324,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        890474687,
-        85673219
+        85673219,
+        890474687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -331,7 +349,7 @@
         }
     ],
     "wof:id":102026381,
-    "wof:lastmodified":1593728975,
+    "wof:lastmodified":1690938266,
     "wof:name":"Moppo",
     "wof:parent_id":890474687,
     "wof:placetype":"locality",
