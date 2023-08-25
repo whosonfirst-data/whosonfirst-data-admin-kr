@@ -51,13 +51,23 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0627\u0645\u064a\u0627\u0646\u063a"
     ],
+    "name:ceb_x_preferred":[
+        "Hamyang-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Hamyang"
+    ],
+    "name:deu_x_preferred":[
+        "Hamyang"
+    ],
     "name:eng_x_preferred":[
         "Hamyang"
     ],
     "name:eng_x_variant":[
-        "Hamyang",
-        "Hamyang County",
-        "Hamyang"
+        "Hamyang County"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0645\u06cc\u0627\u0646\u06af"
     ],
     "name:fra_x_preferred":[
         "District de Hamyang"
@@ -72,11 +82,13 @@
         "\ud568\uc591\uad70"
     ],
     "name:kor_x_variant":[
-        "\ud568\uc591",
-        "\ud568\uc591\uad70"
+        "\ud568\uc591"
     ],
     "name:mon_x_preferred":[
         "\u0425\u0430\u043c-\u042f\u043d-\u0433\u04af\u043d\u044c"
+    ],
+    "name:nan_x_preferred":[
+        "Hamyang K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Hamyang"
@@ -93,6 +105,12 @@
     "name:swe_x_preferred":[
         "Hamyang"
     ],
+    "name:swe_x_variant":[
+        "Hamyang-gun"
+    ],
+    "name:tur_x_preferred":[
+        "Hamyang"
+    ],
     "name:und_x_variant":[
         "Kany\u014d-gun"
     ],
@@ -101,6 +119,9 @@
     ],
     "name:vie_x_preferred":[
         "Hamyang"
+    ],
+    "name:yue_x_preferred":[
+        "\u54b8\u967d\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u54b8\u967d\u90e1"
@@ -151,7 +172,7 @@
         }
     ],
     "wof:id":890472469,
-    "wof:lastmodified":1619481395,
+    "wof:lastmodified":1690938337,
     "wof:name":"Hamyang",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

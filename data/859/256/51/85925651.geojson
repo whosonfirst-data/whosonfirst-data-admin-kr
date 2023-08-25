@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Bugok-dong"
     ],
+    "name:jpn_x_preferred":[
+        "\u91dc\u8c37\u6d1e"
+    ],
     "name:kor_x_preferred":[
         "\ubd80\uace1\ub3d9"
     ],
@@ -41,6 +44,9 @@
     "name:swe_x_preferred":[
         "Bugok-dong"
     ],
+    "name:zho_x_preferred":[
+        "\u91dc\u8c37\u6d1e"
+    ],
     "qs:gn_id":0,
     "src:geom":"mz",
     "src:geom_alt":[
@@ -49,11 +55,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746407,
         102026505,
-        85673191
+        1108746407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +87,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729002,
+    "wof:lastmodified":1690938275,
     "wof:name":"\ubd80\uace1\ub3d9",
     "wof:parent_id":102026505,
     "wof:placetype":"neighbourhood",

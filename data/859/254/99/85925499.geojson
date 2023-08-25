@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Geumgok-dong"
+    ],
     "name:eng_x_preferred":[
         "Geumgok-dong"
     ],
@@ -38,6 +41,9 @@
         "\uad81\ub0b4\ub3d9",
         "\uae08\uace11",
         "\uae08\uace1\ub3d9"
+    ],
+    "name:swe_x_preferred":[
+        "Geumgok-dong"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u8c37\u6d1e"
@@ -70,11 +76,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746519,
         102026521,
-        85673191
+        1108746519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +106,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729008,
+    "wof:lastmodified":1690938281,
     "wof:name":"\uae08\uace11\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

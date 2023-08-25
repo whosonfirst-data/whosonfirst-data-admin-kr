@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.548278,36.3560535,128.548278,36.3560535",
+    "geom:bbox":"128.548278,36.356054,128.548278,36.356054",
     "geom:latitude":36.356054,
     "geom:longitude":128.548278,
     "gp:adm0":23424868,
@@ -28,6 +28,9 @@
     ],
     "name:kor_x_preferred":[
         "\uae08\uc131\uba74"
+    ],
+    "name:swe_x_preferred":[
+        "Geumseong-myeon"
     ],
     "qs:name":"\uae08\uc131\uba74",
     "qs:name_adm0":"\ud55c\uad6d",
@@ -56,7 +59,7 @@
     },
     "wof:country":"KR",
     "wof:created":1469053933,
-    "wof:geomhash":"fda0a28eacf91f33bd1af7c70ae9f647",
+    "wof:geomhash":"ef112c92f6cf9a5938121a121f0cc65b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890472963,
-    "wof:lastmodified":1566589699,
+    "wof:lastmodified":1690938327,
     "wof:name":"\uae08\uc131\uba74",
     "wof:parent_id":890474631,
     "wof:placetype":"localadmin",
@@ -78,9 +81,9 @@
 },
   "bbox": [
     128.548278,
-    36.3560535,
+    36.356054,
     128.548278,
-    36.3560535
+    36.356054
 ],
-  "geometry": {"coordinates":[128.54827800000001,36.3560535],"type":"Point"}
+  "geometry": {"coordinates":[128.54827800000001,36.356054],"type":"Point"}
 }

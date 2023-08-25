@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a\u0648\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0627\u0646\u062c\u0648\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Changwon"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7hanvon"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0445\u0430\u043d\u0432\u043e\u043d"
     ],
     "name:ben_x_preferred":[
         "\u099a\u09cd\u09af\u09be\u0982\u0989\u09a8"
@@ -61,6 +70,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03ac\u03bd\u03b3\u03bf\u03c5\u03bf\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03b1\u03bd\u03b3\u03ba\u03b3\u03bf\u03c5\u03cc\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Changwon-Si"
     ],
@@ -71,6 +83,12 @@
     "name:epo_x_preferred":[
         "\u0108angvon"
     ],
+    "name:est_x_preferred":[
+        "Changwon"
+    ],
+    "name:eus_x_preferred":[
+        "Changwon"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u0646\u06af\u200c\u0648\u0648\u0646"
     ],
@@ -78,6 +96,9 @@
         "Changwon"
     ],
     "name:fra_x_preferred":[
+        "Changwon"
+    ],
+    "name:gle_x_preferred":[
         "Changwon"
     ],
     "name:guj_x_preferred":[
@@ -176,6 +197,9 @@
     "name:por_x_preferred":[
         "Changwon"
     ],
+    "name:ron_x_preferred":[
+        "Changwon"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0445\u0430\u043d\u0432\u043e\u043d"
     ],
@@ -199,6 +223,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0b99\u0bcd\u0b92\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0430\u04a3\u0432\u043e\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c1b\u0c3e\u0c02\u0c17\u0c4d\u0c35\u0c3e\u0c28\u0c4d"
@@ -230,6 +257,9 @@
     "name:war_x_preferred":[
         "Changwon"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10d5\u10dd\u10dc\u10d8"
+    ],
     "name:yue_x_preferred":[
         "\u660c\u539f"
     ],
@@ -259,8 +289,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        1108746539,
-        85673215
+        85673215,
+        1108746539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -289,7 +319,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1614894966,
+    "wof:lastmodified":1690938261,
     "wof:name":"Changwon",
     "wof:parent_id":1108746539,
     "wof:placetype":"locality",

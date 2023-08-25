@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Jamwon-dong"
     ],
+    "name:jpn_x_preferred":[
+        "\u8695\u9662\u6d1e"
+    ],
     "name:kor_x_preferred":[
         "\uc7a0\uc6d0\ub3d9"
     ],
@@ -46,6 +49,9 @@
     "name:urd_x_preferred":[
         "\u062c\u0645\u0648\u0648\u06ba -\u0688\u0648\u0646\u06af"
     ],
+    "name:vie_x_preferred":[
+        "Jamwon-dong"
+    ],
     "name:zho_x_preferred":[
         "\u8836\u9662\u6d1e"
     ],
@@ -56,11 +62,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673185,
         102191569,
         85632231,
-        890475295,
         102026327,
-        85673185
+        890475295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +93,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1593729004,
+    "wof:lastmodified":1690938279,
     "wof:name":"\uc7a0\uc6d0\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

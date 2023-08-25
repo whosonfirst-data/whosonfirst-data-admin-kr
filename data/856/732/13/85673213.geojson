@@ -51,11 +51,20 @@
     "name:ast_x_preferred":[
         "Daegu"
     ],
+    "name:aze_x_preferred":[
+        "Tequ"
+    ],
+    "name:ban_x_preferred":[
+        "Daegu"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u044d\u0433\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u0997\u09c1"
+    ],
+    "name:ben_x_variant":[
+        "\u09a6\u09c7\u0997\u09c1"
     ],
     "name:bre_x_preferred":[
         "Daegu"
@@ -80,6 +89,9 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u044d\u0433\u0443"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0627\u06cc\u06af\u0648"
     ],
     "name:dan_x_preferred":[
         "Daegu"
@@ -129,6 +141,12 @@
     "name:fra_x_preferred":[
         "Daegu"
     ],
+    "name:frr_x_preferred":[
+        "Daegu"
+    ],
+    "name:gle_x_preferred":[
+        "Daegu"
+    ],
     "name:glg_x_preferred":[
         "Daegu"
     ],
@@ -143,6 +161,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d2\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05d3\u05d0\u05d9\u05d2\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0926\u093e\u090f\u0917\u0942"
@@ -193,6 +214,9 @@
     "name:kaz_x_preferred":[
         "\u0422\u044d\u0433\u0443"
     ],
+    "name:khm_x_preferred":[
+        "\u178a\u17c2\u17a0\u17d2\u1782\u17bc"
+    ],
     "name:kor_x_preferred":[
         "\ub300\uad6c"
     ],
@@ -215,6 +239,9 @@
         "Tegu"
     ],
     "name:lmo_x_preferred":[
+        "Daegu"
+    ],
+    "name:ltz_x_preferred":[
         "Daegu"
     ],
     "name:lzh_x_preferred":[
@@ -265,6 +292,9 @@
     "name:por_x_preferred":[
         "Daegu"
     ],
+    "name:que_x_preferred":[
+        "Daegu"
+    ],
     "name:ron_x_preferred":[
         "Daegu"
     ],
@@ -304,6 +334,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc7\u0b95\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u0433\u0443"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c47\u0c17\u0c41"
     ],
@@ -325,6 +358,12 @@
     "name:urd_x_preferred":[
         "\u0688\u0627\u0626\u06d2 \u06af\u0648"
     ],
+    "name:uzb_x_preferred":[
+        "Degu"
+    ],
+    "name:vec_x_preferred":[
+        "Taegu"
+    ],
     "name:vep_x_preferred":[
         "Tegu"
     ],
@@ -336,6 +375,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5927\u90b1\u5e7f\u57df\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d4\u10d2\u10e3"
     ],
     "name:yue_x_preferred":[
         "\u5927\u90b1"
@@ -464,7 +506,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1619481384,
+    "wof:lastmodified":1690938294,
     "wof:name":"Daegu",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
