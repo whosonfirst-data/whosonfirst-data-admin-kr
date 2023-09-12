@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.995362,
-    "geom:area_square_m":99437057239.309479,
+    "geom:area_square_m":99516289933.503159,
     "geom:bbox":"124.613747,33.112862,131.872231,38.618412",
     "geom:latitude":36.357862,
     "geom:longitude":127.803718,
@@ -14,6 +14,9 @@
     "iso:country":"KR",
     "itu:country_code":[
         "82"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "KR"
@@ -1395,7 +1398,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"82",
     "statoids:ds":"ROK",
     "statoids:fifa":"KOR",
@@ -1457,7 +1461,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"2c8bb4f36b09dd60097e201240280b9e",
+    "wof:geomhash":"b642467f7146a6fa02dbaeacb60c0b69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1471,12 +1475,12 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938288,
+    "wof:lastmodified":1694492176,
     "wof:name":"South Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":50219669,
-    "wof:population_rank":16,
+    "wof:population":51709098,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:shortcode":"KR",
     "wof:superseded_by":[],
