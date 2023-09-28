@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180929,
-    "geom:area_square_m":1867979094.942125,
+    "geom:area_square_m":1867979026.386331,
     "geom:bbox":"126.144554,33.112862,126.969612,34.014584",
     "geom:latitude":33.388867,
     "geom:longitude":126.55316,
@@ -432,16 +432,18 @@
         "gn:id":1846265,
         "gp:id":2345963,
         "hasc:id":"KR.CJ",
+        "iso:code":"KR-49",
         "iso:id":"KR-49",
         "qs_pg:id":1075585,
         "wd:id":"Q41164",
         "wk:page":"Jeju Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf03961da597929c3251c6f791ca1fa2",
+    "wof:geomhash":"4996bc85c71e0cb73b3de41d6d76a28c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -456,7 +458,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938293,
+    "wof:lastmodified":1695884852,
     "wof:name":"Jeju",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
