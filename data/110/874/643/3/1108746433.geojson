@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019971,
-    "geom:area_square_m":197498666.351819,
+    "geom:area_square_m":197498453.791235,
     "geom:bbox":"127.076302,36.788205,127.286715,36.973753",
     "geom:latitude":36.893082,
     "geom:longitude":127.162256,
@@ -65,10 +65,13 @@
         85673203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"34012"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154710,
-    "wof:geomhash":"3b40c497ece970831b70f9ccf81847d8",
+    "wof:geomhash":"f8c14dec652043b6f97eb2aa49aa15a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746433,
-    "wof:lastmodified":1627522307,
+    "wof:lastmodified":1695886771,
     "wof:name":"Seobuk",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

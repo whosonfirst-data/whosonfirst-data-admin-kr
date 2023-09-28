@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036734,
-    "geom:area_square_m":372898707.551585,
+    "geom:area_square_m":372898604.912653,
     "geom:bbox":"127.807053,34.678749,128.088745,34.94622",
     "geom:latitude":34.817954,
     "geom:longitude":127.943206,
@@ -154,16 +154,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289257,
+        "meso:local_id":"38350",
         "qs_pg:id":362852,
         "wd:id":"Q26123",
         "wk:page":"Namhae County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054035,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7da75764c2e8b3eb94be58ff537699c",
+    "wof:geomhash":"b23a7c58fec853fdf75fa2f452e25d0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":890475467,
-    "wof:lastmodified":1690938324,
+    "wof:lastmodified":1695886629,
     "wof:name":"Namhae",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

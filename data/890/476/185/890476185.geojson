@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041114,
-    "geom:area_square_m":406693130.656821,
+    "geom:area_square_m":406693403.484283,
     "geom:bbox":"127.292629,36.749935,127.585472,37.011336",
     "geom:latitude":36.871926,
     "geom:longitude":127.44188,
@@ -147,16 +147,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289221,
+        "meso:local_id":"33350",
         "qs_pg:id":220114,
         "wd:id":"Q50327",
         "wk:page":"Jincheon County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"154e540a8a8df7afeaa23a04d6d945db",
+    "wof:geomhash":"ce042d252e13b856360da511301640da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":890476185,
-    "wof:lastmodified":1690938316,
+    "wof:lastmodified":1695886626,
     "wof:name":"Jincheon",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

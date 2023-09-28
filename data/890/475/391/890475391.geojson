@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054074,
-    "geom:area_square_m":546257245.038374,
+    "geom:area_square_m":546257108.517413,
     "geom:bbox":"127.084198,35.07,127.418987,35.337692",
     "geom:latitude":35.217426,
     "geom:longitude":127.264793,
@@ -132,16 +132,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289174,
+        "meso:local_id":"36320",
         "qs_pg:id":965383,
         "wd:id":"Q50212",
         "wk:page":"Gokseong County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054032,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87f9b66033fe9fab367146f82418f609",
+    "wof:geomhash":"8668504255c7b7163c043bad276fc419",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":890475391,
-    "wof:lastmodified":1690938317,
+    "wof:lastmodified":1695886627,
     "wof:name":"Gokseong",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

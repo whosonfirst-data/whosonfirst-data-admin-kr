@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167727,
-    "geom:area_square_m":1632799135.766739,
+    "geom:area_square_m":1632799434.021927,
     "geom:bbox":"127.980367,37.812945,128.516006,38.383744",
     "geom:latitude":38.067943,
     "geom:longitude":128.264538,
@@ -144,16 +144,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289212,
+        "meso:local_id":"32390",
         "qs_pg:id":237314,
         "wd:id":"Q50318",
         "wk:page":"Inje County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053897,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5441028ecbc9f583902d402f32ec44be",
+    "wof:geomhash":"80e04c42d0cd546a6cb92ddbd24acb88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":890472377,
-    "wof:lastmodified":1690938333,
+    "wof:lastmodified":1695886631,
     "wof:name":"Inje",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

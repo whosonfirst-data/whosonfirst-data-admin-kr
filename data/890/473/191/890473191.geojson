@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061787,
-    "geom:area_square_m":618818693.596818,
+    "geom:area_square_m":618818514.124607,
     "geom:bbox":"128.047437,35.776848,128.408389,36.056912",
     "geom:latitude":35.907826,
     "geom:longitude":128.235999,
@@ -141,16 +141,18 @@
     "wof:concordances":{
         "gn:id":1836130,
         "gp:id":28289287,
+        "meso:local_id":"37380",
         "qs_pg:id":351981,
         "wd:id":"Q50250",
         "wk:page":"Seongju County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053942,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5bc701c0d2dfa71763f51ae56220183b",
+    "wof:geomhash":"05189ff373df553274f8809e63505415",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":890473191,
-    "wof:lastmodified":1690938347,
+    "wof:lastmodified":1695886771,
     "wof:name":"Seongju",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

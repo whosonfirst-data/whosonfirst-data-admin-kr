@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075235,
-    "geom:area_square_m":747976121.206116,
+    "geom:area_square_m":747975726.83753,
     "geom:bbox":"129.149977,36.26535,129.452911,36.676474",
     "geom:latitude":36.483979,
     "geom:longitude":129.318468,
@@ -138,16 +138,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289324,
+        "meso:local_id":"37350",
         "qs_pg:id":1154683,
         "wd:id":"Q50260",
         "wk:page":"Yeongdeok County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054028,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1282cb2e60fe13c14ac701c8a797a057",
+    "wof:geomhash":"b68a31dbda540899b261657637eb09d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":890475307,
-    "wof:lastmodified":1690938316,
+    "wof:lastmodified":1695886627,
     "wof:name":"Yeongdeok",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

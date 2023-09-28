@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006069,
-    "geom:area_square_m":59392478.04444,
+    "geom:area_square_m":59392655.091084,
     "geom:bbox":"126.741328,37.627982,126.854144,37.735428",
     "geom:latitude":37.683039,
     "geom:longitude":126.799733,
@@ -68,10 +68,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31103"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154713,
-    "wof:geomhash":"84963bd65ba59cd5ddddf358bd318fed",
+    "wof:geomhash":"8d44ac94e3bbe21f3d704b6f5104950a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108746465,
-    "wof:lastmodified":1627522305,
+    "wof:lastmodified":1695886769,
     "wof:name":"Ilsandong",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

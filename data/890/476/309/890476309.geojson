@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042489,
-    "geom:area_square_m":415615831.279297,
+    "geom:area_square_m":415616273.20454,
     "geom:bbox":"126.123665,37.579472,126.544113,37.831151",
     "geom:latitude":37.713799,
     "geom:longitude":126.401262,
@@ -141,16 +141,18 @@
     "wof:concordances":{
         "gn:id":1843160,
         "gp:id":28289161,
+        "meso:local_id":"23310",
         "qs_pg:id":237039,
         "wd:id":"Q50205",
         "wk:page":"List of districts and counties of Incheon"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054071,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5b79cedae2153bf70d0c713d66e662bd",
+    "wof:geomhash":"fe314949be21c920d66cf086449df80f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":890476309,
-    "wof:lastmodified":1690938311,
+    "wof:lastmodified":1695886768,
     "wof:name":"Ganghwa",
     "wof:parent_id":85673177,
     "wof:placetype":"county",

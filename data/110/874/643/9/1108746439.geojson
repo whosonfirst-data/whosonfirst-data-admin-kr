@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059411,
-    "geom:area_square_m":587531923.456293,
+    "geom:area_square_m":587532040.256779,
     "geom:bbox":"126.417084,36.751456,126.861082,37.072029",
     "geom:latitude":36.891818,
     "geom:longitude":126.661741,
@@ -128,10 +128,13 @@
         85673203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"34080"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154711,
-    "wof:geomhash":"3b74299def4827afbb5afc9ebb859400",
+    "wof:geomhash":"b66495747d9f982cc90d8f8616d9275c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1108746439,
-    "wof:lastmodified":1619481384,
+    "wof:lastmodified":1695886624,
     "wof:name":"Dangjin",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

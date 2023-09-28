@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016288,
-    "geom:area_square_m":159447715.759103,
+    "geom:area_square_m":159447626.608087,
     "geom:bbox":"126.774777,37.571305,126.997446,37.749075",
     "geom:latitude":37.657787,
     "geom:longitude":126.880718,
@@ -65,10 +65,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31101"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154713,
-    "wof:geomhash":"8793a78df5e50aaea41a8bac7d580011",
+    "wof:geomhash":"2a0aee144fadd45918fed12eddcbdaeb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746463,
-    "wof:lastmodified":1627522303,
+    "wof:lastmodified":1695886768,
     "wof:name":"Deogyang",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

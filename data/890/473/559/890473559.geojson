@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085184,
-    "geom:area_square_m":850411566.382361,
+    "geom:area_square_m":850412016.029288,
     "geom:bbox":"127.589867,36.012873,128.056016,36.314335",
     "geom:latitude":36.160755,
     "geom:longitude":127.816348,
@@ -157,16 +157,18 @@
     "wof:concordances":{
         "gn:id":1832561,
         "gp:id":28289327,
+        "meso:local_id":"33340",
         "qs_pg:id":897828,
         "wd:id":"Q50261",
         "wk:page":"Yeongdong County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053956,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bdd0d329553537550f45034779de0503",
+    "wof:geomhash":"ed4034be4707100e2a61f044b5069d94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":890473559,
-    "wof:lastmodified":1690938340,
+    "wof:lastmodified":1695886771,
     "wof:name":"Yeongdong",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

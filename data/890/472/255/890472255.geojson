@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099432,
-    "geom:area_square_m":981707184.92011,
+    "geom:area_square_m":981707075.732911,
     "geom:bbox":"127.652068,36.799874,128.124598,37.211769",
     "geom:latitude":37.01613,
     "geom:longitude":127.897344,
@@ -173,14 +173,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289138,
+        "meso:local_id":"33020",
         "qs_pg:id":407610
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053887,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ccb958b8bc8e81ea3d31c2995dfb7797",
+    "wof:geomhash":"94811fa5aac877c677e771bf557ba248",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -190,7 +192,7 @@
         }
     ],
     "wof:id":890472255,
-    "wof:lastmodified":1619481395,
+    "wof:lastmodified":1695886632,
     "wof:name":"Chungju",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

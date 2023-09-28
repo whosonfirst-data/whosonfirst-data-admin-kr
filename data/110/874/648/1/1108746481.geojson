@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000743,
-    "geom:area_square_m":7442308.436321,
+    "geom:area_square_m":7442333.577188,
     "geom:bbox":"128.575055,35.855304,128.61563,35.880272",
     "geom:latitude":35.867749,
     "geom:longitude":128.59517,
@@ -65,10 +65,13 @@
         85673213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"22010"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154715,
-    "wof:geomhash":"055bf4b3fa5bd5eeabe74ae8d163fd01",
+    "wof:geomhash":"24a10cec40ab9cbdd1db58148dd745a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746481,
-    "wof:lastmodified":1627522305,
+    "wof:lastmodified":1695886769,
     "wof:name":"Jung",
     "wof:parent_id":85673213,
     "wof:placetype":"county",

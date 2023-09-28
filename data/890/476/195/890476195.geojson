@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036078,
-    "geom:area_square_m":360419854.515802,
+    "geom:area_square_m":360419716.131211,
     "geom:bbox":"126.483719,35.989582,126.865707,36.191059",
     "geom:latitude":36.106888,
     "geom:longitude":126.7054,
@@ -147,16 +147,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289281,
+        "meso:local_id":"34340",
         "qs_pg:id":221250,
         "wd:id":"Q50249",
         "wk:page":"Seocheon County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"259ef2fa5c34b5b7a0e6e1151e76bfdd",
+    "wof:geomhash":"687c34aad2b718dc6533c6c8a18b4978",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":890476195,
-    "wof:lastmodified":1690938311,
+    "wof:lastmodified":1695886625,
     "wof:name":"Seocheon",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

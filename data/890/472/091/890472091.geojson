@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005306,
-    "geom:area_square_m":53615698.339685,
+    "geom:area_square_m":53615599.173227,
     "geom:bbox":"129.109705,35.152889,129.211667,35.250548",
     "geom:latitude":35.196088,
     "geom:longitude":129.156565,
@@ -148,16 +148,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462808,
+        "meso:local_id":"21090",
         "qs_pg:id":209113,
         "wd:id":"Q50449",
         "wk:page":"Haeundae District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053881,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1afe5cd4147346fc001ebf02776ff51c",
+    "wof:geomhash":"fceed102d505fc4812df3f1498edbcba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":890472091,
-    "wof:lastmodified":1690938330,
+    "wof:lastmodified":1695886629,
     "wof:name":"Haeundae",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

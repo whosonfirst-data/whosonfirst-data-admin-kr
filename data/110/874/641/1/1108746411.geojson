@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002235,
-    "geom:area_square_m":21956232.731836,
+    "geom:area_square_m":21956305.003656,
     "geom:bbox":"126.927103,37.363251,126.984507,37.441586",
     "geom:latitude":37.40115,
     "geom:longitude":126.956577,
@@ -65,10 +65,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31042"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154708,
-    "wof:geomhash":"1964b701317545b0965539bb20ecb9df",
+    "wof:geomhash":"52c8deabfe5371113877eff624cc9b8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746411,
-    "wof:lastmodified":1627522303,
+    "wof:lastmodified":1695886768,
     "wof:name":"Dongan",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

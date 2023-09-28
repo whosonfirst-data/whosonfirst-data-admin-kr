@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002847,
-    "geom:area_square_m":28778828.843171,
+    "geom:area_square_m":28778636.535817,
     "geom:bbox":"129.010725,35.134927,129.085687,35.203312",
     "geom:latitude":35.166242,
     "geom:longitude":129.046246,
@@ -141,16 +141,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289124,
+        "meso:local_id":"21050",
         "qs_pg:id":1209104,
         "wd:id":"Q50390",
         "wk:page":"Busanjin District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054050,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c20b572f99581e49fa0446bfdfa93a5",
+    "wof:geomhash":"5754e7153630bbbc7e2299a645551908",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":890475779,
-    "wof:lastmodified":1690938321,
+    "wof:lastmodified":1695886766,
     "wof:name":"Busanjin",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05048,
-    "geom:area_square_m":504837805.380317,
+    "geom:area_square_m":504837785.251651,
     "geom:bbox":"126.855523,35.886134,127.139513,36.159616",
     "geom:latitude":36.023151,
     "geom:longitude":126.991846,
@@ -186,14 +186,16 @@
     "wof:concordances":{
         "gn:id":1843663,
         "gp:id":28289210,
+        "meso:local_id":"35030",
         "qs_pg:id":900304
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054061,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c84025af2ca4413d8937fddb84c58473",
+    "wof:geomhash":"dab7f9f5afa626bf1fc118985067fdc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -203,7 +205,7 @@
         }
     ],
     "wof:id":890476057,
-    "wof:lastmodified":1636497472,
+    "wof:lastmodified":1695886737,
     "wof:name":"Iksan",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

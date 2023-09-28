@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003679,
-    "geom:area_square_m":36021295.331695,
+    "geom:area_square_m":36021290.542593,
     "geom:bbox":"127.043492,37.612242,127.113825,37.702852",
     "geom:latitude":37.652437,
     "geom:longitude":127.076777,
@@ -146,16 +146,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8349531,
+        "meso:local_id":"11110",
         "qs_pg:id":1155772,
         "wd:id":"Q50368",
         "wk:page":"Nowon District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053889,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8fc575e2fce3545d4cd1dad2cd70cf38",
+    "wof:geomhash":"5e7d49aa6004117f4857a90e11cfb985",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":890472295,
-    "wof:lastmodified":1690938331,
+    "wof:lastmodified":1695886630,
     "wof:name":"Nowon",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

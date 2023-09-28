@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046995,
-    "geom:area_square_m":462792809.82646,
+    "geom:area_square_m":462792641.241604,
     "geom:bbox":"127.328077,37.042241,127.641564,37.36378",
     "geom:latitude":37.211708,
     "geom:longitude":127.482511,
@@ -169,14 +169,16 @@
     "wof:concordances":{
         "gn:id":8393802,
         "gp:id":28289209,
+        "meso:local_id":"31210",
         "qs_pg:id":1120181
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054017,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac4a9c3b662198f0b5fd22cdaaf2b385",
+    "wof:geomhash":"ee988dd2fbffb00178d0af95b0390820",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":890475061,
-    "wof:lastmodified":1619481392,
+    "wof:lastmodified":1695886629,
     "wof:name":"Icheon",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

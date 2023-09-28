@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005039,
-    "geom:area_square_m":49448445.3409,
+    "geom:area_square_m":49448368.608099,
     "geom:bbox":"126.980327,37.42764,127.099554,37.528037",
     "geom:latitude":37.473736,
     "geom:longitude":127.034557,
@@ -152,16 +152,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8349535,
+        "meso:local_id":"11220",
         "qs_pg:id":1042695,
         "wd:id":"Q20395",
         "wk:page":"Seocho District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053948,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d93d3642737d64d36986f32bb57a89f",
+    "wof:geomhash":"126780f209d86d4205bc277decf3ee6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":890473319,
-    "wof:lastmodified":1690938354,
+    "wof:lastmodified":1695886635,
     "wof:name":"Seocho",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

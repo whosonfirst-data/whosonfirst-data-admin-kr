@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003302,
-    "geom:area_square_m":32473361.661284,
+    "geom:area_square_m":32473302.793739,
     "geom:bbox":"126.96408,37.285773,127.041249,37.354926",
     "geom:latitude":37.314831,
     "geom:longitude":127.005137,
@@ -65,10 +65,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31011"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154721,
-    "wof:geomhash":"95b39913db67ee9a3361a69a5ff0ba8d",
+    "wof:geomhash":"ea513dc0736e293e75838ff8dc4351af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746529,
-    "wof:lastmodified":1627522305,
+    "wof:lastmodified":1695886770,
     "wof:name":"Jangan",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

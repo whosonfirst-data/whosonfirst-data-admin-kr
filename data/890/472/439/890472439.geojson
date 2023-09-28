@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078557,
-    "geom:area_square_m":792097940.841003,
+    "geom:area_square_m":792097644.144011,
     "geom:bbox":"127.68399,35.216772,128.104155,35.578065",
     "geom:latitude":35.368672,
     "geom:longitude":127.885374,
@@ -132,16 +132,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289273,
+        "meso:local_id":"38370",
         "qs_pg:id":232432,
         "wd:id":"Q50248",
         "wk:page":"Sancheong County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053900,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"050053574f944f8ba0e49ce78c701fcb",
+    "wof:geomhash":"0d46452fc0a3680dc3aa7bce58c070d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":890472439,
-    "wof:lastmodified":1690938331,
+    "wof:lastmodified":1695886630,
     "wof:name":"Sancheong",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

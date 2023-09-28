@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002274,
-    "geom:area_square_m":22275315.376059,
+    "geom:area_square_m":22275089.68377,
     "geom:bbox":"126.95104,37.566231,127.017853,37.632584",
     "geom:latitude":37.595887,
     "geom:longitude":126.978934,
@@ -186,15 +186,17 @@
     "wof:concordances":{
         "gn:id":1845581,
         "gp:id":28289225,
+        "meso:local_id":"11010",
         "qs_pg:id":371064,
         "wd:id":"Q36929"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053945,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"449d4ca0457f3b5a05407491551c09af",
+    "wof:geomhash":"c5b4b9971250b2aa16af2c7029eff816",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -204,7 +206,7 @@
         }
     ],
     "wof:id":890473223,
-    "wof:lastmodified":1690938349,
+    "wof:lastmodified":1695886634,
     "wof:name":"Jongno",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

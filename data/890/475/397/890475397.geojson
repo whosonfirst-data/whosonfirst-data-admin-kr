@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034391,
-    "geom:area_square_m":344223503.867598,
+    "geom:area_square_m":344223402.389301,
     "geom:bbox":"125.955391,35.72789,126.917932,36.259556",
     "geom:latitude":35.95743,
     "geom:longitude":126.716011,
@@ -148,15 +148,17 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289182,
+        "meso:local_id":"35020",
         "qs_pg:id":407611,
         "wd:id":"Q50246"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054032,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2bf070f1e4e07fe506917d78f5dbc519",
+    "wof:geomhash":"7aaed115a2ee3c38c7748a2e60c4c0eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":890475397,
-    "wof:lastmodified":1690938317,
+    "wof:lastmodified":1695886736,
     "wof:name":"Gunsan",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

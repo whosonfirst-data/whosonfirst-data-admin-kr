@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001123,
-    "geom:area_square_m":11345379.068564,
+    "geom:area_square_m":11345434.406278,
     "geom:bbox":"129.056836,35.161438,129.112601,35.201165",
     "geom:latitude":35.184258,
     "geom:longitude":129.082981,
@@ -145,16 +145,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462807,
+        "meso:local_id":"21130",
         "qs_pg:id":209105,
         "wd:id":"Q50422",
         "wk:page":"Yeonje District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053881,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"777666ccc92d8360c55bb2fad3a0864d",
+    "wof:geomhash":"ba7095f41132bd1cff83cca957abfed0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":890472085,
-    "wof:lastmodified":1690938330,
+    "wof:lastmodified":1695886771,
     "wof:name":"Yeonje",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

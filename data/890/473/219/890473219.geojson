@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053726,
-    "geom:area_square_m":546317759.902792,
+    "geom:area_square_m":546317623.713744,
     "geom:bbox":"127.193695,34.004555,127.906197,34.899612",
     "geom:latitude":34.67811,
     "geom:longitude":127.647561,
@@ -141,15 +141,17 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289335,
+        "meso:local_id":"36020",
         "qs_pg:id":369326,
         "wd:id":"Q50311"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053945,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"693a6bd0880c53d3ce7a889aa820ebb6",
+    "wof:geomhash":"529518745de032e121628ea8fa0b70d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":890473219,
-    "wof:lastmodified":1690938342,
+    "wof:lastmodified":1695886737,
     "wof:name":"Yeosu",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

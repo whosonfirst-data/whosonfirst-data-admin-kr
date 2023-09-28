@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001271,
-    "geom:area_square_m":12502293.911141,
+    "geom:area_square_m":12502265.913153,
     "geom:bbox":"126.988427,37.26002,127.045004,37.294666",
     "geom:latitude":37.27761,
     "geom:longitude":127.019633,
@@ -65,10 +65,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31013"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154721,
-    "wof:geomhash":"845ffa889bdceda2297396c4c4e1c3cb",
+    "wof:geomhash":"fe509c4cc5e32d118f881d1fd92577fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746533,
-    "wof:lastmodified":1627522306,
+    "wof:lastmodified":1695886770,
     "wof:name":"Paldal",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

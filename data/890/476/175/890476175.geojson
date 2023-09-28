@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04927,
-    "geom:area_square_m":496393378.545715,
+    "geom:area_square_m":496393118.311099,
     "geom:bbox":"126.861575,35.296734,127.314918,35.556015",
     "geom:latitude":35.433844,
     "geom:longitude":127.092105,
@@ -138,16 +138,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289294,
+        "meso:local_id":"35360",
         "qs_pg:id":216011,
         "wd:id":"Q50251",
         "wk:page":"Sunchang County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054065,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b17e46d7990cdda2228c99b0159636fd",
+    "wof:geomhash":"3fbd8db3cc591cf76fa92800b02fb13c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":890476175,
-    "wof:lastmodified":1690938312,
+    "wof:lastmodified":1695886625,
     "wof:name":"Sunchang",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

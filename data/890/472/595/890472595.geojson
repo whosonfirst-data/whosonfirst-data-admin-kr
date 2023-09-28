@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058407,
-    "geom:area_square_m":581719806.087671,
+    "geom:area_square_m":581719871.104359,
     "geom:bbox":"126.191193,36.17248,126.739861,36.530556",
     "geom:latitude":36.344388,
     "geom:longitude":126.593591,
@@ -157,15 +157,17 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289114,
+        "meso:local_id":"34030",
         "qs_pg:id":1264388,
         "wd:id":"Q50335"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053910,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eaeb2df293efdca72c18be515446bac2",
+    "wof:geomhash":"ce774d9d2e0d5945cd897f82118378cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":890472595,
-    "wof:lastmodified":1690938327,
+    "wof:lastmodified":1695886628,
     "wof:name":"Boryeong",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

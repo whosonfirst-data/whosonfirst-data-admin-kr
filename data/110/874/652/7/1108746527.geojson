@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004818,
-    "geom:area_square_m":47419565.627502,
+    "geom:area_square_m":47419628.915517,
     "geom:bbox":"126.926376,37.223467,127.044287,37.303871",
     "geom:latitude":37.261354,
     "geom:longitude":126.982139,
@@ -65,10 +65,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31012"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154721,
-    "wof:geomhash":"91db7e9d49f8bbaaa1e0397eebc82571",
+    "wof:geomhash":"1b54192d857432b98c9338c7e61e930e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746527,
-    "wof:lastmodified":1627522304,
+    "wof:lastmodified":1695886769,
     "wof:name":"Gwonseon",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

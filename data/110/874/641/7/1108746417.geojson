@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001012,
-    "geom:area_square_m":9935325.793307,
+    "geom:area_square_m":9935250.010115,
     "geom:bbox":"126.766392,37.459165,126.830705,37.48887",
     "geom:latitude":37.475099,
     "geom:longitude":126.80189,
@@ -110,10 +110,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31052"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154708,
-    "wof:geomhash":"d0ab20246b9072a037ad540a1ba8717d",
+    "wof:geomhash":"9e3649bb67ef62c756f92cf03fbd3172",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1108746417,
-    "wof:lastmodified":1619481386,
+    "wof:lastmodified":1695886624,
     "wof:name":"Sosa",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

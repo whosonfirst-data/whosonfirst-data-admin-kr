@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061631,
-    "geom:area_square_m":606182872.531592,
+    "geom:area_square_m":606182843.695597,
     "geom:bbox":"127.400722,37.133619,127.769826,37.440612",
     "geom:latitude":37.303228,
     "geom:longitude":127.617347,
@@ -131,10 +131,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31280"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154722,
-    "wof:geomhash":"a987d0f99e9bece2e13b741844443c7b",
+    "wof:geomhash":"4b30167017023942e461f713d4973545",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108746541,
-    "wof:lastmodified":1619481387,
+    "wof:lastmodified":1695886625,
     "wof:name":"Yeoju",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

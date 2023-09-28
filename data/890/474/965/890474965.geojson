@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002102,
-    "geom:area_square_m":20618373.859534,
+    "geom:area_square_m":20618384.849299,
     "geom:bbox":"126.816655,37.472067,126.902399,37.51828",
     "geom:latitude":37.495534,
     "geom:longitude":126.855648,
@@ -151,16 +151,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289185,
+        "meso:local_id":"11170",
         "qs_pg:id":1112260,
         "wd:id":"Q50356",
         "wk:page":"Guro District, Seoul"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054012,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e953bf56d81500cdb02d74f06f364c8a",
+    "wof:geomhash":"998b0728b348f80d786276f78adcde67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":890474965,
-    "wof:lastmodified":1690938355,
+    "wof:lastmodified":1695886635,
     "wof:name":"Guro",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

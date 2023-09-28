@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012548,
-    "geom:area_square_m":123493201.955072,
+    "geom:area_square_m":123493472.809852,
     "geom:bbox":"125.746223,36.920361,126.552826,37.559502",
     "geom:latitude":37.259719,
     "geom:longitude":126.258958,
@@ -146,16 +146,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289263,
+        "meso:local_id":"23320",
         "qs_pg:id":896810,
         "wd:id":"Q50310",
         "wk:page":"List of districts and counties of Incheon"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053956,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd05f9ade3fa1e186c765719bbd268ee",
+    "wof:geomhash":"20e50dcf3fda1948168cd060f3fc3c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":890473555,
-    "wof:lastmodified":1690938347,
+    "wof:lastmodified":1695886737,
     "wof:name":"Ongjin",
     "wof:parent_id":85673177,
     "wof:placetype":"county",

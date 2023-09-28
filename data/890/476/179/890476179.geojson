@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001039,
-    "geom:area_square_m":10506636.940246,
+    "geom:area_square_m":10506560.55941,
     "geom:bbox":"129.093524,35.139256,129.134552,35.185035",
     "geom:latitude":35.163431,
     "geom:longitude":129.112658,
@@ -135,16 +135,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289298,
+        "meso:local_id":"21140",
         "qs_pg:id":216013,
         "wd:id":"Q50417",
         "wk:page":"Suyeong District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054065,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b48df541b0814b0580bec5754a256663",
+    "wof:geomhash":"9b6accd3b821e5177f2a5832cceb333c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":890476179,
-    "wof:lastmodified":1690938316,
+    "wof:lastmodified":1695886771,
     "wof:name":"Suyeong",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

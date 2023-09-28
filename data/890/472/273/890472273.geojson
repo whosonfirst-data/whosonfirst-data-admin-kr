@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004755,
-    "geom:area_square_m":48080703.112957,
+    "geom:area_square_m":48080660.554067,
     "geom:bbox":"126.803717,35.091041,126.89858,35.181061",
     "geom:latitude":35.136838,
     "geom:longitude":126.852254,
@@ -272,16 +272,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462134,
+        "meso:local_id":"24020",
         "qs_pg:id":381740,
         "wd:id":"Q418825",
         "wk:page":"Seo-gu"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053888,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"66a3f7814238b616a92d846144a9fe1e",
+    "wof:geomhash":"4ef2552a70483708a1f861f23f03ee07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -297,7 +299,7 @@
         }
     ],
     "wof:id":890472273,
-    "wof:lastmodified":1619481393,
+    "wof:lastmodified":1695886630,
     "wof:name":"Seo",
     "wof:parent_id":-1,
     "wof:placetype":"county",
