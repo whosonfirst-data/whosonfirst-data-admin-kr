@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006473,
-    "geom:area_square_m":64895816.33952,
+    "geom:area_square_m":64895785.99508,
     "geom:bbox":"128.469125,35.771959,128.588563,35.871327",
     "geom:latitude":35.828136,
     "geom:longitude":128.53045,
@@ -134,16 +134,18 @@
     "wof:concordances":{
         "gn:id":8419824,
         "gp:id":28289140,
+        "meso:local_id":"22070",
         "qs_pg:id":206548,
         "wd:id":"Q50370",
         "wk:page":"Dalseo District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054060,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d996a5c84238985a1c1187b130e424f5",
+    "wof:geomhash":"6342f36f68732eddf9b36ae130ef03cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":890476025,
-    "wof:lastmodified":1690938312,
+    "wof:lastmodified":1695886767,
     "wof:name":"Dalseo",
     "wof:parent_id":85673213,
     "wof:placetype":"county",

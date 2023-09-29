@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08716,
-    "geom:area_square_m":866579689.958357,
+    "geom:area_square_m":866579276.116028,
     "geom:bbox":"126.886455,36.272158,127.283614,36.680392",
     "geom:latitude":36.480114,
     "geom:longitude":127.075981,
@@ -161,14 +161,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289175,
+        "meso:local_id":"34020",
         "qs_pg:id":1209112
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053898,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9cd7b1d4e7f2d5b90268a74d3db1151",
+    "wof:geomhash":"0dd9a57a52dac6a62df29f2a7b039218",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":890472413,
-    "wof:lastmodified":1619481393,
+    "wof:lastmodified":1695886630,
     "wof:name":"Gongju",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

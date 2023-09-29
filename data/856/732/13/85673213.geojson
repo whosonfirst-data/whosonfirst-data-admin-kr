@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087066,
-    "geom:area_square_m":872837530.60713,
+    "geom:area_square_m":872837489.820438,
     "geom:bbox":"128.350812,35.614253,128.768854,36.016681",
     "geom:latitude":35.831624,
     "geom:longitude":128.567406,
@@ -482,16 +482,18 @@
         "gn:id":1835327,
         "gp:id":2345971,
         "hasc:id":"KR.TG",
+        "iso:code":"KR-27",
         "iso:id":"KR-27",
         "qs_pg:id":891328,
         "wd:id":"Q20927",
         "wk:page":"Daegu"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"698c006861e38dc8767fce1364af0192",
+    "wof:geomhash":"97b37d60b5a6c2bc2ec82f9859545cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -506,7 +508,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938294,
+    "wof:lastmodified":1695884675,
     "wof:name":"Daegu",
     "wof:parent_id":85632231,
     "wof:placetype":"region",

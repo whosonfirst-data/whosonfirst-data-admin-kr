@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048496,
-    "geom:area_square_m":488791602.752789,
+    "geom:area_square_m":488791178.929498,
     "geom:bbox":"128.870716,35.274976,129.220001,35.531884",
     "geom:latitude":35.401054,
     "geom:longitude":129.043496,
@@ -162,14 +162,16 @@
     "wof:concordances":{
         "gn:id":1832824,
         "gp:id":28289315,
+        "meso:local_id":"38100",
         "qs_pg:id":1078808
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053996,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"662e9b8de692c61e7ab4e66584014322",
+    "wof:geomhash":"21c34e0fc707ac920e168fc8c7582ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +181,7 @@
         }
     ],
     "wof:id":890474597,
-    "wof:lastmodified":1619481400,
+    "wof:lastmodified":1695886636,
     "wof:name":"Yangsan",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

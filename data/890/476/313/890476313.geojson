@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001701,
-    "geom:area_square_m":16689598.574983,
+    "geom:area_square_m":16689722.127479,
     "geom:bbox":"126.920924,37.472539,126.986629,37.522889",
     "geom:latitude":37.500907,
     "geom:longitude":126.956663,
@@ -172,16 +172,18 @@
     "wof:concordances":{
         "gn:id":1834245,
         "gp:id":28289155,
+        "meso:local_id":"11200",
         "qs_pg:id":237840,
         "wd:id":"Q50385",
         "wk:page":"Dongjak District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054071,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3dfa45c14a629435302b978a11f3ace0",
+    "wof:geomhash":"84c127a282d2b8e734fdaefcc3a966bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":890476313,
-    "wof:lastmodified":1690938313,
+    "wof:lastmodified":1695886626,
     "wof:name":"Dongjak",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022213,
-    "geom:area_square_m":224537486.705137,
+    "geom:area_square_m":224537774.534794,
     "geom:bbox":"126.651539,35.069062,126.864362,35.259747",
     "geom:latitude":35.164863,
     "geom:longitude":126.755097,
@@ -118,16 +118,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1841791,
+        "meso:local_id":"24050",
         "qs_pg:id":356113,
         "wd:id":"Q50354",
         "wk:page":"Gwangsan District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053942,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff1eb37dd134020f13e51b2fd57e6a63",
+    "wof:geomhash":"ba536281093a4ad181d2a44bb0ddbdc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":890473197,
-    "wof:lastmodified":1690938347,
+    "wof:lastmodified":1695886768,
     "wof:name":"Gwangsan",
     "wof:parent_id":85673199,
     "wof:placetype":"county",

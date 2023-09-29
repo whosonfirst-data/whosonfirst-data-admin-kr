@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008173,
-    "geom:area_square_m":80940370.497452,
+    "geom:area_square_m":80940166.990061,
     "geom:bbox":"127.539728,36.702684,127.666803,36.860401",
     "geom:latitude":36.787312,
     "geom:longitude":127.605628,
@@ -65,10 +65,13 @@
         85673173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"33390"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154714,
-    "wof:geomhash":"69004ea58860ab9907cdb6915f29da18",
+    "wof:geomhash":"3266a97ef0c5b51b4195bf10dcb4e69a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746473,
-    "wof:lastmodified":1627522305,
+    "wof:lastmodified":1695886769,
     "wof:name":"Jeungpyeong",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

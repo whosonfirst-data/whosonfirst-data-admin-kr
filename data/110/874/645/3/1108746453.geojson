@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00174,
-    "geom:area_square_m":17581569.961494,
+    "geom:area_square_m":17581583.279154,
     "geom:bbox":"129.045135,35.184788,129.121941,35.231405",
     "geom:latitude":35.207376,
     "geom:longitude":129.081612,
@@ -65,10 +65,13 @@
         85673227
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"21060"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154712,
-    "wof:geomhash":"054d09cac606c7546b8a4cfc448b72df",
+    "wof:geomhash":"c4b4de50fb5034e79cc2fd2d0f8e2705",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746453,
-    "wof:lastmodified":1627522303,
+    "wof:lastmodified":1695886768,
     "wof:name":"Dongnae",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

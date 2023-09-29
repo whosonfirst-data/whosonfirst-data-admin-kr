@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041091,
-    "geom:area_square_m":414719926.456347,
+    "geom:area_square_m":414719677.773499,
     "geom:bbox":"128.277513,35.16485,128.58846,35.400404",
     "geom:latitude":35.291795,
     "geom:longitude":128.432584,
@@ -150,16 +150,18 @@
     "wof:concordances":{
         "gn:id":1844557,
         "gp:id":28289198,
+        "meso:local_id":"38320",
         "qs_pg:id":1062387,
         "wd:id":"Q50338",
         "wk:page":"Haman County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053992,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a00839e2004afd242d98104ba345ccd",
+    "wof:geomhash":"fba2c22aff6ea7c63906a72085861a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":890474513,
-    "wof:lastmodified":1690938364,
+    "wof:lastmodified":1695886768,
     "wof:name":"Haman",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

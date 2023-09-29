@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071431,
-    "geom:area_square_m":725310131.203246,
+    "geom:area_square_m":725311256.450704,
     "geom:bbox":"125.074585,34.045387,126.379585,35.212944",
     "geom:latitude":34.796558,
     "geom:longitude":126.022118,
@@ -159,16 +159,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289291,
+        "meso:local_id":"36480",
         "qs_pg:id":1115827,
         "wd:id":"Q50252",
         "wk:page":"Sinan County, South Jeolla"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054016,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3745f03742da518741bd14026680d70",
+    "wof:geomhash":"27007c1526131bf7bc934b86dd5a322b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":890475041,
-    "wof:lastmodified":1690938318,
+    "wof:lastmodified":1695886626,
     "wof:name":"Sinan",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08165,
-    "geom:area_square_m":817618630.699903,
+    "geom:area_square_m":817618446.911824,
     "geom:bbox":"126.995856,35.618845,127.379671,36.131341",
     "geom:latitude":35.92047,
     "geom:longitude":127.216951,
@@ -150,16 +150,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289309,
+        "meso:local_id":"35310",
         "qs_pg:id":32690,
         "wd:id":"Q50312",
         "wk:page":"Wanju County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054000,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"faeba2accb44b35c6633c21f21f7ff24",
+    "wof:geomhash":"0dbe3817b09a4ab7334f828d22b00f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":890474683,
-    "wof:lastmodified":1690938362,
+    "wof:lastmodified":1695886637,
     "wof:name":"Wanju",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

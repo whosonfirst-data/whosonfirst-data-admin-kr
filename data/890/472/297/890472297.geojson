@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002299,
-    "geom:area_square_m":22519162.71187,
+    "geom:area_square_m":22519127.882652,
     "geom:bbox":"126.980276,37.574779,127.069441,37.635315",
     "geom:latitude":37.606013,
     "geom:longitude":127.019099,
@@ -146,16 +146,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8349532,
+        "meso:local_id":"11080",
         "qs_pg:id":1155773,
         "wd:id":"Q50412",
         "wk:page":"Seongbuk District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053889,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09cc5ef291208546fdefa3ec2a504fb9",
+    "wof:geomhash":"7bbbc020597750fb4f8a2eecef969a36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":890472297,
-    "wof:lastmodified":1690938338,
+    "wof:lastmodified":1695886632,
     "wof:name":"Seongbuk",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

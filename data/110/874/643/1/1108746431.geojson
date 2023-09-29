@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043865,
-    "geom:area_square_m":434508719.810598,
+    "geom:area_square_m":434508733.380732,
     "geom:bbox":"127.011769,36.624249,127.424489,36.894962",
     "geom:latitude":36.765142,
     "geom:longitude":127.223285,
@@ -65,10 +65,13 @@
         85673203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"34011"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154709,
-    "wof:geomhash":"f48883ad4d0419f2e5d4f76145943090",
+    "wof:geomhash":"3fec481d81f43b5c37ec483e5ea0d8cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746431,
-    "wof:lastmodified":1627522304,
+    "wof:lastmodified":1695886769,
     "wof:name":"Dongnam",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

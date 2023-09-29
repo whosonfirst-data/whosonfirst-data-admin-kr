@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009231,
-    "geom:area_square_m":93237357.432874,
+    "geom:area_square_m":93237093.457546,
     "geom:bbox":"128.474786,35.173417,128.630805,35.278475",
     "geom:latitude":35.232982,
     "geom:longitude":128.538203,
@@ -65,10 +65,13 @@
         85673215
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"38114"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154717,
-    "wof:geomhash":"872b8b2fed1f2017ebc2f35bf8da16da",
+    "wof:geomhash":"2c3b9fb07385156d40995e42f798533d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746493,
-    "wof:lastmodified":1627522306,
+    "wof:lastmodified":1695886770,
     "wof:name":"Masanhoewon",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

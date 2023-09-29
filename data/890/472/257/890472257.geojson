@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078889,
-    "geom:area_square_m":790886681.159442,
+    "geom:area_square_m":790887037.615542,
     "geom:bbox":"127.264946,35.616841,127.625712,36.029923",
     "geom:latitude":35.829174,
     "geom:longitude":127.430677,
@@ -141,16 +141,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289220,
+        "meso:local_id":"35320",
         "qs_pg:id":237316,
         "wd:id":"Q50326",
         "wk:page":"Jinan County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053887,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c9b8edf5d1987c08250c643011e5814",
+    "wof:geomhash":"fa8fd29111ecfa2ccc9df220fdafbe48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":890472257,
-    "wof:lastmodified":1690938330,
+    "wof:lastmodified":1695886629,
     "wof:name":"Jinan",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

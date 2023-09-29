@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086165,
-    "geom:area_square_m":877610273.121278,
+    "geom:area_square_m":877610499.880893,
     "geom:bbox":"126.237892,34.292889,126.73539,34.76289",
     "geom:latitude":34.543115,
     "geom:longitude":126.521943,
@@ -141,16 +141,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289196,
+        "meso:local_id":"36400",
         "qs_pg:id":1121803,
         "wd:id":"Q50342",
         "wk:page":"Haenam County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054017,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de99da1021c9ed936038c449f578a98a",
+    "wof:geomhash":"4b697bc1877b291f80c9e746d0d3f092",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":890475077,
-    "wof:lastmodified":1690938319,
+    "wof:lastmodified":1695886627,
     "wof:name":"Haenam",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

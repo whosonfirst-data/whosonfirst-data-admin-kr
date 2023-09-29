@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.721299,
-    "geom:area_square_m":16833761745.975868,
+    "geom:area_square_m":16833761507.927029,
     "geom:bbox":"127.108386,37.030054,129.365769,38.618412",
     "geom:latitude":37.728372,
     "geom:longitude":128.299745,
@@ -375,17 +375,19 @@
         "gn:id":1843125,
         "gp:id":2345966,
         "hasc:id":"KR.KW",
+        "iso:code":"KR-42",
         "iso:id":"KR-42",
         "loc:id":"n85058039",
         "qs_pg:id":1060818,
         "wd:id":"Q41071",
         "wk:page":"Gangwon Province (South Korea)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8df4cef062331cd46644ac7a8f2dabe4",
+    "wof:geomhash":"7824e64c987129142a26420fbbce7c01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -400,7 +402,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938286,
+    "wof:lastmodified":1695884673,
     "wof:name":"Gangwon",
     "wof:parent_id":85632231,
     "wof:placetype":"region",

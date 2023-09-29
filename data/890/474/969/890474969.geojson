@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061269,
-    "geom:area_square_m":611584784.70159,
+    "geom:area_square_m":611584526.156202,
     "geom:bbox":"128.412324,36.001768,128.9002,36.327529",
     "geom:latitude":36.170554,
     "geom:longitude":128.650269,
@@ -144,16 +144,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289183,
+        "meso:local_id":"37310",
         "qs_pg:id":1112261,
         "wd:id":"Q50215",
         "wk:page":"Gunwi County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054012,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c04397c2afe8c922fa69e915419ecf8b",
+    "wof:geomhash":"5f2de04bed0d80231921a9ee9bc8511f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":890474969,
-    "wof:lastmodified":1690938360,
+    "wof:lastmodified":1695886636,
     "wof:name":"Gunwi",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

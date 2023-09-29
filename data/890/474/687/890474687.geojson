@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050619,
-    "geom:area_square_m":513950983.318313,
+    "geom:area_square_m":513950762.557832,
     "geom:bbox":"126.362053,34.672596,126.864149,34.950879",
     "geom:latitude":34.802489,
     "geom:longitude":126.645157,
@@ -150,16 +150,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289322,
+        "meso:local_id":"36410",
         "qs_pg:id":32692,
         "wd:id":"Q50262",
         "wk:page":"Yeongam County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054000,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9c03f309878938cfc5e9d5dcad0a3f19",
+    "wof:geomhash":"aa43ae1d8894432d77997e0f729c373d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":890474687,
-    "wof:lastmodified":1690938358,
+    "wof:lastmodified":1695886636,
     "wof:name":"Yeongam",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075315,
-    "geom:area_square_m":757717699.327403,
+    "geom:area_square_m":757717848.956095,
     "geom:bbox":"128.972001,35.329582,129.369522,35.726015",
     "geom:latitude":35.547815,
     "geom:longitude":129.18703,
@@ -129,16 +129,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289307,
+        "meso:local_id":"26310",
         "qs_pg:id":32689,
         "wd:id":"Q50313",
         "wk:page":"Ulju County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054000,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2192a509b88c6bc2bc8f7150a537842f",
+    "wof:geomhash":"7e72b4d49acbd762c3c5ca363e556451",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":890474681,
-    "wof:lastmodified":1690938356,
+    "wof:lastmodified":1695886635,
     "wof:name":"Ulju",
     "wof:parent_id":85673231,
     "wof:placetype":"county",

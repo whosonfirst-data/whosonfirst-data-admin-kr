@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003008,
-    "geom:area_square_m":29517178.978234,
+    "geom:area_square_m":29517069.694158,
     "geom:bbox":"126.907433,37.437465,126.993032,37.495702",
     "geom:latitude":37.468723,
     "geom:longitude":126.946833,
@@ -152,16 +152,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1841893,
+        "meso:local_id":"11210",
         "qs_pg:id":275267,
         "wd:id":"Q50353",
         "wk:page":"Gwanak District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053885,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"18173fcede23998825516bd1a7d9ef81",
+    "wof:geomhash":"0c3f8eed9d29e9156d871729af6254f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":890472187,
-    "wof:lastmodified":1690938333,
+    "wof:lastmodified":1695886630,
     "wof:name":"Gwanak",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

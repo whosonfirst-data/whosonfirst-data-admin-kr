@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006324,
-    "geom:area_square_m":63855434.967455,
+    "geom:area_square_m":63855474.713158,
     "geom:bbox":"129.04135,35.208731,129.145734,35.307098",
     "geom:latitude":35.26004,
     "geom:longitude":129.093682,
@@ -133,16 +133,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462814,
+        "meso:local_id":"21110",
         "qs_pg:id":209116,
         "wd:id":"Q50358",
         "wk:page":"Geumjeong District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053881,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4f01acf62634387bdf45ae105ee87e51",
+    "wof:geomhash":"2cb9f6ccb061cf2d803fc4713addc67d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":890472097,
-    "wof:lastmodified":1690938332,
+    "wof:lastmodified":1695886768,
     "wof:name":"Geumjeong",
     "wof:parent_id":85673227,
     "wof:placetype":"county",

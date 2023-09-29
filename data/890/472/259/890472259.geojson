@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043196,
-    "geom:area_square_m":441271947.2057,
+    "geom:area_square_m":441271862.021219,
     "geom:bbox":"126.330883,33.918694,127.18042,34.461224",
     "geom:latitude":34.293498,
     "geom:longitude":126.779145,
@@ -139,16 +139,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1833493,
+        "meso:local_id":"36460",
         "qs_pg:id":356074,
         "wd:id":"Q50311",
         "wk:page":"Wando County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053887,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1d3118d2d8de2cda2364cf67adfd50c",
+    "wof:geomhash":"aa487d73c3e06df745dc071395903cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,7 +160,7 @@
         }
     ],
     "wof:id":890472259,
-    "wof:lastmodified":1690938331,
+    "wof:lastmodified":1695886629,
     "wof:name":"Wando",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

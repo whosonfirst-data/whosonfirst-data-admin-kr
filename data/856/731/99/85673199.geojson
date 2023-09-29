@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049693,
-    "geom:area_square_m":502378899.184985,
+    "geom:area_square_m":502379273.886496,
     "geom:bbox":"126.651539,35.050889,127.021746,35.259855",
     "geom:latitude":35.1559,
     "geom:longitude":126.837662,
@@ -475,15 +475,17 @@
         "gn:id":1841808,
         "gp:id":2345974,
         "hasc:id":"KR.CN",
+        "iso:code":"KR-46",
         "iso:id":"KR-46",
         "qs_pg:id":191374,
         "wd:id":"Q41283"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f546252f9d6ceb2b76b35e96b7b71f9f",
+    "wof:geomhash":"7a6713a503cd7720f877f18b2f5c8ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -498,7 +500,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938287,
+    "wof:lastmodified":1695884673,
     "wof:name":"Gwangju",
     "wof:parent_id":85632231,
     "wof:placetype":"region",

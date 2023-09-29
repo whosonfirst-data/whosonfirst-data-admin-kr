@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062723,
-    "geom:area_square_m":621065754.098066,
+    "geom:area_square_m":621065515.566206,
     "geom:bbox":"126.320158,36.602859,126.656023,37.027889",
     "geom:latitude":36.796302,
     "geom:longitude":126.470371,
@@ -166,14 +166,16 @@
     "wof:concordances":{
         "gn:id":1835889,
         "gp:id":28289289,
+        "meso:local_id":"34050",
         "qs_pg:id":1115384
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054016,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52797262e9ddde67b920ab5a8ea658ff",
+    "wof:geomhash":"5242dddd1a439102e4c937302e29c0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +185,7 @@
         }
     ],
     "wof:id":890475035,
-    "wof:lastmodified":1619481392,
+    "wof:lastmodified":1695886628,
     "wof:name":"Seosan",
     "wof:parent_id":85673203,
     "wof:placetype":"county",

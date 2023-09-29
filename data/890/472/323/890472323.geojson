@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058524,
-    "geom:area_square_m":592855896.156561,
+    "geom:area_square_m":592855892.039725,
     "geom:bbox":"126.517059,34.867484,126.900038,35.115877",
     "geom:latitude":34.990135,
     "geom:longitude":126.724914,
@@ -226,16 +226,18 @@
     "wof:concordances":{
         "gn:id":1840535,
         "gp:id":28289249,
+        "meso:local_id":"36040",
         "qs_pg:id":356114,
         "wd:id":"Q42083",
         "wk:page":"Naju"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053890,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f40b8ca4e22b9b872113ff3538afa01d",
+    "wof:geomhash":"837ecab1979aa2f5d4458465ad27a8da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -245,7 +247,7 @@
         }
     ],
     "wof:id":890472323,
-    "wof:lastmodified":1690938334,
+    "wof:lastmodified":1695886631,
     "wof:name":"Naju",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

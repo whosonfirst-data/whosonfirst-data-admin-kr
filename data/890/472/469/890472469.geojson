@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071764,
-    "geom:area_square_m":721953402.375045,
+    "geom:area_square_m":721953336.519586,
     "geom:bbox":"127.586132,35.315509,127.880414,35.777085",
     "geom:latitude":35.551948,
     "geom:longitude":127.722866,
@@ -153,16 +153,18 @@
     "wof:concordances":{
         "gn:id":1844532,
         "gp:id":28289200,
+        "meso:local_id":"38380",
         "qs_pg:id":245451,
         "wd:id":"Q50339",
         "wk:page":"Hamyang County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053901,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cd80a95771003126e20f70af57a65506",
+    "wof:geomhash":"c9c4281daeb6da76be6a27d49694a82e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":890472469,
-    "wof:lastmodified":1690938337,
+    "wof:lastmodified":1695886632,
     "wof:name":"Hamyang",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

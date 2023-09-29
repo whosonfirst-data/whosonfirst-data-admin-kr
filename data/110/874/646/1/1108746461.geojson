@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053018,
-    "geom:area_square_m":536906920.998447,
+    "geom:area_square_m":536906783.419592,
     "geom:bbox":"128.103699,34.875416,128.50209,35.13328",
     "geom:latitude":35.016579,
     "geom:longitude":128.295203,
@@ -83,10 +83,13 @@
         85673215
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"38340"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154713,
-    "wof:geomhash":"1dbed0beb4caa361a4f0b7c5573d5d7a",
+    "wof:geomhash":"9d89bdf89b652fb2f37e6ee0c69a2c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108746461,
-    "wof:lastmodified":1627522304,
+    "wof:lastmodified":1695886769,
     "wof:name":"Goseong",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

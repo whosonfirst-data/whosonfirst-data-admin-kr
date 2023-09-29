@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073649,
-    "geom:area_square_m":735205495.448713,
+    "geom:area_square_m":735205113.65237,
     "geom:bbox":"128.989048,36.016272,129.432052,36.333288",
     "geom:latitude":36.166435,
     "geom:longitude":129.235167,
@@ -116,10 +116,13 @@
         85673233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"37012"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154709,
-    "wof:geomhash":"1ed56d83818ecbce90622fa504c0f3b4",
+    "wof:geomhash":"cda084b7ccd1d9fd24180c96f700003f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108746427,
-    "wof:lastmodified":1619481384,
+    "wof:lastmodified":1695886624,
     "wof:name":"Buk",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

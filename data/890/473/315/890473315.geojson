@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004758,
-    "geom:area_square_m":48311427.056998,
+    "geom:area_square_m":48311437.28225,
     "geom:bbox":"126.289528,34.745419,126.463459,34.846606",
     "geom:latitude":34.804331,
     "geom:longitude":126.386626,
@@ -156,15 +156,17 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289245,
+        "meso:local_id":"36010",
         "qs_pg:id":493557,
         "wd:id":"Q50262"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053948,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3389e1b5330212f2b026d60f690985dd",
+    "wof:geomhash":"6265597471263d431e65c2b0d01cfd89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":890473315,
-    "wof:lastmodified":1690938346,
+    "wof:lastmodified":1695886737,
     "wof:name":"Mokpo",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

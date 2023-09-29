@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045115,
-    "geom:area_square_m":451217124.192375,
+    "geom:area_square_m":451216949.838241,
     "geom:bbox":"128.287558,35.888651,128.642097,36.122844",
     "geom:latitude":36.017134,
     "geom:longitude":128.464935,
@@ -157,16 +157,18 @@
     "wof:concordances":{
         "gn:id":1846148,
         "gp:id":28289136,
+        "meso:local_id":"37390",
         "qs_pg:id":25532,
         "wd:id":"Q50334",
         "wk:page":"Chilgok County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054027,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1b4cc7fee36a18febe1717c7da8d1c07",
+    "wof:geomhash":"9ff922aca838821a88229485c2988465",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":890475279,
-    "wof:lastmodified":1690938324,
+    "wof:lastmodified":1695886767,
     "wof:name":"Chilgok",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059458,
-    "geom:area_square_m":598924126.301973,
+    "geom:area_square_m":598923703.398816,
     "geom:bbox":"126.425392,35.302468,126.774447,35.576987",
     "geom:latitude":35.448705,
     "geom:longitude":126.616946,
@@ -147,16 +147,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289171,
+        "meso:local_id":"35370",
         "qs_pg:id":400704,
         "wd:id":"Q50210",
         "wk:page":"Gochang County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054036,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f18fce633299f29dfe30d302704c45b",
+    "wof:geomhash":"0edd104e4792acbc1c296e88a505012a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":890475485,
-    "wof:lastmodified":1690938318,
+    "wof:lastmodified":1695886627,
     "wof:name":"Gochang",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

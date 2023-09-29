@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003754,
-    "geom:area_square_m":36874325.954324,
+    "geom:area_square_m":36874498.884209,
     "geom:bbox":"126.873255,37.354047,126.951193,37.45321",
     "geom:latitude":37.404781,
     "geom:longitude":126.912659,
@@ -68,10 +68,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31041"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154641,
-    "wof:geomhash":"c0981274b4794423f65f5c977dc0436e",
+    "wof:geomhash":"f906bc22b6126d81e0c8c5a4da4f0307",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108746383,
-    "wof:lastmodified":1627522306,
+    "wof:lastmodified":1695886770,
     "wof:name":"Manan",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

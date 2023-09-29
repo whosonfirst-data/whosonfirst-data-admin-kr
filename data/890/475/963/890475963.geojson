@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065183,
-    "geom:area_square_m":635087197.915057,
+    "geom:area_square_m":635087456.732104,
     "geom:bbox":"128.405685,37.861997,128.810445,38.167337",
     "geom:latitude":38.005493,
     "geom:longitude":128.596573,
@@ -162,16 +162,18 @@
     "wof:concordances":{
         "gn:id":1832808,
         "gp:id":28289316,
+        "meso:local_id":"32410",
         "qs_pg:id":392722,
         "wd:id":"Q50254",
         "wk:page":"Yangyang County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054056,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46f76ef265bc488d3df08e8ba78dd2ea",
+    "wof:geomhash":"36a0c1bc4e6001d5aed86ea823bcce31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -181,7 +183,7 @@
         }
     ],
     "wof:id":890475963,
-    "wof:lastmodified":1690938317,
+    "wof:lastmodified":1695886771,
     "wof:name":"Yangyang",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

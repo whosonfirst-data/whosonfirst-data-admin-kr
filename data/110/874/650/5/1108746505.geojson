@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007234,
-    "geom:area_square_m":72804873.939915,
+    "geom:area_square_m":72804861.938161,
     "geom:bbox":"129.243779,35.459526,129.387924,35.557813",
     "geom:latitude":35.516689,
     "geom:longitude":129.328533,
@@ -71,10 +71,13 @@
         85673231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"26020"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154718,
-    "wof:geomhash":"a66ac62e952889c2505d93b8d0e2bdc1",
+    "wof:geomhash":"cb14d0e18b802edff5cb6ac61dadb154",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108746505,
-    "wof:lastmodified":1627522306,
+    "wof:lastmodified":1695886770,
     "wof:name":"Nam",
     "wof:parent_id":85673231,
     "wof:placetype":"county",

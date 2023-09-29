@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101871,
-    "geom:area_square_m":999208512.077916,
+    "geom:area_square_m":999208435.368152,
     "geom:bbox":"127.761523,37.303083,128.304988,37.681405",
     "geom:latitude":37.510429,
     "geom:longitude":128.078336,
@@ -150,16 +150,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289203,
+        "meso:local_id":"32320",
         "qs_pg:id":965395,
         "wd:id":"Q50347",
         "wk:page":"Hoengseong County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053959,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c7a13871f6a1e004b5ceec28444bc60",
+    "wof:geomhash":"e3016f4e3beb3acb5592529d559ef8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":890473623,
-    "wof:lastmodified":1690938349,
+    "wof:lastmodified":1695886635,
     "wof:name":"Hoengseong",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

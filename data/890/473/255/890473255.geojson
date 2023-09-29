@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003543,
-    "geom:area_square_m":34757192.290156,
+    "geom:area_square_m":34757009.027429,
     "geom:bbox":"127.066624,37.466184,127.165728,37.546274",
     "geom:latitude":37.505821,
     "geom:longitude":127.116212,
@@ -149,16 +149,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8349536,
+        "meso:local_id":"11240",
         "qs_pg:id":381669,
         "wd:id":"Q50415",
         "wk:page":"Songpa District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053946,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe4816e3eab67464a5d78126aeae0fe3",
+    "wof:geomhash":"48bf05d0d8b310ad56c0fc789576c4ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":890473255,
-    "wof:lastmodified":1690938352,
+    "wof:lastmodified":1695886634,
     "wof:name":"Songpa",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

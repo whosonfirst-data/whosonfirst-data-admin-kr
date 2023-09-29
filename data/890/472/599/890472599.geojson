@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079173,
-    "geom:area_square_m":781905964.404492,
+    "geom:area_square_m":781906161.119365,
     "geom:bbox":"128.218975,36.80091,128.650951,37.160667",
     "geom:latitude":36.995413,
     "geom:longitude":128.389801,
@@ -165,16 +165,18 @@
     "wof:concordances":{
         "gn:id":1834820,
         "gp:id":28289144,
+        "meso:local_id":"33380",
         "qs_pg:id":1250809,
         "wd:id":"Q50220",
         "wk:page":"Danyang County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053910,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28e31df9139f7072d56e5e621a1844a7",
+    "wof:geomhash":"221ccb084b6b294b05a66defc288300c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":890472599,
-    "wof:lastmodified":1690938335,
+    "wof:lastmodified":1695886767,
     "wof:name":"Danyang",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042007,
-    "geom:area_square_m":425334525.492871,
+    "geom:area_square_m":425334500.383843,
     "geom:bbox":"127.52667,34.885361,127.797058,35.183372",
     "geom:latitude":35.030124,
     "geom:longitude":127.651533,
@@ -240,16 +240,18 @@
     "wof:concordances":{
         "gn:id":1841773,
         "gp:id":28289193,
+        "meso:local_id":"36060",
         "qs_pg:id":351263,
         "wd:id":"Q42067",
         "wk:page":"Gwangyang"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053887,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65784e1e1b8a34aa61fc0a4e1c564bfa",
+    "wof:geomhash":"0d173358d1624d464b3eb258939330cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -259,7 +261,7 @@
         }
     ],
     "wof:id":890472247,
-    "wof:lastmodified":1690938337,
+    "wof:lastmodified":1695886632,
     "wof:name":"Gwangyang",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

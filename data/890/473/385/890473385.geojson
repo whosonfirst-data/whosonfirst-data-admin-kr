@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079214,
-    "geom:area_square_m":786090011.7668,
+    "geom:area_square_m":786089662.3399,
     "geom:bbox":"127.27857,36.406108,127.771135,36.78228",
     "geom:latitude":36.626052,
     "geom:longitude":127.506882,
@@ -144,16 +144,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289134,
+        "meso:local_id":"33310",
         "qs_pg:id":22276,
         "wd:id":"Q50333",
         "wk:page":"Cheongwon County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053951,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d8e547b8a98ed7bad59b489243fb99a9",
+    "wof:geomhash":"9fe896e81ec649d6bebfd15a73e1c319",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":890473385,
-    "wof:lastmodified":1690938346,
+    "wof:lastmodified":1695886634,
     "wof:name":"Cheongwon",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

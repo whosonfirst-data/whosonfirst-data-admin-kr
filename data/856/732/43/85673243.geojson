@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047148,
-    "geom:area_square_m":468271012.258834,
+    "geom:area_square_m":468270917.463047,
     "geom:bbox":"127.132586,36.407688,127.41156,36.734523",
     "geom:latitude":36.561954,
     "geom:longitude":127.259662,
@@ -181,14 +181,16 @@
         "gn:id":8394437,
         "gp:id":-2345973,
         "hasc:id":"KR.SJ",
+        "iso:code":"KR-50",
         "iso:id":"KR-50",
         "unlc:id":"KR-50"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95650de3ce34dbce67bd6fb252517ef7",
+    "wof:geomhash":"9b1e93e8448e983091a0dbc3f2bb1b57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -203,7 +205,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1636497459,
+    "wof:lastmodified":1695884852,
     "wof:name":"Sejong",
     "wof:parent_id":85632231,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00259,
-    "geom:area_square_m":25362472.306924,
+    "geom:area_square_m":25362369.154797,
     "geom:bbox":"126.980452,37.608665,127.049368,37.68562",
     "geom:latitude":37.643683,
     "geom:longitude":127.01193,
@@ -151,16 +151,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1836339,
+        "meso:local_id":"11090",
         "qs_pg:id":372362,
         "wd:id":"Q50349",
         "wk:page":"Gangbuk District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053945,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a419d60689f6db061c646ef61b331db",
+    "wof:geomhash":"1cba11e3179cfea4afbfd525cc1a69b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":890473235,
-    "wof:lastmodified":1690938343,
+    "wof:lastmodified":1695886633,
     "wof:name":"Gangbuk",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

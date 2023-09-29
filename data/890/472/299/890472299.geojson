@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001621,
-    "geom:area_square_m":15895926.037432,
+    "geom:area_square_m":15895954.991858,
     "geom:bbox":"126.822697,37.505599,126.892754,37.550717",
     "geom:latitude":37.526132,
     "geom:longitude":126.858771,
@@ -148,16 +148,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8349533,
+        "meso:local_id":"11150",
         "qs_pg:id":1155774,
         "wd:id":"Q50420",
         "wk:page":"Yangcheon District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053889,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7fb98b966a7681dbb56c699a7aa697d3",
+    "wof:geomhash":"f983f8f59f148fb717f03180ccb69656",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":890472299,
-    "wof:lastmodified":1690938338,
+    "wof:lastmodified":1695886632,
     "wof:name":"Yangcheon",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

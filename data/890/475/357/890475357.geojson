@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007789,
-    "geom:area_square_m":76417260.943341,
+    "geom:area_square_m":76417316.710547,
     "geom:bbox":"130.800385,37.447918,130.950394,37.546223",
     "geom:latitude":37.497194,
     "geom:longitude":130.871524,
@@ -159,16 +159,18 @@
     "wof:concordances":{
         "gn:id":1833753,
         "gp:id":28289340,
+        "meso:local_id":"37430",
         "qs_pg:id":1184292,
         "wd:id":"Q485570",
         "wk:page":"Ulleung County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054031,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9802cdcd1be41015d2f4796f1896858b",
+    "wof:geomhash":"759869f4feee6cbb0cc4989ddcb7c477",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":890475357,
-    "wof:lastmodified":1690938322,
+    "wof:lastmodified":1695886771,
     "wof:name":"Ulleung",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

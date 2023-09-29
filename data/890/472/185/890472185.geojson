@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005848,
-    "geom:area_square_m":59168309.984318,
+    "geom:area_square_m":59168204.785889,
     "geom:bbox":"126.762298,35.050889,126.928996,35.155595",
     "geom:latitude":35.093733,
     "geom:longitude":126.857263,
@@ -271,16 +271,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462135,
+        "meso:local_id":"24030",
         "qs_pg:id":1246292,
         "wd:id":"Q400172",
         "wk:page":"Nam-gu"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053885,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2a3ecdce6d90fb7841fe13e5b7bed221",
+    "wof:geomhash":"b1d37109f9aa148c7b67c18cf1b4690c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -290,7 +292,7 @@
         }
     ],
     "wof:id":890472185,
-    "wof:lastmodified":1619481395,
+    "wof:lastmodified":1695886632,
     "wof:name":"Nam",
     "wof:parent_id":85673199,
     "wof:placetype":"county",

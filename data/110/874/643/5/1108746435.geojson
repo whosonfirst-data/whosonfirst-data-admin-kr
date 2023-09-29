@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008616,
-    "geom:area_square_m":85497078.714673,
+    "geom:area_square_m":85497171.550723,
     "geom:bbox":"127.366821,36.577524,127.500897,36.688405",
     "geom:latitude":36.633146,
     "geom:longitude":127.434517,
@@ -65,10 +65,13 @@
         85673173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"33012"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154710,
-    "wof:geomhash":"6e463ae22d3dae7d19f74d71e6efc10d",
+    "wof:geomhash":"0c3320f9a28f8c0c99ee02315641e00f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746435,
-    "wof:lastmodified":1627522304,
+    "wof:lastmodified":1695886769,
     "wof:name":"Heungdeok",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

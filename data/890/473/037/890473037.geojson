@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07476,
-    "geom:area_square_m":760970608.729941,
+    "geom:area_square_m":760970248.244276,
     "geom:bbox":"127.082031,34.366222,127.548721,34.830358",
     "geom:latitude":34.595365,
     "geom:longitude":127.320098,
@@ -147,16 +147,18 @@
     "wof:concordances":{
         "gn:id":1842780,
         "gp:id":28289173,
+        "meso:local_id":"36350",
         "qs_pg:id":276643,
         "wd:id":"Q50211",
         "wk:page":"Goheung County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053936,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37f1f52a3a40aa10a83265a102f27f49",
+    "wof:geomhash":"6cce42057f6c717b99bb71adf9f0a0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":890473037,
-    "wof:lastmodified":1690938345,
+    "wof:lastmodified":1695886633,
     "wof:name":"Goheung",
     "wof:parent_id":85673219,
     "wof:placetype":"county",

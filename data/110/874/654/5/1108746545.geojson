@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008594,
-    "geom:area_square_m":84568811.064846,
+    "geom:area_square_m":84568748.137323,
     "geom:bbox":"127.065207,37.213667,127.17892,37.329646",
     "geom:latitude":37.269183,
     "geom:longitude":127.123451,
@@ -65,10 +65,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31192"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154723,
-    "wof:geomhash":"270c09f284922596fc0e96283c83bceb",
+    "wof:geomhash":"2b56036eca094048ae17bf7bcb6ed380",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746545,
-    "wof:lastmodified":1627522304,
+    "wof:lastmodified":1695886769,
     "wof:name":"Giheung",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

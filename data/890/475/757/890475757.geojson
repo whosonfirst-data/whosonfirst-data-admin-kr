@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069364,
-    "geom:area_square_m":696748749.868955,
+    "geom:area_square_m":696748599.012819,
     "geom:bbox":"128.526078,35.5661,129.049589,35.844806",
     "geom:latitude":35.673867,
     "geom:longitude":128.785788,
@@ -154,16 +154,18 @@
     "wof:concordances":{
         "gn:id":1845685,
         "gp:id":28289131,
+        "meso:local_id":"37360",
         "qs_pg:id":335700,
         "wd:id":"Q50330",
         "wk:page":"Cheongdo County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054048,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"688c42304285f2e113fc6ae77cb57a6c",
+    "wof:geomhash":"32ff179916445e39f932c96ca2be205e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":890475757,
-    "wof:lastmodified":1690938322,
+    "wof:lastmodified":1695886767,
     "wof:name":"Cheongdo",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024259,
-    "geom:area_square_m":245313837.806244,
+    "geom:area_square_m":245313940.706545,
     "geom:bbox":"128.349487,35.052055,128.665324,35.221133",
     "geom:latitude":35.134928,
     "geom:longitude":128.488877,
@@ -65,10 +65,13 @@
         85673215
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"38113"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154717,
-    "wof:geomhash":"e1ba7902d532209b36e4e32e4f97e2c8",
+    "wof:geomhash":"085eb70ee4a9eadf2113fca1e3e8ce86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746491,
-    "wof:lastmodified":1627522306,
+    "wof:lastmodified":1695886770,
     "wof:name":"Masanhappo",
     "wof:parent_id":85673215,
     "wof:placetype":"county",

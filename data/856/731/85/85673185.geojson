@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06134,
-    "geom:area_square_m":601317280.680825,
+    "geom:area_square_m":601317350.820797,
     "geom:bbox":"126.769815,37.42764,127.186828,37.703621",
     "geom:latitude":37.552538,
     "geom:longitude":126.996127,
@@ -790,12 +790,14 @@
         "gn:id":1835847,
         "gp:id":20069923,
         "hasc:id":"KR.SO",
+        "iso:code":"KR-11",
         "iso:id":"KR-11",
         "loc:id":"n79066627",
         "qs_pg:id":892916,
         "wd:id":"Q8684",
         "wk:page":"Seoul"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         102026327
     ],
@@ -803,7 +805,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa32acd020be6f729e4e74bed20ca7e2",
+    "wof:geomhash":"2ed3ec0d43e76aec0625065d39f4b6db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -818,7 +820,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938287,
+    "wof:lastmodified":1695884673,
     "wof:name":"Seoul",
     "wof:parent_id":85632231,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047372,
-    "geom:area_square_m":466548982.01184,
+    "geom:area_square_m":466549145.35193,
     "geom:bbox":"127.108922,37.083966,127.429513,37.3619",
     "geom:latitude":37.204009,
     "geom:longitude":127.25463,
@@ -65,10 +65,13 @@
         85673191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"31191"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154723,
-    "wof:geomhash":"e3c02c952f7883201a43719290aca9df",
+    "wof:geomhash":"91941e901b2f52fe38fb73fdd8370920",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746543,
-    "wof:lastmodified":1627522303,
+    "wof:lastmodified":1695886768,
     "wof:name":"Cheoin",
     "wof:parent_id":85673191,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005008,
-    "geom:area_square_m":50648998.832313,
+    "geom:area_square_m":50648998.855534,
     "geom:bbox":"126.908074,35.070889,127.001736,35.167231",
     "geom:latitude":35.117879,
     "geom:longitude":126.950387,
@@ -153,14 +153,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8462137,
+        "meso:local_id":"24010",
         "qs_pg:id":209115
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053881,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"22e8e0cd121f42538f0cd398bb026ab7",
+    "wof:geomhash":"ff6b62c076e849f5d8db4c889f7d0995",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":890472095,
-    "wof:lastmodified":1636497473,
+    "wof:lastmodified":1695886737,
     "wof:name":"Dong",
     "wof:parent_id":85673199,
     "wof:placetype":"county",

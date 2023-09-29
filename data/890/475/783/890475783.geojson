@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04423,
-    "geom:area_square_m":444304623.6696,
+    "geom:area_square_m":444305220.512278,
     "geom:bbox":"126.07122,35.565007,126.83996,35.889584",
     "geom:latitude":35.669364,
     "geom:longitude":126.635784,
@@ -142,16 +142,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289116,
+        "meso:local_id":"35380",
         "qs_pg:id":1264390,
         "wd:id":"Q50246",
         "wk:page":"Buan County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054050,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"00e87cc48cdb9099264cc353aba8bc7c",
+    "wof:geomhash":"d134dd0a5a2a5ff13576fdc2f5bfc93c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":890475783,
-    "wof:lastmodified":1690938320,
+    "wof:lastmodified":1695886628,
     "wof:name":"Buan",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

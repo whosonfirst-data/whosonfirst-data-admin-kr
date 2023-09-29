@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08259,
-    "geom:area_square_m":818829164.39703,
+    "geom:area_square_m":818829654.564386,
     "geom:bbox":"128.982639,36.493866,129.315612,36.882678",
     "geom:latitude":36.698021,
     "geom:longitude":129.146564,
@@ -144,16 +144,18 @@
     "wof:concordances":{
         "gn:id":8419823,
         "gp:id":28289331,
+        "meso:local_id":"37340",
         "qs_pg:id":988866,
         "wd:id":"Q50263",
         "wk:page":"Yeongyang County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053962,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b398fde95b30984d2d80fccd00e71f38",
+    "wof:geomhash":"27744bf51325db5be8521f02bb9237ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":890473713,
-    "wof:lastmodified":1690938346,
+    "wof:lastmodified":1695886771,
     "wof:name":"Yeongyang",
     "wof:parent_id":85673233,
     "wof:placetype":"county",

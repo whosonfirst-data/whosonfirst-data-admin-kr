@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088816,
-    "geom:area_square_m":873504788.722638,
+    "geom:area_square_m":873504688.549229,
     "geom:bbox":"127.742978,37.144224,128.222345,37.507702",
     "geom:latitude":37.309284,
     "geom:longitude":127.932249,
@@ -176,14 +176,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289310,
+        "meso:local_id":"32020",
         "qs_pg:id":348876
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053942,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"96461bad0bcc6e163cf102755d567596",
+    "wof:geomhash":"7a9f73df08fa1292bbbb0f0841d2bd63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -193,7 +195,7 @@
         }
     ],
     "wof:id":890473183,
-    "wof:lastmodified":1636497474,
+    "wof:lastmodified":1695886737,
     "wof:name":"Wonju",
     "wof:parent_id":85673181,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085464,
-    "geom:area_square_m":846510539.902711,
+    "geom:area_square_m":846510453.468059,
     "geom:bbox":"127.620976,36.601877,128.074578,36.948873",
     "geom:latitude":36.771083,
     "geom:longitude":127.830461,
@@ -165,16 +165,18 @@
     "wof:concordances":{
         "gn:id":1842799,
         "gp:id":28289172,
+        "meso:local_id":"33360",
         "qs_pg:id":1001642,
         "wd:id":"Q50213",
         "wk:page":"Goesan County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053971,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8bb0b46507b0decc6b663ba9595bbc44",
+    "wof:geomhash":"7b31df18261537c5145708c63bbe662a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":890473945,
-    "wof:lastmodified":1690938354,
+    "wof:lastmodified":1695886768,
     "wof:name":"Goesan",
     "wof:parent_id":85673173,
     "wof:placetype":"county",

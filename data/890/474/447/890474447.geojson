@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003971,
-    "geom:area_square_m":38952506.156219,
+    "geom:area_square_m":38952665.684443,
     "geom:bbox":"127.014615,37.457786,127.126302,37.546687",
     "geom:latitude":37.498869,
     "geom:longitude":127.062491,
@@ -270,16 +270,18 @@
     "wof:concordances":{
         "gn:id":1843140,
         "gp:id":28289163,
+        "meso:local_id":"11230",
         "qs_pg:id":897178,
         "wd:id":"Q20398",
         "wk:page":"Gangnam District"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053989,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b398e11504b8258a63bab580874c4a2",
+    "wof:geomhash":"9fb9f576c079dbc36517329ea83eeea9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -289,7 +291,7 @@
         }
     ],
     "wof:id":890474447,
-    "wof:lastmodified":1690938356,
+    "wof:lastmodified":1695886635,
     "wof:name":"Gangnam",
     "wof:parent_id":85673185,
     "wof:placetype":"county",

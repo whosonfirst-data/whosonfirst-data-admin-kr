@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063284,
-    "geom:area_square_m":633549777.879523,
+    "geom:area_square_m":633549727.45968,
     "geom:bbox":"127.525663,35.787961,127.912258,36.071793",
     "geom:latitude":35.940546,
     "geom:longitude":127.713805,
@@ -137,15 +137,17 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28289247,
+        "meso:local_id":"35330",
         "qs_pg:id":1315020,
         "wd:id":"Q50242"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469053934,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"265f1419075fd203dc4ea86b71cbdf3d",
+    "wof:geomhash":"599f583a06aec6f8f1a761b42e9e4470",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":890472985,
-    "wof:lastmodified":1690938335,
+    "wof:lastmodified":1695886631,
     "wof:name":"Muju",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

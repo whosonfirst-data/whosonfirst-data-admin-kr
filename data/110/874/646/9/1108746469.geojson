@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011234,
-    "geom:area_square_m":112580289.487736,
+    "geom:area_square_m":112580167.599543,
     "geom:bbox":"126.996468,35.796483,127.23408,35.904379",
     "geom:latitude":35.859111,
     "geom:longitude":127.113999,
@@ -65,10 +65,13 @@
         85673195
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"35012"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1479154714,
-    "wof:geomhash":"3881035b6c854fe4e7e748e8d96404c3",
+    "wof:geomhash":"415bac33ac0e361e628d642f93a9641e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108746469,
-    "wof:lastmodified":1627522303,
+    "wof:lastmodified":1695886768,
     "wof:name":"Deokjin",
     "wof:parent_id":85673195,
     "wof:placetype":"county",

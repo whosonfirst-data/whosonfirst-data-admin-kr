@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105806,
-    "geom:area_square_m":1028725239.295132,
+    "geom:area_square_m":1028725031.712909,
     "geom:bbox":"127.432307,37.994268,127.914327,38.34919",
     "geom:latitude":38.159211,
     "geom:longitude":127.688418,
@@ -165,16 +165,18 @@
     "wof:concordances":{
         "gn:id":8393538,
         "gp:id":28289206,
+        "meso:local_id":"32370",
         "qs_pg:id":221226,
         "wd:id":"Q50346",
         "wk:page":"Hwacheon County"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"KR",
     "wof:created":1469054066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a363459c6a03c8ce0474c505960aba2",
+    "wof:geomhash":"40ee07903573db20be504d4d32abb64b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":890476187,
-    "wof:lastmodified":1690938312,
+    "wof:lastmodified":1695886769,
     "wof:name":"Hwacheon",
     "wof:parent_id":85673181,
     "wof:placetype":"county",
