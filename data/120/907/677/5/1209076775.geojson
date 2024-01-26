@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":6890636
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6891126
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"54de1ffad510da5cf9dd00a740bb1f7c",
     "wof:hierarchy":[
@@ -50,13 +55,15 @@
         }
     ],
     "wof:id":1209076775,
-    "wof:lastmodified":1566588034,
+    "wof:lastmodified":1706240328,
     "wof:name":"Yojin",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277150411
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"129.22569,35.52144,129.22569,35.52144",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc808\uace8"
@@ -44,7 +46,7 @@
         "gn:id":11093269
     },
     "wof:country":"KR",
-    "wof:geomhash":"d60bd629fc0db41300cc0096d85269f0",
+    "wof:geomhash":"00dfe07546fd27109fc2dffdb74b3169",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1293364311,
-    "wof:lastmodified":1566586884,
+    "wof:lastmodified":1706240328,
     "wof:name":"Jeolgol",
     "wof:parent_id":890474681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209288479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     129.22569,
-    35.52144000000001,
+    35.52144,
     129.22569,
-    35.52144000000001
+    35.52144
 ],
-  "geometry": {"coordinates":[129.22568999999999,35.52144000000001],"type":"Point"}
+  "geometry": {"coordinates":[129.22568999999999,35.52144],"type":"Point"}
 }

@@ -32,6 +32,11 @@
     "name:kor_x_preferred":[
         "\uae30\ub2a5"
     ],
+    "name:und_x_variant":[
+        "N\u016dng-dong",
+        "Kin\u016dng",
+        "Gineung"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11179446
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1842931
+        ]
     },
     "wof:country":"KR",
     "wof:geomhash":"d11c6374abbaf42f502a2c9eb76b0bb2",
@@ -55,13 +65,15 @@
         }
     ],
     "wof:id":1242759763,
-    "wof:lastmodified":1566589912,
+    "wof:lastmodified":1706240330,
     "wof:name":"Gineung",
     "wof:parent_id":890472323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243154153
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":127.60639,
     "gn:admin1_code":"6.0",
     "gn:asciiname":"Kwangsan-gol",
+    "gn:cc2":"KR",
     "gn:country_code":"KR",
     "gn:dem":286,
     "gn:feature_class":"P",
@@ -44,6 +45,11 @@
     "wof:concordances":{
         "gn:id":6367801
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1882277
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"c8ea570f976b48812ecb98ce39cedd1f",
     "wof:hierarchy":[
@@ -56,13 +62,15 @@
         }
     ],
     "wof:id":1259901699,
-    "wof:lastmodified":1566590343,
+    "wof:lastmodified":1706240330,
     "wof:name":"Kwangsan-gol",
     "wof:parent_id":890472419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344254513
+    ],
     "wof:tags":[]
 },
   "bbox": [

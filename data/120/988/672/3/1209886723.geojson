@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":11253119
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11249526
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"0e436cfe143edae6464674f8be8d7e65",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1209886723,
-    "wof:lastmodified":1566588521,
+    "wof:lastmodified":1706240328,
     "wof:name":"Sangyang",
     "wof:parent_id":1108746501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310076231
+    ],
     "wof:tags":[]
 },
   "bbox": [

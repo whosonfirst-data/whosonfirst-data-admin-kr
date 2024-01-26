@@ -10,6 +10,7 @@
     "geom:latitude":37.85271,
     "geom:longitude":126.81534,
     "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'aju-si",
     "gn:asciiname":"Bakkneungan",
     "gn:country_code":"KR",
     "gn:dem":25,
@@ -32,6 +33,9 @@
     "name:kor_x_preferred":[
         "\ubc16\ub2a5\uc548"
     ],
+    "name:und_x_variant":[
+        "Pakn\u016dngan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632231
@@ -39,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8616471
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1951607
+        ]
     },
     "wof:country":"KR",
     "wof:geomhash":"4422153eabdbd6886975b6a63bb19c06",
@@ -49,13 +58,15 @@
         }
     ],
     "wof:id":1209594563,
-    "wof:lastmodified":1566588319,
+    "wof:lastmodified":1706240328,
     "wof:name":"Bakkneungan",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293271235
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,13 @@
     "name:kor_x_preferred":[
         "\uac10\ud3ec"
     ],
+    "name:und_x_variant":[
+        "Kanho-ri",
+        "Kanpori",
+        "Kamp\u2019o-ri",
+        "Kamp\u2019o",
+        "Gampo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,8 +50,13 @@
     "wof:concordances":{
         "gn:id":11249717
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1843210
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"d9912c33f5caf1fd826c0d48d13488f1",
+    "wof:geomhash":"81ca88b86c3f3332600f53d8b428412a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +67,22 @@
         }
     ],
     "wof:id":1225815971,
-    "wof:lastmodified":1566590815,
+    "wof:lastmodified":1706240329,
     "wof:name":"Gampo",
     "wof:parent_id":890472443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326903929
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    129.50211000000002,
+    129.50211,
     35.80288,
-    129.50211000000002,
+    129.50211,
     35.80288
 ],
-  "geometry": {"coordinates":[129.50211000000002,35.80288],"type":"Point"}
+  "geometry": {"coordinates":[129.50210999999999,35.80288],"type":"Point"}
 }

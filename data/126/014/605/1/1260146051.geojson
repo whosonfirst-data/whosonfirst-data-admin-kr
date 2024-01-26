@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":11171299
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11169775
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"8cf308a539d971e9413dfc8fb7d4297f",
+    "wof:geomhash":"c0bbe018e8ff4fafcade48a9a7835710",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1260146051,
-    "wof:lastmodified":1566588781,
+    "wof:lastmodified":1706240330,
     "wof:name":"Sangchon",
     "wof:parent_id":890473197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343524063
+    ],
     "wof:tags":[]
 },
   "bbox": [
     126.72847,
-    35.23249000000001,
+    35.23249,
     126.72847,
-    35.23249000000001
+    35.23249
 ],
-  "geometry": {"coordinates":[126.72847,35.23249000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.72847,35.23249],"type":"Point"}
 }

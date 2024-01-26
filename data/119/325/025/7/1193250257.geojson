@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":6394516
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6394992
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"5dd08c6d13b0b1b118c1f10b19291da4",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1193250257,
-    "wof:lastmodified":1566588646,
+    "wof:lastmodified":1706240327,
     "wof:name":"Sinhong",
     "wof:parent_id":890475077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344238945
+    ],
     "wof:tags":[]
 },
   "bbox": [

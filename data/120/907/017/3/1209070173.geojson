@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":6395896
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6396115
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"e841427420166a3916b87b3f05bb611e",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209070173,
-    "wof:lastmodified":1566588033,
+    "wof:lastmodified":1706240327,
     "wof:name":"Josan",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225908193
+    ],
     "wof:tags":[]
 },
   "bbox": [

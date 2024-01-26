@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1833355
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11193907
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"e7736b51028912713e82bc8b95cc9937",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1225925987,
-    "wof:lastmodified":1566590610,
+    "wof:lastmodified":1706240329,
     "wof:name":"Woljeolli",
     "wof:parent_id":890473237,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310565131
+    ],
     "wof:tags":[]
 },
   "bbox": [

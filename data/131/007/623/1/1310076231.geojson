@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"129.49554,35.98363,129.49554,35.98363",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc0c1\uc591"
@@ -44,7 +46,7 @@
         "gn:id":11249526
     },
     "wof:country":"KR",
-    "wof:geomhash":"3d16bc78a6168b656586f543d1eeefb7",
+    "wof:geomhash":"f0677c69bd0443d983452f2c4bb2b8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1310076231,
-    "wof:lastmodified":1566589070,
+    "wof:lastmodified":1706240328,
     "wof:name":"Sangyang",
     "wof:parent_id":1108746501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209886723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    129.49553999999998,
+    129.49554,
     35.98363,
-    129.49553999999998,
+    129.49554,
     35.98363
 ],
-  "geometry": {"coordinates":[129.49553999999998,35.98363],"type":"Point"}
+  "geometry": {"coordinates":[129.49554000000001,35.98363],"type":"Point"}
 }

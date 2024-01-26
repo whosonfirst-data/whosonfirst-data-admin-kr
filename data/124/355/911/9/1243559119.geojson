@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":6891725
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1843947
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"fd54ddfa333679af62d4bd39187e1f4d",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1243559119,
-    "wof:lastmodified":1566589871,
+    "wof:lastmodified":1706240330,
     "wof:name":"Hwanggan",
     "wof:parent_id":890473559,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343766729
+    ],
     "wof:tags":[]
 },
   "bbox": [

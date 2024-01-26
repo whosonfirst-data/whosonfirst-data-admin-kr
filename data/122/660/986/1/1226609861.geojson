@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":6901824
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6901837
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"aeae4ba214a38591887e5f2c77a98ddd",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226609861,
-    "wof:lastmodified":1566590762,
+    "wof:lastmodified":1706240329,
     "wof:name":"Hahoe",
     "wof:parent_id":890473177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310266355
+    ],
     "wof:tags":[]
 },
   "bbox": [

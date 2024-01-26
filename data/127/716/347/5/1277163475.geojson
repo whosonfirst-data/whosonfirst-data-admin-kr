@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":6799447
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1842929
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"c0cad9af63e7e4175ef70b39793b4243",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1277163475,
-    "wof:lastmodified":1566587987,
+    "wof:lastmodified":1706240331,
     "wof:name":"Gipiul",
     "wof:parent_id":890476053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360071427
+    ],
     "wof:tags":[]
 },
   "bbox": [

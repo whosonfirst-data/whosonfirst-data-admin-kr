@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1835114
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11118042
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"8cabb6dd7241b312e40c65839f92e474",
+    "wof:geomhash":"9950b6209a959dc80b86f208c3abfdf1",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -56,20 +61,22 @@
         }
     ],
     "wof:id":1209610243,
-    "wof:lastmodified":1566588301,
+    "wof:lastmodified":1706240328,
     "wof:name":"Daesa Sam Gu",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209694363
+    ],
     "wof:tags":[]
 },
   "bbox": [
     128.9448,
-    35.21704000000001,
+    35.21704,
     128.9448,
-    35.21704000000001
+    35.21704
 ],
-  "geometry": {"coordinates":[128.94479999999999,35.21704000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.94479999999999,35.21704],"type":"Point"}
 }

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1834765
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6395106
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"84754a1c83536b6dc2c58b013f52178d",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259647517,
-    "wof:lastmodified":1566590349,
+    "wof:lastmodified":1706240330,
     "wof:name":"Doamni",
     "wof:parent_id":890472259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309969919
+    ],
     "wof:tags":[]
 },
   "bbox": [

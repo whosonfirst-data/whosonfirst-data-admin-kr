@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":6394505
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1836568
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"a5ac31c30a5b27b73fd9f325f5107508",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226506369,
-    "wof:lastmodified":1566590805,
+    "wof:lastmodified":1706240329,
     "wof:name":"Seojeong",
     "wof:parent_id":890475077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277159299
+    ],
     "wof:tags":[]
 },
   "bbox": [

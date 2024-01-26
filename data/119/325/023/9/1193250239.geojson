@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"126.47899,34.99014,126.47899,34.99014",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Muan-gun"
@@ -96,14 +98,16 @@
         }
     ],
     "wof:id":1193250239,
-    "wof:lastmodified":1566588645,
+    "wof:lastmodified":1706240327,
     "wof:name":"Muan",
     "wof:parent_id":890472363,
     "wof:placetype":"locality",
     "wof:population":75718,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-kr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102026543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
