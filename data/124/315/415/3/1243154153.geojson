@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"126.68355,34.99157,126.68355,34.99157",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uae30\ub2a5"
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":1243154153,
-    "wof:lastmodified":1566590018,
+    "wof:lastmodified":1706240329,
     "wof:name":"Gineung",
     "wof:parent_id":890472323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1242759763
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

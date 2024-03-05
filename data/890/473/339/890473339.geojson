@@ -35,14 +35,22 @@
     "qs:pop_sr":"0",
     "wof:belongsto":[
         102191569,
+        85673191,
         85632231,
-        1108746541,
-        85673191
+        1108746541
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28806760,
         "qs_pg:id":1334686
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28806759
+        ],
+        "qs_pg:id":[
+            1112765
+        ]
     },
     "wof:country":"KR",
     "wof:created":1469053949,
@@ -57,13 +65,17 @@
         }
     ],
     "wof:id":890473339,
-    "wof:lastmodified":1601423095,
+    "wof:lastmodified":1706240327,
     "wof:name":"Anyang-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890475323,
+        890475277,
+        890474979
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1840152
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1981776
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"aa6f8ba1815e7bf8804fbeec442fc1d6",
+    "wof:geomhash":"8c51bd288bd0b5f2b8898153443c2e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +64,22 @@
         }
     ],
     "wof:id":1276190763,
-    "wof:lastmodified":1566587525,
+    "wof:lastmodified":1706240331,
     "wof:name":"Nodae",
     "wof:parent_id":890472185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309981801
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    126.90628999999998,
+    126.90629,
     35.09941,
-    126.90628999999998,
+    126.90629,
     35.09941
 ],
-  "geometry": {"coordinates":[126.90628999999998,35.09941],"type":"Point"}
+  "geometry": {"coordinates":[126.90629,35.09941],"type":"Point"}
 }

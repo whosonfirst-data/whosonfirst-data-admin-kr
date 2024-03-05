@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":10349225
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10349224
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"4a91073ba54945f4c380f0ea4371bd1d",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1260384503,
-    "wof:lastmodified":1566588805,
+    "wof:lastmodified":1706240331,
     "wof:name":"Gangjeong",
     "wof:parent_id":890473385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310494879
+    ],
     "wof:tags":[]
 },
   "bbox": [

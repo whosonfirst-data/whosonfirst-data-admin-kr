@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":11180352
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11180298
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"7b060f113f174cfb77801be05d1f5772",
+    "wof:geomhash":"fd2578a77837b6a2fc7088d7e7bd36fe",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -49,20 +54,22 @@
         }
     ],
     "wof:id":1209479075,
-    "wof:lastmodified":1566588237,
+    "wof:lastmodified":1706240328,
     "wof:name":"Wolsong",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293372043
+    ],
     "wof:tags":[]
 },
   "bbox": [
     126.70623,
-    35.07539000000001,
+    35.07539,
     126.70623,
-    35.07539000000001
+    35.07539
 ],
-  "geometry": {"coordinates":[126.70623000000001,35.07539000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.70623000000001,35.07539],"type":"Point"}
 }

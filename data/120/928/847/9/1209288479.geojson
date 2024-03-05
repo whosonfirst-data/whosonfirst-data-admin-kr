@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":11093132
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11093269
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"e654cec15e349f7253324a049da80828",
+    "wof:geomhash":"f45474cab1b89bf1e72e90fdd9d32b90",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -49,20 +54,22 @@
         }
     ],
     "wof:id":1209288479,
-    "wof:lastmodified":1566588509,
+    "wof:lastmodified":1706240328,
     "wof:name":"Jeolgol",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293364311
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    129.22413999999998,
+    129.22414,
     35.52251,
-    129.22413999999998,
+    129.22414,
     35.52251
 ],
-  "geometry": {"coordinates":[129.22413999999998,35.52251],"type":"Point"}
+  "geometry": {"coordinates":[129.22414000000001,35.52251],"type":"Point"}
 }

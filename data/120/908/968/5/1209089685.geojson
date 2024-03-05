@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1839897
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11269423
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"f5f7cf0b4d12dc261be4abbce4dc1bd3",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209089685,
-    "wof:lastmodified":1566588106,
+    "wof:lastmodified":1706240328,
     "wof:name":"Eohwa",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226733099
+    ],
     "wof:tags":[]
 },
   "bbox": [

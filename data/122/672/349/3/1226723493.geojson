@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":6895126
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6879128
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"4c7f86e1a8d23b47dec2e4dda9029fa6",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1226723493,
-    "wof:lastmodified":1566590623,
+    "wof:lastmodified":1706240329,
     "wof:name":"Paembak-kol",
     "wof:parent_id":890474963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259554153
+    ],
     "wof:tags":[]
 },
   "bbox": [

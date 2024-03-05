@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"126.55217,34.38639,126.55217,34.38639",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc11c\uc815"
@@ -52,7 +54,7 @@
         "gn:id":1836568
     },
     "wof:country":"KR",
-    "wof:geomhash":"ae490d269de5391616444e4cca41cb82",
+    "wof:geomhash":"d9c95ef95721a8df93ece701f2d9f9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1277159299,
-    "wof:lastmodified":1566587707,
+    "wof:lastmodified":1706240329,
     "wof:name":"Seojeong",
     "wof:parent_id":890475077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226506369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     126.55217,
-    34.38639000000001,
+    34.38639,
     126.55217,
-    34.38639000000001
+    34.38639
 ],
-  "geometry": {"coordinates":[126.55217,34.38639000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.55217,34.38639],"type":"Point"}
 }

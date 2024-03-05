@@ -32,6 +32,14 @@
     "name:kor_x_preferred":[
         "\uc0c1\ub2f5"
     ],
+    "name:kor_x_variant":[
+        "\uc0c1\ub2f5"
+    ],
+    "name:und_x_variant":[
+        "Sangdabiban",
+        "Puk i-ri",
+        "Sangdap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,8 +51,13 @@
     "wof:concordances":{
         "gn:id":1988702
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1884880
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"016593cfffbd83b8ec2325795b15cd1b",
+    "wof:geomhash":"02baf3508c7430f8dd2279c8cf9d782a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +68,22 @@
         }
     ],
     "wof:id":1327426085,
-    "wof:lastmodified":1566586130,
+    "wof:lastmodified":1706240331,
     "wof:name":"Sangdap",
     "wof:parent_id":890472377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344078655
+    ],
     "wof:tags":[]
 },
   "bbox": [
     128.35361,
-    38.01694000000001,
+    38.01694,
     128.35361,
-    38.01694000000001
+    38.01694
 ],
-  "geometry": {"coordinates":[128.35361,38.01694000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.35361,38.01694],"type":"Point"}
 }

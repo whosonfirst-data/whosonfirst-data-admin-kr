@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1837928
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1844349
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"4eecd2eb1977a312b9178b170940fd8f",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209982883,
-    "wof:lastmodified":1566588051,
+    "wof:lastmodified":1706240329,
     "wof:name":"Hasil-li",
     "wof:parent_id":890473345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259749581
+    ],
     "wof:tags":[]
 },
   "bbox": [

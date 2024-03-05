@@ -32,6 +32,11 @@
     "name:kor_x_preferred":[
         "\uc555\uc81c"
     ],
+    "name:und_x_variant":[
+        "Apche-ri",
+        "Apche",
+        "Apje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,8 +48,13 @@
     "wof:concordances":{
         "gn:id":11179330
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1846891
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"71416ec5ac8001d27afaf241da927501",
+    "wof:geomhash":"873a0611843672f088e1137a4fa7957a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +65,22 @@
         }
     ],
     "wof:id":1310287115,
-    "wof:lastmodified":1566589220,
+    "wof:lastmodified":1706240331,
     "wof:name":"Apje",
     "wof:parent_id":890472323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343533097
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    126.71871000000002,
+    126.71871,
     34.92688,
-    126.71871000000002,
+    126.71871,
     34.92688
 ],
-  "geometry": {"coordinates":[126.71871000000002,34.92688],"type":"Point"}
+  "geometry": {"coordinates":[126.71871,34.92688],"type":"Point"}
 }

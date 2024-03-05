@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":11079830
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11079257
+        ]
+    },
     "wof:country":"KR",
-    "wof:geomhash":"023a01050799ebd5918b82f9e4387b71",
+    "wof:geomhash":"3ecc64ff47fea27620bd08d026c8a625",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1260347471,
-    "wof:lastmodified":1566588933,
+    "wof:lastmodified":1706240330,
     "wof:name":"Saegakdan",
     "wof:parent_id":890474681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343620355
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    129.22973000000002,
+    129.22973,
     35.68685,
-    129.22973000000002,
+    129.22973,
     35.68685
 ],
-  "geometry": {"coordinates":[129.22973000000002,35.68685],"type":"Point"}
+  "geometry": {"coordinates":[129.22972999999999,35.68685],"type":"Point"}
 }

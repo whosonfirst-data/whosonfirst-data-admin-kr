@@ -32,6 +32,9 @@
     "name:kor_x_preferred":[
         "\uc815\ucd0c"
     ],
+    "name:und_x_variant":[
+        "Ch\u014fngch\u2019on"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632231
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11179341
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1845706
+        ]
     },
     "wof:country":"KR",
     "wof:geomhash":"fababf08ad16b53e579211f3b5d7fa52",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209386883,
-    "wof:lastmodified":1566588005,
+    "wof:lastmodified":1706240328,
     "wof:name":"Jeongchon",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242838249
+    ],
     "wof:tags":[]
 },
   "bbox": [

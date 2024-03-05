@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1897101
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8745801
+        ]
+    },
     "wof:country":"KR",
     "wof:geomhash":"384576a53197cbe86447b036d88ed044",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209193455,
-    "wof:lastmodified":1566588479,
+    "wof:lastmodified":1706240328,
     "wof:name":"Jeojeol",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326701453
+    ],
     "wof:tags":[]
 },
   "bbox": [
