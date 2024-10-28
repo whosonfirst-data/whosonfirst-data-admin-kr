@@ -20,10 +20,11 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Chungju-si"
+        "Chungju"
     ],
     "name:eng_x_variant":[
-        "Chungju"
+        "Chungju City",
+        "Chungju-si"
     ],
     "name:kor_x_preferred":[
         "\ucda9\uc8fc\uc2dc"
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673173,
-        890472255
+        890472255,
+        85673173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +62,8 @@
         }
     ],
     "wof:id":890473243,
-    "wof:lastmodified":1566589746,
-    "wof:name":"Chungju City",
+    "wof:lastmodified":1730094974,
+    "wof:name":"Chungju",
     "wof:parent_id":890472255,
     "wof:placetype":"localadmin",
     "wof:population":0,
