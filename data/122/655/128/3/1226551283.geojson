@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kaltam"
+    ],
+    "name:eng_x_variant":[
+        "Kaltam-ni"
+    ],
     "name:und_x_variant":[
         "Katsutan-ri",
         "Kattan-ri",
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890474645
+        890474645,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1843255
     },
     "wof:country":"KR",
-    "wof:geomhash":"3c923f4efd28fb6f98e13fbdbf8319a5",
+    "wof:geomhash":"0e2e5f5d868cd282d8e6eb5a9cda89bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1226551283,
-    "wof:lastmodified":1566590934,
-    "wof:name":"Kaltam-ni",
+    "wof:lastmodified":1730271549,
+    "wof:name":"Kaltam",
     "wof:parent_id":890474645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     127.16278,
-    35.53055999999999,
+    35.53056,
     127.16278,
-    35.53055999999999
+    35.53056
 ],
-  "geometry": {"coordinates":[127.16278,35.53055999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.16278,35.53056],"type":"Point"}
 }

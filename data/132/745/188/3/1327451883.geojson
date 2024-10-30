@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chuksong"
+    ],
+    "name:eng_x_variant":[
+        "Chuksong-ni"
+    ],
     "name:und_x_variant":[
         "Ch\u016dks\u014fng-ri",
         "Ch\u016dks\u014fng-ni"
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673227,
-        890472099
+        890472099,
+        85673227
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1894037
     },
     "wof:country":"KR",
-    "wof:geomhash":"3c120c2a233b200ded55c0b016d0e40c",
+    "wof:geomhash":"97cb2bde10a22bf04b4d7b1dbd6ac80c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1327451883,
-    "wof:lastmodified":1566586133,
-    "wof:name":"Chuksong-ni",
+    "wof:lastmodified":1730271515,
+    "wof:name":"Chuksong",
     "wof:parent_id":890472099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     129.24583,
-    35.24055999999999,
+    35.24056,
     129.24583,
-    35.24055999999999
+    35.24056
 ],
-  "geometry": {"coordinates":[129.24583000000001,35.24055999999999],"type":"Point"}
+  "geometry": {"coordinates":[129.24583000000001,35.24056],"type":"Point"}
 }

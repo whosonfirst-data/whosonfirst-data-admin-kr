@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Suyuil"
+    ],
+    "name:eng_x_variant":[
+        "Suyuil-tong"
+    ],
     "name:und_x_variant":[
         "\uc218\uc7201\ub3d9",
         "Suyuil-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673185,
-        890473235
+        890473235,
+        85673185
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6801369
     },
     "wof:country":"KR",
-    "wof:geomhash":"3e964fa3a4af7baee856cbeebb1bd43b",
+    "wof:geomhash":"70fb01f956482a3aaedbf8d038edfe37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293761179,
-    "wof:lastmodified":1566587076,
-    "wof:name":"Suyuil-tong",
+    "wof:lastmodified":1730271521,
+    "wof:name":"Suyuil",
     "wof:parent_id":890473235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.00873,
-    37.62954000000001,
+    37.62954,
     127.00873,
-    37.62954000000001
+    37.62954
 ],
-  "geometry": {"coordinates":[127.00873,37.62954000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.00873,37.62954],"type":"Point"}
 }

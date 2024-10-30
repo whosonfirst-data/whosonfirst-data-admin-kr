@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Koemong"
+    ],
+    "name:eng_x_variant":[
+        "Koemong-ni"
+    ],
     "name:und_x_variant":[
         "Koemok",
         "\uad34\ubaa9\ub9ac",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890472985
+        890472985,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1842808
     },
     "wof:country":"KR",
-    "wof:geomhash":"aacc1daea17f98b49c3f48fa97ba4fab",
+    "wof:geomhash":"c6c390ebfea43776bed9511c9f6c4c06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1193148407,
-    "wof:lastmodified":1566588640,
-    "wof:name":"Koemong-ni",
+    "wof:lastmodified":1730271532,
+    "wof:name":"Koemong",
     "wof:parent_id":890472985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     127.71714,
-    35.93617000000001,
+    35.93617,
     127.71714,
-    35.93617000000001
+    35.93617
 ],
-  "geometry": {"coordinates":[127.71714,35.93617000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.71714,35.93617],"type":"Point"}
 }

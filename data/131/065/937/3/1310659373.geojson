@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Samgwang"
+    ],
+    "name:eng_x_variant":[
+        "Samgwang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673231,
-        890474681
+        890474681,
+        85673231
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1894718
     },
     "wof:country":"KR",
-    "wof:geomhash":"66e765e845c3734ba59dd02781b88f8b",
+    "wof:geomhash":"6b5da0537e9f2cb32baea8030092b8e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1310659373,
-    "wof:lastmodified":1566589037,
-    "wof:name":"Samgwang-ni",
+    "wof:lastmodified":1730271535,
+    "wof:name":"Samgwang",
     "wof:parent_id":890474681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.23443999999998,
+    129.23444,
     35.44083,
-    129.23443999999998,
+    129.23444,
     35.44083
 ],
-  "geometry": {"coordinates":[129.23443999999998,35.44083],"type":"Point"}
+  "geometry": {"coordinates":[129.23444000000001,35.44083],"type":"Point"}
 }

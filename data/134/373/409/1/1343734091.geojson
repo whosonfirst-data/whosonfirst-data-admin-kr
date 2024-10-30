@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "An'gong"
+    ],
+    "name:eng_x_variant":[
+        "An'gong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890472323
+        890472323,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1885327
     },
     "wof:country":"KR",
-    "wof:geomhash":"ddfccdb8ec16b0fdf2d0128d6c04dfb2",
+    "wof:geomhash":"c967bb58a98eab6eb483fde600b8a113",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1343734091,
-    "wof:lastmodified":1566586728,
-    "wof:name":"An'gong-ni",
+    "wof:lastmodified":1730271519,
+    "wof:name":"An'gong",
     "wof:parent_id":890472323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.60056000000002,
+    126.60056,
     35.05444,
-    126.60056000000002,
+    126.60056,
     35.05444
 ],
-  "geometry": {"coordinates":[126.60056000000002,35.05444],"type":"Point"}
+  "geometry": {"coordinates":[126.60056,35.05444],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yusang"
+    ],
+    "name:eng_x_variant":[
+        "Yusang-ni"
+    ],
     "name:und_x_variant":[
         "\uc720\uc0c1\ub9ac",
         "Yusang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890474683
+        890474683,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6896141
     },
     "wof:country":"KR",
-    "wof:geomhash":"c185220cfce070ca5dcf1dc8432fece5",
+    "wof:geomhash":"eb11cd3aef848f20262a7755d91ae49c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1277075715,
-    "wof:lastmodified":1566587470,
-    "wof:name":"Yusang-ni",
+    "wof:lastmodified":1730271524,
+    "wof:name":"Yusang",
     "wof:parent_id":890474683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.26965,
-    35.83434000000001,
+    35.83434,
     127.26965,
-    35.83434000000001
+    35.83434
 ],
-  "geometry": {"coordinates":[127.26965,35.83434000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.26965,35.83434],"type":"Point"}
 }

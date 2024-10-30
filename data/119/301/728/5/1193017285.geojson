@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kamang"
+    ],
+    "name:eng_x_variant":[
+        "Kamang-ni"
+    ],
     "name:und_x_variant":[
         "\uac00\ub9c9\ub9ac",
         "Kamang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890472257
+        890472257,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6897064
     },
     "wof:country":"KR",
-    "wof:geomhash":"34e426bdecf2773103a185ab3604b949",
+    "wof:geomhash":"4a94047e440a39b77876383d50390c27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1193017285,
-    "wof:lastmodified":1566588596,
-    "wof:name":"Kamang-ni",
+    "wof:lastmodified":1730271532,
+    "wof:name":"Kamang",
     "wof:parent_id":890472257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.50688999999998,
-    35.80524000000001,
-    127.50688999999998,
-    35.80524000000001
+    127.50689,
+    35.80524,
+    127.50689,
+    35.80524
 ],
-  "geometry": {"coordinates":[127.50688999999998,35.80524000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.50689,35.80524],"type":"Point"}
 }

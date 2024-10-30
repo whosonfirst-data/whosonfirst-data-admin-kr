@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Nammok"
+    ],
+    "name:eng_x_variant":[
+        "Nammok-tong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673231,
-        1108746451
+        1108746451,
+        85673231
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1894550
     },
     "wof:country":"KR",
-    "wof:geomhash":"37b3e5946acb86a0c32847e473e21352",
+    "wof:geomhash":"35ea672b7705827c2678962137504c36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1309686121,
-    "wof:lastmodified":1566589558,
-    "wof:name":"Nammok-tong",
+    "wof:lastmodified":1730271539,
+    "wof:name":"Nammok",
     "wof:parent_id":1108746451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.42193999999998,
+    129.42194,
     35.53944,
-    129.42193999999998,
+    129.42194,
     35.53944
 ],
-  "geometry": {"coordinates":[129.42193999999998,35.53944],"type":"Point"}
+  "geometry": {"coordinates":[129.42194000000001,35.53944],"type":"Point"}
 }

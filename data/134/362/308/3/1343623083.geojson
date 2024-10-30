@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "P'yonghak"
+    ],
+    "name:eng_x_variant":[
+        "P'yonghak-tong"
+    ],
     "name:und_x_variant":[
         "\ud3c9\ud559\ub3d9",
         "P\u2019y\u014fnghak-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473177
+        890473177,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6904527
     },
     "wof:country":"KR",
-    "wof:geomhash":"180ee0f950a7b86ee11116696a6c1099",
+    "wof:geomhash":"bc76055a82cfff429f892fd2d680922d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1343623083,
-    "wof:lastmodified":1566586219,
-    "wof:name":"P'yonghak-tong",
+    "wof:lastmodified":1730271515,
+    "wof:name":"P'yonghak",
     "wof:parent_id":890473177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.05066000000002,
-    35.54575999999999,
-    128.05066000000002,
-    35.54575999999999
+    128.05066,
+    35.54576,
+    128.05066,
+    35.54576
 ],
-  "geometry": {"coordinates":[128.05066000000002,35.54575999999999],"type":"Point"}
+  "geometry": {"coordinates":[128.05065999999999,35.54576],"type":"Point"}
 }

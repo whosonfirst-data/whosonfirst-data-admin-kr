@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yonhuiil"
+    ],
+    "name:eng_x_variant":[
+        "Yonhuiil-tong"
+    ],
     "name:und_x_variant":[
         "\uc5f0\ud76c1\ub3d9",
         "Y\u014fnh\u016diil-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673185,
-        890472895
+        890472895,
+        85673185
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6800795
     },
     "wof:country":"KR",
-    "wof:geomhash":"ae4fd249f00b976e11080cae0d1d122c",
+    "wof:geomhash":"f455595f967b36bb8ea32db8d4a9d262",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293577287,
-    "wof:lastmodified":1566587162,
-    "wof:name":"Yonhuiil-tong",
+    "wof:lastmodified":1730271522,
+    "wof:name":"Yonhuiil",
     "wof:parent_id":890472895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     126.92452,
-    37.56939000000001,
+    37.56939,
     126.92452,
-    37.56939000000001
+    37.56939
 ],
-  "geometry": {"coordinates":[126.92452,37.56939000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.92452,37.56939],"type":"Point"}
 }

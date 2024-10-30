@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tonghang"
+    ],
+    "name:eng_x_variant":[
+        "Tonghang-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\ud56d\ub9ac"
     ],
@@ -47,7 +53,7 @@
         "gn:id":1834258
     },
     "wof:country":"KR",
-    "wof:geomhash":"16ead96204606bd80c85142d4472028b",
+    "wof:geomhash":"0031e391f1324ef63190787995185922",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1209092467,
-    "wof:lastmodified":1566587994,
-    "wof:name":"Tonghang-ni",
+    "wof:lastmodified":1730271527,
+    "wof:name":"Tonghang",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     127.20111,
-    37.07167000000001,
+    37.07167,
     127.20111,
-    37.07167000000001
+    37.07167
 ],
-  "geometry": {"coordinates":[127.20111,37.07167000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.20111,37.07167],"type":"Point"}
 }

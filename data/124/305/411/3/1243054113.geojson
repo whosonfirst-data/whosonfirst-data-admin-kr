@@ -32,6 +32,12 @@
     "name:ceb_x_preferred":[
         "Ipbuk-dong"
     ],
+    "name:eng_x_preferred":[
+        "Ippuk"
+    ],
+    "name:eng_x_variant":[
+        "Ippuk-tong"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u067e\u0628\u0648\u06a9-\u062f\u0648\u0646\u06af"
     ],
@@ -48,8 +54,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673191,
-        1108746527
+        1108746527,
+        85673191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +63,7 @@
         "wk:page":"Ipbuk-dong"
     },
     "wof:country":"KR",
-    "wof:geomhash":"a160e5f5f332ed33d98fb5184d3a7b4a",
+    "wof:geomhash":"ea16810e733502a060b731bf305459cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,8 +74,8 @@
         }
     ],
     "wof:id":1243054113,
-    "wof:lastmodified":1566590143,
-    "wof:name":"Ippuk-tong",
+    "wof:lastmodified":1730271543,
+    "wof:name":"Ippuk",
     "wof:parent_id":1108746527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.94861000000002,
+    126.94861,
     37.29,
-    126.94861000000002,
+    126.94861,
     37.29
 ],
-  "geometry": {"coordinates":[126.94861000000002,37.29],"type":"Point"}
+  "geometry": {"coordinates":[126.94861,37.29],"type":"Point"}
 }

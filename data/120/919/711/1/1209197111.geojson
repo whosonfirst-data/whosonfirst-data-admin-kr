@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Pugong"
+    ],
+    "name:eng_x_variant":[
+        "Pugong-ni"
+    ],
     "name:und_x_variant":[
         "\ubd80\uace1\ub9ac",
         "Pugong-ni"
@@ -42,7 +48,7 @@
         "gn:id":6900640
     },
     "wof:country":"KR",
-    "wof:geomhash":"0e1ffaa3d0d11db004c92ee7b890b0fd",
+    "wof:geomhash":"e010e0da9c4d172a051a5e8915103deb",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -50,8 +56,8 @@
         }
     ],
     "wof:id":1209197111,
-    "wof:lastmodified":1566588480,
-    "wof:name":"Pugong-ni",
+    "wof:lastmodified":1730271531,
+    "wof:name":"Pugong",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -61,9 +67,9 @@
 },
   "bbox": [
     128.4415,
-    35.85850999999999,
+    35.85851,
     128.4415,
-    35.85850999999999
+    35.85851
 ],
-  "geometry": {"coordinates":[128.44149999999999,35.85850999999999],"type":"Point"}
+  "geometry": {"coordinates":[128.44149999999999,35.85851],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Songgang"
+    ],
+    "name:eng_x_variant":[
+        "Songgang-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc1a1\uac15\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890473037
+        890473037,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1836265
     },
     "wof:country":"KR",
-    "wof:geomhash":"b401bd6599567d4ed95d7d8c4602eaa4",
+    "wof:geomhash":"507989a6db6c351764233b720d596d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1243345519,
-    "wof:lastmodified":1566590109,
-    "wof:name":"Songgang-ni",
+    "wof:lastmodified":1730271542,
+    "wof:name":"Songgang",
     "wof:parent_id":890473037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     127.31347,
-    34.75530999999999,
+    34.75531,
     127.31347,
-    34.75530999999999
+    34.75531
 ],
-  "geometry": {"coordinates":[127.31347,34.75530999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.31347,34.75531],"type":"Point"}
 }

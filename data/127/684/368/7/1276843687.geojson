@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Nogong"
+    ],
+    "name:eng_x_variant":[
+        "Nogong-ni"
+    ],
     "name:und_x_variant":[
         "Norusil",
         "Nogong-ni",
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890473179
+        890473179,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1889285
     },
     "wof:country":"KR",
-    "wof:geomhash":"a9c01e8fdd89d8cc9956678cd200a2c1",
+    "wof:geomhash":"005956102f6b510786677a78206a02c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1276843687,
-    "wof:lastmodified":1566587825,
-    "wof:name":"Nogong-ni",
+    "wof:lastmodified":1730271526,
+    "wof:name":"Nogong",
     "wof:parent_id":890473179,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.20528000000002,
+    128.20528,
     36.07,
-    128.20528000000002,
+    128.20528,
     36.07
 ],
-  "geometry": {"coordinates":[128.20528000000002,36.07],"type":"Point"}
+  "geometry": {"coordinates":[128.20527999999999,36.07],"type":"Point"}
 }

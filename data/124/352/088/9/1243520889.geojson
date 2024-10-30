@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sinjung"
+    ],
+    "name:eng_x_variant":[
+        "Sinjung-ni"
+    ],
     "name:und_x_variant":[
         "\uc2e0\uc815\ub3d9",
         "Sinjung-ni",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673203,
-        890475539
+        890475539,
+        85673203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1836961
     },
     "wof:country":"KR",
-    "wof:geomhash":"a0af56e8a1e62db38effcdc1c86c7d22",
+    "wof:geomhash":"5e6f169a9a116a8cc18db18b577d51fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243520889,
-    "wof:lastmodified":1566589862,
-    "wof:name":"Sinjung-ni",
+    "wof:lastmodified":1730271540,
+    "wof:name":"Sinjung",
     "wof:parent_id":890475539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     126.97687,
-    36.78214000000001,
+    36.78214,
     126.97687,
-    36.78214000000001
+    36.78214
 ],
-  "geometry": {"coordinates":[126.97687000000001,36.78214000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.97687000000001,36.78214],"type":"Point"}
 }

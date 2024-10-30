@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chung"
+    ],
+    "name:eng_x_variant":[
+        "Chung-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673227,
-        890472093
+        890472093,
+        85673227
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1979281
     },
     "wof:country":"KR",
-    "wof:geomhash":"7c9d7582d829ea0c83e9e34dd622aab1",
+    "wof:geomhash":"54804f70b71b7925f41e4f758565700e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1293877253,
-    "wof:lastmodified":1566587345,
-    "wof:name":"Chung-ni",
+    "wof:lastmodified":1730271523,
+    "wof:name":"Chung",
     "wof:parent_id":890472093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.92611000000002,
+    128.92611,
     35.1075,
-    128.92611000000002,
+    128.92611,
     35.1075
 ],
-  "geometry": {"coordinates":[128.92611000000002,35.1075],"type":"Point"}
+  "geometry": {"coordinates":[128.92610999999999,35.1075],"type":"Point"}
 }

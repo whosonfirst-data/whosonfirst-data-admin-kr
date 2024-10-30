@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ch'ogong"
+    ],
+    "name:eng_x_variant":[
+        "Ch'ogong-ni"
+    ],
     "name:und_x_variant":[
         "\ucd08\uace1\ub9ac",
         "Ch\u2019ogong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473621
+        890473621,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6898233
     },
     "wof:country":"KR",
-    "wof:geomhash":"a906f3be23f621136a3d6e89ab0c82d2",
+    "wof:geomhash":"bf92caefee1d5c31398f764eff530797",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1276296457,
-    "wof:lastmodified":1566587602,
-    "wof:name":"Ch'ogong-ni",
+    "wof:lastmodified":1730271525,
+    "wof:name":"Ch'ogong",
     "wof:parent_id":890473621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     128.49155,
-    35.50154000000001,
+    35.50154,
     128.49155,
-    35.50154000000001
+    35.50154
 ],
-  "geometry": {"coordinates":[128.49154999999999,35.50154000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.49154999999999,35.50154],"type":"Point"}
 }

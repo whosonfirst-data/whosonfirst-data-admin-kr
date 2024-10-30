@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sajong"
+    ],
+    "name:eng_x_variant":[
+        "Sajong-ni"
+    ],
     "name:und_x_variant":[
         "\uc0ac\uc815\ub9ac",
         "Saj\u014fng-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890474513
+        890474513,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6898643
     },
     "wof:country":"KR",
-    "wof:geomhash":"92b24c47bc30ef8ad686878b59993b35",
+    "wof:geomhash":"d47feca07eeed476d047939ada774079",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1277036389,
-    "wof:lastmodified":1566587726,
-    "wof:name":"Sajong-ni",
+    "wof:lastmodified":1730271526,
+    "wof:name":"Sajong",
     "wof:parent_id":890474513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.32828999999998,
+    128.32829,
     35.35385,
-    128.32828999999998,
+    128.32829,
     35.35385
 ],
-  "geometry": {"coordinates":[128.32828999999998,35.35385],"type":"Point"}
+  "geometry": {"coordinates":[128.32829000000001,35.35385],"type":"Point"}
 }

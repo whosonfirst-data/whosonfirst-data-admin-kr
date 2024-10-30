@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangmun"
+    ],
+    "name:eng_x_variant":[
+        "Sangmun-ni"
+    ],
     "name:und_x_variant":[
         "Sh\u014dbun-ri",
         "Sh\u014dbun",
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890475301
+        890475301,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1837686
     },
     "wof:country":"KR",
-    "wof:geomhash":"3f4fb37d582e9e494d5c402ce46073e8",
+    "wof:geomhash":"0b127bd2fc0b61bf7a1fdf792ed11990",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1310279349,
-    "wof:lastmodified":1566589163,
-    "wof:name":"Sangmun-ni",
+    "wof:lastmodified":1730271535,
+    "wof:name":"Sangmun",
     "wof:parent_id":890475301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.16666999999998,
+    128.16667,
     35.16667,
-    128.16666999999998,
+    128.16667,
     35.16667
 ],
-  "geometry": {"coordinates":[128.16666999999998,35.16667],"type":"Point"}
+  "geometry": {"coordinates":[128.16667000000001,35.16667],"type":"Point"}
 }

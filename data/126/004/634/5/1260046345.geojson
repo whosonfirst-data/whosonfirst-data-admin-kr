@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sinyang"
+    ],
+    "name:eng_x_variant":[
+        "Sinyang-ni"
+    ],
     "name:und_x_variant":[
         "\uc2e0\uc591\ub9ac",
         "Sinyang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673203,
-        890474443
+        890474443,
+        85673203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6887704
     },
     "wof:country":"KR",
-    "wof:geomhash":"a1d0c8a8395773410e25ebdcbfa2d662",
+    "wof:geomhash":"daed686010e07608a10cb402eea79e94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1260046345,
-    "wof:lastmodified":1566588913,
-    "wof:name":"Sinyang-ni",
+    "wof:lastmodified":1730271534,
+    "wof:name":"Sinyang",
     "wof:parent_id":890474443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.28721000000002,
+    127.28721,
     36.21458,
-    127.28721000000002,
+    127.28721,
     36.21458
 ],
-  "geometry": {"coordinates":[127.28721000000002,36.21458],"type":"Point"}
+  "geometry": {"coordinates":[127.28721,36.21458],"type":"Point"}
 }

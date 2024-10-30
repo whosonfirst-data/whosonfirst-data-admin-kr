@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "In'gok"
+    ],
+    "name:eng_x_variant":[
+        "In'gok-tong"
+    ],
     "name:und_x_variant":[
         "\uc778\uace1\ub3d9",
         "In\u2019gok-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473177
+        890473177,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6904428
     },
     "wof:country":"KR",
-    "wof:geomhash":"dc5dc56e0fe1fbf8e699f7624f259504",
+    "wof:geomhash":"5db32f2366bf2c98bb5e00e52610167c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1226810701,
-    "wof:lastmodified":1566590638,
-    "wof:name":"In'gok-tong",
+    "wof:lastmodified":1730271547,
+    "wof:name":"In'gok",
     "wof:parent_id":890473177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.09958999999998,
-    35.60550999999999,
-    128.09958999999998,
-    35.60550999999999
+    128.09959,
+    35.60551,
+    128.09959,
+    35.60551
 ],
-  "geometry": {"coordinates":[128.09958999999998,35.60550999999999],"type":"Point"}
+  "geometry": {"coordinates":[128.09959000000001,35.60551],"type":"Point"}
 }

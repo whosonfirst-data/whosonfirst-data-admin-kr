@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hungnyong"
+    ],
+    "name:eng_x_variant":[
+        "Hungnyong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890475073
+        890475073,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1885547
     },
     "wof:country":"KR",
-    "wof:geomhash":"0cf1d6253127411395317371d99e6e89",
+    "wof:geomhash":"f501bfb50cf2e447d55908f435fa5cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1209780345,
-    "wof:lastmodified":1566588233,
-    "wof:name":"Hungnyong-ni",
+    "wof:lastmodified":1730271529,
+    "wof:name":"Hungnyong",
     "wof:parent_id":890475073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     127.70139,
-    35.10805999999999,
+    35.10806,
     127.70139,
-    35.10805999999999
+    35.10806
 ],
-  "geometry": {"coordinates":[127.70139,35.10805999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.70139,35.10806],"type":"Point"}
 }

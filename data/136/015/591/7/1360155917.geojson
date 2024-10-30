@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yudong"
+    ],
+    "name:eng_x_variant":[
+        "Yudong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc720\ub3d9\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673191,
-        890476053
+        890476053,
+        85673191
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1832119
     },
     "wof:country":"KR",
-    "wof:geomhash":"ddd82b8e448d3878d203d1775f2e34cc",
+    "wof:geomhash":"f884adff33e1f1ec4c6d81fd81f5bfef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1360155917,
-    "wof:lastmodified":1566589354,
-    "wof:name":"Yudong-ni",
+    "wof:lastmodified":1730271537,
+    "wof:name":"Yudong",
     "wof:parent_id":890476053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     127.31035,
-    37.92959000000001,
+    37.92959,
     127.31035,
-    37.92959000000001
+    37.92959
 ],
-  "geometry": {"coordinates":[127.31035,37.92959000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.31035,37.92959],"type":"Point"}
 }

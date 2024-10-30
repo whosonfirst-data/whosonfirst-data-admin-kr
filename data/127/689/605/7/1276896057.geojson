@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sanmak"
+    ],
+    "name:eng_x_variant":[
+        "Sanmak-tong"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ub9c9\ub3d9"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890473363
+        890473363,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6796560
     },
     "wof:country":"KR",
-    "wof:geomhash":"57fa2e77566e67f3e5a7dd66de50abd4",
+    "wof:geomhash":"d4d56694c29d00488bf8c236e20f7543",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1276896057,
-    "wof:lastmodified":1566587550,
-    "wof:name":"Sanmak-tong",
+    "wof:lastmodified":1730271524,
+    "wof:name":"Sanmak",
     "wof:parent_id":890473363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.30200000000002,
+    128.302,
     37.1769,
-    128.30200000000002,
+    128.302,
     37.1769
 ],
-  "geometry": {"coordinates":[128.30200000000002,37.1769],"type":"Point"}
+  "geometry": {"coordinates":[128.30199999999999,37.1769],"type":"Point"}
 }

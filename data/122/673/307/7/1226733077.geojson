@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Songum"
+    ],
+    "name:eng_x_variant":[
+        "Songum-ni"
+    ],
     "name:und_x_variant":[
         "\uc1a1\uc74d\ub9ac",
         "Song\u016dm-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890475757
+        890475757,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6903276
     },
     "wof:country":"KR",
-    "wof:geomhash":"efb7ce2388f0efbf914d2b2115ed7e43",
+    "wof:geomhash":"e50fe7fb32f24dbf4068bd9384682085",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1226733077,
-    "wof:lastmodified":1566590694,
-    "wof:name":"Songum-ni",
+    "wof:lastmodified":1730271547,
+    "wof:name":"Songum",
     "wof:parent_id":890475757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     128.7424,
-    35.66054000000001,
+    35.66054,
     128.7424,
-    35.66054000000001
+    35.66054
 ],
-  "geometry": {"coordinates":[128.7424,35.66054000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.7424,35.66054],"type":"Point"}
 }

@@ -56,12 +56,12 @@
         "\u03a7\u03bf\u03c5\u03ac\u03c3\u03b5\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Hwaseong-Si"
+        "Hwaseong"
     ],
     "name:eng_x_variant":[
-        "Hwaseong",
         "Hwaseongsi",
-        "Hwaseong-si"
+        "Hwaseong-si",
+        "Hwaseong-Si"
     ],
     "name:epo_x_preferred":[
         "Huason"
@@ -239,8 +239,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673191,
-        890476049
+        890476049,
+        85673191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -269,7 +269,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1690938248,
+    "wof:lastmodified":1730273269,
     "wof:name":"Hwaseong",
     "wof:parent_id":890476049,
     "wof:placetype":"locality",

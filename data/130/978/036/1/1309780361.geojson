@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Marum"
+    ],
+    "name:eng_x_variant":[
+        "Marum-ni"
+    ],
     "name:und_x_variant":[
         "\ub9d0\uc74c\ub9ac",
         "Mar\u016dm-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890472469
+        890472469,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6894226
     },
     "wof:country":"KR",
-    "wof:geomhash":"f4a91abbcfb5562820204c5c7426d7d0",
+    "wof:geomhash":"fc71a9381684e95832d06a124f4f3eca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1309780361,
-    "wof:lastmodified":1566589529,
-    "wof:name":"Marum-ni",
+    "wof:lastmodified":1730271538,
+    "wof:name":"Marum",
     "wof:parent_id":890472469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.79161,
-    35.65705999999999,
+    35.65706,
     127.79161,
-    35.65705999999999
+    35.65706
 ],
-  "geometry": {"coordinates":[127.79161000000001,35.65705999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.79161000000001,35.65706],"type":"Point"}
 }

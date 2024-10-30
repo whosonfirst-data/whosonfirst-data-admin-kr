@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kahang"
+    ],
+    "name:eng_x_variant":[
+        "Kahang-ni"
+    ],
     "name:und_x_variant":[
         "\uac00\ud56d\ub9ac",
         "Kahang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473621
+        890473621,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6901977
     },
     "wof:country":"KR",
-    "wof:geomhash":"5728fb5cfc37afadedb80d70303b80aa",
+    "wof:geomhash":"1f37ab7e7f588c1bd57f33c86ecbae56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1277138447,
-    "wof:lastmodified":1566587686,
-    "wof:name":"Kahang-ni",
+    "wof:lastmodified":1730271525,
+    "wof:name":"Kahang",
     "wof:parent_id":890473621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     128.388,
-    35.52294000000001,
+    35.52294,
     128.388,
-    35.52294000000001
+    35.52294
 ],
-  "geometry": {"coordinates":[128.38800000000001,35.52294000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.38800000000001,35.52294],"type":"Point"}
 }

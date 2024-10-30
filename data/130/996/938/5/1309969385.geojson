@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wolgong"
+    ],
+    "name:eng_x_variant":[
+        "Wolgong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673203,
-        890472413
+        890472413,
+        85673203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1886737
     },
     "wof:country":"KR",
-    "wof:geomhash":"0a765295927c9815df25215bb21d9ff2",
+    "wof:geomhash":"6acdd6c22148bd62fd7ea8b37971f2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1309969385,
-    "wof:lastmodified":1566589467,
-    "wof:name":"Wolgong-ni",
+    "wof:lastmodified":1730271538,
+    "wof:name":"Wolgong",
     "wof:parent_id":890472413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.14943999999998,
+    127.14944,
     36.53417,
-    127.14943999999998,
+    127.14944,
     36.53417
 ],
-  "geometry": {"coordinates":[127.14943999999998,36.53417],"type":"Point"}
+  "geometry": {"coordinates":[127.14944,36.53417],"type":"Point"}
 }

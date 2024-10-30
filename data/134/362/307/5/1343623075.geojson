@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "On'gok"
+    ],
+    "name:eng_x_variant":[
+        "On'gok-tong"
+    ],
     "name:und_x_variant":[
         "\uc628\uace1\ub3d9",
         "On\u2019gok-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890476019
+        890476019,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6880090
     },
     "wof:country":"KR",
-    "wof:geomhash":"081e32aafee1a1da918932f0d140cfbc",
+    "wof:geomhash":"3ba053f3e180ed02e005d8844adc94fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1343623075,
-    "wof:lastmodified":1566586218,
-    "wof:name":"On'gok-tong",
+    "wof:lastmodified":1730271515,
+    "wof:name":"On'gok",
     "wof:parent_id":890476019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.84945,
-    35.81017999999999,
+    35.81018,
     127.84945,
-    35.81017999999999
+    35.81018
 ],
-  "geometry": {"coordinates":[127.84945,35.81017999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.84945,35.81018],"type":"Point"}
 }

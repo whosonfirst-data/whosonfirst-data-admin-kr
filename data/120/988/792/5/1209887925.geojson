@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Togyang"
+    ],
+    "name:eng_x_variant":[
+        "Togyang-ni"
+    ],
     "name:und_x_variant":[
         "Tokuy\u014d-ri",
         "T\u014fngyang-ni",
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890473219
+        890473219,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1834637
     },
     "wof:country":"KR",
-    "wof:geomhash":"31e3f80fa588cc3079fc00f3fa932d16",
+    "wof:geomhash":"9a90c883b972dbf4d553e3a810dc8539",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1209887925,
-    "wof:lastmodified":1566588531,
-    "wof:name":"Togyang-ni",
+    "wof:lastmodified":1730271531,
+    "wof:name":"Togyang",
     "wof:parent_id":890473219,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.63443999999998,
+    127.63444,
     34.79028,
-    127.63443999999998,
+    127.63444,
     34.79028
 ],
-  "geometry": {"coordinates":[127.63443999999998,34.79028],"type":"Point"}
+  "geometry": {"coordinates":[127.63444,34.79028],"type":"Point"}
 }

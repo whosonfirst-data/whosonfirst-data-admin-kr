@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chinhung"
+    ],
+    "name:eng_x_variant":[
+        "Chinhung-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632231
@@ -38,7 +44,7 @@
         "gn:id":1886009
     },
     "wof:country":"KR",
-    "wof:geomhash":"a2bf43d4f751f123224cb18437da0d17",
+    "wof:geomhash":"8484c601fa148175d385924816ef4b47",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -46,8 +52,8 @@
         }
     ],
     "wof:id":1209226013,
-    "wof:lastmodified":1566588272,
-    "wof:name":"Chinhung-ni",
+    "wof:lastmodified":1730271530,
+    "wof:name":"Chinhung",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -57,9 +63,9 @@
 },
   "bbox": [
     126.96556,
-    35.80305999999999,
+    35.80306,
     126.96556,
-    35.80305999999999
+    35.80306
 ],
-  "geometry": {"coordinates":[126.96556,35.80305999999999],"type":"Point"}
+  "geometry": {"coordinates":[126.96556,35.80306],"type":"Point"}
 }

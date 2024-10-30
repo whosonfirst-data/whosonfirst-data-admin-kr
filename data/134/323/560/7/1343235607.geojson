@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sadong"
+    ],
+    "name:eng_x_variant":[
+        "Sadong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\ub3d9\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890475357
+        890475357,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6796255
     },
     "wof:country":"KR",
-    "wof:geomhash":"93c90c27212f0b8608c00988450eace8",
+    "wof:geomhash":"45c88e9738164c5be16dda85b5a33027",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1343235607,
-    "wof:lastmodified":1566586456,
-    "wof:name":"Sadong-ni",
+    "wof:lastmodified":1730271517,
+    "wof:name":"Sadong",
     "wof:parent_id":890475357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.87478000000002,
+    130.87478,
     37.46588,
-    130.87478000000002,
+    130.87478,
     37.46588
 ],
-  "geometry": {"coordinates":[130.87478000000002,37.46588],"type":"Point"}
+  "geometry": {"coordinates":[130.87477999999999,37.46588],"type":"Point"}
 }

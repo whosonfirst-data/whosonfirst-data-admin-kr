@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Simok"
+    ],
+    "name:eng_x_variant":[
+        "Simok-tong"
+    ],
     "name:und_x_variant":[
         "Shimok",
         "Simok-tong"
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890475041
+        890475041,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1837304
     },
     "wof:country":"KR",
-    "wof:geomhash":"be9f4af692c3a21cfd4a4ffa31b468e2",
+    "wof:geomhash":"efc0558a02f388a828c20be8a3362691",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1259555371,
-    "wof:lastmodified":1566590361,
-    "wof:name":"Simok-tong",
+    "wof:lastmodified":1730271545,
+    "wof:name":"Simok",
     "wof:parent_id":890475041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     125.94611,
-    34.67610999999999,
+    34.67611,
     125.94611,
-    34.67610999999999
+    34.67611
 ],
-  "geometry": {"coordinates":[125.94611,34.67610999999999],"type":"Point"}
+  "geometry": {"coordinates":[125.94611,34.67611],"type":"Point"}
 }

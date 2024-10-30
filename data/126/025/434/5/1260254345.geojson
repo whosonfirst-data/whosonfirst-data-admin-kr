@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chadong"
+    ],
+    "name:eng_x_variant":[
+        "Chadong-ni"
+    ],
     "name:und_x_variant":[
         "Chadong",
         "Chadong-ni"
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890475041
+        890475041,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1846829
     },
     "wof:country":"KR",
-    "wof:geomhash":"617d5bca2cf6345e976f298fa9ddb225",
+    "wof:geomhash":"0de2e8f4d4f02ef4ac68b295c1200fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1260254345,
-    "wof:lastmodified":1566588796,
-    "wof:name":"Chadong-ni",
+    "wof:lastmodified":1730271533,
+    "wof:name":"Chadong",
     "wof:parent_id":890475041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     126.25139,
-    35.05860999999999,
+    35.05861,
     126.25139,
-    35.05860999999999
+    35.05861
 ],
-  "geometry": {"coordinates":[126.25139,35.05860999999999],"type":"Point"}
+  "geometry": {"coordinates":[126.25139,35.05861],"type":"Point"}
 }

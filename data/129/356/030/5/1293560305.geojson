@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Maam"
+    ],
+    "name:eng_x_variant":[
+        "Maam-ni"
+    ],
     "name:und_x_variant":[
         "\ub9c8\uc554\ub9ac",
         "Maam-ri",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673191,
-        890475061
+        890475061,
+        85673191
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6577857
     },
     "wof:country":"KR",
-    "wof:geomhash":"be4c0c72e6b10bb7e14fa3aee8f00807",
+    "wof:geomhash":"b8d5df8d64bf4e05b67e13eecd05739e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1293560305,
-    "wof:lastmodified":1566587184,
-    "wof:name":"Maam-ni",
+    "wof:lastmodified":1730271522,
+    "wof:name":"Maam",
     "wof:parent_id":890475061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     127.47417,
-    37.27444000000001,
+    37.27444,
     127.47417,
-    37.27444000000001
+    37.27444
 ],
-  "geometry": {"coordinates":[127.47417,37.27444000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.47417,37.27444],"type":"Point"}
 }

@@ -29,12 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Choktung"
+    ],
+    "name:eng_x_variant":[
+        "Choktung-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673173,
-        890475545
+        890475545,
+        85673173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1209918731,
-    "wof:lastmodified":1566588064,
-    "wof:name":"Choktung-ni",
+    "wof:lastmodified":1730271528,
+    "wof:name":"Choktung",
     "wof:parent_id":890475545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",

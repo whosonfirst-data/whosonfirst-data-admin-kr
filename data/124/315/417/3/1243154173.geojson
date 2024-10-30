@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mang"
+    ],
+    "name:eng_x_variant":[
+        "Mang-ni"
+    ],
     "name:und_x_variant":[
         "Tong-k\u014fch\u2019a-Makk\u016dm-ni",
         "Mang-ni",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890472189
+        890472189,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1841344
     },
     "wof:country":"KR",
-    "wof:geomhash":"28f8ca9ff1aaa18afecc61b4ae869166",
+    "wof:geomhash":"4889860fd4e9f50315dbbcf1414f8162",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243154173,
-    "wof:lastmodified":1566590023,
-    "wof:name":"Mang-ni",
+    "wof:lastmodified":1730271542,
+    "wof:name":"Mang",
     "wof:parent_id":890472189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     125.93306,
-    34.23860999999999,
+    34.23861,
     125.93306,
-    34.23860999999999
+    34.23861
 ],
-  "geometry": {"coordinates":[125.93306,34.23860999999999],"type":"Point"}
+  "geometry": {"coordinates":[125.93306,34.23861],"type":"Point"}
 }

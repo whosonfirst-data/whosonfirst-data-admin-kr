@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sok"
+    ],
+    "name:eng_x_variant":[
+        "Sok-tong"
+    ],
     "name:und_x_variant":[
         "\uc11d\ub3d9",
         "S\u014fk-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890476019
+        890476019,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6880165
     },
     "wof:country":"KR",
-    "wof:geomhash":"313099483c714bc5bee78e925a891570",
+    "wof:geomhash":"ceb5f982e6b17b8f669eeeaf5a0467e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1310575461,
-    "wof:lastmodified":1566589279,
-    "wof:name":"Sok-tong",
+    "wof:lastmodified":1730271536,
+    "wof:name":"Sok",
     "wof:parent_id":890476019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.86645,
-    35.76837000000001,
+    35.76837,
     127.86645,
-    35.76837000000001
+    35.76837
 ],
-  "geometry": {"coordinates":[127.86645,35.76837000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.86645,35.76837],"type":"Point"}
 }

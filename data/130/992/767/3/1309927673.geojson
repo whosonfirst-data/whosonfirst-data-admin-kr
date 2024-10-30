@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Songjung"
+    ],
+    "name:eng_x_variant":[
+        "Songjung-ni"
+    ],
     "name:und_x_variant":[
         "\uc1a1\uc8fd\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890475465
+        890475465,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7575089
     },
     "wof:country":"KR",
-    "wof:geomhash":"dd5c702d345abfd8bb9a5dda2b149dac",
+    "wof:geomhash":"bc4d1a7889a4c76590613dfaa25ede0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1309927673,
-    "wof:lastmodified":1566589564,
-    "wof:name":"Songjung-ni",
+    "wof:lastmodified":1730271539,
+    "wof:name":"Songjung",
     "wof:parent_id":890475465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.46728000000002,
+    128.46728,
     38.40022,
-    128.46728000000002,
+    128.46728,
     38.40022
 ],
-  "geometry": {"coordinates":[128.46728000000002,38.40022],"type":"Point"}
+  "geometry": {"coordinates":[128.46727999999999,38.40022],"type":"Point"}
 }

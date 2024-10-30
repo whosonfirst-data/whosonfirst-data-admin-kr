@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sanggung"
+    ],
+    "name:eng_x_variant":[
+        "Sanggung-ni"
+    ],
     "name:und_x_variant":[
         "Sanggungjong-ni",
         "Sanggung-ni"
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890473623
+        890473623,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1837765
     },
     "wof:country":"KR",
-    "wof:geomhash":"609e593fd8f9d2aca0b01c26e0e6b2a7",
+    "wof:geomhash":"e5f3fe7801e81ec7805936dcfb086272",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1326651837,
-    "wof:lastmodified":1566586065,
-    "wof:name":"Sanggung-ni",
+    "wof:lastmodified":1730271514,
+    "wof:name":"Sanggung",
     "wof:parent_id":890473623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.16666999999998,
+    128.16667,
     37.5,
-    128.16666999999998,
+    128.16667,
     37.5
 ],
-  "geometry": {"coordinates":[128.16666999999998,37.5],"type":"Point"}
+  "geometry": {"coordinates":[128.16667000000001,37.5],"type":"Point"}
 }

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sindong"
+    ],
+    "name:eng_x_variant":[
+        "Sindong-ni"
+    ],
     "name:und_x_variant":[
         "Shintoku-d\u014d",
         "Sind\u014fk-tong",
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890473215
+        890473215,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1837157
     },
     "wof:country":"KR",
-    "wof:geomhash":"8f8d882de9714a2156315d3d152e1f2a",
+    "wof:geomhash":"54f258376966d074763698a265a626d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1209786427,
-    "wof:lastmodified":1566588224,
-    "wof:name":"Sindong-ni",
+    "wof:lastmodified":1730271529,
+    "wof:name":"Sindong",
     "wof:parent_id":890473215,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.83028000000002,
+    128.83028,
     36.52583,
-    128.83028000000002,
+    128.83028,
     36.52583
 ],
-  "geometry": {"coordinates":[128.83028000000002,36.52583],"type":"Point"}
+  "geometry": {"coordinates":[128.83027999999999,36.52583],"type":"Point"}
 }

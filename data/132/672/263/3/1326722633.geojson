@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangsidong"
+    ],
+    "name:eng_x_variant":[
+        "Sangsidong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc0c1\uc2dc\ub3d9\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890476169
+        890476169,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6816642
     },
     "wof:country":"KR",
-    "wof:geomhash":"13bfff321b55f7a8ec0b41fa04bb0327",
+    "wof:geomhash":"ed18696bfc91b52e147afe0162cee67b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1326722633,
-    "wof:lastmodified":1566585661,
-    "wof:name":"Sangsidong-ni",
+    "wof:lastmodified":1730271512,
+    "wof:name":"Sangsidong",
     "wof:parent_id":890476169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.93188999999998,
+    128.93189,
     37.72845,
-    128.93188999999998,
+    128.93189,
     37.72845
 ],
-  "geometry": {"coordinates":[128.93188999999998,37.72845],"type":"Point"}
+  "geometry": {"coordinates":[128.93189000000001,37.72845],"type":"Point"}
 }

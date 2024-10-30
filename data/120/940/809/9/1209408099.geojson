@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kap'ung"
+    ],
+    "name:eng_x_variant":[
+        "Kap'ung-ni"
+    ],
     "name:und_x_variant":[
         "\uac00\ud48d\ub9ac",
         "Kap\u2019ung-ni"
@@ -42,7 +48,7 @@
         "gn:id":6884659
     },
     "wof:country":"KR",
-    "wof:geomhash":"61b0798d2f45753b7b9db791b61c6050",
+    "wof:geomhash":"395af88ee994d3916721eaf04632bf20",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -50,8 +56,8 @@
         }
     ],
     "wof:id":1209408099,
-    "wof:lastmodified":1566588220,
-    "wof:name":"Kap'ung-ni",
+    "wof:lastmodified":1730271529,
+    "wof:name":"Kap'ung",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -61,9 +67,9 @@
 },
   "bbox": [
     127.59142,
-    36.26394000000001,
+    36.26394,
     127.59142,
-    36.26394000000001
+    36.26394
 ],
-  "geometry": {"coordinates":[127.59142,36.26394000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.59142,36.26394],"type":"Point"}
 }

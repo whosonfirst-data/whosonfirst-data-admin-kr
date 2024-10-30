@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hanjok"
+    ],
+    "name:eng_x_variant":[
+        "Hanjok-tong"
+    ],
     "name:und_x_variant":[
         "\ud55c\uc801\ub3d9",
         "Hanj\u014fk-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890473179
+        890473179,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6879955
     },
     "wof:country":"KR",
-    "wof:geomhash":"efab287957678d4f88ac79f2c1ab2967",
+    "wof:geomhash":"fc573f57fb7e2e3964a5b63681331dad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1343444317,
-    "wof:lastmodified":1566586790,
-    "wof:name":"Hanjok-tong",
+    "wof:lastmodified":1730271519,
+    "wof:name":"Hanjok",
     "wof:parent_id":890473179,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.95877,
-    35.98047000000001,
+    35.98047,
     127.95877,
-    35.98047000000001
+    35.98047
 ],
-  "geometry": {"coordinates":[127.95877,35.98047000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.95877,35.98047],"type":"Point"}
 }

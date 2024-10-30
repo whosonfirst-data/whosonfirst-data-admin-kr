@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hak"
+    ],
+    "name:eng_x_variant":[
+        "Hak-tong"
+    ],
     "name:und_x_variant":[
         "\ud559\ub3d9",
         "Hak-tong"
@@ -42,7 +48,7 @@
         "gn:id":6876977
     },
     "wof:country":"KR",
-    "wof:geomhash":"3b4860bbef1caa48b90a3491001bd367",
+    "wof:geomhash":"5f53d2392be46fbe130726658aef60ec",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -50,8 +56,8 @@
         }
     ],
     "wof:id":1209315837,
-    "wof:lastmodified":1566588001,
-    "wof:name":"Hak-tong",
+    "wof:lastmodified":1730271528,
+    "wof:name":"Hak",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -61,9 +67,9 @@
 },
   "bbox": [
     127.22934,
-    35.72884000000001,
+    35.72884,
     127.22934,
-    35.72884000000001
+    35.72884
 ],
-  "geometry": {"coordinates":[127.22933999999999,35.72884000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.22933999999999,35.72884],"type":"Point"}
 }
