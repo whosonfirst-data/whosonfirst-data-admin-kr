@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Haesang"
+    ],
+    "name:eng_x_variant":[
+        "Haesang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890475465
+        890475465,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1844714
     },
     "wof:country":"KR",
-    "wof:geomhash":"778ca310e241115e527ba418b6e39b4d",
+    "wof:geomhash":"518c78d5c1c4b8841fbea80d5fe26481",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1327225911,
-    "wof:lastmodified":1566585821,
-    "wof:name":"Haesang-ni",
+    "wof:lastmodified":1730271513,
+    "wof:name":"Haesang",
     "wof:parent_id":890475465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.39306000000002,
+    128.39306,
     38.38833,
-    128.39306000000002,
+    128.39306,
     38.38833
 ],
-  "geometry": {"coordinates":[128.39306000000002,38.38833],"type":"Point"}
+  "geometry": {"coordinates":[128.39305999999999,38.38833],"type":"Point"}
 }

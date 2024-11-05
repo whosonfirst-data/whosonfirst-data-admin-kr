@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chijang"
+    ],
+    "name:eng_x_variant":[
+        "Chijang-ni"
+    ],
     "name:und_x_variant":[
         "\uc9c0\uc7a5\ub9ac",
         "Chijang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890474645
+        890474645,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1885933
     },
     "wof:country":"KR",
-    "wof:geomhash":"8aa0e020471a325094fa4f60ce454f2f",
+    "wof:geomhash":"1373de7233608a358b7c85b158cb8ae2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1243364929,
-    "wof:lastmodified":1566589828,
-    "wof:name":"Chijang-ni",
+    "wof:lastmodified":1730271540,
+    "wof:name":"Chijang",
     "wof:parent_id":890474645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.20778,
-    35.69302000000001,
+    35.69302,
     127.20778,
-    35.69302000000001
+    35.69302
 ],
-  "geometry": {"coordinates":[127.20778,35.69302000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.20778,35.69302],"type":"Point"}
 }

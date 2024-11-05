@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kadok"
+    ],
+    "name:eng_x_variant":[
+        "Kadok-tong"
+    ],
     "name:kor_x_preferred":[
         "\uac00\ub355\ub3d9"
     ],
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890475955
+        890475955,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1889047
     },
     "wof:country":"KR",
-    "wof:geomhash":"15a305941afe31fe6ee2c9bb6ff6aaa2",
+    "wof:geomhash":"cfcdd32d7505a91532e9bc9f831d9e74",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1293581417,
-    "wof:lastmodified":1566587206,
-    "wof:name":"Kadok-tong",
+    "wof:lastmodified":1730271522,
+    "wof:name":"Kadok",
     "wof:parent_id":890475955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.41299999999998,
+    128.413,
     37.8277,
-    128.41299999999998,
+    128.413,
     37.8277
 ],
-  "geometry": {"coordinates":[128.41299999999998,37.8277],"type":"Point"}
+  "geometry": {"coordinates":[128.41300000000001,37.8277],"type":"Point"}
 }

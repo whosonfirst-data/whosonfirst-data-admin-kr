@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "T'aebong"
+    ],
+    "name:eng_x_variant":[
+        "T'aebong-ni"
+    ],
     "name:kor_x_preferred":[
         "\ud0dc\ubd09\ub9ac"
     ],
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673191,
-        890472417
+        890472417,
+        85673191
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6813704
     },
     "wof:country":"KR",
-    "wof:geomhash":"1b87614341d5daa49ee7f2e3aca175ca",
+    "wof:geomhash":"36a4ac26dbf2bbed14ebd7c442a305ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1293187071,
-    "wof:lastmodified":1566587288,
-    "wof:name":"T'aebong-ni",
+    "wof:lastmodified":1730271522,
+    "wof:name":"T'aebong",
     "wof:parent_id":890472417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.32068999999998,
+    127.32069,
     37.8152,
-    127.32068999999998,
+    127.32069,
     37.8152
 ],
-  "geometry": {"coordinates":[127.32068999999998,37.8152],"type":"Point"}
+  "geometry": {"coordinates":[127.32069,37.8152],"type":"Point"}
 }

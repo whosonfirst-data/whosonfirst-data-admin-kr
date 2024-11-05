@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Taehwasam"
+    ],
+    "name:eng_x_variant":[
+        "Taehwasam-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub300\ud6543\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890476059
+        890476059,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6816901
     },
     "wof:country":"KR",
-    "wof:geomhash":"ae2a9103ea33101756b3e96857eeeb9d",
+    "wof:geomhash":"80d8bc673445fcd3f518fa9b45332647",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1193039931,
-    "wof:lastmodified":1566588659,
-    "wof:name":"Taehwasam-ni",
+    "wof:lastmodified":1730271532,
+    "wof:name":"Taehwasam",
     "wof:parent_id":890476059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.45063000000002,
+    128.45063,
     37.50856,
-    128.45063000000002,
+    128.45063,
     37.50856
 ],
-  "geometry": {"coordinates":[128.45063000000002,37.50856],"type":"Point"}
+  "geometry": {"coordinates":[128.45062999999999,37.50856],"type":"Point"}
 }

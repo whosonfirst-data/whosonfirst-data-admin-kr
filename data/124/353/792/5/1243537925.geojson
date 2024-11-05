@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wonjang"
+    ],
+    "name:eng_x_variant":[
+        "Wonjang-ni"
+    ],
     "name:und_x_variant":[
         "W\u014fnjang",
         "\uc6d0\uc7a5\ub9ac",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890472345
+        890472345,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1894968
     },
     "wof:country":"KR",
-    "wof:geomhash":"ef52a6c39bbc0a692a273afa3c91fa94",
+    "wof:geomhash":"ee182d5f308fb27e52517102d3b507b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243537925,
-    "wof:lastmodified":1566589842,
-    "wof:name":"Wonjang-ni",
+    "wof:lastmodified":1730271540,
+    "wof:name":"Wonjang",
     "wof:parent_id":890472345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.12923999999998,
-    36.33759000000001,
-    128.12923999999998,
-    36.33759000000001
+    128.12924,
+    36.33759,
+    128.12924,
+    36.33759
 ],
-  "geometry": {"coordinates":[128.12923999999998,36.33759000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.12924000000001,36.33759],"type":"Point"}
 }

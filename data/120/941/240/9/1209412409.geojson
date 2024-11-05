@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Namban"
+    ],
+    "name:eng_x_variant":[
+        "Namban-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub0a8\uc804\ub9ac"
     ],
@@ -47,7 +53,7 @@
         "gn:id":1840435
     },
     "wof:country":"KR",
-    "wof:geomhash":"91ce55397158f409e4de65bb7ba6cb2b",
+    "wof:geomhash":"97689682ce9cfe28af2a69bfce698b52",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1209412409,
-    "wof:lastmodified":1566588204,
-    "wof:name":"Namban-ni",
+    "wof:lastmodified":1730271529,
+    "wof:name":"Namban",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.14278000000002,
+    128.14278,
     38.01611,
-    128.14278000000002,
+    128.14278,
     38.01611
 ],
-  "geometry": {"coordinates":[128.14278000000002,38.01611],"type":"Point"}
+  "geometry": {"coordinates":[128.14277999999999,38.01611],"type":"Point"}
 }

@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kobong"
+    ],
+    "name:eng_x_variant":[
+        "Kobong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890475397
+        890475397,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1923044
     },
     "wof:country":"KR",
-    "wof:geomhash":"c8aec9b381ddc4d5600fbdc61ffd2bcf",
+    "wof:geomhash":"0b73839f242b3a82c3c01310fd8eb14f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1226349345,
-    "wof:lastmodified":1566590731,
-    "wof:name":"Kobong-ni",
+    "wof:lastmodified":1730271548,
+    "wof:name":"Kobong",
     "wof:parent_id":890475397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     126.78694,
-    35.98860999999999,
+    35.98861,
     126.78694,
-    35.98860999999999
+    35.98861
 ],
-  "geometry": {"coordinates":[126.78694,35.98860999999999],"type":"Point"}
+  "geometry": {"coordinates":[126.78694,35.98861],"type":"Point"}
 }

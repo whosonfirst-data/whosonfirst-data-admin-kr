@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yuryang"
+    ],
+    "name:eng_x_variant":[
+        "Yuryang-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc720\ub7c9\ub9ac"
     ],
@@ -41,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890473547
+        890473547,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1832044
     },
     "wof:country":"KR",
-    "wof:geomhash":"9ece5b1121e95a7802fb5c878a65bd07",
+    "wof:geomhash":"4b4b0c89efa2778ba08a15ad987e3953",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1293164859,
-    "wof:lastmodified":1566587318,
-    "wof:name":"Yuryang-ni",
+    "wof:lastmodified":1730271523,
+    "wof:name":"Yuryang",
     "wof:parent_id":890473547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     126.90222,
-    34.72555999999999,
+    34.72556,
     126.90222,
-    34.72555999999999
+    34.72556
 ],
-  "geometry": {"coordinates":[126.90222,34.72555999999999],"type":"Point"}
+  "geometry": {"coordinates":[126.90222,34.72556],"type":"Point"}
 }

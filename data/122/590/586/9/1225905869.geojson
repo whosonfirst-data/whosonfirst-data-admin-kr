@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hwangjong"
+    ],
+    "name:eng_x_variant":[
+        "Hwangjong-ni"
+    ],
     "name:und_x_variant":[
         "\ud669\uc815\ub9ac",
         "Hwangj\u014fng",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473177
+        890473177,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1894332
     },
     "wof:country":"KR",
-    "wof:geomhash":"1cdd21e3aaf36dc3006d52620ca5e129",
+    "wof:geomhash":"8b9e0faebff1431c22213bb58db6be06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1225905869,
-    "wof:lastmodified":1566590828,
-    "wof:name":"Hwangjong-ni",
+    "wof:lastmodified":1730271548,
+    "wof:name":"Hwangjong",
     "wof:parent_id":890473177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     128.28345,
-    35.53404000000001,
+    35.53404,
     128.28345,
-    35.53404000000001
+    35.53404
 ],
-  "geometry": {"coordinates":[128.28344999999999,35.53404000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.28344999999999,35.53404],"type":"Point"}
 }

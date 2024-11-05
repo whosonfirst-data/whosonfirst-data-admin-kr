@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "T'aptong"
+    ],
+    "name:eng_x_variant":[
+        "T'aptong-ni"
+    ],
     "name:und_x_variant":[
         "T\u2019aptong-ni",
         "\ud0d1\ub3d9\ub9ac"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890475465
+        890475465,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7575110
     },
     "wof:country":"KR",
-    "wof:geomhash":"506cc9250c1e3c2fa71d501c25bbda20",
+    "wof:geomhash":"e68fefab7191e1152f93ab2601d9d47e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1193134613,
-    "wof:lastmodified":1566588636,
-    "wof:name":"T'aptong-ni",
+    "wof:lastmodified":1730271532,
+    "wof:name":"T'aptong",
     "wof:parent_id":890475465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.46621000000002,
+    128.46621,
     38.349,
-    128.46621000000002,
+    128.46621,
     38.349
 ],
-  "geometry": {"coordinates":[128.46621000000002,38.349],"type":"Point"}
+  "geometry": {"coordinates":[128.46620999999999,38.349],"type":"Point"}
 }

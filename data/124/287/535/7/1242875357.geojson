@@ -29,12 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Taedong"
+    ],
+    "name:eng_x_variant":[
+        "Taedong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890475783
+        890475783,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1242875357,
-    "wof:lastmodified":1566589890,
-    "wof:name":"Taedong-ni",
+    "wof:lastmodified":1730271540,
+    "wof:name":"Taedong",
     "wof:parent_id":890475783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",

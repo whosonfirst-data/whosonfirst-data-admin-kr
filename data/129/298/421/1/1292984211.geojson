@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Imgong"
+    ],
+    "name:eng_x_variant":[
+        "Imgong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc784\uace1\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890476183
+        890476183,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6794283
     },
     "wof:country":"KR",
-    "wof:geomhash":"227fc43f7dbeb163edf74ceaf854b09b",
+    "wof:geomhash":"b57b73555829cb960641c19789154fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1292984211,
-    "wof:lastmodified":1566587228,
-    "wof:name":"Imgong-ni",
+    "wof:lastmodified":1730271522,
+    "wof:name":"Imgong",
     "wof:parent_id":890476183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.65073999999998,
+    128.65074,
     37.00359,
-    128.65073999999998,
+    128.65074,
     37.00359
 ],
-  "geometry": {"coordinates":[128.65073999999998,37.00359],"type":"Point"}
+  "geometry": {"coordinates":[128.65074000000001,37.00359],"type":"Point"}
 }

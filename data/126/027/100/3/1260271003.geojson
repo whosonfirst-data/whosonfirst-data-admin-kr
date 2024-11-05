@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ch'ongp'ail"
+    ],
+    "name:eng_x_variant":[
+        "Ch'ongp'ail-tong"
+    ],
     "name:und_x_variant":[
         "\uccad\ud30c1\ub3d9",
         "Ch\u2019\u014fngp\u2019ail-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673185,
-        890475295
+        890475295,
+        85673185
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6800233
     },
     "wof:country":"KR",
-    "wof:geomhash":"fa6a512070be98bdfbcd5e16013f9161",
+    "wof:geomhash":"8ad0894050a3d953baf1458f76b612af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1260271003,
-    "wof:lastmodified":1566588868,
-    "wof:name":"Ch'ongp'ail-tong",
+    "wof:lastmodified":1730271533,
+    "wof:name":"Ch'ongp'ail",
     "wof:parent_id":890475295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.96663999999998,
+    126.96664,
     37.55081,
-    126.96663999999998,
+    126.96664,
     37.55081
 ],
-  "geometry": {"coordinates":[126.96663999999998,37.55081],"type":"Point"}
+  "geometry": {"coordinates":[126.96664,37.55081],"type":"Point"}
 }

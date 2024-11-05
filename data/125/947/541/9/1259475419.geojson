@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Map'yong"
+    ],
+    "name:eng_x_variant":[
+        "Map'yong-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ud3c9\ub9ac"
     ],
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890476059
+        890476059,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1892791
     },
     "wof:country":"KR",
-    "wof:geomhash":"be279aa415285bb3e7752e056187f448",
+    "wof:geomhash":"36fe7972348cd27bcdf82de3a54839f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1259475419,
-    "wof:lastmodified":1566590402,
-    "wof:name":"Map'yong-ni",
+    "wof:lastmodified":1730271545,
+    "wof:name":"Map'yong",
     "wof:parent_id":890476059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.55100000000002,
+    128.551,
     37.58057,
-    128.55100000000002,
+    128.551,
     37.58057
 ],
-  "geometry": {"coordinates":[128.55100000000002,37.58057],"type":"Point"}
+  "geometry": {"coordinates":[128.55099999999999,37.58057],"type":"Point"}
 }

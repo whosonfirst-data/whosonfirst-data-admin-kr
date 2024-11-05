@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hajong"
+    ],
+    "name:eng_x_variant":[
+        "Hajong-ni"
+    ],
     "name:und_x_variant":[
         "\ud558\uc815\ub9ac",
         "Hach\u014fng-ni",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890476189
+        890476189,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1889737
     },
     "wof:country":"KR",
-    "wof:geomhash":"9e5e9a05e9e214c1005b2ced73e15cf7",
+    "wof:geomhash":"44ae4768a250174575ddb8f3530a7a36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1242968253,
-    "wof:lastmodified":1566590189,
-    "wof:name":"Hajong-ni",
+    "wof:lastmodified":1730271543,
+    "wof:name":"Hajong",
     "wof:parent_id":890476189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.11700000000002,
+    129.117,
     37.391,
-    129.11700000000002,
+    129.117,
     37.391
 ],
-  "geometry": {"coordinates":[129.11700000000002,37.391],"type":"Point"}
+  "geometry": {"coordinates":[129.11699999999999,37.391],"type":"Point"}
 }

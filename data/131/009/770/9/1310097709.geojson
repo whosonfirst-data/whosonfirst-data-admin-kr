@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kwanum"
+    ],
+    "name:eng_x_variant":[
+        "Kwanum-ni"
+    ],
     "name:kor_x_preferred":[
         "\uad00\uc74c\ub9ac"
     ],
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890476169
+        890476169,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6816543
     },
     "wof:country":"KR",
-    "wof:geomhash":"207381aa58daa0c34c48c1ae08a5ea58",
+    "wof:geomhash":"f85d2bb590cfba895cc551aa81537d14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1310097709,
-    "wof:lastmodified":1566589080,
-    "wof:name":"Kwanum-ni",
+    "wof:lastmodified":1730271535,
+    "wof:name":"Kwanum",
     "wof:parent_id":890476169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.82376000000002,
+    128.82376,
     37.74048,
-    128.82376000000002,
+    128.82376,
     37.74048
 ],
-  "geometry": {"coordinates":[128.82376000000002,37.74048],"type":"Point"}
+  "geometry": {"coordinates":[128.82375999999999,37.74048],"type":"Point"}
 }

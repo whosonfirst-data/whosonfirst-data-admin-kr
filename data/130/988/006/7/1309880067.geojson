@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chongnyong"
+    ],
+    "name:eng_x_variant":[
+        "Chongnyong-ni"
+    ],
     "name:und_x_variant":[
         "\uc815\ub155\ub9ac",
         "Ch\u014fngny\u014fng",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473621
+        890473621,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1845571
     },
     "wof:country":"KR",
-    "wof:geomhash":"4c0b4f2e5ce760625bb1fd07f1bde306",
+    "wof:geomhash":"c78e6eeffbfea2e1a923f7fb815a9e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1309880067,
-    "wof:lastmodified":1566589610,
-    "wof:name":"Chongnyong-ni",
+    "wof:lastmodified":1730271539,
+    "wof:name":"Chongnyong",
     "wof:parent_id":890473621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.47853999999998,
-    35.62067000000001,
-    128.47853999999998,
-    35.62067000000001
+    128.47854,
+    35.62067,
+    128.47854,
+    35.62067
 ],
-  "geometry": {"coordinates":[128.47853999999998,35.62067000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.47854000000001,35.62067],"type":"Point"}
 }

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Haeryong"
+    ],
+    "name:eng_x_variant":[
+        "Haeryong-ni"
+    ],
     "name:und_x_variant":[
         "Hoeryong-ni",
         "Haeryong-ni"
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890475485
+        890475485,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1844718
     },
     "wof:country":"KR",
-    "wof:geomhash":"9914b03b6af13f73783fa95d2098c894",
+    "wof:geomhash":"f7d8cf864e4cd061fb51b58732fbc153",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243455779,
-    "wof:lastmodified":1566590249,
-    "wof:name":"Haeryong-ni",
+    "wof:lastmodified":1730271544,
+    "wof:name":"Haeryong",
     "wof:parent_id":890475485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     126.53556,
-    35.31639000000001,
+    35.31639,
     126.53556,
-    35.31639000000001
+    35.31639
 ],
-  "geometry": {"coordinates":[126.53556,35.31639000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.53556,35.31639],"type":"Point"}
 }

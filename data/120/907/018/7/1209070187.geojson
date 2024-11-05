@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kwayong"
+    ],
+    "name:eng_x_variant":[
+        "Kwayong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uacfc\uc5ed\ub9ac"
     ],
@@ -47,7 +53,7 @@
         "gn:id":1841730
     },
     "wof:country":"KR",
-    "wof:geomhash":"bef689a03390e4c05703a0e4a9a554c9",
+    "wof:geomhash":"31ae74fc9066ffe1a03ec58e003ef5ef",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1209070187,
-    "wof:lastmodified":1566588031,
-    "wof:name":"Kwayong-ni",
+    "wof:lastmodified":1730271528,
+    "wof:name":"Kwayong",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     127.36186,
-    34.67975999999999,
+    34.67976,
     127.36186,
-    34.67975999999999
+    34.67976
 ],
-  "geometry": {"coordinates":[127.36185999999999,34.67975999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.36185999999999,34.67976],"type":"Point"}
 }

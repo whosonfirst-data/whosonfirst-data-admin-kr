@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Minmong"
+    ],
+    "name:eng_x_variant":[
+        "Minmong-ni"
+    ],
     "name:und_x_variant":[
         "\ubbfc\ubaa9\ub9ac",
         "Minmong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890474683
+        890474683,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6896201
     },
     "wof:country":"KR",
-    "wof:geomhash":"5d46158a3363526e44aca44504fd8511",
+    "wof:geomhash":"a8e1db04ef0bec5e0f2d9bc1b623b262",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1260087115,
-    "wof:lastmodified":1566588847,
-    "wof:name":"Minmong-ni",
+    "wof:lastmodified":1730271533,
+    "wof:name":"Minmong",
     "wof:parent_id":890474683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.25116,
-    35.81254000000001,
+    35.81254,
     127.25116,
-    35.81254000000001
+    35.81254
 ],
-  "geometry": {"coordinates":[127.25116,35.81254000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.25116,35.81254],"type":"Point"}
 }

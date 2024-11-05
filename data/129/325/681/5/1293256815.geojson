@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tungnim"
+    ],
+    "name:eng_x_variant":[
+        "Tungnim-ni"
+    ],
     "name:und_x_variant":[
         "\ub4f1\ub9bc\ub9ac",
         "T\u016dngnim-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473621
+        890473621,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6901842
     },
     "wof:country":"KR",
-    "wof:geomhash":"eb62f46ab7fd01cf00f49f983261e104",
+    "wof:geomhash":"3464c3490fd9dfaa0e49235c17258f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293256815,
-    "wof:lastmodified":1566587110,
-    "wof:name":"Tungnim-ni",
+    "wof:lastmodified":1730271521,
+    "wof:name":"Tungnim",
     "wof:parent_id":890473621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     128.37063,
-    35.58049000000001,
+    35.58049,
     128.37063,
-    35.58049000000001
+    35.58049
 ],
-  "geometry": {"coordinates":[128.37063000000001,35.58049000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.37063000000001,35.58049],"type":"Point"}
 }

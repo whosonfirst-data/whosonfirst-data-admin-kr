@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Pong"
+    ],
+    "name:eng_x_variant":[
+        "Pong-ni"
+    ],
     "name:und_x_variant":[
         "\ubcf5\ub9ac",
         "Pong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890474963
+        890474963,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6893128
     },
     "wof:country":"KR",
-    "wof:geomhash":"8dfb649b6f32648a09373a44788cf97f",
+    "wof:geomhash":"a1c222c605ae5fbbfaea0f0b374d0434",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1209699169,
-    "wof:lastmodified":1566588371,
-    "wof:name":"Pong-ni",
+    "wof:lastmodified":1730271530,
+    "wof:name":"Pong",
     "wof:parent_id":890474963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.95931000000002,
+    128.95931,
     36.27895,
-    128.95931000000002,
+    128.95931,
     36.27895
 ],
-  "geometry": {"coordinates":[128.95931000000002,36.27895],"type":"Point"}
+  "geometry": {"coordinates":[128.95930999999999,36.27895],"type":"Point"}
 }

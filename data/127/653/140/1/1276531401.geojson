@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Haengjong"
+    ],
+    "name:eng_x_variant":[
+        "Haengjong-ni"
+    ],
     "name:und_x_variant":[
         "\ud589\uc815\ub9ac",
         "Haengj\u014fng-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890475279
+        890475279,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6900418
     },
     "wof:country":"KR",
-    "wof:geomhash":"c93b56e50c3fe4955b8a8ec50f15d25f",
+    "wof:geomhash":"d80a27e6569b65ad70f9c370a03dd0db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1276531401,
-    "wof:lastmodified":1566587964,
-    "wof:name":"Haengjong-ni",
+    "wof:lastmodified":1730271527,
+    "wof:name":"Haengjong",
     "wof:parent_id":890475279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.36226000000002,
+    128.36226,
     35.96258,
-    128.36226000000002,
+    128.36226,
     35.96258
 ],
-  "geometry": {"coordinates":[128.36226000000002,35.96258],"type":"Point"}
+  "geometry": {"coordinates":[128.36225999999999,35.96258],"type":"Point"}
 }

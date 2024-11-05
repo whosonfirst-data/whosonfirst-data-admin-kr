@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hyodong"
+    ],
+    "name:eng_x_variant":[
+        "Hyodong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890472443
+        890472443,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1893894
     },
     "wof:country":"KR",
-    "wof:geomhash":"f3915356531c68bc3ac04282a76bce45",
+    "wof:geomhash":"6ff25511a670ab7641bf2e03770def3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1344227653,
-    "wof:lastmodified":1566586314,
-    "wof:name":"Hyodong-ni",
+    "wof:lastmodified":1730271516,
+    "wof:name":"Hyodong",
     "wof:parent_id":890472443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     129.39417,
-    35.74444000000001,
+    35.74444,
     129.39417,
-    35.74444000000001
+    35.74444
 ],
-  "geometry": {"coordinates":[129.39417,35.74444000000001],"type":"Point"}
+  "geometry": {"coordinates":[129.39417,35.74444],"type":"Point"}
 }

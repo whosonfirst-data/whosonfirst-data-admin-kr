@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Turung"
+    ],
+    "name:eng_x_variant":[
+        "Turung-ni"
+    ],
     "name:und_x_variant":[
         "Tur\u016dng-ni",
         "\ub450\ub989\ub9ac",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890472345
+        890472345,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1895036
     },
     "wof:country":"KR",
-    "wof:geomhash":"223ce9b493044873135a70ffe78989be",
+    "wof:geomhash":"6c98eb133330cab6b2f3b6199f0142e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1193251903,
-    "wof:lastmodified":1566588652,
-    "wof:name":"Turung-ni",
+    "wof:lastmodified":1730271532,
+    "wof:name":"Turung",
     "wof:parent_id":890472345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.18903999999998,
+    128.18904,
     36.49222,
-    128.18903999999998,
+    128.18904,
     36.49222
 ],
-  "geometry": {"coordinates":[128.18903999999998,36.49222],"type":"Point"}
+  "geometry": {"coordinates":[128.18904000000001,36.49222],"type":"Point"}
 }

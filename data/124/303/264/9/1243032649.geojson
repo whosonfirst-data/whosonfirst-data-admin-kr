@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chigok"
+    ],
+    "name:eng_x_variant":[
+        "Chigok-tong"
+    ],
     "name:und_x_variant":[
         "Chigok-dong",
         "\uc9c0\uace1\ub3d9",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473177
+        890473177,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1901032
     },
     "wof:country":"KR",
-    "wof:geomhash":"2cf3d2b12ba3ef9687ce82a2df0f17b1",
+    "wof:geomhash":"ce4f94cc27b1a5268da2137bd967277e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243032649,
-    "wof:lastmodified":1566590074,
-    "wof:name":"Chigok-tong",
+    "wof:lastmodified":1730271542,
+    "wof:name":"Chigok",
     "wof:parent_id":890473177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     128.0531,
-    35.64724000000001,
+    35.64724,
     128.0531,
-    35.64724000000001
+    35.64724
 ],
-  "geometry": {"coordinates":[128.0531,35.64724000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.0531,35.64724],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hwanghak"
+    ],
+    "name:eng_x_variant":[
+        "Hwanghak-tong"
+    ],
     "name:und_x_variant":[
         "\ud669\ud559\ub3d9",
         "Hwanghak-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673185,
-        890475297
+        890475297,
+        85673185
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6800786
     },
     "wof:country":"KR",
-    "wof:geomhash":"1996cf3ac68c1d5a953655d8d6c6bff0",
+    "wof:geomhash":"778456f75b313e86c4e0bf002574d7ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293367787,
-    "wof:lastmodified":1566586887,
-    "wof:name":"Hwanghak-tong",
+    "wof:lastmodified":1730271520,
+    "wof:name":"Hwanghak",
     "wof:parent_id":890475297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.02053,
-    37.56854000000001,
+    37.56854,
     127.02053,
-    37.56854000000001
+    37.56854
 ],
-  "geometry": {"coordinates":[127.02052999999999,37.56854000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.02052999999999,37.56854],"type":"Point"}
 }

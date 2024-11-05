@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tongjong"
+    ],
+    "name:eng_x_variant":[
+        "Tongjong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890476213
+        890476213,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1834229
     },
     "wof:country":"KR",
-    "wof:geomhash":"87330aafb0f15e331cd985d5232179fb",
+    "wof:geomhash":"b4a729009c28d9c9b271c23c64c05f82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1277140799,
-    "wof:lastmodified":1566587689,
-    "wof:name":"Tongjong-ni",
+    "wof:lastmodified":1730271525,
+    "wof:name":"Tongjong",
     "wof:parent_id":890476213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.46193999999998,
+    126.46194,
     35.16472,
-    126.46193999999998,
+    126.46194,
     35.16472
 ],
-  "geometry": {"coordinates":[126.46193999999998,35.16472],"type":"Point"}
+  "geometry": {"coordinates":[126.46194,35.16472],"type":"Point"}
 }

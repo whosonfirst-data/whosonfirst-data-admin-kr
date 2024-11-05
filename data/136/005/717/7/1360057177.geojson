@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sudong"
+    ],
+    "name:eng_x_variant":[
+        "Sudong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc2dc\uc544\ub300\ubbf8"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890472259
+        890472259,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6394596
     },
     "wof:country":"KR",
-    "wof:geomhash":"197b94cb3e2331f64ae93bd25a75796d",
+    "wof:geomhash":"74e93175c44c7e7ecc3a245141dc75d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1360057177,
-    "wof:lastmodified":1566589453,
-    "wof:name":"Sudong-ni",
+    "wof:lastmodified":1730271538,
+    "wof:name":"Sudong",
     "wof:parent_id":890472259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     126.93389,
-    34.37139000000001,
+    34.37139,
     126.93389,
-    34.37139000000001
+    34.37139
 ],
-  "geometry": {"coordinates":[126.93389000000001,34.37139000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.93389000000001,34.37139],"type":"Point"}
 }

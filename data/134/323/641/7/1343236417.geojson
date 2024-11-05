@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Konam"
+    ],
+    "name:eng_x_variant":[
+        "Konam-ni"
+    ],
     "name:und_x_variant":[
         "\uac70\ub0a8\ub9ac",
         "K\u014fnam",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473621
+        890473621,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1894340
     },
     "wof:country":"KR",
-    "wof:geomhash":"facb646f847770339507cc7bada16d81",
+    "wof:geomhash":"62be0ae17fc2c85bdf36f5c22c6ab556",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1343236417,
-    "wof:lastmodified":1566586469,
-    "wof:name":"Konam-ni",
+    "wof:lastmodified":1730271517,
+    "wof:name":"Konam",
     "wof:parent_id":890473621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.39068999999998,
+    128.39069,
     35.60797,
-    128.39068999999998,
+    128.39069,
     35.60797
 ],
-  "geometry": {"coordinates":[128.39068999999998,35.60797],"type":"Point"}
+  "geometry": {"coordinates":[128.39069000000001,35.60797],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hyangmong"
+    ],
+    "name:eng_x_variant":[
+        "Hyangmong-ni"
+    ],
     "name:kor_x_preferred":[
         "\ud5a5\ubaa9\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890475465
+        890475465,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988430
     },
     "wof:country":"KR",
-    "wof:geomhash":"394bc8fd3df8b3e663227c96b855cdf9",
+    "wof:geomhash":"d48401ccabcf8fe8890a6d73eaceaef9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1226563851,
-    "wof:lastmodified":1566590754,
-    "wof:name":"Hyangmong-ni",
+    "wof:lastmodified":1730271548,
+    "wof:name":"Hyangmong",
     "wof:parent_id":890475465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.49083000000002,
+    128.49083,
     38.38139,
-    128.49083000000002,
+    128.49083,
     38.38139
 ],
-  "geometry": {"coordinates":[128.49083000000002,38.38139],"type":"Point"}
+  "geometry": {"coordinates":[128.49082999999999,38.38139],"type":"Point"}
 }

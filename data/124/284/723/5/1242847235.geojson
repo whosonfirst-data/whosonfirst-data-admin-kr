@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kongsan 1"
+    ],
+    "name:eng_x_variant":[
+        "Kongsan 1-tong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673213,
-        1108746445
+        1108746445,
+        85673213
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1893751
     },
     "wof:country":"KR",
-    "wof:geomhash":"a09e69896e46cbf4aa60ac293dbc16ed",
+    "wof:geomhash":"d77364ed3255e1db9828efed842d80c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1242847235,
-    "wof:lastmodified":1566590153,
-    "wof:name":"Kongsan 1-tong",
+    "wof:lastmodified":1730271543,
+    "wof:name":"Kongsan 1",
     "wof:parent_id":1108746445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.70861000000002,
+    128.70861,
     35.95472,
-    128.70861000000002,
+    128.70861,
     35.95472
 ],
-  "geometry": {"coordinates":[128.70861000000002,35.95472],"type":"Point"}
+  "geometry": {"coordinates":[128.70860999999999,35.95472],"type":"Point"}
 }

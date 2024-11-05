@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yoryang"
+    ],
+    "name:eng_x_variant":[
+        "Yoryang-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc5ec\ub7c9\ub9ac"
     ],
@@ -48,7 +54,7 @@
         "gn:id":1832139
     },
     "wof:country":"KR",
-    "wof:geomhash":"f29ae7360392b2dd46f0c5683a510d38",
+    "wof:geomhash":"c4c9eac88bd59e97b778e94f75782803",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1209436777,
-    "wof:lastmodified":1566588540,
-    "wof:name":"Yoryang-ni",
+    "wof:lastmodified":1730271531,
+    "wof:name":"Yoryang",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.72638999999998,
+    128.72639,
     37.47083,
-    128.72638999999998,
+    128.72639,
     37.47083
 ],
-  "geometry": {"coordinates":[128.72638999999998,37.47083],"type":"Point"}
+  "geometry": {"coordinates":[128.72639000000001,37.47083],"type":"Point"}
 }

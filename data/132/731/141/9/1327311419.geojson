@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sin'gilch'il"
+    ],
+    "name:eng_x_variant":[
+        "Sin'gilch'il-tong"
+    ],
     "name:und_x_variant":[
         "\uc2e0\uae387\ub3d9",
         "Sin\u2019gilch\u2019il-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673185,
-        890473231
+        890473231,
+        85673185
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6800075
     },
     "wof:country":"KR",
-    "wof:geomhash":"7f032b6c1e2f4448ed01d1c404f61530",
+    "wof:geomhash":"ff0099debe7803989a3b3b7498e8b55f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1327311419,
-    "wof:lastmodified":1566585637,
-    "wof:name":"Sin'gilch'il-tong",
+    "wof:lastmodified":1730271512,
+    "wof:name":"Sin'gilch'il",
     "wof:parent_id":890473231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.91946000000002,
+    126.91946,
     37.50751,
-    126.91946000000002,
+    126.91946,
     37.50751
 ],
-  "geometry": {"coordinates":[126.91946000000002,37.50751],"type":"Point"}
+  "geometry": {"coordinates":[126.91946,37.50751],"type":"Point"}
 }

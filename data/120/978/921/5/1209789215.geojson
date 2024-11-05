@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sanggumgok"
+    ],
+    "name:eng_x_variant":[
+        "Sanggumgok-tong"
+    ],
     "name:und_x_variant":[
         "Sang-k\u016dmgok-tong",
         "Sangg\u016dmgok-ch\u2019on",
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890475315
+        890475315,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1837773
     },
     "wof:country":"KR",
-    "wof:geomhash":"165f3515f1d7b4c1029dd7088a770c84",
+    "wof:geomhash":"7189c6360e22adad3126bc384d71fc30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1209789215,
-    "wof:lastmodified":1566588237,
-    "wof:name":"Sanggumgok-tong",
+    "wof:lastmodified":1730271529,
+    "wof:name":"Sanggumgok",
     "wof:parent_id":890475315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.41666999999998,
+    128.41667,
     36.68333,
-    128.41666999999998,
+    128.41667,
     36.68333
 ],
-  "geometry": {"coordinates":[128.41666999999998,36.68333],"type":"Point"}
+  "geometry": {"coordinates":[128.41667000000001,36.68333],"type":"Point"}
 }

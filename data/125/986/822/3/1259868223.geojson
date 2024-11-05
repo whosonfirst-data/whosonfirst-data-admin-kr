@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Pugok"
+    ],
+    "name:eng_x_variant":[
+        "Pugok-tong"
+    ],
     "name:und_x_variant":[
         "Pugok-dong",
         "Pugok-tong"
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673227,
-        890472097
+        890472097,
+        85673227
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1901135
     },
     "wof:country":"KR",
-    "wof:geomhash":"1967cc163cff29d80ef6f25ab4f18b63",
+    "wof:geomhash":"21b764438bd7330d62d71df2d2e9aa76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1259868223,
-    "wof:lastmodified":1566590592,
-    "wof:name":"Pugok-tong",
+    "wof:lastmodified":1730271547,
+    "wof:name":"Pugok",
     "wof:parent_id":890472097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     129.095,
-    35.24055999999999,
+    35.24056,
     129.095,
-    35.24055999999999
+    35.24056
 ],
-  "geometry": {"coordinates":[129.095,35.24055999999999],"type":"Point"}
+  "geometry": {"coordinates":[129.095,35.24056],"type":"Point"}
 }

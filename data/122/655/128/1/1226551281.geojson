@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yugang"
+    ],
+    "name:eng_x_variant":[
+        "Yugang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890473531
+        890473531,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1832115
     },
     "wof:country":"KR",
-    "wof:geomhash":"06b0eefcb8ffc30250e739b71d6fddee",
+    "wof:geomhash":"49c31e19caa1634e90d02086126dcddd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1226551281,
-    "wof:lastmodified":1566590934,
-    "wof:name":"Yugang-ni",
+    "wof:lastmodified":1730271549,
+    "wof:name":"Yugang",
     "wof:parent_id":890473531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     126.93639,
-    35.90389000000001,
+    35.90389,
     126.93639,
-    35.90389000000001
+    35.90389
 ],
-  "geometry": {"coordinates":[126.93639,35.90389000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.93639,35.90389],"type":"Point"}
 }

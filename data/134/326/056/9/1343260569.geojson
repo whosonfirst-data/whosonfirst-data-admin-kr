@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Namgong"
+    ],
+    "name:eng_x_variant":[
+        "Namgong-ni"
+    ],
     "name:und_x_variant":[
         "\ub0a8\uace1\ub9ac",
         "Namgong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673173,
-        890475545
+        890475545,
+        85673173
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6884726
     },
     "wof:country":"KR",
-    "wof:geomhash":"2585c00a798d11b926d293b69c800537",
+    "wof:geomhash":"423ef2f302a3985284ee9ad9d81fe2f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1343260569,
-    "wof:lastmodified":1566586763,
-    "wof:name":"Namgong-ni",
+    "wof:lastmodified":1730271519,
+    "wof:name":"Namgong",
     "wof:parent_id":890475545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.60963,
-    36.30974000000001,
+    36.30974,
     127.60963,
-    36.30974000000001
+    36.30974
 ],
-  "geometry": {"coordinates":[127.60963,36.30974000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.60963,36.30974],"type":"Point"}
 }

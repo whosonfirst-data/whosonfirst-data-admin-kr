@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ogong"
+    ],
+    "name:eng_x_variant":[
+        "Ogong-ni"
+    ],
     "name:und_x_variant":[
         "\uc624\uace1\ub9ac",
         "Ogong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890473175
+        890473175,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6901490
     },
     "wof:country":"KR",
-    "wof:geomhash":"a41607f0d09bad2434ab2d317f1bb8c8",
+    "wof:geomhash":"ac664364cc6103e20974f9e366c0dd66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1226512873,
-    "wof:lastmodified":1566590743,
-    "wof:name":"Ogong-ni",
+    "wof:lastmodified":1730271548,
+    "wof:name":"Ogong",
     "wof:parent_id":890473175,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.39806000000002,
+    128.39806,
     35.72762,
-    128.39806000000002,
+    128.39806,
     35.72762
 ],
-  "geometry": {"coordinates":[128.39806000000002,35.72762],"type":"Point"}
+  "geometry": {"coordinates":[128.39805999999999,35.72762],"type":"Point"}
 }

@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sagimang"
+    ],
+    "name:eng_x_variant":[
+        "Sagimang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890476169
+        890476169,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1838159
     },
     "wof:country":"KR",
-    "wof:geomhash":"88e7b516f37e7467a60b1da371c28a7a",
+    "wof:geomhash":"eea4caee6343c746ec2e2bea58d1a3fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1292900861,
-    "wof:lastmodified":1566587253,
-    "wof:name":"Sagimang-ni",
+    "wof:lastmodified":1730271522,
+    "wof:name":"Sagimang",
     "wof:parent_id":890476169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     128.80694,
-    37.79389000000001,
+    37.79389,
     128.80694,
-    37.79389000000001
+    37.79389
 ],
-  "geometry": {"coordinates":[128.80694,37.79389000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.80694,37.79389],"type":"Point"}
 }

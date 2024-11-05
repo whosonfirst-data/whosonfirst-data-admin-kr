@@ -20,10 +20,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Suwon-si"
+        "Suw\u014fn"
     ],
     "name:eng_x_variant":[
-        "Suwon"
+        "Suwon",
+        "Suw\u014fn-si",
+        "Suwon-si"
     ],
     "name:kor_x_preferred":[
         "\uc218\uc6d0\uc2dc"
@@ -40,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673191,
-        890474637
+        890474637,
+        85673191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +63,8 @@
         }
     ],
     "wof:id":890472311,
-    "wof:lastmodified":1566589731,
-    "wof:name":"Suw\u014fn-si",
+    "wof:lastmodified":1730094973,
+    "wof:name":"Suw\u014fn",
     "wof:parent_id":890474637,
     "wof:placetype":"localadmin",
     "wof:population":0,

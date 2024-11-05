@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ch'angdong"
+    ],
+    "name:eng_x_variant":[
+        "Ch'angdong-ni"
+    ],
     "name:und_x_variant":[
         "Ch\u2019angdong-ni",
         "\ucc3d\ub3d9\ub9ac"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673203,
-        890472595
+        890472595,
+        85673203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1846635
     },
     "wof:country":"KR",
-    "wof:geomhash":"92af8afde1c3c523b210c7433754d991",
+    "wof:geomhash":"d4a53f4a43f0efacd80916b813d55c48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1226306371,
-    "wof:lastmodified":1566590962,
-    "wof:name":"Ch'angdong-ni",
+    "wof:lastmodified":1730271550,
+    "wof:name":"Ch'angdong",
     "wof:parent_id":890472595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     126.6107,
-    36.31800000000001,
+    36.318,
     126.6107,
-    36.31800000000001
+    36.318
 ],
-  "geometry": {"coordinates":[126.61069999999999,36.31800000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.61069999999999,36.318],"type":"Point"}
 }

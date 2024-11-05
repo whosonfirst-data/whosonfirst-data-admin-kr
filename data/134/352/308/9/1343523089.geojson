@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kup'yong"
+    ],
+    "name:eng_x_variant":[
+        "Kup'yong-ni"
+    ],
     "name:und_x_variant":[
         "Kup\u2019y\u014fng",
         "Kup\u2019y\u014fng-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473489
+        890473489,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1902025
     },
     "wof:country":"KR",
-    "wof:geomhash":"93b9da4d3c52cd4973f4da8ce76df8f1",
+    "wof:geomhash":"78f61b959026322c11a80ad4ba83a063",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1343523089,
-    "wof:lastmodified":1566586264,
-    "wof:name":"Kup'yong-ni",
+    "wof:lastmodified":1730271516,
+    "wof:name":"Kup'yong",
     "wof:parent_id":890473489,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.97556000000002,
+    127.97556,
     35.00694,
-    127.97556000000002,
+    127.97556,
     35.00694
 ],
-  "geometry": {"coordinates":[127.97556000000002,35.00694],"type":"Point"}
+  "geometry": {"coordinates":[127.97556,35.00694],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sonam"
+    ],
+    "name:eng_x_variant":[
+        "Sonam-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632231
@@ -38,7 +44,7 @@
         "gn:id":1894384
     },
     "wof:country":"KR",
-    "wof:geomhash":"8fe93637d6448d10e5b3902fa728e1ae",
+    "wof:geomhash":"89689a8578d38f458fe5068be22caa5a",
     "wof:hierarchy":[
         {
             "country_id":85632231,
@@ -46,8 +52,8 @@
         }
     ],
     "wof:id":1209067933,
-    "wof:lastmodified":1566588087,
-    "wof:name":"Sonam-ni",
+    "wof:lastmodified":1730271528,
+    "wof:name":"Sonam",
     "wof:parent_id":85632231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -57,9 +63,9 @@
 },
   "bbox": [
     127.95111,
-    35.25194000000001,
+    35.25194,
     127.95111,
-    35.25194000000001
+    35.25194
 ],
-  "geometry": {"coordinates":[127.95111,35.25194000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.95111,35.25194],"type":"Point"}
 }

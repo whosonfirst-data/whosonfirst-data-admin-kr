@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hwanggang"
+    ],
+    "name:eng_x_variant":[
+        "Hwanggang-ni"
+    ],
     "name:kor_x_preferred":[
         "\ud669\uac15\ub9ac"
     ],
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673181,
-        890474685
+        890474685,
+        85673181
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6365000
     },
     "wof:country":"KR",
-    "wof:geomhash":"6b4ddbfd824a7f9a699667de3fa7d5df",
+    "wof:geomhash":"80c95c27a6fe22fb1390ebadf40940d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1343553467,
-    "wof:lastmodified":1566586276,
-    "wof:name":"Hwanggang-ni",
+    "wof:lastmodified":1730271516,
+    "wof:name":"Hwanggang",
     "wof:parent_id":890474685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.01693999999998,
+    128.01694,
     38.09139,
-    128.01693999999998,
+    128.01694,
     38.09139
 ],
-  "geometry": {"coordinates":[128.01693999999998,38.09139],"type":"Point"}
+  "geometry": {"coordinates":[128.01694000000001,38.09139],"type":"Point"}
 }

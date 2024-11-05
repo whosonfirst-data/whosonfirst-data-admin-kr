@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Changp'yong"
+    ],
+    "name:eng_x_variant":[
+        "Changp'yong-ni"
+    ],
     "name:und_x_variant":[
         "\uc7a5\ud3c9\ub9ac",
         "Changp\u2019y\u014fng-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890474645
+        890474645,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6876378
     },
     "wof:country":"KR",
-    "wof:geomhash":"7881d9da1f37f9b422b21ecd43005e1b",
+    "wof:geomhash":"8efc454d69ed37eeb4b24fdc9fbaa814",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1327242973,
-    "wof:lastmodified":1566585874,
-    "wof:name":"Changp'yong-ni",
+    "wof:lastmodified":1730271513,
+    "wof:name":"Changp'yong",
     "wof:parent_id":890474645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.26931,
-    35.71057000000001,
+    35.71057,
     127.26931,
-    35.71057000000001
+    35.71057
 ],
-  "geometry": {"coordinates":[127.26931,35.71057000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.26931,35.71057],"type":"Point"}
 }

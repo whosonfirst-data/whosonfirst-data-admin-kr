@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Unhaeng"
+    ],
+    "name:eng_x_variant":[
+        "Unhaeng-ni"
+    ],
     "name:und_x_variant":[
         "\u016cnhaeng-ri",
         "\u016cnhaeng-ni"
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673173,
-        890473385
+        890473385,
+        85673173
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1882212
     },
     "wof:country":"KR",
-    "wof:geomhash":"ff257341b3973e4d09486c28fe73b2d4",
+    "wof:geomhash":"ef3fdfeeab549e35a17aacfb9d8681ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1292999407,
-    "wof:lastmodified":1566587279,
-    "wof:name":"Unhaeng-ni",
+    "wof:lastmodified":1730271522,
+    "wof:name":"Unhaeng",
     "wof:parent_id":890473385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     127.55806,
-    36.57167000000001,
+    36.57167,
     127.55806,
-    36.57167000000001
+    36.57167
 ],
-  "geometry": {"coordinates":[127.55806,36.57167000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.55806,36.57167],"type":"Point"}
 }

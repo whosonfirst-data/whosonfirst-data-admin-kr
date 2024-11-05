@@ -29,12 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chuktong"
+    ],
+    "name:eng_x_variant":[
+        "Chuktong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890472323
+        890472323,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1226414273,
-    "wof:lastmodified":1566590922,
-    "wof:name":"Chuktong-ni",
+    "wof:lastmodified":1730271549,
+    "wof:name":"Chuktong",
     "wof:parent_id":890472323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",

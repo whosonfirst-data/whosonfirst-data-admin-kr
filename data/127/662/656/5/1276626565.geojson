@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Samgang"
+    ],
+    "name:eng_x_variant":[
+        "Samgang-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc0bc\uac15\ub9ac"
     ],
@@ -40,15 +46,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673219,
-        890473661
+        890473661,
+        85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1838038
     },
     "wof:country":"KR",
-    "wof:geomhash":"0dfe17da7136ab7190c91d9b8822aa99",
+    "wof:geomhash":"97396df12b03cf27c7227e589b4f0714",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1276626565,
-    "wof:lastmodified":1566587923,
-    "wof:name":"Samgang-ni",
+    "wof:lastmodified":1730271527,
+    "wof:name":"Samgang",
     "wof:parent_id":890473661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -70,9 +76,9 @@
 },
   "bbox": [
     126.83944,
-    34.57944000000001,
+    34.57944,
     126.83944,
-    34.57944000000001
+    34.57944
 ],
-  "geometry": {"coordinates":[126.83944,34.57944000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.83944,34.57944],"type":"Point"}
 }

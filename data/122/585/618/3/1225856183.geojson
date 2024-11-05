@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sasong"
+    ],
+    "name:eng_x_variant":[
+        "Sasong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890475797
+        890475797,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1885613
     },
     "wof:country":"KR",
-    "wof:geomhash":"be8ede8ef681b1418b3b77e2b8f08276",
+    "wof:geomhash":"59c993c807c6823d8e63211d44f6ce80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1225856183,
-    "wof:lastmodified":1566591037,
-    "wof:name":"Sasong-ni",
+    "wof:lastmodified":1730271550,
+    "wof:name":"Sasong",
     "wof:parent_id":890475797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.23111000000002,
+    127.23111,
     35.34917,
-    127.23111000000002,
+    127.23111,
     35.34917
 ],
-  "geometry": {"coordinates":[127.23111000000002,35.34917],"type":"Point"}
+  "geometry": {"coordinates":[127.23111,35.34917],"type":"Point"}
 }

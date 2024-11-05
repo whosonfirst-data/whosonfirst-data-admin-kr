@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wolmak"
+    ],
+    "name:eng_x_variant":[
+        "Wolmak-tong"
+    ],
     "name:und_x_variant":[
         "\uc6d4\ub9c9\ub3d9",
         "W\u014flmak",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890473175
+        890473175,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1833323
     },
     "wof:country":"KR",
-    "wof:geomhash":"199ade7a1f113ab26d6a5cf3a4d5f972",
+    "wof:geomhash":"1fff77344123590310f7b1acf745dbcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1327013183,
-    "wof:lastmodified":1566585588,
-    "wof:name":"Wolmak-tong",
+    "wof:lastmodified":1730271511,
+    "wof:name":"Wolmak",
     "wof:parent_id":890473175,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     128.23487,
-    35.70757000000001,
+    35.70757,
     128.23487,
-    35.70757000000001
+    35.70757
 ],
-  "geometry": {"coordinates":[128.23487,35.70757000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.23487,35.70757],"type":"Point"}
 }

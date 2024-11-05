@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Waryong"
+    ],
+    "name:eng_x_variant":[
+        "Waryong-ni"
+    ],
     "name:und_x_variant":[
         "\uc640\ub8e1\ub9ac",
         "Waryong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673195,
-        890474683
+        890474683,
+        85673195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6887862
     },
     "wof:country":"KR",
-    "wof:geomhash":"3ac2c6ce20d87697e086733b78658565",
+    "wof:geomhash":"831972db3fc022ccacd46f69d54ae6e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1226249611,
-    "wof:lastmodified":1566590896,
-    "wof:name":"Waryong-ni",
+    "wof:lastmodified":1730271549,
+    "wof:name":"Waryong",
     "wof:parent_id":890474683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.21569,
-    36.01495999999999,
+    36.01496,
     127.21569,
-    36.01495999999999
+    36.01496
 ],
-  "geometry": {"coordinates":[127.21569,36.01495999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.21569,36.01496],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hyangyang"
+    ],
+    "name:eng_x_variant":[
+        "Hyangyang-ni"
+    ],
     "name:und_x_variant":[
         "\ud5a5\uc591\ub9ac",
         "Hyangyang",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890472439
+        890472439,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1843802
     },
     "wof:country":"KR",
-    "wof:geomhash":"ffc8399be2c188610df63bbc00b0d771",
+    "wof:geomhash":"5951feae05107cac95e8849b275b1078",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1276189567,
-    "wof:lastmodified":1566587587,
-    "wof:name":"Hyangyang-ni",
+    "wof:lastmodified":1730271524,
+    "wof:name":"Hyangyang",
     "wof:parent_id":890472439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     127.85104,
-    35.54235999999999,
+    35.54236,
     127.85104,
-    35.54235999999999
+    35.54236
 ],
-  "geometry": {"coordinates":[127.85104,35.54235999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.85104,35.54236],"type":"Point"}
 }

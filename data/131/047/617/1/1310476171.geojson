@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Taesong"
+    ],
+    "name:eng_x_variant":[
+        "Taesong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890475073
+        890475073,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1835064
     },
     "wof:country":"KR",
-    "wof:geomhash":"4c7dabbd5c3691b50e9a4ca6503ba8b0",
+    "wof:geomhash":"26c1c7a4329f1d3be9ad03c6150bd3be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1310476171,
-    "wof:lastmodified":1566589023,
-    "wof:name":"Taesong-ni",
+    "wof:lastmodified":1730271535,
+    "wof:name":"Taesong",
     "wof:parent_id":890475073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     127.65083,
-    35.28805999999999,
+    35.28806,
     127.65083,
-    35.28805999999999
+    35.28806
 ],
-  "geometry": {"coordinates":[127.65083,35.28805999999999],"type":"Point"}
+  "geometry": {"coordinates":[127.65083,35.28806],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Simgong"
+    ],
+    "name:eng_x_variant":[
+        "Simgong-ni"
+    ],
     "name:und_x_variant":[
         "Kip\u2019isil"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673215,
-        890473621
+        890473621,
+        85673215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1842930
     },
     "wof:country":"KR",
-    "wof:geomhash":"5e96fe50a0d6baf39456a01fdcccbd9c",
+    "wof:geomhash":"a5a66fbbb1256d7bda450031d889e9f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1242742523,
-    "wof:lastmodified":1566589883,
-    "wof:name":"Simgong-ni",
+    "wof:lastmodified":1730271540,
+    "wof:name":"Simgong",
     "wof:parent_id":890473621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     128.56917,
-    35.43944000000001,
+    35.43944,
     128.56917,
-    35.43944000000001
+    35.43944
 ],
-  "geometry": {"coordinates":[128.56917000000001,35.43944000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.56917000000001,35.43944],"type":"Point"}
 }

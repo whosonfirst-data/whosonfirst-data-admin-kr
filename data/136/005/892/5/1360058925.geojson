@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kumam"
+    ],
+    "name:eng_x_variant":[
+        "Kumam-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632231,
-        85673233,
-        890475279
+        890475279,
+        85673233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1893710
     },
     "wof:country":"KR",
-    "wof:geomhash":"2720c3de291d17004670a03e83dd43f1",
+    "wof:geomhash":"e97097b566a1233b19d52d485554fc3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1360058925,
-    "wof:lastmodified":1566589446,
-    "wof:name":"Kumam-ni",
+    "wof:lastmodified":1730271538,
+    "wof:name":"Kumam",
     "wof:parent_id":890475279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.55611000000002,
+    128.55611,
     35.98583,
-    128.55611000000002,
+    128.55611,
     35.98583
 ],
-  "geometry": {"coordinates":[128.55611000000002,35.98583],"type":"Point"}
+  "geometry": {"coordinates":[128.55610999999999,35.98583],"type":"Point"}
 }

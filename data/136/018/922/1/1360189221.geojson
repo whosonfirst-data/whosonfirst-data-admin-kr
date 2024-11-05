@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chakchom"
+    ],
+    "name:eng_x_variant":[
+        "Chakchom-ni"
+    ],
     "name:und_x_variant":[
         "\uc791\uc810\ub9ac",
         "Chakch\u014fm-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632231,
-        85673173,
-        890473559
+        890473559,
+        85673173
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6891962
     },
     "wof:country":"KR",
-    "wof:geomhash":"29bc2f75d1ba340a434763e5a3946054",
+    "wof:geomhash":"3caf17dcfc594114f346325b9c79b119",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1360189221,
-    "wof:lastmodified":1566589404,
-    "wof:name":"Chakchom-ni",
+    "wof:lastmodified":1730271537,
+    "wof:name":"Chakchom",
     "wof:parent_id":890473559,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kr",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     128.0449,
-    36.20959000000001,
+    36.20959,
     128.0449,
-    36.20959000000001
+    36.20959
 ],
-  "geometry": {"coordinates":[128.04490000000001,36.20959000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.04490000000001,36.20959],"type":"Point"}
 }
